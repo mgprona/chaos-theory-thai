@@ -16,7 +16,7 @@
         "de": "MODUS",
         "es": "MODO",
         "it": "MODALITÀ",
-        "th": ""
+        "th": "โหมด"
       },
       "SessionName": {
         "en": "MATCH NAME",
@@ -24,7 +24,7 @@
         "de": "SPIELNAME",
         "es": "NOMBRE PARTIDA",
         "it": "NOME PARTITA",
-        "th": ""
+        "th": "ชื่อห้องแข่งขัน"
       },
       "SessionMaxPlayers": {
         "en": "MAXIMUM PLAYERS",
@@ -32,7 +32,7 @@
         "de": "MAXIMALE SPIELERZAHL",
         "es": "MÁX. JUGADORES",
         "it": "MAX GIOCATORI",
-        "th": ""
+        "th": "จำนวนผู้เล่นสูงสุด"
       },
       "SessionPrivate": {
         "en": "FRIENDS ONLY",
@@ -40,7 +40,7 @@
         "de": "NUR FREUNDE",
         "es": "SÓLO AMIGOS",
         "it": "SOLO AMICI",
-        "th": ""
+        "th": "เฉพาะเพื่อนเท่านั้น"
       },
       "SessionLanguage": {
         "en": "LANGUAGE",
@@ -48,7 +48,7 @@
         "de": "SPRACHE",
         "es": "IDIOMA",
         "it": "LINGUA",
-        "th": ""
+        "th": "ภาษา"
       },
       "SessionDifficulty": {
         "en": "DIFFICULTY",
@@ -56,7 +56,7 @@
         "de": "SCHWIERIGKEIT",
         "es": "DIFICULTAD",
         "it": "DIFFICOLTÀ",
-        "th": ""
+        "th": "ระดับความยาก"
       },
       "SessionMission": {
         "en": "MISSION",
@@ -64,7 +64,7 @@
         "de": "MISSION",
         "es": "MISIÓN",
         "it": "MISSIONE",
-        "th": ""
+        "th": "ภารกิจ"
       },
       "SessionVoice": {
         "en": "VOICE ONLY",
@@ -72,7 +72,7 @@
         "de": "NUR SPRACHAUSGABE",
         "es": "SÓLO VOZ",
         "it": "SOLO VOCE",
-        "th": ""
+        "th": "เฉพาะเสียงพูด"
       },
       "SessionSKills": {
         "en": "SKILLS RANGE",
@@ -80,7 +80,7 @@
         "de": "ERFAHRUNGSBEREICH",
         "es": "RANGO HABILIDAD",
         "it": "DIFFERENZA DI ABILITÀ",
-        "th": ""
+        "th": "ระดับฝีมือ"
       },
       "SessionPing": {
         "en": "SPEED",
@@ -88,7 +88,7 @@
         "de": "GESCHWINDIGK",
         "es": "VELOCIDAD",
         "it": "VELOCITÀ",
-        "th": ""
+        "th": "ความเร็ว"
       },
       "SessionFriendlyFire": {
         "en": "FRIENDLY FIRE",
@@ -96,7 +96,7 @@
         "de": "EIGENES FEUER",
         "es": "FUEGO AMIGO",
         "it": "FUOCO AMICO",
-        "th": ""
+        "th": "ยิงพวกเดียวกันเอง"
       },
       "ControllerInvertLook": {
         "en": "INVERT LOOK UP/DOWN",
@@ -104,7 +104,7 @@
         "de": "SICHT HOCH/RUNTER UMKEHREN",
         "es": "INVERTIR MIRAR ARRIBA/ABAJO",
         "it": "INVERTI TELECAMERA SU/GIÙ",
-        "th": ""
+        "th": "กลับทิศทางการมอง ขึ้น/ลง"
       },
       "ControllerInvertLookSide": {
         "en": "INVERT LOOK LEFT/RIGHT",
@@ -112,7 +112,7 @@
         "de": "SICHT LINKS/RECHTS UMKEHREN",
         "es": "INVERTIR MIRAR IZQUIERDA/DERECHA",
         "it": "INVERTI TELECAMERA SINISTRA/DESTRA",
-        "th": ""
+        "th": "กลับทิศทางการมอง ซ้าย/ขวา"
       },
       "ControllerVibration": {
         "en": "VIBRATION",
@@ -120,7 +120,7 @@
         "de": "VIBRATION",
         "es": "VIBRACIÓN",
         "it": "VIBRAZIONE",
-        "th": ""
+        "th": "การสั่นของจอย"
       },
       "ControllerAimingSensitivity": {
         "en": "AIMING SENSITIVITY",
@@ -128,7 +128,7 @@
         "de": "ZIELEN-EMPFINDLICHKEIT ",
         "es": "SENSIBILIDAD MIRA",
         "it": "SENSIBILITÀ MIRA",
-        "th": ""
+        "th": "ความไวในการเล็ง"
       },
       "Brightness": {
         "en": "BRIGHTNESS",
@@ -136,7 +136,7 @@
         "de": "HELLIGKEIT",
         "es": "BRILLO",
         "it": "LUMINOSITÀ",
-        "th": ""
+        "th": "ความสว่าง"
       },
       "Contrast": {
         "en": "CONTRAST",
@@ -144,7 +144,7 @@
         "de": "KONTRAST",
         "es": "CONTRASTE",
         "it": "CONTRASTO",
-        "th": ""
+        "th": "ความคมชัด"
       },
       "VoiceMasking": {
         "en": "VOICE MASKING",
@@ -152,7 +152,7 @@
         "de": "SPRACHAUSGABE VERZERRT",
         "es": "DISTORSIÓN DE SONIDO",
         "it": "MASCHERAMENTO VOCE",
-        "th": ""
+        "th": "การแปลงเสียง"
       },
       "VoiceThroughSpeakers": {
         "en": "VOICE THROUGH SPEAKERS",
@@ -160,7 +160,7 @@
         "de": "SPRACHAUSGABE DURCH LAUTSPRECHER",
         "es": "VOZ POR LOS ALTAVOCES",
         "it": "VOCE DALLE CASSE",
-        "th": ""
+        "th": "เสียงพูดออกลำโพง"
       },
       "VoiceDetection": {
         "en": "VOICE DETECTION",
@@ -168,7 +168,7 @@
         "de": "SPRACHERKENNUNG",
         "es": "DETECCIÓN DE VOZ",
         "it": "RILEVAMENTO VOCE",
-        "th": ""
+        "th": "การตรวจจับเสียง"
       },
       "VoiceSensitivity": {
         "en": "VOICE DETECTION SENSITIVITY",
@@ -176,7 +176,7 @@
         "de": "SENSITIVITÄT SPRACHERKENNUNG",
         "es": "SENSIBILIDAD DETECCIÓN VOZ",
         "it": "SENSIBILITÀ RILEVAMENTO VOCE",
-        "th": ""
+        "th": "ความไวในการตรวจจับเสียง"
       },
       "MusicVolume": {
         "en": "MUSIC VOLUME",
@@ -184,7 +184,7 @@
         "de": "MUSIKLAUTSTÄRKE",
         "es": "VOLUMEN MÚSICA",
         "it": "VOLUME MUSICA",
-        "th": ""
+        "th": "ระดับเสียงดนตรี"
       },
       "AmbientVolume": {
         "en": "AMBIENT / INTERFACE VOLUME",
@@ -192,7 +192,7 @@
         "de": "HINTERGRUND-LAUTSTÄRKE",
         "es": "VOLUMEN AMBIENTE / INTERFAZ",
         "it": "VOLUME AMBIENTE",
-        "th": ""
+        "th": "ระดับเสียงบรรยากาศ / อินเทอร์เฟซ"
       },
       "SoundEffectsVolume": {
         "en": "SOUND EFFECTS / VOICE VOLUME ",
@@ -200,7 +200,7 @@
         "de": "EFFEKTLAUTSTÄRKE ",
         "es": "EFECTOS SONIDO / VOLUMEN VOZ ",
         "it": "VOLUME EFFETTI ",
-        "th": ""
+        "th": "ระดับเสียงเอฟเฟกต์ / เสียงพูด"
       },
       "VoiceVolume": {
         "en": "VOICE VOLUME",
@@ -208,7 +208,7 @@
         "de": "SPRACHLAUTSTÄRKE",
         "es": "VOLUMEN DE VOZ",
         "it": "VOLUME VOCE",
-        "th": ""
+        "th": "ระดับเสียงพูด"
       },
       "ShowCommunications": {
         "en": "SHOW COMMUNICATIONS BOX",
@@ -216,7 +216,7 @@
         "de": "KOMMUNIKATIONSFELD EIN",
         "es": "VER VENTANA COMUNICACIONES",
         "it": "MOSTRA FINESTRA COMUNICAZIONI",
-        "th": ""
+        "th": "แสดงกล่องการสื่อสาร"
       },
       "AppearOffline": {
         "en": "APPEAR OFFLINE",
@@ -224,7 +224,7 @@
         "de": "OFFLINE ERSCHEINEN",
         "es": "APARECE DESCONECTADO",
         "it": "RISULTA OFFLINE",
-        "th": ""
+        "th": "แสดงสถานะออฟไลน์"
       },
       "QuickMatchVoice": {
         "en": "QUICK MATCH VOICE ONLY",
@@ -232,7 +232,7 @@
         "de": "SCHNELL INS SPIEL - NUR SPRACHAUSGABE",
         "es": "PARTIDA RÁPIDA VOZ",
         "it": "VOCE SOLO IN PARTITA RAPIDA",
-        "th": ""
+        "th": "ค้นหาด่วนเฉพาะห้องที่มีเสียง"
       },
       "QuickMatchMode": {
         "en": "QUICK MATCH MODE",
@@ -240,7 +240,7 @@
         "de": "SCHNELL INS SPIEL",
         "es": "MODO PARTIDA RÁPIDA",
         "it": "MODALITÀ PARTITA RAPIDA",
-        "th": ""
+        "th": "โหมดค้นหาด่วน"
       }
     },
     "OPTIONSVALUE": {
@@ -251,7 +251,7 @@
         "de": "UNBEKANNT",
         "es": "DESCONOCIDO",
         "it": "SCONOSCIUTO",
-        "th": ""
+        "th": "ไม่ระบุ"
       },
       "OptionYes": {
         "en": "YES",
@@ -259,7 +259,7 @@
         "de": "JA",
         "es": "SÍ",
         "it": "SÌ",
-        "th": ""
+        "th": "ใช่"
       },
       "OptionNo": {
         "en": "NO",
@@ -267,7 +267,7 @@
         "de": "NEIN",
         "es": "NO",
         "it": "NO",
-        "th": ""
+        "th": "ไม่"
       },
       "OptionAll": {
         "en": "ALL",
@@ -275,7 +275,7 @@
         "de": "ALLE",
         "es": "TODO",
         "it": "TUTTI",
-        "th": ""
+        "th": "ทั้งหมด"
       },
       "Language[0]": {
         "en": "UNKNOWN",
@@ -283,7 +283,7 @@
         "de": "UNBEKANNT",
         "es": "DESCONOCIDO",
         "it": "SCONOSCIUTA",
-        "th": ""
+        "th": "ไม่ระบุ"
       },
       "Language[1]": {
         "en": "ENGLISH",
@@ -291,7 +291,7 @@
         "de": "ENGLISCH",
         "es": "INGLÉS",
         "it": "INGLESE",
-        "th": ""
+        "th": "อังกฤษ"
       },
       "Language[2]": {
         "en": "JAPANESE",
@@ -299,7 +299,7 @@
         "de": "JAPANISCH",
         "es": "JAPONÉS",
         "it": "GIAPPONESE",
-        "th": ""
+        "th": "ญี่ปุ่น"
       },
       "Language[3]": {
         "en": "GERMAN",
@@ -307,7 +307,7 @@
         "de": "DEUTSCH",
         "es": "ALEMÁN",
         "it": "TEDESCO",
-        "th": ""
+        "th": "เยอรมัน"
       },
       "Language[4]": {
         "en": "FRENCH",
@@ -315,7 +315,7 @@
         "de": "FRANZÖSISCH",
         "es": "FRANCÉS",
         "it": "FRANCESE",
-        "th": ""
+        "th": "ฝรั่งเศส"
       },
       "Language[5]": {
         "en": "SPANISH",
@@ -323,7 +323,7 @@
         "de": "SPANISCH",
         "es": "ESPAÑOL",
         "it": "SPAGNOLO",
-        "th": ""
+        "th": "สเปน"
       },
       "Language[6]": {
         "en": "ITALIAN",
@@ -331,7 +331,7 @@
         "de": "ITALIENISCH",
         "es": "ITALIANO",
         "it": "ITALIANO",
-        "th": ""
+        "th": "อิตาลี"
       },
       "Language[7]": {
         "en": "KOREAN",
@@ -339,7 +339,7 @@
         "de": "KOREANISCH",
         "es": "COREANO",
         "it": "COREANO",
-        "th": ""
+        "th": "เกาหลี"
       },
       "Language[8]": {
         "en": "CHINESE",
@@ -347,7 +347,7 @@
         "de": "CHINESISCH",
         "es": "CHINO",
         "it": "CINESE",
-        "th": ""
+        "th": "จีน"
       },
       "Language[9]": {
         "en": "PORTUGUESE",
@@ -355,7 +355,7 @@
         "de": "PORTUGIESISCH",
         "es": "PORTUGUÉS",
         "it": "PORTOGHESE",
-        "th": ""
+        "th": "โปรตุเกส"
       },
       "Difficulty[1]": {
         "en": "NORMAL",
@@ -363,7 +363,7 @@
         "de": "NORMAL",
         "es": "NORMAL",
         "it": "NORMALE",
-        "th": ""
+        "th": "ปกติ"
       },
       "Difficulty[2]": {
         "en": "HARD",
@@ -371,7 +371,7 @@
         "de": "SCHWER",
         "es": "DIFÍCIL",
         "it": "DIFFICILE",
-        "th": ""
+        "th": "ยาก"
       },
       "Difficulty[3]": {
         "en": "EXPERT",
@@ -379,7 +379,7 @@
         "de": "EXPERTE",
         "es": "EXPERTO",
         "it": "ESPERTO",
-        "th": ""
+        "th": "ผู้เชี่ยวชาญ"
       },
       "Skills[1]": {
         "en": "500-",
@@ -387,7 +387,7 @@
         "de": "500-",
         "es": "500-",
         "it": "500 O MENO",
-        "th": ""
+        "th": "ต่ำกว่า 500"
       },
       "Skills[2]": {
         "en": "500-700",
@@ -395,7 +395,7 @@
         "de": "500-700",
         "es": "500-700",
         "it": "500-700",
-        "th": ""
+        "th": "500-700"
       },
       "Skills[3]": {
         "en": "700-1000",
@@ -403,7 +403,7 @@
         "de": "700-1000",
         "es": "700-1000",
         "it": "700-1000",
-        "th": ""
+        "th": "700-1000"
       },
       "Skills[4]": {
         "en": "1000-1500",
@@ -411,7 +411,7 @@
         "de": "1000-1500",
         "es": "1000-1500",
         "it": "1000-1500",
-        "th": ""
+        "th": "1000-1500"
       },
       "Skills[5]": {
         "en": "1500-2000",
@@ -419,7 +419,7 @@
         "de": "1500-2000",
         "es": "1500-2000",
         "it": "1500-2000",
-        "th": ""
+        "th": "1500-2000"
       },
       "Skills[6]": {
         "en": "2000+",
@@ -427,7 +427,7 @@
         "de": "2000+",
         "es": "2000+",
         "it": "2000 O PIÙ",
-        "th": ""
+        "th": "2000 ขึ้นไป"
       },
       "Mode[1]": {
         "en": "STORY",
@@ -435,7 +435,7 @@
         "de": "STORY",
         "es": "HISTORIA",
         "it": "STORIA",
-        "th": ""
+        "th": "เนื้อเรื่อง"
       },
       "Mode[2]": {
         "en": "MISSION",
@@ -443,7 +443,7 @@
         "de": "MISSION",
         "es": "MISIÓN",
         "it": "MISSIONE",
-        "th": ""
+        "th": "ภารกิจ"
       },
       "Mode[3]": {
         "en": "ELITE",
@@ -451,7 +451,7 @@
         "de": "ELITE",
         "es": "ÉLITE",
         "it": "ELITE",
-        "th": ""
+        "th": "อีลีท"
       }
     },
     "COMMON": {
@@ -462,7 +462,7 @@
         "de": "SOLO-MODUS",
         "es": "INDIVIDUAL",
         "it": "SOLITARIA",
-        "th": ""
+        "th": "เล่นคนเดียว"
       },
       "MainTitleCoop": {
         "en": "COOP",
@@ -470,7 +470,7 @@
         "de": "KOOP",
         "es": "COOP.",
         "it": "COOP.",
-        "th": ""
+        "th": "ร่วมมือกัน"
       },
       "MainTitleCooperative": {
         "en": "COOP",
@@ -478,7 +478,7 @@
         "de": "KOOP",
         "es": "COOP.",
         "it": "COOP.",
-        "th": ""
+        "th": "ร่วมมือกัน"
       },
       "MainTitleAdversarial": {
         "en": "VERSUS",
@@ -486,7 +486,7 @@
         "de": "GEGEN",
         "es": "ENFRENTAMIENTO",
         "it": "COMPETITIVA",
-        "th": ""
+        "th": "ประจันหน้า"
       },
       "MainTitleOnline": {
         "en": "XBOX LIVE",
@@ -494,7 +494,7 @@
         "de": "XBOX LIVE",
         "es": "XBOX LIVE",
         "it": "XBOX LIVE",
-        "th": ""
+        "th": "ออนไลน์"
       },
       "MainTitleLan": {
         "en": "SYSTEM LINK",
@@ -502,7 +502,7 @@
         "de": "SYSTEM LINK",
         "es": "INTERCONEX..",
         "it": "SYSTEM LINK",
-        "th": ""
+        "th": "แลน (LAN)"
       },
       "MainTitleSplitscreen": {
         "en": "SPLIT SCREEN",
@@ -510,7 +510,7 @@
         "de": "SPLIT SCREEN",
         "es": "PANTALLA DIV.",
         "it": "SPLIT SCREEN",
-        "th": ""
+        "th": "แบ่งหน้าจอ"
       },
       "Continue": {
         "en": "CONTINUE",
@@ -518,7 +518,7 @@
         "de": "FORTSETZEN",
         "es": "CONTINUAR",
         "it": "CONTINUA",
-        "th": ""
+        "th": "เล่นต่อ"
       },
       "Accept": {
         "en": "ACCEPT",
@@ -526,7 +526,7 @@
         "de": "ANNEHMEN",
         "es": "ACEPTAR",
         "it": "ACCETTA",
-        "th": ""
+        "th": "ยืนยัน"
       },
       "Next": {
         "en": "NEXT",
@@ -534,7 +534,7 @@
         "de": "FORTSETZEN",
         "es": "SIGUIENTE",
         "it": "AVANTI",
-        "th": ""
+        "th": "ถัดไป"
       },
       "Previous": {
         "en": "PREVIOUS",
@@ -542,7 +542,7 @@
         "de": "ZURÜCK",
         "es": "ANTERIOR",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ก่อนหน้า"
       },
       "Back": {
         "en": "BACK",
@@ -550,7 +550,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Select": {
         "en": "SELECT",
@@ -558,7 +558,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "JoiningMsg": {
         "en": "JOINING MATCH...",
@@ -566,7 +566,7 @@
         "de": "SPIELEINTRITT",
         "es": "UNIÉNDOSE A LA PARTIDA...",
         "it": "COLLEGAMENTO ALLA PARTITA...",
-        "th": ""
+        "th": "กำลังเข้าร่วมห้องแข่งขัน..."
       },
       "JoiningLobbyMsg": {
         "en": "JOINING MATCH LOBBY... ( %i )",
@@ -574,7 +574,7 @@
         "de": "BETRETE LOBBY... ( %i )",
         "es": "UNIÉNDOSE PUNTO ENCUENT. ... ( %i )",
         "it": "COLLEGAMENTO ALLA LOBBY... ( %i )",
-        "th": ""
+        "th": "กำลังเข้าร่วมล็อบบี้... ( %i )"
       },
       "JoinFailedMsg": {
         "en": "UNABLE TO JOIN THIS MATCH",
@@ -582,7 +582,7 @@
         "de": "DIESE SPIELESITZUNG IST NICHT MEHR VERFÜGBAR.",
         "es": "ESTA PARTIDA YA NO ESTÁ DISPONIBLE.",
         "it": "QUESTA PARTITA NON È PIÙ DISPONIBILE.",
-        "th": ""
+        "th": "ไม่สามารถเข้าร่วมห้องแข่งขันนี้ได้"
       },
       "VerifyString": {
         "en": "VALIDATING YOUR %s ...",
@@ -590,7 +590,7 @@
         "de": "%s WIRD GEPRÜFT",
         "es": "VALIDANDO TU %s...",
         "it": "CONVALIDA %s...",
-        "th": ""
+        "th": "กำลังตรวจสอบ %s ของคุณ..."
       },
       "Sending": {
         "en": "SENDING...",
@@ -598,7 +598,7 @@
         "de": "SENDEN...",
         "es": "ENVIANDO...",
         "it": "INVIO...",
-        "th": ""
+        "th": "กำลังส่งข้อมูล..."
       },
       "Loading": {
         "en": "LOADING...",
@@ -606,7 +606,7 @@
         "de": "LADEVORGANG...",
         "es": "CARGANDO...",
         "it": "CARICAMENTO...",
-        "th": ""
+        "th": "กำลังโหลด..."
       },
       "Pausing": {
         "en": "PAUSING...",
@@ -614,7 +614,7 @@
         "de": "PAUSE...",
         "es": "EN PAUSA",
         "it": "IN PAUSA...",
-        "th": ""
+        "th": "กำลังหยุดชั่วคราว..."
       },
       "Credits": {
         "en": "CREDITS",
@@ -622,7 +622,7 @@
         "de": "CREDITS",
         "es": "CRÉDITOS",
         "it": "RICONOSCIMENTI",
-        "th": ""
+        "th": "เครดิตผู้สร้าง"
       },
       "LaunchingMsg": {
         "en": "LAUNCHING GAME...",
@@ -630,7 +630,7 @@
         "de": "SPIEL WIRD GELADEN",
         "es": "INICIANDO PARTIDA...",
         "it": "CREAZIONE PARTITA...",
-        "th": ""
+        "th": "กำลังเริ่มเกม..."
       },
       "NetworkInitFail": {
         "en": "NETWORK NOT AVAILABLE",
@@ -638,7 +638,7 @@
         "de": "NETZWERK NICHT VERFÜGBAR",
         "es": "NO HAY RED DISPONIBLE",
         "it": "RETE NON DISPONIBILE",
-        "th": ""
+        "th": "ไม่พบการเชื่อมต่อเครือข่าย"
       },
       "Unavailable": {
         "en": "UNAVAILABLE",
@@ -646,7 +646,7 @@
         "de": "NICHT VERFÜGBAR",
         "es": "NO DISPONIBLE",
         "it": "NON DISPONIBILE",
-        "th": ""
+        "th": "ไม่พร้อมใช้งาน"
       },
       "SessionDisconnectMsg": {
         "en": "YOU HAVE BEEN DISCONNECTED FROM THE SESSION.",
@@ -654,7 +654,7 @@
         "de": "VERBINDUNG WURDE GETRENNT",
         "es": "TE HAN DESCONECTADO DE LA PARTIDA.",
         "it": "SEI STATO DISCONNESSO DALLA PARTITA.",
-        "th": ""
+        "th": "คุณถูกตัดการเชื่อมต่อจากเซสชัน"
       },
       "SessionKickMsg": {
         "en": "YOU HAVE BEEN KICKED OUT OF THE SESSION.",
@@ -662,7 +662,7 @@
         "de": "SIE WURDEN AUS DEM SPIEL AUSGESCHLOSSEN.",
         "es": "HAS SIDO EXPULSADO DE LA PARTIDA.",
         "it": "SEI STATO ESPULSO DALLA SESSIONE.",
-        "th": ""
+        "th": "คุณถูกเตะออกจากเซสชัน"
       },
       "SessionDisconnectingMsg": {
         "en": "DISCONNECTING FROM SESSION...",
@@ -670,7 +670,7 @@
         "de": "VERBINDUNG MIT DER SITZUNG WIRD BEENDET ...",
         "es": "DESCONECTANDO DE LA PARTIDA...",
         "it": "DISCONNESSIONE DALLA PARTITA.",
-        "th": ""
+        "th": "กำลังตัดการเชื่อมต่อจากเซสชัน..."
       },
       "QuitDemo": {
         "en": "QUIT TO DEMOS MENU",
@@ -678,7 +678,7 @@
         "de": "QUIT TO DEMOS MENU",
         "es": "QUIT TO DEMOS MENU",
         "it": "QUIT TO DEMOS MENU",
-        "th": ""
+        "th": "ออกจากเกม"
       },
       "PressStart": {
         "en": "PRESS START TO CONTINUE",
@@ -686,7 +686,7 @@
         "de": "START DRÜCKEN, UM ZU BEGINNEN",
         "es": "PRESIONAR START PARA COMENZAR",
         "it": "PREMI START PER CONTINUARE",
-        "th": ""
+        "th": "กด START เพื่อเล่นต่อ"
       },
       "GameMode": {
         "en": "GAME MODE",
@@ -694,7 +694,7 @@
         "de": "SPIEL-MODUS",
         "es": "MODO JUEGO",
         "it": "MODALITÀ DI GIOCO",
-        "th": ""
+        "th": "โหมดเกม"
       },
       "MainMenu": {
         "en": "MAIN MENU",
@@ -702,7 +702,7 @@
         "de": "HAUPTMENÜ",
         "es": "MENÚ PRINCIPAL",
         "it": "MENU PRINCIPALE ",
-        "th": ""
+        "th": "เมนูหลัก"
       },
       "Extra": {
         "en": "MOVIE TEASER",
@@ -710,7 +710,7 @@
         "de": "FILM TEASER",
         "es": "EXTRACTO DE PELÍCULA",
         "it": "TEASER DEL FILM",
-        "th": ""
+        "th": "ตัวอย่างภาพยนตร์/เกม"
       }
     },
     "CREATEMATCH": {
@@ -721,7 +721,7 @@
         "de": "SPIEL ERSTELLEN",
         "es": "CREAR PARTIDA",
         "it": "CREA PARTITA",
-        "th": ""
+        "th": "สร้างภารกิจ"
       },
       "VKeyboardTitle": {
         "en": "ENTER MISSION NAME",
@@ -729,7 +729,7 @@
         "de": "NAME FÜR DAS SPIEL EINGEBEN",
         "es": "NOMBRE DE LA PARTIDA",
         "it": "INSERISCI IL NOME DELLA PARTITA",
-        "th": ""
+        "th": "ป้อนชื่อภารกิจ"
       },
       "CreateFailedMsg": {
         "en": "UNABLE TO CREATE A MISSION",
@@ -823,7 +823,7 @@
         "de": "SCHNELL INS SPIEL",
         "es": "PARTIDA RÁPIDA",
         "it": "PARTITA RAPIDA",
-        "th": ""
+        "th": "จับคู่ด่วน"
       },
       "Optimatch": {
         "en": "OPTIMATCH",
@@ -831,7 +831,7 @@
         "de": "OPTIMATCH",
         "es": "OPTIMATCH",
         "it": "OPTIMATCH",
-        "th": ""
+        "th": "ค้นหาห้องแข่งขัน"
       },
       "CreateMatch": {
         "en": "CREATE MISSION",
@@ -847,7 +847,7 @@
         "de": "FREUNDE",
         "es": "AMIGOS",
         "it": "AMICI",
-        "th": ""
+        "th": "เพื่อน"
       },
       "PlayerList": {
         "en": "PLAYERS",
@@ -871,7 +871,7 @@
         "de": "STATISTIK",
         "es": "ESTADÍSTICAS",
         "it": "STATISTICHE",
-        "th": ""
+        "th": "สถิติ"
       },
       "Options": {
         "en": "OPTIONS",
@@ -879,7 +879,7 @@
         "de": "OPTIONEN",
         "es": "OPCIONES",
         "it": "OPZIONI",
-        "th": ""
+        "th": "ตัวเลือก"
       },
       "ContentDownload": {
         "en": "DOWNLOAD",
@@ -968,7 +968,7 @@
         "de": "NAME VON FREUND EINGEBEN",
         "es": "ESCRIBE EL NOMBRE DE AMIGO",
         "it": "INSERISCI IL NOME DELL'AMICO",
-        "th": ""
+        "th": "ป้อนชื่อเพื่อน"
       },
       "FriendsListCaption": {
         "en": "FRIENDS",
@@ -976,7 +976,7 @@
         "de": "FREUNDE",
         "es": "AMIGOS",
         "it": "AMICI",
-        "th": ""
+        "th": "เพื่อน"
       },
       "FriendOptionsCaption": {
         "en": "FRIEND OPTIONS ",
@@ -1024,7 +1024,7 @@
         "de": "ONLINE",
         "es": "CONECTADO",
         "it": "ONLINE",
-        "th": ""
+        "th": "ออนไลน์"
       },
       "FriendStateJoinable": {
         "en": "JOIN",
@@ -1192,7 +1192,7 @@
         "de": "STATISTIK",
         "es": "ESTADÍSTICAS",
         "it": "STATISTICHE",
-        "th": ""
+        "th": "สถิติ"
       },
       "ActionSendMessage": {
         "en": "SEND MESSAGE",
@@ -1331,7 +1331,7 @@
         "de": "AKTUELLE SPIELER",
         "es": "JUGAD. RECIENTES",
         "it": "GIOCATORI RECENTI",
-        "th": ""
+        "th": "ผู้เล่นล่าสุด"
       },
       "PlayerOptionsCaption": {
         "en": "PLAYER OPTIONS ",
@@ -1339,7 +1339,7 @@
         "de": "SPIELEROPTIONEN ",
         "es": "OPCIONES JUGADOR ",
         "it": "OPZIONI GIOCATORE ",
-        "th": ""
+        "th": "ตัวเลือกผู้เล่น"
       },
       "PlayerFeedbackCaption": {
         "en": "PLAYER FEEDBACK ",
@@ -1355,7 +1355,7 @@
         "de": "NAME",
         "es": "NOMBRE",
         "it": "NOME",
-        "th": ""
+        "th": "ชื่อ"
       },
       "PlayerStatus": {
         "en": "STATUS",
@@ -1363,7 +1363,7 @@
         "de": "STATUS",
         "es": "ESTADO",
         "it": "STATO",
-        "th": ""
+        "th": "สถานะ"
       },
       "Feedback": {
         "en": "FEEDBACK",
@@ -1371,7 +1371,7 @@
         "de": "FEEDBACK",
         "es": "INFORMACIÓN",
         "it": "COMMENTO",
-        "th": ""
+        "th": "ผลตอบรับ"
       },
       "Complaints": {
         "en": "COMPLAINTS",
@@ -1379,7 +1379,7 @@
         "de": "BESCHWERDEN",
         "es": "QUEJAS",
         "it": "RECLAMI",
-        "th": ""
+        "th": "รายงานปัญหา"
       },
       "FeedbackNegativeNickname": {
         "en": "BAD NAME",
@@ -1499,7 +1499,7 @@
         "de": "STATISTIK",
         "es": "ESTADÍSTICAS",
         "it": "STATISTICHE",
-        "th": ""
+        "th": "สถิติ"
       },
       "PlayerStateVoiceOn": {
         "en": "VOICE ON",
@@ -1590,7 +1590,7 @@
         "de": "SPIEL AUSWÄHLEN",
         "es": "ELEGIR PARTIDA",
         "it": "SELEZIONA PARTITA",
-        "th": ""
+        "th": "เลือกภารกิจ"
       },
       "SessionMode": {
         "en": "MODE:",
@@ -1598,7 +1598,7 @@
         "de": "MODUS:",
         "es": "MODO:",
         "it": "MODALITÀ:",
-        "th": ""
+        "th": "โหมด:"
       },
       "SessionName": {
         "en": "MATCH NAME:",
@@ -1686,7 +1686,7 @@
         "de": "SUCHE...",
         "es": "BUSCANDO...",
         "it": "RICERCA...",
-        "th": ""
+        "th": "กำลังค้นหา..."
       },
       "NoMatchFoundSuggestion": {
         "en": "PRESS \"Y\" TO CREATE A MATCH.",
@@ -1729,7 +1729,7 @@
         "de": "SCHNELL INS SPIEL",
         "es": "PARTIDA RÁPIDA",
         "it": "PARTITA RAPIDA",
-        "th": ""
+        "th": "จับคู่ด่วน"
       }
     },
     "OPTIMATCH": {
@@ -1740,7 +1740,7 @@
         "de": "OPTIMATCH",
         "es": "OPTIMATCH",
         "it": "OPTIMATCH",
-        "th": ""
+        "th": "ค้นหาห้องแข่งขัน"
       }
     },
     "LOBBY": {
@@ -1751,7 +1751,7 @@
         "de": "SPIEL STARTEN",
         "es": "INICIAR",
         "it": "LANCIO",
-        "th": ""
+        "th": "เริ่มเกม"
       },
       "SectionSessionClient": {
         "en": "READY",
@@ -1759,7 +1759,7 @@
         "de": "BEREIT",
         "es": "LISTO",
         "it": "PRONTO",
-        "th": ""
+        "th": "พร้อม"
       },
       "SectionSessionMaps": {
         "en": "MAPS",
@@ -1775,7 +1775,7 @@
         "de": "INSTALLIERUNG",
         "es": "CONFIGURACIÓN",
         "it": "IMPOSTAZIONI",
-        "th": ""
+        "th": "การตั้งค่า"
       },
       "SectionSessionSetup": {
         "en": "SETTINGS",
@@ -1783,7 +1783,7 @@
         "de": "INSTALLIERUNG",
         "es": "CONFIGURACIÓN",
         "it": "IMPOSTAZIONI",
-        "th": ""
+        "th": "การตั้งค่า"
       },
       "SectionLoadout": {
         "en": "LOAD OUT",
@@ -1791,7 +1791,7 @@
         "de": "LOAD OUT",
         "es": "SELECCIONAR ARMA",
         "it": "EQUIPAGGIAMENTO",
-        "th": ""
+        "th": "เลือกอุปกรณ์"
       },
       "SectionFriends": {
         "en": "FRIENDS",
@@ -1799,7 +1799,7 @@
         "de": "FREUNDE",
         "es": "AMIGOS",
         "it": "AMICI",
-        "th": ""
+        "th": "เพื่อน"
       },
       "SectionPlayers": {
         "en": "PLAYERS",
@@ -1815,7 +1815,7 @@
         "de": "MITTEILUNGEN",
         "es": "MENSAJES",
         "it": "MESSAGGI",
-        "th": ""
+        "th": "ข้อความ"
       },
       "SectionStatistics": {
         "en": "STATISTICS",
@@ -1823,7 +1823,7 @@
         "de": "STATISTIK",
         "es": "ESTADÍSTICAS",
         "it": "STATISTICHE",
-        "th": ""
+        "th": "สถิติ"
       },
       "SectionOptions": {
         "en": "OPTIONS",
@@ -1831,7 +1831,7 @@
         "de": "OPTIONEN",
         "es": "OPCIONES",
         "it": "OPZIONI",
-        "th": ""
+        "th": "ตัวเลือก"
       },
       "SessionMap": {
         "en": "MISSION:",
@@ -1879,7 +1879,7 @@
         "de": "GESCHWINDIGK",
         "es": "VELOCIDAD",
         "it": "VELOCITÀ",
-        "th": ""
+        "th": "ความเร็ว"
       },
       "Accept": {
         "en": "ACCEPT",
@@ -1887,7 +1887,7 @@
         "de": "ANNEHMEN",
         "es": "ACEPTAR",
         "it": "ACCETTA",
-        "th": ""
+        "th": "ยืนยัน"
       },
       "ServerInfo": {
         "en": "CURRENT SESSION SETTINGS",
@@ -1927,7 +1927,7 @@
         "de": "WENN SIE DAS SPIEL JETZT VERLASSEN, WIRD DIE SITZUNG BEENDET. SIND SIE SICHER?",
         "es": "SI SALES DEL JUEGO ABANDONARÁS LA PARTIDA. ¿ESTÁS SEGURO?",
         "it": "LASCIARE IL GIOCO ADESSO TERMINERÀ LA PARTITA. SEI SICURO?",
-        "th": ""
+        "th": "การออกจากเกมตอนนี้จะเป็นการยุติเซสชันนี้ คุณแน่ใจหรือไม่?"
       },
       "QuitWarningClientMsg": {
         "en": "YOU ARE ABOUT TO QUIT YOUR GAME. ARE YOU SURE?",
@@ -1935,7 +1935,7 @@
         "de": "SIE SIND DABEI DAS SPIEL ZU VERLASSEN. SIND SIE SICHER?",
         "es": "ESTÁS A PUNTO DE ABANDONAR ESTA PARTIDA. ¿ESTÁS SEGURO?",
         "it": "STAI PER USCIRE DALLA PARTITA. SEI SICURO?",
-        "th": ""
+        "th": "คุณกำลังจะออกจากเกมของคุณ คุณแน่ใจหรือไม่?"
       },
       "WaitingTeammateMsg": {
         "en": "WAITING FOR YOUR TEAMMATE... ( %i )",
@@ -1943,7 +1943,7 @@
         "de": "WARTE AUF TEAMKOLLEGEN... ( %i )",
         "es": "ESPERANDO A TU COMPAÑERO... ( %i )",
         "it": "IN ATTESA DEL COMPAGNO DI SQUADRA... ( %i )",
-        "th": ""
+        "th": "กำลังรอเพื่อนร่วมทีมของคุณ... ( %i )"
       },
       "WaitingFriendTeammateMsg": {
         "en": "WAITING FOR %s ...",
@@ -1951,7 +1951,7 @@
         "de": "WARTE AUF %s ...",
         "es": "ESPERANDO A %s ..",
         "it": "IN ATTESA DI %s...",
-        "th": ""
+        "th": "กำลังรอ %s ..."
       }
     },
     "MESSAGING": {
@@ -1962,7 +1962,7 @@
         "de": "MITTEILUNGEN",
         "es": "MENSAJES",
         "it": "MESSAGGI",
-        "th": ""
+        "th": "ข้อความ"
       },
       "CreateMailTitle": {
         "en": "COMPOSE",
@@ -1970,7 +1970,7 @@
         "de": "ERSTELLEN",
         "es": "ESCRIBIR",
         "it": "CREAZIONE",
-        "th": ""
+        "th": "เขียนข้อความ"
       },
       "CreateMailSubTitle": {
         "en": "COMPOSE MESSAGE",
@@ -1978,7 +1978,7 @@
         "de": "TEXTMITTEILUNG ERSTELLEN",
         "es": "ESCRIBIR MENSAJE",
         "it": "CREA MESSAGGIO",
-        "th": ""
+        "th": "เขียนข้อความ"
       },
       "CreateMailRecipient": {
         "en": "SEND TO",
@@ -1986,7 +1986,7 @@
         "de": "SENDEN AN",
         "es": "ENVIAR A",
         "it": "INVIA A",
-        "th": ""
+        "th": "ส่งถึง"
       },
       "NoMailTitle": {
         "en": "[NO TITLE]",
@@ -1994,7 +1994,7 @@
         "de": "[KEIN BETREFF]",
         "es": "[SIN TÍTULO]",
         "it": "[TITOLO MANCANTE]",
-        "th": ""
+        "th": "[ไม่มีหัวข้อ]"
       },
       "NoMailText": {
         "en": "[NO TEXT]",
@@ -2002,7 +2002,7 @@
         "de": "[KEIN TEXT]",
         "es": "[SIN TEXTO]",
         "it": "[TESTO MANCANTE]",
-        "th": ""
+        "th": "[ไม่มีข้อความ]"
       },
       "NoMailRecipient": {
         "en": "[NO RECIPIENT]",
@@ -2010,7 +2010,7 @@
         "de": "[KEIN EMPFÄNGER]",
         "es": "[SIN DESTINATARIO]",
         "it": "[NESSUN DESTINATARIO]",
-        "th": ""
+        "th": "[ไม่มีผู้รับ]"
       },
       "GoingMessageMsg": {
         "en": "GOING BACK AT THIS TIME WILL DISCARD THE CONTENT OF YOUR CURRENT MESSAGE.",
@@ -2018,7 +2018,7 @@
         "de": "WENN SIE JETZT ZURÜCKGEHEN, WIRD DER INHALT DIESER MITTEILUNG GELÖSCHT.",
         "es": "SI VAS HACIA ATRÁS PERDERÁS EL CONTENIDO DEL MENSAJE ACTUAL.",
         "it": "SE TORNI INDIETRO ORA PERDERAI IL CONTENUTO DI QUESTO MESSAGGIO.",
-        "th": ""
+        "th": "การย้อนกลับตอนนี้จะละทิ้งเนื้อหาข้อความปัจจุบันของคุณ"
       },
       "MailSend": {
         "en": "SEND",
@@ -2026,7 +2026,7 @@
         "de": "SENDEN",
         "es": "ENVIAR",
         "it": "INVIA",
-        "th": ""
+        "th": "ส่ง"
       },
       "MailVoice": {
         "en": "ADD VOICE MESSAGE",
@@ -2034,7 +2034,7 @@
         "de": "SPRACHMITTEILUNG HINZUFÜGEN",
         "es": "AÑADIR MENSAJE DE VOZ",
         "it": "AGGIUNGI MESSAGGIO VOCALE",
-        "th": ""
+        "th": "เพิ่มข้อความเสียง"
       },
       "MessageVK": {
         "en": "MESSAGE",
@@ -2042,7 +2042,7 @@
         "de": "MITTEILUNG",
         "es": "MENSAJE",
         "it": "MESSAGGIO",
-        "th": ""
+        "th": "ข้อความ"
       },
       "MessageTitleVK": {
         "en": "MESSAGE TITLE",
@@ -2050,7 +2050,7 @@
         "de": "TITEL",
         "es": "TÍTULO DEL MENSAJE",
         "it": "TITOLO DEL MESSAGGIO",
-        "th": ""
+        "th": "หัวข้อข้อความ"
       },
       "OffensiveMessage": {
         "en": "YOUR MESSAGE CONTAINS OFFENSIVE TEXT. IT CANNOT BE SENT. PLEASE TRY AGAIN.",
@@ -2066,7 +2066,7 @@
         "de": "POSTEINGANG",
         "es": "BUZÓN",
         "it": "IN ARRIVO",
-        "th": ""
+        "th": "กล่องข้อความเข้า"
       },
       "InboxSubTitle": {
         "en": "MESSAGES",
@@ -2074,7 +2074,7 @@
         "de": "TEXTMITTEILUNGEN",
         "es": "MENSAJES",
         "it": "MESSAGGI",
-        "th": ""
+        "th": "ข้อความ"
       },
       "InboxEmpty": {
         "en": "YOU HAVE NO MESSAGES",
@@ -2082,7 +2082,7 @@
         "de": "KEINE TEXTMITTEILUNGEN VORHANDEN",
         "es": "NO TIENES MENSAJES.",
         "it": "NON CI SONO MESSAGGI",
-        "th": ""
+        "th": "คุณไม่มีข้อความ"
       },
       "ReadMailTitle": {
         "en": "READ MESSAGE",
@@ -2090,7 +2090,7 @@
         "de": "MITTEILUNG LESEN",
         "es": "LEER MENSAJE",
         "it": "LEGGI MESSAGGIO",
-        "th": ""
+        "th": "อ่านข้อความ"
       },
       "ReadMailSender": {
         "en": "SENT BY:",
@@ -2098,7 +2098,7 @@
         "de": "GESENDET VON:",
         "es": "ENVIADO POR:",
         "it": "INVIATO DA:",
-        "th": ""
+        "th": "ส่งโดย:"
       },
       "MailBlock": {
         "en": "BLOCK THIS PLAYER",
@@ -2106,7 +2106,7 @@
         "de": "DIESEN SPIELER IGNORIEREN",
         "es": "BLOQUEAR ESTE JUGADOR",
         "it": "BLOCCA QUESTO GIOCATORE",
-        "th": ""
+        "th": "บล็อกผู้เล่นนี้"
       },
       "MailFeedback": {
         "en": "FEEDBACK",
@@ -2114,7 +2114,7 @@
         "de": "FEEDBACK",
         "es": "INFORMACIÓN",
         "it": "COMMENTO",
-        "th": ""
+        "th": "ผลตอบรับ"
       },
       "MailExpiration": {
         "en": "EXPIRATION : ",
@@ -2130,7 +2130,7 @@
         "de": "ANTWORTEN",
         "es": "RESPONDER",
         "it": "RISPOSTA",
-        "th": ""
+        "th": "ตอบกลับ"
       },
       "DeleteMessageTitle": {
         "en": "DELETE MESSAGE",
@@ -2138,7 +2138,7 @@
         "de": "TEXTMITTEILUNG LÖSCHEN",
         "es": "BORRAR MENSAJE",
         "it": "CANCELLA MESSAGGIO",
-        "th": ""
+        "th": "ลบข้อความ"
       },
       "DeleteMessage": {
         "en": "DO YOU WANT TO DELETE THIS MESSAGE?",
@@ -2146,7 +2146,7 @@
         "de": "WOLLEN SIE DIESE TEXTMITTEILUNG LÖSCHEN?",
         "es": "¿QUIERES BORRAR ESTE MENSAJE?",
         "it": "VUOI CANCELLARE QUESTO MESSAGGIO?",
-        "th": ""
+        "th": "คุณต้องการลบข้อความนี้หรือไม่?"
       },
       "EmptyMessageMsg": {
         "en": "AN EMPTY MESSAGE CANNOT BE SENT.",
@@ -2154,7 +2154,7 @@
         "de": "EINE LEERE TEXTMITTEILUNG KANN NICHT GESENDET WERDEN.",
         "es": "NO PUEDES ENVIAR UN MENSAJE VACÍO.",
         "it": "NON PUOI MANDARE UN MESSAGGIO VUOTO.",
-        "th": ""
+        "th": "ไม่สามารถส่งข้อความว่างเปล่าได้"
       },
       "BlockMessage": {
         "en": "DO YOU WANT TO PERMANENTLY BLOCK %s FROM SENDING YOU MESSAGES?",
@@ -2170,7 +2170,7 @@
         "de": "FEEDBACK",
         "es": "INFORMACIÓN",
         "it": "COMMENTO",
-        "th": ""
+        "th": "ผลตอบรับ"
       },
       "Complaints": {
         "en": "COMPLAINTS",
@@ -2178,7 +2178,7 @@
         "de": "BESCHWERDEN",
         "es": "QUEJAS",
         "it": "RECLAMI",
-        "th": ""
+        "th": "รายงานปัญหา"
       },
       "BadMessage": {
         "en": "OFFENSIVE MESSAGE",
@@ -2186,7 +2186,7 @@
         "de": "BELEIDIGENDE NACHRICHT",
         "es": "MENSAJE OFENSIVO",
         "it": "MESSAGGIO OFFENSIVO",
-        "th": ""
+        "th": "ข้อความไม่เหมาะสม"
       },
       "Spam": {
         "en": "SPAM",
@@ -2194,7 +2194,7 @@
         "de": "SPAM",
         "es": "SPAM",
         "it": "SPAM",
-        "th": ""
+        "th": "สแปม"
       },
       "ConfirmPlayerSendComplaintText": {
         "en": "DO YOU WISH TO SEND THIS COMPLAINT FOR %s? SELECT \"OK\" TO CONTINUE OR \"CANCEL\"",
@@ -2210,7 +2210,7 @@
         "de": "SPRACHMITTEILUNG",
         "es": "Localiza y recupera los discos de datos del Centro Nacional de Datos.",
         "it": "MESSAGGIO VOCALE",
-        "th": ""
+        "th": "ข้อความเสียง"
       },
       "Record": {
         "en": "RECORD",
@@ -2218,7 +2218,7 @@
         "de": "AUFNEHMEN",
         "es": "GRABAR",
         "it": "REGISTRA",
-        "th": ""
+        "th": "บันทึกเสียง"
       },
       "Play": {
         "en": "PLAY",
@@ -2226,7 +2226,7 @@
         "de": "SPIELEN",
         "es": "JUGAR",
         "it": "ASCOLTA",
-        "th": ""
+        "th": "เล่น"
       },
       "Stop": {
         "en": "STOP",
@@ -2234,7 +2234,7 @@
         "de": "STOPP",
         "es": "DETENER",
         "it": "FERMA",
-        "th": ""
+        "th": "หยุด"
       },
       "Accept": {
         "en": "ACCEPT",
@@ -2242,7 +2242,7 @@
         "de": "ANNEHMEN",
         "es": "ACEPTAR",
         "it": "ACCETTA",
-        "th": ""
+        "th": "ยืนยัน"
       }
     },
     "OPTIONS": {
@@ -2253,7 +2253,7 @@
         "de": "OPTIONEN",
         "es": "OPCIONES",
         "it": "OPZIONI",
-        "th": ""
+        "th": "การตั้งค่า"
       },
       "ControllerTitle": {
         "en": "CONTROLS",
@@ -2261,7 +2261,7 @@
         "de": "STEUERUNG",
         "es": "CONTROLES",
         "it": "COMANDI",
-        "th": ""
+        "th": "การควบคุม"
       },
       "AdvControllerTitle": {
         "en": "ADVANCED CONTROLS",
@@ -2269,7 +2269,7 @@
         "de": "ERWEITERTE STEUERUNGSOPTIONEN",
         "es": "CONTROLES AVANZADOS",
         "it": "COMANDI AVANZATI",
-        "th": ""
+        "th": "การควบคุมขั้นสูง"
       },
       "VideoTitle": {
         "en": "DISPLAY",
@@ -2277,7 +2277,7 @@
         "de": "ANZEIGE",
         "es": "PANTALLA",
         "it": "VIDEO",
-        "th": ""
+        "th": "การแสดงผล"
       },
       "SoundTitle": {
         "en": "SOUND",
@@ -2285,7 +2285,7 @@
         "de": "SOUND",
         "es": "SONIDO",
         "it": "AUDIO",
-        "th": ""
+        "th": "ระบบเสียง"
       },
       "OnlineTitle": {
         "en": "XBOX LIVE",
@@ -2293,7 +2293,7 @@
         "de": "XBOX LIVE",
         "es": "XBOX LIVE",
         "it": "XBOX LIVE",
-        "th": ""
+        "th": "ออนไลน์"
       },
       "OnlineGeneralTitle": {
         "en": "GENERAL",
@@ -2301,7 +2301,7 @@
         "de": "ALLGEMEIN",
         "es": "GENERAL",
         "it": "GENERALE",
-        "th": ""
+        "th": "ทั่วไป"
       },
       "OnlineSoundTitle": {
         "en": "SOUND",
@@ -2309,7 +2309,7 @@
         "de": "SOUND",
         "es": "SONIDO",
         "it": "AUDIO",
-        "th": ""
+        "th": "ระบบเสียง"
       },
       "ControllerAction[1]": {
         "en": "USE EQUIPED / LETHAL ATTACK",
@@ -2317,7 +2317,7 @@
         "de": "GEWÄHLTE AUSRÜSTUNG BENUTZEN/TÖDLICH ANGRIFF",
         "es": "USAR EQUIPO/ATAQUE LETAL",
         "it": "USA ATTIVO / ATTACCO LETALE",
-        "th": ""
+        "th": "ใช้อุปกรณ์ที่ติดตั้ง / โจมตีปลิดชีพ"
       },
       "ControllerAction[2]": {
         "en": "KO ATTACK",
@@ -2325,7 +2325,7 @@
         "de": "KO-ANGRIFF",
         "es": "ATAQUE NOQUEADOR",
         "it": "ATTACCO NON LETALE",
-        "th": ""
+        "th": "โจมตีทำให้สลบ"
       },
       "ControllerAction[3]": {
         "en": "CROUCH / STAND",
@@ -2333,7 +2333,7 @@
         "de": "DUCKEN",
         "es": "AGACHARSE",
         "it": "CHINARSI",
-        "th": ""
+        "th": "ย่อตัว / ยืนขึ้น"
       },
       "ControllerAction[4]": {
         "en": "JUMP",
@@ -2341,7 +2341,7 @@
         "de": "SPRINGEN",
         "es": "SALTAR",
         "it": "SALTO",
-        "th": ""
+        "th": "กระโดด"
       },
       "ControllerAction[5]": {
         "en": "EQUIP ITEM",
@@ -2349,7 +2349,7 @@
         "de": "GEGENSTAND AUSRÜSTEN",
         "es": "LLEVAR OBJETO",
         "it": "IMPUGNA OGGETTO",
-        "th": ""
+        "th": "ติดตั้งไอเทม"
       },
       "ControllerAction[6]": {
         "en": "MOVEMENT / BACK TO WALL",
@@ -2357,7 +2357,7 @@
         "de": "BEWEGUNG",
         "es": "MOVIMIENTO",
         "it": "MOVIMENTO",
-        "th": ""
+        "th": "เคลื่อนที่ / แนบหลังชิดกำแพง"
       },
       "ControllerAction[7]": {
         "en": "INTERACT",
@@ -2365,7 +2365,7 @@
         "de": "INTERAKTION",
         "es": "ACCIÓN",
         "it": "INTERAGISCI",
-        "th": ""
+        "th": "โต้ตอบ"
       },
       "ControllerAction[8]": {
         "en": "OPSAT MENU",
@@ -2373,7 +2373,7 @@
         "de": "OPSAT-MENÜ",
         "es": "MENÚ ENSAT",
         "it": "MENU OPSAT",
-        "th": ""
+        "th": "เมนู OPSAT"
       },
       "ControllerAction[9]": {
         "en": "PAUSE MENU",
@@ -2381,7 +2381,7 @@
         "de": "PAUSEMENÜ",
         "es": "MENÚ PAUSA",
         "it": "MENU PAUSA",
-        "th": ""
+        "th": "เมนูหยุดเกม"
       },
       "ControllerAction[10]": {
         "en": "NIGHT VISION",
@@ -2389,7 +2389,7 @@
         "de": "NACHTSICHT",
         "es": "VISOR NOCTURNO",
         "it": "VISORE NOTTURNO",
-        "th": ""
+        "th": "กล้องมองกลางคืน"
       },
       "ControllerAction[11]": {
         "en": "STICKY CAMERA",
@@ -2397,7 +2397,7 @@
         "de": "HAFTKAMERA",
         "es": "CÁMARA SEGUIMIEN.",
         "it": "MICROCAMERA",
-        "th": ""
+        "th": "กล้องสติ๊กกี้"
       },
       "ControllerAction[12]": {
         "en": "THERMAL VISION",
@@ -2405,7 +2405,7 @@
         "de": "WÄRMEBILDGERÄT",
         "es": "VISOR TÉRMICO",
         "it": "VISORE TERMICO",
-        "th": ""
+        "th": "กล้องมองความร้อน"
       },
       "ControllerAction[13]": {
         "en": "EMF",
@@ -2413,7 +2413,7 @@
         "de": "EMF",
         "es": "CEM",
         "it": "VISORE MAGNETICO",
-        "th": ""
+        "th": "กล้อง EMF"
       },
       "ControllerAction[14]": {
         "en": "CAMERA / EEV",
@@ -2421,7 +2421,7 @@
         "de": "KAMERA / EEV",
         "es": "CÁMARA / EEV",
         "it": "TELECAMERA / EEV",
-        "th": ""
+        "th": "กล้องส่องทางไกล / EEV"
       },
       "ControllerAction[15]": {
         "en": "QUICK INVENTORY",
@@ -2429,7 +2429,7 @@
         "de": "SCHNELLINVENTAR",
         "es": "INVENTARIO RÁPIDO",
         "it": "INVENTARIO RAPIDO",
-        "th": ""
+        "th": "ช่องเก็บของด่วน"
       },
       "ControllerAction[16]": {
         "en": "WHISTLE / COOP ACTION",
@@ -2437,7 +2437,7 @@
         "de": "PFEIFEN/KOOP-AKTION",
         "es": "SILBAR/ACCIÓN COOPERATIVA",
         "it": "FISCHIO / AZIONE COOPERATIVA",
-        "th": ""
+        "th": "ผิวปาก / แอ็กชันร่วมมือ"
       }
     },
     "PROFILES": {
@@ -2448,7 +2448,7 @@
         "de": "PROFIL",
         "es": "PERFILES",
         "it": "PROFILI",
-        "th": ""
+        "th": "โปรไฟล์"
       },
       "NewProfile": {
         "en": "NEW PROFILE",
@@ -2456,7 +2456,7 @@
         "de": "NEUES PROFIL",
         "es": "PERFIL NUEVO",
         "it": "NUOVO PROFILO",
-        "th": ""
+        "th": "สร้างโปรไฟล์ใหม่"
       },
       "DefaultProfile": {
         "en": "SAMFISHER",
@@ -2464,7 +2464,7 @@
         "de": "SAMFISHER",
         "es": "SAMFISHER",
         "it": "SAMFISHER",
-        "th": ""
+        "th": "SAMFISHER"
       },
       "ProfileErrorLoadTitle": {
         "en": "DAMAGED PROFILE",
@@ -2472,7 +2472,7 @@
         "de": "DAMAGED PROFILE",
         "es": "PERFIL DAÑADO",
         "it": "PROFILO DANNEGGIATO",
-        "th": ""
+        "th": "โปรไฟล์เสียหาย"
       },
       "ProfileErrorLoadMsg": {
         "en": "THIS PROFILE APPEARS TO BE DAMAGED AND CANNOT BE USED. SELECT \"OK\" TO DELETE THIS PROFILE OR \"CANCEL\" TO KEEP IT.",
@@ -2480,7 +2480,7 @@
         "de": "DIESES PROFIL SCHEINT BESCHÄDIGT ZU SEIN UND KANN NICHT VERWENDET WERDEN. WÄHLEN SIE \"OK\", UM DIESES PROFIL ZU LÖSCHEN ODER \"ABBRECHEN\", UM ES ZU BEHALTEN.",
         "es": "EL PERFIL PARECE DAÑADO Y NO PUEDE USARSE. ELIGE \"ACEPTAR\" PARA BORRAR EL PERFIL O \"CANCELAR\" PARA DEJARLO.",
         "it": "IL PROFILO È DANNEGGIATO E NON PUÒ ESSERE USATO. SELEZIONA \"OK\" PER ELIMINARE IL PROFILO O \"ANNULLA\" PER MANTENERLO.",
-        "th": ""
+        "th": "โปรไฟล์นี้เสียหายและไม่สามารถใช้งานได้ เลือก \"ตกลง\" เพื่อลบ หรือ \"ยกเลิก\" เพื่อเก็บไว้"
       },
       "ProfileDeleteMsg": {
         "en": "ARE YOU SURE YOU WANT TO PERMANENTLY REMOVE YOUR PROFILE AND ALL YOUR CURRENT PROGRESS? SELECT \"OK\" TO DELETE THIS PROFILE OR \"CANCEL\" TO KEEP IT.",
@@ -2488,7 +2488,7 @@
         "de": "SIND SIE SICHER, DASS SIE IHR PROFIL UND DIE DAZUGEHÖRIGEN SPIELSTÄNDE LÖSCHEN WOLLEN? WÄHLEN SIE \"OK\", UM DIESES PROFIL ZU LÖSCHEN ODER \"ABBRECHEN\", UM ES ZU BEHALTEN.",
         "es": "¿SEGURO QUE QUIERES ELIMINAR PERMANENTEMENTE TU PERFIL Y TODO LO QUE HAS AVANZADO? ELIGE \"ACEPTAR\" PARA BORRAR EL PERFIL O \"CANCELAR\" PARA DEJARLO.",
         "it": "VUOI DAVVERO ELIMINARE DEFINITIVAMENTE IL TUO PROFILO E I PROGRESSI FATTI? SELEZIONA \"OK\" PER ELIMINARE IL PROFILO O \"ANNULLA\" PER MANTENERLO.",
-        "th": ""
+        "th": "คุณแน่ใจหรือไม่ว่าต้องการลบโปรไฟล์และความคืบหน้าทั้งหมดอย่างถาวร? เลือก \"ตกลง\" เพื่อลบ หรือ \"ยกเลิก\" เพื่อเก็บไว้"
       },
       "ProfileExistsMsg": {
         "en": "A PROFILE WAS FOUND WITH THE SAME NAME, PLEASE MODIFY THE NAME OR DELETE THE OTHER PROFILE",
@@ -2496,7 +2496,7 @@
         "de": "EIN PROFIL MIT DEM GLEICHEN NAMEN WURDE GEFUNDEN, BITTE ÄNDERN SIE DEN NAMEN ODER LÖSCHEN SIE DAS ANDERE PROFIL.",
         "es": "SE HA ENCONTRADO UN PERFIL CON EL MISMO NOMBRE. POR FAVOR, MODIFICA EL NOMBRE O BORRA EL OTRO PERFIL.",
         "it": "È STATO TROVATO UN PROFILO CON LO STESSO NOME. CAMBIA NOME O ELIMINA L'ALTRO PROFILO.",
-        "th": ""
+        "th": "พบโปรไฟล์ชื่อเดียวกันนี้แล้ว โปรดเปลี่ยนชื่อหรือลบโปรไฟล์เดิม"
       },
       "ProfileLimitReachedMsg": {
         "en": "MAXIMUM PROFILES REACHED. YOU MUST DELETE ONE OF YOUR PROFILES BEFORE YOU ARE ABLE TO CREATE A NEW ONE.",
@@ -2504,7 +2504,7 @@
         "de": "MAXIMALE ANZAHL VON PROFILEN ERREICHT. SIE MÜSSEN EINES IHRER PROFILE LÖSCHEN, BEVOR SIE EIN NEUES ERSTELLEN KÖNNEN.",
         "es": "SE HA SUPERADO EL LÍMITE DE PERFILES. DEBES BORRAR UNO DE LOS PERFILES ANTES DE CREAR UNO NUEVO.",
         "it": "HAI CREATO IL NUMERO MASSIMO DI PROFILI. DEVI CANCELLARE UNO DEI PROFILI PRIMA DI CREARNE UN ALTRO.",
-        "th": ""
+        "th": "โปรไฟล์เต็มจำนวนสูงสุดแล้ว คุณต้องลบโปรไฟล์เดิมก่อนจึงจะสร้างใหม่ได้"
       },
       "ProfileErrorCreateTitle": {
         "en": "NOT ENOUGH FREE BLOCKS",
@@ -2512,7 +2512,7 @@
         "de": "NICHT GENUG FREIE BLÖCKE",
         "es": "INSUFIC. BLOQUES LIBRES",
         "it": "BLOCCHI LIBERI INSUFFICIENTI",
-        "th": ""
+        "th": "พื้นที่จัดเก็บไม่เพียงพอ"
       },
       "ProfileErrorCreateMsg": {
         "en": "YOUR XBOX DOESN'T HAVE ENOUGH FREE BLOCKS TO SAVE A PROFILE. SELECT \"OK\" TO FREE %i BLOCKS OR \"CANCEL\".",
@@ -2520,7 +2520,7 @@
         "de": "IHRE XBOX VERFÜGT NICHT ÜBER GENUG SPEICHERBLÖCKE, UM EIN PROFIL ZU SPEICHERN. WÄHLEN SIE \"OK\", UM %i BLÖCKE FREIZUGEBEN ODER BRECHEN SIE DEN VORGANG AB.",
         "es": "TU XBOX NO TIENE SUFICIENTES BLOQUES LIBRES PARA GUARDAR UN PERFIL. ELIGE \"ACEPTAR\" PARA LIBERAR %i BLOQUES O \"CANCELAR\" PARA NO GUARDAR.",
         "it": "XBOX NON DISPONE DI SUFFICIENTI BLOCCHI LIBERI PER SALVARE UN PROFILO. SELEZIONA \"OK\" PER LIBERARE %i BLOCCHI O \"ANNULLA\".",
-        "th": ""
+        "th": "พื้นที่จัดเก็บไม่เพียงพอสำหรับสร้างโปรไฟล์ใหม่ เลือก \"ตกลง\" เพื่อเพิ่มพื้นที่ว่าง %i บล็อก หรือ \"ยกเลิก\""
       },
       "Player1": {
         "en": "PLAYER 1",
@@ -2528,7 +2528,7 @@
         "de": "SPIELER 1",
         "es": "JUGADOR 1",
         "it": "GIOCATORE 1",
-        "th": ""
+        "th": "ผู้เล่น 1"
       },
       "Player2": {
         "en": "PLAYER 2",
@@ -2536,7 +2536,7 @@
         "de": "SPIELER 2",
         "es": "JUGADOR 2",
         "it": "GIOCATORE 2",
-        "th": ""
+        "th": "ผู้เล่น 2"
       },
       "SaveProfileMsg": {
         "en": "SAVING YOUR NEW PROFILE...",
@@ -2544,7 +2544,7 @@
         "de": "NEUES PROFIL WIRD GESPEICHERT...",
         "es": "GUARDANDO EL PERFIL NUEVO...",
         "it": "SALVATAGGIO DEL NUOVO PROFILO...",
-        "th": ""
+        "th": "กำลังบันทึกโปรไฟล์ใหม่ของคุณ..."
       }
     },
     "LOADSAVE": {
@@ -2555,7 +2555,7 @@
         "de": "SPIEL LADEN",
         "es": "CARGAR PARTIDA",
         "it": "CARICA PARTITA",
-        "th": ""
+        "th": "โหลดเกม"
       },
       "NewGame": {
         "en": "NEW GAME",
@@ -2563,7 +2563,7 @@
         "de": "NEUES SPIEL",
         "es": "PARTIDA NUEVA",
         "it": "NUOVA PARTITA",
-        "th": ""
+        "th": "เริ่มเกมใหม่"
       },
       "SaveGame": {
         "en": "SAVE GAME",
@@ -2571,7 +2571,7 @@
         "de": "SPIEL SPEICHERN",
         "es": "GUARDAR PARTIDA",
         "it": "SALVA PARTITA",
-        "th": ""
+        "th": "บันทึกเกม"
       },
       "QuickSave": {
         "en": "(QUICK SAVE)",
@@ -2579,7 +2579,7 @@
         "de": "(SCHNELLSPEICHERN)",
         "es": "(GUARDADO RÁPIDO)",
         "it": "(SALVATAGGIO VELOCE)",
-        "th": ""
+        "th": "(เซฟด่วน)"
       },
       "EmptySave": {
         "en": "[EMPTY]",
@@ -2587,7 +2587,7 @@
         "de": "[LEER]",
         "es": "[VACÍO]",
         "it": "[VUOTO]",
-        "th": ""
+        "th": "[ว่างเปล่า]"
       },
       "LoadSavedGame": {
         "en": "PROGRESS",
@@ -2595,7 +2595,7 @@
         "de": "SPIELSTAND",
         "es": "PARTIDA GUARDADA",
         "it": "SALVATAGGIO",
-        "th": ""
+        "th": "ความคืบหน้า"
       },
       "LoadMission": {
         "en": "MISSION",
@@ -2603,7 +2603,7 @@
         "de": "MISSION",
         "es": "MISIÓN",
         "it": "MISSIONE",
-        "th": ""
+        "th": "ภารกิจ"
       },
       "OverwriteSaveTitle": {
         "en": "OVERWRITE PROGRESS",
@@ -2611,7 +2611,7 @@
         "de": "SPIELSTAND ÜBERSCHREIBEN",
         "es": "SOBRESCRIBIR PARTIDA",
         "it": "SOVRASCRITTURA DEL SALVATAGGIO",
-        "th": ""
+        "th": "บันทึกทับความคืบหน้า"
       },
       "OverwriteSaveMsg": {
         "en": "ARE YOU SURE YOU WANT TO OVERWRITE THIS PROGRESS?",
@@ -2619,7 +2619,7 @@
         "de": "SIND SIE SICHER, DASS SIE DIESEN SPIELSTAND ÜBERSCHREIBEN WOLLEN?",
         "es": "¿SEGURO QUE QUIERES SOBRESCRIBIR ESTA PARTIDA?",
         "it": "VUOI DAVVERO SOVRASCRIVERE QUESTO SALVATAGGIO?",
-        "th": ""
+        "th": "คุณแน่ใจหรือไม่ว่าต้องการบันทึกทับความคืบหน้านี้?"
       },
       "DeleteSaveTitle": {
         "en": "ERASE PROGRESS",
@@ -2627,7 +2627,7 @@
         "de": "SPIELSTAND LÖSCHEN",
         "es": "BORRAR PARTIDA",
         "it": "CANCELLAZIONE DI UN SALVATAGGIO",
-        "th": ""
+        "th": "ลบความคืบหน้า"
       },
       "DeleteSaveMsg": {
         "en": "ARE YOU SURE YOU WANT TO ERASE THIS PROGRESS? ",
@@ -2635,7 +2635,7 @@
         "de": "SIND SIE SICHER, DASS SIE DIESEN SPIELSTAND LÖSCHEN WOLLEN? ",
         "es": "¿SEGURO QUE QUIERES BORRAR LA PARTIDA GUARDADA? ",
         "it": "VUOI DAVVERO CANCELLARE QUESTO SALVATAGGIO? ",
-        "th": ""
+        "th": "คุณแน่ใจหรือไม่ว่าต้องการลบความคืบหน้านี้?"
       },
       "DeleteAllSavesTitle": {
         "en": "ERASE ALL PROGRESS",
@@ -2643,7 +2643,7 @@
         "de": "GESAMT-SPIELSTAND LÖSCHEN",
         "es": "BORRAR LAS PARTIDAS",
         "it": "CANCELLAZIONE DI TUTTI I SALVATAGGI",
-        "th": ""
+        "th": "ลบความคืบหน้าทั้งหมด"
       },
       "DeleteAllSavesMsg": {
         "en": "ARE YOU SURE YOU WANT TO ERASE ALL YOUR PROGRESS? ",
@@ -2651,7 +2651,7 @@
         "de": "SIND SIE SICHER, DASS SIE IHREN GESAMT-SPIELSTAND LÖSCHEN WOLLEN? ",
         "es": "¿SEGURO QUE QUIERES BORRAR TODO LO AVANZADO? ",
         "it": "VUOI DAVVERO CANCELLARE TUTTI I SALVATAGGI? ",
-        "th": ""
+        "th": "คุณแน่ใจหรือไม่ว่าต้องการลบความคืบหน้าทั้งหมดของคุณ?"
       },
       "ErrorSavingTitle": {
         "en": "NOT ENOUGH FREE BLOCKS",
@@ -2659,7 +2659,7 @@
         "de": "NICHT GENUG FREIE SPEICHERBLÖCKE",
         "es": "NO HAY SUFICIENTES BLOQUES LIBRES",
         "it": "BLOCCHI LIBERI INSUFFICIENTI",
-        "th": ""
+        "th": "พื้นที่จัดเก็บไม่เพียงพอ"
       },
       "ErrorSavingMsg": {
         "en": "YOUR XBOX DOESN'T HAVE ENOUGH FREE BLOCKS TO SAVE THE CHECKPOINT. SELECT \"OK\" TO FREE %i BLOCKS OR \"CANCEL\" TO TRY TO ERASE ANOTHER PROGRESS IN YOUR LIST.",
@@ -2667,7 +2667,7 @@
         "de": "IHRE XBOX VERFÜGT NICHT ÜBER GENUG SPEICHERBLÖCKE, UM DIESEN SPEICHERPUNKT ZU SICHERN. WÄHLEN SIE \"OK\", UM %i BLÖCKE ZU LÖSCHEN, ODER VERSUCHEN SIE EINEN ANDEREN SPIELSTAND IN IHRER LISTE ZU LÖSCHEN.",
         "es": "TU XBOX NO TIENE SUFICIENTES BLOQUES LIBRES PARA GUARDAR EL CHECKPOINT. ELIGE \"ACEPTAR\" PARA LIBERAR %i BLOQUES O \"CANCELAR\" PARA GUARDAR OTRA PARTIDA DE TU LISTA.",
         "it": "XBOX NON DISPONE DI BLOCCHI LIBERI SUFFICIENTI PER SALVARE IL CHECKPOINT. SELEZIONA \"OK\" PER LIBERARE %i BLOCCHI O \"ANNULLA\" PER CANCELLARE UN ALTRO SALVATAGGIO.",
-        "th": ""
+        "th": "พื้นที่จัดเก็บไม่เพียงพอสำหรับบันทึกจุดเช็คพอยต์ เลือก \"ตกลง\" เพื่อเพิ่มพื้นที่ว่าง %i บล็อก หรือ \"ยกเลิก\" เพื่อลองลบความคืบหน้าอื่นในรายการของคุณ"
       },
       "LoadSavedGameInGame": {
         "en": "YOU ARE ABOUT TO QUIT YOUR GAME. YOUR CURRENT PROGRESS WILL BE LOST. SELECT \"OK\" TO CONTINUE OR \"CANCEL\".",
@@ -2675,7 +2675,7 @@
         "de": "SIE SIND DABEI DAS SPIEL ZU BEENDEN. JEDER SPIELSTAND GEHT DABEI VERLOREN. WÄHLEN SIE \"OK\" UM FORTZUFAHREN ODER \"ABBRECHEN\".",
         "es": "VAS A ABANDONAR LA PARTIDA. PERDERÁS LO QUE HAS AVANZADO. ELIGE \"ACEPTAR\" PARA SALIR O \"CANCELAR\" PARA QUEDARTE.",
         "it": "STAI PER USCIRE DALLA PARTITA. I PROGRESSI ANDRANNO PERDUTI. SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
-        "th": ""
+        "th": "คุณกำลังจะออกจากเกม ความคืบหน้าปัจจุบันจะสูญหาย เลือก \"ตกลง\" เพื่อดำเนินการต่อ หรือ \"ยกเลิก\""
       },
       "LoadSavedGameWrongMode": {
         "en": "YOU CANNOT LOAD THIS SAVED GAME FROM ANOTHER GAME MODE.",
@@ -2683,7 +2683,7 @@
         "de": "SPIELSTAND AUS ANDEREM SPIELMODUS KANN NICHT GELADEN WERDEN.",
         "es": "NO SE PUEDE CARGAR PARTIDA DE OTRO MODO DE JUEGO.",
         "it": "IMPOSSIBILE CARICARE LA PARTITA SALVATA IN UN'ALTRA MODALITÀ DI GIOCO.",
-        "th": ""
+        "th": "ไม่สามารถโหลดไฟล์เซฟนี้จากโหมดเกมอื่นได้"
       },
       "LoadSavedGameWrongRole": {
         "en": "YOU CANNOT LOAD THIS SAVED GAME AS HOST SINCE YOU PLAYED AS CLIENT.",
@@ -2691,7 +2691,7 @@
         "de": "SIE KÖNNEN DAS SPIEL NICHT ALS HOST LADEN, DA SIE ES ALS CLIENT BEGONNEN HABEN:",
         "es": "NO PUEDES CARGAR ESTA PARTIDA GUARDADA COMO SERVIDOR PORQUE JUEGAS COMO CLIENTE.",
         "it": "NON PUOI CARICARE QUESTO SALVATAGGIO COME HOST DATO CHE HAI GIOCATO COME CLIENT.",
-        "th": ""
+        "th": "ไม่สามารถโหลดไฟล์เซฟนี้ในฐานะโฮสต์ได้ เนื่องจากคุณเล่นในฐานะลูกข่าย"
       },
       "LoadSavedGameNotFriend": {
         "en": "UNABLE TO LOAD SAVED GAME SINCE PLAYER IS NOT YOUR FRIEND",
@@ -2699,7 +2699,7 @@
         "de": "SPIELSTAND KANN NICHT GELADEN WERDEN, DA ES SICH BEI DEM SPIELER NICHT UM IHREN FREUND HANDELT",
         "es": "IMPOSIBLE CARGAR PARTIDA PORQUE EL JUGADOR NO ES TU AMIGO.",
         "it": "IMPOSSIBILE CARICARE LA PARTITA PERCHÉ IL GIOCATORE NON È TUO AMICO.",
-        "th": ""
+        "th": "ไม่สามารถโหลดเซฟได้เนื่องจากผู้เล่นไม่ได้อยู่ในรายชื่อเพื่อนของคุณ"
       },
       "LoadSavedGameInviteFriend": {
         "en": "TO LOAD THIS SAVED GAME, YOU MUST INVITE YOUR FRIEND. SELECT \"OK\" TO SEND AN INVITE TO %s AND CONTINUE.",
@@ -2707,7 +2707,7 @@
         "de": "UM DIESEN SPIELSTAND ZU LADEN, MÜSSEN SIE IHREN FREUND EINLADEN. WÄHLEN SIE \"OK\", UM %s EINZULADEN UND FORTZUFAHREN",
         "es": "PARA CARGAR ESTA PARTIDA DEBES INVITAR A TU AMIGO. ELIGE \"ACEPTAR\" PARA ENVIAR UNA INVITACIÓN A %s Y CONTINUAR.",
         "it": "PER CARICARE QUESTA PARTITA DEVI INVITARE IL TUO AMICO. SELEZIONA \"OK\" PER SPEDIRE UN INVITO A %s E CONTINUARE.",
-        "th": ""
+        "th": "ในการโหลดเซฟนี้ คุณต้องเชิญเพื่อนของคุณ เลือก \"ตกลง\" เพื่อส่งคำเชิญไปยัง %s และเล่นต่อ"
       },
       "SavedMissingSpaceMsg": {
         "en": "YOUR XBOX DOESN'T HAVE ENOUGH FREE BLOCKS TO SAVE %i CHECKPOINTS. SELECT \"OK\" TO FREE %i BLOCKS OR \"CANCEL\".",
@@ -2715,7 +2715,7 @@
         "de": "IHRE XBOX VERFÜGT NICHT ÜBER GENUG SPEICHERBLÖCKE, UM DIESEN SPEICHERPUNKT ZU SICHERN. WÄHLEN SIE \"OK\", UM %i BLÖCKE FREIZUGEBEN ODER BRECHEN SIE DEN VORGANG AB.",
         "es": "TU XBOX NO TIENE SUFICIENTES BLOQUES LIBRES PARA GUARDAR %i CHECKPOINTS. ELIGE \"ACEPTAR\" PARA LIBERAR %i BLOQUES O \"CANCELAR\" PARA ANULAR.",
         "it": "XBOX NON DISPONE DI BLOCCHI LIBERI SUFFICIENTI PER SALVARE IL CHECKPOINT. SELEZIONA \"OK\" PER LIBERARE %i BLOCCHI O \"ANNULLA\" PER CANCELLARE UN ALTRO SALVATAGGIO.",
-        "th": ""
+        "th": "พื้นที่ว่างไม่เพียงพอสำหรับการบันทึก %i จุดเช็คพอยต์ เลือก \"ตกลง\" เพื่อเพิ่มพื้นที่ว่าง %i บล็อก หรือ \"ยกเลิก\""
       },
       "SavedMissingSpaceDontCareMsg": {
         "en": "IF YOU STILL WANT TO PLAY THE GAME, SELECT \"OK\" TO CONTINUE OR \"CANCEL\".",
@@ -2723,7 +2723,7 @@
         "de": "WENN SIE NOCH SPIELEN WOLLEN, WÄHLEN SIE \"OK\" UM FORTZUFAHREN ODER \"ABBRECHEN\".",
         "es": "SI QUIERES JUGAR ESTA PARTIDA, ELIGE \"ACEPTAR\" PARA CONTINUAR.",
         "it": "SE VUOI GIOCARE LO STESSO QUESTA PARTITA, SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
-        "th": ""
+        "th": "หากคุณยังต้องการเล่นต่อ เลือก \"ตกลง\" เพื่อดำเนินการต่อ หรือ \"ยกเลิก\""
       },
       "SaveGameErrorLoadTitle": {
         "en": "DAMAGED SAVE GAME",
@@ -2731,7 +2731,7 @@
         "de": "BESCHÄDIGTER SPIELSTAND",
         "es": "PARTIDA DAÑADA",
         "it": "SALVATAGGIO DANNEGGIATO",
-        "th": ""
+        "th": "ไฟล์เซฟเสียหาย"
       },
       "SaveGameErrorLoadMsg": {
         "en": "THIS SAVE GAME APPEARS TO BE DAMAGED AND CANNOT BE LOADED.",
@@ -2739,7 +2739,7 @@
         "de": "DIESER SPIELSTAND SCHEINT BESCHÄDIGT ZU SEIN UND KANN NICHT GELADEN WERDEN.",
         "es": "ESTA PARTIDA PARECE DAÑADA Y NO PUEDE CARGARSE.",
         "it": "QUESTO SALVATAGGIO È DANNEGGIATO E NON PUÒ ESSERE USATO.",
-        "th": ""
+        "th": "ไฟล์เซฟนี้ดูเหมือนจะเสียหายและไม่สามารถโหลดได้"
       },
       "SaveGameErrorSaveTitle": {
         "en": "SAVE GAME",
@@ -2747,7 +2747,7 @@
         "de": "SPIEL SPEICHERN",
         "es": "GUARDAR PARTIDA",
         "it": "SALVATAGGIO",
-        "th": ""
+        "th": "บันทึกเกม"
       },
       "SaveGameErrorSaveMsg": {
         "en": "UNABLE TO SAVE THIS GAME.",
@@ -2755,7 +2755,7 @@
         "de": "SPIELSTAND KANN NICHT GELADEN WERDEN.",
         "es": "IMPOSIBLE GUARDAR PARTIDA.",
         "it": "IMPOSSIBILE SALVARE QUESTA PARTITA.",
-        "th": ""
+        "th": "ไม่สามารถบันทึกเกมนี้ได้"
       },
       "SaveModeInfo": {
         "en": "SAVE MODE",
@@ -2763,7 +2763,7 @@
         "de": "SPEICHERMODUS",
         "es": "MODO DE GUARDADO",
         "it": "MODALITÀ SALVATAGGIO",
-        "th": ""
+        "th": "โหมดเซฟ"
       },
       "TeammateInfo": {
         "en": "TEAMMATE",
@@ -2771,7 +2771,7 @@
         "de": "TEAMKAMERAD",
         "es": "COMPAÑERO",
         "it": "COMPAGNO",
-        "th": ""
+        "th": "เพื่อนร่วมทีม"
       },
       "MissionInfo": {
         "en": "MISSION",
@@ -2779,7 +2779,7 @@
         "de": "MISSION",
         "es": "MISIÓN",
         "it": "MISSIONE",
-        "th": ""
+        "th": "ภารกิจ"
       },
       "DifficultyInfo": {
         "en": "DIFFICULTY",
@@ -2787,7 +2787,7 @@
         "de": "SCHWIERIGKEIT",
         "es": "DIFICULTAD",
         "it": "DIFFICOLTÀ",
-        "th": ""
+        "th": "ระดับความยาก"
       },
       "StatusInfo": {
         "en": "STATUS",
@@ -2795,7 +2795,7 @@
         "de": "STATUS",
         "es": "ESTADO",
         "it": "SITUAZIONE",
-        "th": ""
+        "th": "สถานะ"
       },
       "RatingInfo": {
         "en": "RATING",
@@ -2803,7 +2803,7 @@
         "de": "BEWERTUNG",
         "es": "CALIFICACIÓN",
         "it": "PUNTEGGIO",
-        "th": ""
+        "th": "คะแนนประเมิน"
       },
       "TimePlayedInfo": {
         "en": "TIME PLAYED",
@@ -2811,7 +2811,7 @@
         "de": "GESPIELTE ZEIT",
         "es": "TIEMPO DE JUEGO",
         "it": "TEMPO DI GIOCO",
-        "th": ""
+        "th": "เวลาที่เล่น"
       },
       "SaveGameNewFriend": {
         "en": "TO BE ABLE TO PLAY THIS SAVED GAME WITH THE SAME PLAYER, YOU MUST ADD HIM TO YOUR FRIENDS LIST. DO YOU WISH TO ADD HIM TO YOUR FRIENDS LIST?",
@@ -2819,7 +2819,7 @@
         "de": "UM DIESEN SPIELSTAND MIT DEMSELBEN SPIELER WEITER ZU SPIELEN, MÜSSEN SIE IHN AUF IHRE FREUNDESLISTE SETZEN. WOLLEN SIE IHN AUF IHRE FREUNDESLISTE SETZEN?",
         "es": "PARA JUGAR ESTA PARTIDA CON EL MISMO JUGADOR DEBES AÑADIRLE A TU LISTA DE AMIGOS. ¿QUIERES AÑADIRLE AHORA A TU LISTA?",
         "it": "PER RIPRENDERE DA QUESTO SALVATAGGIO CON LO STESSO GIOCATORE, DEVI AGGIUNGERLO ALLA TUA LISTA AMICI. VUOI AGGIUNGERLO ALLA TUA LISTA AMICI?",
-        "th": ""
+        "th": "เพื่อให้สามารถเล่นไฟล์เซฟนี้กับผู้เล่นเดิมได้ คุณต้องเพิ่มเขาในรายชื่อเพื่อน คุณต้องการเพิ่มเขาเป็นเพื่อนหรือไม่?"
       },
       "HostWantSave": {
         "en": "YOUR TEAMMATE WANTS TO PERMANENTLY SAVE THIS GAME. DO YOU WISH TO SAVE IT TOO? ",
@@ -2827,7 +2827,7 @@
         "de": "IHR TEAMKOLLEGE MÖCHTE DAS SPIEL ENDGÜLTIG SPEICHERN. SIND SIE DAMIT EINVERSTANDEN? ",
         "es": "TU COMPAÑERO QUIERE GUARDAR PERMANENTEMENTE LA PARTIDA. ¿TÚ TAMBIÉN QUIERES GUARDARLA? ",
         "it": "IL TUO COMPAGNO DI SQUADRA VUOLE SALVARE IN MODO PERMANENTE QUESTA PARTITA. VUOI SALVARLA ANCHE TU? ",
-        "th": ""
+        "th": "เพื่อนร่วมทีมต้องการบันทึกเกมนี้ถาวร คุณต้องการบันทึกด้วยหรือไม่? "
       },
       "ClientRefuseSave": {
         "en": "YOUR TEAMMATE REFUSED TO PERMANENTLY SAVE THIS GAME. ",
@@ -2835,7 +2835,7 @@
         "de": "IHR TEAMKOLLEGE WEIGERT SICH, DAS SPIEL ENDGÜLTIG ZU SPEICHERN. ",
         "es": "TU COMPAÑERO NO HA QUERIDO GUARDAR ESTA PARTIDA. ",
         "it": "IL TUO COMPAGNO DI SQUADRA SI E' RIFIUTATO DI SALVARE IN MODO PERMANENTE QUESTA PARTITA. ",
-        "th": ""
+        "th": "เพื่อนร่วมทีมปฏิเสธการบันทึกเกมถาวร "
       }
     },
     "LOADOUT": {
@@ -2846,7 +2846,7 @@
         "de": "AUSRÜSTUNGSKONFIG",
         "es": "SELECCIONAR ARMA",
         "it": "EQUIPAGGIAMENTO",
-        "th": ""
+        "th": "เลือกอุปกรณ์"
       },
       "LoadOutSubTitle": {
         "en": "EQUIPED GEAR",
@@ -2854,7 +2854,7 @@
         "de": "MITGEFÜHRTE AUSRÜSTUNG",
         "es": "DISPOSITIVO EQUIPADO",
         "it": "OGGETTI ATTIVI",
-        "th": ""
+        "th": "อุปกรณ์ที่ติดตั้ง"
       },
       "LoadOutSelTitle": {
         "en": "EQUIPMENT SELECTION",
@@ -2862,7 +2862,7 @@
         "de": "AUSRÜSTUNGS-AUSWAHL",
         "es": "SELECCIÓN DE EQUIPAMIENTO",
         "it": "SELEZIONE EQUIPAGGIAMENTO",
-        "th": ""
+        "th": "เลือกอุปกรณ์"
       },
       "LoadOutAttachSelTitle": {
         "en": "ATTACHMENT SELECTION ",
@@ -2870,7 +2870,7 @@
         "de": "MODUL-ANHANG ",
         "es": "SELECCIÓN DE ACCESORIO ",
         "it": "SELEZIONE DISPOSITIVO ",
-        "th": ""
+        "th": "เลือกอุปกรณ์เสริม"
       },
       "LoadOutInfoTitle": {
         "en": "EQUIPMENT INFO",
@@ -2878,7 +2878,7 @@
         "de": "AUSRÜSTUNGS-INFO",
         "es": "DATOS DEL EQUIPAMIENTO",
         "it": "INFORMAZIONI EQUIPAGGIAMENTO",
-        "th": ""
+        "th": "ข้อมูลอุปกรณ์"
       },
       "LoadOutItemEmpty": {
         "en": "[EMPTY]",
@@ -2886,7 +2886,7 @@
         "de": "[LEER]",
         "es": "[VACÍO]",
         "it": "[VUOTO]",
-        "th": ""
+        "th": "[ว่างเปล่า]"
       },
       "LoadOutItemLocked": {
         "en": "[LOCKED]",
@@ -2894,7 +2894,7 @@
         "de": "[GESPERRT]",
         "es": "[BLOQUEADO]",
         "it": "[BLOCCATO]",
-        "th": ""
+        "th": "[ล็อกอยู่]"
       },
       "LoadOutType[0]": {
         "en": "REDDING'S RECOMMENDATION",
@@ -2902,7 +2902,7 @@
         "de": "REDDING",
         "es": "REDDING",
         "it": "REDDING",
-        "th": ""
+        "th": "คำแนะนำของเรดดิง"
       },
       "LoadOutType[1]": {
         "en": "STEALTH",
@@ -2910,7 +2910,7 @@
         "de": "DUCKEN",
         "es": "SIGILO",
         "it": "FURTIVITÀ",
-        "th": ""
+        "th": "สายลอบเร้น"
       },
       "LoadOutType[2]": {
         "en": "ASSAULT",
@@ -2918,7 +2918,7 @@
         "de": "ANGRIFF",
         "es": "ASALTO",
         "it": "ASSALTO",
-        "th": ""
+        "th": "สายจู่โจม"
       },
       "LoadOutType[3]": {
         "en": "HOST",
@@ -2926,7 +2926,7 @@
         "de": "HOST",
         "es": "SERVIDOR",
         "it": "HOST",
-        "th": ""
+        "th": "เจ้าของห้อง"
       },
       "LoadOutType[4]": {
         "en": "CLIENT",
@@ -2934,7 +2934,7 @@
         "de": "KLIENT",
         "es": "CLIENTE",
         "it": "CLIENTE",
-        "th": ""
+        "th": "ผู้เข้าร่วม"
       }
     },
     "BRIEFING": {
@@ -2945,7 +2945,7 @@
         "de": "BRIEFING",
         "es": "INFORME",
         "it": "BRIEFING",
-        "th": ""
+        "th": "สรุปภารกิจ"
       },
       "BriefingSubTitle": {
         "en": "BRIEFING",
@@ -2953,7 +2953,7 @@
         "de": "BRIEFING",
         "es": "INFORME DE MISIÓN",
         "it": "BRIEFING",
-        "th": ""
+        "th": "ข้อมูลสรุปภารกิจ"
       },
       "LAMBERT": {
         "en": "COLONEL IRVING LAMBERT",
@@ -2961,7 +2961,7 @@
         "de": "COLONEL IRVING LAMBERT",
         "es": "CORONEL IRVING LAMBERT",
         "it": "COLONNELLO IRVING LAMBERT",
-        "th": ""
+        "th": "พันเอก เออร์วิง แลมเบิร์ต"
       },
       "GRIMSDOTTIR": {
         "en": "ANNA GRIMSDOTTIR",
@@ -2969,7 +2969,7 @@
         "de": "ANNA GRIMSDOTTIR",
         "es": "ANNA GRIMSDOTTIR",
         "it": "ANNA GRIMSDOTTIR",
-        "th": ""
+        "th": "แอนนา กริมสดอตตีร์"
       },
       "REDDING": {
         "en": "WILLIAM REDDING",
@@ -2977,7 +2977,7 @@
         "de": "WILLIAM REDDING",
         "es": "WILLIAM REDDING",
         "it": "WILLIAM REDDING",
-        "th": ""
+        "th": "วิลเลียม เรดดิง"
       },
       "SHETLAND": {
         "en": "DOUGLAS SHETLAND",
@@ -2985,7 +2985,7 @@
         "de": "DOUGLAS SHETLAND",
         "es": "DOUGLAS SHETLAND",
         "it": "DOUGLAS SHETLAND",
-        "th": ""
+        "th": "ดักลาส เชตแลนด์"
       },
       "OTOMO": {
         "en": "ADMIRAL TOSHIRO OTOMO",
@@ -2993,7 +2993,7 @@
         "de": "ADMIRAL TOSHIRO OTOMO",
         "es": "ALMIRANTE TOSHIRO OTOMO",
         "it": "AMMIRAGLIO TOSHIRO OTOMO",
-        "th": ""
+        "th": "พลเรือเอก โทชิโร โอโตโมะ"
       },
       "PATRIDGE": {
         "en": "CAPTAIN ARTHUR PARTRIDGE",
@@ -3001,7 +3001,7 @@
         "de": "CAPTAIN ARTHUR PATRIDGE",
         "es": "CAPITÁN ARTHUR PARTRIDGE",
         "it": "CAPITANO ARTHUR PATRIDGE",
-        "th": ""
+        "th": "กัปตัน อาร์เธอร์ พาร์ทริดจ์"
       },
       "MASSON": {
         "en": "SECRETARY FRANK MASSON",
@@ -3009,7 +3009,7 @@
         "de": "MINISTER FRANK MASSON",
         "es": "SECRETARIO FRANK MASSON",
         "it": "SEG. DI STATO FRANK MASON",
-        "th": ""
+        "th": "รัฐมนตรี แฟรงก์ แมสสัน"
       },
       "TURTLE": {
         "en": "THOMAS \"THE TURTLE\" STANDISH",
@@ -3017,7 +3017,7 @@
         "de": "THOMAS \"TURTLE\" STANDISH",
         "es": "THOMAS STANDISH\"EL TORTUGA\"",
         "it": "THOMAS \"THE TURTLE\" STANDISH",
-        "th": ""
+        "th": "โธมัส \"เดอะ เทอร์เทิล\" สแตนดิช"
       },
       "Briefing_LAMBERT": {
         "en": "COLONEL IRVING LAMBERT BRIEFING",
@@ -3025,7 +3025,7 @@
         "de": "EINSATZBESPRECHUNG - COLONEL IRVING LAMBERT",
         "es": "CORONEL IRVING LAMBERT",
         "it": "BRIEFING DEL COLONNELLO IRVING LAMBERT",
-        "th": ""
+        "th": "ข้อมูลสรุปจากพันเอก เออร์วิง แลมเบิร์ต"
       },
       "Briefing_GRIMSDOTTIR": {
         "en": "ANNA GRIMSDOTTIR BRIEFING",
@@ -3033,7 +3033,7 @@
         "de": "EINSATZBESPRECHUNG - ANNA GRIMSDOTTIR",
         "es": "EXPEDIENTE DE ANNA GRIMSDOTTIR",
         "it": "BRIEFING DI ANNA GRIMSDOTTIR",
-        "th": ""
+        "th": "ข้อมูลสรุปจากแอนนา กริมสดอตตีร์"
       },
       "Briefing_REDDING": {
         "en": "WILLIAM REDDING BRIEFING",
@@ -3041,7 +3041,7 @@
         "de": "EINSATZBESPRECHUNG - WILLIAM REDDING",
         "es": "EXPEDIENTE DE WILLIAM REDDING",
         "it": "BRIEFING DI WILLIAM REDDING",
-        "th": ""
+        "th": "ข้อมูลสรุปจากวิลเลียม เรดดิง"
       },
       "Briefing_SHETLAND": {
         "en": "DOUGLAS SHETLAND BRIEFING",
@@ -3049,7 +3049,7 @@
         "de": "EINSATZBESPRECHUNG - DOUGLAS SHETLAND",
         "es": "EXPEDIENTE DE DOUGLAS SHETLAND",
         "it": "BRIEFING DI DOUGLAS SHETLAND",
-        "th": ""
+        "th": "ข้อมูลสรุปจากดักลาส เชตแลนด์"
       },
       "Briefing_OTOMO": {
         "en": "ADMIRAL TOSHIRO OTOMO BRIEFING",
@@ -3057,7 +3057,7 @@
         "de": "EINSATZBESPRECHUNG - ADMIRAL TOSHIRO OTOMO",
         "es": "ALMIRANTE TOSHIRO OTOMO",
         "it": "BRIEFING DELL'AMMIRAGLIO TOSHIRO OTOMO",
-        "th": ""
+        "th": "ข้อมูลสรุปจากพลเรือเอก โทชิโร โอโตโมะ"
       },
       "Briefing_PATRIDGE": {
         "en": "CAPTAIN ARTHUR PARTRIDGE BRIEFING",
@@ -3065,7 +3065,7 @@
         "de": "EINSATZBESPRECHUNG - CAPTAIN ARTHUR",
         "es": "EXPEDIENTE DEL CAPITÁN ARTHUR PARTRIDGE",
         "it": "BRIEFING DEL CAPITANO ARTHUR PARTRIDGE",
-        "th": ""
+        "th": "ข้อมูลสรุปจากกัปตัน อาร์เธอร์ พาร์ทริดจ์"
       },
       "Briefing_MASSON": {
         "en": "MASSON BRIEFING",
@@ -3073,7 +3073,7 @@
         "de": "EINSATZBESPRECHUNG - MASSON",
         "es": "EXPEDIENTE MASSON",
         "it": "BRIEFING DI MASON",
-        "th": ""
+        "th": "ข้อมูลสรุปจากแมสสัน"
       },
       "Briefing_TURTLE": {
         "en": "THOMAS \"THE TURTLE\" STANDISH BRIEFING",
@@ -3081,7 +3081,7 @@
         "de": "EINSATZBESPRECHUNG - THOMAS \"TURTLE\" STANDISH",
         "es": "EXPEDIENTE DE THOMAS STANDISH, \"EL TORTUGA\"",
         "it": "BRIEFING DI THOMAS \"THE TURTLE\" STANDISH",
-        "th": ""
+        "th": "ข้อมูลสรุปจากโธมัส \"เดอะ เทอร์เทิล\" สแตนดิช"
       }
     },
     "TRAINING": {
@@ -3092,7 +3092,7 @@
         "de": "AUSBILDUNGSVIDEOS",
         "es": "VIDEOS ENTRENAMIENTO",
         "it": "VIDEO DI ALLENAMENTO",
-        "th": ""
+        "th": "วิดีโอฝึกสอน"
       }
     }
   }

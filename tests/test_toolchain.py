@@ -285,6 +285,128 @@ class TestCompiler(unittest.TestCase):
         lines = [line for line in serialized.decode("cp874").splitlines() if line]
         self.assertEqual(lines, ["[GENERAL]", "MapName= ประภาคาร "])
 
+    def test_main_menu_translations_and_cp874(self):
+        """Test that main menu translations in pregame_pc.json and pregame_menus.json are populated and CP874 encodable."""
+        pc_path = PROJECT_ROOT / "data" / "translations" / "ui" / "pregame_pc.json"
+        with open(pc_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        # Essential main menu keys that must be translated in Thai
+        checks = {
+            ("MenuGameType", "Title"): "เลือกโหมดเกม",
+            ("MenuGameType", "SinglePlayer"): "เล่นคนเดียว",
+            ("MenuGameType", "Cooperative"): "ร่วมมือกัน",
+            ("MenuSolo", "Title"): "เมนูหลัก",
+            ("MenuSolo", "Continue"): "เล่นต่อ",
+            ("MenuSolo", "NewGame"): "เริ่มเกมใหม่",
+            ("MenuSolo", "Loadgame"): "โหลดเกม",
+            ("MenuSolo", "Settings"): "ตั้งค่า",
+            ("MenuSolo", "ProfileManagement"): "จัดการโปรไฟล์",
+            ("MenuSolo", "Extras"): "เนื้อหาพิเศษ",
+            ("MenuNewGame", "Title"): "ระดับความยาก",
+            ("MenuLoadGame", "Title"): "โหลดเกม",
+            ("MenuSaveGame", "Title"): "บันทึกเกม",
+            ("MenuProfileManagement", "Title"): "โปรไฟล์",
+            ("MenuPause", "Title"): "เมนูหยุดเกม",
+            ("MenuPause", "ResumeGame"): "เล่นต่อ",
+            ("MenuPause", "Quit"): "กลับสู่เมนูหลัก",
+            ("MenuSettings", "Title"): "การตั้งค่า",
+            ("MenuSettings", "Controls"): "การควบคุม",
+            ("MenuSettings", "Display"): "การแสดงผล",
+            ("MenuSettings", "Sounds"): "ระบบเสียง",
+            ("Loading", "PressKey"): "กดปุ่มใดๆ เพื่อเล่นต่อ",
+        }
+
+        for (sec, key), expected_th in checks.items():
+            val = data["sections"].get(sec, {}).get(key, {}).get("th", "")
+            self.assertTrue(val, f"Missing translation for pregame_pc {sec}/{key}")
+            self.assertEqual(val, expected_th)
+            # Verify CP874 encodability
+            raw = val.encode("cp874")
+            self.assertTrue(len(raw) > 0)
+
+        # Check pregame_menus.json
+        menus_path = PROJECT_ROOT / "data" / "translations" / "ui" / "pregame_menus.json"
+        with open(menus_path, "r", encoding="utf-8") as f:
+            menus_data = json.load(f)
+
+        menu_checks = {
+            ("COMMON", "MainTitleSolo"): "เล่นคนเดียว",
+            ("COMMON", "MainTitleCoop"): "ร่วมมือกัน",
+            ("COMMON", "Accept"): "ยืนยัน",
+            ("COMMON", "Back"): "ย้อนกลับ",
+            ("COMMON", "Continue"): "เล่นต่อ",
+            ("COMMON", "Select"): "เลือก",
+            ("OPTIONS", "OptionsTitle"): "การตั้งค่า",
+            ("OPTIONS", "ControllerTitle"): "การควบคุม",
+            ("OPTIONSVALUE", "OptionYes"): "ใช่",
+            ("OPTIONSVALUE", "OptionNo"): "ไม่",
+            ("PROFILES", "Profiles"): "โปรไฟล์",
+            ("PROFILES", "NewProfile"): "สร้างโปรไฟล์ใหม่",
+            ("LOADSAVE", "LoadGame"): "โหลดเกม",
+            ("LOADSAVE", "NewGame"): "เริ่มเกมใหม่",
+        }
+
+        for (sec, key), expected_th in menu_checks.items():
+            val = menus_data["sections"].get(sec, {}).get(key, {}).get("th", "")
+            self.assertTrue(val, f"Missing translation for pregame_menus {sec}/{key}")
+            self.assertEqual(val, expected_th)
+            raw = val.encode("cp874")
+            self.assertTrue(len(raw) > 0)
+
+    def test_chakra_petch_font_config_and_build(self):
+        """Test that Chakra Petch font is properly configured and builds PCX fonts."""
+        from src.pipeline.font_builder import build_thai_fonts
+        cfg_path = PROJECT_ROOT / "config.json"
+        with open(cfg_path, "r", encoding="utf-8") as f:
+            cfg = json.load(f)
+        self.assertIn("ChakraPetch", cfg.get("active_font", ""))
+
+        stats = build_thai_fonts(verbose=False)
+        self.assertEqual(stats["fonts_processed"], 5)
+        for font_name in ["titre_regular_integration.pcx", "titre_bold_integration.pcx", "txt_integration.pcx"]:
+            self.assertIn(font_name, stats["glyphs_injected"])
+            self.assertGreater(stats["glyphs_injected"][font_name], 80)
+
+    def test_magma_builder(self):
+        """Test building Magma UI fonts with Chakra Petch glyph injection."""
+        from src.pipeline.magma_builder import build_magma_fonts
+        assets = build_magma_fonts(verbose=False)
+        self.assertIn(r"Data\Magma\DataPC\Fonts\Bios Three Regular 20.mft", list(assets))
+        self.assertIn(r"Data\Magma\DataPC\Fonts\Bios Three Regular 20 5.tga", list(assets))
+        self.assertIn(r"Data\Magma\DataPC\Fonts\prototype regular 13.mft", list(assets))
+
+        mft_data = assets[r"Data\Magma\DataPC\Fonts\Bios Three Regular 20.mft"]
+        self.assertTrue(mft_data.startswith(b"Magma Font\x00"))
+        from src.pipeline.magma_builder import read_mft
+        records, pages, footer = read_mft(mft_data)
+        self.assertGreater(len(records), 224)
+        self.assertIn(0x0E, pages)
+        self.assertIn(0xE0, pages)
+
+    def test_dist_umd_integrity(self):
+        """Test that repacked UMD in dist contains valid TOC, Thai localization, and Magma fonts."""
+        dist_umd = PROJECT_ROOT / "dist" / "System" / "dynamic-pc.umd"
+        if not dist_umd.exists():
+            self.skipTest("dist UMD not built yet")
+
+        archive = UMDArchive(dist_umd)
+        self.assertEqual(len(archive.entries), 20252)
+
+        # Check pregame_pc.int
+        pc_entry = archive.find_entry(r"Data\System\Localization\pregame_pc.int")
+        self.assertIsNotNone(pc_entry)
+        from src.core.thai_shaper import create_ui_shaper
+        data = create_ui_shaper().decode(archive.read_entry(pc_entry).decode("utf-16"))
+        self.assertIn("เลือกโหมดเกม", data)
+        self.assertIn("เมนูหลัก", data)
+
+        # Check Magma font entry
+        mft_entry = archive.find_entry(r"Data\Magma\DataPC\Fonts\Bios Three Regular 20.mft")
+        self.assertIsNotNone(mft_entry)
+        mft_bytes = archive.read_entry(mft_entry)
+        self.assertTrue(mft_bytes.startswith(b"Magma Font\x00"))
+
 
 if __name__ == "__main__":
     unittest.main()

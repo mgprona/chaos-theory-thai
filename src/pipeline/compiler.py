@@ -13,6 +13,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Union
 from ..core.ini_codec import IniDocument
+from ..core.thai_shaper import create_ui_shaper
 
 SYSTEM_STEMS = {"d3ddrv", "echelon", "engine", "window"}
 
@@ -29,6 +30,7 @@ def compile_translations(
     output_loose_dir: Optional[str | Path] = None,
     target_encoding: Optional[str] = None,
     verbose: bool = True,
+    custom_ttf_path: Optional[str | Path] = None,
 ) -> Dict[str, bytes]:
     """Compile all JSON translation files back into game localization files.
 
@@ -52,6 +54,8 @@ def compile_translations(
     dist_root = Path(config.get("dist_dir", "dist"))
     loose_dir = Path(output_loose_dir) if output_loose_dir else dist_root / "loose"
     encoding = target_encoding or config.get("encoding", "cp874")
+    unicode_ui_stems = {s.lower() for s in config.get("unicode_ui_stems", [])}
+    ui_shaper = create_ui_shaper(cfg_file, custom_ttf_path) if unicode_ui_stems else None
 
     # Map: stem -> {section: {key: new_value}}
     stem_translations: Dict[str, Dict[str, Dict[str, str]]] = defaultdict(lambda: defaultdict(dict))
@@ -91,6 +95,8 @@ def compile_translations(
                     chosen_text = str(val_obj)
 
                 target_stem = source_stem or jf.stem
+                if ui_shaper and target_stem.lower() in unicode_ui_stems and isinstance(val_obj, dict) and val_obj.get("th", "").strip():
+                    chosen_text = ui_shaper.encode(chosen_text)
                 stem_translations[target_stem][sec_name][key] = chosen_text
 
     if verbose:
@@ -126,10 +132,15 @@ def compile_translations(
             if stem_has_thai:
                 break
 
-        # If file has Thai or target encoding is CP874, use CP874 so the 224-cell
+        # Magma UI files use Unicode/PUA; other Thai files still use CP874 so the 224-cell
         # PCX font can render Thai characters. Only retain UTF-16LE if no Thai is
         # present and the file originally used UTF-16LE with unencodable characters (e.g. Credits.int).
-        if stem_has_thai:
+        if stem.lower() in unicode_ui_stems:
+            # Magma fonts look up UTF-16 codepoints, not CP874 byte slots.
+            # The BOM also avoids relying on the Windows ANSI code page.
+            out_encoding = "utf-16le"
+            out_bom = True
+        elif stem_has_thai:
             out_encoding = encoding
             out_bom = False
         elif ini_doc.encoding == "utf-16le" or ini_doc.has_bom:

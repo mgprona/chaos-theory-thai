@@ -31,6 +31,7 @@ from src.pipeline.extractor import extract_game_assets
 from src.pipeline.merger import merge_translations
 from src.pipeline.compiler import compile_translations
 from src.pipeline.font_builder import build_thai_fonts
+from src.pipeline.magma_builder import build_magma_fonts
 
 
 def get_config(config_path: str = "config.json") -> dict:
@@ -69,6 +70,7 @@ def cmd_compile(args: argparse.Namespace) -> None:
     assets = compile_translations(
         config_path=PROJECT_ROOT / "config.json",
         target_encoding=args.encoding,
+        custom_ttf_path=getattr(args, "font", None),
         verbose=True,
     )
     print(f"\nCompilation complete! {len(assets)} files compiled.")
@@ -93,21 +95,36 @@ def cmd_build_umd(args: argparse.Namespace) -> None:
     print("=" * 60)
     config = get_config()
     game_dir = Path(config["game_dir"])
-    src_umd = game_dir / config.get("umd_subpath", r"System\dynamic-pc.umd")
+    backup_umd = PROJECT_ROOT / config.get("backups_dir", "backups") / "dynamic-pc.umd"
+    game_umd = game_dir / config.get("umd_subpath", r"System\dynamic-pc.umd")
     out_umd = PROJECT_ROOT / config.get("dist_dir", "dist") / "System" / "dynamic-pc.umd"
 
-    if not src_umd.exists():
-        print(f"Error: Original UMD not found: {src_umd}")
+    if backup_umd.exists():
+        src_umd = backup_umd
+        print(f"Using backup UMD as pristine source: {src_umd}")
+    elif game_umd.exists():
+        src_umd = game_umd
+        print(f"Using game directory UMD as source: {src_umd}")
+    else:
+        print(f"Error: Original UMD not found at {backup_umd} or {game_umd}")
         sys.exit(1)
 
     print("Step 1: Compiling translations...")
-    compiled_assets = compile_translations(config_path=PROJECT_ROOT / "config.json", verbose=False)
+    compiled_assets = compile_translations(config_path=PROJECT_ROOT / "config.json", verbose=False, custom_ttf_path=getattr(args, "font", None))
     print(f"Compiled {len(compiled_assets)} localization files.")
 
-    print(f"\nStep 2: Loading source UMD: {src_umd}...")
-    archive = UMDArchive(src_umd)
+    print("\nStep 2: Building 2D Magma UI fonts with Chakra Petch...")
+    magma_assets = build_magma_fonts(config_path=PROJECT_ROOT / "config.json", verbose=False, custom_ttf_path=getattr(args, "font", None))
+    compiled_assets.update(magma_assets)
+    print(f"Added {len(magma_assets)} Magma font assets into UMD package list.")
 
-    print(f"Step 3: Repacking to {out_umd}...")
+    print(f"\nStep 3: Loading source UMD: {src_umd}...")
+    archive = UMDArchive(src_umd)
+    missing_assets = [name for name in compiled_assets if archive.find_entry(name) is None]
+    if missing_assets:
+        raise ValueError(f"Replacement assets are missing from the source UMD: {missing_assets}")
+
+    print(f"Step 4: Repacking to {out_umd}...")
     start_time = time.time()
 
     def progress(cur, total, name):
@@ -266,6 +283,19 @@ def cmd_install(args: argparse.Namespace) -> None:
             shutil.copy2(pcx, dst)
             font_count += 1
         print(f"Installed {font_count} PCX fonts into {target_font_dir}!")
+        installed_anything = True
+
+    # 4. Install Magma UI Fonts (loose files for safety)
+    dist_magma = dist_dir / "Data" / "Magma" / "DataPC" / "Fonts"
+    if dist_magma.exists():
+        target_magma_dir = game_dir / "Data" / "Magma" / "DataPC" / "Fonts"
+        target_magma_dir.mkdir(parents=True, exist_ok=True)
+        magma_count = 0
+        for f in dist_magma.glob("*"):
+            if f.is_file():
+                shutil.copy2(f, target_magma_dir / f.name)
+                magma_count += 1
+        print(f"Installed {magma_count} Magma UI font files into {target_magma_dir}!")
         installed_anything = True
 
     if not installed_anything:

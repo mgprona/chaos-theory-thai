@@ -48,6 +48,15 @@ Chaos Theory Thai/
 
 ## 🚀 วิธีการใช้งาน (Quick Start)
 
+ติดตั้งไลบรารีก่อนบิลด์:
+```bash
+python -m pip install -r requirements.txt
+```
+
+เมนู Magma ใช้ **Chakra Petch + HarfBuzz แบบ offline + PUA** แล้ว:
+คำนวณ GSUB/GPOS ตอนบิลด์ วาดกลุ่มอักษรไทยลง bitmap และแปลงเฉพาะไฟล์เกมเป็น UTF-16LE พร้อม BOM
+ไฟล์ JSON ต้นฉบับยังอ่านและแก้ไขเป็นภาษาไทยตามปกติ ดูรายละเอียดที่ [FONT_PIPELINE.md](FONT_PIPELINE.md)
+
 ### 1. ดูความคืบหน้าการแปล (Translation Progress)
 เรียกดูสถิติจำนวนคำและเปอร์เซ็นต์ที่แปลไปแล้ว:
 ```bash

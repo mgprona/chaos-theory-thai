@@ -15,6 +15,8 @@ from pathlib import Path
 from typing import Dict, List, Optional, Union
 from ..core.pcx_font import PCXFont
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+
 PCX_FONT_NAMES = [
     "txt_hud.pcx",
     "txt_mission.pcx",
@@ -78,11 +80,31 @@ def build_thai_fonts(
     # Determine TTF font to use
     if custom_ttf_path and Path(custom_ttf_path).exists():
         ttf_font = Path(custom_ttf_path)
+    elif config.get("active_font") and (PROJECT_ROOT / config["active_font"]).exists():
+        ttf_font = PROJECT_ROOT / config["active_font"]
+    elif config.get("active_font") and Path(config["active_font"]).exists():
+        ttf_font = Path(config["active_font"])
     else:
         ttf_font = find_thai_ttf_font(data_fonts_dir)
 
+    bold_font_path = None
+    if config.get("bold_font"):
+        bf = PROJECT_ROOT / config["bold_font"] if not Path(config["bold_font"]).is_absolute() else Path(config["bold_font"])
+        if bf.exists():
+            bold_font_path = bf
+
+    regular_font_path = None
+    if config.get("regular_font"):
+        rf = PROJECT_ROOT / config["regular_font"] if not Path(config["regular_font"]).is_absolute() else Path(config["regular_font"])
+        if rf.exists():
+            regular_font_path = rf
+
     if verbose:
         print(f"[FontBuilder] Using TrueType font: {ttf_font}")
+        if bold_font_path:
+            print(f"[FontBuilder] Using Bold TrueType font: {bold_font_path}")
+        if regular_font_path:
+            print(f"[FontBuilder] Using Regular TrueType font: {regular_font_path}")
 
     stats = {
         "fonts_processed": 0,
@@ -103,12 +125,11 @@ def build_thai_fonts(
 
         pcx = PCXFont(src_template)
 
-        # Bold fonts can use bold TTF if available
-        current_ttf = ttf_font
+        # Bold fonts use bold TTF if configured, regular fonts use regular TTF if configured
         if "bold" in font_name.lower():
-            bold_fallback = Path(r"C:\Windows\Fonts\tahomabd.ttf")
-            if bold_fallback.exists():
-                current_ttf = bold_fallback
+            current_ttf = bold_font_path or ttf_font
+        else:
+            current_ttf = regular_font_path or ttf_font
 
         injected = pcx.inject_thai_glyphs(current_ttf)
         dest_pcx = out_font_dir / font_name

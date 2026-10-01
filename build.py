@@ -33,10 +33,11 @@ def main():
         description="Chaos Theory Thai Mod - Build Script",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    parser.add_argument("--umd", action="store_true", help="Repack dynamic-pc.umd with compiled translations")
+    parser.add_argument("--umd", action="store_true", help="Repack dynamic-pc.umd (default enabled)")
+    parser.add_argument("--no-umd", action="store_true", help="Skip repacking dynamic-pc.umd")
     parser.add_argument("--fonts", action="store_true", help="Build Thai PCX fonts")
     parser.add_argument("--stats", action="store_true", help="Display translation progress")
-    parser.add_argument("--install", action="store_true", help="Install compiled mod into game folder")
+    parser.add_argument("--install", action="store_true", help="Build and install mod directly to game folder")
     parser.add_argument("--font", default=None, help="Path to custom TrueType font file")
     parser.add_argument("--encoding", default=None, help="Target encoding (default: cp874)")
 
@@ -47,7 +48,8 @@ def main():
         return
 
     if args.install:
-        if args.umd:
+        # Chaos Theory requires dynamic-pc.umd repacking because UseDynamicDataFile=true
+        if not args.no_umd:
             cmd_build_umd(args)
         else:
             cmd_compile(args)
@@ -66,8 +68,8 @@ def main():
     # 2. Build fonts
     cmd_build_fonts(args)
 
-    # 3. UMD repacking if requested
-    if args.umd:
+    # 3. UMD repacking (enabled by default for Chaos Theory; can be skipped with --no-umd)
+    if not args.no_umd:
         cmd_build_umd(args)
 
     print("\n" + "=" * 60)
