@@ -263,6 +263,230 @@ class TestTranslationsJSON(unittest.TestCase):
         self.assertEqual(data["sections"]["PAUSEMENU"]["ChoiceContinueGame"]["th"], "เล่นต่อ")
         self.assertEqual(data["sections"]["COMPUTER"]["HackingDetail"]["th"], "กระบวนการแฮก")
 
+    def test_opsat_translations_complete_and_cp874(self):
+        """Test that all 7 OPSAT JSON files are 100% translated and CP874 encodable."""
+        opsat_dir = PROJECT_ROOT / "data" / "translations" / "opsat"
+        expected_files = {
+            "d3ddrv.json": 5,
+            "echelon.json": 1,
+            "engine.json": 115,
+            "equipment.json": 164,
+            "system.json": 130,
+            "training.json": 40,
+            "window.json": 58,
+        }
+        total_strings = 0
+        for fname, exp_count in expected_files.items():
+            fpath = opsat_dir / fname
+            self.assertTrue(fpath.exists(), f"Missing OPSAT file {fname}")
+            with open(fpath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            file_count = 0
+            for sec, sd in data.get("sections", {}).items():
+                for k, v in sd.items():
+                    if k.startswith("_"):
+                        continue
+                    file_count += 1
+                    th = v.get("th", "")
+                    self.assertTrue(th.strip(), f"Missing Thai translation in {fname} [{sec}] {k}")
+                    for fc in ["“", "”", "‘", "’"]:
+                        self.assertNotIn(fc, th, f"Curly quote found in {fname} [{sec}] {k}: {th}")
+                    raw_bytes = th.encode("cp874")
+                    for b in raw_bytes:
+                        self.assertTrue(
+                            b < 128 or (161 <= b <= 251),
+                            f"Byte {b} out of range in {fname} [{sec}] {k}: {th}",
+                        )
+            self.assertEqual(file_count, exp_count, f"String count mismatch in {fname}")
+            total_strings += file_count
+        self.assertEqual(total_strings, 513)
+
+        # Canonical equipment and system checks
+        eq_path = opsat_dir / "equipment.json"
+        with open(eq_path, "r", encoding="utf-8") as f:
+            eq = json.load(f)["sections"]
+        self.assertEqual(eq["FN2000"]["Name"]["th"], "SC-20K")
+        self.assertEqual(eq["FN7"]["Name"]["th"], "ปืนพก SC")
+        self.assertEqual(eq["SCOPE"]["NameShort"]["th"], "สไนเปอร์")
+        self.assertEqual(eq["WALLMINE"]["Name"]["th"], "กับระเบิดติดผนัง")
+        self.assertEqual(eq["STICKYSHOCKER"]["Name"]["th"], "กระสุนช็อตไฟฟ้า")
+        self.assertEqual(eq["STICKYCAMERA"]["Name"]["th"], "กล้องสติ๊กกี้")
+        self.assertEqual(eq["CATEGORIES"]["Category[2]"]["th"], "อาวุธหลัก")
+        self.assertEqual(eq["BERETTA"]["Name"]["th"], "เบเร็ตต้า 92FS")
+        self.assertEqual(eq["FRAGGRENADE"]["Name"]["th"], "ระเบิดสังหาร")
+        self.assertEqual(eq["OPTICCABLE"]["Name"]["th"], "กล้องสายเคเบิล")
+        self.assertEqual(eq["INFRAREDSTRESSGEN"]["NameShort"]["th"], "เครื่องกวนอินฟราเรด")
+
+        sys_path = opsat_dir / "system.json"
+        with open(sys_path, "r", encoding="utf-8") as f:
+            sys_sec = json.load(f)["sections"]
+        self.assertEqual(sys_sec["MESSAGEBOX"]["DefaultAccept"]["th"], "ตกลง")
+        self.assertEqual(sys_sec["SAVELOAD"]["SaveMsg"]["th"], "กำลังบันทึกเกม...")
+        self.assertEqual(sys_sec["NAVIGATION"]["StickyCamera_X"]["th"], "เสียงล่อ")
+        self.assertEqual(sys_sec["NAVIGATION"]["StickyCamera_Y"]["th"], "แก๊ส")
+        self.assertEqual(sys_sec["NAVIGATION"]["StickyCamera_DL"]["th"], "มองกลางคืน")
+        self.assertEqual(sys_sec["NAVIGATION"]["StickyCamera_DR"]["th"], "มองความร้อน")
+
+        win_path = opsat_dir / "window.json"
+        with open(win_path, "r", encoding="utf-8") as f:
+            win_sec = json.load(f)["sections"]
+        self.assertEqual(win_sec["General"]["BackButton"]["th"], "< ย้อนกลับ (&B)")
+        self.assertEqual(win_sec["General"]["NextButton"]["th"], "ถัดไป (&N) >")
+        self.assertEqual(win_sec["General"]["FinishButton"]["th"], "เสร็จสิ้น (&F)")
+
+    def test_story_00_and_01_translations_complete_and_cp874(self):
+        """Test that story missions 00_Training and 01_Lighthouse are 100% translated and CP874 encodable."""
+        story_dir = PROJECT_ROOT / "data" / "translations" / "story"
+        expected_files = {
+            "00_Training.json": 594,
+            "01_Lighthouse.json": 381,
+        }
+        for fname, exp_count in expected_files.items():
+            fpath = story_dir / fname
+            self.assertTrue(fpath.exists(), f"Missing story file {fname}")
+            with open(fpath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            file_count = 0
+            for sec, sd in data.get("sections", {}).items():
+                for k, v in sd.items():
+                    if k.startswith("_"):
+                        continue
+                    file_count += 1
+                    th = v.get("th", "")
+                    self.assertTrue(th.strip(), f"Missing Thai translation in {fname} [{sec}] {k}")
+                    for fc in ["“", "”", "‘", "’"]:
+                        self.assertNotIn(fc, th, f"Curly quote found in {fname} [{sec}] {k}: {th}")
+                    raw_bytes = th.encode("cp874")
+                    for b in raw_bytes:
+                        self.assertTrue(
+                            b < 128 or (161 <= b <= 251),
+                            f"Byte {b} out of range in {fname} [{sec}] {k}: {th}",
+                        )
+            self.assertEqual(file_count, exp_count, f"String count mismatch in {fname}")
+
+        # Check canonical 00_Training translations
+        with open(story_dir / "00_Training.json", "r", encoding="utf-8") as f:
+            t00 = json.load(f)["sections"]
+        self.assertEqual(t00["VIDEOSTEALTHBASICS"]["Name"]["th"], "พื้นฐานการลอบเร้น")
+        self.assertEqual(t00["P_00_Training_Objectives"]["Objective_0004"]["th"], "รับฟังการบรรยายสรุปภารกิจจากแลมเบิร์ต")
+        self.assertEqual(t00["P_00_Training_Popup"]["Note_0001L"]["th"], "หากต้องการคุยกับใคร ให้กดปุ่มปฏิสัมพันธ์ (A)")
+        self.assertEqual(t00["P_00_Training_CnvUSSol_Phil"]["Speech_0047L"]["th"], "ฟิชเชอร์ - เปล่าหรอก... ฉันไม่ค่อยมีครอบครัวเหลืออยู่แล้วน่ะ พลทหาร")
+        self.assertEqual(t00["P_00_Training_CnvPartridge"]["Speech_0054L"]["th"], "ฟิชเชอร์ - ได้ยินข่าวลือมาว่าผมอาจไม่ได้กลับขึ้นเรือลำนี้หลังจบภารกิจ คงอีกนานกว่าเราจะได้เจอกันอีกนะครับท่าน")
+        self.assertEqual(t00["P_00_Training_CnvCook_Sebastien"]["Speech_0031L"]["th"], "เซบาสเตียน - คุณชอบอาหารทะเลไหมครับ?")
+
+        # Check canonical 01_Lighthouse translations
+        with open(story_dir / "01_Lighthouse.json", "r", encoding="utf-8") as f:
+            t01 = json.load(f)["sections"]
+        self.assertEqual(t01["GENERAL"]["MapName"]["th"], "ประภาคาร")
+        self.assertEqual(t01["P_01_Lighthouse_Objectives"]["Objective_0024"]["th"], "ช่วยชีวิตมอร์เกนโฮลต์")
+        self.assertEqual(t01["P_01_Lighthouse_Communications"]["Speech_0025L"]["th"], "ฟิชเชอร์ - ตายสนิทยิ่งกว่าเอลวิสอีก")
+        self.assertEqual(t01["P_01_Lighthouse_IntThunder"]["Speech_0001L"]["th"], "ฟิชเชอร์: จ๊ะเอ๋")
+        self.assertIn("ลิง", t01["P_01_Lighthouse_IntCaveGuard"]["Speech_0003L"]["th"])
+        self.assertEqual(t01["P_01_Lighthouse_CnvMariaNarcissa"]["Speech_0016L"]["th"], "วิทยุ: รับทราบ มาเรีย นาร์ซิสซา จบการติดต่อ")
+        self.assertIn("พวกบ้าเลือด", t01["P_01_Lighthouse_CnvWeather"]["Speech_0010L"]["th"])
+        self.assertNotIn("คนชำแหละเนื้อสัตว์", t01["P_01_Lighthouse_CnvWeather"]["Speech_0010L"]["th"])
+
+    def test_story_02_cargoship_translations_complete_and_cp874(self):
+        """Test that story mission 02_CargoShip is 100% translated, CP874 encodable, and matches canonical terms."""
+        story_dir = PROJECT_ROOT / "data" / "translations" / "story"
+        fpath = story_dir / "02_CargoShip.json"
+        self.assertTrue(fpath.exists(), "Missing 02_CargoShip.json")
+        with open(fpath, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        file_count = 0
+        for sec, sd in data.get("sections", {}).items():
+            for k, v in sd.items():
+                if k.startswith("_"):
+                    continue
+                file_count += 1
+                th = v.get("th", "")
+                self.assertTrue(th.strip(), f"Missing Thai translation in 02_CargoShip [{sec}] {k}")
+                for fc in ["“", "”", "‘", "’"]:
+                    self.assertNotIn(fc, th, f"Curly quote found in 02_CargoShip [{sec}] {k}: {th}")
+                raw_bytes = th.encode("cp874")
+                for b in raw_bytes:
+                    self.assertTrue(
+                        b < 128 or (161 <= b <= 251),
+                        f"Byte {b} out of range in 02_CargoShip [{sec}] {k}: {th}",
+                    )
+        self.assertEqual(file_count, 450, "String count mismatch in 02_CargoShip.json")
+
+        # Canonical checks
+        t02 = data["sections"]
+        self.assertEqual(t02["GENERAL"]["MapName"]["th"], "เรือสินค้า")
+        self.assertIn("ฮูโก ลาแซร์ดา", t02["GENERAL"]["Briefing_LAMBERT"]["th"])
+        self.assertIn("Fifth Freedom", t02["GENERAL"]["Briefing_LAMBERT"]["th"])
+        self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0018"]["th"], "กำจัด ฮูโก ลาแซร์ดา")
+        self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0001"]["th"], "เก็บกู้ใบตราส่งสินค้าสำหรับการขนส่งอาวุธของลาแซร์ดา")
+        self.assertEqual(t02["P_02_CargoShip_LambertComms"]["Speech_0012L"]["th"], "ฟิชเชอร์ - อย่าบอกนะว่า... สัญญาณเตือนภัยดังสามครั้งแล้วภารกิจล้มเหลว?")
+        self.assertEqual(t02["P_02_CargoShip_LambertComms"]["Speech_0084L"]["th"], "ฟิชเชอร์ - ผมลืมเอาช่อดอกไม้ติดอกมาด้วยสิ")
+        self.assertEqual(t02["P_02_CargoShip_InterogMShopSailor"]["Speech_0001L"]["th"], "ฟิชเชอร์ - จ๊ะเอ๋")
+        self.assertEqual(t02["P_02_CargoShip_InterogOfficeSoldier"]["Speech_0003L"]["th"], "ฟิชเชอร์ - ฉันมีมีด... นายตอบก่อน")
+        self.assertEqual(t02["P_02_CargoShip_AlarmManager"]["POPUPMESSAGE_0001"]["th"], "ระดับสัญญาณเตือนภัยขั้นที่หนึ่ง")
+        self.assertEqual(t02["Email"]["EmailLacerdaFrom"]["th"], "ฮูโก ลาแซร์ดา ")
+        self.assertEqual(t02["Email"]["EmailFloodedFrom"]["th"], "เฆราร์โด")
+        self.assertIn("เจ้าหน้าที่ตรวจสอบ", t02["P_02_CargoShip_MemorableM"]["Speech_0003L"]["th"])
+        self.assertIn("ไม่ใช่พระแม่", t02["P_02_CargoShip_InterogLacerda"]["Speech_0021L"]["th"])
+        self.assertIn("บารมี", t02["P_02_CargoShip_InterogBodyGuards"]["Speech_0011L"]["th"])
+        self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0006"]["th"], "ถอนกำลังไปยังจุดถอนกำลัง")
+
+    def test_story_01_panama_translations_complete_and_cp874(self):
+        """Test that co-op mission 01_Panama is 100% translated, CP874 encodable, and matches locked glossary."""
+        story_dir = PROJECT_ROOT / "data" / "translations" / "story"
+        fpath = story_dir / "01_Panama.json"
+        self.assertTrue(fpath.exists(), "Missing 01_Panama.json")
+        with open(fpath, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        file_count = 0
+        for sec, sd in data.get("sections", {}).items():
+            for k, v in sd.items():
+                if k.startswith("_"):
+                    continue
+                file_count += 1
+                th = v.get("th", "")
+                self.assertTrue(th.strip(), f"Missing Thai translation in 01_Panama [{sec}] {k}")
+                for fc in ["“", "”", "‘", "’", "…"]:
+                    self.assertNotIn(fc, th, f"Forbidden character found in 01_Panama [{sec}] {k}: {th}")
+                self.assertNotIn("\n", th, f"Real newline in 01_Panama [{sec}] {k}")
+                for b in th.encode("cp874"):
+                    self.assertTrue(
+                        b < 128 or (161 <= b <= 251),
+                        f"Byte {b} out of range in 01_Panama [{sec}] {k}: {th}",
+                    )
+                # Leading/trailing spaces must mirror the English source exactly.
+                en = v.get("en", "")
+                self.assertEqual(
+                    (len(en) - len(en.lstrip(" ")), len(en) - len(en.rstrip(" "))),
+                    (len(th) - len(th.lstrip(" ")), len(th) - len(th.rstrip(" "))),
+                    f"Whitespace mismatch in 01_Panama [{sec}] {k}",
+                )
+        self.assertEqual(file_count, 168, "String count mismatch in 01_Panama.json")
+
+        t = data["sections"]
+        self.assertEqual(t["GENERAL"]["MapName"]["th"], "ปานามา")
+        self.assertIn("เด เมเดรอส", t["GENERAL"]["Briefing_LAMBERT"]["th"])
+        self.assertIn("แลมเบิร์ต - ", t["GENERAL"]["Briefing_LAMBERT"]["th"])
+        # The briefing and the in-mission radio line are the same English body; the
+        # briefing alone carries the "LAMBERT - " prefix, so the bodies must match.
+        briefing = t["GENERAL"]["Briefing_LAMBERT"]["th"]
+        self.assertTrue(briefing.startswith("แลมเบิร์ต - "), "Briefing must mirror the English speaker prefix")
+        self.assertEqual(
+            t["P_01_Panama_Communications"]["Speech_0021L"]["th"], briefing[len("แลมเบิร์ต - "):]
+        )
+        self.assertEqual(t["P_01_Panama_Objectives"]["Objective_0023"]["th"], "ถอนกำลังกลับไปที่รถบรรทุกในลานด้านนอก")
+        self.assertIn("สปลินเตอร์เซล", t["P_01_Panama_Communications"]["Speech_0015L"]["th"])
+        self.assertEqual(t["P_01_Panama_AlarmSystem"]["POPUPMESSAGE_0001"]["th"], "ระดับสัญญาณเตือนภัยขั้นที่หนึ่ง")
+        self.assertEqual(t["P_01_Panama_SoccerGame"]["Speech_0011L"]["th"], "ฉันอยากจะฆ่าตัวตายจริงๆ ให้ตายเถอะ")
+        # Official in-game section-name typo ("PAnama") must stay as-is.
+        self.assertIn("P_01_PAnama_TalkingToSecurityChief", t)
+        self.assertTrue(t["P_01_PAnama_TalkingToSecurityChief"]["Speech_0003L"]["th"].strip())
+
+        # Duplicated line: must stay byte-identical to the already-shipped UI loading screen.
+        with open(PROJECT_ROOT / "data" / "translations" / "ui" / "loading_screens.json", "r", encoding="utf-8") as f:
+            loading = json.load(f)["sections"]["01_panama"]["Overview"]["th"]
+        self.assertEqual(t["P_01_Panama_Communications"]["Speech_0028L"]["th"], loading)
+        self.assertEqual(t["P_01_Panama_MeetingRoom"]["Note_0004L"]["th"], loading)
+
 
 class TestCompiler(unittest.TestCase):
     """Test compiling translations into .int files."""
@@ -271,8 +495,12 @@ class TestCompiler(unittest.TestCase):
         from src.pipeline.compiler import compile_translations
         assets = compile_translations(verbose=False)
         self.assertEqual(len(assets), 52, f"Expected 52 compiled files, got {len(assets)}")
+        self.assertIn(r"Data\System\Localization\00_Training.int", assets)
+        self.assertIn(r"Data\System\Localization\P_00_Training.int", assets)
         self.assertIn(r"Data\System\Localization\01_Lighthouse.int", assets)
         self.assertIn(r"Data\System\Localization\P_01_Lighthouse.int", assets)
+        self.assertIn(r"Data\System\Localization\02_CargoShip.int", assets)
+        self.assertIn(r"Data\System\Localization\P_02_CargoShip.int", assets)
 
     def test_translation_whitespace_preservation(self):
         sample_ini = "[GENERAL]\r\nMapName=LIGHTHOUSE\r\n".encode("cp1252")

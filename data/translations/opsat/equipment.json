@@ -16,7 +16,7 @@
         "de": "UNBEKANNT",
         "es": "DESCONOCIDO",
         "it": "SCONOSCIUTO",
-        "th": ""
+        "th": "ไม่ทราบประเภท"
       },
       "Category[1]": {
         "en": "PERMANENT",
@@ -24,7 +24,7 @@
         "de": "PERMANENT",
         "es": "PERMANENTE",
         "it": "PERMANENTE",
-        "th": ""
+        "th": "อุปกรณ์ติดตัวถาวร"
       },
       "Category[2]": {
         "en": "MAINGUN",
@@ -32,7 +32,7 @@
         "de": "HAUPTWAFFE",
         "es": "ARMA PRINCIPAL",
         "it": "ARMA PRINCIPALE",
-        "th": ""
+        "th": "อาวุธหลัก"
       },
       "Category[3]": {
         "en": "GADGETS",
@@ -40,7 +40,7 @@
         "de": "GERÄTE",
         "es": "ACCESORIOS",
         "it": "DISPOSITIVI",
-        "th": ""
+        "th": "แกดเจ็ต"
       },
       "Category[4]": {
         "en": "ITEMS",
@@ -48,7 +48,7 @@
         "de": "GEGENSTÄNDE",
         "es": "OBJETOS",
         "it": "OGGETTI",
-        "th": ""
+        "th": "ไอเทม"
       }
     },
     "FN2000": {
@@ -59,7 +59,7 @@
         "de": "SC-20K",
         "es": "SC20K",
         "it": "SC-20K",
-        "th": ""
+        "th": "SC-20K"
       },
       "NameShort": {
         "en": "SC-20K",
@@ -67,7 +67,7 @@
         "de": "SC-20K",
         "es": "SC20K",
         "it": "SC-20K",
-        "th": ""
+        "th": "SC-20K"
       },
       "Description": {
         "en": "SC-20k Prototype Modular Assault Weapon. 5.56x45mm jacketed cartridges in 30 round magazine with bull-pup configuration. Integral 1.5x reflex sight and silencer, mounts modular attachments. Binary trigger mechanism for auto or semi-auto fire. Ejection port supports ambidextrous operation.",
@@ -75,7 +75,7 @@
         "de": "SC-20K Modularer Sturmgewehr-Prototyp\\n\\n5.56x45mm Stahlmantelprojektile in 30-Schuss-Magazin. Bullpup-Konfiguration.\\n\\nIntegriertes 1,5x Reflexvisier und Schalldämpfer. Vorbereitung für Erweiterungsmodule.\\n\\nAbzugsgruppe für halb- und vollautomatisches Feuer.\\n\\nHülsenauswurf eignet sich für Einsatz an der rechten oder linken Schulter.",
         "es": "Prototipo de arma modular de asalto SC20K.\\n\\nCartuchos de 5.56x45 mm en cargadores de 30 unidades y configuración bull-pup.\\n\\nMira réflex de 1.5x con silenciador y accesorios modulares.\\n\\nMecanismo doble de disparo para automático o semiautomático.\\n\\nLa zona de expulsión está diseñada para uso ambidiestro.",
         "it": "Prototipo modulare da assalto SC-20K\\n\\nProiettili camiciati da 5,56x45mm in caricatori da 30 colpi in configurazione bull-pup.\\n\\nMirino reflex 1,5x e silenziatore, possibilità di moduli aggiuntivi.\\n\\nGrilletto binario per fuoco automatico o semi-automatico.\\n\\nLa porta di scarico supporta l'uso ambidestro.",
-        "th": ""
+        "th": "ปืนเล็กยาวจู่โจมแบบโมดูลาร์ต้นแบบ SC-20k ใช้กระสุนเคลือบแข็ง 5.56x45 มม. ซองกระสุน 30 นัด โครงสร้างแบบบูลพัป (Bullpup) พร้อมกล้องเล็งสะท้อนแสง 1.5 เท่า และท่อเก็บเสียงในตัว สามารถติดตั้งอุปกรณ์เสริมแบบโมดูลาร์ได้ กลไกไกปืนแบบไบนารีสำหรับยิงอัตโนมัติหรือกึ่งอัตโนมัติ ช่องคัดปลอกรองรับการใช้งานได้ทั้งสองมือ"
       },
       "HowToUseMe": {
         "en": "",
@@ -83,7 +83,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงเพื่อยิงกระสุน หรือกดปุ่มยิงโหมดพิเศษเพื่อใช้อุปกรณ์เสริมที่ติดตั้ง"
       }
     },
     "FN2000AMMO": {
@@ -94,7 +94,7 @@
         "de": "SC-20K Magazin",
         "es": "Munición SC20K",
         "it": "Caricatore per SC-20K",
-        "th": ""
+        "th": "ซองกระสุน SC-20K"
       },
       "NameShort": {
         "en": "SC-20K Ammo Clip",
@@ -102,7 +102,7 @@
         "de": "Magazin für SC-20K",
         "es": "Cargador SC20k",
         "it": "Caricatore SC-20K",
-        "th": ""
+        "th": "ซองกระสุน SC-20K"
       },
       "Description": {
         "en": "SC-20K Ammo Clip",
@@ -110,7 +110,7 @@
         "de": "SC-20K Magazin",
         "es": "Munición SC20K",
         "it": "Caricatore per SC-20K",
-        "th": ""
+        "th": "ซองกระสุนสำหรับปืน SC-20K บรรจุกระสุนขนาด 5.56x45 มม."
       },
       "HowToUseMe": {
         "en": "",
@@ -118,7 +118,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "บรรจุกระสุนเข้าสู่ปืน SC-20K โดยอัตโนมัติเมื่อกดรีโหลด"
       }
     },
     "FN7": {
@@ -129,7 +129,7 @@
         "de": "SC Pistole",
         "es": "Pistola SC",
         "it": "Pistola SC",
-        "th": ""
+        "th": "ปืนพก SC"
       },
       "NameShort": {
         "en": "SC Pistol",
@@ -137,7 +137,7 @@
         "de": "SC-Pistole",
         "es": "Pistola SC",
         "it": "Pistola SC",
-        "th": ""
+        "th": "ปืนพก SC"
       },
       "Description": {
         "en": "SC Prototype Pistol. 5.7x28mm jacketed cartridges in 20 round magazine with integral silencer. Grip configured for ambidextrous use. Prototype OCP mounted under barrel. OCP causes electrical differential potential on target, electrical surge causes circuit interference. Capacitor recharges over time.",
@@ -145,7 +145,7 @@
         "de": "SC Pistolen-Prototyp.\\n\\n5,7x28mm Stahlmantelprojektile in 20-Schuss-Magazin. Integrierter Schalldämpfer\\n\\nKonfiguration für Links- und Rechtshänder\\n\\nOCP-Prototyp ist unter dem Lauf montiert.\\n\\nDas OCP erzeugt beim Aufprall auf das Ziel einen Potenzialabfall,\\n\\nder zu einem Kuzschluss und Interferenz führen kann.\\n\\nDer Kondensator lädt sich mit der Zeit selbst auf.",
         "es": "Protipo de pistola SC.\\n\\nCartuchos de 5.7x28 mm en cargadores de 20 balas. Silenciador integrado.\\n\\nEmpuñadura para uso ambidiestro.\\n\\nPrototipo PO montado bajo el cañón.\\n\\nPO es un dispositivo de distorsión eléctrica que causa interferencias.\\n\\nEl condensador necesita un tiempo para recarga.",
         "it": "Prototipo di pistola SC\\n\\nProiettili camiciati da 5,7x28mm in caricatori da 20 colpi con silenziatore integrato.\\n\\nImpugnatura adatta all'uso ambidestro.\\n\\nPrototipo di OCP montato sotto la canna.\\n\\nL'OCP genera differenze di potenziale elettrico nel bersaglio, \\n\\ne la scarica elettrica provoca interferenze nei circuiti.\\n\\nIl generatore si ricarica col tempo.",
-        "th": ""
+        "th": "ปืนพกต้นแบบ SC ใช้กระสุนเคลือบแข็งขนาด 5.7x28 มม. ซองกระสุน 20 นัด พร้อมท่อเก็บเสียงในตัว ด้ามจับออกแบบให้ใช้งานได้ทั้งสองมือ ใต้ลำกล้องติดตั้งอุปกรณ์ต้นแบบ OCP ซึ่งจะสร้างความต่างศักย์ไฟฟ้าที่เป้าหมาย ก่อให้เกิดไฟกระชากเพื่อรบกวนวงจรอิเล็กทรอนิกส์ ตัวเก็บประจุจะชาร์จไฟใหม่ได้เองตามเวลา"
       },
       "HowToUseMe": {
         "en": "",
@@ -153,7 +153,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงเพื่อยิงกระสุน 5.7 มม. หรือกดปุ่มยิงโหมดพิเศษเพื่อยิงลำแสง OCP รบกวนอุปกรณ์ไฟฟ้า"
       }
     },
     "FN7AMMO": {
@@ -164,7 +164,7 @@
         "de": "5,7mm Pistolenmagazin",
         "es": "Munición 5.7 mm pistola",
         "it": "Caricatore per pistola da 5,7mm",
-        "th": ""
+        "th": "ซองกระสุนปืนพก 5.7 มม."
       },
       "NameShort": {
         "en": "5.7mm Pistol Ammo Clip",
@@ -172,7 +172,7 @@
         "de": "5,7-mm-Magazin für Pistole",
         "es": "Cargador 5.7mm pistola",
         "it": "Caricatore pistola 5.7mm",
-        "th": ""
+        "th": "ซองกระสุนปืนพก 5.7 มม."
       },
       "Description": {
         "en": "5.7mm Pistol Ammo Clip",
@@ -180,7 +180,7 @@
         "de": "5,7mm Pistolenmagazin",
         "es": "Munición 5.7 mm pistola",
         "it": "Caricatore per pistola da 5,7mm",
-        "th": ""
+        "th": "ซองกระสุนสำหรับปืนพก SC บรรจุกระสุนขนาด 5.7x28 มม."
       },
       "HowToUseMe": {
         "en": "",
@@ -188,7 +188,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "บรรจุกระสุนเข้าสู่ปืนพก SC โดยอัตโนมัติเมื่อกดรีโหลด"
       }
     },
     "SCOPE": {
@@ -199,7 +199,7 @@
         "de": "20mm-Scharfschützen-Modul",
         "es": "Acc. 20 mm francotirador",
         "it": "Modulo per tiro prec. da 20mm",
-        "th": ""
+        "th": "อุปกรณ์เสริมสไนเปอร์ 20 มม."
       },
       "NameShort": {
         "en": "Sniper",
@@ -207,7 +207,7 @@
         "de": "SCHARFSCH.",
         "es": "FRANCOTIR.",
         "it": "FUC. DI PREC.",
-        "th": ""
+        "th": "สไนเปอร์"
       },
       "Description": {
         "en": "SC-20k Prototype 20mm attachment. 20mm APDS anti-materiel super-penetrator round for armored or emplaced targets. Dual stage sniper scope. Recoil is extreme. Hold breath for accurate fire. Cannot be silenced.",
@@ -215,7 +215,7 @@
         "de": "SC-20K 20mm-Modulprototyp\\n\\n20mm-APDS-Anti-Materiel-Geschoss gegen gepanzerte oder befestigte Ziele.\\n\\nZweistufiges Scharfschützen-Zielfernrohr.\\n\\nExtremer RückstoSS. Für einen präzisen Schuss sollte man den Atem anhalten. Kein Schalldämpfer verfügbar.",
         "es": "Accesorio prototipo 20 mm para SC20K.\\n\\nProyectil de 20 mm antimateria que penetra blindajes usando GHP (generadores de haces de partículas).\\n\\nMira de francotirador de doble posición.\\n\\nFuerte retroceso. Contén el aliento para un disparo más preciso. No hay silenciador.",
         "it": "Modulo da 20mm per il prototipo SC-20K\\n\\nProiettili APDS anti-materiali da 20mm ad altissima capacità di penetrazione per bersagli corazzati o annidati.\\n\\nMirino di precisione a due stadi.\\n\\nRinculo elevato. Trattenere il fiato per una mira corretta. Non permette l'uso di un silenziatore.",
-        "th": ""
+        "th": "อุปกรณ์เสริมลำกล้องสไนเปอร์ 20 มม. ต้นแบบสำหรับ SC-20k ใช้กระสุนเจาะเกราะทรงพลัง APDS ขนาด 20 มม. สำหรับทำลายเป้าหมายหุ้มเกราะหรือที่กำบัง กล้องเล็งสไนเปอร์แบบซูม 2 ระดับ แรงถอยหลังยิงรุนแรงมาก กลั้นหายใจเพื่อเล็งยิงอย่างแม่นยำ ไม่สามารถติดท่อเก็บเสียงได้"
       },
       "HowToUseMe": {
         "en": "",
@@ -223,7 +223,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงโหมดพิเศษเพื่อสลับใช้งาน เล็งผ่านกล้องและกลั้นหายใจก่อนลั่นไก"
       }
     },
     "FOREGRIP": {
@@ -234,7 +234,7 @@
         "de": "Griff-Modul",
         "es": "Acc. empuñadura frontal",
         "it": "Impugnatura",
-        "th": ""
+        "th": "อุปกรณ์เสริมด้ามจับหน้า"
       },
       "NameShort": {
         "en": "Foregrip",
@@ -242,7 +242,7 @@
         "de": "GRIFF",
         "es": "EMPUÑADURA",
         "it": "IMPUGNAT.",
-        "th": ""
+        "th": "ด้ามจับหน้า"
       },
       "Description": {
         "en": "SC-20k Prototype Foregrip attachment. Provides increased stability to firing platform and controlled recoil. Improves rounds-on-target during sustained fire.",
@@ -250,7 +250,7 @@
         "de": "SC-20K Griff-Modulprototyp\\n\\nBietet verbesserte Stabilität und gröSSere Kontrolle des RückstoSSes.\\n\\nGeringere Streuung bei Dauerfeuer.",
         "es": "Prototipo de empuñadura delantera del SC20K.\\n\\nProporciona mayor estabilidad al disparar y controla el retroceso.\\n\\nAumenta la tasa de efectividad en los disparos durante las ráfagas. ",
         "it": "Impugnatura anteriore per il prototipo SC-20K.\\n\\nFornisce una maggiore stabilità alla piattaforma di fuoco e un rinculo controllato.\\n\\nAumenta il numero di colpi sul bersaglio durante il fuoco prolungato.",
-        "th": ""
+        "th": "อุปกรณ์เสริมด้ามจับด้านหน้าต้นแบบสำหรับ SC-20k เพิ่มความนิ่งมั่นคงขณะยิงและควบคุมแรงถอยได้ดียิ่งขึ้น ช่วยเพิ่มความแม่นยำของกระสุนเข้าเป้าขณะยิงต่อเนื่อง"
       },
       "HowToUseMe": {
         "en": "",
@@ -258,7 +258,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ติดตั้งเข้ากับปืน SC-20K เพื่อเพิ่มความนิ่งและลดแรงถอยโดยอัตโนมัติ"
       }
     },
     "LAUNCHER": {
@@ -269,7 +269,7 @@
         "de": "Werfer-Modul ",
         "es": "Accesorio lanzador ",
         "it": "Lanciatore ",
-        "th": ""
+        "th": "อุปกรณ์เสริมเครื่องยิงลูกระเบิด "
       },
       "NameShort": {
         "en": "Launcher",
@@ -277,7 +277,7 @@
         "de": "WERFER",
         "es": "LANZADOR",
         "it": "LANCIATORE",
-        "th": ""
+        "th": "เครื่องยิงลูกระเบิด"
       },
       "Description": {
         "en": "SC-20k Launcher attachment. Standard 40mm gas operated launcher deploys a variety of Less-Than-Lethal 40mm devices. Silent operation.",
@@ -285,7 +285,7 @@
         "de": "SC-20K Werfer-Modul\\n\\nStandard-40mm-Werfer, mit dem verschiedene nicht-tödliche Projektile verschossen werden können.\\n\\nLautlos.",
         "es": "Accesorio lanzador del SC20K.\\n\\nLanzador estándar de 40 mm accionado por un mecanismo de gas. Muy silencioso.\\n\\nPermite lanzar distintos dispositivos de 40 mm no tan letales como las balas.",
         "it": "Modulo lanciatore per SC-20K.\\n\\nNormale lanciatore a gas da 40mm, può sparare una serie di dispositivi non letali da 40mm.\\n\\nÈ silenzioso.",
-        "th": ""
+        "th": "อุปกรณ์เสริมเครื่องยิงสำหรับ SC-20k เครื่องยิงระบบแก๊สขนาดมาตรฐาน 40 มม. ใช้ยิงกระสุนและแกดเจ็ตขนาด 40 มม. แบบไม่ถึงตายได้หลากหลายชนิด ทำงานได้อย่างเงียบเชียบ"
       },
       "HowToUseMe": {
         "en": "",
@@ -293,7 +293,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงโหมดพิเศษเพื่อยิงแกดเจ็ตขนาด 40 มม. ที่เลือกไว้ผ่านเครื่องยิง"
       }
     },
     "SHOTGUN": {
@@ -304,7 +304,7 @@
         "de": "Schrot-Modul",
         "es": "Accesorio escopeta",
         "it": "Modulo doppietta",
-        "th": ""
+        "th": "อุปกรณ์เสริมลูกซอง"
       },
       "NameShort": {
         "en": "Shotgun",
@@ -312,7 +312,7 @@
         "de": "SCHROT",
         "es": "ESCOPETA",
         "it": "MOD. DOPP.",
-        "th": ""
+        "th": "ลูกซอง"
       },
       "Description": {
         "en": "SC-20k Shotgun attachment. 12 Guage Triple Ought loads offer exceptional stopping power at close range. Affords dual barrel firing in tandem with SC-20k for multi-range engagement.",
@@ -320,7 +320,7 @@
         "de": "SC-20K Schrotgewehr-Modul\\n\\nDie verwendete 12g Triple-0 Munition ist auf kurze Entfernung hochgradig durchschlagend.\\n\\nMit diesem Modul ist doppelläufiges Feuer möglich, so dass Ziele in unterschiedlichen Entfernungen bekämpft werden können.",
         "es": "Accesorio de escopeta para el SC20K.\\n\\nCapacidad para doce cargas y excepcional potencia de retención a corta distancia.\\n\\nDisparo de doble cañón con el SC20K para diferentes situaciones y distancias.",
         "it": "Modulo doppietta per SC-20K.\\n\\nCalibro 12 triplo zero offre un'eccellente potenza di sbarramento a corto raggio.\\n\\nPermette di sparare a doppia canna assieme all'SC-20K per il combattimento su più distanze.",
-        "th": ""
+        "th": "อุปกรณ์เสริมลูกซองสำหรับ SC-20k บรรจุกระสุนลูกปรายเก้าเม็ดขนาด 12 เกจ มอบอำนาจการหยุดยั้งที่ยอดเยี่ยมในระยะประชิด ทำงานผสานลำกล้องคู่ร่วมกับปืนหลัก SC-20k สำหรับการปะทะในหลากหลายระยะ"
       },
       "HowToUseMe": {
         "en": "",
@@ -328,7 +328,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงโหมดพิเศษเพื่อยิงกระสุนลูกซองระยะประชิด"
       }
     },
     "GUNBAREL": {
@@ -339,7 +339,7 @@
         "de": "Lauf",
         "es": "CAÑÓN",
         "it": "CANNA DI FUCILE",
-        "th": ""
+        "th": "ชุดลำกล้องปืน"
       },
       "NameShort": {
         "en": "GUNBAREL",
@@ -347,7 +347,7 @@
         "de": "GUNBAREL",
         "es": "GUNBAREL",
         "it": "GUNBAREL",
-        "th": ""
+        "th": "ลำกล้องปืน"
       },
       "Description": {
         "en": "GUNBAREL attachment",
@@ -355,7 +355,7 @@
         "de": "Lauf-Modul",
         "es": "Acceosrio de cañón.",
         "it": "Modulo CANNA DI FUCILE",
-        "th": ""
+        "th": "อุปกรณ์เสริมชุดลำกล้องปืน"
       },
       "HowToUseMe": {
         "en": "",
@@ -363,7 +363,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "อุปกรณ์เสริมส่วนลำกล้องสำหรับประกอบเข้ากับโครงสร้างตัวปืน"
       }
     },
     "GUNGRIP": {
@@ -374,7 +374,7 @@
         "de": "Griff",
         "es": "SOPORTE",
         "it": "IMPUGNATURA",
-        "th": ""
+        "th": "ชุดด้ามจับปืน"
       },
       "NameShort": {
         "en": "GUNGRIP",
@@ -382,7 +382,7 @@
         "de": "GEWEHRGRIFF",
         "es": "EMPUÑADURA",
         "it": "IMPUGNATURA",
-        "th": ""
+        "th": "ด้ามจับปืน"
       },
       "Description": {
         "en": "GUNGRIP attachment",
@@ -390,7 +390,7 @@
         "de": "Griff-Modul",
         "es": "Accesorio de soporte.",
         "it": "Modulo IMPUGNATURA",
-        "th": ""
+        "th": "อุปกรณ์เสริมชุดด้ามจับปืน"
       },
       "HowToUseMe": {
         "en": "",
@@ -398,7 +398,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ช่วยเพิ่มการควบคุมและความกระชับมือขณะใช้งานอาวุธ"
       }
     },
     "GUNSCOPE": {
@@ -409,7 +409,7 @@
         "de": "Zielfernrohr",
         "es": "TELEOBJETIVO",
         "it": "MIRINO",
-        "th": ""
+        "th": "ชุดกล้องเล็งปืน"
       },
       "NameShort": {
         "en": "GUNSCOPE",
@@ -417,7 +417,7 @@
         "de": "Gewehrzielfernrohr",
         "es": "Mira telescópica",
         "it": "Mirino",
-        "th": ""
+        "th": "กล้องเล็งปืน"
       },
       "Description": {
         "en": "GUNSCOPE attachment",
@@ -425,7 +425,7 @@
         "de": "ZF-Modul",
         "es": "Accesorio de mira telescópica para fusil.",
         "it": "Modulo MIRINO",
-        "th": ""
+        "th": "อุปกรณ์เสริมกล้องเล็งขยายระยะไกล"
       },
       "HowToUseMe": {
         "en": "",
@@ -433,7 +433,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ใช้สำหรับซูมและเล็งเป้าหมายระยะไกลได้อย่างแม่นยำ"
       }
     },
     "SHOTGUNAMMO": {
@@ -444,7 +444,7 @@
         "de": "Schrotgewehr-Modul-Munition",
         "es": "Munición de escopeta",
         "it": "Munizioni per modulo doppietta",
-        "th": ""
+        "th": "กระสุนอุปกรณ์เสริมลูกซอง"
       },
       "NameShort": {
         "en": "Shotgun attachment Ammo",
@@ -452,7 +452,7 @@
         "de": "Munitionshalterung für Schrotflinte",
         "es": "Munición escopeta",
         "it": "Munizioni doppietta",
-        "th": ""
+        "th": "กระสุนอุปกรณ์เสริมลูกซอง"
       },
       "Description": {
         "en": "Shotgun attachment Ammo",
@@ -460,7 +460,7 @@
         "de": "Schrotgewehr-Modul-Munition",
         "es": "Munición para el accesorio de escopeta.",
         "it": "Munizioni per modulo doppietta",
-        "th": ""
+        "th": "กระสุนลูกซองขนาด 12 เกจ สำหรับอุปกรณ์เสริมลูกซอง SC-20K"
       },
       "HowToUseMe": {
         "en": "",
@@ -468,7 +468,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "บรรจุกระสุนเข้าสู่อุปกรณ์เสริมลูกซองโดยอัตโนมัติ"
       }
     },
     "SCOPEAMMO": {
@@ -479,7 +479,7 @@
         "de": "Scharfschützen-Modul-Munition",
         "es": "Munición de francotirador",
         "it": "Munizioni per modulo di precisione",
-        "th": ""
+        "th": "กระสุนอุปกรณ์เสริมสไนเปอร์"
       },
       "NameShort": {
         "en": "Sniper attachment Ammo",
@@ -487,7 +487,7 @@
         "de": "Munitionshalterung für Scharfschützen",
         "es": "Munición francotirador",
         "it": "Munizioni di precisione",
-        "th": ""
+        "th": "กระสุนอุปกรณ์เสริมสไนเปอร์"
       },
       "Description": {
         "en": "Sniper attachment Ammo",
@@ -495,7 +495,7 @@
         "de": "Scharfschützen-Modul-Munition",
         "es": "Munición para el accesorio francotirador.",
         "it": "Munizioni per modulo di precisione",
-        "th": ""
+        "th": "กระสุนเจาะเกราะขนาด 20 มม. สำหรับอุปกรณ์เสริมสไนเปอร์ SC-20K"
       },
       "HowToUseMe": {
         "en": "",
@@ -503,7 +503,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "บรรจุกระสุนเข้าสู่อุปกรณ์เสริมสไนเปอร์โดยอัตโนมัติ"
       }
     },
     "AK47": {
@@ -514,7 +514,7 @@
         "de": "AK 47",
         "es": "AK 47",
         "it": "AK-47",
-        "th": ""
+        "th": "AK-47"
       },
       "NameShort": {
         "en": "AK 47",
@@ -522,7 +522,7 @@
         "de": "AK 47",
         "es": "AK47",
         "it": "AK 47",
-        "th": ""
+        "th": "AK-47"
       },
       "Description": {
         "en": "The AK-47 is chambered in 7.62x39 and features hardwood furniture with a fixed stock.",
@@ -530,7 +530,7 @@
         "de": "Das AK-47 verschieSSt 7,62x39 und besitzt einen Kolben aus Hartholz.",
         "es": "El famoso fusil AK-47 con cámara de 7.62x39 y carcasa con madera y culata fija.",
         "it": "L'AK-47 incamera colpi da 7,62x39, ha particolari in legno e calcio fisso.",
-        "th": ""
+        "th": "ปืนเล็กยาว AK-47 ใช้กระสุนขนาด 7.62x39 มม. ประกอบด้วยพานท้ายและประกับไม้เนื้อแข็งแบบตายตัว ทนทานและมีอานุภาพสูง"
       },
       "HowToUseMe": {
         "en": "",
@@ -538,7 +538,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงเพื่อยิงกระสุน 7.62 มม. ในโหมดอัตโนมัติ"
       }
     },
     "BERETTA": {
@@ -549,7 +549,7 @@
         "de": "Beretta 92FS",
         "es": "Beretta 92FS",
         "it": "Beretta 92FS",
-        "th": ""
+        "th": "เบเร็ตต้า 92FS"
       },
       "NameShort": {
         "en": "Beretta 92FS",
@@ -557,7 +557,7 @@
         "de": "Beretta 92FS",
         "es": "Beretta 92FS",
         "it": "Beretta 92FS",
-        "th": ""
+        "th": "เบเร็ตต้า 92FS"
       },
       "Description": {
         "en": "Hand Gun",
@@ -565,7 +565,7 @@
         "de": "Handfeuerwaffe",
         "es": "Una de las armas de mano más usadas en el mundo.",
         "it": "Pistola",
-        "th": ""
+        "th": "ปืนพกกึ่งอัตโนมัติขนาดมาตรฐาน 9 มม."
       },
       "HowToUseMe": {
         "en": "",
@@ -573,7 +573,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงเพื่อยิงกระสุนกึ่งอัตโนมัติทีละนัด"
       }
     },
     "C4": {
@@ -584,7 +584,7 @@
         "de": "C4",
         "es": "C4",
         "it": "C4",
-        "th": ""
+        "th": "ระเบิด C4"
       },
       "NameShort": {
         "en": "C4",
@@ -592,7 +592,7 @@
         "de": "C4",
         "es": "C4",
         "it": "C4",
-        "th": ""
+        "th": "C4"
       },
       "Description": {
         "en": "C4",
@@ -600,7 +600,7 @@
         "de": "C4",
         "es": "Explosivo plástico C4.",
         "it": "C4",
-        "th": ""
+        "th": "วัตถุระเบิดพลาสติกสังเคราะห์ C4 ให้แรงระเบิดสูงสำหรับทำลายโครงสร้างและสิ่งกีดขวาง"
       },
       "HowToUseMe": {
         "en": "",
@@ -608,7 +608,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ติดตั้งบนพื้นผิวเป้าหมายแล้วจุดชนวนระเบิดจากระยะไกล"
       }
     },
     "FLARE": {
@@ -619,7 +619,7 @@
         "de": "Magnesium-Fackel",
         "es": "Bengala",
         "it": "Razzo luminoso",
-        "th": ""
+        "th": "พลุไฟส่องสว่าง"
       },
       "NameShort": {
         "en": "Flare",
@@ -627,7 +627,7 @@
         "de": "Magnesiumfackel",
         "es": "Bengala",
         "it": "Razzo lum. chimico",
-        "th": ""
+        "th": "พลุไฟ"
       },
       "Description": {
         "en": "A standard flare that emits both light and heat.",
@@ -635,7 +635,7 @@
         "de": "Eine Fackel, die sowohl Licht als auch Hitze absondert.",
         "es": "Bengala tradicional que emite luz y calor.",
         "it": "Un razzo che emette luce e calore.",
-        "th": ""
+        "th": "พลุไฟมาตรฐานที่แผ่ทั้งแสงสว่างและความร้อน สามารถใช้เบี่ยงเบนความสนใจของศัตรูหรือเซ็นเซอร์จับความร้อนได้"
       },
       "HowToUseMe": {
         "en": "",
@@ -643,7 +643,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "จุดชนวนและขว้างไปยังตำแหน่งที่ต้องการส่องสว่างหรือล่อเป้าหมาย"
       }
     },
     "CHEMICALFLARE": {
@@ -654,7 +654,7 @@
         "de": "Knicklicht",
         "es": "Bengala química",
         "it": "Razzo luminoso chimico",
-        "th": ""
+        "th": "แท่งเรืองแสงเคมี"
       },
       "NameShort": {
         "en": "Chemical Flare",
@@ -662,7 +662,7 @@
         "de": "Chemische Fackel",
         "es": "Bengala química",
         "it": "Razzo lum. chimico",
-        "th": ""
+        "th": "แท่งเรืองแสงเคมี"
       },
       "Description": {
         "en": "A break-open chemical flare for illuminating dark environments.",
@@ -670,7 +670,7 @@
         "de": "Ein chemisches Leuchtmittel, mit dem durch Aufknicken dunkle Umgebungen erhellt werden können.",
         "es": "Bengala química que se activa por rotura del cierre y desprende una luz intensa.",
         "it": "Un razzo chimico a rottura che illumina gli ambienti bui.",
-        "th": ""
+        "th": "แท่งสารเคมีเรืองแสงแบบหักหลอดเพื่อให้แสงสว่างในพื้นที่มืดโดยไม่แผ่ความร้อนสูง"
       },
       "HowToUseMe": {
         "en": "",
@@ -678,7 +678,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "หักแท่งเคมีเพื่อเปิดใช้งาน แล้วขว้างหรือวางในจุดที่ต้องการแสงสว่าง"
       }
     },
     "DISPOSABLEPICK": {
@@ -689,7 +689,7 @@
         "de": "Einweg-Dietrich",
         "es": "Ganzúa deshechable",
         "it": "Grimaldello usa e getta",
-        "th": ""
+        "th": "ชุดสะเดาะกุญแจใช้แล้วทิ้ง"
       },
       "NameShort": {
         "en": "Disposable Pick",
@@ -697,7 +697,7 @@
         "de": "Wegwerf-Dietrich",
         "es": "Ganzúa deshechable",
         "it": "Grimaldello monouso",
-        "th": ""
+        "th": "สะเดาะกุญแจใช้แล้วทิ้ง"
       },
       "Description": {
         "en": "",
@@ -705,7 +705,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "อุปกรณ์สะเดาะกุญแจแบบอิเล็กทรอนิกส์ขนาดพกพาแบบใช้ครั้งเดียว สำหรับปลดล็อกกลอนประตูได้อย่างรวดเร็วในทันที"
       }
     },
     "FLASHGRENADE": {
@@ -716,7 +716,7 @@
         "de": "Blendgranate",
         "es": "Granda Cegad.",
         "it": "Granata flash",
-        "th": ""
+        "th": "ระเบิดแสง"
       },
       "NameShort": {
         "en": "Flashbang",
@@ -724,7 +724,7 @@
         "de": "Blendgranate",
         "es": "Granda Cegad.",
         "it": "Granata flash",
-        "th": ""
+        "th": "ระเบิดแสง"
       },
       "Description": {
         "en": "SC-82 Series non-lethal flashbang grenade. Explosion blinds, deafens and stuns. Safe distance, approximately 8m.",
@@ -732,7 +732,7 @@
         "de": "SC-82 nicht tödliche Blendgranate\\n \\nDie Explosion hat eine betäubende, vorübergehend blind und taub machende Wirkung.\\n \\nSicherheitsabstand beträgt ungefähr acht Meter.",
         "es": "Granada cegadora de la serie SC-82.\\n\\nEl fogonazo deja ciego, sordo y aturdido al enemigo.\\n\\nDistancia de seguridad, unos 8 metros.",
         "it": "Granata flash non-letale serie SC-82\\n\\nL'esplosione acceca, assorda e stordisce.\\n\\nLa distanza di sicurezza è di circa 8m.",
-        "th": ""
+        "th": "ระเบิดแสงแบบไม่ถึงตายซีรีส์ SC-82 แรงระเบิดจะทำให้เป้าหมายตาพร่า หูดับ และมึนงงชั่วขณะ ระยะปลอดภัยประมาณ 8 เมตร"
       },
       "HowToUseMe": {
         "en": "",
@@ -740,7 +740,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ดึงสลักแล้วขว้างเข้าสู่พื้นที่เป้าหมายเพื่อทำให้ศัตรูไร้ความสามารถในการต่อสู้ชั่วคราว"
       }
     },
     "FLASHLIGNT": {
@@ -751,7 +751,7 @@
         "de": "Taschenlampe",
         "es": "Linterna",
         "it": "Torcia",
-        "th": ""
+        "th": "ไฟฉาย"
       },
       "NameShort": {
         "en": "Flashlight",
@@ -759,7 +759,7 @@
         "de": "Taschenlampe",
         "es": "Linterna",
         "it": "Torcia",
-        "th": ""
+        "th": "ไฟฉาย"
       },
       "Description": {
         "en": "Cop flashlight",
@@ -767,7 +767,7 @@
         "de": "Polizei-Taschenlampe",
         "es": "Linterna estándar de policía.",
         "it": "Torcia elettrica",
-        "th": ""
+        "th": "ไฟฉายพกพาสำหรับเจ้าหน้าที่ตำรวจ ให้แสงสว่างลำกล้องเข้มข้น"
       },
       "HowToUseMe": {
         "en": "",
@@ -775,7 +775,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เปิดเพื่อส่องสว่างในที่มืด หรือปิดเพื่อคงการพรางตัวในเงามืด"
       }
     },
     "FRAGGRENADE": {
@@ -786,7 +786,7 @@
         "de": "Splittergranate",
         "es": "Granada Frag",
         "it": "Granata a fram.",
-        "th": ""
+        "th": "ระเบิดสังหาร"
       },
       "NameShort": {
         "en": "Frag",
@@ -794,7 +794,7 @@
         "de": "Granate",
         "es": "Granada Frag",
         "it": "Frammentazione",
-        "th": ""
+        "th": "ระเบิดสังหาร"
       },
       "Description": {
         "en": "SC-60 Series fragmentation grenade. 5.5cm steel sphere wrapped around comp B charge and high-explosive fuze. Explosion casts fragments in circular pattern, lethal to 2m.",
@@ -802,7 +802,7 @@
         "de": "SC-60 Splittergranate.\\n \\nEine ca. 5,5cm Stahlkugel umgibt eine hochexplosive Sprengladung und einen Zünder.\\n \\nDurch die Detonation werden Splitter in die Umgebung geschleudert, die in bis zu zwei Meter Abstand absolut tödlich sind.",
         "es": "Granada de fragmentación de tipo SC-60.\\n\\nUna esfera de acero de 5,5 cm que envuelve una mecha altamente explosiva y carga B comprimida.\\n\\nLa explosión lanza fragmentos letales en un radio circular de 2 metros.",
         "it": "Granata a frammentazione serie SC-60\\n\\nSfera di metallo di 5,5cm costruita attorno a una carica ad alto potenziale esplosivo.\\n\\nL'esplosione scaglia frammenti in una zona circolare, ed è letale entro i 2m.",
-        "th": ""
+        "th": "ระเบิดสังหารลูกปรายซีรีส์ SC-60 ทรงกลมเหล็กขนาด 5.5 ซม. หุ้มดินระเบิด Composition B พร้อมชนวนระเบิดแรงสูง กระจายสะเก็ดระเบิดเป็นวงกลม รัศมีสังหาร 2 เมตร"
       },
       "HowToUseMe": {
         "en": "",
@@ -810,7 +810,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ดึงสลักแล้วขว้างไปยังกลุ่มเป้าหมายเพื่อทำลายล้างในรัศมีระเบิด"
       }
     },
     "REVIVESYRINGE": {
@@ -821,7 +821,7 @@
         "de": "Adrenalin-Spritze",
         "es": "JERING. ADRENALINA",
         "it": "Siringa adrenalina",
-        "th": ""
+        "th": "เข็มฉีดยาอะดรีนาลีน"
       },
       "NameShort": {
         "en": "Adrenalin Syringe",
@@ -829,7 +829,7 @@
         "de": "Adrenalinspritze",
         "es": "Inyección adrenalina",
         "it": "Siringa adrenalina",
-        "th": ""
+        "th": "เข็มฉีดยาอะดรีนาลีน"
       },
       "Description": {
         "en": "SC Experimental Adrenalin Boost. Injected into torso of incapacitated person increases survivability for most wounds.",
@@ -837,7 +837,7 @@
         "de": "SC Experimenteller Adrenalin-Booster\\n \\nIn den Körper einer verletzten Person injiziert, erhöht er die Überlebensrate bei den meisten Verletzungen.",
         "es": "Jeringuilla experimental de adrenalina.\\n\\nInyectada en el torso de un individuo aturdido o incapacitado, aumenta las posibilidades de supervivencia ante un gran número de heridas.",
         "it": "Dose di adrenalina sperimentale SC\\n\\nIniettata nel torace di una persona priva di sensi aumenta la probabilità di sopravvivere alle ferite.",
-        "th": ""
+        "th": "สารกระตุ้นอะดรีนาลีนทดลองของ SC เมื่อฉีดเข้าสู่ลำตัวของผู้บาดเจ็บจนหมดสติ จะช่วยเพิ่มโอกาสรอดชีวิตจากบาดแผลส่วนใหญ่ได้"
       },
       "HowToUseMe": {
         "en": "",
@@ -845,7 +845,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฉีดใส่เพื่อนร่วมทีมที่หมดสติเพื่อฟื้นฟูสภาพและชุบชีวิตกลับเข้าสู่ภารกิจ"
       }
     },
     "GAZGRENADE": {
@@ -856,7 +856,7 @@
         "de": "Gasgranate",
         "es": "Granada gas",
         "it": "Lacrimogeno",
-        "th": ""
+        "th": "ระเบิดแก๊ส"
       },
       "NameShort": {
         "en": "Gas",
@@ -864,7 +864,7 @@
         "de": "Gas",
         "es": "Gas",
         "it": "Lacrimogeno",
-        "th": ""
+        "th": "แก๊ส"
       },
       "Description": {
         "en": "SC-40 Series Less-Than-Lethal CS-Gas grenade. Releases a cloud of incapacitating CS gas for dispatching unprotected targets. Use with caution. Gas can cause damage to respiratory system.",
@@ -872,7 +872,7 @@
         "de": "SC 40 Gasgranate\\n \\nSetzt eine Wolke aus CS-Gas frei, die ungeschützte Ziele auSSer Gefecht setzt.\\n \\nMit Vorsicht benutzen. Gas kann das Atemsystem schädigen.",
         "es": "Granada de gas CS no letal de la serie SC 40. \\n\\nLibera una nube de gas CS que aturde al enemigo desprotegido.\\n\\nDebe usarse con cuidado; puede causar daños al sistema respiratorio.",
         "it": "Granata lacrimogena non-letale serie SC-40\\n\\nEmette una nube di gas lacrimogeno per mettere fuori combattimento bersagli non protetti.\\n\\nDa usare con cautela. Il gas può provocare danni all'apparato respiratorio.",
-        "th": ""
+        "th": "ระเบิดแก๊ส CS แบบไม่ถึงตายซีรีส์ SC-40 ปล่อยกลุ่มควันแก๊ส CS ทำให้เป้าหมายที่ไม่มีอุปกรณ์ป้องกันหมดสติและสิ้นฤทธิ์ ควรใช้อย่างระมัดระวังเนื่องจากแก๊สอาจทำลายระบบทางเดินหายใจ"
       },
       "HowToUseMe": {
         "en": "",
@@ -880,7 +880,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ดึงสลักแล้วขว้างไปยังพื้นที่เป้าหมายเพื่อปล่อยควันแก๊สหยุดการเคลื่อนไหวของศัตรู"
       }
     },
     "LASERMIC": {
@@ -891,7 +891,7 @@
         "de": "Laser-Mikrofon",
         "es": "Micro láser",
         "it": "Microfono laser",
-        "th": ""
+        "th": "ไมโครโฟนเลเซอร์"
       },
       "NameShort": {
         "en": "Laser Mic",
@@ -899,7 +899,7 @@
         "de": "Lasermikro",
         "es": "Micrófono láser",
         "it": "Microfono laser",
-        "th": ""
+        "th": "ไมโครโฟนเลเซอร์"
       },
       "Description": {
         "en": "",
@@ -907,7 +907,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไมโครโฟนเลเซอร์ระยะไกล ใช้ยิงลำแสงสะท้อนกับกระจกหน้าต่างเพื่อดักฟังเสียงสนทนาภายในห้องจากระยะปลอดภัย"
       },
       "HowToUseMe": {
         "en": "",
@@ -915,7 +915,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เล็งลำแสงเลเซอร์ไปที่กระจกหน้าต่างของห้องเป้าหมายเพื่อดักฟังเสียงสนทนา"
       }
     },
     "LIQUIDNITROGEN": {
@@ -926,7 +926,7 @@
         "de": "Flüssiger Stickstoff",
         "es": "Nitrógeno líquido",
         "it": "Azoto liquido",
-        "th": ""
+        "th": "ไนโตรเจนเหลว"
       },
       "NameShort": {
         "en": "Liquid nitrogen",
@@ -934,7 +934,7 @@
         "de": "Flüssiger Stickstoff",
         "es": "Nitrógeno líquido",
         "it": "Nitrogeno liquido",
-        "th": ""
+        "th": "ไนโตรเจนเหลว"
       },
       "Description": {
         "en": "",
@@ -942,7 +942,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "สารทำความเย็นไนโตรเจนเหลวอุณหภูมิต่ำยิ่งยวด ใช้แช่แข็งกลไกล็อกหรืออุปกรณ์ให้เปราะแตกหักง่าย"
       },
       "HowToUseMe": {
         "en": "",
@@ -950,7 +950,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฉีดพ่นลงบนเป้าหมายหรือกลไกที่ต้องการลดอุณหภูมิลงอย่างรวดเร็ว"
       }
     },
     "LOCKPICK": {
@@ -961,7 +961,7 @@
         "de": "Dietrich",
         "es": "Ganzúa",
         "it": "Grimaldello",
-        "th": ""
+        "th": "ชุดสะเดาะกุญแจ"
       },
       "NameShort": {
         "en": "Lock Pick",
@@ -969,7 +969,7 @@
         "de": "Dietrich",
         "es": "Ganzúa",
         "it": "Grimaldello",
-        "th": ""
+        "th": "ชุดสะเดาะกุญแจ"
       },
       "Description": {
         "en": "",
@@ -977,7 +977,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ชุดเครื่องมือสะเดาะกลอนกุญแจมาตรฐาน สำหรับเปิดประตูล็อกทั่วไปได้อย่างเงียบเชียบและไม่ทิ้งร่องรอย"
       },
       "HowToUseMe": {
         "en": "",
@@ -985,7 +985,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ใช้กับประตูล็อก หมุนแกนและดันสลักเพื่อปลดล็อกกลอนทีละขั้น"
       }
     },
     "M18SMOKEGRENADE": {
@@ -996,7 +996,7 @@
         "de": "M18 Nebelgranate",
         "es": "Bote humo M18 color",
         "it": "Fumogeno colorato M18",
-        "th": ""
+        "th": "ระเบิดควันสี M18"
       },
       "NameShort": {
         "en": "M18 Colored Smoke",
@@ -1004,7 +1004,7 @@
         "de": "Farbiger Rauch M18",
         "es": "Humo coloreado M18",
         "it": "Fum. colorato M18",
-        "th": ""
+        "th": "ควันสี M18"
       },
       "Description": {
         "en": "",
@@ -1012,7 +1012,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ระเบิดควันสีทางยุทธวิธี M18 ใช้สร้างกลุ่มควันหนาทึบสำหรับส่งสัญญาณพิกัดหรืออำพรางทัศนวิสัย"
       },
       "HowToUseMe": {
         "en": "",
@@ -1020,7 +1020,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ดึงสลักแล้วขว้างเพื่อสร้างม่านควันสัญญาณหรือบดบังสายตา"
       }
     },
     "MEDKIT": {
@@ -1031,7 +1031,7 @@
         "de": "Medi-Kit",
         "es": "Botiquín",
         "it": "Kit medico",
-        "th": ""
+        "th": "ชุดปฐมพยาบาล"
       },
       "NameShort": {
         "en": "Medical Kit",
@@ -1039,7 +1039,7 @@
         "de": "Erste-Hilfe-Kasten",
         "es": "Botiquín",
         "it": "Kit medico",
-        "th": ""
+        "th": "ชุดปฐมพยาบาล"
       },
       "Description": {
         "en": "",
@@ -1047,7 +1047,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ชุดปฐมพยาบาลภาคสนามฉุกเฉิน บรรจุเวชภัณฑ์สำหรับฟื้นฟูพลังชีวิตและรักษาบาดแผลจากการปะทะ"
       },
       "HowToUseMe": {
         "en": "",
@@ -1055,7 +1055,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เปิดใช้งานเมื่อได้รับบาดเจ็บเพื่อฟื้นฟูแถบพลังชีวิตของแซม"
       }
     },
     "OPTICCABLE": {
@@ -1066,7 +1066,7 @@
         "de": "Optisches Kabel",
         "es": "Cable óptico",
         "it": "Cavo ottico",
-        "th": ""
+        "th": "กล้องสายเคเบิล"
       },
       "NameShort": {
         "en": "OpticCable",
@@ -1074,7 +1074,7 @@
         "de": "Optisches Kabel",
         "es": "Cable óptico",
         "it": "Cavo ottico",
-        "th": ""
+        "th": "กล้องสายเคเบิล"
       },
       "Description": {
         "en": "",
@@ -1082,7 +1082,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กล้องสายเคเบิลใยแก้วนำแสงแบบยืดหยุ่น สามารถสอดลอดใต้บานประตูเพื่อสอดแนมห้องฝั่งตรงข้ามได้อย่างปลอดภัย"
       },
       "HowToUseMe": {
         "en": "",
@@ -1090,7 +1090,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "สอดเข้าใต้บานประตูที่ปิดอยู่เพื่อตรวจดูกำลังคนและเส้นทางลาดตระเวนของศัตรูก่อนเปิดประตู"
       }
     },
     "RINGAIRFOILROUND": {
@@ -1101,7 +1101,7 @@
         "de": "Ringflächen",
         "es": "Proyectil NP",
         "it": "PROIET. GOMMA",
-        "th": ""
+        "th": "กระสุนยางกระแทกแอร์ฟอยล์"
       },
       "NameShort": {
         "en": "Airfoil Round",
@@ -1109,7 +1109,7 @@
         "de": "Ringfläch-Gesch.",
         "es": "Proyectil NP",
         "it": "PROIET. GOMMA",
-        "th": ""
+        "th": "กระสุนยางแอร์ฟอยล์"
       },
       "Description": {
         "en": "40mm launchable high-impact, zero penetration round. Severe impacts can render targets unconscious. Silent operation.",
@@ -1117,7 +1117,7 @@
         "de": "Projektil für 40mm-Werfer\\n \\nDer heftige Aufprall schlägt das Opfer bewuSStlos.\\n \\nLautlos.",
         "es": "Proyectil no perforador de 40 mm, alto impacto e índice de penetración cero.\\n\\nDeja al objetivo inconsciente al impactar.\\n\\nNo emite ningún sonido.",
         "it": "Proiettile lanciabile da 40mm a impatto duro non penetrante\\n\\nLa forza dell'impatto provoca lo svenimento del bersaglio.\\n\\nÈ silenzioso.",
-        "th": ""
+        "th": "กระสุนทรงแอร์ฟอยล์ขนาด 40 มม. สำหรับยิงจากเครื่องยิง ให้แรงปะทะสูงโดยไม่เจาะทะลุ แรงกระแทกอย่างแรงสามารถทำให้เป้าหมายหมดสติได้ทันที ทำงานอย่างเงียบเชียบ"
       },
       "HowToUseMe": {
         "en": "",
@@ -1125,7 +1125,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ยิงใส่เป้าหมายเพื่อทำให้ล้มลงหรือมึนงงชั่วคราว จากนั้นเข้าประชิดเพื่อทำให้หมดสติ"
       }
     },
     "SMOKEGRENADE": {
@@ -1136,7 +1136,7 @@
         "de": "Nebelgranate",
         "es": "Bote de humo",
         "it": "Fumogeno",
-        "th": ""
+        "th": "ระเบิดควัน"
       },
       "NameShort": {
         "en": "Smoke",
@@ -1144,7 +1144,7 @@
         "de": "Rauchgr.",
         "es": "Humo",
         "it": "Fumogeno",
-        "th": ""
+        "th": "ระเบิดควัน"
       },
       "Description": {
         "en": "SC-81 Series Smoke Grenade. Releases a cloud of visibility obscuring smoke, harmless when inhaled. Use to provide visibility cover when crossing open ground.",
@@ -1152,7 +1152,7 @@
         "de": "SC 81 Nebelgranate\\n\\nSetzt eine Wolke aus sichtbehinderndem Gas frei, nicht gesundheitsschädlich beim Einatmen.\\n \\nSetzen Sie es ein, um sich auf offener Fläche Deckung zu verschaffen.",
         "es": "Granada de humo de tipo SC 81.\\n\\nLibera una nube de humo espeso y oscuro que no daña los pulmones al ser inhalado.\\n\\nTe proporciona un paraguas de cobertura visual cuando atraviesas un espacio abierto.",
         "it": "Fumogeno serie SC-81\\n\\nEmette una nube di gas che oscura la visuale ma non crea problemi alla respirazione.\\n\\nServe a fornire una copertura durante il passaggio in campo aperto.",
-        "th": ""
+        "th": "ระเบิดควันซีรีส์ SC-81 ปล่อยกลุ่มควันหนาทึบเพื่อบดบังการมองเห็น ควันไม่เป็นอันตรายเมื่อสูดดม ใช้สำหรับกำบังการมองเห็นขณะเคลื่อนที่ผ่านพื้นที่เปิดโล่ง"
       },
       "HowToUseMe": {
         "en": "",
@@ -1160,7 +1160,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ดึงสลักแล้วขว้างเพื่อสร้างม่านควันอำพรางสายตาทหารยามและกล้องวงจรปิด"
       }
     },
     "STICKYCAMERA": {
@@ -1171,7 +1171,7 @@
         "de": "Haftkamera",
         "es": "CÁM. SEGUIMIEN.",
         "it": "Microcamera",
-        "th": ""
+        "th": "กล้องสติ๊กกี้"
       },
       "NameShort": {
         "en": "Sticky Camera",
@@ -1179,7 +1179,7 @@
         "de": "Haftkamera",
         "es": "CÁM. SEGUIMIEN.",
         "it": "Microcamera",
-        "th": ""
+        "th": "กล้องสติ๊กกี้"
       },
       "Description": {
         "en": "40mm launchable surveillance camera with real-time live wireless feed to OPSAT. Full Thermal, EMF and Night Vision capability, with pan and zoom functionality. Noise making and CS-gas release functionality for Less-Than-Lethal utility. Cameras can be recovered if Gas canister has not been ruptured. Wireless signal reacquisition possible if within range.",
@@ -1187,7 +1187,7 @@
         "de": "40 mm lancierbare Überwachungskamera, die Sendet Bilder in Ist-Zeit an OPSAT.\\n \\nVerfügt über Thermal-, EMF-und Nachtsicht. Volle Schwenk- und Zoomfähigkeit.\\n \\nKann Geräusche erzeugen oder Gas für den nicht-tödlichen Einsatz absondern.\\n \\nKamera kann wieder aufgenommen werden, wenn der Gasbehälter nicht beschädigt wurde.\\n \\nKabellose Signalumleitung möglich, wenn innerhalb Reichweite.",
         "es": "Cámara de seguimiento de 40 mm que se lanza a distancia y se adhiere al objetivo, desde el que envía imágenes al ENSAT en tiempo real y sin cables. \\n\\nLleva visión térmica, nocturna y de campo electromagnético, panorámica y zoom.\\n\\nPuede emitir sonido o gas CS para realizar ataques no letales. Si el depósito del gas no se ha roto se puede recuperar y reutilizar. \\n\\nLa señal que envía tiene un radio limitado.",
         "it": "Telecamera di sorveglianza lanciabile da 40mm con trasmissione in diretta senza fili all'OPSAT\\n\\nVisuale termica, magnetica e notturna, con funzioni di movimento e zoom.\\n\\nEmissione di rumore o di gas per uso non-letale.\\n\\nLa telecamera può venire recuperata se il contenitore del gas non è stato aperto.\\n\\nÈ possibile riagganciarsi al segnale senza fili entro la distanza corretta.",
-        "th": ""
+        "th": "กล้องสอดแนมขนาด 40 มม. แบบยิงติดพื้นผิว ส่งสัญญาณภาพไร้สายสดแบบเรียลไทม์ไปยัง OPSAT รองรับโหมดกล้องมองความร้อน, ตรวจจับคลื่นแม่เหล็กไฟฟ้า (EMF) และมองกลางคืนอย่างสมบูรณ์ พร้อมฟังก์ชันหมุนส่ายและซูมภาพ สามารถส่งเสียงล่อศัตรูและปล่อยแก๊ส CS เพื่อสยบเป้าหมายแบบไม่ถึงตาย เก็บกล้องกลับมาใช้ใหม่ได้หากกระเปาะแก๊สยังไม่แตก สามารถเชื่อมต่อสัญญาณไร้สายใหม่ได้หากอยู่ในระยะ"
       },
       "HowToUseMe": {
         "en": "",
@@ -1195,7 +1195,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ยิงติดกับผนังหรือเพดาน สลับมุมมองเพื่อตรวจดูพื้นที่ ส่งเสียงล่อ หรือปล่อยแก๊สใส่ศัตรู"
       }
     },
     "STICKYSHOCKER": {
@@ -1206,7 +1206,7 @@
         "de": "Haft-Schocker",
         "es": "Dardo Tázer",
         "it": "Proiettile elettr.",
-        "th": ""
+        "th": "กระสุนช็อตไฟฟ้า"
       },
       "NameShort": {
         "en": "Sticky Shocker",
@@ -1214,7 +1214,7 @@
         "de": "Haft-schock.",
         "es": "Dardo taser",
         "it": "Proiettile elettr.",
-        "th": ""
+        "th": "กระสุนช็อตไฟฟ้า"
       },
       "Description": {
         "en": "40mm launchable high-voltage, low-amperage adhesive round. Electrical discharge incapacitates target on impact. Charge can be conducted through water.",
@@ -1222,7 +1222,7 @@
         "de": "40mm-Werfer, der am Ziel haftet und einen starken StromstoSS abgibt.\\n\\nStromschlag setzt Ziel beim Treffer auSSer Gefecht. Ladung überträgt sich auch durch Wasser.",
         "es": "Munición de 40 mm que emite una descarga eléctrica de alto voltaje y bajo amperaje.\\n\\nMás que clavarse, se pega al enemigo y lanza una descarga al impactar. La descarga se transmite también por el agua.",
         "it": "Proiettile adesivo lanciabile da 40mm ad alto voltaggio e basso amperaggio.\\n\\nLa scarica elettrica mette il bersaglio fuori combattimento al contatto. La scarica è conducibile in acqua.",
-        "th": ""
+        "th": "กระสุนหัวเหนียวขนาด 40 มม. ปล่อยกระแสไฟฟ้าแรงดันสูงแต่กระแสต่ำ ทำให้เป้าหมายหมดสติทันทีที่กระทบ สามารถส่งผ่านกระแสไฟฟ้าช็อตทหารยามหลายคนได้เมื่อยิงลงในแอ่งน้ำ"
       },
       "HowToUseMe": {
         "en": "",
@@ -1230,7 +1230,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ยิงใส่ตัวศัตรูโดยตรงหรือยิงลงในผืนน้ำเพื่อช็อตเป้าหมายให้หมดสติทันที"
       }
     },
     "INFRAREDSTRESSGEN": {
@@ -1241,7 +1241,7 @@
         "de": "Stress-Generator",
         "es": "Generador estrés",
         "it": "Generatore di tensione",
-        "th": ""
+        "th": "เครื่องกำเนิดสัญญาณรบกวนอินฟราเรด"
       },
       "NameShort": {
         "en": "Stress Generator",
@@ -1249,7 +1249,7 @@
         "de": "Stressgenerator",
         "es": "Generador estrés",
         "it": "Generatore di tens.",
-        "th": ""
+        "th": "เครื่องกวนอินฟราเรด"
       },
       "Description": {
         "en": "Stress Generator",
@@ -1257,7 +1257,7 @@
         "de": "Stress-Generator",
         "es": "Dispositivo generador de estrés.",
         "it": "Generatore di tensione",
-        "th": ""
+        "th": "อุปกรณ์รบกวนคลื่นอินฟราเรดแบบพกพา สำหรับสร้างสัญญาณหลอกหรือกระตุ้นความระแวดระวังของระบบรักษาความปลอดภัย"
       },
       "HowToUseMe": {
         "en": "",
@@ -1265,7 +1265,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เปิดใช้งานเพื่อสร้างสัญญาณหลอกเบี่ยงเบนความสนใจของทหารยามและอุปกรณ์ตรวจจับ"
       }
     },
     "WALLMINE": {
@@ -1276,7 +1276,7 @@
         "de": "Haftmine",
         "es": "Mina de pared",
         "it": "Mina da muro",
-        "th": ""
+        "th": "กับระเบิดติดผนัง"
       },
       "NameShort": {
         "en": "Wall Mine",
@@ -1284,7 +1284,7 @@
         "de": "Haftmine",
         "es": "Mina pared",
         "it": "Mina da muro",
-        "th": ""
+        "th": "กับระเบิดติดผนัง"
       },
       "Description": {
         "en": "A motion sensitive high explosive adhesive mine, lethal to 3m. Can be disabled manually while green light is flashing.",
@@ -1292,7 +1292,7 @@
         "de": "Hochexplosive Haftmine mit Bewegungszünder, tödlich in einem Umkreis von drei Metern. Kann manuell entschärft werden, während das grüne Licht blinkt.",
         "es": "Mina de alto poder explosivo sensible al movimiento y letal en un radio de 3 m. Se puede desactivar manualmente mientras la luz verde parpadee.",
         "it": "Mina adesiva ad alto potenziale esplosivo sensibile al movimento, letale entro i 3m. Può essere disattivata quando la luce verde è accesa.",
-        "th": ""
+        "th": "กับระเบิดแรงสูงชนิดตรวจจับความเคลื่อนไหวแบบยึดติดพื้นผิว รัศมีสังหาร 3 เมตร สามารถเข้าไปปลดชนวนได้ด้วยมือขณะที่ไฟสัญญาณสีเขียวกำลังกะพริบ"
       },
       "HowToUseMe": {
         "en": "",
@@ -1300,7 +1300,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ติดตั้งบนผนังหรือพื้นผิวในเส้นทางเดินของศัตรู ระวังอย่าเคลื่อนที่เร็วขณะอยู่ใกล้เซ็นเซอร์"
       }
     },
     "TARGETBEACON": {
@@ -1311,7 +1311,7 @@
         "de": "Zielsender",
         "es": "Apuntar al faro",
         "it": "Segnalatore",
-        "th": ""
+        "th": "บีคอนระบุเป้าหมาย"
       },
       "NameShort": {
         "en": "Target Beacon",
@@ -1319,7 +1319,7 @@
         "de": "Zielpeilsender",
         "es": "Guía de objetivo",
         "it": "Segnalatore",
-        "th": ""
+        "th": "บีคอนระบุเป้าหมาย"
       },
       "Description": {
         "en": "",
@@ -1327,7 +1327,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "อุปกรณ์ส่งสัญญาณวิทยุระบุพิกัดเป้าหมาย สำหรับนำวิถีการโจมตีทางอากาศหรือระบุจุดรับส่งกำลัง"
       },
       "HowToUseMe": {
         "en": "",
@@ -1335,7 +1335,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ติดตั้งหรือขว้างไปยังตำแหน่งที่ต้องการระบุพิกัดเป้าหมายอย่างแม่นยำ"
       }
     },
     "UMP": {
@@ -1346,7 +1346,7 @@
         "de": "UMP",
         "es": "UMP",
         "it": "UMP",
-        "th": ""
+        "th": "ปืนกลมือ UMP"
       },
       "NameShort": {
         "en": "UMP",
@@ -1354,7 +1354,7 @@
         "de": "UMP",
         "es": "UMP",
         "it": "UMP",
-        "th": ""
+        "th": "UMP"
       },
       "Description": {
         "en": "UMP Short Machine Gun",
@@ -1362,7 +1362,7 @@
         "de": "Leichte MP",
         "es": "UMP ametralladora corta",
         "it": "Mitraglietta UMP",
-        "th": ""
+        "th": "ปืนกลมือขนาดกะทัดรัด UMP อัตราการยิงเสถียรและคล่องตัวสูงในระยะประชิด"
       },
       "HowToUseMe": {
         "en": "",
@@ -1370,7 +1370,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงเพื่อยิงกระสุนทำลายล้างเป้าหมายในระยะใกล้ถึงปานกลาง"
       }
     },
     "UZI": {
@@ -1381,7 +1381,7 @@
         "de": "Uzi",
         "es": "Uzi",
         "it": "Uzi",
-        "th": ""
+        "th": "ปืนกลมืออูซี่"
       },
       "NameShort": {
         "en": "Uzi",
@@ -1389,7 +1389,7 @@
         "de": "Uzi",
         "es": "Uzi",
         "it": "Uzi",
-        "th": ""
+        "th": "อูซี่"
       },
       "Description": {
         "en": "SMG",
@@ -1397,7 +1397,7 @@
         "de": "MP",
         "es": "AMC",
         "it": "Mitraglietta",
-        "th": ""
+        "th": "ปืนกลมือขนาดกะทัดรัด อัตราการยิงรวดเร็วสูงสำหรับการต่อสู้ระยะประชิด"
       },
       "HowToUseMe": {
         "en": "",
@@ -1405,7 +1405,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กดปุ่มยิงเพื่อกราดกระสุนอย่างรวดเร็วในระยะประชิด"
       }
     },
     "CRYOBLOODVIAL": {
@@ -1416,7 +1416,7 @@
         "de": "Cryo Blut-Ampulle",
         "es": "Ampolla criogénica",
         "it": "Fiala di sangue congelato",
-        "th": ""
+        "th": "หลอดเก็บตัวอย่างเลือดแช่แข็ง"
       },
       "NameShort": {
         "en": "Cryo Blood Vial",
@@ -1424,7 +1424,7 @@
         "de": "Kryo-Blutpr.",
         "es": "Ampolla crio.",
         "it": "Sangue congela.",
-        "th": ""
+        "th": "หลอดเลือดแช่แข็ง"
       },
       "Description": {
         "en": "Cryo bla",
@@ -1432,7 +1432,7 @@
         "de": "Cryo bla",
         "es": "Crio",
         "it": "Sangue congela.",
-        "th": ""
+        "th": "หลอดบรรจุตัวอย่างเซรั่มเลือดแช่แข็งสำหรับกระบวนการวิเคราะห์ต่อต้านไวรัส"
       },
       "HowToUseMe": {
         "en": "Cryo bla",
@@ -1440,7 +1440,7 @@
         "de": "Cryo bla",
         "es": "Crio",
         "it": "Sangue congela.",
-        "th": ""
+        "th": "ใช้ร่วมกับถังเก็บความเย็นเพื่อผสมสารตามโพรโทคอลแอนติไวรัส"
       }
     }
   }

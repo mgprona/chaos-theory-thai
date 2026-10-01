@@ -16,7 +16,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)"
       },
       "Preferences": {
         "en": "(Caption=\"Advanced\",Parent=\"Advanced Options\")",
@@ -24,7 +24,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "(Caption=\"Advanced\",Parent=\"Advanced Options\")"
       }
     },
     "Errors": {
@@ -35,7 +35,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เกิดข้อผิดพลาดในการเปิดไฟล์"
       },
       "NetWrite": {
         "en": "Error writing to file",
@@ -43,7 +43,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เกิดข้อผิดพลาดในการเขียนไฟล์"
       },
       "NetRefused": {
         "en": "Server refused to send '%s'",
@@ -51,7 +51,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เซิร์ฟเวอร์ปฏิเสธการส่ง '%s'"
       },
       "NetClose": {
         "en": "Error closing file",
@@ -59,7 +59,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เกิดข้อผิดพลาดในการปิดไฟล์"
       },
       "NetSize": {
         "en": "File size mismatch",
@@ -67,7 +67,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ขนาดไฟล์ไม่ตรงกัน"
       },
       "NetMove": {
         "en": "Error moving file",
@@ -75,7 +75,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เกิดข้อผิดพลาดในการย้ายไฟล์"
       },
       "NetInvalid": {
         "en": "Received invalid file request",
@@ -83,7 +83,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ได้รับคำขอไฟล์ที่ไม่ถูกต้อง"
       },
       "NoDownload": {
         "en": "Package '%s' is not downloadable",
@@ -91,7 +91,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่สามารถดาวน์โหลดแพ็กเกจ '%s' ได้"
       },
       "DownloadFailed": {
         "en": "Downloading package '%s' failed: %s",
@@ -99,7 +99,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "การดาวน์โหลดแพ็กเกจ '%s' ล้มเหลว: %s"
       },
       "RequestDenied": {
         "en": "Server requested file from pending level: Denied",
@@ -107,7 +107,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เซิร์ฟเวอร์ขอไฟล์จากด่านที่รอดำเนินการ: ถูกปฏิเสธ"
       },
       "ConnectionFailed": {
         "en": "Connection failed",
@@ -115,7 +115,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "การเชื่อมต่อล้มเหลว"
       },
       "ChAllocate": {
         "en": "Couldn't allocate channel",
@@ -123,7 +123,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่สามารถจัดสรรช่องสัญญาณได้"
       },
       "NetAlready": {
         "en": "Already networking",
@@ -131,7 +131,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังเชื่อมต่อเครือข่ายอยู่แล้ว"
       },
       "NetListen": {
         "en": "Listen failed: No linker context available",
@@ -139,7 +139,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "การรอรับการเชื่อมต่อล้มเหลว: ไม่มีบริบทตัวเชื่อมโยง"
       },
       "LoadEntry": {
         "en": "Can't load Entry: %s",
@@ -147,7 +147,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่สามารถโหลดจุดเริ่มต้น: %s"
       },
       "InvalidUrl": {
         "en": "Invalid URL: %s",
@@ -155,7 +155,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "URL ไม่ถูกต้อง: %s"
       },
       "InvalidLink": {
         "en": "Invalid Link: %s",
@@ -163,7 +163,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ลิงก์ไม่ถูกต้อง: %s"
       },
       "FailedBrowse": {
         "en": "Failed to enter %s: %s",
@@ -171,7 +171,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เข้าสู่ %s ล้มเหลว: %s"
       },
       "Listen": {
         "en": "Listen failed: %s",
@@ -179,7 +179,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "การรอรับการเชื่อมต่อล้มเหลว: %s"
       },
       "AbortToEntry": {
         "en": "Failed; returning to Entry",
@@ -187,7 +187,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ล้มเหลว; กำลังกลับสู่จุดเริ่มต้น"
       },
       "ServerOpen": {
         "en": "Servers can't open network URLs",
@@ -195,7 +195,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เซิร์ฟเวอร์ไม่สามารถเปิด URL เครือข่ายได้"
       },
       "ServerListen": {
         "en": "Dedicated server can't listen: %s",
@@ -203,7 +203,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เซิร์ฟเวอร์เฉพาะไม่สามารถรอรับการเชื่อมต่อได้: %s"
       },
       "Pending": {
         "en": "Pending connect to '%s' failed; %s",
@@ -211,7 +211,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "การรอเชื่อมต่อไปยัง '%s' ล้มเหลว; %s"
       },
       "LoadPlayerClass": {
         "en": "Failed to load player class",
@@ -219,7 +219,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "โหลดคลาสผู้เล่นล้มเหลว"
       },
       "ServerOutdated": {
         "en": "Server's version is outdated",
@@ -227,7 +227,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เวอร์ชันของเซิร์ฟเวอร์ล้าสมัย"
       }
     },
     "Progress": {
@@ -238,7 +238,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ยกเลิกความพยายามเชื่อมต่อแล้ว"
       },
       "RunningNet": {
         "en": "%s: %s (%i players)",
@@ -246,7 +246,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "%s: %s (ผู้เล่น %i คน)"
       },
       "NetReceiving": {
         "en": "Receiving '%s': %i/%i",
@@ -254,7 +254,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังรับ '%s': %i/%i"
       },
       "NetReceiveOk": {
         "en": "Successfully received '%s'",
@@ -262,7 +262,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "รับ '%s' สำเร็จแล้ว"
       },
       "NetSend": {
         "en": "Sending '%s'",
@@ -270,7 +270,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังส่ง '%s'"
       },
       "NetSending": {
         "en": "Sending '%s': %i/%i",
@@ -278,7 +278,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังส่ง '%s': %i/%i"
       },
       "Connecting": {
         "en": "Connecting...",
@@ -286,7 +286,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังเชื่อมต่อ..."
       },
       "Listening": {
         "en": "Listening for clients...",
@@ -294,7 +294,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังรอรับการเชื่อมต่อจากไคลเอนต์..."
       },
       "Loading": {
         "en": "Loading",
@@ -302,7 +302,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังโหลด"
       },
       "Saving": {
         "en": "Saving",
@@ -310,7 +310,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังบันทึก"
       },
       "Paused": {
         "en": "Paused by %s",
@@ -318,7 +318,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "หยุดชั่วคราวโดย %s"
       },
       "ReceiveFile": {
         "en": "Receiving '%s' (F10 Cancels)",
@@ -326,7 +326,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังรับ '%s' (กด F10 เพื่อยกเลิก)"
       },
       "ReceiveOptionalFile": {
         "en": "Receiving optional file '%s' (Press F10 to Skip)",
@@ -334,7 +334,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังรับไฟล์เสริม '%s' (กด F10 เพื่อข้าม)"
       },
       "ReceiveSize": {
         "en": "Size %iK, Complete %3.1f%%",
@@ -342,7 +342,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ขนาด %iK, เสร็จสมบูรณ์ %3.1f%%"
       },
       "ConnectingText": {
         "en": "Connecting (F10 Cancels):",
@@ -350,7 +350,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังเชื่อมต่อ (กด F10 เพื่อยกเลิก):"
       },
       "ConnectingURL": {
         "en": "unreal://%s/%s",
@@ -358,7 +358,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "unreal://%s/%s"
       }
     },
     "Console": {
@@ -369,7 +369,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คอนโซลมาตรฐาน Unreal"
       },
       "LoadingMessage": {
         "en": "LOADING",
@@ -377,7 +377,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังโหลด"
       },
       "SavingMessage": {
         "en": "SAVING",
@@ -385,7 +385,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังบันทึก"
       },
       "ConnectingMessage": {
         "en": "CONNECTING",
@@ -393,7 +393,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังเชื่อมต่อ"
       },
       "PausedMessage": {
         "en": "PAUSED",
@@ -401,7 +401,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "หยุดชั่วคราว"
       },
       "PrecachingMessage": {
         "en": "PRECACHING",
@@ -409,7 +409,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังจัดเตรียมแคชล่วงหน้า"
       },
       "ChatChannel": {
         "en": "(CHAT) ",
@@ -417,7 +417,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "(สนทนา) "
       },
       "TeamChannel": {
         "en": "(TEAM) ",
@@ -425,7 +425,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "(ทีม) "
       }
     },
     "General": {
@@ -436,7 +436,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เพื่อเข้าสู่เซิร์ฟเวอร์นี้ คุณต้องอัปเดต Unreal เป็นเวอร์ชันล่าสุดที่แจกฟรีบนเว็บไซต์ของ Epic:"
       },
       "UpgradeURL": {
         "en": "http://www.unreal.com/upgrade",
@@ -444,7 +444,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "http://www.unreal.com/upgrade"
       },
       "UpgradeQuestion": {
         "en": "Do you want to launch your web browser and go to the upgrade page now?",
@@ -452,7 +452,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณต้องการเปิดเว็บเบราว์เซอร์เพื่อไปยังหน้าอัปเดตตอนนี้หรือไม่?"
       },
       "Version": {
         "en": "Version %i",
@@ -460,7 +460,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เวอร์ชัน %i"
       }
     },
     "Menu": {
@@ -471,7 +471,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คำแนะนำช่วยเหลือ"
       },
       "MenuList": {
         "en": "",
@@ -479,7 +479,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "รายการเมนู"
       },
       "LeftString": {
         "en": "Left",
@@ -487,7 +487,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ซ้าย"
       },
       "RightString": {
         "en": "Right",
@@ -495,7 +495,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ขวา"
       },
       "CenterString": {
         "en": "Center",
@@ -503,7 +503,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กึ่งกลาง"
       },
       "EnabledString": {
         "en": "Enabled",
@@ -511,7 +511,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เปิดใช้งาน"
       },
       "DisabledString": {
         "en": "Disabled",
@@ -519,7 +519,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ปิดใช้งาน"
       },
       "HelpMessage[1]": {
         "en": "\"This menu has not yet been implemented.\"",
@@ -527,7 +527,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\"เมนูนี้ยังไม่เปิดให้บริการ\""
       },
       "YesString": {
         "en": "yes",
@@ -535,7 +535,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ใช่"
       },
       "NoString": {
         "en": "no",
@@ -543,7 +543,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่"
       }
     },
     "Inventory": {
@@ -554,7 +554,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เก็บไอเทมได้แล้ว"
       },
       "M_Activated": {
         "en": "\" activated\"",
@@ -562,7 +562,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\" เปิดใช้งานแล้ว\""
       },
       "M_Selected": {
         "en": "\" selected\"",
@@ -570,7 +570,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\" เลือกแล้ว\""
       },
       "M_Deactivated": {
         "en": "\" deactivated\"",
@@ -578,7 +578,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\" ปิดใช้งานแล้ว\""
       },
       "ItemArticle": {
         "en": "a",
@@ -586,7 +586,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ชิ้น"
       }
     },
     "WarpZoneInfo": {
@@ -597,7 +597,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "URL ปลายทาง"
       }
     },
     "GameInfo": {
@@ -608,7 +608,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังสลับด่าน"
       },
       "DefaultPlayerName": {
         "en": "Player",
@@ -616,7 +616,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ผู้เล่น"
       },
       "LeftMessage": {
         "en": "\" left the game.\"",
@@ -624,7 +624,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\" ออกจากเกมแล้ว\""
       },
       "FailedSpawnMessage": {
         "en": "Failed to spawn player actor",
@@ -632,7 +632,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "สร้างตัวละครผู้เล่นล้มเหลว"
       },
       "FailedPlaceMessage": {
         "en": "Could not find starting spot (level might need a 'PlayerStart' actor)",
@@ -640,7 +640,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่พบจุดเริ่มต้น (ด่านอาจต้องมีแอ็กเตอร์ 'PlayerStart')"
       },
       "NameChangedMessage": {
         "en": "Name changed to ",
@@ -648,7 +648,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เปลี่ยนชื่อเป็น "
       },
       "EnteredMessage": {
         "en": "\" entered the game.\"",
@@ -656,7 +656,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\" เข้าร่วมเกมแล้ว\""
       },
       "GameName": {
         "en": "\"Game\"",
@@ -664,7 +664,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\"เกม\""
       },
       "MaxedOutMessage": {
         "en": "Server is already at capacity.",
@@ -672,7 +672,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เซิร์ฟเวอร์เต็มความจุแล้ว"
       },
       "WrongPassword": {
         "en": "The password you entered is incorrect.",
@@ -680,7 +680,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "รหัสผ่านที่คุณป้อนไม่ถูกต้อง"
       },
       "NeedPassword": {
         "en": "You need to enter a password to join this game.",
@@ -688,7 +688,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณต้องป้อนรหัสผ่านเพื่อเข้าร่วมเกมนี้"
       },
       "FailedTeamMessage": {
         "en": "Could not find team for player",
@@ -696,7 +696,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่พบทีมสำหรับผู้เล่น"
       }
     },
     "LevelInfo": {
@@ -707,7 +707,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่มีชื่อ"
       }
     },
     "Weapon": {
@@ -718,7 +718,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\" ไม่มีกระสุน\""
       },
       "PickupMessage": {
         "en": "You got a weapon",
@@ -726,7 +726,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณได้รับอาวุธ"
       },
       "DeathMessage": {
         "en": "%o was killed by %k's %w.",
@@ -734,7 +734,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "%o ถูกสังหารโดย %w ของ %k"
       },
       "ItemName": {
         "en": "Weapon",
@@ -742,7 +742,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "อาวุธ"
       },
       "DeathMessage[0]": {
         "en": "%o was killed by %k's %w.",
@@ -750,7 +750,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "%o ถูกสังหารโดย %w ของ %k"
       },
       "DeathMessage[1]": {
         "en": "%o was killed by %k's %w.",
@@ -758,7 +758,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "%o ถูกสังหารโดย %w ของ %k"
       },
       "DeathMessage[2]": {
         "en": "%o was killed by %k's %w.",
@@ -766,7 +766,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "%o ถูกสังหารโดย %w ของ %k"
       },
       "DeathMessage[3]": {
         "en": "%o was killed by %k's %w.",
@@ -774,7 +774,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "%o ถูกสังหารโดย %w ของ %k"
       }
     },
     "Counter": {
@@ -785,7 +785,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เหลืออีกเพียง %i เท่านั้น..."
       },
       "CompleteMessage": {
         "en": "Completed!",
@@ -793,7 +793,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เสร็จสมบูรณ์แล้ว!"
       }
     },
     "Ammo": {
@@ -804,7 +804,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณเก็บกระสุนได้"
       }
     },
     "Pickup": {
@@ -815,7 +815,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไอเทมหมดอายุ"
       }
     },
     "SpecialEvent": {
@@ -826,7 +826,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ความเสียหาย"
       }
     },
     "DamageType": {
@@ -837,7 +837,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ถูกสังหาร"
       },
       "AltName": {
         "en": "killed",
@@ -845,7 +845,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ถูกสังหาร"
       }
     },
     "PlayerPawn": {
@@ -856,7 +856,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังบันทึกด่วน"
       },
       "NoPauseMessage": {
         "en": "Game is not pauseable",
@@ -864,7 +864,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เกมนี้ไม่สามารถหยุดชั่วคราวได้"
       },
       "ViewingFrom": {
         "en": "Now viewing from ",
@@ -872,7 +872,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังมองจากมุมมองของ "
       },
       "OwnCamera": {
         "en": "own camera",
@@ -880,7 +880,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กล้องของตัวเอง"
       },
       "FailedView": {
         "en": "Failed to change view.",
@@ -888,7 +888,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เปลี่ยนมุมมองล้มเหลว"
       },
       "CantChangeNameMsg": {
         "en": "You can't change your name during a global logged game.",
@@ -896,7 +896,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณไม่สามารถเปลี่ยนชื่อระหว่างเล่นเกมที่บันทึกข้อมูลส่วนกลางได้"
       }
     },
     "Pawn": {
@@ -907,7 +907,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\" \""
       }
     },
     "Spectator": {
@@ -918,7 +918,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ผู้ชม"
       }
     },
     "ServerCommandlet": {
@@ -929,7 +929,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "server"
       },
       "HelpOneLiner": {
         "en": "Network game server",
@@ -937,7 +937,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เซิร์ฟเวอร์เกมผ่านเครือข่าย"
       },
       "HelpUsage": {
         "en": "server map.unr[?game=gametype] [-option...] [parm=value]...",
@@ -945,7 +945,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "server map.unr[?game=gametype] [-option...] [parm=value]..."
       },
       "HelpWebLink": {
         "en": "http://unreal.epicgames.com/servertips.htm",
@@ -953,7 +953,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "http://unreal.epicgames.com/servertips.htm"
       },
       "HelpParm[0]": {
         "en": "Log",
@@ -961,7 +961,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "Log"
       },
       "HelpDesc[0]": {
         "en": "Specify the log file to generate",
@@ -969,7 +969,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ระบุไฟล์บันทึกประวัติที่จะสร้าง"
       },
       "HelpParm[1]": {
         "en": "AllAdmin",
@@ -977,7 +977,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "AllAdmin"
       },
       "HelpDesc[1]": {
         "en": "Give all players admin privelages",
@@ -985,7 +985,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "มอบสิทธิ์ผู้ดูแลระบบให้แก่ผู้เล่นทุกคน"
       }
     }
   }

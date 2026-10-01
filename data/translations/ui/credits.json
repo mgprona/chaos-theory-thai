@@ -16,7 +16,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nทีมงานฝ่ายสร้างสรรค์\\n \\nโปรดิวเซอร์\\n\\nMathieu Ferland\\n\\nผู้ออกแบบเกม\\n\\n\\n\\nผู้ออกแบบเสียง\\n\\n\\n\\nหัวหน้าฝ่ายโปรแกรมเมอร์\\n\\n\\n\\n\\nโปรแกรมเมอร์\\n\\nAlain Turcotte\\nJimmy Boulianne \\n\\n \\n\\n\\n\\n\\n \\n\\n\\nโปรแกรมเมอร์ร่วม\\n\\n\\n\\n \\n \\n\\nหัวหน้าผู้ออกแบบด่าน / หัวหน้าฝ่ายศิลป์\\n\\n\\n\\nผู้กำกับฝ่ายศิลป์\\n\\n\\n\\nศิลปิน 3D\\n\\n \\n \\n \\n \\n\\nThe Chinh Ngo \\n\\nผู้ออกแบบอินเทอร์เฟซ\\n\\nVeronique Guilbault\\n\\nผู้ออกแบบด่าน\\n\\n\\n\\n\\n\\nMathieu Berube\\nSebastien Galarneau\\n \\n\\nหัวหน้าฝ่ายแอนิเมชัน\\n\\n\\n\\n"
       },
       "T_Credit1": {
         "en": "Animator \\n\\n\\n\\nLead Character Artist \\n\\n\\n",
@@ -24,7 +24,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "แอนิเมเตอร์\\n\\n\\n\\nหัวหน้าผู้ออกแบบตัวละคร\\n\\n\\n"
       },
       "T_Credit2": {
         "en": "STORY\\n \\nOriginal story/Story Editor\\n\\n\\n\\nWritten by\\n\\n\\n\\nIntro Cinematic & In-game cinematics: \\nWritten and directed by\\n\\n\\n\\nDialog by\\n\\n\\n\\n",
@@ -32,7 +32,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เนื้อเรื่อง\\n \\nเรื่องต้นฉบับ / บรรณาธิการเนื้อเรื่อง\\n\\n\\n\\nบทประพันธ์โดย\\n\\n\\n\\nคัตซีนเปิดตัวและคัตซีนในเกม:\\nเขียนบทและกำกับโดย\\n\\n\\n\\nบทสนทนาโดย\\n\\n\\n\\n"
       },
       "T_Credit3": {
         "en": "QUALITY ASSURANCE \\n \\nQuality Control Studio Manager\\n\\nEric Tremblay\\n\\nQA Lead Tester – Single Player\\n\\n\\n\\nQA Testers – Single Player\\n\\n \\n\\nQA Lead Tester - Multiplayer\\n\\n \\n\\nQA Testers – Multi-Player\\n\\n\\n\\n\\n\\nData Manager\\n\\n\\n\\nLocalization project manager\\n\\n\\n\\n",
@@ -40,7 +40,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฝ่ายตรวจสอบคุณภาพ (QA)\\n \\nผู้จัดการสตูดิโอฝ่ายควบคุมคุณภาพ\\n\\nEric Tremblay\\n\\nหัวหน้าผู้ทดสอบ QA - เล่นคนเดียว\\n\\n\\n\\nผู้ทดสอบ QA - เล่นคนเดียว\\n\\n \\n\\nหัวหน้าผู้ทดสอบ QA - เล่นหลายคน\\n\\n \\n\\nผู้ทดสอบ QA - เล่นหลายคน\\n\\n\\n\\n\\n\\nผู้จัดการฝ่ายข้อมูล\\n\\n\\n\\nผู้จัดการโครงการแปลภาษา\\n\\n\\n\\n"
       },
       "T_Credit4": {
         "en": "Localization/Integration\\n\\n\\n\\nPlanning Coordinator\\n\\nAudrey Goyette\\n\\nMarketing Artist\\n\\nThomas Giroux\\n\\nMarketing Coordinator\\n\\n\\n\\nTechnical Advisor\\n\\n\\n\\n",
@@ -48,7 +48,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฝ่ายแปลภาษา / บูรณาการระบบ\\n\\n\\n\\nผู้ประสานงานฝ่ายวางแผน\\n\\nAudrey Goyette\\n\\nศิลปินฝ่ายการตลาด\\n\\nThomas Giroux\\n\\nผู้ประสานงานฝ่ายการตลาด\\n\\n\\n\\nที่ปรึกษาฝ่ายเทคนิค\\n\\n\\n\\n"
       },
       "T_Credit5": {
         "en": "CINEMATICS\\n \\nUBI SOFT TEAM\\n \\nIn-Game & Outro Cinematics\\n \\nStudio Director\\n\\n\\n\\nProducer\\n\\n\\n\\nLine Producer\\n\\n\\n\\nProject Coordinator\\n\\n\\n\\nAnimation Supervisor\\n\\n\\n\\nTechnical Director\\n\\n\\n\\nScene Lead\\n\\n\\n\\n\\nSpecial FX\\n\\n \\nAnimators\\n\\n\\n\\nCG Artists\\n\\n\\n\\n",
@@ -56,7 +56,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฝ่ายภาพยนตร์คัตซีน\\n \\nทีมงาน UBI SOFT\\n \\nคัตซีนในเกมและคัตซีนจบ\\n \\nผู้อำนวยการสตูดิโอ\\n\\n\\n\\nโปรดิวเซอร์\\n\\n\\n\\nผู้ดูแลงานสร้าง (Line Producer)\\n\\n\\n\\nผู้ประสานงานโครงการ\\n\\n\\n\\nผู้ควบคุมงานแอนิเมชัน\\n\\n\\n\\nผู้อำนวยการฝ่ายเทคนิค\\n\\n\\n\\nหัวหน้าฝ่ายจัดฉาก\\n\\n\\n\\n\\nสเปเชียลเอฟเฟกต์ (Special FX)\\n\\n \\nแอนิเมเตอร์\\n\\n\\n\\nศิลปิน CG\\n\\n\\n\\n"
       },
       "T_Credit6": {
         "en": "BIG BANG TEAM\\n \\nCompositing coordinator\\n\\n\\n\\nFlame Artist\\n\\n\\n\\nRendering engineer \\n\\n\\n\\nIntro Cinematic\\n \\nWritten, Produced and Directed by \\n\\n \\nProducer/Editor \\n\\n\\n\\nExecutive Producer \\n\\n\\n\\nResearch \\n\\n\\n\\nStoryboard Artist\\n\\n\\n\\n",
@@ -64,7 +64,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ทีมงาน BIG BANG\\n \\nผู้ประสานงานฝ่ายคอมโพสิตติง\\n\\n\\n\\nศิลปิน Flame\\n\\n\\n\\nวิศวกรฝ่ายเรนเดอร์ภาพ\\n\\n\\n\\nคัตซีนเปิดตัว\\n \\nเขียนบท อำนวยการสร้าง และกำกับโดย\\n\\n \\nโปรดิวเซอร์ / ผู้ตัดต่อ\\n\\n\\n\\nผู้อำนวยการสร้างบริหาร (Executive Producer)\\n\\n\\n\\nฝ่ายค้นคว้าวิจัย\\n\\n\\n\\nศิลปินสตอรีบอร์ด\\n\\n\\n\\n"
       },
       "T_Credit7": {
         "en": "PSYOP TEAM \\n \\nExecutive Producer \\n\\n \\n\\nProducer \\n\\n \\n\\nAnimation Director \\n\\n \\n\\nArt Director \\n\\n \\n\\nFlame Artist \\n\\n \\n\\nAnimators \\n\\n \\n\\nTechnical Director \\n\\n \\n\\nOnline Editor \\n\\n \\n\\nProduction Assistants \\n\\n \\n\\n",
@@ -72,7 +72,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ทีมงาน PSYOP\\n \\nผู้อำนวยการสร้างบริหาร (Executive Producer)\\n\\n \\n\\nโปรดิวเซอร์\\n\\n \\n\\nผู้กำกับฝ่ายแอนิเมชัน\\n\\n \\n\\nผู้กำกับฝ่ายศิลป์\\n\\n \\n\\nศิลปิน Flame\\n\\n \\n\\nแอนิเมเตอร์\\n\\n \\n\\nผู้อำนวยการฝ่ายเทคนิค\\n\\n \\n\\nผู้ตัดต่อออนไลน์\\n\\n \\n\\nผู้ช่วยฝ่ายผลิต\\n\\n \\n\\n"
       },
       "T_Credit8": {
         "en": "SOUND\\n \\nDirector of Sound Studio\\n\\n\\n\\nSound Technical & \\nArtistic Advisor / Lead Engineer \\n\\n\\n\\nRecording Engineers\\n\\n\\n\\n\\n\\n",
@@ -80,7 +80,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ระบบเสียง\\n \\nผู้อำนวยการสตูดิโอเสียง\\n\\n\\n\\nที่ปรึกษาด้านเทคนิคเสียงและ\\nศิลป์ / หัวหน้าวิศวกรเสียง\\n\\n\\n\\nวิศวกรบันทึกเสียง\\n\\n\\n\\n\\n\\n"
       },
       "T_Credit9": {
         "en": "MUSIC\\n \\nMusic Composed by  \\n\\n",
@@ -88,7 +88,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ดนตรีประกอบ\\n \\nประพันธ์ดนตรีโดย\\n\\n"
       },
       "T_Credit10": {
         "en": "GUN SOUND FX CREATED BY DANETRACKS\\n \\nSupervising Sound Designer\\n\\n\\n\\nSound Designer\\n\\n\\n\\n",
@@ -96,7 +96,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เสียงเอฟเฟกต์ปืนสร้างสรรค์โดย DANETRACKS\\n \\nหัวหน้าผู้ควบคุมการออกแบบเสียง\\n\\n\\n\\nผู้ออกแบบเสียง\\n\\n\\n\\n"
       },
       "T_Credit11": {
         "en": "VOICES\\n \\nVoice director\\n\\n\\n\\nVoice editing\\n\\n\\n\\n",
@@ -104,7 +104,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เสียงพากย์\\n \\nผู้กำกับการพากย์เสียง\\n\\n\\n\\nตัดต่อเสียงพากย์\\n\\n\\n\\n"
       },
       "T_Credit12": {
         "en": "UBI SOFT MONTREAL\\n \\nPresident & CEO Ubi Soft Montreal\\n\\nMartin Tremblay\\n\\nVice President Continuous Improvement\\n\\n\\n\\nVice President Quality & Editorial\\n\\n\\n\\nProjects office\\n\\n\\n\\nCommunication Manager\\n\\n\\n\\n",
@@ -112,7 +112,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "UBI SOFT มอนทรีออล\\n \\nประธานและซีอีโอ Ubi Soft Montreal\\n\\nMartin Tremblay\\n\\nรองประธานฝ่ายพัฒนาอย่างต่อเนื่อง\\n\\n\\n\\nรองประธานฝ่ายคุณภาพและเนื้อหา\\n\\n\\n\\nสำนักงานบริหารโครงการ\\n\\n\\n\\nผู้จัดการฝ่ายสื่อสาร\\n\\n\\n\\n"
       },
       "T_Credit13": {
         "en": "TECHNOLOGY GROUP\\n \\nDirector of Technology\\n\\nNicolas Rioux\\n\\nSound Team \\n\\n \\n\\nTools Team \\n\\n \\n\\nPlaytest Coordinator\\n\\n\\n\\n",
@@ -120,7 +120,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กลุ่มฝ่ายเทคโนโลยี\\n \\nผู้อำนวยการฝ่ายเทคโนโลยี\\n\\nNicolas Rioux\\n\\nทีมงานฝ่ายเสียง\\n\\n \\n\\nทีมงานพัฒนาเครื่องมือ\\n\\n \\n\\nผู้ประสานงานการทดสอบเล่นเกม\\n\\n\\n\\n"
       },
       "T_Credit14": {
         "en": "UBI SOFT INTERNATIONAL\\n \\nPresident & CEO Ubi Soft World\\n\\nYves Guillemot\\n\\nInternational Production Director \\n\\n\\n\\nInternational Content Director\\n\\n\\n\\nProject Closer\\n\\nChristophe Derennes\\n\\nEditorial Content Manager\\n\\n\\n\\nProject Monitoring Manager\\n\\n\\n\\nEditorial Coordination\\n\\n\\n\\n",
@@ -128,7 +128,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "UBI SOFT นานาชาติ\\n \\nประธานและซีอีโอ Ubi Soft World\\n\\nYves Guillemot\\n\\nผู้อำนวยการฝ่ายผลิตระดับนานาชาติ\\n\\n\\n\\nผู้อำนวยการฝ่ายเนื้อหาระดับนานาชาติ\\n\\n\\n\\nผู้ดูแลการปิดโครงการ\\n\\nChristophe Derennes\\n\\nผู้จัดการฝ่ายเนื้อหา\\n\\n\\n\\nผู้จัดการฝ่ายติดตามโครงการ\\n\\n\\n\\nฝ่ายประสานงานเนื้อหา\\n\\n\\n\\n"
       },
       "T_Credit15": {
         "en": "MARKETING EMEA\\n \\nEMEA Marketing Director\\n\\n\\n\\nEMEA Senior Marketing \\nGroup Manager\\n\\n\\n\\nEMEA Senior Brand Manager\\n\\n\\n\\nEMEA Brand Manager\\n\\n\\n\\nLocal Brand Managers\\n\\n\\n\\nSpecial Thanks\\n\\n\\n\\n",
@@ -136,7 +136,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฝ่ายการตลาด EMEA\\n \\nผู้อำนวยการฝ่ายการตลาด EMEA\\n\\n\\n\\nผู้จัดการกลุ่มการตลาดอาวุโส \\nภูมิภาค EMEA\\n\\n\\n\\nผู้จัดการอาวุโสฝ่ายแบรนด์ EMEA\\n\\n\\n\\nผู้จัดการฝ่ายแบรนด์ EMEA\\n\\n\\n\\nผู้จัดการฝ่ายแบรนด์ประจำภูมิภาค\\n\\n\\n\\nขอขอบคุณเป็นพิเศษ\\n\\n\\n\\n"
       },
       "T_Credit16": {
         "en": "MARKETING US\\n \\nVice-President of Marketing\\n\\n\\n\\nGroup Brand Manager\\n\\n\\n\\nBrand Managers\\n\\n\\n\\nAssociate Brand Manager\\n\\n\\n\\nPublic Relations\\n\\n\\n\\nCreative Services\\n\\n\\n\\n",
@@ -144,7 +144,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฝ่ายการตลาด สหรัฐอเมริกา\\n \\nรองประธานฝ่ายการตลาด\\n\\n\\n\\nผู้จัดการกลุ่มแบรนด์\\n\\n\\n\\nผู้จัดการฝ่ายแบรนด์\\n\\n\\n\\nรองผู้จัดการฝ่ายแบรนด์\\n\\n\\n\\nฝ่ายประชาสัมพันธ์\\n\\n\\n\\nฝ่ายบริการสร้างสรรค์\\n\\n\\n\\n"
       },
       "T_Credit17": {
         "en": "MARKETING CANADA\\n \\nBrand Manager\\n\\n\\n\\nPublic Relations Representative\\n\\n\\n\\nMarketing Coordinator\\n\\n\\n\\n",
@@ -152,7 +152,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฝ่ายการตลาด แคนาดา\\n \\nผู้จัดการฝ่ายแบรนด์\\n\\n\\n\\nตัวแทนฝ่ายประชาสัมพันธ์\\n\\n\\n\\nผู้ประสานงานฝ่ายการตลาด\\n\\n\\n\\n"
       },
       "T_Credit18": {
         "en": "SPECIAL THANKS\\n \\nAssociate Producers\\n\\n\\n\\nTechnical Services\\n\\n\\n\\nMarketing Playtests Research\\n\\n\\n\\nOther Support\\n \\nRAD Video Tools – \\nBink Video (Trademark of RAD Game Tools)\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n ",
@@ -160,7 +160,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ขอขอบคุณเป็นพิเศษ\\n \\nผู้ช่วยโปรดิวเซอร์\\n\\n\\n\\nฝ่ายบริการทางเทคนิค\\n\\n\\n\\nวิจัยการทดสอบเล่นฝ่ายการตลาด\\n\\n\\n\\nฝ่ายสนับสนุนอื่นๆ\\n \\nRAD Video Tools - \\nBink Video (เครื่องหมายการค้าของ RAD Game Tools)\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n "
       }
     }
   }

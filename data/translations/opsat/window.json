@@ -16,7 +16,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ข้อผิดพลาดร้ายแรง"
       },
       "FailedConfigLoad": {
         "en": "%s (failed load)",
@@ -24,7 +24,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "%s (โหลดล้มเหลว)"
       }
     },
     "General": {
@@ -35,7 +35,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "..."
       },
       "UseButton": {
         "en": "Use",
@@ -43,7 +43,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ใช้งาน"
       },
       "ClearButton": {
         "en": "Clear",
@@ -51,7 +51,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ล้าง"
       },
       "ColorButton": {
         "en": "Color",
@@ -59,7 +59,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "สี"
       },
       "PickButton": {
         "en": "Pick",
@@ -67,7 +67,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เลือก"
       },
       "FindButton": {
         "en": "Find",
@@ -75,7 +75,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ค้นหา"
       },
       "OkButton": {
         "en": "Ok",
@@ -83,7 +83,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ตกลง"
       },
       "AddButton": {
         "en": "Add",
@@ -91,7 +91,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เพิ่ม"
       },
       "EmptyButton": {
         "en": "Empty",
@@ -99,7 +99,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ว่างเปล่า"
       },
       "InsertButton": {
         "en": "Insert",
@@ -107,7 +107,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "แทรก"
       },
       "DeleteButton": {
         "en": "Delete",
@@ -115,7 +115,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ลบ"
       },
       "DefaultsButton": {
         "en": "Reset To Defaults",
@@ -123,7 +123,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "รีเซ็ตเป็นค่าเริ่มต้น"
       },
       "BackButton": {
         "en": "< &Back",
@@ -131,7 +131,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "< ย้อนกลับ (&B)"
       },
       "NextButton": {
         "en": "&Next >",
@@ -139,7 +139,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ถัดไป (&N) >"
       },
       "FinishButton": {
         "en": "&Finish",
@@ -147,7 +147,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เสร็จสิ้น (&F)"
       },
       "CancelButton": {
         "en": "Cancel",
@@ -155,7 +155,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ยกเลิก"
       },
       "InstallButton": {
         "en": "&Install",
@@ -163,7 +163,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ติดตั้ง (&I)"
       },
       "YesButton": {
         "en": "&Yes",
@@ -171,7 +171,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ใช่ (&Y)"
       },
       "NoButton": {
         "en": "&No",
@@ -179,7 +179,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่ (&N)"
       },
       "AgreeButton": {
         "en": "I &Agree",
@@ -187,7 +187,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ฉันยอมรับ (&A)"
       },
       "LanguagePrompt": {
         "en": "Language:",
@@ -195,7 +195,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ภาษา:"
       },
       "LanguageWindow": {
         "en": "Language Selection",
@@ -203,7 +203,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "การเลือกภาษา"
       },
       "LogWindow": {
         "en": "%s Log Window",
@@ -211,7 +211,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "หน้าต่างบันทึกประวัติ %s"
       },
       "PropNone": {
         "en": "Nothing Selected",
@@ -219,7 +219,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่ได้เลือกรายการใด"
       },
       "PropSingle": {
         "en": "%s Properties",
@@ -227,7 +227,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณสมบัติของ %s"
       },
       "PropMulti": {
         "en": "%s Properties (%i selected)",
@@ -235,7 +235,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณสมบัติของ %s (เลือก %i รายการ)"
       },
       "InsertCdText": {
         "en": "Please insert the Unreal CD-Rom into your drive and press OK to continue, or Cancel to exit.",
@@ -243,7 +243,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กรุณาใส่แผ่นซีดีรอม Unreal ลงในไดรฟ์ของคุณ แล้วกด ตกลง เพื่อดำเนินการต่อ หรือ ยกเลิก เพื่อออก"
       },
       "InsertCdTitle": {
         "en": "Cd Required At Startup",
@@ -251,7 +251,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ต้องใช้แผ่นซีดีตอนเริ่มต้น"
       },
       "AdvancedOptionsTitle": {
         "en": "Advanced Options",
@@ -259,7 +259,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ตัวเลือกขั้นสูง"
       },
       "Low": {
         "en": "Low",
@@ -267,7 +267,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ต่ำ"
       },
       "High": {
         "en": "High",
@@ -275,7 +275,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "สูง"
       },
       "New": {
         "en": "New",
@@ -283,7 +283,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ใหม่"
       },
       "OtherInstanceRunning": {
         "en": "Another instance of Tom Clancy's Splinter Cell Chaos Theory is already running.",
@@ -291,7 +291,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เกม Tom Clancy's Splinter Cell Chaos Theory กำลังทำงานอยู่แล้วในอีกหน้าต่าง"
       }
     },
     "FirstRun": {
@@ -302,7 +302,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "การกำหนดค่าเริ่มต้น"
       },
       "LowMemory": {
         "en": "Unreal has detected that you have %i megabytes of memory available. To improve performance, the \"Low Detail Textures\" and \"Low Sound Quality\" options have been enabled.  You may change this settings in the \"Performance Settings\" menu.",
@@ -310,7 +310,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "Unreal ตรวจพบว่าคุณมีหน่วยความจำที่ใช้งานได้ %i เมกะไบต์ เพื่อปรับปรุงประสิทธิภาพการทำงาน ระบบจึงเปิดใช้ตัวเลือก \"พื้นผิวรายละเอียดต่ำ\" และ \"คุณภาพเสียงต่ำ\" คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในเมนู \"การตั้งค่าประสิทธิภาพ\""
       },
       "NonMMX": {
         "en": "Unreal has detected that you're using a non-MMX PC. Based on this, the sound playback rate has been set to use the least CPU power. You may change this settings in the \"Advanced Options / Audio\" menu.",
@@ -318,7 +318,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "Unreal ตรวจพบว่าคุณใช้พีซีที่ไม่รองรับชุดคำสั่ง MMX ด้วยเหตุนี้ อัตราการเล่นเสียงจึงถูกตั้งให้ใช้พลังงาน CPU น้อยที่สุด คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในเมนู \"ตัวเลือกขั้นสูง / ระบบเสียง\""
       },
       "Starting": {
         "en": "Unreal is starting up with new settings. If you experience any problems, please read the Troubleshooting section of the Release Notes in the \"Start\" menu.",
@@ -326,7 +326,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "Unreal กำลังเริ่มต้นด้วยการตั้งค่าใหม่ หากคุณพบปัญหาใดๆ โปรดอ่านหัวข้อการแก้ไขปัญหาในเอกสารข้อมูลประจำรุ่นจากเมนู \"Start\""
       }
     },
     "IDDIALOG_Directory": {
@@ -337,7 +337,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "โฟลเดอร์สำหรับติดตั้ง"
       },
       "IDC_ChoosePrompt": {
         "en": "Please choose the installation folder.",
@@ -345,7 +345,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "โปรดเลือกโฟลเดอร์สำหรับติดตั้ง"
       },
       "IDC_PathTitle": {
         "en": "&Path:",
@@ -353,7 +353,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เส้นทาง (&P):"
       },
       "IDC_DirectoryTitle": {
         "en": "&Directories:",
@@ -361,7 +361,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไดเรกทอรี (&D):"
       },
       "IDC_DrivesTitle": {
         "en": "Dri&ves:",
@@ -369,7 +369,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไดรฟ์ (&V):"
       },
       "IDC_NetworkButton": {
         "en": "&Network",
@@ -377,7 +377,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เครือข่าย (&N)"
       }
     },
     "IDDIALOG_Password": {
@@ -388,7 +388,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ตรวจสอบรหัสผ่าน"
       },
       "IDC_Prompt": {
         "en": "Please enter your name and password.",
@@ -396,7 +396,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "โปรดป้อนชื่อและรหัสผ่านของคุณ"
       },
       "IDC_Name": {
         "en": "&Name:",
@@ -404,7 +404,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ชื่อ (&N):"
       }
     },
     "IDMENU_NotifyIcon": {
@@ -415,7 +415,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เมนู"
       },
       "ID_NotifyShowLog": {
         "en": "&UnrealServer Console",
@@ -423,7 +423,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คอนโซล UnrealServer (&U)"
       },
       "ID_NotifyAdvancedOptions": {
         "en": "&Advanced Options",
@@ -431,7 +431,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ตัวเลือกขั้นสูง (&A)"
       },
       "ID_NotifyExit": {
         "en": "E&xit UnrealServer",
@@ -439,7 +439,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ออกจาก UnrealServer (&X)"
       }
     },
     "IDMENU_Log": {
@@ -450,7 +450,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไฟล์ (&F)"
       },
       "ID_LogAdvancedOptions": {
         "en": "&Advanced Options",
@@ -458,7 +458,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ตัวเลือกขั้นสูง (&A)"
       },
       "ID_LogFileExit": {
         "en": "E&xit",
@@ -466,7 +466,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ออก (&X)"
       }
     },
     "IDDIALOG_CrashBox": {
@@ -477,7 +477,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คัดลอก"
       },
       "IDC_BugReport": {
         "en": "Support website",
@@ -485,7 +485,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เว็บไซต์ฝ่ายสนับสนุน"
       },
       "BugReportURL": {
         "en": "http://support.ubi.com/",
@@ -493,7 +493,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "http://support.ubi.com/"
       }
     }
   }

@@ -16,7 +16,7 @@
         "de": "OK",
         "es": "ACEPTAR",
         "it": "OK",
-        "th": ""
+        "th": "ตกลง"
       },
       "DefaultCancel": {
         "en": "CANCEL",
@@ -24,7 +24,7 @@
         "de": "ABBRECHEN",
         "es": "CANCELAR",
         "it": "ANNULLA",
-        "th": ""
+        "th": "ยกเลิก"
       },
       "Yes": {
         "en": "YES",
@@ -32,7 +32,7 @@
         "de": "JA",
         "es": "SÍ",
         "it": "SÌ",
-        "th": ""
+        "th": "ใช่"
       },
       "No": {
         "en": "NO",
@@ -40,7 +40,7 @@
         "de": "NEIN",
         "es": "NO",
         "it": "NO",
-        "th": ""
+        "th": "ไม่"
       }
     },
     "SAVELOAD": {
@@ -51,7 +51,7 @@
         "de": "SPEICHERE SPIEL...",
         "es": "GUARDANDO PARTIDA...",
         "it": "SALVATAGGIO DELLA PARTITA...",
-        "th": ""
+        "th": "กำลังบันทึกเกม..."
       },
       "SaveInfo": {
         "en": "YOU CAN SAVE OR LOAD YOUR GAME AT ANY TIME FROM THE PAUSE MENU",
@@ -59,7 +59,7 @@
         "de": "SIE KÖNNEN IM PAUSE-MENÜ JEDERZEIT EINEN SPIELSTAND LADEN ODER SPEICHERN",
         "es": "DESDE EL MENÚ DE PAUSA PUEDES GUARDAR O CARGAR PARTIDAS EN CUALQUIER MOMENTO.",
         "it": "PUOI SALVARE O RICARICARE LA PARTITA IN QUALSIASI MOMENTO DAL MENU PAUSA",
-        "th": ""
+        "th": "คุณสามารถบันทึกหรือโหลดเกมได้ตลอดเวลาจากเมนูหยุดเกมชั่วคราว"
       },
       "SaveWarning": {
         "en": "PLEASE DON'T TURN OFF YOUR XBOX CONSOLE.",
@@ -67,7 +67,7 @@
         "de": "BITTE SCHALTEN SIE IHRE XBOX NICHT AUS",
         "es": "NO APAGUES LA CONSOLA XBOX.",
         "it": "NON SPEGNERE XBOX.",
-        "th": ""
+        "th": "โปรดอย่าปิดเครื่องคอนโซลของคุณ"
       },
       "LoadMsg": {
         "en": "LOADING...",
@@ -75,7 +75,7 @@
         "de": "LADEVORGANG...",
         "es": "CARGANDO...",
         "it": "CARICAMENTO...",
-        "th": ""
+        "th": "กำลังโหลด..."
       },
       "LoadGameMsg": {
         "en": "LOADING GAME...",
@@ -83,7 +83,7 @@
         "de": "SPIEL WIRD GELADEN...",
         "es": "CARGANDO PARTIDA...",
         "it": "CARICAMENTO DELLA PARTITA...",
-        "th": ""
+        "th": "กำลังโหลดเกม..."
       },
       "CachingShaders": {
         "en": "CACHING SM 3.0 SHADERS...",
@@ -91,7 +91,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังจัดเก็บแคชเชเดอร์ SM 3.0..."
       },
       "CachingShaders2": {
         "en": "CACHING SM 2.0 SHADERS...",
@@ -99,7 +99,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "กำลังจัดเก็บแคชเชเดอร์ SM 2.0..."
       }
     },
     "CONTROLLER": {
@@ -110,7 +110,7 @@
         "de": "CONTROLLER ENTFERNT",
         "es": "CONTR. DESCONECTADO",
         "it": "CONTROLLER SCOLLEGATO",
-        "th": ""
+        "th": "คอนโทรลเลอร์ถูกตัดการเชื่อมต่อ"
       },
       "ControllerLostMsg": {
         "en": "PLEASE RECONNECT THE CONTROLLER TO PORT [ %i ] AND PRESS START TO CONTINUE",
@@ -118,7 +118,7 @@
         "de": "BITTE DEN CONTROLLER WIEDER AN CONTROLLER-ANSCHLUSS [%i] ANSCHLIESSEN UND START DRÜCKEN.",
         "es": "VOLVER A CONECTAR EL CONTROLADOR EN EL PUERTO DE CONTROLADOR [%i] Y PRESIONAR START PARA CONTINUAR",
         "it": "RICOLLEGA IL CONTROLLER NELLA PORTA DEL CONTROLLER [ %i ] E PREMI START PER CONTINUARE",
-        "th": ""
+        "th": "โปรดเชื่อมต่อคอนโทรลเลอร์เข้ากับพอร์ต [ %i ] อีกครั้ง แล้วกด START เพื่อดำเนินการต่อ"
       },
       "RemoteControllerLostMsg": {
         "en": "TEAMMATE CONTROLLER HAS BEEN DISCONNECTED. WAITING FOR YOUR TEAMMATE",
@@ -126,7 +126,7 @@
         "de": "CONTROLLER DES TEAMKAMERADEN WURDE UNTERBROCHEN. WARTE AUF MITSPIELER",
         "es": "EL CONTROLADOR DEL COMPAÑERO ESTÁ DESCONECTADO. ESPERANDO AL COMPAÑERO...",
         "it": "IL CONTROLLER DEL TUO COMPAGNO DI SQUADRA È SCOLLEGATO. ASPETTA IL TUO COMPAGNO...",
-        "th": ""
+        "th": "คอนโทรลเลอร์ของเพื่อนร่วมทีมถูกตัดการเชื่อมต่อ กำลังรอเพื่อนร่วมทีมของคุณ"
       },
       "ControllerTitle": {
         "en": "CONTROLLER",
@@ -134,7 +134,7 @@
         "de": "CONTROLLER ",
         "es": "CONTROLADOR",
         "it": "CONTROLLER",
-        "th": ""
+        "th": "คอนโทรลเลอร์"
       },
       "ControllerChoiceMsg": {
         "en": "PLEASE CHOOSE ANOTHER CONTROLLER AND PRESS START TO CONTINUE",
@@ -142,7 +142,7 @@
         "de": "BITTE EINE ANDERE CONTROLLER WÄHLEN UND START DRÜCKEN UM FORTZUFAHEN",
         "es": "ELIGE OTRO CONTROLADOR Y PRESIONA START PARA CONTINUAR.",
         "it": "SCEGLI UN ALTRO CONTROLLER E PREMI START PER CONTINUARE",
-        "th": ""
+        "th": "โปรดเลือกคอนโทรลเลอร์ตัวอื่นแล้วกด START เพื่อดำเนินการต่อ"
       }
     },
     "NAVIGATION": {
@@ -153,7 +153,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "MsgBox_B": {
         "en": "CANCEL",
@@ -161,7 +161,7 @@
         "de": "ABBRECHEN",
         "es": "CANCELAR",
         "it": "ANNULLA",
-        "th": ""
+        "th": "ยกเลิก"
       },
       "MsgBoxYes_A": {
         "en": "YES",
@@ -169,7 +169,7 @@
         "de": "JA",
         "es": "SÍ",
         "it": "SÌ",
-        "th": ""
+        "th": "ใช่"
       },
       "MsgBoxNo_B": {
         "en": "NO",
@@ -177,7 +177,7 @@
         "de": "NEIN",
         "es": "NO",
         "it": "NO",
-        "th": ""
+        "th": "ไม่"
       },
       "POPUP_A": {
         "en": "SELECT",
@@ -185,7 +185,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "POPUP_B": {
         "en": "BACK",
@@ -193,7 +193,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Common_A": {
         "en": "SELECT",
@@ -201,7 +201,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "Common_B": {
         "en": "BACK",
@@ -209,7 +209,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Main_A": {
         "en": "SELECT",
@@ -217,7 +217,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "MatchList_A": {
         "en": "JOIN",
@@ -225,7 +225,7 @@
         "de": "BEITRETEN",
         "es": "UNIRSE",
         "it": "PARTECIPA",
-        "th": ""
+        "th": "เข้าร่วม"
       },
       "MatchList_B": {
         "en": "BACK",
@@ -233,7 +233,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "MatchList_Y": {
         "en": "CREATE",
@@ -241,7 +241,7 @@
         "de": "ERSTELLEN",
         "es": "CREAR",
         "it": "CREA",
-        "th": ""
+        "th": "สร้างห้อง"
       },
       "MatchList_X": {
         "en": "REFRESH",
@@ -249,7 +249,7 @@
         "de": "AUFFRISCHEN",
         "es": "ACTUALIZAR",
         "it": "AGGIORNA",
-        "th": ""
+        "th": "รีเฟรช"
       },
       "CreateMatch_A": {
         "en": "SELECT",
@@ -257,7 +257,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "CreateMatch_B": {
         "en": "BACK",
@@ -265,7 +265,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Lobby_A": {
         "en": "SELECT",
@@ -273,7 +273,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "Lobby_B": {
         "en": "QUIT",
@@ -281,7 +281,7 @@
         "de": "VERLASSEN",
         "es": "SALIR",
         "it": "ESCI",
-        "th": ""
+        "th": "ออก"
       },
       "Lobby_X": {
         "en": "READY",
@@ -289,7 +289,7 @@
         "de": "BEREIT",
         "es": "LISTO",
         "it": "PRONTO",
-        "th": ""
+        "th": "พร้อม"
       },
       "LobbySetup_A": {
         "en": "CHANGE",
@@ -297,7 +297,7 @@
         "de": "WECHSELN",
         "es": "PRENDER/APAGAR",
         "it": "CAMBIA",
-        "th": ""
+        "th": "เปลี่ยน"
       },
       "Profile_A": {
         "en": "SELECT",
@@ -305,7 +305,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "Profile_B": {
         "en": "BACK",
@@ -313,7 +313,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Profile_X": {
         "en": "DELETE",
@@ -321,7 +321,7 @@
         "de": "LÖSCHEN",
         "es": "BORRAR",
         "it": "CANCELLA",
-        "th": ""
+        "th": "ลบ"
       },
       "Profile_Y": {
         "en": "CREATE",
@@ -329,7 +329,7 @@
         "de": "ERSTELLEN",
         "es": "CREAR",
         "it": "CREA",
-        "th": ""
+        "th": "สร้าง"
       },
       "VKeyboard_A": {
         "en": "SELECT",
@@ -337,7 +337,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "VKeyboard_B": {
         "en": "BACK",
@@ -345,7 +345,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "VKeyboard_X": {
         "en": "DELETE",
@@ -353,7 +353,7 @@
         "de": "LÖSCHEN",
         "es": "BORRAR",
         "it": "CANCELLA",
-        "th": ""
+        "th": "ลบ"
       },
       "VKeyboard_Y": {
         "en": "SWITCH",
@@ -361,7 +361,7 @@
         "de": "UMSCHALTEN",
         "es": "ENCENDER/APAGAR",
         "it": "CAMBIA",
-        "th": ""
+        "th": "สลับ"
       },
       "VKeyboardNumbers_Y": {
         "en": "NUMBERS",
@@ -369,7 +369,7 @@
         "de": "ZAHLEN",
         "es": "NÚMEROS",
         "it": "NUMERI",
-        "th": ""
+        "th": "ตัวเลข"
       },
       "VKeyboardLetters_Y": {
         "en": "LETTERS",
@@ -377,7 +377,7 @@
         "de": "BUCHSTABEN",
         "es": "LETRAS",
         "it": "LETTERE",
-        "th": ""
+        "th": "ตัวอักษร"
       },
       "StickyCamera_X": {
         "en": "NOISE",
@@ -385,7 +385,7 @@
         "de": "GERÄUSCH",
         "es": "RUIDO",
         "it": "RUMORE",
-        "th": ""
+        "th": "เสียงล่อ"
       },
       "StickyCamera_Y": {
         "en": "GAS",
@@ -393,7 +393,7 @@
         "de": "GAS",
         "es": "GAS",
         "it": "GAS",
-        "th": ""
+        "th": "แก๊ส"
       },
       "StickyCamera_B": {
         "en": "OUT",
@@ -401,7 +401,7 @@
         "de": "AUS",
         "es": "SALIR",
         "it": "ALLONTANA",
-        "th": ""
+        "th": "ออก"
       },
       "StickyCamera_LT": {
         "en": "PREVIOUS",
@@ -409,7 +409,7 @@
         "de": "ZURÜCK",
         "es": "ANTERIOR",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ก่อนหน้า"
       },
       "StickyCamera_RT": {
         "en": "NEXT",
@@ -417,7 +417,7 @@
         "de": "WEITER",
         "es": "SIGUIENTE",
         "it": "AVANTI",
-        "th": ""
+        "th": "ถัดไป"
       },
       "StickyCamera_DL": {
         "en": "NIGHT",
@@ -425,7 +425,7 @@
         "de": "NACHT",
         "es": "NOCTURNO",
         "it": "NOTTE",
-        "th": ""
+        "th": "มองกลางคืน"
       },
       "StickyCamera_DR": {
         "en": "HEAT",
@@ -433,7 +433,7 @@
         "de": "HITZE",
         "es": "TÉRMICO",
         "it": "CALORE",
-        "th": ""
+        "th": "มองความร้อน"
       },
       "StickyCamera_AL": {
         "en": "ZOOM",
@@ -441,7 +441,7 @@
         "de": "ZOOM",
         "es": "ZOOM",
         "it": "AVVICINA",
-        "th": ""
+        "th": "ซูม"
       },
       "OpticCable_DL": {
         "en": "NIGHT",
@@ -449,7 +449,7 @@
         "de": "NACHT",
         "es": "NOCTURNO",
         "it": "NOTTE",
-        "th": ""
+        "th": "มองกลางคืน"
       },
       "OpticCable_DR": {
         "en": "HEAT",
@@ -457,7 +457,7 @@
         "de": "HITZE",
         "es": "TÉRMICO",
         "it": "CALORE",
-        "th": ""
+        "th": "มองความร้อน"
       },
       "OpticCable_DU": {
         "en": "EMF",
@@ -465,7 +465,7 @@
         "de": "EMF",
         "es": "CEM",
         "it": "CAMPO MAGNETICO",
-        "th": ""
+        "th": "EMF"
       },
       "OpsatMenu_A": {
         "en": "SELECT",
@@ -473,7 +473,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "OpsatMenu_B": {
         "en": "BACK",
@@ -481,7 +481,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "OpsatMenuMap_A": {
         "en": "HIDE",
@@ -489,7 +489,7 @@
         "de": "AUSBLENDEN",
         "es": "ESCONDER",
         "it": "NASCONDI",
-        "th": ""
+        "th": "ซ่อน"
       },
       "OpsatMenuMap_LT": {
         "en": "PREVIOUS",
@@ -497,7 +497,7 @@
         "de": "ZURÜCK",
         "es": "ANTERIOR",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ก่อนหน้า"
       },
       "OpsatMenuMap_RT": {
         "en": "NEXT",
@@ -505,7 +505,7 @@
         "de": "FORTSETZEN",
         "es": "SIGUIENTE",
         "it": "AVANTI",
-        "th": ""
+        "th": "ถัดไป"
       },
       "OpsatMenuMap_AL": {
         "en": "ZOOM",
@@ -513,7 +513,7 @@
         "de": "ZOOM",
         "es": "ZOOM",
         "it": "AVVICINA",
-        "th": ""
+        "th": "ซูม"
       },
       "OpsatMenuMap_AR": {
         "en": "CAMERA",
@@ -521,7 +521,7 @@
         "de": "KAMERA",
         "es": "CÁMARA",
         "it": "TELECAMERA",
-        "th": ""
+        "th": "กล้อง"
       },
       "EEV_A": {
         "en": "SELECT",
@@ -529,7 +529,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "EEV_DL": {
         "en": "NIGHT",
@@ -537,7 +537,7 @@
         "de": "NACHT",
         "es": "NOCTURNO",
         "it": "NOTTE",
-        "th": ""
+        "th": "มองกลางคืน"
       },
       "EEV_DR": {
         "en": "HEAT",
@@ -545,7 +545,7 @@
         "de": "HITZE",
         "es": "TÉRMICO",
         "it": "CALORE",
-        "th": ""
+        "th": "มองความร้อน"
       },
       "EEV_AR_clic": {
         "en": "OUT",
@@ -553,7 +553,7 @@
         "de": "AUS",
         "es": "SALIR",
         "it": "ALLONTANA",
-        "th": ""
+        "th": "ออก"
       },
       "EEV_AL_clic": {
         "en": "ZOOM",
@@ -561,7 +561,7 @@
         "de": "ZOOM",
         "es": "ZOOM",
         "it": "ZOOM",
-        "th": ""
+        "th": "ซูม"
       },
       "Authentication_A": {
         "en": "SELECT",
@@ -569,7 +569,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "Authentication_B": {
         "en": "BACK",
@@ -577,7 +577,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Friends_A": {
         "en": "SELECT",
@@ -585,7 +585,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "Friends_B": {
         "en": "BACK",
@@ -593,7 +593,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Friends_Y": {
         "en": "ADD",
@@ -601,7 +601,7 @@
         "de": "HINZUFÜGEN",
         "es": "AÑADIR",
         "it": "AGGIUNGI",
-        "th": ""
+        "th": "เพิ่ม"
       },
       "RecentPlayers_A": {
         "en": "SELECT",
@@ -609,7 +609,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "RecentPlayers_B": {
         "en": "BACK",
@@ -617,7 +617,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "OnlineMain_X": {
         "en": "SIGN OUT",
@@ -625,7 +625,7 @@
         "de": "ABMELDEN",
         "es": "SALIR",
         "it": "DISCONNETTI",
-        "th": ""
+        "th": "ลงชื่อออก"
       },
       "OnlineMain_B": {
         "en": "BACK",
@@ -633,7 +633,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "OnlineMain_A": {
         "en": "SELECT",
@@ -641,7 +641,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "OptiMatch_B": {
         "en": "BACK",
@@ -649,7 +649,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "OptiMatch_A": {
         "en": "SELECT",
@@ -657,7 +657,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "QuickMatch_Y": {
         "en": "CREATE",
@@ -665,7 +665,7 @@
         "de": "ERSTELLEN",
         "es": "CREAR",
         "it": "CREA",
-        "th": ""
+        "th": "สร้างห้อง"
       },
       "QuickMatch_X": {
         "en": "REFRESH",
@@ -673,7 +673,7 @@
         "de": "AUFFRISCHEN",
         "es": "ACTUALIZAR",
         "it": "AGGIORNA",
-        "th": ""
+        "th": "รีเฟรช"
       },
       "QuickMatch_B": {
         "en": "BACK",
@@ -681,7 +681,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "QuickMatch_A": {
         "en": "JOIN",
@@ -689,7 +689,7 @@
         "de": "BEITRETEN",
         "es": "UNIRSE",
         "it": "PARTECIPA",
-        "th": ""
+        "th": "เข้าร่วม"
       },
       "MissionReview_A": {
         "en": "CONTINUE",
@@ -697,7 +697,7 @@
         "de": "FORTSETZEN",
         "es": "CONTINUAR",
         "it": "CONTINUA",
-        "th": ""
+        "th": "ดำเนินการต่อ"
       },
       "MissionReview_B": {
         "en": "BACK",
@@ -705,7 +705,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "MissionReview_Y": {
         "en": "RESTART",
@@ -713,7 +713,7 @@
         "de": "WIEDERHOLEN",
         "es": "REINTENTAR",
         "it": "RIPROVA",
-        "th": ""
+        "th": "เริ่มใหม่"
       },
       "MissionReview_X": {
         "en": "QUIT",
@@ -721,7 +721,7 @@
         "de": "BEENDEN",
         "es": "SALIR",
         "it": "ESCI",
-        "th": ""
+        "th": "ออก"
       },
       "MissionReviewFinish_A": {
         "en": "END",
@@ -729,7 +729,7 @@
         "de": "ENDE",
         "es": "FIN",
         "it": "FINE",
-        "th": ""
+        "th": "สิ้นสุด"
       },
       "CreateMsg_A": {
         "en": "SELECT",
@@ -737,7 +737,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "CreateMsg_B": {
         "en": "BACK",
@@ -745,7 +745,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "CreateMsg_Y": {
         "en": "PLAY",
@@ -753,7 +753,7 @@
         "de": "SPIELEN",
         "es": "OÍR",
         "it": "ASCOLTA",
-        "th": ""
+        "th": "เล่น"
       },
       "Inbox_X": {
         "en": "DELETE",
@@ -761,7 +761,7 @@
         "de": "LÖSCHEN",
         "es": "BORRAR",
         "it": "CANCELLA",
-        "th": ""
+        "th": "ลบ"
       },
       "Inbox_A": {
         "en": "READ",
@@ -769,7 +769,7 @@
         "de": "LESEN",
         "es": "LEER",
         "it": "LEGGI",
-        "th": ""
+        "th": "อ่าน"
       },
       "Inbox_B": {
         "en": "BACK",
@@ -777,7 +777,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "ReadMsg_X": {
         "en": "DELETE",
@@ -785,7 +785,7 @@
         "de": "LÖSCHEN",
         "es": "BORRAR",
         "it": "CANCELLA",
-        "th": ""
+        "th": "ลบ"
       },
       "ReadMsg_Y": {
         "en": "PLAY",
@@ -793,7 +793,7 @@
         "de": "SPIELEN",
         "es": "OÍR",
         "it": "ASCOLTA",
-        "th": ""
+        "th": "เล่น"
       },
       "ReadMsg_A": {
         "en": "SELECT",
@@ -801,7 +801,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "ReadMsg_B": {
         "en": "BACK",
@@ -809,7 +809,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "VoiceRecorder_A": {
         "en": "SELECT",
@@ -817,7 +817,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "VoiceRecorder_B": {
         "en": "BACK",
@@ -825,7 +825,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "VoiceRecorder_X": {
         "en": "DELETE",
@@ -833,7 +833,7 @@
         "de": "LÖSCHEN",
         "es": "BORRAR",
         "it": "CANCELLA",
-        "th": ""
+        "th": "ลบ"
       },
       "LoadOut_A": {
         "en": "CONTINUE",
@@ -841,7 +841,7 @@
         "de": "FORTSETZEN",
         "es": "CONTINUAR",
         "it": "CONTINUA",
-        "th": ""
+        "th": "ดำเนินการต่อ"
       },
       "LoadOut_B": {
         "en": "BRIEFING",
@@ -849,7 +849,7 @@
         "de": "BRIEFING",
         "es": "INFORME",
         "it": "BRIEFING",
-        "th": ""
+        "th": "สรุปภารกิจ"
       },
       "LoadOut_Y": {
         "en": "INFO",
@@ -857,7 +857,7 @@
         "de": "INFO",
         "es": "INFO",
         "it": "INFORMAZIONI",
-        "th": ""
+        "th": "ข้อมูล"
       },
       "LoadOutSel_A": {
         "en": "INFO",
@@ -865,7 +865,7 @@
         "de": "INFO",
         "es": "INFORMACIÓN",
         "it": "INFORMAZIONI",
-        "th": ""
+        "th": "ข้อมูล"
       },
       "LoadOutSel_X": {
         "en": "REMOVE",
@@ -873,7 +873,7 @@
         "de": "ENTFERNEN",
         "es": "ELIMINAR",
         "it": "TOGLI",
-        "th": ""
+        "th": "นำออก"
       },
       "LoadOutSel_Y": {
         "en": "ADD",
@@ -881,7 +881,7 @@
         "de": "HINZUFÜGEN",
         "es": "AÑADIR",
         "it": "AGGIUNGI",
-        "th": ""
+        "th": "เพิ่ม"
       },
       "LoadOutSel_B": {
         "en": "BACK",
@@ -889,7 +889,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "LoadGame_A": {
         "en": "LOAD",
@@ -897,7 +897,7 @@
         "de": "LADEN",
         "es": "CARGAR",
         "it": "CARICA",
-        "th": ""
+        "th": "โหลด"
       },
       "LoadGame_B": {
         "en": "BACK",
@@ -905,7 +905,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "SaveGame_A": {
         "en": "SAVE",
@@ -913,7 +913,7 @@
         "de": "SPEICHERN",
         "es": "GUARDAR",
         "it": "SALVA",
-        "th": ""
+        "th": "บันทึก"
       },
       "SaveGame_B": {
         "en": "BACK",
@@ -921,7 +921,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Hacking_A": {
         "en": "ACCEPT",
@@ -929,7 +929,7 @@
         "de": "ÜBERNEHMEN",
         "es": "ACEPTAR",
         "it": "ACCETTA",
-        "th": ""
+        "th": "ยืนยัน"
       },
       "Hacking_B": {
         "en": "ABORT",
@@ -937,7 +937,7 @@
         "de": "ABBRECHEN",
         "es": "ABORTAR",
         "it": "CANCELLA",
-        "th": ""
+        "th": "ยกเลิก"
       },
       "Hacking_X": {
         "en": "LOCK",
@@ -945,7 +945,7 @@
         "de": "GESPERRT",
         "es": "BLOQUEAR",
         "it": "CHIUDI",
-        "th": ""
+        "th": "ล็อก"
       },
       "Hacking_AL": {
         "en": "SELECT",
@@ -953,7 +953,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "UserOffline": {
         "en": "NOT SIGNED IN",
@@ -961,7 +961,7 @@
         "de": "NICHT ANGEMELDET:",
         "es": "NO ESTA CONECTADO",
         "it": "NON CONNESSO",
-        "th": ""
+        "th": "ยังไม่ได้ลงชื่อเข้าใช้"
       },
       "UserLoginPassword": {
         "en": "NOT SIGNED IN : PASSCODE NEEDED",
@@ -969,7 +969,7 @@
         "de": "NICHT ANGEMELDET: CODE WIRD BENÖTIGT",
         "es": "NO ESTA CONECTADO: FALTA EL CODIGO DE ACCESO",
         "it": "NON CONNESSO: DEVI INSERIRE IL CODICE",
-        "th": ""
+        "th": "ยังไม่ได้ลงชื่อเข้าใช้ : ต้องใช้รหัสผ่าน"
       },
       "UserLoginSuccess": {
         "en": "SIGNED IN : %s",
@@ -977,7 +977,7 @@
         "de": "ANGEMELDET: %s",
         "es": "CONECTADO AL: %s",
         "it": "CONNESSO: %s",
-        "th": ""
+        "th": "ลงชื่อเข้าใช้แล้ว : %s"
       },
       "UserLoginFail": {
         "en": "SIGN-IN FAILED",
@@ -985,7 +985,7 @@
         "de": "ANMELDUNG MISSLUNGEN",
         "es": "ERROR DE CONEXION",
         "it": "CONNESSIONE FALLITA",
-        "th": ""
+        "th": "การลงชื่อเข้าใช้ล้มเหลว"
       },
       "Missile_A": {
         "en": "CUT",
@@ -993,7 +993,7 @@
         "de": "AUSCHNEIDEN",
         "es": "CORTAR",
         "it": "TAGLIA",
-        "th": ""
+        "th": "ตัดสายไฟ"
       },
       "Missile_B": {
         "en": "BACK",
@@ -1001,7 +1001,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "CryoTank_A": {
         "en": "MIX",
@@ -1009,7 +1009,7 @@
         "de": "MIX",
         "es": "MEZCLA",
         "it": "MESCOLA",
-        "th": ""
+        "th": "ผสม"
       },
       "CryoTank_B": {
         "en": "EXIT",
@@ -1017,7 +1017,7 @@
         "de": "BEENDEN",
         "es": "SALIR",
         "it": "ESCI",
-        "th": ""
+        "th": "ออก"
       },
       "Crane_AL": {
         "en": "SELECT",
@@ -1025,7 +1025,7 @@
         "de": "AUSWAHL",
         "es": "ELEGIR",
         "it": "SELEZIONA",
-        "th": ""
+        "th": "เลือก"
       },
       "Crane_RT": {
         "en": "MOVE DOWN",
@@ -1033,7 +1033,7 @@
         "de": "NACH UNTEN",
         "es": "ABAJO",
         "it": "MUOVI GIÙ",
-        "th": ""
+        "th": "เลื่อนลง"
       },
       "Crane_LT": {
         "en": "MOVE UP",
@@ -1041,7 +1041,7 @@
         "de": "NACH OBEN",
         "es": "ARRIBA",
         "it": "MUOVI SU",
-        "th": ""
+        "th": "เลื่อนขึ้น"
       },
       "Bomb_A": {
         "en": "CUT",
@@ -1049,7 +1049,7 @@
         "de": "AUSCHNEIDEN",
         "es": "CORTAR",
         "it": "TAGLIA",
-        "th": ""
+        "th": "ตัดสายไฟ"
       },
       "Bomb_B": {
         "en": "EXIT",
@@ -1057,7 +1057,7 @@
         "de": "BEENDEN",
         "es": "SALIR",
         "it": "ESCI",
-        "th": ""
+        "th": "ออก"
       }
     }
   }

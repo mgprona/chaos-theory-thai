@@ -16,7 +16,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)"
       },
       "Preferences": {
         "en": "(Caption=\"Rendering\",Parent=\"Advanced Options\")",
@@ -24,7 +24,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "(Caption=\"Rendering\",Parent=\"Advanced Options\")"
       }
     },
     "D3DRenderDevice": {
@@ -35,7 +35,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "\"การรองรับ Direct3D\""
       },
       "AskInstalled": {
         "en": "Do you want to use Direct3D?",
@@ -43,7 +43,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณต้องการใช้ Direct3D หรือไม่?"
       },
       "AskUse": {
         "en": "",
@@ -51,7 +51,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คุณต้องการเปิดใช้ Direct3D หรือไม่?"
       }
     }
   }

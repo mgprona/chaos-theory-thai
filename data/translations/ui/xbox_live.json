@@ -16,7 +16,7 @@
         "de": "UNBEKANNTER FEHLER:",
         "es": "ERROR DESCONOCIDO:",
         "it": "ERRORE SCONOSCIUTO:",
-        "th": ""
+        "th": "เกิดข้อผิดพลาดที่ไม่รู้จัก :"
       },
       "XL_E_INITSOCKETS_FAILED": {
         "en": "SOCKET INITIALIZATION FAILED.",
@@ -24,7 +24,7 @@
         "de": "STECKANSCHLUSS-INITIALISIERUNG FEHLGESCHLAGEN",
         "es": "LA INICIALIZACIÓN HA FALLADO.",
         "it": "INIZIALIZZAZIONE DEL SOCKET FALLITA",
-        "th": ""
+        "th": "การเริ่มต้นซ็อกเก็ตล้มเหลว"
       },
       "XL_E_BIND_SOCKET_FAILED": {
         "en": "BINDING TO SOCKET FAILED.",
@@ -32,7 +32,7 @@
         "de": "BINDEN AN STECKANSCHLUSS FEHLGESCHLAGEN",
         "es": "LA CONEXIÓN HA FALLADO.",
         "it": "COLLEGAMENTO AL SOCKET FALLITO",
-        "th": ""
+        "th": "การเชื่อมต่อไปยังซ็อกเก็ตล้มเหลว"
       },
       "XL_E_IOCTL_FAILED": {
         "en": "IOCTL ON SOCKET FAILED.",
@@ -40,7 +40,7 @@
         "de": "IOCTL AUF STECKANSCHL. FEHLGESCHLAGEN",
         "es": "EL ENLACE HA FALLADO.",
         "it": "IOCTL FALLITO SUL SOCKET",
-        "th": ""
+        "th": "คำสั่ง IOCTL บนซ็อกเก็ตล้มเหลว"
       },
       "XL_E_NO_TASK": {
         "en": "NO TASK WAS AVAILABLE.",
@@ -48,7 +48,7 @@
         "de": "KEIN TASK VERFÜGBAR",
         "es": "NO HAY TAREAS DISPONIBLES.",
         "it": "NESSUNA ATTIVITÀ DISPONIBILE",
-        "th": ""
+        "th": "ไม่มีงานที่พร้อมใช้งาน"
       },
       "XL_E_NO_USER_ACCOUNTS_FOUND": {
         "en": "NO USER ACCOUNTS WERE FOUND.",
@@ -56,7 +56,7 @@
         "de": "KEINE BENUTZERKONTEN GEFUNDEN",
         "es": "NO SE HAN ENCONTRADO CUENTAS DE USUARIO.",
         "it": "NON SONO STATI TROVATI ACCOUNT UTENTE",
-        "th": ""
+        "th": "ไม่พบบัญชีผู้ใช้"
       },
       "XL_E_INVALID_PASSCODE": {
         "en": "WRONG PASS CODE ENTERED. PLEASE RETRY. ",
@@ -64,7 +64,7 @@
         "de": "FALSCHER CODE EINGEGEBEN. BITTE NOCHMAL VERSUCHEN. ",
         "es": "EL CÓDIGO DE ACCESO ES INCORRECTO. POR FAVOR, INTÉNTALO DE NUEVO. ",
         "it": "IL CODICE INSERITO È ERRATO. RIPROVA. ",
-        "th": ""
+        "th": "ป้อนรหัสผ่านไม่ถูกต้อง โปรดลองอีกครั้ง "
       },
       "XL_E_ETHERNET_DISCONNECTED": {
         "en": "ETHERNET CABLE IS DISCONNECTED.",
@@ -72,7 +72,7 @@
         "de": "ETHERNET-KABEL IST ABGETRENNT",
         "es": "EL CABLE ETHERNET ESTÁ DESCONECTADO.",
         "it": "IL CAVO ETHERNET NON È CONNESSO",
-        "th": ""
+        "th": "สายเคเบิลอีเทอร์เน็ตไม่ได้เชื่อมต่อ"
       },
       "XL_E_NO_NETWORK_CONNECTION": {
         "en": "NO NETWORK CONNECTION WAS DETECTED. SELECT \"OK\" TO START THE TROUBLESHOOTER OR \"CANCEL\".",
@@ -80,7 +80,7 @@
         "de": "KEINE NETZWERK-VERBINDUNG GEFUNDEN. WÄHLEN SIE \"OK\" UM DIE FEHLERBEHEBUNG ZU STARTEN ODER \"ABBRECHEN\".",
         "es": "NO SE HA DETECTADO UNA CONEXIÓN DE RED. ELIGE \"ACEPTAR\" PARA INICIAR LA SOLUCIÓN DE PROBLEMAS O \"CANCELAR\" PARA DESCARTAR.",
         "it": "NON È STATA RILEVATA NESSUNA CONNESSIONE DI RETE. ",
-        "th": ""
+        "th": "ตรวจไม่พบการเชื่อมต่อเครือข่าย เลือก \"ตกลง\" เพื่อเริ่มเครื่องมือแก้ปัญหา หรือ \"ยกเลิก\""
       }
     },
     "WinsockErrors": {
@@ -91,7 +91,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "ไม่สามารถกำหนดที่อยู่ที่ร้องขอได้"
       },
       "WSAEACCES": {
         "en": "PERMISSION DENIED.",
@@ -99,7 +99,7 @@
         "de": "ZUGANG VERWEIGERT",
         "es": "PERMISO DENEGADO.",
         "it": "PERMESSO NEGATO",
-        "th": ""
+        "th": "การเข้าถึงถูกปฏิเสธ"
       },
       "WSAEADDRINUSE": {
         "en": "ADDRESS ALREADY IN USE.",
@@ -107,7 +107,7 @@
         "de": "ADRESSE WIRD BEREITS VERWENDET",
         "es": "LA DIRECCIÓN YA ESTÁ USADA.",
         "it": "L'INDIRIZZO È GIÀ IN USO",
-        "th": ""
+        "th": "ที่อยู่นี้ถูกใช้งานอยู่แล้ว"
       },
       "WSAEAFNOSUPPORT": {
         "en": "ADDRESS FAMILY NOT SUPPORTED BY PROTOCOL FAMILY.",
@@ -115,7 +115,7 @@
         "de": "ADRESSENBEREICH WIRD VON PROTOKOLLBEREICH NICHT UNTERSTÜTZT",
         "es": "EL APELLIDO NO CUMPLE EL PROTOCOLO DE APELLIDOS.",
         "it": "FAMIGLIA DI INDIRIZZI NON SUPPORTATA DALLA FAMIGLIA DEL PROTOCOLLO",
-        "th": ""
+        "th": "ตระกูลที่อยู่ไม่ได้รับการสนับสนุนโดยตระกูลโพรโทคอล"
       },
       "WSAEALREADY": {
         "en": "OPERATION ALREADY IN PROGRESS.",
@@ -123,7 +123,7 @@
         "de": "AKTION WIRD BEREITS AUSGEFÜHRT",
         "es": "LA OPERACIÓN YA ESTÁ EN MARCHA.",
         "it": "OPERAZIONE GIÀ IN CORSO",
-        "th": ""
+        "th": "การดำเนินการกำลังดำเนินอยู่แล้ว"
       },
       "WSAECANCELLED": {
         "en": "OPERATION CANCELLED.",
@@ -131,7 +131,7 @@
         "de": "AKTION ABGEBROCHEN",
         "es": "OPERACIÓN CANCELADA.",
         "it": "OPERAZIONE ANNULLATA",
-        "th": ""
+        "th": "การดำเนินการถูกยกเลิก"
       },
       "WSAECONNREFUSED": {
         "en": "CONNECTION REFUSED.",
@@ -139,7 +139,7 @@
         "de": "VERBINDUNG ZURÜCKGEWIESEN",
         "es": "CONEXIÓN RECHAZADA.",
         "it": "CONNESSIONE RIFIUTATA",
-        "th": ""
+        "th": "การเชื่อมต่อถูกปฏิเสธ"
       },
       "WSAECONNRESET": {
         "en": "CONNECTION RESET BY PEER.",
@@ -147,7 +147,7 @@
         "de": "VERBINDUNG WURDE ZURÜCKGESETZT",
         "es": "CONEXIÓN REINICIADA AL OTRO LADO.",
         "it": "CONNESSIONE REIMPOSTATA DALLA DESTINAZIONE",
-        "th": ""
+        "th": "การเชื่อมต่อถูกรีเซ็ตโดยคู่สนทนา"
       },
       "WSAEFAULT": {
         "en": "BAD ADDRESS.",
@@ -155,7 +155,7 @@
         "de": "UNGÜLTIGE ADRESSE",
         "es": "DIRECCIÓN INCORRECTA.",
         "it": "INDIRIZZO ERRATO",
-        "th": ""
+        "th": "ที่อยู่ไม่ถูกต้อง"
       },
       "WSAEHOSTUNREACH": {
         "en": "NO ROUTE TO HOST.",
@@ -163,7 +163,7 @@
         "de": "KEINE ROUTE ZUM HOST",
         "es": "NO HAY ENLACE CON EL SERVIDOR.",
         "it": "PERCORSO VERSO L'HOST MANCANTE",
-        "th": ""
+        "th": "ไม่มีเส้นทางไปยังโฮสต์"
       },
       "WSAEINPROGRESS": {
         "en": "OPERATION NOW IN PROGRESS.",
@@ -171,7 +171,7 @@
         "de": "AKTION WIRD JETZT AUSGEFÜHRT",
         "es": "LA OPERACIÓN ESTÁ EN PROGRESO.",
         "it": "OPERAZIONE IN CORSO",
-        "th": ""
+        "th": "การดำเนินการกำลังดำเนินอยู่"
       },
       "WSAEINVAL": {
         "en": "INVALID ARGUMENT.",
@@ -179,7 +179,7 @@
         "de": "UNGÜLTIGES ARGUMENT",
         "es": "ARGUMENTO NO VÁLIDO.",
         "it": "ARGOMENTO NON VALIDO",
-        "th": ""
+        "th": "อาร์กิวเมนต์ไม่ถูกต้อง"
       },
       "WSAEISCONN": {
         "en": "SOCKET IS ALREADY CONNECTED.",
@@ -187,7 +187,7 @@
         "de": "STECKANSCHLUSS BEREITS VERBUNDEN",
         "es": "EL CLIENTE YA ESTÁ CONECTADO.",
         "it": "SOCKET GIÀ CONNESSO",
-        "th": ""
+        "th": "ซ็อกเก็ตเชื่อมต่ออยู่แล้ว"
       },
       "WSAEMSGSIZE": {
         "en": "MESSAGE TOO LONG.",
@@ -195,7 +195,7 @@
         "de": "MITTEILUNG ZU LANG",
         "es": "EL MENSAJE ES DEMASIADO LARGO.",
         "it": "MESSAGGIO TROPPO LUNGO",
-        "th": ""
+        "th": "ข้อความยาวเกินไป"
       },
       "WSAENETDOWN": {
         "en": "NETWORK IS DOWN.",
@@ -203,7 +203,7 @@
         "de": "NETZWERK OFFLINE",
         "es": "LA RED NO FUNCIONA.",
         "it": "LA RETE NON È IN FUNZIONE",
-        "th": ""
+        "th": "เครือข่ายไม่ทำงาน"
       },
       "WSAENOBUFS": {
         "en": "NO BUFFER SPACE AVAILABLE.",
@@ -211,7 +211,7 @@
         "de": "KEIN PUFFERSPEICHER VERFÜGBAR",
         "es": "NO HAY ESPACIO DE BUFFER DISPONIBLE.",
         "it": "SPAZIO PER IL BUFFER ESAURITO",
-        "th": ""
+        "th": "ไม่มีพื้นที่บัฟเฟอร์ว่าง"
       },
       "WSAENOPROTOOPT": {
         "en": "BAD PROTOCOL OPTION.",
@@ -219,7 +219,7 @@
         "de": "UNGÜLTIGE PROTOKOLL-OPTION",
         "es": "Conozco demasiado bien los fusiles AK para saber que eso no era un AK.",
         "it": "OPZIONE ERRATA PER IL PROTOCOLLO",
-        "th": ""
+        "th": "ตัวเลือกโพรโทคอลไม่ถูกต้อง"
       },
       "WSAENOTCONN": {
         "en": "SOCKET IS NOT CONNECTED.",
@@ -227,7 +227,7 @@
         "de": "STECKANSCHLUSS NICHT VERBUNDEN",
         "es": "EL CLIENTE NO ESTÁ CONECTADO.",
         "it": "SOCKET NON CONNESSO",
-        "th": ""
+        "th": "ซ็อกเก็ตไม่ได้เชื่อมต่อ"
       },
       "WSAENOTSOCK": {
         "en": "SOCKET OPERATION ON NONSOCKET.",
@@ -235,7 +235,7 @@
         "de": "STECKANSCHL.-OPER. AUF NICHT-STECKANSCHL.",
         "es": "OPERACIÓN DE CLIENTE EN NOCLIENTE.",
         "it": "OPERAZIONE SOCKET SU UN NON SOCKET",
-        "th": ""
+        "th": "การดำเนินการกับซ็อกเก็ตบนออบเจกต์ที่ไม่ใช่ซ็อกเก็ต"
       },
       "WSAEPROTONOSUPPORT": {
         "en": "PROTOCOL NOT SUPPORTED.",
@@ -243,7 +243,7 @@
         "de": "PROTOKOLL WIRD NICHT UNTERSTÜTZT",
         "es": "PROTOCOLO NO SOPORTADO.",
         "it": "PROTOCOLLO NON SUPPORTATO",
-        "th": ""
+        "th": "โพรโทคอลไม่ได้รับการสนับสนุน"
       },
       "WSAESHUTDOWN": {
         "en": "CANNOT SEND AFTER SOCKET SHUTDOWN.",
@@ -251,7 +251,7 @@
         "de": "SENDEN NACH STECKSCHL.-ABSCHALT. UNMÖGLICH",
         "es": "NO SE PUEDE ENVIAR TRAS CERRAR EL CLIENTE.",
         "it": "IMPOSSIBILE INVIARE DOPO LO SPEGNIMENTO DEL SOCKET",
-        "th": ""
+        "th": "ไม่สามารถส่งข้อมูลได้หลังจากปิดซ็อกเก็ต"
       },
       "WSAESOCKTNOSUPPORT": {
         "en": "SOCKET TYPE NOT SUPPORTED.",
@@ -259,7 +259,7 @@
         "de": "STECKANSCHL.-TYP NICHT UNTERSTÜTZT",
         "es": "EL TIPO DE CLIENTE NO ESTÁ SOPORTADO.",
         "it": "TIPO DI SOCKET NON SUPPORTATO",
-        "th": ""
+        "th": "ประเภทซ็อกเก็ตไม่ได้รับการสนับสนุน"
       },
       "WSAETIMEDOUT": {
         "en": " CONNECTION TIMED OUT.",
@@ -267,7 +267,7 @@
         "de": "VERBINDUNGS-TIMEOUT",
         "es": "AGOTADO EL TIEMPO DE CONEXIÓN.",
         "it": "CONNESSIONE SCADUTA",
-        "th": ""
+        "th": " หมดเวลาการเชื่อมต่อ"
       },
       "WSAEWOULDBLOCK": {
         "en": "RESOURCE TEMPORARILY UNAVAILABLE.",
@@ -275,7 +275,7 @@
         "de": "RESSOURCE VORÜBERGEHEND NICHT VERFÜGBAR",
         "es": "RECURSO TEMPORALMENTE NO DISPONIBLE.",
         "it": "RISORSA TEMPORANEAMENTE NON DISPONIBILE",
-        "th": ""
+        "th": "ทรัพยากรไม่พร้อมใช้งานชั่วคราว"
       },
       "WSAHOST_NOT_FOUND": {
         "en": "HOST NOT FOUND.",
@@ -283,7 +283,7 @@
         "de": "HOST NICHT GEFUNDEN",
         "es": "NO SE ENCUENTRA EL SERVIDOR",
         "it": "HOST NON TROVATO",
-        "th": ""
+        "th": "ไม่พบโฮสต์"
       },
       "WSA_IO_INCOMPLETE": {
         "en": "OVERLAPPED I/O EVENT OBJECT NOT IN SIGNALED STATE.",
@@ -291,7 +291,7 @@
         "de": "ÜBERLAPPENDES E/A-EVENT-OBJEKT NICHT IN GEMELDETEM ZUSTAND",
         "es": "EL OBJETO DE ENTRADA/SALIDA SUPERPUESTO NO ESTÁ EN EL ESTADO CORRECTO.",
         "it": "L'OGGETTO DELL'EVENTO I/O SOVRAPPOSTO NON È NELLO STATO SEGNALATO",
-        "th": ""
+        "th": "ออบเจกต์อีเวนต์ I/O แบบซ้อนทับไม่ได้อยู่ในสถานะส่งสัญญาณ"
       },
       "WSA_IO_PENDING": {
         "en": "OVERLAPPED OPERATIONS WILL COMPLETE LATER.",
@@ -299,7 +299,7 @@
         "de": "ÜBERLAPPENDE OPERATIONEN WERDEN SPÄTER BEENDET",
         "es": "LAS OPERACIONES SIMULTÁNEAS SE REALIZARÁN MÁS TARDE.",
         "it": "LE OPERAZIONI SOVRAPPOSTE VERRANNO COMPLETATE PIÙ TARDI",
-        "th": ""
+        "th": "การดำเนินการแบบซ้อนทับจะเสร็จสิ้นในภายหลัง"
       },
       "WSANOTINITIALISED": {
         "en": "SUCCESSFUL WSASTARTUP NOT YET PERFORMED.",
@@ -307,7 +307,7 @@
         "de": "ERFOLGREICHER WSASTARTUP KONNTE NOCH NICHT AUSGEFÜHRT WERDEN",
         "es": "NO SE HA REALIZADO CON ÉXITO UN ARRANQUE COMPLETO.",
         "it": "WSASTARTUP NON ANCORA EFFETTUATO CORRETTAMENTE",
-        "th": ""
+        "th": "ยังไม่ได้เริ่มการทำงานของ WSAStartup สำเร็จ"
       },
       "WSANO_DATA": {
         "en": "VALID NAME, NO DATA RECORD OF REQUESTED TYPE.",
@@ -315,7 +315,7 @@
         "de": "NAME GÜLTIG, KEIN DATENSATZ DES ANGEFORDERTEN TYPS",
         "es": "NOMBRE VÁLIDO, NO HAY DATOS GRABADOS SOBRE EL TIPO SOLICITADO.",
         "it": "NOME VALIDO, NESSUN DATO DEL TIPO RICHIESTO",
-        "th": ""
+        "th": "ชื่อถูกต้อง แต่ไม่มีบันทึกข้อมูลประเภทที่ร้องขอ"
       },
       "WSASYSCALLFAILURE": {
         "en": "SYSTEM CALL FAILURE.",
@@ -323,7 +323,7 @@
         "de": "SYSTEMAUFRUF GESCHEITERT",
         "es": "FALLO EN UNA LLAMADA AL SISTEMA.",
         "it": "ERRORE NELLA CHIAMATA DI SISTEMA",
-        "th": ""
+        "th": "การเรียกใช้ระบบล้มเหลว"
       },
       "WSASYSNOTREADY": {
         "en": "NETWORK SUBSYSTEM IS UNAVAILABLE.",
@@ -331,7 +331,7 @@
         "de": "NETZWERK-SUBSYSTEM NICHT VERFÜGBAR",
         "es": "SUBSISTEMA DE RED NO DISPONIBLE.",
         "it": "IL SOTTOSISTEMA DI RETE NON È DISPONIBILE",
-        "th": ""
+        "th": "ระบบย่อยเครือข่ายไม่พร้อมใช้งาน"
       },
       "WSATRY_AGAIN": {
         "en": "NONAUTHORITATIVE HOST NOT FOUND.",
@@ -339,7 +339,7 @@
         "de": "NICHT MASSGEBENDER HOST NICHT GEFUNDEN",
         "es": "SERVIDOR NO AUTORITARIO NO ENCONTRADO.",
         "it": "HOST NON AUTORITATIVO NON TROVATO",
-        "th": ""
+        "th": "ไม่พบโฮสต์ที่ไม่ใช่ผู้มีสิทธิ์ขาด"
       },
       "WSAVERNOTSUPPORTED": {
         "en": "WINSOCK VERSION OUT OF RANGE.",
@@ -347,7 +347,7 @@
         "de": "WINSOCK-VERSION UNGÜLTIG",
         "es": "VERSIÓN WINSOCK FUERA DE RANGO.",
         "it": "VERSIONE DI WINSOCK FUORI GAMMA",
-        "th": ""
+        "th": "เวอร์ชัน Winsock อยู่นอกช่วงที่รองรับ"
       }
     },
     "XboxLiveErrors": {
@@ -358,7 +358,7 @@
         "de": "UNKNOWN XBOXLIVE ERROR :",
         "es": "UNKNOWN XBOXLIVE ERROR :",
         "it": "UNKNOWN XBOXLIVE ERROR :",
-        "th": ""
+        "th": "เกิดข้อผิดพลาด XBOXLIVE ที่ไม่รู้จัก :"
       },
       "XONLINE_S_LOGON_USER_HAS_MESSAGE": {
         "en": "YOU HAVE A NEW XBOX LIVE MESSAGE.  SELECT \"OK\" TO READ THE MESSAGE NOW, OR \"CANCEL\" TO READ LATER.",
@@ -366,7 +366,7 @@
         "de": "SIE HABEN EINE NEUE XBOX LIVE MITTEILUNG ERHALTEN.  WÄHLEN SIE \"OK\", UM DIE MITTEILUNG JETZT ZU LESEN ODER \"ABBRECHEN\", UM SIE SPÄTER ZU LESEN.",
         "es": "TIENES UN MENSAJE NUEVO DE XBOX LIVE. ELIGE \"ACEPTAR\" PARA LEER EL MENSAJE AHORA O \"CANCELAR\" PARA LEER MÁS TARDE.",
         "it": "HAI UN NUOVO MESSAGGIO DA XBOX LIVE. SELEZIONA \"OK\" PER LEGGERE IL MESSAGGIO ORA, O \"ANNULLA\" PER LEGGERLO PIÙ TARDI.",
-        "th": ""
+        "th": "คุณมีข้อความใหม่จาก XBOX LIVE เลือก \"ตกลง\" เพื่ออ่านข้อความทันที หรือ \"ยกเลิก\" เพื่ออ่านในภายหลัง"
       },
       "XONLINE_E_OUT_OF_MEMORY": {
         "en": "THERE WAS NOT ENOUGH MEMORY TO CREATE THE ASYNCHRONOUS LOGON TASK.",
@@ -374,7 +374,7 @@
         "de": "NICHT GENUG SPEICHER, UM EINEN ASYNCHRONEN LOGON-TASK ZU ERSTELLEN",
         "es": "NO HABÍA SUFICIENTE MEMORIA PARA CREAR LA TAREA DE CONEXIÓN ASÍNCRONA.",
         "it": "MEMORIA INSUFFICIENTE PER CREARE IL PROCESSO DI CONNESSIONE ASINCRONA",
-        "th": ""
+        "th": "หน่วยความจำไม่เพียงพอสำหรับสร้างงานเข้าสู่ระบบแบบอะซิงโครนัส"
       },
       "XONLINE_E_TASK_BUSY": {
         "en": "ANOTHER LOGON TASK IS CURRENTLY BEING PERFORMED, OR THE PREVIOUS LOGON TASK HAS NOT BEEN CLOSED.",
@@ -382,7 +382,7 @@
         "de": "ES WIRD BEREITS EIN ANDERER LOGON-TASKS AUSGEFÜHRT ODER VORHERIGER LOGON-TASK WURDE NICHT RICHTIG GESCHLOSSEN",
         "es": "SE ESTÁ REALIZANDO OTRA TAREA DE ENTRADA, O LA TAREA ANTERIOR DE CONEXIÓN NO SE HA CERRADO.",
         "it": "STA VENENDO EFFETTUATO UN ALTRO PROCESSO DI CONNESSIONE, O IL PROCESSO DI CONNESSIONE PRECEDENTE NON È STATO CHIUSO",
-        "th": ""
+        "th": "งานเข้าสู่ระบบอื่นกำลังดำเนินการอยู่ หรือยังไม่ได้ปิดงานเข้าสู่ระบบก่อนหน้า"
       },
       "XONLINE_E_NO_USER": {
         "en": "NO USER.",
@@ -390,7 +390,7 @@
         "de": "NO USER.",
         "es": "NO USER.",
         "it": "NO USER.",
-        "th": ""
+        "th": "ไม่มีผู้ใช้"
       },
       "XONLINE_E_OVERFLOW": {
         "en": "OVERFLOW.",
@@ -398,7 +398,7 @@
         "de": "ÜBERLAUF",
         "es": "SOBRECARGA DE DATOS.",
         "it": "OVERFLOW",
-        "th": ""
+        "th": "ข้อมูลล้น"
       },
       "XONLINE_E_NO_SESSION": {
         "en": "NO SESSION.",
@@ -406,7 +406,7 @@
         "de": "KEINE SITZUNG",
         "es": "NO HAY PARTIDAS.",
         "it": "NESSUNA PARTITA",
-        "th": ""
+        "th": "ไม่มีเซสชัน"
       },
       "XONLINE_E_USER_NOT_LOGGED_ON": {
         "en": "USER NOT LOGGED ON.",
@@ -414,7 +414,7 @@
         "de": "BENUTZER NICHT ANGEMELDET",
         "es": "EL USUARIO NO ESTÁ CONECTADO.",
         "it": "L'UTENTE NON È CONNESSO.",
-        "th": ""
+        "th": "ผู้ใช้ยังไม่ได้เข้าสู่ระบบ"
       },
       "XONLINE_E_NO_GUEST_ACCESS": {
         "en": "NO GUEST ACCESS.",
@@ -422,7 +422,7 @@
         "de": "KEIN GASTZUGANG",
         "es": "NO HAY ACCESO DE INVITADOS",
         "it": "ACCESSO OSPITI NON CONSENTITO",
-        "th": ""
+        "th": "ไม่อนุญาตให้ผู้เยี่ยมชมเข้าใช้"
       },
       "XONLINE_E_NOT_INITIALIZED": {
         "en": "NOT INITIALIZED.",
@@ -430,7 +430,7 @@
         "de": "NICHT INITIALISIERT",
         "es": "NO INICIALIZADO.",
         "it": "NON INIZIALIZZATO",
-        "th": ""
+        "th": "ยังไม่ได้เริ่มต้นระบบ"
       },
       "XONLINE_E_INTERNAL_ERROR": {
         "en": "INTERNAL ERROR.",
@@ -438,7 +438,7 @@
         "de": "INTERNER FEHLER",
         "es": "ERROR INTERNO",
         "it": "ERRORE INTERNO",
-        "th": ""
+        "th": "ข้อผิดพลาดภายใน"
       },
       "XONLINE_E_SERVER_ERROR": {
         "en": "SERVER ERROR.",
@@ -446,7 +446,7 @@
         "de": "SERVERFEHLER",
         "es": "ERROR DE SERVIDOR.",
         "it": "ERRORE DEL SERVER",
-        "th": ""
+        "th": "เซิร์ฟเวอร์เกิดข้อผิดพลาด"
       },
       "XONLINE_E_IO_ERROR": {
         "en": "IO ERROR.",
@@ -454,7 +454,7 @@
         "de": "EA-FEHLER",
         "es": "ERROR DE ENTRADA/SALIDA",
         "it": "ERRORE INPUT/OUTPUT",
-        "th": ""
+        "th": "ข้อผิดพลาดการอ่าน/เขียน (I/O)"
       },
       "XONLINE_E_BAD_CONTENT_TYPE": {
         "en": "BAD CONTENT TYPE.",
@@ -462,7 +462,7 @@
         "de": "UNGÜLTIGER INHALTSTYP",
         "es": "TIPO DE CONTENIDO INCORRECTO.",
         "it": "TIPO DI CONTENUTO ERRATO",
-        "th": ""
+        "th": "ประเภทเนื้อหาไม่ถูกต้อง"
       },
       "XONLINE_E_USER_NOT_PRESENT": {
         "en": "USER NOT PRESENT.",
@@ -470,7 +470,7 @@
         "de": "BENUTZER NICHT GEFUNDEN",
         "es": "USUARIO NO ENCONTRADO.",
         "it": "L'UTENTE NON È PRESENTE.",
-        "th": ""
+        "th": "ผู้ใช้ไม่ได้อยู่ในระบบ"
       },
       "XONLINE_E_PROTOCOL_MISMATCH": {
         "en": "PROTOCOL MISMATCH.",
@@ -478,7 +478,7 @@
         "de": "PROTOKOLL-ABWEICHUNG",
         "es": "NO HAY CORRESPONDENCIA DE PROTOCOLO.",
         "it": "PROTOCOLLO NON CORRISPONDENTE",
-        "th": ""
+        "th": "โพรโทคอลไม่ตรงกัน"
       },
       "XONLINE_E_INVALID_SERVICE_ID": {
         "en": "INVALID SERVICE ID.",
@@ -486,7 +486,7 @@
         "de": "UNGÜLTIGE DIENST-ID",
         "es": "NOMBRE DE SERVICIO NO VÁLIDO.",
         "it": "IDENTIFICATIVO DEL SERVIZIO NON VALIDO",
-        "th": ""
+        "th": "รหัสบริการไม่ถูกต้อง"
       },
       "XONLINE_E_INVALID_REQUEST": {
         "en": "INVALID REQUEST.",
@@ -494,7 +494,7 @@
         "de": "UNGÜLTIGER AUFRUF",
         "es": "SOLICITUD NO VÁLIDA.",
         "it": "RICHIESTA NON VALIDA",
-        "th": ""
+        "th": "คำขอไม่ถูกต้อง"
       },
       "XONLINE_E_LOGON_NO_NETWORK_CONNECTION": {
         "en": "YOUR XBOX CONSOLE CANNOT CONNECT TO XBOX LIVE. SELECT \"OK\" TO START THE TROUBLESHOOTER OR \"CANCEL\".",
@@ -502,7 +502,7 @@
         "de": "XBOX KANN KEINE VERBINDUNG ZU XBOX LIVE HERSTELLEN. WÄHLEN SIE \"OK\" UM DIE FEHLERBEHEBUNG ZU STARTEN ODER \"ABBRECHEN\".",
         "es": "TU CONSOLA XBOX NO PUEDE CONECTARSE CON XBOX LIVE. ELIGE \"ACEPTAR\" PARA INICIAR LA SOLUCIÓN DE PROBLEMAS O \"CANCELAR\" PARA ANULAR.",
         "it": "NON È STATO POSSIBILE CONNETTERSI A XBOX LIVE. SELEZIONA \"OK\" PER AVVIARE LA RISOLUZIONE DEI PROBLEMI O \"ANNULLA\".",
-        "th": ""
+        "th": "เครื่องคอนโซล XBOX ของคุณไม่สามารถเชื่อมต่อกับ XBOX LIVE ได้ เลือก \"ตกลง\" เพื่อเริ่มเครื่องมือแก้ปัญหา หรือ \"ยกเลิก\""
       },
       "XONLINE_E_LOGON_CANNOT_ACCESS_SERVICE": {
         "en": "YOUR XBOX CONSOLE CANNOT CONNECT TO XBOX LIVE. SELECT \"OK\" TO START THE TROUBLESHOOTER OR \"CANCEL\".",
@@ -510,7 +510,7 @@
         "de": "XBOX KANN KEINE VERBINDUNG ZU XBOX LIVE HERSTELLEN. WÄHLEN SIE \"OK\", UM DIE FEHLERBEHEBUNG ZU STARTEN ODER \"ABBRECHEN\", UM DEN VORGANG ABZUBRECHEN.",
         "es": "TU CONSOLA XBOX NO PUEDE CONECTARSE CON XBOX LIVE. ELIGE \"ACEPTAR\" PARA INICIAR LA SOLUCIÓN DE PROBLEMAS O \"CANCELAR\" PARA ANULAR.",
         "it": "NON È STATO POSSIBILE CONNETTERSI A XBOX LIVE. SELEZIONA \"OK\" PER AVVIARE LA RISOLUZIONE DEI PROBLEMI O \"ANNULLA\".",
-        "th": ""
+        "th": "เครื่องคอนโซล XBOX ของคุณไม่สามารถเชื่อมต่อกับ XBOX LIVE ได้ เลือก \"ตกลง\" เพื่อเริ่มเครื่องมือแก้ปัญหา หรือ \"ยกเลิก\""
       },
       "XONLINE_E_LOGON_INVALID_USER": {
         "en": "THIS ACCOUNT IS NOT CURRENT. SELECT \"OK\" TO UPDATE THE ACCOUNT IN ACCOUNT RECOVERY OR \"CANCEL\".",
@@ -518,7 +518,7 @@
         "de": "DIESES KONTO IST NICHT AKTUELL. WÄHLEN SIE \"OK\", UM DAS KONTO IN DER WIEDER-HERSTELLUNG ZU AKTUALISIEREN ODER \"ABBRECHEN\", UM DEN VORGANG ABZUBRECHEN.",
         "es": "LA CUENTA NO ES ACTUAL. ELIGE \"ACEPTAR\" PARA ACTUALIZAR LA CUENTA EN RECUPERACIÓN DE CUENTAS O \"CANCELAR\".",
         "it": "QUESTO ACCOUNT NON È VALIDO. SELEZIONA \"OK\" PER AGGIORNARLO MEDIANTE RIPRISTINO ACCOUNT O \"ANNULLA\".",
-        "th": ""
+        "th": "บัญชีนี้ไม่เป็นปัจจุบัน เลือก \"ตกลง\" เพื่ออัปเดตบัญชีในการกู้คืนบัญชี หรือ \"ยกเลิก\""
       },
       "XONLINE_E_LOGON_KICKED_BY_DUPLICATE_LOGON": {
         "en": "YOU WERE SIGNED OUT OF XBOX LIVE BECAUSE ANOTHER PERSON SIGNED ON USING YOUR ACCOUNT.  SELECT \"OK\" TO CONTINUE.",
@@ -526,7 +526,7 @@
         "de": "SIE WURDEN BEI XBOX LIVE ABGEMELDET, DA SICH JEMAND ANDERES MIT DIESEN KONTOINFORMATIONEN ANGEMELDET HAT.  WÄHLEN SIE \"OK\", UM FORTZUFAHREN.",
         "es": "HA SALIDO DE SU SESIÓN DE XBOX LIVE PORQUE OTRA PERSONA ENTRÓ CON ESTA CUENTA. ELIGE \"ACEPTAR\" PARA CONTINUAR.",
         "it": "SEI STATO DISCONNESSO DA XBOX LIVE PERCHÉ UN'ALTRA PERSONA SI È CONNESSA USANDO IL TUO ACCOUNT. SELEZIONA \"OK\" PER CONTINUARE.",
-        "th": ""
+        "th": "คุณถูกออกจากระบบ XBOX LIVE เนื่องจากมีผู้อื่นเข้าสู่ระบบด้วยบัญชีของคุณ เลือก \"ตกลง\" เพื่อดำเนินการต่อ"
       },
       "XONLINE_E_LOGON_SERVERS_TOO_BUSY": {
         "en": "THE XBOX LIVE SERVICE IS VERY BUSY. PLEASE TRY AGAIN LATER. SELECT \"OK\" TO CONTINUE.",
@@ -534,7 +534,7 @@
         "de": "DER XBOX LIVE SERVICE IST AUSGELASTET. VERSUCHEN SIE ES SPÄTER ERNEUT. WÄHLEN SIE \"OK\", UM FORTZUFAHREN.",
         "es": "EL SERVICIO XBOX LIVE ESTÁ OCUPADO. INTÉNTALO DE NUEVO MÁS TARDE. ELIGE \"ACEPTAR\" PARA CONTINUAR.",
         "it": "IL SERVIZIO XBOX LIVE È OCCUPATO. RIPROVA PIÙ TARDI. SELEZIONA \"OK\" PER CONTINUARE.",
-        "th": ""
+        "th": "บริการ XBOX LIVE กำลังมีผู้ใช้งานหนาแน่นมาก โปรดลองอีกครั้งในภายหลัง เลือก \"ตกลง\" เพื่อดำเนินการต่อ"
       },
       "XONLINE_E_LOGON_UPDATE_REQUIRED": {
         "en": "A REQUIRED UPDATE IS AVAILABLE FOR THE XBOX LIVE SERVICE. SELECT \"OK\" TO UPDATE OR \"CANCEL\". YOU CANNOT CONNECT TO XBOX LIVE UNTIL THE UPDATE IS INSTALLED.",
@@ -542,7 +542,7 @@
         "de": "EINE FÜR DEN XBOX LIVE SERVICE ERFORDERLICHE AKTUALISIERUNG IST JETZT ERHÄLTLICH. WÄHLEN SIE \"OK\" FÜR DIE AKTUALISIERUNG ODER WÄHLEN SIE \"ABBRECHEN\". SIE KÖNNEN OHNE DIE AKTUALISIERUNG KEINE VERBINDUNG MIT XBOX LIVE HERSTELLEN. ",
         "es": "HAY DISPONIBLE UNA ACTUALIZACIÓN NECESARIA PARA EL SERVICIO XBOX LIVE. ELIGE \"ACEPTAR\" PARA ACTUALIZAR O \"CANCELAR\" PARA DESCARTAR. NO PODRÁS CONECTARTE A XBOX LIVE HASTA QUE LA ACTUALIZACIÓN ESTÉ INSTALADA.",
         "it": "È DISPONIBILE UN AGGIORNAMENTO OBBLIGATORIO PER IL SERVIZIO XBOX LIVE. SELEZIONA \"OK\" PER ACCETTARE O \"ANNULLA\". NON POTRAI COLLEGARTI A XBOX LIVE FINCHÉ L'AGGIORNAMENTO NON SARÀ INSTALLATO.",
-        "th": ""
+        "th": "มีการอัปเดตที่จำเป็นสำหรับบริการ XBOX LIVE เลือก \"ตกลง\" เพื่ออัปเดต หรือ \"ยกเลิก\" คุณจะไม่สามารถเชื่อมต่อกับ XBOX LIVE ได้จนกว่าจะติดตั้งการอัปเดต"
       },
       "XONLINE_E_LOGON_CONNECTION_LOST": {
         "en": "YOUR XBOX CONSOLE CANNOT CONNECT TO XBOX LIVE. SELECT \"OK\" TO START THE TROUBLESHOOTER OR \"CANCEL\".",
@@ -550,7 +550,7 @@
         "de": "XBOX KANN KEINE VERBINDUNG ZU XBOX LIVE HERSTELLEN. WÄHLEN SIE \"OK\" UM DIE FEHLERBEHEBUNG ZU STARTEN ODER \"ABBRECHEN\", UM DEN VORGANG ABZUBRECHEN..",
         "es": "TU CONSOLA XBOX NO PUEDE CONECTARSE CON XBOX LIVE. ELIGE \"ACEPTAR\" PARA INICIAR LA SOLUCIÓN DE PROBLEMAS O \"CANCELAR\" PARA ANULAR.",
         "it": "NON È STATO POSSIBILE CONNETTERSI A XBOX LIVE. SELEZIONA \"OK\" PER AVVIARE LA RISOLUZIONE DEI PROBLEMI O \"ANNULLA\".",
-        "th": ""
+        "th": "เครื่องคอนโซล XBOX ของคุณไม่สามารถเชื่อมต่อกับ XBOX LIVE ได้ เลือก \"ตกลง\" เพื่อเริ่มเครื่องมือแก้ปัญหา หรือ \"ยกเลิก\""
       },
       "XONLINE_E_LOGON_USER_ACCOUNT_REQUIRES_MANAGEMENT": {
         "en": "YOU HAVE AN IMPORTANT MESSAGE FROM XBOX LIVE. SELECT \"OK\" TO READ THE MESSAGE.",
@@ -558,7 +558,7 @@
         "de": "XBOX LIVE HAT EINE WICHTIGE NACHRICHT FÜR SIE. WÄHLEN SIE \"OK\", UM DIE MITTEILUNG ZU LESEN.",
         "es": "TIENES UN MENSAJE IMPORTANTE DE XBOX LIVE. PRESIONA \"ACEPTAR\" PARA LEERLO.",
         "it": "HAI UN MESSAGGIO IMPORTANTE DA XBOX LIVE. SELEZIONA \"OK\" PER LEGGERE IL MESSAGGIO.",
-        "th": ""
+        "th": "คุณมีข้อความสำคัญจาก XBOX LIVE เลือก \"ตกลง\" เพื่ออ่านข้อความ"
       },
       "XONLINE_E_LOGON_COMMIT_USER_CHANGE": {
         "en": "COMMIT USER CHANGE.",
@@ -566,7 +566,7 @@
         "de": "BENUTZERWECHSEL DURCHFÜHREN",
         "es": "EL CAMBIO DE USUARIO SE HA REALIZADO.",
         "it": "CONFERMA CAMBIAMENTI UTENTE",
-        "th": ""
+        "th": "ยืนยันการเปลี่ยนแปลงผู้ใช้"
       },
       "XONLINE_E_LOGON_USER_CHANGE_COMPLETE": {
         "en": "USER CHANGE COMPLETE.",
@@ -574,7 +574,7 @@
         "de": "BENUTZERWECHSEL ABGESCHLOSSEN",
         "es": "CAMBIO DE USUARIO COMPLETADO.",
         "it": "CAMBIO DI UTENTE COMPLETO",
-        "th": ""
+        "th": "เปลี่ยนผู้ใช้เสร็จสมบูรณ์"
       },
       "XONLINE_E_LOGON_CHANGE_USER_FAILED": {
         "en": "CHANGE USER FAILED.",
@@ -582,7 +582,7 @@
         "de": "BENUTZERWECHSEL FEHLGESCHLAGEN",
         "es": "EL CAMBIO DE USUARIO HA FALLADO.",
         "it": "CAMBIO DI UTENTE FALLITO",
-        "th": ""
+        "th": "เปลี่ยนผู้ใช้ไม่สำเร็จ"
       },
       "XONLINE_E_LOGON_MU_NOT_MOUNTED": {
         "en": "MEMORY UNIT NOT MOUNTED.",
@@ -590,7 +590,7 @@
         "de": "MU NICHT VORHANDEN",
         "es": "NO HAY NINGUNA UNIDAD DE MEMORIA",
         "it": "MEMORY UNIT NON MONTATA",
-        "th": ""
+        "th": "ยังไม่ได้เชื่อมต่อหน่วยความจำ (Memory Unit)"
       },
       "XONLINE_E_LOGON_MU_IO_ERROR": {
         "en": "MEMORY UNIT IO ERROR.",
@@ -598,7 +598,7 @@
         "de": "MU-EA-FEHLER",
         "es": "ERROR DE E/S DE UNIDAD DE MEMORIA",
         "it": "ERRORE DI INPUT/OUTPUT NELLA MEMORY UNIT",
-        "th": ""
+        "th": "หน่วยความจำเกิดข้อผิดพลาดในการอ่าน/เขียน (I/O)"
       },
       "XONLINE_E_LOGON_NOT_LOGGED_ON": {
         "en": "YOU WERE SIGNED OUT OF XBOX LIVE BECAUSE ANOTHER PERSON SIGNED ON USING YOUR ACCOUNT.",
@@ -606,7 +606,7 @@
         "de": "SIE WURDEN AUS XBOX LIVE ABGEMELDET, WEIL SICH EINE ANDERE PERSON MITHILFE IHRES KONTOS ANGEMELDET HAT.",
         "es": "SE HA CERRADO TU SESIÓN DE XBOX LIVE PORQUE OTRA PERSONA INICIÓ UNA SESIÓN CON TU CUENTA.",
         "it": "SEI STATO DISCONNESSO DA XBOX LIVE PERCHÉ UN'ALTRA PERSONA SI È CONNESSA USANDO IL TUO ACCOUNT.",
-        "th": ""
+        "th": "คุณถูกออกจากระบบ XBOX LIVE เนื่องจากมีผู้อื่นเข้าสู่ระบบด้วยบัญชีของคุณ"
       },
       "XONLINE_E_NOTIFICATION_BAD_CONTENT_TYPE": {
         "en": "",
@@ -614,7 +614,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_REQUEST_TOO_SMALL": {
         "en": "",
@@ -622,7 +622,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_INVALID_MESSAGE_TYPE": {
         "en": "",
@@ -630,7 +630,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_NO_ADDRESS": {
         "en": "",
@@ -638,7 +638,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_INVALID_PUID": {
         "en": "",
@@ -646,7 +646,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_NO_CONNECTION": {
         "en": "",
@@ -654,7 +654,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_SEND_FAILED": {
         "en": "",
@@ -662,7 +662,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_RECV_FAILED": {
         "en": "",
@@ -670,7 +670,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_MESSAGE_TRUNCATED": {
         "en": "",
@@ -678,7 +678,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_SERVER_BUSY": {
         "en": "",
@@ -686,7 +686,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": ""
+        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_LIST_FULL": {
         "en": "UNABLE TO ADD THE SPECIFIED FRIEND BECAUSE YOUR FRIENDS LIST IS FULL. SELECT \"OK\" TO CONTINUE. ",
@@ -694,7 +694,7 @@
         "de": "GEWÜNSCHTER FREUND KONNTE NICHT HINZUGEFÜGT WERDEN, DA IHRE FREUNDESLISTE VOLL IST. WÄHLEN SIE \"OK\", UM FORTZUFAHREN. ",
         "es": "IMPOSIBLE AÑADIR EL USUARIO ESPECIFICADO PORQUE TU LISTA DE AMIGOS ESTÁ LLENA. ELIGE \"ACEPTAR\" PARA CONTINUAR. ",
         "it": "IMPOSSIBILE AGGIUNGERE L'AMICO SPECIFICATO PERCHÉ LA TUA LISTA AMICI È PIENA. SELEZIONA \"OK\" PER CONTINUARE. ",
-        "th": ""
+        "th": "ไม่สามารถเพิ่มเพื่อนที่ระบุได้เนื่องจากรายชื่อเพื่อนของคุณเต็มแล้ว เลือก \"ตกลง\" เพื่อดำเนินการต่อ "
       },
       "XONLINE_E_NOTIFICATION_BLOCKED": {
         "en": "YOU'VE BEEN BLOCKED BY THE REQUESTED USER.",
@@ -702,7 +702,7 @@
         "de": "SIE WURDEN VON DEM GEWÜNSCHTEN BENUTZER GESPERRT",
         "es": "EL USUARIO SOLICITADO TE HA BLOQUEADO.",
         "it": "SEI STATO BLOCCATO DALL'UTENTE RICHIESTO.",
-        "th": ""
+        "th": "คุณถูกบล็อกโดยผู้ใช้ที่ร้องขอ"
       },
       "XONLINE_E_NOTIFICATION_FRIEND_PENDING": {
         "en": "YOU'VE ALREADY SENT A REQUEST TO THIS USER.",
@@ -710,7 +710,7 @@
         "de": "SIE HABEN BEREITS EINE ANFRAGE AN DIESEN BENUTZER GESENDET.",
         "es": "YA HAS ENVIADO UNA SOLICITUD A ESTE USUARIO.",
         "it": "HAI GIÀ INVIATO UNA RICHIESTA A QUESTO UTENTE.",
-        "th": ""
+        "th": "คุณได้ส่งคำขอไปยังผู้ใช้นี้แล้ว"
       },
       "XONLINE_E_NOTIFICATION_FLUSH_TICKETS": {
         "en": "",
@@ -718,7 +718,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ล้างตั๋วแจ้งเตือน"
       },
       "XONLINE_E_NOTIFICATION_TOO_MANY_REQUESTS": {
         "en": "",
@@ -726,7 +726,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "คำขอบ่อยเกินไป โปรดลองอีกครั้งในภายหลัง"
       },
       "XONLINE_E_NOTIFICATION_USER_ALREADY_EXISTS": {
         "en": "USER ALREADY EXISTS.",
@@ -734,7 +734,7 @@
         "de": "BENUTZER EXISTIERT BEREITS",
         "es": "EL USUARIO YA EXISTE.",
         "it": "UTENTE GIÀ ESISTENTE.",
-        "th": ""
+        "th": "มีผู้ใช้นี้อยู่แล้ว"
       },
       "XONLINE_E_NOTIFICATION_USER_NOT_FOUND": {
         "en": "USER WAS NOT FOUND.",
@@ -742,7 +742,7 @@
         "de": "BENUTZER WURDE NICHT GEFUNDEN.",
         "es": "EL USUARIO NO SE HA ENCONTRADO.",
         "it": "L'UTENTE NON È STATO TROVATO.",
-        "th": ""
+        "th": "ไม่พบผู้ใช้"
       },
       "XONLINE_E_NOTIFICATION_OTHER_LIST_FULL": {
         "en": "UNABLE TO ADD THE SPECIFIED FRIEND BECAUSE THE FRIENDS LIST OF THE REQUESTED FRIEND IS FULL. SELECT \"OK\" TO CONTINUE.",
@@ -750,7 +750,7 @@
         "de": "GEWÜNSCHTER FREUND KONNTE NICHT HINZUGEFÜGT WERDEN, DA DIE FREUNDESLISTE DIESES FREUNDES VOLL IST WÄHLEN SIE \"OK\", UM FORTZUFAHREN.",
         "es": "IMPOSIBLE AÑADIR A ESE AMIGO PORQUE LA LISTA DE AMIGOS DEL AMIGO SOLICITADO ESTÁ LLENA. ELIGE \"ACEPTAR\" PARA CONTINUAR.",
         "it": "IMPOSSIBILE AGGIUNGERE L'AMICO SPECIFICATO PERCHÉ LA LISTA AMICI DELL'AMICO RICHIESTO È PIENA. SELEZIONA \"OK\" PER CONTINUARE.",
-        "th": ""
+        "th": "ไม่สามารถเพิ่มเพื่อนที่ระบุได้เนื่องจากรายชื่อเพื่อนของผู้ใช้นั้นเต็มแล้ว เลือก \"ตกลง\" เพื่อดำเนินการต่อ"
       },
       "XONLINE_E_NOTIFICATION_SELF": {
         "en": "YOU CANNOT ADD YOURSELF TO YOUR OWN FRIENDS LIST.",
@@ -758,7 +758,7 @@
         "de": "SIE KÖNNEN SICH NICHT SELBST AUF IHRE FREUNDESLISTE SETZEN",
         "es": "NO PUEDES AÑADIRTE A TI MISMO A TU LISTA DE AMIGOS.",
         "it": "NON PUOI AGGIUNGERTI ALLA TUA LISTA AMICI.",
-        "th": ""
+        "th": "คุณไม่สามารถเพิ่มตัวเองลงในรายชื่อเพื่อนของตนเองได้"
       },
       "XONLINE_E_NOTIFICATION_SAME_TITLE": {
         "en": "",
@@ -766,7 +766,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "เกมเดียวกัน"
       },
       "XONLINE_E_NOTIFICATION_NO_TASK": {
         "en": "",
@@ -774,7 +774,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": ""
+        "th": "ไม่มีงานที่พร้อมใช้งาน"
       },
       "XONLINE_E_MATCH_INVALID_SESSION_ID": {
         "en": "THIS GAME SESSION IS NO LONGER AVAILABLE. SELECT \"OK\" TO CONTINUE.",
@@ -782,7 +782,7 @@
         "de": "DIESE SPIELSITZUNG IST NICHT MEHR VERFÜGBAR: \"OK\" WÄHLEN UM FORTZUFAHREN.",
         "es": "LA PARTIDA YA NO ESTÁ DISPONIBLE. ELIGE \"ACEPTAR\" PARA CONTINUAR.",
         "it": "QUESTA PARTITA NON È PIÙ DISPONIBILE. SELEZIONA \"OK\" PER CONTINUARE.",
-        "th": ""
+        "th": "เซสชันเกมนี้ไม่พร้อมใช้งานอีกต่อไป เลือก \"ตกลง\" เพื่อดำเนินการต่อ"
       },
       "XONLINE_E_MATCH_INVALID_TITLE_ID": {
         "en": "INVALID TITLE ID.",
@@ -790,7 +790,7 @@
         "de": "UNGÜLTIGE TITEL-ID",
         "es": "NOMBRE DE TÍTULO NO VÁLIDO.",
         "it": "IDENTIFICATIVO DEL TITOLO NON VALIDO",
-        "th": ""
+        "th": "รหัสชื่อเกมไม่ถูกต้อง"
       },
       "XONLINE_E_MATCH_INVALID_DATA_TYPE": {
         "en": "ATTRIBUTE ID OR PARAMETER TYPE SPECIFIES AN INVALID DATA TYPE.",
@@ -798,7 +798,7 @@
         "de": "ATTRIBUT ODER PARAMETERTYP BEZIEHT SICH AUF UNGÜLTIGEN DATENTYP",
         "es": "EL NOMBRE DE ATRIBUTO O EL TIPO DE PARÁMETRO ESPECIFICAN UN TIPO DE DATOS NO VÁLIDO.",
         "it": "L'IDENTIFICATIVO DELL'ATTRIBUTO O IL TIPO DI PARAMETRO HANNO SPECIFICATO UN TIPO DI DATI NON VALIDO",
-        "th": ""
+        "th": "รหัสแอตทริบิวต์หรือประเภทพารามิเตอร์ระบุประเภทข้อมูลที่ไม่ถูกต้อง"
       },
       "XONLINE_E_MATCH_REQUEST_TOO_SMALL": {
         "en": "THE REQUEST DID NOT MEET THE MINIMUM LENGTH FOR A VALID REQUEST.",
@@ -806,7 +806,7 @@
         "de": "DIE ANFRAGE HAT NICHT DIE MINIMALLÄNGE FÜR EINE GÜLTIGE ANFRAGE ERREICHT.",
         "es": "LA SOLICITUD NO CUMPLE CON EL TAMAÑO MÍNIMO PARA UNA SOLICITUD VÁLIDA.",
         "it": "LA RICHIESTA NON RISPETTA LA LUNGHEZZA MINIMA DI UNA RICHIESTA VALIDA",
-        "th": ""
+        "th": "คำขอมีความยาวไม่ถึงเกณฑ์ขั้นต่ำสำหรับคำขอที่ถูกต้อง"
       },
       "XONLINE_E_MATCH_REQUEST_TRUNCATED": {
         "en": "THE SELF DESCRIBED LENGTH IS GREATER THAN THE ACTUAL BUFFER SIZE.",
@@ -814,7 +814,7 @@
         "de": "DIE GEMELDETE LÄNGE ÜBERSCHREITET DIE TATSÄCHLICHE PUFFERGRÖSSE",
         "es": "EL TAMAÑO DE AUTODESCRIPCIÓN ES MAYOR QUE EL TAMAÑO ACTUAL DE SIZE.",
         "it": "LA LUNGHEZZA DESCRITTA DI SELF È MAGGIORE RISPETTO ALLE DIMENSIONI REALI DEL BUFFER",
-        "th": ""
+        "th": "ความยาวที่อธิบายไว้มีค่ามากกว่าขนาดบัฟเฟอร์จริง"
       },
       "XONLINE_E_MATCH_INVALID_SEARCH_REQ": {
         "en": "THE SEARCH REQUEST WAS INVALID.",
@@ -822,7 +822,7 @@
         "de": "SUCHANFRAGE UNGÜLTIG",
         "es": "LA SOLICITUD DE BÚSQUEDA NO ERA CORRECTA.",
         "it": "LA RICHIESTA DI RICERCA NON ERA VALIDA",
-        "th": ""
+        "th": "คำขอค้นหาไม่ถูกต้อง"
       },
       "XONLINE_E_MATCH_INVALID_OFFSET": {
         "en": "ONE OF THE ATTRIBUTE/PARAMETER OFFSETS IN THE REQUEST WAS INVALID.  WILL BE FOLLOWED BY THE ZERO BASED OFFSET NUMBER.",
@@ -830,7 +830,7 @@
         "de": "EINER DER ATTRIBUT/PARAMETER OFFSETS IN DER ANFRAGE WAR UNGÜLTIG.  WIRD VON ZERO BASED OFFSET NUMMER GEFOLGT.",
         "es": "UNO DE LOS ATRIBUTOS/PARÁMETROS EN LA SOLICITUD NO ES VÁLIDO. DEBE IR SEGUIDO DEL NÚMERO COMPUESTO EN BASE CERO.",
         "it": "UNO DEGLI OFFSET DELL'ATTRIBUTO/PARAMETRO NELLA RICHIESTA NON ERA VALIDO. SARÀ SEGUITO DAL NUMERO DI OFFSET IN BASE 0.",
-        "th": ""
+        "th": "ออฟเซ็ตของแอตทริบิวต์/พารามิเตอร์ตัวใดตัวหนึ่งในคำขอไม่ถูกต้อง จะตามด้วยหมายเลขออฟเซ็ตเริ่มต้นที่ศูนย์"
       },
       "XONLINE_E_MATCH_INVALID_ATTR_TYPE": {
         "en": "THE ATTRIBUTE TYPE WAS SOMETHING OTHER THAN USER OR SESSION.",
@@ -838,7 +838,7 @@
         "de": "DER ATTRIBUTTYP ENTSPRICHT NICHT DEM BENUTZER ODER DER SITZUNG",
         "es": "EL TIPO DE ATRIBUTO ERA DISTINTO DEL USUARIO O DE LA PARTIDA.",
         "it": "IL TIPO DI ATTRIBUTO È DIVERSO DA UTENTE O SESSIONE",
-        "th": ""
+        "th": "ประเภทแอตทริบิวต์ไม่ใช่ผู้ใช้หรือเซสชัน"
       },
       "XONLINE_E_MATCH_INVALID_VERSION": {
         "en": "BAD PROTOCOL VERSION IN REQUEST.",
@@ -846,7 +846,7 @@
         "de": "UNGÜLTIGE PROTOKOLLVERSION IN ANFRAGE",
         "es": "SOLICITUD DE VERSIÓN NO VÁLIDA, PROTOCOLO INCORRECTO.",
         "it": "VERSIONE DEL PROTOCOLLO ERRATA NELLA RICHIESTA",
-        "th": ""
+        "th": "เวอร์ชันของโพรโทคอลในคำขอไม่ถูกต้อง"
       },
       "XONLINE_E_MATCH_OVERFLOW": {
         "en": "AN ATTRIBUTE OR PARAMETER FLOWED PAST THE END OF THE REQUEST.",
@@ -854,7 +854,7 @@
         "de": "EIN ATTRIBUT ODER PARAMETER ÜBERSCHRITT DAS ENDE DER ANFRAGE",
         "es": "UN ATRIBUTO O PARÁMETRO HA SUPERADO EL FINAL DE LA SOLICITUD.",
         "it": "UN ATTRIBUTO O UN PARAMETRO È ANDATO OLTRE AL FINE DELLA RICHIESTA",
-        "th": ""
+        "th": "แอตทริบิวต์หรือพารามิเตอร์มีความยาวเกินจุดสิ้นสุดของคำขอ"
       },
       "XONLINE_E_MATCH_INVALID_RESULT_COL": {
         "en": "REFERENCED STORED PROCEDURE RETURNED A COLUMN WITH AN UNSUPPORTED DATA TYPE.",
@@ -862,7 +862,7 @@
         "de": "VERWEIS AUF GESPEICHERTE PROZEDUR GAB EINE SPALTE MIT NICHT UNTERSTÜTZTEM DATENTYP ZURÜCK",
         "es": "EL PROCEDIMIENTO DE ALMACENAMIENTO REFERENCIADO HA DEVUELTO UNA COLUMNA CON UN TIPO DE DATOS NO SOPORTADO.",
         "it": "LA STORED PROCEDURE CITATA HA RESTITUITO UNA COLONNA CON UN TIPO DI DATI NON SUPPORTATO",
-        "th": ""
+        "th": "สโตร์พรอซีเยอร์ที่อ้างอิงส่งคืนคอลัมน์ที่มีประเภทข้อมูลที่ไม่รองรับ"
       },
       "XONLINE_E_MATCH_INVALID_STRING": {
         "en": "STRING WITH LENGTH-PREFIX OF ZERO, OR STRING WITH NO TERMINATING NULL.",
@@ -870,7 +870,7 @@
         "de": "KETTE MIT NULL-LÄNGEN-PRÄFIX ODER ZEICHENKETTE OHNE ABSCHLUSS-NULL",
         "es": "HAY UNA CADENA CON PREFIJO DE TAMAÑO CERO, O UNA CADENA CON TERMINACIÓN NO NULA.",
         "it": "STRINGA CON PREFISSO DI LUNGHEZZA ZERO O SENZA NULL TERMINALE",
-        "th": ""
+        "th": "สตริงมีคำนำหน้าความยาวเป็นศูนย์ หรือไม่มีค่าว่างปิดท้าย"
       },
       "XONLINE_E_MATCH_STRING_TOO_LONG": {
         "en": "STRING EXCEEDED 400 CHARACTERS.",
@@ -878,7 +878,7 @@
         "de": "KETTE HAT 400 ZEICHEN ÜBERSCHRITTEN",
         "es": "LA CADENA SUPERA LOS 400 CARACTERES.",
         "it": "LA STRINGA HA SUPERATO I 400 CARATTERI",
-        "th": ""
+        "th": "ข้อความยาวเกิน 400 ตัวอักษร"
       },
       "XONLINE_E_MATCH_BLOB_TOO_LONG": {
         "en": "BLOB EXCEEDED 800 BYTES.",
@@ -886,7 +886,7 @@
         "de": "BLOB HAT 800 BYTES ÜBERSCHRITTEN",
         "es": "BLOB EXCEDE EN 800 BYTES EL LARGO MÁXIMO.",
         "it": "IL BLOB HA SUPERATO GLI 800 BYTE",
-        "th": ""
+        "th": "ข้อมูล BLOB มีขนาดเกิน 800 ไบต์"
       },
       "XONLINE_E_MATCH_INVALID_ATTRIBUTE_ID": {
         "en": "ATTRIBUTE ID IS INVALID.",
@@ -894,7 +894,7 @@
         "de": "ATTRIBUT ID UNGÜLTIG",
         "es": "EL NOMBRE DE ATRIBUTO NO ES VÁLIDO.",
         "it": "IDENTIFICATIVO DELL'ATTRIBUTO NON VALIDO",
-        "th": ""
+        "th": "รหัสแอตทริบิวต์ไม่ถูกต้อง"
       },
       "XONLINE_E_MATCH_SESSION_ALREADY_EXISTS": {
         "en": "THIS GAME SESSION ALREADY EXISTS. SELECT \"OK\" TO CONTINUE.",
@@ -902,7 +902,7 @@
         "de": "DIESES SPIEL IST BEREITS VORHANDEN. WÄHLEN SIE \"OK\", UM FORTZUFAHREN.",
         "es": "LA PARTIDA YA EXISTE. ELIGE \"ACEPTAR\" PARA CONTINUAR.",
         "it": "QUESTA PARTITA ESISTE GIÀ. SELEZIONA \"OK\" PER CONTINUARE.",
-        "th": ""
+        "th": "มีเซสชันเกมนี้อยู่แล้ว เลือก \"ตกลง\" เพื่อดำเนินการต่อ"
       },
       "XONLINE_E_MATCH_CRITICAL_DB_ERR": {
         "en": "CRITICAL ERROR IN DB.",
@@ -910,7 +910,7 @@
         "de": "KRITISCHER FEHLER IN DB",
         "es": "ERROR CRÍTICO DE BASE DE DATOS.",
         "it": "ERRORE CRITICO NEL DATABASE",
-        "th": ""
+        "th": "เกิดข้อผิดพลาดร้ายแรงในฐานข้อมูล"
       },
       "XONLINE_E_MATCH_NOT_ENOUGH_COLUMNS": {
         "en": "SEARCH RESULT SET HAD TOO FEW COLUMNS.",
@@ -918,7 +918,7 @@
         "de": "SUCHERGEBNIS HATTE ZU WENIGE SPALTEN",
         "es": "LOS RESULTADOS DE LA BÚSQUEDA TIENEN DEMASIADAS COLUMNAS.",
         "it": "I RISULTATI IMPOSTATI PER LA RICERCA AVEVANO TROPPE POCHE COLONNE.",
-        "th": ""
+        "th": "ชุดผลการค้นหามีจำนวนคอลัมน์น้อยเกินไป"
       },
       "XONLINE_E_MATCH_PERMISSION_DENIED": {
         "en": "INCORRECT PERMISSIONS SET ON SEARCH SP.",
@@ -926,7 +926,7 @@
         "de": "UNGÜLTIGE ZUGRIFFS-RECHTE IN SUCH-SP",
         "es": "PERMISOS INCORRECTOS EN LA BÚSQUEDA.",
         "it": "PERMESSI ERRATI IMPOSTATI NELLA RICERCA SP",
-        "th": ""
+        "th": "การตั้งค่าสิทธิ์บนสโตร์พรอซีเยอร์การค้นหาไม่ถูกต้อง"
       },
       "XONLINE_E_MATCH_INVALID_PART_SCHEME": {
         "en": "TITLE SPECIFIED AN INVALID PARTITIONING SCHEME.",
@@ -934,7 +934,7 @@
         "de": "TITEL MELDETE UNGÜLTIGES PARTITIONIERUNGS-SCHEMA",
         "es": "EL TÍTULO HA ESPECIFICADO UN ESQUEMA DE PARTICIÓN NO VÁLIDO.",
         "it": "IL TITOLO HA SPECIFICATO UNO SCHEMA DI PARTIZIONAMENTO NON VALIDO",
-        "th": ""
+        "th": "เกมระบุโครงร่างการแบ่งพาร์ติชันที่ไม่ถูกต้อง"
       },
       "XONLINE_E_MATCH_INVALID_PARAM": {
         "en": "BAD PARAMETER PASSED TO SP.",
@@ -942,7 +942,7 @@
         "de": "UNGÜLTIGER PARAMETER AN SP ÜBERTRAGEN",
         "es": "PARÁMETRO INCORRECTO PASADO A SP.",
         "it": "PARAMETRO ERRATO PASSATO ALL'SP",
-        "th": ""
+        "th": "พารามิเตอร์ที่ส่งไปยังสโตร์พรอซีเยอร์ไม่ถูกต้อง"
       },
       "XONLINE_E_MATCH_DATA_TYPE_MISMATCH": {
         "en": "DATA TYPE SPECIFIED IN ATTR ID DID NOT MATCH TYPE OF ATTR BEING SET.",
@@ -950,7 +950,7 @@
         "de": "IN ATTR ID SPEZFIZIERTER DATENTYP ENTSPRICHT NICHT DEM TYP DES FESTGELEGTEN ATTR",
         "es": "EL TIPO DE DATOS ESPECIFICADO EN EL NOMBRE DE ATRIBUTO NO SE CORRESPONDE CON EL TIPO DE ATRIBUTO ESTABLECIDO.",
         "it": "IL TIPO DI DATI SPECIFICATO NELL'IDENTIFICATIVO DELL'ATTRIBUTO NON CORRISPONDE AL TIPO DI ATTRIBUTO CHE SI STA IMPOSTANDO",
-        "th": ""
+        "th": "ประเภทข้อมูลที่ระบุในรหัสแอตทริบิวต์ไม่ตรงกับประเภทแอตทริบิวต์ที่กำลังตั้งค่า"
       },
       "XONLINE_E_MATCH_SERVER_ERROR": {
         "en": "THIS GAME SESSION COULD NOT BE CREATED. SELECT \"OK\" TO CONTINUE.",
@@ -958,7 +958,7 @@
         "de": "DIESES SPIEL KONNTE NICHT ERSTELLT WERDEN. WÄHLEN SIE \"OK\", UM FORTZUFAHREN.",
         "es": "NO SE PUEDE CREAR LA PARTIDA. ELIGE \"ACEPTAR\" PARA CONTINUAR.",
         "it": "IMPOSSIBILE CREARE LA PARTITA. SELEZIONA \"OK\" PER CONTINUARE.",
-        "th": ""
+        "th": "ไม่สามารถสร้างเซสชันเกมนี้ได้ เลือก \"ตกลง\" เพื่อดำเนินการต่อ"
       },
       "XONLINE_E_MATCH_NO_USERS": {
         "en": "NO AUTHENTICATED USERS IN SEARCH REQUEST.",
@@ -966,7 +966,7 @@
         "de": "KEINE AUTHENTIFIZIERTER BENUTZER IN SUCHANFRAGE.",
         "es": "NO HAY USUARIOS AUTENTIFICADOS EN LA SOLICITUD DE BÚSQUEDA.",
         "it": "NESSUN UTENTE AUTENTICATO NELLA RICHIESTA DI RICERCA.",
-        "th": ""
+        "th": "ไม่มีผู้ใช้ที่ผ่านการตรวจสอบสิทธิ์ในคำขอค้นหา"
       },
       "XONLINE_E_MATCH_INVALID_BLOB": {
         "en": "INVALID BLOB ATTRIBUTE.",
@@ -974,7 +974,7 @@
         "de": "UNGÜLTIGES BLOB-ATTRIBUT",
         "es": "ATRIBUTO BLOB NO VÁLIDO.",
         "it": "ATTRIBUTO DEL BLOB NON VALIDO",
-        "th": ""
+        "th": "แอตทริบิวต์ BLOB ไม่ถูกต้อง"
       },
       "XONLINE_S_OFFERING_NEW_CONTENT": {
         "en": "NEW CONTENT IS AVAILABLE.",
@@ -982,7 +982,7 @@
         "de": "NEUER INHALT IST VERFÜGBAR",
         "es": "HAY DISPONIBLE NUEVO CONTENIDO.",
         "it": "SONO DISPONIBILI NUOVI CONTENUTI",
-        "th": ""
+        "th": "มีเนื้อหาใหม่พร้อมให้ดาวน์โหลด"
       },
       "XONLINE_S_OFFERING_NO_NEW_CONTENT": {
         "en": "NO NEW CONTENT IS AVAILABLE.",
@@ -990,7 +990,7 @@
         "de": "KEIN NEUER INHALT VERFÜGBAR",
         "es": "NO HAY DISPONIBLE NUEVO CONTENIDO.",
         "it": "NON SONO DISPONIBILI NUOVI CONTENUTI",
-        "th": ""
+        "th": "ไม่มีเนื้อหาใหม่"
       },
       "XONLINE_E_OFFERING_BAD_REQUEST": {
         "en": "SERVER RECEIVED INCORRECTLY FORMATTED REQUEST.",
@@ -998,7 +998,7 @@
         "de": "SERVER HAT FALSCH FORMATIERTE ANFRAGE EMPFANGEN",
         "es": "EL SERVIDOR NO HA RECIBIDO BIEN LA SOLICITUD.",
         "it": "IL SERVER HA RICEVUTO UNA RICHIESTA FORMATTATA IN MANIERA NON CORRETTA",
-        "th": ""
+        "th": "เซิร์ฟเวอร์ได้รับคำขอที่มีรูปแบบไม่ถูกต้อง"
       },
       "XONLINE_E_OFFERING_INVALID_USER": {
         "en": "CANNOT FIND ACCOUNT FOR THIS USER.",
@@ -1006,7 +1006,7 @@
         "de": "KANN FÜR DIESEN BENUTZER KEIN KONTO FINDEN",
         "es": "NO SE PUEDE ENCONTRAR UNA CUENTA PARA ESTE USUARIO.",
         "it": "IMPOSSIBILE TROVARE L'ACCOUNT DI QUESTO UTENTE",
-        "th": ""
+        "th": "ไม่พบบัญชีสำหรับผู้ใช้นี้"
       },
       "XONLINE_E_OFFERING_INVALID_OFFER_ID": {
         "en": "OFFER DOES NOT EXIST.",
@@ -1014,7 +1014,7 @@
         "de": "ANGEBOT EXISTIERT NICHT",
         "es": "LA OFERTA NO EXISTE.",
         "it": "L'OFFERTA NON ESISTE",
-        "th": ""
+        "th": "ไม่มีข้อเสนอนี้อยู่"
       },
       "XONLINE_E_OFFERING_INELIGIBLE_FOR_OFFER": {
         "en": "PRIVATE/TITLE NOT ALLOWED TO PURCHASE OFFER.",
@@ -1022,7 +1022,7 @@
         "de": "TITLE FÜR DAS ANGEBOT NICHT ZUGELASSEN",
         "es": "TÍTULO PRIVADO, NO SE PUEDE HACER UNA OFERTA DE COMPRA.",
         "it": "IL PRIVATO/TITOLO NON PUÒ ACCETTARE L'OFFERTA",
-        "th": ""
+        "th": "สิทธิ์ส่วนตัว/เกมไม่ได้รับอนุญาตให้ซื้อข้อเสนอนี้"
       },
       "XONLINE_E_OFFERING_OFFER_EXPIRED": {
         "en": "OFFER NO LONGER AVAILABLE.",
@@ -1030,7 +1030,7 @@
         "de": "ANGEBOT NICHT LÄNGER VERFÜGBAR",
         "es": "LA OFERTA NO ESTÁ DISPONIBLE.",
         "it": "L'OFFERTA NON È PIÙ DISPONIBILE",
-        "th": ""
+        "th": "ข้อเสนอนี้หมดอายุแล้ว"
       },
       "XONLINE_E_OFFERING_SERVICE_UNREACHABLE": {
         "en": "APPARENT CONNECTIVITY PROBLEMS.",
@@ -1038,7 +1038,7 @@
         "de": "OFFENSICHTLICHE VERBINDUNGSPROBLEME",
         "es": "PARECE QUE HAY PROBLEMAS DE CONECTIVIDAD.",
         "it": "APPARENTI PROBLEMI DI CONNETTIVITÀ",
-        "th": ""
+        "th": "พบปัญหาการเชื่อมต่อ"
       },
       "XONLINE_E_OFFERING_PURCHASE_BLOCKED": {
         "en": "THIS USER IS NOT ALLOWED TO MAKE PURCHASES.",
@@ -1046,7 +1046,7 @@
         "de": "DIESER BENUTZER DARF KEINEN KAUF TÄTIGEN",
         "es": "EL USUARIO NO TIENE PERMISO PARA REALIZAR COMPRAS.",
         "it": "QUESTO UTENTE NON PUÒ FARE ACQUISTI",
-        "th": ""
+        "th": "ผู้ใช้นี้ไม่ได้รับอนุญาตให้ทำการสั่งซื้อ"
       },
       "XONLINE_E_OFFERING_PURCHASE_DENIED": {
         "en": "THIS USER'S PAYMENT IS DENIED BY BILLING PROVIDER.",
@@ -1054,7 +1054,7 @@
         "de": "ZAHLUNG FÜR BENUTZER WURDE DURCH ABRECHNUNGS-ANBIETER VERWEIGERT",
         "es": "EL PAGO DE ESTE USUARIO HA SIDO DENEGADO POR EL PROVEEDOR DE PAGOS.",
         "it": "IL PAGAMENTO DI QUESTO UTENTE È STATO RIFITUATO DAL PROVIDER DELLA FATTURAZIONE",
-        "th": ""
+        "th": "การชำระเงินของผู้ใช้นี้ถูกปฏิเสธโดยผู้ให้บริการการชำระเงิน"
       },
       "XONLINE_E_OFFERING_BILLING_SERVER_ERROR": {
         "en": "NONSPECIFIC BILLING PROVIDER ERROR.",
@@ -1062,7 +1062,7 @@
         "de": "FEHLER: UNBEKANNTER ABRECHNUNGSANBIETER",
         "es": "ERROR DE PROVEEDOR DE PAGOS NO ESPECIFICADO.",
         "it": "ERRORE NON SPECIFICATO DI PROVIDER FATTURAZIONE",
-        "th": ""
+        "th": "เกิดข้อผิดพลาดทั่วไปจากผู้ให้บริการการชำระเงิน"
       },
       "XONLINE_E_OFFERING_OFFER_NOT_CANCELABLE": {
         "en": "EITHER THIS OFFER DOESN'T EXIST, OR IT'S MARKED AS UN-CANCELABLE.",
@@ -1070,7 +1070,7 @@
         "de": "ANGEBOT EXISTIERT ENTWEDER NICHT MEHR ODER IST ALS NICHT-LÖSCHBAR GEKENNZEICHNET",
         "es": "O BIEN LA OFERTA YA NO EXISTE, O ESTÁ MARCADA COMO NO CANCELABLE.",
         "it": "L'OFFERTA NON ESISTE OPPURE È SEGNATA COME NON CANCELLABILE.",
-        "th": ""
+        "th": "ข้อเสนอนี้ไม่มีอยู่ หรือถูกกำหนดว่าไม่สามารถยกเลิกได้"
       },
       "XONLINE_E_OFFERING_NOTHING_TO_CANCEL": {
         "en": "THIS USER DOESN'T HAVE ONE OF THESE ANYWAYS.",
@@ -1078,7 +1078,7 @@
         "de": "DIESER BENUTZER BENUTZT SOWIESO KEINEN DAVON",
         "es": "EL USUARIO NO TIENE NINGUNO DE ESOS.",
         "it": "QUESTO UTENTE NON NE HA UNO, IN OGNI CASO.",
-        "th": ""
+        "th": "ผู้ใช้นี้ไม่มีรายการนี้อยู่แล้ว"
       },
       "XONLINE_E_OFFERING_ALREADY_OWN_MAX": {
         "en": "THIS USER ALREADY OWNS THE MAXIMUM ALLOWED.",
@@ -1086,7 +1086,7 @@
         "de": "DIESER BENUTZER BESITZT BEREITS DAS ERLAUBTE MAXIMUM",
         "es": "EL USUARIO YA TIENE EL MÁXIMO PERMITIDO.",
         "it": "QUESTO UTENTE HA GIÀ IL MASSIMO CONSENTITO",
-        "th": ""
+        "th": "ผู้ใช้นี้ครอบครองตามจำนวนสูงสุดที่อนุญาตแล้ว"
       },
       "XONLINE_E_OFFERING_NO_CHARGE": {
         "en": "THIS IS A FREE OFFER; NO PURCHASE IS NECESSARY.",
@@ -1094,7 +1094,7 @@
         "de": "DIES IST EIN KOSTENLOSES ANGEBOT. KEIN KAUF NOTWENDIG",
         "es": "ES UNA OFERTA GRATUITA. NO SE REQUIERE NINGUNA COMPRA.",
         "it": "QUESTA OFFERTA È LIBERA; NON È NECESSARIO EFFETTUARE ACQUISTI.",
-        "th": ""
+        "th": "นี่เป็นข้อเสนอฟรี ไม่จำเป็นต้องชำระเงิน"
       },
       "XONLINE_E_OFFERING_PERMISSION_DENIED": {
         "en": "PERMISSION DENIED.",
@@ -1102,7 +1102,7 @@
         "de": "ERLAUBNIS VERWEIGERT",
         "es": "PERMISO DENEGADO.",
         "it": "PERMESSO NEGATO",
-        "th": ""
+        "th": "การเข้าถึงถูกปฏิเสธ"
       },
       "XONLINE_E_OFFERING_NAME_TAKEN": {
         "en": "NAME GIVEN TO XONLINEVERIFYNICKNAME IS TAKEN (DOSEN'T VET).",
@@ -1110,7 +1110,7 @@
         "de": "AN XONLINEVERIFYNICKNAME GESENDETER NAME IST BEREITS VERGEBEN",
         "es": "EL NOMBRE DADO A XONLINEVERIFYNICKNAME YA ESTÁ USADO.",
         "it": "IL NOME PASSATO A XONLINEVERIFYNICKNAME È GIÀ PRESO",
-        "th": ""
+        "th": "ชื่อที่ระบุใน XOnlineVerifyNickname มีผู้ใช้อื่นใช้แล้ว (ไม่ผ่านการตรวจสอบ)"
       },
       "XONLINE_E_BILLING_AUTHORIZATION_FAILED": {
         "en": "CREDIT CARD AUTHORIZATION FAILED; USER SHOULD UPDATE CREDIT CARD INFO IN DASH.",
@@ -1118,7 +1118,7 @@
         "de": "KREDITKARTE KONNTE NICHT VERIFIZIERT WERDEN. AKTUALISIEREN SIE DIE KREDITKARTEN-DATEN SPÄTER IN DER XBOX STEUERUNG",
         "es": "LA AUTORIZACIÓN DE LA TARJETA DE CRÉDITO HA FALLADO. EL USUARIO DEBE ACTUALIZAR LOS DATOS DE LA TARJETA DE CRÉDITO EN LA INTERFAZ XBOX.",
         "it": "AUTORIZZAZIONE DELLA CARTA DI CREDITO FALLITA; È NECESSARIO AGGIORNARE LE INFORMAZIONI SULLA CARTA DI CREDITO NELLA XBOX DASHBOARD.",
-        "th": ""
+        "th": "การอนุมัติบัตรเครดิตล้มเหลว ผู้ใช้ควรอัปเดตข้อมูลบัตรเครดิตในหน้าแดชบอร์ด"
       },
       "XONLINE_E_BILLING_CREDIT_CARD_EXPIRED": {
         "en": "THE CREDIT CARD HAS EXPIRED OR WILL EXPIRE THIS MONTH; USER SHOULD UPDATE CARD INFO IN DASH.",
@@ -1126,7 +1126,7 @@
         "de": "KREDITKARTE IST ABGELAUFEN ODER LÄUFT DIESEN MONAT AB. AKTUALISIEREN SIE DIE KREDITKARTEN-DATEN SPÄTER IN DER XBOX STEUERUNG",
         "es": "LA TARJETA DE CRÉDITO HA CADUCADO O CADUCA ESTE MES. EL USUARIO DEBE ACTUALIZARLOS DATOS DE LA TARJETA DE CRÉDITO EN LA INTERFAZ XBOX.",
         "it": "LA CARTA DI CREDITO È SCADUTA O SCADRÀ QUESTO MESE; È NECESSARIO AGGIORNARE LE INFORMAZIONI SULLA CARTA DI CREDITO NELLA XBOX DASHBOARD.",
-        "th": ""
+        "th": "บัตรเครดิตหมดอายุหรือจะหมดอายุในเดือนนี้ ผู้ใช้ควรอัปเดตข้อมูลบัตรในหน้าแดชบอร์ด"
       },
       "XONLINE_E_BILLING_NON_ACTIVE_ACCOUNT": {
         "en": "THE ACCOUNT SPECIFIED IS NO LONGER ACTIVE; USER SHOULD CALL CUSTOMER SERVICE.",
@@ -1134,7 +1134,7 @@
         "de": "DAS ANGEGEBENE KONTO IST NICHT MEHR AKTIV. WENDEN SIE SICH AN DEN KUNDENDIENST",
         "es": "LA CUENTA ESPECIFICADA YA NO ESTÁ ACTIVA. EL USUARIO DEBE LLAMAR AL SERVICIO DE ATENCIÓN AL CLIENTE.",
         "it": "L'ACCOUNT SPECIFICATO NON È PIÙ ATTIVO; È NECESSARIO CHIAMARE IL SERVIZIO CLIENTI.",
-        "th": ""
+        "th": "บัญชีที่ระบุไม่ได้ใช้งานแล้ว ผู้ใช้ควรติดต่อฝ่ายบริการลูกค้า"
       },
       "XONLINE_E_BILLING_INVALID_PAYMENT_INSTRUMENT_STATUS": {
         "en": "USER'S PAYMENT INSTRUMENT IS IN A BAD STATE. THEY SHOULD CALL CUSTOMER SERVICE TO RECTIFY THE ISSUE.",
@@ -1142,7 +1142,7 @@
         "de": "ZAHLUNGSMETHODE UNGÜLTIG. WENDEN SIE SICH AN DEN KUNDENDIENST",
         "es": "EL MÉTODO DE PAGO DEL USUARIO TIENE ALGÚN PROBLEMA. DEBES LLAMAR AL SERVICIO DE ATENCIÓN AL CLIENTE PARA SOLUCIONARLO.",
         "it": "LO STRUMENTO DI PAGAMENTO È IN CATTIVE CONDIZIONI. È NECESSARIO CHIAMARE IL SERVIZIO CLIENTI PER CORREGGERE IL PROBLEMA.",
-        "th": ""
+        "th": "วิธีการชำระเงินของผู้ใช้อยู่ในสถานะไม่ถูกต้อง ควรติดต่อฝ่ายบริการลูกค้าเพื่อแก้ไขปัญหา"
       },
       "XONLINE_E_UODB_KEY_ALREADY_EXISTS": {
         "en": "SERVICE KEY ALREADY EXISTS WHEN ATTEMPTING TO INSERT KEY.",
@@ -1150,7 +1150,7 @@
         "de": "SERVICE-SCHLÜSSEL EXISTIERT SCHON BEI  EINFÜGUNGSVERSUCH ",
         "es": "LA CLAVE DEL SERVICIO YA EXISTÍA CUANDO SE HA INTENTADO INSERTAR LA CLAVE.",
         "it": "LA CHIAVE DEL SERVIZIO ESISTEVA GIÀ DURANTE IL TENTATIVO DI INSERIRE UNA CHIAVE",
-        "th": ""
+        "th": "คีย์บริการมีอยู่แล้วขณะพยายามแทรกคีย์"
       },
       "XONLINE_E_MSGSVR_INVALID_REQUEST": {
         "en": "AN INVALID REQUEST TYPE WAS RECEIVED.",
@@ -1158,7 +1158,7 @@
         "de": "UNGÜLTIGE ANFRAGE EMPFANGEN",
         "es": "SE HA RECIBIDO UN TIPO DE SOLICITUD INCORRECTA.",
         "it": "È STATO RICEVUTO UN TIPO DI RICHIESTA NON VALIDO",
-        "th": ""
+        "th": "ได้รับคำขอประเภทที่ไม่ถูกต้อง"
       },
       "XONLINE_E_FEEDBACK_CANNOT_LOG": {
         "en": "UNABLE TO SUBMIT FEEDBACK. SELECT \"OK\" TO CONTINUE.",
@@ -1166,7 +1166,7 @@
         "de": "FEEDBACK KANN NICH GESENDET WERDEN. WÄHLEN SIE \"OK\", UM FORTZUFAHREN.",
         "es": "ES IMPOSIBLE ENVIAR LA INFORMACIÓN. ELIGE \"ACEPTAR\" PARA CONTINUAR.",
         "it": "IMPOSSIBILE INVIARE IL COMMENTO. SELEZIONA \"OK\" PER CONTINUARE.",
-        "th": ""
+        "th": "ไม่สามารถส่งผลตอบรับได้ เลือก \"ตกลง\" เพื่อดำเนินการต่อ"
       },
       "XONLINE_E_STAT_BAD_REQUEST": {
         "en": "SERVER RECEIVED INCORRECTLY FORMATTED REQUEST.",
@@ -1174,7 +1174,7 @@
         "de": "SERVER HAT FALSCH FORMATIERTE ANFRAGE EMPFANGEN",
         "es": "EL SERVIDOR HA RECIBIDO UNA SOLICITUD CON FORMATO INCORRECTO.",
         "it": "IL SERVER HA RICEVUTO UNA RICHIESTA FORMATTATA IN MANIERA NON CORRETTA",
-        "th": ""
+        "th": "เซิร์ฟเวอร์ได้รับคำขอที่มีรูปแบบไม่ถูกต้อง"
       },
       "XONLINE_E_STAT_INVALID_TITLE_OR_LEADERBOARD": {
         "en": "TITLE OR LEADERBOARD ID WERE NOT RECOGNIZED BY THE SERVER.",
@@ -1182,7 +1182,7 @@
         "de": "TITEL ODER LEADERBOARD ID VON SERVER NICHT ERKANNT",
         "es": "EL SERVIDOR NO RECONOCE EL NOMBRE EL TÍTULO O DEL TABLERO.",
         "it": "L'IDENTIFICATIVO DEL TITOLO O DELLA CLASSIFICA NON È STATO RICONOSCIUTO DAL SERVER",
-        "th": ""
+        "th": "เซิร์ฟเวอร์ไม่รู้จักชื่อเกมหรือรหัสกระดานผู้นำ"
       },
       "XONLINE_E_STAT_TOO_MANY_SPECS": {
         "en": "TOO MANY STAT SPECS IN A REQUEST.",
@@ -1190,7 +1190,7 @@
         "de": "ZU VIELE STAT SPECS IN ANFRAGE.",
         "es": "HAY DEMASIADAS ESPECIFICACIONES DE ESTADÍSTICAS EN UNA SOLICITUD.",
         "it": "TROPPE SPECIFICHE DI STATISTICHE IN UNA RICHIESTA.",
-        "th": ""
+        "th": "ข้อกำหนดสถิติในคำขอมีมากเกินไป"
       },
       "XONLINE_E_STAT_TOO_MANY_STATS": {
         "en": "TOO MANY STATS IN A SPEC OR ALREADY STORED FOR THE USER.",
@@ -1198,7 +1198,7 @@
         "de": "ZU VIELE STATS IN SPEC ODER BEREITS FÜR BENUTZER GESPEICHERT.",
         "es": "DEMASIADAS ESTADÍSTICAS EN UNA ESPECIFICACIÓN O YA SE HAN ALMACENADO PARA ESTE USUARIO.",
         "it": "TROPPE STATISTICHE IN UNA SPECIFICA O SPECIFICA GIÀ RISERVATA PER L'UTENTE.",
-        "th": ""
+        "th": "มีสถิติในข้อกำหนดมากเกินไป หรือผู้ใช้ได้จัดเก็บไว้เต็มแล้ว"
       },
       "XONLINE_E_STAT_USER_NOT_FOUND": {
         "en": "USER NOT FOUND.",
@@ -1206,7 +1206,7 @@
         "de": "BENUTZER NICHT GEFUNDEN.",
         "es": "USUARIO NO ENCONTRADO.",
         "it": "L'UTENTE NON È STATO TROVATO.",
-        "th": ""
+        "th": "ไม่พบผู้ใช้"
       },
       "XONLINE_E_STAT_SET_FAILED_0": {
         "en": "SET OPERATION FAILED ON SPEC INDEX 0.",
@@ -1214,7 +1214,7 @@
         "de": "OPERATION GESCHEITERT BEI SPEC INDEX 0",
         "es": "LA OPERACIÓN HA FALLADO EN EL ÍNDICE 0.",
         "it": "L'OPERAZIONE IMPOSTATA È FALLITA SULL'INDICE DI SPECIFICA 0",
-        "th": ""
+        "th": "การดำเนินการตั้งค่าล้มเหลวที่ดัชนีข้อกำหนด 0"
       },
       "XONLINE_E_STAT_PERMISSION_DENIED": {
         "en": "OPERATION FAILED BECAUSE OF CREDENTIALS. USER ID IS NOT LOGGED IN OR THIS OPERATION IS NOT SUPPORTED IN PRODUCTION (E.G. USERID=0 IN XONLINESTATRESET).",
@@ -1222,7 +1222,7 @@
         "de": "OPERATION WEGEN BERECHT.NACHWEIS GESCHEIT. BENUTZER-ID NICHT ANGEMELDET ODER OPERAT. IN PRODUKTION NICHT UNTERSTÜTZT (Z.B. USERID=0 IN XONLINESTATRESET)",
         "es": "LA OPERACIÓN HA FALLADO POR LA IDENTIFICAICÓN. EL USUARIO NO ESTÁ CONECTADO O LA OPERACIÓN NO ESTÁ SOPORTADA (EJ. USERID=0 EN XONLINESTATRESET).",
         "it": "L'OPERAZIONE È FALLITA A CAUSA DELLE CREDENZIALI. L'IDENTIFICATIVO DELL'UTENTE NON È CONNESSO O QUESTA OPERAZIONE NON È SUPPORTATA IN PRODUZIONE (ES. USERID=0 IN XOLINESTATRESET)",
-        "th": ""
+        "th": "การดำเนินการล้มเหลวเนื่องจากข้อมูลประจำตัว รหัสผู้ใช้ไม่ได้เข้าสู่ระบบ หรือการดำเนินการนี้ไม่รองรับในการใช้งานจริง (เช่น UserId=0 ใน XOnlineStatReset)"
       },
       "XONLINE_E_STRING_TOO_LONG": {
         "en": "STRING WAS LONGER THAN THE ALLOWED MAXIMUM.",
@@ -1230,7 +1230,7 @@
         "de": "ZEICHENKETTE LÄNGER ALS ERLAUBTES MAX.",
         "es": "LA CADENA ES MÁS LARGA DE LO PERMITIDO.",
         "it": "LA STRINGA ERA PIÙ LUNGA DEL MASSIMO CONSENTITO",
-        "th": ""
+        "th": "ข้อความยาวเกินกว่าขีดจำกัดสูงสุดที่อนุญาต"
       },
       "XONLINE_E_STRING_OFFENSIVE_TEXT": {
         "en": "STRING CONTAINS OFFENSIVE TEXT.",
@@ -1238,7 +1238,7 @@
         "de": "ZEICHENKETTE ENTHÄLT BELEIDIGENDEN TEXT",
         "es": "LA CADENA COTIENE TEXTO OFENSIVO.",
         "it": "LA STRINGA CONTIENE TESTO OFFENSIVO",
-        "th": ""
+        "th": "ข้อความมีเนื้อหาที่ไม่เหมาะสม"
       },
       "XONLINE_E_STRING_NO_DEFAULT_STRING": {
         "en": "NO STRING OF THE LANGUAGE SPECIFIED AS THE DEFAULT IS FOUND.",
@@ -1246,7 +1246,7 @@
         "de": "KEINE ZEICHENKETTE DER ANGEGEBENEN SPRACHE GEFUNDEN",
         "es": "NO SE ENCUENTRA LA CADENA DEL IDIOMA ESPECIFICADO POR DEFECTO.",
         "it": "NESSUNA STRINGA DELLA LINGUA SPECIFICATA COME PREDEFINITA È STATA TROVATA",
-        "th": ""
+        "th": "ไม่พบข้อความของภาษาที่ระบุเป็นค่าเริ่มต้น"
       },
       "XONLINE_E_STRING_INVALID_LANGUAGE": {
         "en": "INVALID LANGUAGE IS SPECIFIED FOR A STRING.",
@@ -1254,7 +1254,7 @@
         "de": "UNGÜLTIGE SPRACHE FÜR EINE ZEICHENKETTE",
         "es": "SE HA ESPECIFICADO UN IDIOMA NO VÁLIDO PARA ESTA CADENA.",
         "it": "È STATA SPECIFICATA UNA LINGUA NON VALIDA PER LA STRINGA",
-        "th": ""
+        "th": "ระบุภาษาที่ไม่ถูกต้องสำหรับข้อความ"
       },
       "XONLINE_E_STRING_LANGUAGE_DUPLICATE": {
         "en": "LANGUAGE IS SPECIFIED MORE THAN ONCE IN A SINGLE REQUEST.",
@@ -1262,7 +1262,7 @@
         "de": "SPRACHE MEHR ALS EINMAL IN ANFRAGE ANGEGEBEN",
         "es": "EL IDIOMA SE HA ESPECIFICADO VARIAS VECES EN UNA SOLA PETICIÓN.",
         "it": "LA LINGUA È STATA SPECIFICATA PIÙ DI UNA VOLTA IN UNA SOLA RICHIESTA",
-        "th": ""
+        "th": "มีการระบุภาษาซ้ำมากกว่าหนึ่งครั้งในคำขอเดียว"
       }
     }
   }
