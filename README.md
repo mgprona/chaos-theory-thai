@@ -57,6 +57,9 @@ python -m pip install -r requirements.txt
 คำนวณ GSUB/GPOS ตอนบิลด์ วาดกลุ่มอักษรไทยลง bitmap และแปลงเฉพาะไฟล์เกมเป็น UTF-16LE พร้อม BOM
 ไฟล์ JSON ต้นฉบับยังอ่านและแก้ไขเป็นภาษาไทยตามปกติ ดูรายละเอียดที่ [FONT_PIPELINE.md](FONT_PIPELINE.md)
 
+องค์ความรู้สำหรับนำเทคนิคไปใช้กับเกมอื่น: [คู่มือม็อดฟอนต์ไทยสำหรับเกมเก่า](docs/THAI_FONT_MODDING.md)
+ครอบคลุมการตรวจ encoding/ฟอนต์ที่โหลดจริง, offline shaping, PUA, atlas, metrics และการทดสอบ
+
 ### 1. ดูความคืบหน้าการแปล (Translation Progress)
 เรียกดูสถิติจำนวนคำและเปอร์เซ็นต์ที่แปลไปแล้ว:
 ```bash
