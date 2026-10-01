@@ -8,6 +8,10 @@ __pycache__/
 # Large mod builds & backups
 dist/System/*.umd
 backups/
+out/game-test/*.umd
+out/game-test/*.log
+out/build-font-fix.log
+out/install-font-fix.log
 
 # Environments
 env/

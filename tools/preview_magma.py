@@ -48,7 +48,7 @@ def main():
              "กดปุ่มใดๆ เพื่อเล่นต่อ", "การแสดงผล", "ระบบเสียง", "i j g y / F5"]
     result = Image.new("RGB", (1000, 850), (20, 23, 25))
     draw = ImageDraw.Draw(result)
-    for column, (_, name, _) in enumerate(FONT_SPECS):
+    for column, (_, name, _) in enumerate(spec for spec in FONT_SPECS if spec[2] in (11, 15)):
         x = 20 + column * 500
         draw.text((x, 15), name + " - actual MFT / PUA", fill="white")
         for row, line in enumerate(lines):

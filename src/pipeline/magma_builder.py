@@ -18,7 +18,11 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 GLYPH = struct.Struct("<HBBbbB4f")
 FONT_SPECS = (
     ("bios three regular 20.mft", "Bios Three Regular 20", 15),
+    ("Bios Three Regular 32.mft", "Bios Three Regular 32", 24),
+    ("Bios Three Regular 48.mft", "Bios Three Regular 48", 36),
     ("prototype regular 13.mft", "Prototype Regular 13", 11),
+    ("Prototype Regular 26.mft", "Prototype Regular 26", 22),
+    ("Prototype Regular 36.mft", "Prototype Regular 36", 30),
 )
 
 
@@ -101,7 +105,7 @@ def build_magma_fonts(
             if original_texture.size != (old_w, old_h):
                 raise ValueError(f"Atlas size mismatch: {texture_file}")
             # Reuse an existing archive entry; repack does not add new entries.
-            atlas = Image.new("L", (512, 512))
+            atlas = Image.new("L", (1024, 1024))
             atlas.paste(original_texture.convert("L"), (0, 0))
 
         # Rescale Latin UVs on the enlarged atlas. Keep the original metrics
