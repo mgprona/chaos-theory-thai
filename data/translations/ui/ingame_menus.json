@@ -16,7 +16,7 @@
         "de": "ZURÜCK",
         "es": "ATRÁS",
         "it": "INDIETRO",
-        "th": ""
+        "th": "ย้อนกลับ"
       },
       "Continue": {
         "en": "CONTINUE",
@@ -24,7 +24,7 @@
         "de": "FORTSETZEN",
         "es": "CONTINUAR",
         "it": "CONTINUA",
-        "th": ""
+        "th": "เล่นต่อ"
       },
       "Unknown": {
         "en": "UNKNOWN",
@@ -32,7 +32,7 @@
         "de": "UNBEKANNT",
         "es": "DESCONOCIDO",
         "it": "SCONOSCIUTO",
-        "th": ""
+        "th": "ไม่ระบุ"
       },
       "Orientation[0]": {
         "en": "N",
@@ -40,7 +40,7 @@
         "de": "N",
         "es": "N",
         "it": "N",
-        "th": ""
+        "th": "N"
       },
       "Orientation[1]": {
         "en": "NE",
@@ -48,7 +48,7 @@
         "de": "NO",
         "es": "NE",
         "it": "NE",
-        "th": ""
+        "th": "NE"
       },
       "Orientation[2]": {
         "en": "E",
@@ -56,7 +56,7 @@
         "de": "O",
         "es": "E",
         "it": "E",
-        "th": ""
+        "th": "E"
       },
       "Orientation[3]": {
         "en": "SE",
@@ -64,7 +64,7 @@
         "de": "SO",
         "es": "SE",
         "it": "SE",
-        "th": ""
+        "th": "SE"
       },
       "Orientation[4]": {
         "en": "S",
@@ -72,7 +72,7 @@
         "de": "S",
         "es": "S",
         "it": "S",
-        "th": ""
+        "th": "S"
       },
       "Orientation[5]": {
         "en": "SW",
@@ -80,7 +80,7 @@
         "de": "SW",
         "es": "SO",
         "it": "SO",
-        "th": ""
+        "th": "SW"
       },
       "Orientation[6]": {
         "en": "W",
@@ -88,7 +88,7 @@
         "de": "W",
         "es": "O",
         "it": "O",
-        "th": ""
+        "th": "W"
       },
       "Orientation[7]": {
         "en": "NW",
@@ -96,7 +96,7 @@
         "de": "NW",
         "es": "NO",
         "it": "NO",
-        "th": ""
+        "th": "NW"
       },
       "Scanning": {
         "en": "SCANNING...",
@@ -104,7 +104,7 @@
         "de": "SCAN...",
         "es": "ESCANEANDO...",
         "it": "SCANSIONE...",
-        "th": ""
+        "th": "กำลังสแกน..."
       },
       "Recording": {
         "en": "RECORDING...",
@@ -112,7 +112,7 @@
         "de": "AUFNAHME...",
         "es": "GRABANDO...",
         "it": "REGISTRAZIONE...",
-        "th": ""
+        "th": "กำลังบันทึก..."
       },
       "Connecting": {
         "en": "CONNECTING...",
@@ -120,7 +120,7 @@
         "de": "VERBG WIRD HERGST",
         "es": "CONECTANDO...",
         "it": "CONNESSIONE...",
-        "th": ""
+        "th": "กำลังเชื่อมต่อ..."
       },
       "NoFeed": {
         "en": "NO FEED AVAILABLE",
@@ -128,7 +128,7 @@
         "de": "KEIN SIGNAL",
         "es": "SIN ALIMENTACIÓN",
         "it": "NESSUN FLUS. DATI",
-        "th": ""
+        "th": "ไม่มีสัญญาณภาพ"
       },
       "Disconnecting": {
         "en": "DISCONNECTING...",
@@ -136,7 +136,7 @@
         "de": "VERBINDUNG WIRD GETRENNT...",
         "es": "DESCONECTANDO...",
         "it": "DISCONNESSIONE...",
-        "th": ""
+        "th": "กำลังตัดการเชื่อมต่อ..."
       },
       "DistanceMeter": {
         "en": "M",
@@ -144,7 +144,7 @@
         "de": "M",
         "es": "M",
         "it": "M",
-        "th": ""
+        "th": "ม."
       }
     },
     "HUD": {
@@ -155,7 +155,7 @@
         "de": "INTERAGIEREN",
         "es": "ACCIONES",
         "it": "INTERAZIONE",
-        "th": ""
+        "th": "โต้ตอบ"
       },
       "Exit": {
         "en": "BACK TO GAME",
@@ -163,7 +163,7 @@
         "de": "ZURÜCK ZUM SPIEL",
         "es": "SEGUIR JUGANDO",
         "it": "TORNA ALLA PARTITA",
-        "th": ""
+        "th": "กลับสู่เกม"
       },
       "SwitchAttach": {
         "en": "SWITCH ATTACHMENT",
@@ -171,7 +171,7 @@
         "de": "MODUL WECHSELN",
         "es": "CAMBIAR ACCESORIO",
         "it": "CAMBIA MODULO",
-        "th": ""
+        "th": "สลับอุปกรณ์เสริม"
       },
       "SwitchWeapon": {
         "en": "SWITCH WEAPON",
@@ -179,7 +179,7 @@
         "de": "WAFFE WECHSELN",
         "es": "CAMBIAR ARMA",
         "it": "CAMBIA ARMA",
-        "th": ""
+        "th": "สลับอาวุธ"
       }
     },
     "TRAINING": {
@@ -190,7 +190,7 @@
         "de": "TRAININGS-INFO",
         "es": "INFORM. DEL ENTRENAMIENTO",
         "it": "INFO. ADDESTRAMENTO",
-        "th": ""
+        "th": "ข้อมูลการฝึกซ้อม"
       },
       "Press": {
         "en": "PRESS",
@@ -198,7 +198,7 @@
         "de": "ZUM FORTFAHREN",
         "es": "PRESIONAR",
         "it": "PREMI",
-        "th": ""
+        "th": "กด"
       },
       "Continue": {
         "en": "TO CONTINUE",
@@ -206,7 +206,7 @@
         "de": "DRÜCKEN",
         "es": "PARA CONTINUAR",
         "it": "PER CONTINUARE",
-        "th": ""
+        "th": "เพื่อดำเนินการต่อ"
       }
     },
     "ENDMISSION": {
@@ -217,7 +217,7 @@
         "de": "MISSION FEHLGESCHLAGEN",
         "es": "MISIÓN FRACASADA",
         "it": "MISSIONE FALLITA",
-        "th": ""
+        "th": "ภารกิจล้มเหลว"
       },
       "MissionSuccessMsg": {
         "en": "MISSION COMPLETE",
@@ -225,7 +225,7 @@
         "de": "MISSION ERFOLGREICH",
         "es": "MISIÓN CUMPLIDA",
         "it": "MISSIONE COMPLETA",
-        "th": ""
+        "th": "ภารกิจสำเร็จ"
       },
       "MissionContinueMsg": {
         "en": "TO BE CONTINUED...",
@@ -233,7 +233,7 @@
         "de": "FORTSETZUNG FOLGT...",
         "es": "CONTINUARÁ...",
         "it": "CONTINUA...",
-        "th": ""
+        "th": "โปรดติดตามตอนต่อไป..."
       }
     },
     "OPSATMENU": {
@@ -244,7 +244,7 @@
         "de": "ZIELE",
         "es": "METAS",
         "it": "OBIETTIVI",
-        "th": ""
+        "th": "เป้าหมาย"
       },
       "Notes": {
         "en": "NOTES",
@@ -252,7 +252,7 @@
         "de": "NOTIZEN",
         "es": "NOTAS",
         "it": "APPUNTI",
-        "th": ""
+        "th": "บันทึก"
       },
       "Datas": {
         "en": "DATA",
@@ -260,7 +260,7 @@
         "de": "DATEN",
         "es": "DATOS",
         "it": "DATI",
-        "th": ""
+        "th": "ข้อมูล"
       },
       "Map": {
         "en": "MAP",
@@ -268,7 +268,7 @@
         "de": "KARTE",
         "es": "MAPA",
         "it": "MAPPA",
-        "th": ""
+        "th": "แผนที่"
       },
       "Equipment": {
         "en": "EQUIPMENT",
@@ -276,7 +276,7 @@
         "de": "AUSRÜSTUNG",
         "es": "EQUIPAMIENTO",
         "it": "EQUIPAGGIAMENTO",
-        "th": ""
+        "th": "อุปกรณ์"
       },
       "GoalsTitle": {
         "en": "OBJECTIVES",
@@ -284,7 +284,7 @@
         "de": "AUFGABEN",
         "es": "OBJETIVOS",
         "it": "OBIETTIVI",
-        "th": ""
+        "th": "เป้าหมายภารกิจ"
       },
       "NoGoals": {
         "en": "NO GOALS",
@@ -292,7 +292,7 @@
         "de": "KEINE ZIELE",
         "es": "NO HAY METAS",
         "it": "NESSUN OBIETTIVO",
-        "th": ""
+        "th": "ไม่มีเป้าหมาย"
       },
       "GoalType[0]": {
         "en": "PRIMARY OBJECTIVES",
@@ -300,7 +300,7 @@
         "de": "PRIMÄRZIELE",
         "es": "OBJETIVOS PRINCIPALES",
         "it": "OBIETTIVI PRIMARI",
-        "th": ""
+        "th": "เป้าหมายหลัก"
       },
       "GoalType[1]": {
         "en": "SECONDARY OBJECTIVES",
@@ -308,7 +308,7 @@
         "de": "SEKUNDÄRZIELE",
         "es": "OBJETIVOS SECUNDARIOS",
         "it": "OBIETTIVI SECONDARI",
-        "th": ""
+        "th": "เป้าหมายรอง"
       },
       "GoalType[2]": {
         "en": "OPPORTUNITY OBJECTIVES",
@@ -316,7 +316,7 @@
         "de": "ZUSÄTZLICHE MISSIONSZIELE",
         "es": "OBJETIVOS PARALELOS",
         "it": "OBIETTIVI DI OPPORTUNITÀ",
-        "th": ""
+        "th": "เป้าหมายเสริม"
       },
       "GoalType[3]": {
         "en": "FALLBACK OBJECTIVES",
@@ -324,7 +324,7 @@
         "de": "AUSWEICH-MISSIONSZIELE",
         "es": "OBJETIVOS DE REPLIEGUE",
         "it": "OBIETTIVI DI RIPIEGO",
-        "th": ""
+        "th": "เป้าหมายสำรอง"
       },
       "GoalType[4]": {
         "en": "BONUS OBJECTIVES",
@@ -332,7 +332,7 @@
         "de": "BONUS-MISSIONSZIELE",
         "es": "OBJETIVOS DE BONUS",
         "it": "OBIETTIVI BONUS",
-        "th": ""
+        "th": "เป้าหมายพิเศษ"
       },
       "NotesTitle": {
         "en": "NOTES",
@@ -340,7 +340,7 @@
         "de": "NOTIZEN",
         "es": "NOTAS",
         "it": "APPUNTI",
-        "th": ""
+        "th": "บันทึก"
       },
       "DatasTitle": {
         "en": "DATA",
@@ -348,7 +348,7 @@
         "de": "DATEN",
         "es": "DATOS",
         "it": "DATI",
-        "th": ""
+        "th": "ข้อมูล"
       },
       "DatasType": {
         "en": "TYPE",
@@ -356,7 +356,7 @@
         "de": "TYP",
         "es": "TIPO",
         "it": "TIPO",
-        "th": ""
+        "th": "ประเภท"
       },
       "DatasLocation": {
         "en": "LOCATION",
@@ -364,7 +364,7 @@
         "de": "ORT",
         "es": "LUGAR",
         "it": "LUOGO",
-        "th": ""
+        "th": "สถานที่"
       },
       "DatasFrom": {
         "en": "FROM",
@@ -372,7 +372,7 @@
         "de": "VON",
         "es": "DESCONOCIDO",
         "it": "DA",
-        "th": ""
+        "th": "จาก"
       },
       "DatasName": {
         "en": "FILE",
@@ -380,7 +380,7 @@
         "de": "DATEI",
         "es": "ARCHIVO",
         "it": "FILE",
-        "th": ""
+        "th": "ไฟล์"
       },
       "DataType[0]": {
         "en": "UNKNOWN",
@@ -388,7 +388,7 @@
         "de": "UNBEKANNT",
         "es": "DESCONOCIDO",
         "it": "SCONOSCIUTO",
-        "th": ""
+        "th": "ไม่ระบุ"
       },
       "DataType[1]": {
         "en": "EMAIL",
@@ -396,7 +396,7 @@
         "de": "E-MAIL",
         "es": "EMAIL",
         "it": "EMAIL",
-        "th": ""
+        "th": "อีเมล"
       },
       "DataType[2]": {
         "en": "SOUND",
@@ -404,7 +404,7 @@
         "de": "SOUND",
         "es": "SONIDO",
         "it": "SUONO",
-        "th": ""
+        "th": "เสียง"
       },
       "DataType[3]": {
         "en": "IMAGE",
@@ -412,7 +412,7 @@
         "de": "BILD",
         "es": "IMAGEN",
         "it": "IMMAGINE",
-        "th": ""
+        "th": "รูปภาพ"
       },
       "MapTitle": {
         "en": "MAP",
@@ -420,7 +420,7 @@
         "de": "KARTE",
         "es": "MAPA",
         "it": "MAPPA",
-        "th": ""
+        "th": "แผนที่"
       },
       "MapAlarm": {
         "en": "ALARM",
@@ -428,7 +428,7 @@
         "de": "ALARM",
         "es": "ALARMA",
         "it": "ALLARME",
-        "th": ""
+        "th": "สัญญาณเตือนภัย"
       },
       "MapObjective": {
         "en": "OBJECTIVE",
@@ -436,7 +436,7 @@
         "de": "MISSIONSZIEL",
         "es": "OBJETIVO",
         "it": "OBIETTIVO",
-        "th": ""
+        "th": "เป้าหมาย"
       },
       "MapPlayer": {
         "en": "PLAYER",
@@ -444,7 +444,7 @@
         "de": "SPIELER",
         "es": "JUGADOR",
         "it": "GIOCATORE",
-        "th": ""
+        "th": "ผู้เล่น"
       },
       "MapObjectiveDetail": {
         "en": "OBJECTIVE:",
@@ -452,7 +452,7 @@
         "de": "MISSIONSZIEL:",
         "es": "OBJETIVO:",
         "it": "OBIETTIVO:",
-        "th": ""
+        "th": "เป้าหมาย:"
       },
       "MapLocation": {
         "en": "LOCATION:",
@@ -460,7 +460,7 @@
         "de": "POSITION:",
         "es": "POSICIÓN:",
         "it": "LUOGO:",
-        "th": ""
+        "th": "สถานที่:"
       },
       "EquipmentTitle": {
         "en": "EQUIPMENT",
@@ -468,7 +468,7 @@
         "de": "AUSRÜSTUNG",
         "es": "EQUIPAMIENTO",
         "it": "EQUIPAGGIAMENTO",
-        "th": ""
+        "th": "อุปกรณ์"
       },
       "MapAlarmTriggered": {
         "en": "TRIGGERED ALARMS",
@@ -476,7 +476,7 @@
         "de": "AUSGELÖSTE ALARME",
         "es": "ALARMAS ACTIVADAS",
         "it": "ALLARMI SCATTATI",
-        "th": ""
+        "th": "สัญญาณเตือนภัยที่ถูกเปิด"
       },
       "Hide": {
         "en": "HIDE",
@@ -484,7 +484,7 @@
         "de": "VERBERGEN",
         "es": "ESCONDER",
         "it": "NASCONDI",
-        "th": ""
+        "th": "ซ่อน"
       },
       "Show": {
         "en": "SHOW",
@@ -492,7 +492,7 @@
         "de": "ZEIGEN",
         "es": "MOSTRAR",
         "it": "MOSTRA",
-        "th": ""
+        "th": "แสดง"
       }
     },
     "PAUSEMENU": {
@@ -503,7 +503,7 @@
         "de": "PAUSE",
         "es": "PAUSA",
         "it": "PAUSA",
-        "th": ""
+        "th": "หยุดชั่วคราว"
       },
       "PauseGameOver": {
         "en": "GAME OVER",
@@ -511,7 +511,7 @@
         "de": "SPIELENDE",
         "es": "FIN DEL JUEGO",
         "it": "GAME OVER",
-        "th": ""
+        "th": "จบเกม"
       },
       "PauseContinue": {
         "en": "MISSION SUCCESS",
@@ -519,7 +519,7 @@
         "de": "MISSION ERFOLGREICH",
         "es": "MISIÓN CUMPLIDA",
         "it": "MISSIONE COMPLETATA",
-        "th": ""
+        "th": "ภารกิจสำเร็จ"
       },
       "ChoiceRetryGame": {
         "en": "RETRY",
@@ -527,7 +527,7 @@
         "de": "WIEDERHOLEN",
         "es": "REINTENTAR",
         "it": "RIPROVA",
-        "th": ""
+        "th": "เริ่มใหม่"
       },
       "ChoiceContinueGame": {
         "en": "CONTINUE",
@@ -535,7 +535,7 @@
         "de": "FORTSETZEN",
         "es": "CONTINUAR",
         "it": "CONTINUA",
-        "th": ""
+        "th": "เล่นต่อ"
       },
       "ChoiceQuickSaveGame": {
         "en": "QUICK SAVE",
@@ -543,7 +543,7 @@
         "de": "SCHNELLSPEICHERN",
         "es": "GUARDADO RÁPIDO",
         "it": "SALVATAGGIO VELOCE",
-        "th": ""
+        "th": "บันทึกด่วน"
       },
       "ChoiceResumeGame": {
         "en": "RESUME",
@@ -551,7 +551,7 @@
         "de": "WEITER",
         "es": "SEGUIR JUGANDO",
         "it": "RIPRENDI",
-        "th": ""
+        "th": "เล่นต่อ"
       },
       "ChoiceRestartGame": {
         "en": "RESTART",
@@ -559,7 +559,7 @@
         "de": "NEUSTART",
         "es": "REINICIAR",
         "it": "RICOMINCIA",
-        "th": ""
+        "th": "เริ่มใหม่"
       },
       "ChoiceSaveGame": {
         "en": "SAVE",
@@ -567,7 +567,7 @@
         "de": "SPEICHERN",
         "es": "GUARDAR",
         "it": "SALVA",
-        "th": ""
+        "th": "บันทึกเกม"
       },
       "ChoiceLoadGame": {
         "en": "LOAD",
@@ -575,7 +575,7 @@
         "de": "LADEN",
         "es": "CARGAR",
         "it": "CARICA",
-        "th": ""
+        "th": "โหลดเกม"
       },
       "ChoiceOptions": {
         "en": "OPTIONS",
@@ -583,7 +583,7 @@
         "de": "OPTIONEN",
         "es": "OPCIONES",
         "it": "OPZIONI",
-        "th": ""
+        "th": "ตัวเลือก"
       },
       "ChoiceQuitLobby": {
         "en": "LEAVE MISSION",
@@ -591,7 +591,7 @@
         "de": "ZURÜCK ZUR LOBBY",
         "es": "VOL. PUNTO ENCUENT.",
         "it": "TORNA ALLA LOBBY",
-        "th": ""
+        "th": "ออกจากภารกิจ"
       },
       "ChoiceQuit": {
         "en": "QUIT",
@@ -599,7 +599,7 @@
         "de": "BEENDEN",
         "es": "SALIR",
         "it": "ESCI",
-        "th": ""
+        "th": "ออกจากเกม"
       },
       "QuitWarningTitle": {
         "en": "QUIT GAME",
@@ -607,7 +607,7 @@
         "de": "SPIEL VERLASSEN",
         "es": "SALIR DEL JUEGO",
         "it": "ESCI DALLA PARTITA",
-        "th": ""
+        "th": "ออกจากเกม"
       },
       "QuitWarningMsg": {
         "en": "ARE YOU SURE YOU WANT TO RETURN TO THE MAIN MENU? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO LEAVE OR CANCEL.",
@@ -615,7 +615,7 @@
         "de": "SIND SIE SICHER, DASS SIE ZUM HAUPTMENÜ ZURÜCKKEHREN WOLLEN? JEDER SPIELSTAND GEHT DABEI VERLOREN. WÄHLEN SIE \"OK\", UM ZU BESTÄTIGEN ODER \"ABBRECHEN\", UM WEITER ZU SPIELEN.",
         "es": "¿SEGURO QUE QUIERES VOLVER AL MENÚ PRINCIPAL? TODO LO QUE HAS AVANZADO SE PERDERÁ. ELIGE \"ACEPTAR\" PARA SALIR O \"CANCELAR\" PARA VOVER AL JUEGO.",
         "it": "VUOI DAVVERO TORNARE AL MENU PRINCIPALE? I PROGRESSI ATTUALI ANDRANNO PERDUTI. SELEZIONA OK PER USCIRE O ANNULLA PER RIPRENDERE.",
-        "th": ""
+        "th": "คุณแน่ใจหรือไม่ว่าต้องการกลับสู่เมนูหลัก? ความคืบหน้าปัจจุบันจะสูญหาย เลือกตกลงเพื่อออก หรือยกเลิก"
       },
       "RestartWarningTitle": {
         "en": "RESTART GAME",
@@ -623,7 +623,7 @@
         "de": "SPIEL NEU STARTEN",
         "es": "REINICIAR PARTIDA",
         "it": "RICOMINCIARE LA PARTITA",
-        "th": ""
+        "th": "เริ่มเกมใหม่"
       },
       "RestartWarningMsg": {
         "en": "ARE YOU SURE YOU WANT TO RESTART? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO CONTINUE OR CANCEL.",
@@ -631,7 +631,7 @@
         "de": "SPIEL WIRKLICH NEU STARTEN? DABEI GEHT ALLER NICHT GESPEICHERTER FORTSCHRITT VERLOREN. WÄHLEN SIE \"OK\", UM DEN VORGANG FORTZUSETZEN, ODER \"ABBRECHEN\".",
         "es": "¿SEGURO QUE QUIERES REINICIAR? PERDERÁS LO QUE HAYAS AVANZADO. ELIGE ACEPTAR PARA CONTINUAR O BIEN CANCELA.",
         "it": "SEI SICURO DI VOLER RICOMINCIARE? I PROGRESSI VERRANNO PERSI. SELEZIONA OK PER CONTINUARE O ANNULLA.",
-        "th": ""
+        "th": "คุณแน่ใจหรือไม่ว่าต้องการเริ่มใหม่? ความคืบหน้าปัจจุบันจะสูญหาย เลือกตกลงเพื่อดำเนินการต่อ หรือยกเลิก"
       },
       "QuitLobbyWarningMsg": {
         "en": "ARE YOU SURE YOU WANT TO RETURN TO THE LOBBY? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO LEAVE OR CANCEL.",
@@ -639,7 +639,7 @@
         "de": "WIRKLICH IN DIE LOBBY ZURÜCKKEHREN? DABEI GEHT ALLER NICHT GESPEICHERTER FORTSCHRITT VERLOREN. WÄHLEN SIE \"OK\", UM DEN VORGANG FORTZUSETZEN, ODER \"ABBRECHEN\".",
         "es": "¿SEGURO QUE QUIERES REGRESAR AL PUNTO DE ENCUENTRO? PERDERÁS LO QUE HAYAS AVANZADO. ELIGE ACEPTAR PARA SALIR O BIEN CANCELA.",
         "it": "SEI SICURO DI VOLER TORNARE ALLA SALA D'ATTESA? I PROGRESSI VERRANNO PERSI. SELEZIONA OK PER CONTINUARE O ANNULLA.",
-        "th": ""
+        "th": "คุณแน่ใจหรือไม่ว่าต้องการกลับสู่ล็อบบี้? ความคืบหน้าปัจจุบันจะสูญหาย เลือกตกลงเพื่อออก หรือยกเลิก"
       },
       "PauseWaitingTeammate": {
         "en": "GAME PAUSED. WAITING FOR YOUR TEAMMATE...",
@@ -647,7 +647,7 @@
         "de": "SPIEL ANGEHALTEN. WARTE AUF TEAMKAMERAD...",
         "es": "JUEGO PARADO. ESPERANDO A TU COMPAÑERO...",
         "it": "PAUSA. IN ATTESA DEL COMPAGNO...",
-        "th": ""
+        "th": "เกมหยุดชั่วคราว กำลังรอเพื่อนร่วมทีม..."
       },
       "PauseReturnToLobby": {
         "en": "GOING BACK TO LOBBY... ( %i )",
@@ -655,7 +655,7 @@
         "de": "ZURÜCK ZUR LOBBY ... (%i)",
         "es": "VOLVER AL PUNTO DE ENCUENTRO... (%i)",
         "it": "TORNA ALLA SALA D'ATTESA... (%i)",
-        "th": ""
+        "th": "กำลังกลับสู่ล็อบบี้... ( %i )"
       },
       "GameOverWaitingTeammate": {
         "en": "WAITING FOR YOUR TEAMMATE...",
@@ -663,7 +663,7 @@
         "de": "WARTE AUF TEAMKAMERAD...",
         "es": "ESPERANDO A TU COMPAÑERO...",
         "it": "IN ATTESA DEL COMPAGNO...",
-        "th": ""
+        "th": "กำลังรอเพื่อนร่วมทีม..."
       },
       "SaveGameWaitingTeammate": {
         "en": "WAITING FOR YOUR TEAMMATE...",
@@ -671,7 +671,7 @@
         "de": "WARTE AUF TEAMKOLLEGEN...",
         "es": "ESPERANDO A TU COMPAÑERO...",
         "it": "IN ATTESA DEL COMPAGNO DI SQUADRA...",
-        "th": ""
+        "th": "กำลังรอเพื่อนร่วมทีม..."
       }
     },
     "COMPUTER": {
@@ -682,7 +682,7 @@
         "de": "SICHERH-ZUGANG",
         "es": "ACCESO SEGURIDAD",
         "it": "ACCES. DI SICUREZZA",
-        "th": ""
+        "th": "การเข้าถึงระบบความปลอดภัย"
       },
       "HackingDetail": {
         "en": "HACKING PROCESS",
@@ -690,7 +690,7 @@
         "de": "HACKING-FORTSCHRITT",
         "es": "PROCESO DE HACKEO",
         "it": "SABOTAGGIO",
-        "th": ""
+        "th": "กระบวนการแฮก"
       },
       "Filename": {
         "en": "FILE NAME",
@@ -698,7 +698,7 @@
         "de": "DATEINAME",
         "es": "NOMBRE DE ARCHIVO",
         "it": "NOME DI FILE",
-        "th": ""
+        "th": "ชื่อไฟล์"
       },
       "FileType": {
         "en": "TYPE",
@@ -706,7 +706,7 @@
         "de": "DATEITYP",
         "es": "TIPO",
         "it": "TIPO",
-        "th": ""
+        "th": "ประเภท"
       },
       "Files": {
         "en": "FILES",
@@ -714,7 +714,7 @@
         "de": "DATEIEN",
         "es": "ARCHIVOS",
         "it": "FILE",
-        "th": ""
+        "th": "ไฟล์"
       },
       "DataType[0]": {
         "en": "UNKNOWN",
@@ -722,7 +722,7 @@
         "de": "UNBEKANNT",
         "es": "DESCONOCIDO",
         "it": "SCONOSCIUTO",
-        "th": ""
+        "th": "ไม่ระบุ"
       },
       "DataType[1]": {
         "en": "EMAIL",
@@ -730,7 +730,7 @@
         "de": "E-MAIL",
         "es": "EMAIL",
         "it": "EMAIL",
-        "th": ""
+        "th": "อีเมล"
       },
       "DataType[2]": {
         "en": "IMAGE",
@@ -738,7 +738,7 @@
         "de": "BILD",
         "es": "IMAGEN",
         "it": "IMMAGINE",
-        "th": ""
+        "th": "รูปภาพ"
       },
       "DataType[3]": {
         "en": "SOUND",
@@ -746,7 +746,7 @@
         "de": "SOUND",
         "es": "SONIDO",
         "it": "SUONO",
-        "th": ""
+        "th": "เสียง"
       },
       "DataType[4]": {
         "en": "CAMERA",
@@ -754,7 +754,7 @@
         "de": "KAMERA",
         "es": "CÁMARA",
         "it": "TELECAMERA",
-        "th": ""
+        "th": "กล้องวงจรปิด"
       }
     },
     "MISSIONREVIEW": {
@@ -765,7 +765,7 @@
         "de": "BEWERTUNG DER EINSATZZIELE",
         "es": "REVISIÓN DE OBJETIVOS",
         "it": "OBIETTIVI",
-        "th": ""
+        "th": "สรุปผลเป้าหมายภารกิจ"
       },
       "StatsTitle": {
         "en": "MISSION STATISTICS",
@@ -773,7 +773,7 @@
         "de": "MISSIONSSTATISTIK",
         "es": "ESTADÍSTICAS DE MISIÓN",
         "it": "STATISTICHE MISSIONE",
-        "th": ""
+        "th": "สถิติภารกิจ"
       },
       "OverallTitle": {
         "en": "OVERALL ACHIEVEMENT",
@@ -781,7 +781,7 @@
         "de": "LEISTUNG INSGESAMT",
         "es": "RESUMEN GENERAL",
         "it": "RISULTATO GLOBALE",
-        "th": ""
+        "th": "ผลการปฏิบัติงานโดยรวม"
       },
       "PrimaryObj": {
         "en": "PRIMARY OBJECTIVES",
@@ -789,7 +789,7 @@
         "de": "PRIMÄRZIELE",
         "es": "OBJETIVOS PRINCIPALES",
         "it": "OBIETTIVI PRIMARI",
-        "th": ""
+        "th": "เป้าหมายหลัก"
       },
       "SecondaryObj": {
         "en": "SECONDARY OBJECTIVES",
@@ -797,7 +797,7 @@
         "de": "SEKUNDÄRZIELE",
         "es": "OBJETIVOS SECUNDARIOS",
         "it": "OBIETTIVI SECONDARI",
-        "th": ""
+        "th": "เป้าหมายรอง"
       },
       "OpportunityObj": {
         "en": "OPPORTUNITY OBJECTIVES",
@@ -805,7 +805,7 @@
         "de": "ZUSÄTZLICHE MISSIONSZIELE",
         "es": "OBJETIVOS PARALELOS",
         "it": "OBIETTIVI DI OPPORTUNITÀ",
-        "th": ""
+        "th": "เป้าหมายเสริม"
       },
       "BonusObj": {
         "en": "BONUS OBJECTIVES",
@@ -813,7 +813,7 @@
         "de": "BONUS-MISSIONSZIELE",
         "es": "OBJETIVOS DE BONUS",
         "it": "OBIETTIVI BONUS",
-        "th": ""
+        "th": "เป้าหมายพิเศษ"
       },
       "SuccessRating": {
         "en": "SUCCESS RATING : ",
@@ -821,7 +821,7 @@
         "de": "ERFOLGSRATE: ",
         "es": "ÍNDICE DE ÉXITO: ",
         "it": "SUCCESSO: ",
-        "th": ""
+        "th": "ระดับความสำเร็จ : "
       },
       "FinalRating": {
         "en": "FINAL RATING : ",
@@ -829,7 +829,7 @@
         "de": "ABSCHLUSSBEWERTUNG: ",
         "es": "CALIFICACIÓN FINAL: ",
         "it": "VALUTAZIONE FINALE: ",
-        "th": ""
+        "th": "คะแนนประเมินสุดท้าย : "
       },
       "Hours": {
         "en": "HOUR(S)",
@@ -837,7 +837,7 @@
         "de": "STUNDE(N)",
         "es": "HORAS",
         "it": "ORE",
-        "th": ""
+        "th": "ชั่วโมง"
       },
       "Minutes": {
         "en": "MIN.",
@@ -845,7 +845,7 @@
         "de": "MIN.",
         "es": "MIN.",
         "it": "MIN.",
-        "th": ""
+        "th": "นาที"
       },
       "You": {
         "en": "YOU",
@@ -853,7 +853,7 @@
         "de": "SIE",
         "es": "USTED",
         "it": "TU",
-        "th": ""
+        "th": "คุณ"
       },
       "Teammate": {
         "en": "TEAMMATE",
@@ -861,7 +861,7 @@
         "de": "TEAMKAMERAD",
         "es": "COMPAÑERO",
         "it": "COMPAGNO",
-        "th": ""
+        "th": "เพื่อนร่วมทีม"
       },
       "UnlockLoadOutTitle": {
         "en": "CONGRATULATIONS !!!",
@@ -869,7 +869,7 @@
         "de": "CONGRATULATIONS !!!",
         "es": "CONGRATULATIONS !!!",
         "it": "CONGRATULATIONS !!!",
-        "th": ""
+        "th": "ขอแสดงความยินดี !!!"
       },
       "UnlockLoadOutMsg": {
         "en": "ASSAULT LOAD-OUT UNLOCKED",
@@ -877,7 +877,7 @@
         "de": "ASSAULT LOAD-OUT UNLOCKED",
         "es": "ASSAULT LOAD-OUT UNLOCKED",
         "it": "ASSAULT LOAD-OUT UNLOCKED",
-        "th": ""
+        "th": "ปลดล็อกชุดอุปกรณ์จู่โจมแล้ว"
       },
       "MissionStatus[0]": {
         "en": "NOT COMPLETED",
@@ -885,7 +885,7 @@
         "de": "NICHT BEENDET",
         "es": "NO COMPLETADA",
         "it": "NON TERMINATA",
-        "th": ""
+        "th": "ไม่สำเร็จ"
       },
       "MissionStatus[1]": {
         "en": "COMPLETED",
@@ -893,7 +893,7 @@
         "de": "ABGESCHLOSSEN",
         "es": "COMPLETADA",
         "it": "COMPLETATA",
-        "th": ""
+        "th": "สำเร็จ"
       },
       "MissionStatus[2]": {
         "en": "CANCELLED",
@@ -901,7 +901,7 @@
         "de": "ABGEBROCHEN",
         "es": "CANCELADA",
         "it": "ANNULLATA",
-        "th": ""
+        "th": "ยกเลิก"
       },
       "MissionStat[0]": {
         "en": "MISSION PLAYED",
@@ -909,7 +909,7 @@
         "de": "GESPIELTE MISSION",
         "es": "MISIÓN JUGADA",
         "it": "MISSIONE GIOCATA",
-        "th": ""
+        "th": "ภารกิจที่เล่น"
       },
       "MissionStat[1]": {
         "en": "TIME PLAYED",
@@ -917,7 +917,7 @@
         "de": "GESPIELTE ZEIT",
         "es": "TIEMPO JUGADO",
         "it": "TEMPO DI GIOCO",
-        "th": ""
+        "th": "เวลาที่ใช้เล่น"
       },
       "MissionStat[2]": {
         "en": "TIMES IDENTIFIED AS INTRUDER",
@@ -925,7 +925,7 @@
         "de": "ALS EINDRINGLING ENTDECKT",
         "es": "TIEMPO DETECTADO COMO INTRUSO",
         "it": "IDENTIFICAZIONI COME INTRUSO",
-        "th": ""
+        "th": "จำนวนครั้งที่ถูกตรวจพบว่าเป็นผู้บุกรุก"
       },
       "MissionStat[3]": {
         "en": "ENEMIES KNOCKED OUT",
@@ -933,7 +933,7 @@
         "de": "BEWUSSTLOSE FEINDE",
         "es": "ENEMIGOS NEUTRALIZADOS",
         "it": "NEMICI FUORI COMBATTIMENTO",
-        "th": ""
+        "th": "ศัตรูที่ถูกทำให้สลบ"
       },
       "MissionStat[4]": {
         "en": "ENEMIES INJURED",
@@ -941,7 +941,7 @@
         "de": "VERLETZTE FEINDE",
         "es": "ENEMIGOS HERIDOS",
         "it": "NEMICI FERITI",
-        "th": ""
+        "th": "ศัตรูที่ได้รับบาดเจ็บ"
       },
       "MissionStat[5]": {
         "en": "ENEMIES KILLED",
@@ -949,7 +949,7 @@
         "de": "GETÖTETE FEINDE",
         "es": "ENEMIGOS ASESINADOS",
         "it": "NEMICI UCCISI",
-        "th": ""
+        "th": "ศัตรูที่ถูกสังหาร"
       },
       "MissionStat[6]": {
         "en": "CIVILIANS KNOCKED OUT",
@@ -957,7 +957,7 @@
         "de": "BEWUSSTLOSE ZIVILISTEN",
         "es": "CIVILES NEUTRALIZADOS",
         "it": "CIVILI FUORI COMBATTIMENTO",
-        "th": ""
+        "th": "พลเรือนที่ถูกทำให้สลบ"
       },
       "MissionStat[7]": {
         "en": "CIVILIANS INJURED",
@@ -965,7 +965,7 @@
         "de": "VERLETZTE ZIVILISTEN",
         "es": "CIVILES HERIDOS",
         "it": "CIVILI FERITI",
-        "th": ""
+        "th": "พลเรือนที่ได้รับบาดเจ็บ"
       },
       "MissionStat[8]": {
         "en": "CIVILIANS KILLED",
@@ -973,7 +973,7 @@
         "de": "GETÖTETE ZIVILISTEN",
         "es": "CIVILES ASESINADOS",
         "it": "CIVILI UCCISI",
-        "th": ""
+        "th": "พลเรือนที่ถูกสังหาร"
       },
       "MissionStat[9]": {
         "en": "BODIES FOUND",
@@ -981,7 +981,7 @@
         "de": "GEFUNDENE KÖRPER",
         "es": "CUERPOS ENCONTRADOS",
         "it": "CORPI TROVATI",
-        "th": ""
+        "th": "ศพที่ถูกพบ"
       },
       "MissionStat[10]": {
         "en": "ALARMS TRIGGERED",
@@ -989,7 +989,7 @@
         "de": "AUSGELÖSTE ALARME",
         "es": "ALARMAS ACTIVADAS",
         "it": "ALLARMI ATTIVATE",
-        "th": ""
+        "th": "สัญญาณเตือนภัยที่ดังขึ้น"
       },
       "MissionStat[11]": {
         "en": "NUMBER OF SAVES USED",
@@ -997,7 +997,7 @@
         "de": "ANZAHL DER GESPEICHERTEN SPIELSTÄNDE",
         "es": "PARTIDAS GUARDADAS USADAS",
         "it": "NUMERO DI SALVATAGGI",
-        "th": ""
+        "th": "จำนวนครั้งที่บันทึกเกม"
       },
       "MissionStat[12]": {
         "en": "CONTINUES USED",
@@ -1005,7 +1005,7 @@
         "de": "ANZAHL DER BENUTZTEN \"CONTINUES\"",
         "es": "CONTINÚA USADO",
         "it": "NUMERO DI CONTINUA",
-        "th": ""
+        "th": "จำนวนครั้งที่เล่นต่อ"
       }
     }
   }

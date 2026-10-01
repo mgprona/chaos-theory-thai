@@ -198,6 +198,71 @@ class TestTranslationsJSON(unittest.TestCase):
 
         self.assertGreater(total_strings, 8000)
 
+    def test_hud_translations_complete_and_cp874(self):
+        hud_path = PROJECT_ROOT / "data" / "translations" / "ui" / "hud.json"
+        with open(hud_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        count = 0
+        forbidden_chars = {"“", "”", "‘", "’", "…"}  # standard ASCII or periods should be used
+        for sec, sdict in data["sections"].items():
+            for k, v in sdict.items():
+                if k.startswith("_"):
+                    continue
+                th = v.get("th", "")
+                self.assertTrue(th, f"Missing Thai translation for HUD {sec}/{k}")
+                for fc in ["“", "”", "‘", "’"]:
+                    self.assertNotIn(fc, th, f"Curly quote found in HUD {sec}/{k}: {th}")
+                raw_bytes = th.encode("cp874")
+                for b in raw_bytes:
+                    self.assertTrue(b < 128 or (161 <= b <= 251), f"Byte {b} out of range in HUD {sec}/{k}: {th}")
+                count += 1
+        self.assertEqual(count, 135)
+        # Canonical terminology checks
+        self.assertEqual(data["sections"]["Interaction"]["DoorOpen"]["th"], "เปิดประตู")
+        self.assertEqual(data["sections"]["Interaction"]["DoorPick"]["th"], "สะเดาะกลอน")
+        self.assertEqual(data["sections"]["Interaction"]["NpcZone0"]["th"], "จับตัว")
+        self.assertEqual(data["sections"]["Interaction"]["NpcZone2"]["th"], "เค้นข้อมูล")
+        self.assertEqual(data["sections"]["Interaction"]["NpcZone5"]["th"], "ข้ามบทสนทนา")
+        self.assertEqual(data["sections"]["Interaction"]["Bomb"]["th"], "กู้ระเบิด")
+        self.assertEqual(data["sections"]["Interaction"]["C4"]["th"], "ติดตั้ง C4")
+        self.assertEqual(data["sections"]["Transmission"]["DoorLock"]["th"], "ประตูล็อก")
+        self.assertEqual(data["sections"]["Transmission"]["DoorJam"]["th"], "กลอนติดขัด")
+        self.assertEqual(data["sections"]["Transmission"]["BodyFound"]["th"], "พบศพ... ระดับสัญญาณเตือนภัยเพิ่มขึ้น")
+
+    def test_ingame_menus_translations_complete_and_cp874(self):
+        menus_path = PROJECT_ROOT / "data" / "translations" / "ui" / "ingame_menus.json"
+        with open(menus_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        count = 0
+        for sec, sdict in data["sections"].items():
+            for k, v in sdict.items():
+                if k.startswith("_"):
+                    continue
+                th = v.get("th", "")
+                self.assertTrue(th, f"Missing Thai translation for InGameMenus {sec}/{k}")
+                for fc in ["“", "”", "‘", "’"]:
+                    self.assertNotIn(fc, th, f"Curly quote found in InGameMenus {sec}/{k}: {th}")
+                raw_bytes = th.encode("cp874")
+                for b in raw_bytes:
+                    self.assertTrue(b < 128 or (161 <= b <= 251), f"Byte {b} out of range in InGameMenus {sec}/{k}: {th}")
+                count += 1
+        self.assertEqual(count, 122)
+        # Canonical terminology checks
+        self.assertEqual(data["sections"]["OPSATMENU"]["GoalType[0]"]["th"], "เป้าหมายหลัก")
+        self.assertEqual(data["sections"]["OPSATMENU"]["GoalType[1]"]["th"], "เป้าหมายรอง")
+        self.assertEqual(data["sections"]["OPSATMENU"]["GoalType[2]"]["th"], "เป้าหมายเสริม")
+        self.assertEqual(data["sections"]["OPSATMENU"]["Goals"]["th"], "เป้าหมาย")
+        self.assertEqual(data["sections"]["OPSATMENU"]["Notes"]["th"], "บันทึก")
+        self.assertEqual(data["sections"]["OPSATMENU"]["Datas"]["th"], "ข้อมูล")
+        self.assertEqual(data["sections"]["OPSATMENU"]["Map"]["th"], "แผนที่")
+        self.assertEqual(data["sections"]["OPSATMENU"]["Equipment"]["th"], "อุปกรณ์")
+        self.assertEqual(data["sections"]["ENDMISSION"]["MissionSuccessMsg"]["th"], "ภารกิจสำเร็จ")
+        self.assertEqual(data["sections"]["ENDMISSION"]["MissionFailedMsg"]["th"], "ภารกิจล้มเหลว")
+        self.assertEqual(data["sections"]["PAUSEMENU"]["PauseNormal"]["th"], "หยุดชั่วคราว")
+        self.assertEqual(data["sections"]["PAUSEMENU"]["ChoiceRetryGame"]["th"], "เริ่มใหม่")
+        self.assertEqual(data["sections"]["PAUSEMENU"]["ChoiceContinueGame"]["th"], "เล่นต่อ")
+        self.assertEqual(data["sections"]["COMPUTER"]["HackingDetail"]["th"], "กระบวนการแฮก")
+
 
 class TestCompiler(unittest.TestCase):
     """Test compiling translations into .int files."""

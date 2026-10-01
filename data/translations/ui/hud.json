@@ -16,7 +16,7 @@
         "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe A",
         "es": "Componente Uno del protocolo antivírico = Suero sanguíneo tipo A.",
         "it": "Componente protocollo antivirale 1 = Siero di sangue tipo A.",
-        "th": ""
+        "th": "โพรโทคอลต้านไวรัส ส่วนประกอบที่หนึ่ง = เซรั่มเลือดกลุ่ม A"
       },
       "BloodTypeB": {
         "en": "Anti-viral protocol Component One = Blood Serum Type B.",
@@ -24,7 +24,7 @@
         "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe B",
         "es": "Componente Uno del protocolo antivírico = Suero sanguíneo tipo B.",
         "it": "Componente protocollo antivirale 1 = Siero di sangue tipo B.",
-        "th": ""
+        "th": "โพรโทคอลต้านไวรัส ส่วนประกอบที่หนึ่ง = เซรั่มเลือดกลุ่ม B"
       },
       "BloodTypeO": {
         "en": "Anti-viral protocol Component One = Blood Serum Type O.",
@@ -32,7 +32,7 @@
         "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe 0",
         "es": "Componente Uno del protocolo antivírico = Suero sanguíneo tipo O.",
         "it": "Componente protocollo antivirale 1 = Siero di sangue tipo 0.",
-        "th": ""
+        "th": "โพรโทคอลต้านไวรัส ส่วนประกอบที่หนึ่ง = เซรั่มเลือดกลุ่ม O"
       },
       "FormulaPlayerA": {
         "en": "Anti-viral protocol User A = ",
@@ -40,7 +40,7 @@
         "de": "Antiviren-Protokoll Benutzer Eins = ",
         "es": "Usuario Uno del protocolo antivírico = ",
         "it": "Protocollo antivirale utente 1 = ",
-        "th": ""
+        "th": "โพรโทคอลต้านไวรัส ผู้ใช้ A = "
       },
       "FormulaPlayerB": {
         "en": "Anti-viral protocol User B = ",
@@ -48,7 +48,7 @@
         "de": "Antiviren-Protokoll Benutzer Zwei = ",
         "es": "Usuario Dos del protocolo antivírico = ",
         "it": "Protocollo antivirale utente 2 = ",
-        "th": ""
+        "th": "โพรโทคอลต้านไวรัส ผู้ใช้ B = "
       },
       "CryoColorBlue": {
         "en": "D Blue",
@@ -56,7 +56,7 @@
         "de": "D Blau",
         "es": "D Azul",
         "it": "D Blu",
-        "th": ""
+        "th": "D น้ำเงิน"
       },
       "CryoColorRed": {
         "en": "B Red",
@@ -64,7 +64,7 @@
         "de": "B Rot",
         "es": "B Rojo",
         "it": "B Rosso",
-        "th": ""
+        "th": "B แดง"
       },
       "CryoColorViolet": {
         "en": "C Violet",
@@ -72,7 +72,7 @@
         "de": "C Violett",
         "es": "C Violeta",
         "it": "C Viola",
-        "th": ""
+        "th": "C ม่วง"
       },
       "CryoColorGreen": {
         "en": "A Green",
@@ -80,7 +80,7 @@
         "de": "A Grün",
         "es": "A Verde",
         "it": "A Verde",
-        "th": ""
+        "th": "A เขียว"
       },
       "CryoColorYellow": {
         "en": "E Yellow",
@@ -88,7 +88,7 @@
         "de": "E Gelb",
         "es": "E Amarillo",
         "it": "E Giallo",
-        "th": ""
+        "th": "E เหลือง"
       },
       "CryoColorAqua": {
         "en": "F Aqua",
@@ -96,7 +96,7 @@
         "de": "F Aquamarin",
         "es": "F Agua",
         "it": "F Acqua",
-        "th": ""
+        "th": "F ฟ้าน้ำทะเล"
       },
       "CryoColorError": {
         "en": "ERROR",
@@ -104,7 +104,7 @@
         "de": "FEHLER",
         "es": "ERROR",
         "it": "ERRORE",
-        "th": ""
+        "th": "ผิดพลาด"
       }
     },
     "Transmission": {
@@ -115,7 +115,7 @@
         "de": "Aufheben",
         "es": "recogido",
         "it": "raccolto",
-        "th": ""
+        "th": " ถูกเก็บแล้ว"
       },
       "NoPickUp": {
         "en": "You are carrying too many ",
@@ -123,7 +123,7 @@
         "de": "Sie tragen zu viele ",
         "es": "No puedes llevar más  ",
         "it": "Non puoi prendere più ",
-        "th": ""
+        "th": "คุณพกพามากเกินไป: "
       },
       "SatchelFind": {
         "en": " recovered from satchel",
@@ -131,7 +131,7 @@
         "de": "vom Ranzen geborgen",
         "es": "recuperado de la mochila",
         "it": "preso dalla borsa",
-        "th": ""
+        "th": " เก็บได้จากกระเป๋าอุปกรณ์"
       },
       "BodyFound": {
         "en": "A Body was found...Alarm stage increased",
@@ -139,7 +139,7 @@
         "de": "Körper gefunden ... Alarmstufe erhöht",
         "es": "Han encontrado un cuerpo... Aumenta el nivel de alarma.",
         "it": "È stato trovato un corpo... Livello di allarme aumentato",
-        "th": ""
+        "th": "พบศพ... ระดับสัญญาณเตือนภัยเพิ่มขึ้น"
       },
       "ComputerPickUp": {
         "en": "Data stick picked up from computer",
@@ -147,7 +147,7 @@
         "de": "Datenstick aus Computer entnommen",
         "es": "Tarjeta de memoria recogida del ordenador.",
         "it": "Data stick prelevato dal computer",
-        "th": ""
+        "th": "เก็บแผ่นข้อมูลจากคอมพิวเตอร์แล้ว"
       },
       "DoorLock": {
         "en": "Door locked",
@@ -155,7 +155,7 @@
         "de": "Tür abgeschlossen",
         "es": "Puerta bloqueada",
         "it": "Porta chiusa",
-        "th": ""
+        "th": "ประตูล็อก"
       },
       "DoorJam": {
         "en": "Lock jammed",
@@ -163,7 +163,7 @@
         "de": "Schloss verklemmt",
         "es": "Cierre interferido",
         "it": "Serratura bloccata",
-        "th": ""
+        "th": "กลอนติดขัด"
       },
       "DoorPick": {
         "en": "Door picked",
@@ -171,7 +171,7 @@
         "de": "Türschloss geknackt",
         "es": "Cerradura forzada",
         "it": "Porta forzata",
-        "th": ""
+        "th": "สะเดาะกลอนประตูแล้ว"
       },
       "ElevatorPower": {
         "en": "Elevator not powered",
@@ -179,7 +179,7 @@
         "de": "Aufzug ist ohne Strom",
         "es": "Ascensor sin corriente",
         "it": "Ascensore spento",
-        "th": ""
+        "th": "ลิฟต์ไม่มีกระแสไฟ"
       },
       "MedKitNotUsed": {
         "en": "Already at full health",
@@ -187,7 +187,7 @@
         "de": "Lebensenergie voll",
         "es": "Tienes el máximo de salud",
         "it": "Salute al massimo",
-        "th": ""
+        "th": "พลังชีวิตเต็มอยู่แล้ว"
       },
       "MedKitUsed": {
         "en": "Medkit used. Recovering health points",
@@ -195,7 +195,7 @@
         "de": "Medi-Kit benutzt. Lebensenergie wird wieder aufgeladen",
         "es": "Botiquín usado. Recuperando puntos de salud...",
         "it": "Salute recuperata usando il medikit",
-        "th": ""
+        "th": "ใช้ชุดปฐมพยาบาลแล้ว กำลังฟื้นฟูพลังชีวิต"
       }
     },
     "Interaction": {
@@ -206,7 +206,7 @@
         "de": "Zurück zum Spiel...",
         "es": "SEGUIR JUGANDO",
         "it": "Torna alla partita...",
-        "th": ""
+        "th": "กลับสู่เกม..."
       },
       "Abort": {
         "en": "Abort",
@@ -214,7 +214,7 @@
         "de": "Abbrechen",
         "es": "Abortar",
         "it": "Annulla",
-        "th": ""
+        "th": "ยกเลิก"
       },
       "Alarm": {
         "en": "Use alarm",
@@ -222,7 +222,7 @@
         "de": "Alarm benutzen",
         "es": "Usar alarma",
         "it": "Usa l'allarme",
-        "th": ""
+        "th": "เปิดสัญญาณเตือนภัย"
       },
       "Bomb": {
         "en": "Defuse bomb",
@@ -230,7 +230,7 @@
         "de": "Bombe entschärfen",
         "es": "Desarmar bomba",
         "it": "Disinnesca la bomba",
-        "th": ""
+        "th": "กู้ระเบิด"
       },
       "C4": {
         "en": "Place C4",
@@ -238,7 +238,7 @@
         "de": "C4 platzieren",
         "es": "Colocar C4",
         "it": "Piazza il C4",
-        "th": ""
+        "th": "ติดตั้ง C4"
       },
       "CallElevator": {
         "en": "Call Elevator",
@@ -246,7 +246,7 @@
         "de": "Aufzug rufen",
         "es": "Llamar al ascensor",
         "it": "Chiama ascensore",
-        "th": ""
+        "th": "เรียกลิฟต์"
       },
       "ChargePlace": {
         "en": "Place Charge",
@@ -254,7 +254,7 @@
         "de": "Sprengladg platzieren",
         "es": "Colocar carga",
         "it": "Piazza la carica",
-        "th": ""
+        "th": "ติดตั้งระเบิด"
       },
       "ChargeDetonate": {
         "en": "Detonate Charge",
@@ -262,7 +262,7 @@
         "de": "Sprengladung zünden",
         "es": "Detonar carga",
         "it": "Fai saltare la carica",
-        "th": ""
+        "th": "จุดชนวนระเบิด"
       },
       "Computer": {
         "en": "Use Computer",
@@ -270,7 +270,7 @@
         "de": "Computer benutzen",
         "es": "Usar ordenador",
         "it": "Usa il computer",
-        "th": ""
+        "th": "ใช้งานคอมพิวเตอร์"
       },
       "ComputerBoot": {
         "en": "Boot Computer",
@@ -278,7 +278,7 @@
         "de": "Computer starten",
         "es": "Encender ordenador",
         "it": "Accendi il computer",
-        "th": ""
+        "th": "เปิดเครื่องคอมพิวเตอร์"
       },
       "ComputerShut": {
         "en": "Shutdown Computer",
@@ -286,7 +286,7 @@
         "de": "Computer abschalten",
         "es": "Apagar ordenador",
         "it": "Spegni il computer",
-        "th": ""
+        "th": "ปิดคอมพิวเตอร์"
       },
       "Crane": {
         "en": "Use Crane",
@@ -294,7 +294,7 @@
         "de": "Kran benutzen",
         "es": "Usar grúa",
         "it": "Usa la gru",
-        "th": ""
+        "th": "ใช้งานเครน"
       },
       "Cryo": {
         "en": "Use Cryo Tank",
@@ -302,7 +302,7 @@
         "de": "Cryo-Behälter benutz.",
         "es": "Usar criotanque",
         "it": "Usa la vasca crio.",
-        "th": ""
+        "th": "ใช้งานถังไครโอ"
       },
       "CryoComm": {
         "en": "Crane instructions",
@@ -310,7 +310,7 @@
         "de": "Anweisungen durchgeb",
         "es": "COMUNICAR INSTRUC.",
         "it": "Comunica istruzioni",
-        "th": ""
+        "th": "แจ้งคำสั่งเครน"
       },
       "Cuffs": {
         "en": "Pick Cuffs",
@@ -318,7 +318,7 @@
         "de": "Handschellen knacken",
         "es": "Usar botones",
         "it": "Prendi le manette",
-        "th": ""
+        "th": "สะเดาะกุญแจมือ"
       },
       "Defuse": {
         "en": "Defuse",
@@ -326,7 +326,7 @@
         "de": "Entschärfen",
         "es": "Desarmar",
         "it": "Disinnesca",
-        "th": ""
+        "th": "ปลดชนวน"
       },
       "DoorOpen": {
         "en": "Open door",
@@ -334,7 +334,7 @@
         "de": "Tür öffnen",
         "es": "Abrir puerta",
         "it": "Apri la porta",
-        "th": ""
+        "th": "เปิดประตู"
       },
       "DoorStealth": {
         "en": "Open Door Stealth",
@@ -342,7 +342,7 @@
         "de": "Tür leise öffnen",
         "es": "Abrir con sigilo",
         "it": "Apri piano la porta",
-        "th": ""
+        "th": "เปิดประตูแบบเงียบ"
       },
       "DoorBash": {
         "en": "Bash Door",
@@ -350,7 +350,7 @@
         "de": "Tür aufbrechen",
         "es": "Romper puerta",
         "it": "Sfonda la porta",
-        "th": ""
+        "th": "กระแทกประตู"
       },
       "DoorBreak": {
         "en": "Break Lock",
@@ -358,7 +358,7 @@
         "de": "Schloss aufbrechen",
         "es": "Romper cierre",
         "it": "Rompi la serratura",
-        "th": ""
+        "th": "พังกลอน"
       },
       "DoorClose": {
         "en": "Close Door",
@@ -366,7 +366,7 @@
         "de": "Tür schlieSSen",
         "es": "Cerrar puerta",
         "it": "Chiudi la porta",
-        "th": ""
+        "th": "ปิดประตู"
       },
       "DoorPick": {
         "en": "Pick Lock",
@@ -374,7 +374,7 @@
         "de": "Schloss knacken",
         "es": "Forzar cerradura",
         "it": "Forza la serratura",
-        "th": ""
+        "th": "สะเดาะกลอน"
       },
       "DoorOptic": {
         "en": "Optic Cable",
@@ -382,7 +382,7 @@
         "de": "Optisches Kabel",
         "es": "Cable óptico",
         "it": "Cavo ottico",
-        "th": ""
+        "th": "กล้องสายเคเบิล"
       },
       "DoorSlideOpen": {
         "en": "Slide Open",
@@ -390,7 +390,7 @@
         "de": "Aufschieben",
         "es": "ABRIR PUERTA",
         "it": "Apri a scorrimento",
-        "th": ""
+        "th": "เลื่อนเปิด"
       },
       "DoorSlideClose": {
         "en": "Slide Closed",
@@ -398,7 +398,7 @@
         "de": "LANGSAM SCHLIESSEN",
         "es": "CERRAR PUERTA",
         "it": "CHIUSARA A SCIVOLO",
-        "th": ""
+        "th": "เลื่อนปิด"
       },
       "Elevator": {
         "en": "Use Elevator",
@@ -406,7 +406,7 @@
         "de": "Aufzug benutzen",
         "es": "Usar ascensor",
         "it": "Usa l'ascensore",
-        "th": ""
+        "th": "ใช้งานลิฟต์"
       },
       "Extraction": {
         "en": "Extraction",
@@ -414,7 +414,7 @@
         "de": "Extraktionspunkt",
         "es": "Extracción",
         "it": "Estrazione",
-        "th": ""
+        "th": "ถอนตัว"
       },
       "GeneratorSwitch": {
         "en": "Switch",
@@ -422,7 +422,7 @@
         "de": "Umschalten",
         "es": "Interruptor",
         "it": "Usa l'interruttore",
-        "th": ""
+        "th": "สับสวิตช์"
       },
       "GeneratorPierce": {
         "en": "Pierce",
@@ -430,7 +430,7 @@
         "de": "Durchstechen",
         "es": "Perforar",
         "it": "Fora",
-        "th": ""
+        "th": "เจาะ"
       },
       "HotWire": {
         "en": "Bypass Circuit",
@@ -438,7 +438,7 @@
         "de": "Stromkreis überbrücken",
         "es": "Circuito auxiliar",
         "it": "Bypassa il circuito",
-        "th": ""
+        "th": "ลัดวงจร"
       },
       "KeyPad": {
         "en": "Use KeyPad",
@@ -446,7 +446,7 @@
         "de": "Codeschloss benutzen",
         "es": "Usar teclado",
         "it": "Usa il tastierino",
-        "th": ""
+        "th": "ใช้แป้นรหัส"
       },
       "KeyPadHack": {
         "en": "Hack Keypad",
@@ -454,7 +454,7 @@
         "de": "Codeschloss hacken",
         "es": "Hackear teclado",
         "it": "Forza il tastierino",
-        "th": ""
+        "th": "แฮกแป้นรหัส"
       },
       "MedKit": {
         "en": "Use MedKit",
@@ -462,7 +462,7 @@
         "de": "Medi-Kit benutzen",
         "es": "Usar botiquín",
         "it": "Usa il kit medico",
-        "th": ""
+        "th": "ใช้ชุดปฐมพยาบาล"
       },
       "Mic": {
         "en": "Disable Mic",
@@ -470,7 +470,7 @@
         "de": "Mikrofon deaktivieren",
         "es": "Desactivar micrófono",
         "it": "Disattiva il microfono",
-        "th": ""
+        "th": "ปิดไมโครโฟน"
       },
       "Missile": {
         "en": "Deactivate Missile",
@@ -478,7 +478,7 @@
         "de": "Rakete deaktivieren",
         "es": "Desactivar misil",
         "it": "Disattiva il missile",
-        "th": ""
+        "th": "ปิดการทำงานขีปนาวุธ"
       },
       "Morgenhault": {
         "en": "Free Morgenholt",
@@ -486,7 +486,7 @@
         "de": "Morgenholt befreien",
         "es": "Liberar a Morgenholt",
         "it": "Libera Morgenholt",
-        "th": ""
+        "th": "ช่วยมอร์เกนโฮลต์"
       },
       "NpcZone0": {
         "en": "Grab",
@@ -494,7 +494,7 @@
         "de": "Überwältigen",
         "es": "Agarrar",
         "it": "Afferra",
-        "th": ""
+        "th": "จับตัว"
       },
       "NpcZone1": {
         "en": "Grab character",
@@ -502,7 +502,7 @@
         "de": "Charakter überwältig",
         "es": "Sujetar al personaje",
         "it": "Afferra il personaggio",
-        "th": ""
+        "th": "จับตัว"
       },
       "NpcZone2": {
         "en": "Interrogate",
@@ -510,7 +510,7 @@
         "de": "Verhören",
         "es": "Interrogar",
         "it": "Interroga",
-        "th": ""
+        "th": "เค้นข้อมูล"
       },
       "NpcZone3": {
         "en": "Talk to",
@@ -518,7 +518,7 @@
         "de": "Reden mit",
         "es": "Hablar",
         "it": "Parla con",
-        "th": ""
+        "th": "พูดคุย"
       },
       "NpcZone4": {
         "en": "...",
@@ -526,7 +526,7 @@
         "de": "...",
         "es": "...",
         "it": "...",
-        "th": ""
+        "th": "..."
       },
       "NpcZone5": {
         "en": "FWD comm",
@@ -534,7 +534,7 @@
         "de": "FWD-Komm",
         "es": "Omitir Diálogo",
         "it": "Inoltra comunicazioni",
-        "th": ""
+        "th": "ข้ามบทสนทนา"
       },
       "NpcZone6": {
         "en": "body",
@@ -542,7 +542,7 @@
         "de": "Körper",
         "es": "cuerpo",
         "it": "Corpo",
-        "th": ""
+        "th": "ร่าง"
       },
       "Otomo": {
         "en": "Save Otomo",
@@ -550,7 +550,7 @@
         "de": "Otomo retten",
         "es": "Salvar a Otomo",
         "it": "Salva Otomo",
-        "th": ""
+        "th": "ช่วยโอโตโมะ"
       },
       "Pickup": {
         "en": "Pickup",
@@ -558,7 +558,7 @@
         "de": "Aufheben",
         "es": "Recoger",
         "it": "Prendi",
-        "th": ""
+        "th": "เก็บ"
       },
       "Pierce": {
         "en": "Pierce",
@@ -566,7 +566,7 @@
         "de": "Durchstechen",
         "es": "Perforar",
         "it": "Fora",
-        "th": ""
+        "th": "เจาะ"
       },
       "Pump": {
         "en": "Activate Pumps",
@@ -574,7 +574,7 @@
         "de": "Pumpe aktivieren",
         "es": "Activar bombas",
         "it": "Attiva le pompe",
-        "th": ""
+        "th": "เปิดปั๊ม"
       },
       "Rappel": {
         "en": "Rappel on wall",
@@ -582,7 +582,7 @@
         "de": "An Wand abseilen",
         "es": "rápel en la pared",
         "it": "Scala il muro",
-        "th": ""
+        "th": "โรยตัวบนกำแพง"
       },
       "RetSafe": {
         "en": "Use retinal safe",
@@ -590,7 +590,7 @@
         "de": "Retina-Safe benutzen",
         "es": "Usar sistema de retina",
         "it": "Usa la cassaforte retinica",
-        "th": ""
+        "th": "ใช้ตู้เซฟสแกนม่านตา"
       },
       "RetScan": {
         "en": "Use Retinal Scanner",
@@ -598,7 +598,7 @@
         "de": "Retina-Scan. benutzen",
         "es": "Usar escáner de retina",
         "it": "Usa lo scanner retinico",
-        "th": ""
+        "th": "ใช้เครื่องสแกนม่านตา"
       },
       "RetScanHack": {
         "en": "Hack Retinal Scanner",
@@ -606,7 +606,7 @@
         "de": "Retina-Scanner hacken",
         "es": "Hackear escáner retina",
         "it": "Forza scanner retinico",
-        "th": ""
+        "th": "แฮกเครื่องสแกนม่านตา"
       },
       "SearchCabinet": {
         "en": "Search Cabinet",
@@ -614,7 +614,7 @@
         "de": "Schrank durchsuchen",
         "es": "Buscar en la vitrina",
         "it": "Esamina",
-        "th": ""
+        "th": "ค้นตู้"
       },
       "TapPhone": {
         "en": "Tap Phone Line",
@@ -622,7 +622,7 @@
         "de": "Tel.-Leitung Anzapfen",
         "es": "Pinchar línea telefón.",
         "it": "Metti spia sulla linea",
-        "th": ""
+        "th": "ดักฟังสายโทรศัพท์"
       },
       "TelemetricPlace": {
         "en": "Place Telemetric Pick",
@@ -630,7 +630,7 @@
         "de": "Telmet-Empfgr platzier",
         "es": "Colocar recep. telem.",
         "it": "Metti ricevit. telemet.",
-        "th": ""
+        "th": "ติดตั้งตัวสะเดาะกลอนทางไกล"
       },
       "TelemetricPick": {
         "en": "Pick Lock",
@@ -638,7 +638,7 @@
         "de": "Schloss knacken",
         "es": "Forzar cerradura",
         "it": "Forza la serratura",
-        "th": ""
+        "th": "สะเดาะกลอน"
       },
       "Trap": {
         "en": "Open Trap",
@@ -646,7 +646,7 @@
         "de": "FALLTÜRE ÖFFNEN",
         "es": "Abrir trampilla",
         "it": "Apri la botola",
-        "th": ""
+        "th": "เปิดประตูกล"
       },
       "TrapPick": {
         "en": "Pick Trap",
@@ -654,7 +654,7 @@
         "de": "Falle entschärfen",
         "es": "Forzar trampilla",
         "it": "Forza la botola",
-        "th": ""
+        "th": "สะเดาะกลอนประตูกล"
       },
       "TrapOptic": {
         "en": "Optic Cable",
@@ -662,7 +662,7 @@
         "de": "Optisches Kabel",
         "es": "Cable óptico",
         "it": "Cavo ottico",
-        "th": ""
+        "th": "กล้องสายเคเบิล"
       },
       "TurretActDeact": {
         "en": "Activate/Deactivate",
@@ -670,7 +670,7 @@
         "de": "Aktivieren/Deaktivier",
         "es": "Activar/desactivar",
         "it": "Attiva/disattiva",
-        "th": ""
+        "th": "เปิด/ปิดการทำงาน"
       },
       "TurretHack": {
         "en": "Hack Turret",
@@ -678,7 +678,7 @@
         "de": "Auto-Kanone hacken",
         "es": "Hackear torreta",
         "it": "Sabota la torretta",
-        "th": ""
+        "th": "แฮกป้อมปืน"
       },
       "TurretIFFOn": {
         "en": "Toggle On I.F.F.",
@@ -686,7 +686,7 @@
         "de": "IFF einschalten",
         "es": "Desactivar CFA",
         "it": "Accendi I.F.F.",
-        "th": ""
+        "th": "เปิดระบบ I.F.F."
       },
       "TurretIFFOff": {
         "en": "Toggle Off I.F.F.",
@@ -694,7 +694,7 @@
         "de": "IFF ausschalten",
         "es": "Activar CFA",
         "it": "Spegni I.F.F.",
-        "th": ""
+        "th": "ปิดระบบ I.F.F."
       },
       "Switch": {
         "en": "Switch object",
@@ -702,7 +702,7 @@
         "de": "Objekt wechseln",
         "es": "Prender/Apagar",
         "it": "Accendi/spegni",
-        "th": ""
+        "th": "เปิด/ปิดสวิตช์"
       },
       "Turret": {
         "en": "Interact with Turret",
@@ -710,7 +710,7 @@
         "de": "Mit Geschützturm interagieren",
         "es": "Controlar torreta",
         "it": "Interagisci con la torretta",
-        "th": ""
+        "th": "ควบคุมป้อมปืน"
       },
       "WallMine": {
         "en": "Disable Wallmine",
@@ -718,7 +718,7 @@
         "de": "Haftmine entschärfen",
         "es": "Sacar mina de pared",
         "it": "Disinnesca la mina",
-        "th": ""
+        "th": "ปลดกับระเบิดติดผนัง"
       },
       "Window": {
         "en": "Slide Open",
@@ -726,7 +726,7 @@
         "de": "Aufschieben",
         "es": "ABRIR PUERTA",
         "it": "Apri a scorrimento",
-        "th": ""
+        "th": "เลื่อนเปิด"
       },
       "BugPhone": {
         "en": "Bug Phone",
@@ -734,7 +734,7 @@
         "de": "Telefon verwanzen",
         "es": "Pinchar teléfono",
         "it": "Metti una spia",
-        "th": ""
+        "th": "ดักฟังโทรศัพท์"
       },
       "BlowCandle": {
         "en": "Blow Candle",
@@ -742,7 +742,7 @@
         "de": "Kerze ausblasen",
         "es": "Apagar vela",
         "it": "Spegni la candela",
-        "th": ""
+        "th": "เป่าเทียน"
       },
       "Grabequipment": {
         "en": "Grab equipment",
@@ -750,7 +750,7 @@
         "de": "Ausrüstung nehmen",
         "es": "Coger equipamiento",
         "it": "Prendi le attrezzature",
-        "th": ""
+        "th": "หยิบอุปกรณ์"
       },
       "Detach": {
         "en": "Detach",
@@ -758,7 +758,7 @@
         "de": "Ablösen",
         "es": "Desatar",
         "it": "Scollega",
-        "th": ""
+        "th": "ปลดออก"
       },
       "PlaceTracker": {
         "en": "Place Tracker",
@@ -766,7 +766,7 @@
         "de": "Peilsender platzieren",
         "es": "Colocar rastreador",
         "it": "Piazza una spia",
-        "th": ""
+        "th": "ติดเครื่องติดตาม"
       },
       "TurnValve": {
         "en": "Turn Valve",
@@ -774,7 +774,7 @@
         "de": "Ventil drehen",
         "es": "Girar válvula",
         "it": "Gira la valvola",
-        "th": ""
+        "th": "หมุนวาล์ว"
       },
       "GrabontoRope": {
         "en": "Grab Onto Rope",
@@ -782,7 +782,7 @@
         "de": "Seil ergreifen",
         "es": "Agarrarse a la cuerda",
         "it": "Afferra la corda",
-        "th": ""
+        "th": "คว้าเชือก"
       },
       "EnterCrawlSpace": {
         "en": "Enter Crawl Space",
@@ -790,7 +790,7 @@
         "de": "In Kriechtunnel steigen",
         "es": "Entrar a gatas",
         "it": "Entra strisciando",
-        "th": ""
+        "th": "มุดเข้าช่องแคบ"
       },
       "ExitFront": {
         "en": "Exit Front",
@@ -798,7 +798,7 @@
         "de": "Vorne herausgehen",
         "es": "Salir por delante",
         "it": "Uscita anteriore",
-        "th": ""
+        "th": "ออกด้านหน้า"
       },
       "ExitBack": {
         "en": "Exit Back",
@@ -806,7 +806,7 @@
         "de": "Hinten herausgehen",
         "es": "Salir por atrás",
         "it": "Uscita posteriore",
-        "th": ""
+        "th": "ออกด้านหลัง"
       },
       "Hackwire": {
         "en": "Tap Camera",
@@ -814,7 +814,7 @@
         "de": "Kamera anzapfen",
         "es": "Interceptar cámara",
         "it": "TELECAM. SOTTO CONTR.",
-        "th": ""
+        "th": "ดักสัญญาณกล้อง"
       },
       "ClimbUp": {
         "en": "Climb Up",
@@ -822,7 +822,7 @@
         "de": "Hochklettern",
         "es": "Subir",
         "it": "Sali",
-        "th": ""
+        "th": "ปีนขึ้น"
       },
       "CutMaterial": {
         "en": "Cut Material",
@@ -830,7 +830,7 @@
         "de": "Material zerschneiden",
         "es": "Cortar material",
         "it": "Taglia il materiale",
-        "th": ""
+        "th": "ตัดวัสดุ"
       },
       "TakeAntidote": {
         "en": "Take Antidote",
@@ -838,7 +838,7 @@
         "de": "Gegengift nehmen",
         "es": "Tomar antídoto",
         "it": "Prendi l'antidoto",
-        "th": ""
+        "th": "ใช้ยาแก้พิษ"
       },
       "Initrappelling": {
         "en": "Init rappelling",
@@ -846,7 +846,7 @@
         "de": "Abseilen einleiten",
         "es": "Iniciar bajada en rápel",
         "it": "Inizia la scalata",
-        "th": ""
+        "th": "เริ่มโรยตัวคู่"
       },
       "Completerappelling": {
         "en": "Complete rappelling",
@@ -854,7 +854,7 @@
         "de": "Abseilen",
         "es": "Compl. bajada en rápel",
         "it": "Completa la scalata",
-        "th": ""
+        "th": "ร่วมโรยตัวคู่"
       },
       "InitHangover": {
         "en": "Init Hangover",
@@ -862,7 +862,7 @@
         "de": "Überhängen einleiten",
         "es": "Iniciar colgarse",
         "it": "Inizia la presa",
-        "th": ""
+        "th": "เริ่มโหนตัวกลับหัว"
       },
       "CompleteHangover": {
         "en": "Complete Hangover",
@@ -870,7 +870,7 @@
         "de": "ÜBERHÄNGEN DURCHFÜHR",
         "es": "COMPLETAR COLGARSE",
         "it": "COMPLETA LA PRESA",
-        "th": ""
+        "th": "ร่วมโหนตัวกลับหัว"
       },
       "InitClimbShoulder": {
         "en": "Init Climb Shoulder",
@@ -878,7 +878,7 @@
         "de": "Auf Schult. klet. einl.",
         "es": "Iniciar subir a hombros",
         "it": "Inizia l'appoggio",
-        "th": ""
+        "th": "เริ่มปีนเหยียบไหล่"
       },
       "CompleteClimbShoulder": {
         "en": "Complete Climb On",
@@ -886,7 +886,7 @@
         "de": "Auf Schultern klettern",
         "es": "Comp. subir a hombros",
         "it": "Completa l'appoggio",
-        "th": ""
+        "th": "เหยียบไหล่ปีนขึ้น"
       },
       "Initlongjump": {
         "en": "Init long jump",
@@ -894,7 +894,7 @@
         "de": "Weiten Sprung einleiten",
         "es": "Iniciar salto largo",
         "it": "Inizia il salto lungo",
-        "th": ""
+        "th": "เริ่มกระโดดระยะไกล"
       },
       "Completelongjump": {
         "en": "Complete long jump",
@@ -902,7 +902,7 @@
         "de": "WEITEN SPRUNG DURCHFÜHREN",
         "es": "COMPLETAR SALTO LARGO",
         "it": "COMPLETA IL SALTO LUNGO",
-        "th": ""
+        "th": "ร่วมกระโดดระยะไกล"
       },
       "ShareView": {
         "en": "Accept View Sharing",
@@ -910,7 +910,7 @@
         "de": "GETEILTE SICHT AKZEPT.",
         "es": "Aceptar vista compart.",
         "it": "ACCETTA COND. VISUALE",
-        "th": ""
+        "th": "ยอมรับการแชร์มุมมอง"
       },
       "AltComm": {
         "en": "Sync Action",
@@ -918,7 +918,7 @@
         "de": "Synchro-Aktion",
         "es": "Acción sincronizada",
         "it": "Azione sincronizzata",
-        "th": ""
+        "th": "ประสานปฏิบัติการ"
       },
       "CoopShare": {
         "en": "Share Equip.",
@@ -926,7 +926,7 @@
         "de": "Ausrüstung teilen",
         "es": "Compartir equipo",
         "it": "Condividi attrezzatura",
-        "th": ""
+        "th": "แบ่งปันอุปกรณ์"
       },
       "CoopRevive": {
         "en": "Heal Teammate",
@@ -934,7 +934,7 @@
         "de": "Spieler wieder beleben",
         "es": "Reanimar compañero",
         "it": "Rianima il giocatore",
-        "th": ""
+        "th": "รักษาเพื่อนร่วมทีม"
       }
     },
     "GameplayObject": {
@@ -945,7 +945,7 @@
         "de": "Objekt",
         "es": "Objeto",
         "it": "Oggetto",
-        "th": ""
+        "th": "วัตถุ"
       },
       "AmmoF2000": {
         "en": "5.56mm Ammo",
@@ -953,7 +953,7 @@
         "de": "5,56mm Munit.",
         "es": "Munición 5.56",
         "it": "Muniz. da 5,56mm",
-        "th": ""
+        "th": "กระสุน 5.56 มม."
       },
       "AmmoFn7": {
         "en": "5.7mm Ammo",
@@ -961,7 +961,7 @@
         "de": "5,7mm Munit.",
         "es": "Munición 5.7",
         "it": "Muniz. da 5,7mm",
-        "th": ""
+        "th": "กระสุน 5.7 มม."
       },
       "AmmoShotgun": {
         "en": "Shells",
@@ -969,7 +969,7 @@
         "de": "Granaten",
         "es": "Cartuchos",
         "it": "Colpi",
-        "th": ""
+        "th": "กระสุนลูกซอง"
       },
       "AmmoSniper": {
         "en": "20mm Ammo",
@@ -977,7 +977,7 @@
         "de": "20-mm-Munition",
         "es": "Munición 20mm",
         "it": "Munizioni 20mm",
-        "th": ""
+        "th": "กระสุน 20 มม."
       },
       "Briefcase": {
         "en": "Briefcase",
@@ -985,7 +985,7 @@
         "de": "Aktenkoffer",
         "es": "Maletín",
         "it": "Valigetta",
-        "th": ""
+        "th": "กระเป๋าเอกสาร"
       },
       "DataStick": {
         "en": "Data stick",
@@ -993,7 +993,7 @@
         "de": "Datastick",
         "es": "Tarjeta memoria",
         "it": "Unità dati",
-        "th": ""
+        "th": "แผ่นข้อมูล"
       },
       "Satchel": {
         "en": "Satchel",
@@ -1001,7 +1001,7 @@
         "de": "Tasche",
         "es": "Explosivos",
         "it": "Borsa",
-        "th": ""
+        "th": "กระเป๋าอุปกรณ์"
       },
       "KeypadDoorCode": {
         "en": "Door code:",
@@ -1009,7 +1009,7 @@
         "de": "Türcode:",
         "es": "Código puerta:",
         "it": "Codice della porta:",
-        "th": ""
+        "th": "รหัสประตู:"
       }
     },
     "Computer": {
@@ -1020,7 +1020,7 @@
         "de": "E-Mail",
         "es": "Email",
         "it": "Email",
-        "th": ""
+        "th": "อีเมล"
       },
       "TypeFile": {
         "en": "File",
@@ -1028,7 +1028,7 @@
         "de": "Datei",
         "es": "Archivo",
         "it": "File",
-        "th": ""
+        "th": "ไฟล์"
       },
       "TypeImage": {
         "en": "Image",
@@ -1036,7 +1036,7 @@
         "de": "Bild",
         "es": "Imagen",
         "it": "Immagine",
-        "th": ""
+        "th": "รูปภาพ"
       },
       "TypeMusic": {
         "en": "Sound",
@@ -1044,7 +1044,7 @@
         "de": "Sound",
         "es": "Sonido",
         "it": "Suono",
-        "th": ""
+        "th": "เสียง"
       },
       "TypeControl": {
         "en": "Camera",
@@ -1052,7 +1052,7 @@
         "de": "Kamera",
         "es": "Cámara",
         "it": "Telecamera",
-        "th": ""
+        "th": "กล้องวงจรปิด"
       },
       "TypeTrigger": {
         "en": "Access",
@@ -1060,7 +1060,7 @@
         "de": "Zugang",
         "es": "Acceso",
         "it": "Accesso",
-        "th": ""
+        "th": "การเข้าถึง"
       },
       "TypeObjective": {
         "en": "Objective",
@@ -1068,7 +1068,7 @@
         "de": "Missionsziel",
         "es": "Objetivo",
         "it": "Obiettivo",
-        "th": ""
+        "th": "เป้าหมาย"
       },
       "EmailFrom": {
         "en": "From: ",
@@ -1076,7 +1076,7 @@
         "de": "Von: ",
         "es": "De: ",
         "it": "Da: ",
-        "th": ""
+        "th": "จาก: "
       },
       "EmailTo": {
         "en": "To: ",
@@ -1084,7 +1084,7 @@
         "de": "An: ",
         "es": "A: ",
         "it": "A: ",
-        "th": ""
+        "th": "ถึง: "
       },
       "EmailDate": {
         "en": "Date: ",
@@ -1092,7 +1092,7 @@
         "de": "Datum: ",
         "es": "Fecha: ",
         "it": "Data: ",
-        "th": ""
+        "th": "วันที่: "
       },
       "EmailSubject": {
         "en": "Subject: ",
@@ -1100,7 +1100,7 @@
         "de": "Betreff: ",
         "es": "Asunto: ",
         "it": "Oggetto: ",
-        "th": ""
+        "th": "หัวข้อ: "
       }
     }
   }
