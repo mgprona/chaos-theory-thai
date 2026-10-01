@@ -1,0 +1,50 @@
+[GENERAL]
+MapName=BATTERIA
+Briefing=INCARICO
+Briefing_LAMBERT=Fisher, so che secondo te il sistema più veloce per risolvere la situazione è cercare Shetland, e forse hai ragione. Purtroppo, la situazione diplomatica attorno al caso Walsh non sta migliorando. Abbiamo meno di ventiquattro ore prima che scoppi una guerra aperta nella penisola coreana. Abbiamo individuato la batteria che ha lanciato il missile contro la Walsh. Se sono sincere le affermazioni dei nordcoreani secondo cui il lancio non era intenzionale, dobbiamo provarlo... e in fretta.
+Briefing_GRIMSDOTTIR=Abbiamo decodificato i dati che hai recuperato dal computer di Zherkezhi a New York. L'algoritmo di Zherkezhi è un'estrapolazione avanzata dei kernel di Masse resa infinitamente più complessa dalla ricorsione attraverso Dvorak. Credo che se potessi accedere al BIOS del lanciamissili della batteria, potrei identificare l'impronta lasciata dall'algoritmo sul sistema.
+Briefing_REDDING=Dovrai effettuare un inserimento HALO in una foresta a due clic a est della batteria. Entrerai nel perimetro di sicurezza della batteria e ti infiltrerai attraverso il condotto di ventilazione principale. La batteria è in servizio più o meno dalla Seconda Guerra Mondiale, ma l'intelligence e il satellite indicano che è stata aggiornata diverse volte. Abbiamo pochi dati sulla locazione... non sappiamo cosa troverai. 
+Briefing_MASSON=Dopo la distruzione della Walsh, la USS Ronald Reagan ha assunto il controllo delle operazioni nel Mar Giallo. La nostra flotta è in allarme rosso. In caso di guerra, siamo pronti a condurre attacchi di precisione contro obiettivi sensibili, mirati a indebolire le difese costiere nordcoreane allo scopo di inserirci dietro le loro linee. Lo spionaggio riferisce che i Coreani cercano lo scontro; bene, è quello che avranno. Chiunque si trovi in quella batteria farà meglio a cercarsi un elmetto e una bibbia.
+Briefing_OTOMO=L'I-SDF giapponese è stato fondamentale per determinare che il missile che ha affondato la Walsh proveniva realmente da questa batteria. Avete il completo supporto di tutti i settori della Forza di Autodifesa Giapponese per determinare la ragione di questa folle mossa da parte degli aggressori coreani. Non abbiamo la possibilità di colpire direttamente la struttura, ma l'I-SDF userà tutti i mezzi a propria disposizione per interferire con la loro operatività nel caso che i nostri grandi alleati americani siano costretti a dichiarare guerra.
+
+[Interaction]
+IntExtract=Estr. sotto la scogliera
+
+[Computer]
+CompOutpostEntrance=Entrata avamposto
+CompWarehouse=Magazzino
+CompPlayMusic=Suona brano casuale
+CompShippingLog=Scarica rapporti consegne
+CompRepairLogs=Scarica rapporti riparazioni
+CompHydraulicCrane=Gru idraulica
+CompLoadingBay=Silo di caricamento
+CompMissileBayEntrance=Ingresso silo missili
+CompAccessCode=Annulla lancio
+CompForklift=Controllo sollevatore
+CompEastMissileBay=Silo missili est
+CompWestMissileBay=Silo missili ovest
+CompCommandCenter=Centro di comando
+CompEastBattery=Batteria est
+CompWestBattery=Batteria ovest
+CompUploadCodes=Scarica codici cancellazione
+CompUploadReport=Scarica rapporto tecnico
+CompScanBios=Esamina BIOS lanciatore
+
+[Email]
+EmailMunitionsBody=Feng, stavo controllando le munizioni consegnate al magazzino e vedo che hai ordinato le NATO 5.56. Non credevo fosse possibile... il problema è che non abbiamo armi con cui usarle. E ora che ci facciamo?
+EmailMunitionsDate=6 luglio 2007
+EmailMunitionsFrom=Ho
+EmailMunitionsSubject=Errore nella consegna delle munizioni
+EmailMunitionsTo=Feng
+
+EmailBloodyBody=Bong, so che hai problemi al naso quando resti sotto terra troppo a lungo, così ho ordinato un altro kit medico e l'ho fatto installare nella stanza di controllo della baia di lancio, nel caso ne avessi bisogno.
+EmailBloodyDate=6 luglio 2007
+EmailBloodyFrom=Chen
+EmailBloodySubject=Sangue dal naso
+EmailBloodyTo=Bong
+
+EmailUndeliverableBody=Il messaggio inviato a Iscritti su questo server è stato bloccato dall'Amministratore.
+EmailUndeliverableDate=6 luglio 2007
+EmailUndeliverableFrom=Amministratore
+EmailUndeliverableSubject=Notizie della WNM - Spedizione fallita
+EmailUndeliverableTo=Utente

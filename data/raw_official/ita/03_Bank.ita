@@ -1,0 +1,71 @@
+[GENERAL]
+MapName=BANCA
+Briefing=INCARICO
+Briefing_LAMBERT=Fisher, le armi di Lacerda sono state comprate da qualcuno che ha usato una banca off shore panamense come intermediario. Voglio dare un'occhiata ai loro registri... sfortunatamente le cose non sono così semplici. Questa operazione non deve sembrare un'azione dell'intelligence americana, quindi per coprirla dovrai scassinare il caveau della banca e portare via dei titoli al portatore... di proprietà del governo francese.
+Briefing_GRIMSDOTTIR=Ieri notte sono entrata sui server della banca, ma non ho trovato molto. Tutte le postazioni hanno driver per dischi plug and play. Probabilmente li rimuovono fisicamente ogni notte. In questo pazzo mondo le intrusioni elettroniche sono temute più di quelle fisiche... Comunque sia, probabilmente i dischi si trovano nel caveau principale, il che significa che non sarà facile procurarseli.
+Briefing_REDDING=Prima le buone notizie. Sei già stato in questa banca. Facevi parte della squadra CIA che è entrata nell'89 alla ricerca dei fondi neri di Noriega. Gran parte delle informazioni che abbiamo sulla banca vengono proprio dalla tua squadra. La brutta notizia è che c'è un sacco di sorveglianza elettronica. Laser, sensori di movimento, porte chiuse a chiave, telecamere, tutto il possibile, e tutto nuovo rispetto all'89... Abbiamo anche contattato uno... ehm... specialista... per aiutarti ad aprire il caveau. Dovresti parlare con lui.
+Briefing_PATRIDGE=Continueremo il nostro percorso verso il Mar Giallo e ti rimanderemo in elicottero a Panama City. Non sono autorizzato ad agire nei confini panamensi, quindi fuori dall'ambasciata agirai sotto copertura. Tu e il tuo compagno sarete soli a Panama.
+Briefing_TURTLE=Senti... non so chi sei nè perchè ti sto aiutando... sempre meglio che guardare il soffitto della cella, comunque. Mi hanno detto che devi lavorare su una Mason Wells 88. Beh, non è un giochetto per una persona sola... ma mi hanno detto che puoi fare il lavoro di cinque uomini. Per me va bene. Ho fatto fare al tuo amico Willy un piccolo deposito per te. Ti serviranno un paio di cose da una cassetta di sicurezza nel caveau più piccolo: le useremo per aprire quello principale.
+
+
+[Interaction]
+IntExfiltrateOverWall=Fuggi dal muro
+IntOpenBox=Apri la cassetta
+IntEnableAccess=Attiva l'accesso
+IntOpenPanel=Apri il pannello
+
+[Computer]
+CompUploadFakeEmail=Carica email false
+CompDeactivateLaserGrid=Disattiva griglia laser
+CompPanamaCanalAdmFiles=File ammin. Canale di Panama
+CompMCASTransactionFiles=File transazioni MCAS
+CompActivateSprinklers=Attiva antincendio 
+CompTurnOffVaultLights=Spegnimento luci caveau
+CompOpenCage=Apertura gabbia
+CompDeactivateFan=Disattiva ventilazione
+CompDeleteCameraArchives=Cancella archivio telecamere
+CompDisableCameraSystem=Disattiva sistema telecamere
+CompAccess=Accesso
+CompObjective=Obiettivi
+CompWNMOnlineService=Servizio WNM Online
+CompNews=Notizie
+CompAudio=Audio
+CompReception=Reception
+CompFrontDoors=Porte anteriori
+CompBankSide=Lato banca
+CompSecurity=Postazione sicurezza
+CompBackDoors=Porte posteriori
+CompHall=Ingresso
+CompLounge=Salone
+CompSecretary=Ufficio segretario
+
+[Email]
+EmailMedkitsBody=Ciao, Iago... sono arrivati i nuovi kit medici. Eccedenze americane di prima classe. Se qualcuno ha urgenza, digli che ci sono pillole e altro nei bagni.
+EmailMedkitsDate=28 giugno 2007
+EmailMedkitsFrom=Emilio
+EmailMedkitsSubject=Kit medici
+EmailMedkitsTo=Iago
+
+EmailDoorcodesBody=Se stasera vedi Hermano o Tajo, fagli sapere che devono cambiare i codici delle loro porte prima possibile. Non so come ma tutte e due le guardiole del primo piano hanno 3624 come codice. Ti sembra possibile?
+EmailDoorcodesDate=28 giugno 2007
+EmailDoorcodesFrom=Montegu
+EmailDoorcodesSubject=Codici da cambiare
+EmailDoorcodesTo=Iago
+
+EmailSecurityBody=Esatto. 2306 >> per confermare... il codice di stasera della stanza della sicurezza è 2306, giusto? >>Gaspar
+EmailSecurityDate=28 giugno 2007
+EmailSecurityFrom=Fonda
+EmailSecuritySubject=RE: Codice della stanza sicurezza
+EmailSecurityTo=Gaspar
+
+EmailWNMaBody=Long Dan, l'ambasciatore cinese negli Stati Uniti, è stato richiamato oggi per una riunione di emergenza, nella speranza di portare i delegati asiatici e americani al tavolo delle trattative. 
+EmailWNMaDate=28 giugno 2007
+EmailWNMaFrom=Notizie della WNM
+EmailWNMaSubject=Long Dan richiamato in Cina
+EmailWNMaTo=Iscritti
+
+EmailWNMbBody=Oggi il presidente Bowers ha appuntato il Nastro Azzurro a "Cane parlante", il vincitore di quattro anni del Middlemount Dog and Kennel Show, in Tennessee.
+EmailWNMbDate=28 giugno 2007
+EmailWNMbFrom=Notizie della WNM
+EmailWNMbSubject=Cane parlante stupisce il presidente
+EmailWNMbTo=Iscritti

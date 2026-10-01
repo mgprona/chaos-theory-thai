@@ -1,0 +1,16 @@
+[GENERAL]
+MapName=NEW YORK
+Briefing_LAMBERT=Il Colonnello Kim, ex comandante in capo del bunker missilistico, è entrato in "disaccordo" con l'esercito nordcoreano riguardo l'interruzione delle ostilità e il ritiro da Seul. Si è impossessato di un certo numero di testate biologiche ed è scomparso. Sei ore fa, è riapparso alla testa di un gruppetto di disertori dell'esercito nordcoreano a New York, dove ha preso il controllo della stazione centrale, la Grand Central Station. Non sappiamo perchè, nè quali siano i suoi piani, ma il suo profilo indica che non è uno stupido. C'è qualcosa di più grosso che bolle in pentola. Impedite a Kim o ai suoi uomini di scatenare l'incubo biologico e scoprite quali sono le vere intenzioni di Kim.
+Briefing=INCARICO
+
+[Interaction]
+
+[Email]
+EmailDiffusalBody=In caso d'emergenza, per disinnescare una bomba servono due uomini. I due devono tagliare contemporaneamente il cavo attivo. Bisogna eseguire l'azione due volte. Il primo taglio disattiverà il collegamento laser ma attiverà il secondo sistema di sicurezza... so che è difficile, ma non vogliamo che qualche nemico solitario entri di nascosto e disinneschi le bombe, giusto? Ah, dimenticavo, il cavo attivo non resterà acceso a lungo... fai attenzione.
+EmailDiffusalDate=18 ottobre 2007
+EmailDiffusalFrom=Colonnello Kim
+EmailDiffusalSubject=Diffusione bombe
+EmailDiffusalTo=Chu
+
+[Computer]
+Schematics=Schemi

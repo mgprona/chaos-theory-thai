@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=BATHHOUSE
+Briefing_LAMBERT=LAMBERT - Echelon tracked down Doug Shetland in Tokyo six hours ago. He's mobile and he's wireless, and from what we've managed to decrypt, it looks like he's about to wrap up his business with whoever his Japanese contacts are. From what we've managed to pick out of the air, it looks like he and his men are about to converge on a bathhouse in the center of the city. We need to find out who Shetland is meeting with and do everything we can to prevent him from closing his deal.
+Briefing_GRIMSDOTTIR=GRIMSDOTTIR - Clearly the attack that crippled the Walsh and force-launched the missile from the Battery went through Seoul... but it originated in Japan. Shetland has something to do with it, and my line into the Displace servers shows that he's definitely profiteering on this war. In order to shut down his operation and prevent any further escalation, we need to ID his business partners and make sure they don’t leave there with any more of Zherkezhi's weaponized algorithms.
+Briefing_REDDING=REDDING - Fisher, the bathhouse where this meeting is going down is going to be a semi-public place. There will be civilians in there, and probably a boat-load of goons. Shetland's men seem to be popping up all around Tokyo in the last hour or so and converging simultaneously on the location. Frances Coen has been in Asia for the last few months, and she has found some ties between the bathhouse ownership and a Japanese criminal organization known as the Red Nishin... it's possible that they are Shetland's partners.
+
+[Computer]
+CompAccessCamPublicBathsA=Public Baths Security Camera A
+CompAccessCamPublicBathsB=Public Baths Security Camera B
+CompAccessCamPrivateBathsA=Private Baths Security Camera A
+CompAccessCamPrivateBathsB=Private Baths Security Camera B
+CompAccessCamPrivateRooms=Private Rooms Security Camera
+CompDisableCameraSystem=Disable Camera System
+CompISDFOrdersReport=ISDF Orders report
+
+[Email]
+EmailMercuryFishBody=Scientists in New Brunswick, Canada today announced the findings of a ten year study into heavy metal contamination of fish stocks. The findings were ‘seriously alarming’ said Dr. Jules Bortlien, but ‘ultimately not that relevant since there are no more tuna.
+EmailMercuryFishDate=07/10/07
+EmailMercuryFishFrom=WNM News Wire
+EmailMercuryFishSubject=Rising Mercury in Depleted Tuna
+EmailMercuryFishTo=Subscriber
+
+EmailMeetingReservationBody=Haru... I hope I did not upset you. Of course, you are the Red Nishin and you are always welcome to use our facilities. I will see to it that our special guests do not disturb you.
+EmailMeetingReservationDate=07/10/07
+EmailMeetingReservationFrom=Yakuo
+EmailMeetingReservationSubject=Reservation
+EmailMeetingReservationTo=Haru
+
+EmailUSSWalshBody=The bodies of 141 sailors from the USS Walsh returned to the United States today in preparation for funeral services.
+EmailUSSWalshDate=07/10/07
+EmailUSSWalshFrom=WNM News Wire 
+EmailUSSWalshSubject=Walsh Sailors Bodies Return Home
+EmailUSSWalshTo=Subscriber
+
+EmailChaosTheoryBody=Sir, I have completed installation of the requested algorithms and installed the required software. In order to maintain operation security, all that is required is entry of the tasks and sub tasks and allocation of the number of assets and execution time and location. The algorithm will then generate the mission plan and contact your men remotely when needed.
+EmailChaosTheoryDate=07/10/07
+EmailChaosTheoryFrom=Karol
+EmailChaosTheorySubject=Chaos Theory
+EmailChaosTheoryTo=Shetland

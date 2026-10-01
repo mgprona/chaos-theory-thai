@@ -1,0 +1,220 @@
+[P_01_Panama_AlarmSystem]
+POPUPMESSAGE_0001=Alarm Stage One.
+POPUPMESSAGE_0002=Alarm Stage Two: Enemies Equipping Body Armor.
+Note_0003L=Enemies are wearing body armor.
+POPUPMESSAGE_0004=Alarm Stage Three: Enemies Equipping Helmets.
+Note_0005L=Enemies are wearing helmets.
+POPUPMESSAGE_0006=Alarm Stage Four: Enemies Fortifying Positions.
+Note_0007L=Enemies have fortified their positions.
+
+[P_01_Panama_ArchiveRoom]
+
+[P_01_Panama_Communications]
+Speech_-001L=(null)
+Speech_0024L=Listen up. To make the grade as an official (unofficial) Splinter Cell, you need to keep a low profile. Your first objective is to get information from the Archives. Do not, under any circumstances, kill Vice President de Medeiros.
+Speech_-001L=(null)
+Speech_0007L=This is the Archive room. The easiest way in will be to use the Vice President himself on one of those scanners. Anyone else in the building will do for the other.
+Speech_-001L=(null)
+Speech_0008L=Well, this is the Archive room, but with the Vice President unconscious, you're going to need to hack through those scanners.
+Speech_-001L=(null)
+Speech_0009L=Here's the Archive room. Use the Vice President on one of the scanners. Anyone else in the building will do for the other.
+Speech_-001L=(null)
+Speech_0010L=Use the Vice President on one of the scanners. Anyone else in the building will do for the other.
+Speech_-001L=(null)
+Speech_0011L=You need to activate both scanners at the same time.
+Speech_-001L=(null)
+Speech_0012L=Good job. Now access the Archives and we'll see what we can find out.
+Speech_-001L=(null)
+Speech_0013L=Damn. It looks like these files are incomplete. The Archives were backed up the Main Server this morning. You'll need to access it. First floor, other side of the building.
+Speech_-001L=(null)
+Speech_0025L=You're straying out of you're A.O. You need to access the Archives before we can plan our next move.
+Speech_-001L=(null)
+Speech_0026L=This is some kind of emergency fire door. Don't stray from you're A.O. Get to the Archive room.
+Speech_-001L=(null)
+Speech_0014L=Not good. The Senor is taking bribes from half the... my god! Jong Pom-chu! that's a name I didn't want to see. Get back to the truck for extraction, I might have another mission for you.
+Speech_-001L=(null)
+Speech_0015L=God Dammit! I told you not to kill the Vice President. Neither one of you will ever qualify as full-fledged Splinter Cells. Mission Over!
+Speech_-001L=(null)
+Speech_0016L=Well, too late now, but someone with that level of access is usually more useful to you when he's conscious. Keep it in mind for next time.
+Speech_-001L=(null)
+Speech_0027L=What are you doing? Now you won't be able to use him on the retinal scanners outside the Archive room. Not smart.
+Speech_-001L=(null)
+Speech_0017L=Before you go destroying everything, remember that enemy computer systems are valuable sources of intelligence.
+Speech_-001L=(null)
+Speech_0021L=Welcome to the big leagues. I know you're both still in training, but something's come up, and we don't have any other assets available. We recently recovered evidence from the MCAS Bank of Panama indicating that Vice President Senor Segundo Ruiz de Medeiros has been accepting bribes to allow ships to bypass spot inspections as they move through the Canal Zone. We need to find any records that Senor de Medeiros might have kept.
+Speech_-001L=(null)
+Speech_0022L=...in other news, Director Liu of the Chinese National Space Administration publicly offered to attempt a rescue of the astronauts stranded aboard the International Space Station, stating that the CNSA has a Shenzhue rocket which could be fueled and prepped for emergency launch within seventy-two hours... as yet there has been no response from NASA or ESA officials.
+Speech_0023L=MCAS Banco de Panama filed an insurance claim today against the theft of fifty-million dollars in negotiable government bearer bonds from their vault last night. The bonds are reported to be the property of the government of France. Investigation into the spectacular theft, and who might have committed it, are ongoing. 
+Speech_0028L=Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.
+
+[P_01_Panama_Courtyard]
+
+[P_01_Panama_LockerRoom]
+Speech_-001L=(null)
+Speech_0001L=It's your first night, right?
+Speech_0002L=Yeah. Anything I should know?
+Speech_0003L=Ha. Yeah. Watch out for the VP. He's losing his mind, I think.
+Speech_0004L=Good to know. Where is he?
+Speech_0005L=His office is down one floor, opposite the second floor security post.
+Speech_0006L=Is it just me, or have you noticed that the VP is acting a little weird?
+Speech_0007L=What? You mean installing motion sensors in the meeting room and the exposition room?
+Speech_0008L=Exactly. Not like him to spend money on security.
+Speech_0009L=He's probably figured out that its cheaper to buy a couple motion sensors than it is to pay us.
+Speech_0010L=So what's this crap I hear about motion sensors?
+Speech_0011L=Ah... the VP went and installed a bunch of them... meeting room next to his office... in the exposition room... who knows where else.
+Speech_0012L=So how are we supposed to patrol there?
+Speech_0013L=You need to get someone to disable them before you go through.
+
+[P_01_Panama_Lounge]
+
+[P_01_Panama_MeetingRoom]
+Note_0004L=Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.
+Note_0005L=The key code between the server room side and the Exposition area is 1534.
+Note_0006L=The key code in the hall outside the billiards room is 1523.
+Note_0007L=The key code inside the Exposition area is 2341.
+Note_0008L=The key code between the VPs Office and his gallery is 3245.
+Note_0009L=The key code to the VPs private elevator access is 3298.
+Note_0010L=Disable the laser grid using the Jammer.
+Note_0011L=The key code between the VPs Office and his gallery is 3245.
+Note_0012L=The key code to the VPs private elevator access is 3298.
+POPUPMESSAGE_0013=Access the archives.
+POPUPMESSAGE_0014=Access the main server.
+POPUPMESSAGE_0015=Exfiltrate to the primary extraction point.
+
+[P_01_Panama_Objectives]
+Objective_0001=Access the archives.
+Objective_0021=Access the Archives in the East Wing, top floor, to discover the extent of VP de Medieros' corruption.
+Objective_0019=Access the main server.
+Objective_0022=The data in the Archives is partially deleted. Access the server backups, past the Exposition Room on the ground floor. 
+Objective_0020=Exfiltrate to the primary extraction point.
+Objective_0023=Exfiltrate back to the truck in the exterior courtyard.
+Objective_0024=Recover information about other uninspected ships
+Objective_0025=(null)
+
+[P_01_Panama_Outside]
+Speech_-001L=(null)
+Speech_0001L=Ah... rain. Sure is nice...
+Speech_0002L=What? Are you crazy? It's a monsoon out there... it's terrible... it's like being in a shower.
+Speech_0003L=Well that's why I like it. It washes away your stink. Haha.
+Speech_0004L=Shut up.
+Speech_0005L=If you like it so much, why don't you do a few laps.
+Speech_0006L=It's not the rain I'm worried about... it's the lightning.
+Speech_0007L=Even more reason why it should be your turn now.
+Speech_0008L=Yeah. But the reason that matters is I have seniority.
+Speech_0009L=I'll say. I love the way it makes the surfaces shine.
+Speech_0010L=I like everything gets a kind of reflective sheen.
+Speech_0011L=Sure is beautiful.
+
+[P_01_Panama_SecurityCheckPoint]
+
+[P_01_Panama_SecurityRoom01]
+Speech_-001L=(null)
+Speech_0002L=So what do you think is going on with Senor de Medeiros these days?
+Speech_0003L=What do you mean?
+Speech_0004L=Well haven't you noticed he's acting paranoid?
+Speech_0005L=I'd be paranoid too if I was making deals with the kind of people he's making deals with.
+Speech_0006L=I heard his dogs are sick.
+Speech_0007L=Oh... that's why the dogs aren't around.
+Speech_0008L=Yep.
+Speech_0009L=And that's probably why he installed that motion sensors in the meeting room.
+Speech_0010L=Exactly.
+Speech_0011L=I don't know. I don't even care. He's a jerk.
+Speech_0012L=Actually, he's not so bad... he just seems to be disturbed.
+Speech_0013L=Not so bad? Spending all that money on the renovations, expanding his private collection... and he won't even fix the air conditioning right over our heads.
+
+[P_01_Panama_SecurityRoom02]
+
+[P_01_Panama_ServerRoom]
+
+[P_01_Panama_SoccerGame]
+Speech_-001L=(null)
+Speech_0001L=Alright... good. Okay... over to the striker! Did you see that pass!
+Speech_0002L=Oh look! C'mon! C'mon! 
+Speech_0003L=Go! Go!
+Speech_0004L=YEAHHHH!!!!!
+Speech_0005L=YEAHHHH!!!!!
+Speech_0006L=Alright, just get it out.
+Speech_0007L=No problem... no problem... c'mon... get him... No!
+Speech_0008L=Nonononononono!
+Speech_0009L=Look out! Arrgghhhh!
+Speech_0010L=Noooooooo!
+Speech_0011L=I'm going to kill myself.
+Speech_0012L=Ok... good... up the side...
+Speech_0013L=Now back to the middle... good...
+Speech_0014L=Hey! Penalty! That was a penalty!!
+Speech_0015L=Come on! Damn ref! Are you blind!
+Speech_0016L=I can't believe it... he got away with it!
+Speech_-001L=(null)
+Speech_0017L=Oh! Oh yeah... pass it... ok! No! No... to the striker.
+Speech_0018L=Yeah... here we go... yeah... yeah... c'mon... ooohhh...
+Speech_0019L=Ok... good... good... no... bad! Bad! Oh... phew.
+Speech_0020L=All right. That's it. Control it. Okay. Good.
+Speech_-001L=(null)
+Speech_0021L=Get him. Okay. Get him. Get him get him. Good, oh no.
+Speech_0022L=Up the side... up the side... no! What the--
+Speech_0023L=Okay... throw in. Yeah... whoa... okay that was close.
+Speech_0024L=C'mon, I got a hundred balboas in this game.
+
+[P_01_PAnama_TalkingToSecurityChief]
+Speech_-001L=(null)
+Speech_0001L=Everything checks out. All secure. Only got the rain to keep us company.
+Speech_0002L=What a night. Hot. Humid. Pouring rain. Glad I'm on the inside shift.
+Speech_0003L=Gonna be a long one tonight. Boring.
+Speech_-001L=(null)
+Speech_0004L=Hm... must be on a break.
+
+[P_01_Panama_TheVP]
+Speech_-001L=(null)
+Speech_0006L=What am I gonna do? What am I gonna do?!
+Speech_-001L=(null)
+Speech_0007L=I just need to calm down... no one knows... no one knows...
+Speech_-001L=(null)
+Speech_0008L=When is the last time I slept...
+Speech_-001L=(null)
+Speech_0009L=Oh... oh god... I'm dead... they're coming for me for sure.
+Speech_-001L=(null)
+Speech_0010L=What!? Hey?! Oh... it's just the wind...
+Speech_-001L=(null)
+Speech_0011L=God I need a drink... but the doctor says I have to cut down.
+Speech_-001L=(null)
+Speech_0012L=Here I am talking to myself... repeating myself...
+Speech_-001L=(null)
+Speech_0013L=Ok. It's okay. Deep breaths. I'm fine. Guards are on duty. Motion sensors. It's okay.
+Speech_-001L=(null)
+Speech_0014L=I gotta settle down. Do some work...
+Speech_-001L=(null)
+Speech_0015L=I'm starting to lose my mind here... I never should have gotten involved in this.
+Speech_-001L=(null)
+Speech_0001L=Sir, your wife is holding on line one.
+Speech_0002L=Senor de Medeiros? Could you please take the call on line one?
+Speech_0003L=Sir? Are you there? Fine, I'll take another message.
+Speech_0004L=Hello. You've reached Rogelio in tech support. Check that your computer is plugged in and turned on before you leave me a message. Thanks. 
+Speech_0005L=Haha... oh yeah. I checked if it was plugged in... but I forgot to make sure it was turned on. I get it now. Thanks.
+
+[P_01_Panama_ThirdFloorSecurity]
+Speech_-001L=(null)
+Speech_0001L=This job is stupid. I should have gone to work in the hat shop with my uncle. Twenty-three years he's been there and he still loves it.
+Speech_0002L=Making Panama hats is a fine and noble tradition.
+Speech_0003L=Yeah. Not like walking in circles ten hours a night.
+Speech_0004L=All clear... again.
+Speech_0005L=Nothing to report?
+Speech_0006L=Actually... one of the construction workers must have dragged his tool box... there's a small scuff-mark on the floor at the end of the hall. Think we should report it?
+Speech_0007L=Don't be an ass.
+Speech_0008L=Hey, Devante! I just saw a bunch of armed burglars breaking into the locker room at the far end!
+Speech_0009L=What?!
+Speech_0010L=Just kidding. All clear.
+Speech_0011L=Very funny.
+Speech_0012L=Break time yet?
+Speech_0013L=Break time? You just had a break half an hour ago.
+Speech_0014L=Half an hour? Feels like a month.
+
+[P_01_Panama_VPOffice]
+Speech_-001L=(null)
+Speech_0001L=Oh god... you... you're going to hurt me? No... I don't want to suffer... please... fine... I'll tell you everything. The code for the meeting room is 3245. The code for my elevator is 3298, and the code for my computer in the archive room is 9728.
+Speech_0002L=I swear, that's all I know. You'll have to kill me.
+Speech_0003L=I gave you all the codes... kill me now.
+Speech_-001L=(null)
+Speech_0004L=Oh, god! I knew you were coming! Look... I don't know anything... you'll have to kill me. Please... just kill me and put me out of my misery!
+Speech_0005L=I won't talk... I want to die.
+Speech_0006L=Put me out of my misery!
+

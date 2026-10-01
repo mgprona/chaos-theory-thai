@@ -1,0 +1,44 @@
+[GENERAL]
+MapName=BUNKER CHIMICO
+Briefing_LAMBERT=Interrogato dall'agente speciale Jack Baxter, Jong Pom-chu ha confessato di essere conivolto nella consegna di certe ricerche segrete sulle armi biologiche ad agenti del CGIB. Il CGIB l'avrebbe quindi ricattato per fargli acquistare equipaggiamenti per la modifica dei virus, per i quali sono previste pesanti restrizioni. Pom-chu è riuscito a contrabbandare questi equipaggiamenti per conto del CGIB attraverso Panama. La nostra indagine ha rivelato che Jong negli ultimi mesi è stato in contatto con il governo nordcoreano, che sta usando le sue informazioni e il suo equipaggiamento per costruire armi biologiche in una serie di vecchi bunker vicino a Namp'o-si. La vostra missione è infiltrarvi nel complesso di bunker, identificare le armi chimiche o biologiche esistenti, e recuperare campioni degli agenti in sviluppo.
+Briefing=INCARICO
+
+[Computer]
+CompDisableCameraSystem=Disattiva il sistema di telecamere
+
+[Email]
+EmailVirusProtocolBody=I nostri ricercatori hanno finalmente scoperto un protocollo funzionante per l'antidoto al virus. Servono un campione di siero di sangue di scimmia e due componenti chimici. Gli ingredienti per il protocollo sono in allegato a questa mail come appunti.
+EmailVirusProtocolDate=12 ottobre 2007
+EmailVirusProtocolFrom=Pok
+EmailVirusProtocolSubject=Protocollo antivirale
+EmailVirusProtocolTo=Kim
+
+EmailCryoTankBody=A proposito, ho dimenticato di dirti che dovrai miscelare i diversi ingredienti simultaneamente rispettando l'ordine indicato nel protocollo. Naturalmente, sono necessarie due persone per eseguire questo compito. Attenzione, può essere pericoloso.
+EmailCryoTankDate=12/10/2007
+EmailCryoTankFrom=Pok
+EmailCryoTankSubject=Protocollo di miscela
+EmailCryoTankTo=Kim
+
+EmailWarheadBody=Per inserire il nuovo campione nel mezzo di trasferimento, devi aprire la testata. Il codice del corpo della testata del missile è 1961. Custodisci questo codice, perché ne va della tua vita...
+EmailWarheadDate=12/10/2007
+EmailWarheadFrom=Bae
+EmailWarheadSubject=Accesso alla testata
+EmailWarheadTo=Kim
+
+EmailCountingMonkeyBody=Pok... So che crederai io sia pazzo, ma la piccola Java sembra sappia contare! Se tengo in mano delle banane, lei emette uno strillo per ogni banana che sto impugnando! È incredibile! Farò ulteriori analisi. Ti consiglio anche di eseguire un test genetico per vedere se i nostri test possono aver avuto un qualche effetto di ricombinazione non rilevata. il suo sangue è nel frigo. Codice 1423.
+EmailCountingMonkeyDate=12/10/07
+EmailCountingMonkeyFrom=Joo
+EmailCountingMonkeySubject=Scimmia parlante?
+EmailCountingMonkeyTo=Pok
+
+EmailCraneBody=Ehi, Kim, finalmente hanno riparato la gru. Appena torna il tecnico potremo completare il carico finale dei missili armati. Ma non voglio farlo da solo, ho paura di combinare un disastro. 
+EmailCraneDate=12/10/2007
+EmailCraneFrom=Kim
+EmailCraneSubject=Abbiamo la gru!
+EmailCraneTo=Bae
+
+EmailDisarmingWarheadsBody=Una volta aperto il corpo del missile, per rimuovere la tossina dalla testata, devi disattivare il meccanismo di sicurezza. Per farlo, devi tagliare contemporaneamente due cavi. Ti consiglio caldamente di farlo con due persone.
+EmailDisarmingWarheadsDate=12/10/2007
+EmailDisarmingWarheadsFrom=Bae
+EmailDisarmingWarheadsSubject=DISATTIVATE LA TESTATA
+EmailDisarmingWarheadsTo=Kim

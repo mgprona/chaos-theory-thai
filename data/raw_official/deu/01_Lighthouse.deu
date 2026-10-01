@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=LEUCHTTURM
+Briefing_LAMBERT=Fisher, ein amerikanischer Ingenieur namens Bruce Morgenholt wurde von einer peruanischen Separatistengruppe entführt, die sich die 'Stimme des Volkes' nennt. Ihr mutmaßlicher Anführer, Hugo Lacerda, ist ein hartgesottener Revolutionär, der den Information Warfare als die einzig wirksame Methode zur Durchführung einer Revolution in der modernen Gesellschaft hÄlt und dies auch offen propagiert. Du musst dich dorthin begeben und jegliche Informationen, die man Morgenholt abgepresst haben könnte, sichern oder vernichten und den Mann, falls möglich, retten. Was Lacerda angeht ... er hat sich gerade auf unsere Liste möglicher Ziele befördert. Also, wenn sich die Gelegenheit bietet, nutze sie.
+Briefing_GRIMSDOTTIR=Geiselrettung fällt normalerweise nicht in unseren Aufgabenbereich, aber Morgenholt gehörte dem Projekt Watson an, der UN-Kommission, die Phillip Masses Arbeit nach der Sache in Georgien untersuchte. Man fürchtet, dass diese Entführung nur der Verschleierung dient und man Morgenholt geheime Informationen über Masses Kernels erhalten will. Tatsache ist, dass einige der Spielereien, die sich Masse ausgedacht hat, eine Menge Schaden anrichten könnten. Wir müssen um jeden Preis verhindern, dass diese Informationen in fremde Hände gelangen.
+Briefing_REDDING=Das Zielgebiet ist ein Leuchtturm, der sich unmittelbar neben einer verlassenen Festungsanlage aus der spanischen Kolonialzeit befindet. Wir besitzen keine exakten Informationen über Morgenholts Aufenthaltsort, du musst ihn also selbst finden. Du wirst bei Nacht mit dem Zodiac an den Strand unterhalb der Festung fahren. Wärmebilder zeigen, dass sich unter der Anlage einige alte natürliche und halb-natürliche Höhlen befinden, vielleicht führt über diese ein Weg hinein.
+Briefing_PATRIDGE=In Ordnung, Fisher, der Helikopter wird Sie einen Kilometer vor der Küste mit dem Zodiac absetzen. Die Extraktion erfolgt dann per Helikopter von der Spitze des Leuchtturms aus.
+Briefing_SHETLAND=Displace International unterhält mit Wright Pritchard Technologies einen Vertrag zum Schutze ihrer VIPs in potentiell GefÄhrlichen Situationen. Wir haben für das Projekt in Peru eine gründliche Lageanalyse durchgeführt und den Schutz Morgenholts übernommen. Die Kerle, die ihn entführt haben, wussten genau was sie taten, das war keine einfache Touristenentführung. Ich habe bei der Aktion drei gute Männer verloren und bereite gerade einen Rettungsplan vor, den ich nur noch durch Morgenholts Familie und Wright Pritchard absegnen lasssen muss. Diese Sache wird Displace eine Menge Geld kosten.
+Briefing=AUFGABE
+Briefing_PARTRIDGE=In Ordnung, Fisher, der Helikopter wird Sie einen Kilometer vor der Küste mit dem Zodiac absetzen. Die Extraktion erfolgt dann per Helikopter von der Spitze des Leuchtturms aus.
+
+
+[Interaction]
+IntExfiltrate=Abholung anfordern
+IntScanCrate=Kiste scannen
+
+[Computer]
+CompEraseData=Morgenholts Daten löschen
+CompObjective=Einsatzziel
+CompNews=Nachrichten
+CompEmail=E-Mail
+
+[Email]
+EmailISSBody=Der Kontakt mit der internationalen Raumstation ist verloren gegangen. Die Techniker befürchten, dass sie von einem Mikrometeor getroffen worden sein könnte.
+EmailISSDate=23. Juni 2007
+EmailISSFrom=WNM-Eilmeldung
+EmailISSSubject=Kontakt mit IRS verloren
+EmailISSTo=Abonnent
+
+EmailMorgenholtBody=Die peruanische Regierung hat die Vermutung geäuSSert, dass der Amerikaner Bruce Morgenholt von einer Organisation namens 'Stimme des Volkes' entführt worden sein könnte. Die Gruppe selbst hat noch keine öffentliche Erklärung dazu abgegeben.
+EmailMorgenholtDate=23.Juni 2007
+EmailMorgenholtFrom=WNM-Eilmeldung
+EmailMorgenholtSubject= 'Stimme des Volkes' soll Morgenholt entführt haben
+EmailMorgenholtTo=Abonnent
+
+EmailJimboBody=Hey, Jimbo. Ich bin also auf Piedros Angebot zurückgekommen und mit seinen Jungs campen gegangen. Danach wusste ich Bescheid. Das ist nur eine Bande halborganisierter Revoluzzer... Eigentlich ziemlich harmlos. Egal, ich hab mich hier in ein paar Höhlen umgesehen und fluoreszierende Pilze gefunden. Oder vielleicht waren das auch Pilze, die vom Photobacterium Phosphorium besiedelt sind... Sicher bin ich mir nicht. Ich versuche, dir eine Probe zu besorgen.
+EmailJimboDate=23.Juni 2007
+EmailJimboFrom=Alphonse
+EmailJimboSubject=PP
+EmailJimboTo=Jim

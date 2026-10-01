@@ -1,0 +1,14 @@
+[GENERAL]
+MapName=SEOUL
+Briefing_LAMBERT=Il y a trente-huit heures, la Corée du Nord a attaqué la Corée du Sud. Nous savons depuis cinquante ans que son objectif a toujours été de prendre Séoul dans les premières soixante-douze heures de l'offensive, et il semblerait qu'elle ait de bonnes chances d'y arriver. Les forces américaines et sud-coréennes essayent de canaliser les divisions adverses le long de couloirs prédéfinis mais, il y a six heures, la première division ennemie a tout de même atteint Séoul. Les Nords-Coréens cherchent à s'emparer de bâtiments cruciaux, dont la station de télécommunication située au nord de la ville. Malheureusement, c'est par là que l'attaque qui a coulé le Walsh a été relayée. Si les Nords-Coréens obtiennent cette information, ils pourront s'en servir pour justifier leur agression et s'implanter durablement en Corée du Sud. Il nous faut la récupérer avant eux.
+Briefing_GRIMSDOTTIR=L'attaque informatique qui a tiré le missile responsable de la destruction du Walsh a transité par Séoul. Je n'ai pas réussi à remonter au-delà de la station de télécommunication, et peut-être cette dernière est-elle son point de départ. Il est en effet possible que la Corée du Sud nous ait piégé en obligeant la Corée du Nord à attaquer les Etats-Unis. Je pourrais essayer de m'introduire dans le système mais...il est sécurisé à l'extrème et les dégâts causés par les combats ont déjà détruit la plupart des ports d'entrée. Il faut que tu ailles récupérer les données sur place, puis que tu nous les envoies par une connexion point à point pour qu'on les étudie.
+Briefing_REDDING=La CIA a plusieurs planques à Séoul, qui lui servent pour ses agents et les transfuges éventuels. La plupart ressemblent à des logements normaux. Je suis en train de mettre un plan au point pour que tu puisses avoir accès à l'une d'elles avant les importants mouvements de troupes prévus par notre armée. Une fois que tu seras sur place, nos hommes se replieront, les Nord-Coréens suivront, et tu te retrouveras entre les troupes d'assaut ennemies et leurs unités de soutien logistique. Attention à ne pas t'éloigner de cette zone de calme relatif si tu ne veux pas te retrouver face à un bataillon de types armés jusqu'aux dents !
+Briefing_MASSON=L'USS Ronald Reagan est prêt à lancer un EA-6B Prowler équipé d'un système de réception laser point à point. Votre homme recevra un émetteur spécial qui enverra les données à l'avion. Ce mode de communication est sûr à 100%. Il est impossible d'intercepter la transmission, et encore moins de la décrypter. Une fois votre homme en position, nous enverrons l'avion récupérer les données. Mais cette opération est risquée, et j'espère que le jeu en vaut la chandelle. Chacun de ces avions vaut la bagatelle de soixante millions de dollars...
+Briefing=A FAIRE
+
+[Interaction]
+IntGetdrives=Récupérer le disque dur
+IntUseelevator=Prendre l'ascenseur
+
+[Computer]
+CompUploadTap=Se connecter au réseau

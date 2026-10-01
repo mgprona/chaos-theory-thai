@@ -1,0 +1,699 @@
+[P_05_Displace01_AlarmCheck]
+POPUPMESSAGE_0008=Alarm Stage One
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Fisher, be careful with the alarms, you're in a building full of mercenaries.
+POPUPMESSAGE_0009=Alarm Stage Two - Enemies Equipping Body Armor
+Note_0012L=Enemies are wearing body armor
+Speech_-001L=(null)
+Speech_0002L=LAMBERT - I'm serious Sam...too many alarms these mercenaries will be after you.
+POPUPMESSAGE_0010=Alarm Stage Three - Enemies Equipping Helmets
+Note_0013L=Enemies are wearing helmets
+Speech_-001L=(null)
+Speech_0003L=LAMBERT - Fisher... be careful! One more alarm and you'll be in big trouble.
+POPUPMESSAGE_0011=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0014L=Enemies have fortified their positions
+Speech_-001L=(null)
+Speech_0006L=LAMBERT - Dammit, Sam. The whole place is alerted! You'll have a hell of a time fighting your way out of there without killing anyone. Complete your primary objectives and get out of there!
+Speech_-001L=(null)
+Speech_0007L=LAMBERT - Dammit, Sam. They called a general alarm... get out of there fast.
+Objective_0017=Insert tracer programs into Displace's division servers
+Objective_0018=Grimsdottir will be better able to monitor Displace's activities if you can insert tracer programs into the small servers in each of Displace's divisions
+Objective_0015=Discover the real identity of Milan Nedich.
+Objective_0016=Third Echelon's files draw a blank on the name Milan Nedich, Displace's VP of Protection Services. Find out what his real identity is.
+
+[P_05_Displace01_BGuardConvo]
+Speech_-001L=(null)
+Speech_0009L=-DisSol_Leif- Hey... NASA just reported the astronauts on the ISS managed to get their life support back on line.
+Speech_0010L=-DisSol_Jeff- So they're gonna make it?
+Speech_0011L=-DisSol_Leif- Well... probably not... but at least they have time to attempt a rescue...
+Speech_0012L=-DisSol_Jeff- The shuttle?
+Speech_0013L=-DisSol_Leif- Yeah... NASA is working to repair the rocket assembly... they think they might be able to launch in time.
+Speech_0014L=-DisSol_Jeff- What about the Chinese rescue?
+Speech_0015L=-DisSol_Leif- I guess we don't need them anymore.
+Speech_0016L=-DisSol_Jeff- Hm. Well, here's hoping nothing else goes wrong.
+
+[P_05_Displace01_BGuardEvents]
+
+[P_05_Displace01_BGuardPCLoop]
+
+[P_05_Displace01_BGuardPre]
+
+[P_05_Displace01_ConferenceEvents]
+Speech_-001L=(null)
+Speech_0061L=-DisExc_Julian- Well, you're worried about the cost Tom... you're worried about what the taxpayers will think. But it's a mistake to think that those two things are fundamentally tied together. Stairs are cheaper than elevators Tom... why don't we have stairs as the fourth discipline of skyscraper construction?
+Speech_0041L=-NYCCiv_Tom- No one is going to take the stairs up seventy stories...
+Speech_0042L=-DisExc_Julian- And does anyone ever question how much an elevator costs?
+Speech_0043L=-NYCCiv_Tom- Of course not.
+Speech_0044L=-DisExc_Julian- Right. And I'll tell you why. Because the cost of an elevator isn't measured by what you get... it's measured by what you avoid. Displace is expensive, Tom... no denying that. But it's not important how much it costs to hire us. What's important is how much it costs not to hire us. A bunch of good ol' boys from the Appalachian's with M4's on every street corner... sure it will get the job done. In the end, relying on the National Guard is like taking the stairs. If you want to keep those five million executives going to work everyday, I suggest you take the elevator.
+Speech_0051L=-NYCCiv_Tom- Hmm... well... you maybe got a point there Julian.
+Speech_0052L=-DisExc_Julian- Of course I have a point. Let's go talk to Mikey.
+Speech_-001L=(null)
+Speech_0031L=-DISP_NARRATOR- Displace International is a PMC - or Private Military Company. We specialize in situation resolution and consulting.
+Speech_-001L=(null)
+Speech_0032L=-DISP_NARRATOR- Our Mission is to offer governments and similar recognized and legal clients the capability to quickly and professionally resolve conflict-potential situations in a responsible manner.
+Speech_-001L=(null)
+Speech_0033L=-DISP_NARRATOR- In order to remain above reproach, Displace maintains very strict policies. We accept contracts only from recognized governments or institutions or from morally justified liberation movements recognized by said institutions.
+Speech_-001L=(null)
+Speech_0034L=-DISP_NARRATOR- Displace will not contract itself to terrorists, embargoed regimes, governments or organizations who contravene human rights, international organized crime, illegal arms traders,  or any group that does not recognize the fundamental laws of armed conflict.
+Speech_-001L=(null)
+Speech_0035L=-DISP_NARRATOR- Displace offers three key services, forming the cornerstones of our business: Strategic, Logistical, and Operational.
+Speech_-001L=(null)
+Speech_0036L=-DISP_NARRATOR- Strategically, Displace offers a number of services including strategic planning, research and analysis, defense reviews, military restructuring and review, and threat analysis.
+Speech_-001L=(null)
+Speech_0037L=-DISP_NARRATOR- On the Logistics front, Displace is able to support communications, transportation, and personnel services, public relations, escort services, and C and C services.
+Speech_-001L=(null)
+Speech_0038L=-DISP_NARRATOR- Operationally, Displace is able to provide basic military and police training, special forces and intelligence training, disaster relief training, demilitarization, security and peace-keeping training, as well as conduct, co-ordinate and command operations at all levels of conflict resolution.
+Speech_-001L=(null)
+Speech_0039L=-DISP_NARRATOR- Contracting Displace is a multi-stage process that typically begins with a detailed presentation of our capabilities, and moves through several steps of evaluation and proposals...for more information about Displace International, contact us online at www dot Displace dotcom.
+
+[P_05_Displace01_DeactivationTimer]
+
+[P_05_Displace01_DHackSequence]
+POPUPMESSAGE_0032=Retrieve the server access algorithm.
+Speech_-001L=(null)
+Speech_0007L=GRIMSDOTTIR - Sam, give them a chance to stand still and you might have time to wirelessly hack into the laptop.
+Speech_0008L=FISHER - I'm working on it Grim.
+Speech_-001L=(null)
+Speech_0009L=GRIMSDOTTIR - Damn... missed your chance. Keep tailing them, you might get another opportunity.
+Speech_0010L=FISHER - Okay.
+Speech_-001L=(null)
+Speech_0011L=GRIMSDOTTIR - Damn, that's another opportunity gone.
+Speech_0012L=FISHER - Grim, this is not as easy as it looks.
+Speech_-001L=(null)
+Speech_0015L=GRIMSDOTTIR - Well, I guess that's one way to deal with it.
+Speech_0016L=FISHER - Finesse is for the young and the cocky.
+POPUPMESSAGE_0033=Retrieve the server access algorithm.
+POPUPMESSAGE_0034=Retrieve the server access algorithm.
+Speech_0035L=-GRIMSDOTTIR- Dammit, Sam, that laptop had the server access algorithm on it... you'll need to see if he has the info backed up on another server.
+Speech_0022L=GRIMSDOTTIR - Dammit, Sam, that laptop had the access algorithm for Displace's Central Server. You'll need to find another way to get it.
+Speech_0023L=FISHER - Any ideas?
+Speech_0026L=GRIMSDOTTIR - That executive might keep his laptop synched to another server somewhere.
+Speech_0027L=FISHER - I'll have a look.
+Note_0029L=The Central Server access algorithm is on a local server in the training room
+Speech_-001L=(null)
+Speech_0030L=GRIMSDOTTIR - Dammit, Sam, that laptop had the server access algorithm on it... you'll need to see if he has the info backed up on another server.
+Note_0031L=The Central Server access algorithm is on a local server in the training room
+
+[P_05_Displace01_DHackSuccess]
+POPUPMESSAGE_0012=Access the Central Server in the server room
+Speech_0014L=-GRIMSDOTTIR- Good work Sam, now you'll be able to access the central server on the first floor.
+Speech_0001L=GRIMSDOTTIR - Good work Sam, now you'll be able to access the central server on the first floor.
+Speech_0002L=FISHER - This wireless stuff makes life a lot easier.
+Speech_0003L=GRIMSDOTTIR - Yep...welcome to the wi-fi era.
+Speech_0004L=FISHER - Remember, you're saying that to a guy from the hi-fi era.
+Speech_0005L=GRIMSDOTTIR - Hi-fi? As in, like, high in fiber?
+Speech_0006L=FISHER - Rrrr. Don't put me in adult undergarments yet, kid. 
+Speech_-001L=(null)
+Speech_0011L=GRIMSDOTTIR - Good work Sam, now you'll be able to access the central server on the first floor.
+POPUPMESSAGE_0013=Access the Central Server in the server room
+Speech_-001L=(null)
+Speech_0007L=GRIMSDOTTIR - Okay, we have the access algorithm. Now we can access the central server on the first floor.
+Speech_0008L=FISHER - I'll find it.
+Note_0010L=The key code between the meeting room and the lobby is 8136
+
+[P_05_Displace01_Elevators]
+Note_0010L=With power restored, the lobby elevators are back online.
+
+[P_05_Displace01_Emitters]
+
+[P_05_Displace01_ExecKO]
+
+[P_05_Displace01_ExecPolAlarm]
+
+[P_05_Displace01_ExecPostSearch]
+
+[P_05_Displace01_ExecPreSearch]
+
+[P_05_Displace01_InterroLobbyGuardA]
+Note_0021L=There is a medical kit near the server room.
+Speech_-001L=(null)
+Speech_0003L=-FISHER- Tell me something useful and be quick about it.
+Speech_0004L=-DisSol_Jordan- Uh... I got a fix on a horse... Fancy Nancy in the third at Belmont tomorrow...
+Speech_0005L=-FISHER- I think you can do better
+Speech_0006L=-DisSol_Jordan- Uh...uh... medical supplies... they keep some in the bathroom near the security check point by the main server room.
+Speech_0007L=-FISHER- Medical supplies hunh? Thanks.
+Speech_-001L=(null)
+Speech_0010L=-FISHER- How do I get these elevators working?
+Speech_0011L=-DisSol_Jordan- Ah... uh... elevators? They've been a mess since the power went out... you'll need to hit the main breakers in the electrical room next to the main server
+Speech_0012L=-FISHER- Main breakers...
+Speech_0013L=-DisSol_Jordan- You need to head through the R&D section... the door code is 2109...
+Speech_0014L=-FISHER- Thanks... you've been so kind.
+Speech_0015L=-DisSol_Jordan- You...you're welcome.
+Note_0022L=The key code for the server room is 2109
+Speech_0016L=-DisSol_Jordan- Please... don't hurt me.
+Speech_0018L=-DisSol_Jordan- God help me...
+
+[P_05_Displace01_InterroLobbyGuardB]
+Speech_-001L=(null)
+Speech_0003L=-FISHER- How many staff you have in the building?
+Speech_0004L=-DisSol_Louis- Uh... I... I'm not sure...m... maybe thirty of us...
+Speech_0005L=-FISHER- Maybe? How many are armed?
+Speech_0006L=-DisSol_Louis- I'm not too sure... maybe twenty... maybe a few more.
+Speech_0007L=-FISHER- That's a lot of maybes.
+Speech_0008L=-DisSol_Louis- I'm not good with numbers...
+Speech_0009L=-FISHER- Are you good at getting thumped on the skull and lying quietly in a dark corner for a few hours?
+Speech_0012L=-DisSol_Louis- Please...I don't know anything more...
+Speech_0014L=-DisSol_Louis- Ahh...this is gonna hurt isn't it?
+
+[P_05_Displace01_InterroNYC]
+Speech_-001L=(null)
+Speech_0001L=-FISHER- Is New York City thinking about hiring Displace to protect Manhattan?
+Speech_0002L=-NYCCiv_Tom- Ah! Oh god...uh... yeah...
+Speech_0003L=-FISHER- As far as PMC's go... Displace isn't so bad... but you have no idea what you're getting into...
+Speech_0004L=-NYCCiv_Tom- What do you mean?
+Speech_0005L=-FISHER- Remember the mafia?
+Speech_0006L=-NYCCiv_Tom- Yeah... I've... I've heard stories...
+Speech_0007L=-FISHER- Well imagine if instead of a bunch of thick-necked goons with stilettos the city was indebted to an army of sociopathic snake-eaters who were loyal to the highest bidder...
+Speech_0008L=-NYCCiv_Tom- That doesn't sound good.
+Speech_0009L=-FISHER- It wasn't the barbarians who sacked Rome... it was the expatriate Legionnaires who mustered barbarian armies...
+Speech_0010L=-NYCCiv_Tom- You're scaring me.
+Speech_0011L=-FISHER- Get out while you can.
+Speech_0013L=-NYCCiv_Tom- I think I wet my pants...
+Speech_0015L=-NYCCiv_Tom- Please... I'm just an elected official... I have no real power.
+
+[P_05_Displace01_InterroOfficeExec]
+Speech_-001L=(null)
+Speech_0001L=-FISHER- Gotcha. Now give me the server access algorithm...
+Speech_0004L=-DisExc_Julian- ...uh... I... I can't...
+Speech_0005L=-FISHER- What do you mean you can't?
+Speech_0006L=-DisExc_Julian- The algorithm is several thousand characters long... it's encoded on my laptop... and on a server in the conference room on the far side of the lobby...
+Speech_0007L=-FISHER- Oh... how do I get there...
+Speech_0008L=-DisExc_Julian- The door code to the lobby is 8136.
+Speech_0009L=-FISHER- Thanks...
+Note_0049L=The key code between the meeting room and the lobby is 8136
+Speech_-001L=(null)
+Speech_0010L=-FISHER- Where are you going?
+Speech_0011L=-DisExc_Julian- Ah!...Uh... I was going to the operations room...
+Speech_0012L=-FISHER- What's in the conference room?
+Speech_0013L=-DisExc_Julian- Uh... not much... there's a server there... it's where I synch my laptop and get the main server access algorithm.
+Speech_0014L=-FISHER- Interesting.
+Speech_-001L=(null)
+Speech_0015L=-FISHER- Nice little office you got here...
+Speech_0016L=-DisExc_Julian- Oh god... who are you?
+Speech_0017L=-FISHER- Someone you don't want to run into in the dark... give me the server access algorithm.
+Speech_0020L=-DisExc_Julian- ...uh... I... I can't...
+Speech_0021L=-FISHER- What do you mean you can't?
+Speech_0022L=-DisExc_Julian- The algorithm is several thousand characters long... it's encoded here on my laptop... and on a server in the conference room across the hall...
+Speech_0023L=-FISHER- Thanks.
+Speech_-001L=(null)
+Speech_0024L=-FISHER- Main server room... where is it?
+Speech_0027L=-DisExc_Julian- Ah... uh... one level down... next to the R&D labs... but... but you'll need the server access algorithm...
+Speech_0028L=-FISHER- Way ahead of ya, partner
+Speech_-001L=(null)
+Speech_0030L=-FISHER- You look like an executive type... What do you do here?
+Speech_0031L=-DisExc_Julian- Oh, god... I... I'm the North American Business Development Manager.
+Speech_0034L=-FISHER- Really... how much do they pay you?
+Speech_0035L=-DisExc_Julian- Who cares about the salary? It's the kick-backs. I'm part owner of three gold mines in Tunisia... on paper... I'm a billionaire...
+Speech_0038L=-FISHER- Jesus... I'm in the wrong line of work.
+Speech_0039L=-DisExc_Julian- I can get you a meeting with our VP of Internal Development...
+Speech_0040L=-FISHER- I'd like that... where's his office?
+Speech_0041L=-DisExc_Julian- Top floor, with the other Executive offices...
+Speech_0042L=-FISHER- Nedich's office is up there too?
+Speech_0043L=-DisExc_Julian- M...Milan? Yeah...
+Speech_0044L=-FISHER- Thanks
+Speech_0045L=-DisExc_Julian- God... please... don't hurt me...
+Speech_0047L=-DisExc_Julian- Please don't kill me... I'm just an executive
+
+[P_05_Displace01_InterroOfficeLounge]
+Speech_-001L=(null)
+Speech_0003L=-FISHER- Fresh ground or dried?
+Speech_0004L=-DisExc_Robert- Wh...what?
+Speech_0005L=-FISHER- The coffee machine. Ground or dried?
+Speech_0006L=-DisExc_Robert- Uh...uh...I...I'm not sure...
+Speech_0007L=-FISHER- Rrrr...then you better tell me something useful and fast...
+Speech_0008L=-DisExc_Robert- Uh...uh...you might need the doorcode out of here...it's 8136.
+Note_0016L=The key code between the meeting room and the lobby is 8136
+Speech_0009L=-FISHER- That'll do...
+Speech_0010L=-DisExc_Robert- Would you like cream and sugar with that?
+Speech_0012L=-DisExc_Robert- I'm afraid of pain...
+Speech_0013L=-DisExc_Robert- Uncle... uncle...
+
+[P_05_Displace01_InterroRDLounge]
+Speech_-001L=(null)
+Speech_0001L=-FISHER- So what's this new toy I hear tell about?
+Speech_0004L=-DisTec_Vaclav- Uh... oh no... Uh...infrasound generation...fear induction...
+Speech_0005L=-FISHER- Does it work...
+Speech_0006L=-DisTec_Vaclav- Uh...I...I have the preliminary human test results on my laptop... schematics...specifications.
+Speech_0009L=-FISHER- How is it delivered?
+Speech_0010L=-DisTec_Vaclav- W...we're developing a broadcast rig...anti-riot...but the prototype is individual...40 mill launchable...
+Speech_0011L=-FISHER- Convenient.
+Note_0016L=Displace's infrasound weapon research is on the R&D computer
+Speech_0012L=-DisTec_Vaclav- ...skin conductivity increasing...
+Speech_0014L=-DisTec_Vaclav- ...heart-rate... fluctuating...
+
+[P_05_Displace01_InterroRoof]
+Speech_-001L=(null)
+Speech_0001L=-FISHER- Something going on with the ventilation system?
+Speech_0002L=-DisSol_Walter- Ah! Wh...hey... who are you?
+Speech_0003L=-FISHER- Pretend I'm Harry Tuttle...
+Speech_0004L=-DisSol_Walter- Who?
+Speech_0005L=-FISHER- I'm an ill-tempered and heavily armed heating engineer who's asking questions about your ventilation system...
+Speech_0006L=-DisSol_Walter- Uh...I guess... I guess it's not working properly since the blackout. 
+Speech_0007L=-FISHER- So it shouldn't take much to shut down that big fan if I wanted to?
+Speech_0008L=-DisSol_Walter- Uh... I don't know... why would you want to do that...?
+Speech_0009L=-FISHER- The adventure... the travel...
+Speech_0010L=-DisSol_Walter- Uh... okay...
+Note_0014L=The rooftop ventilation fan can be disabled from a breaker.
+Speech_0011L=-DisSol_Walter- I don't care what you do with the fan... just don't kill me.
+Speech_0013L=-DisSol_Walter- Don't forget to fill out your twenty-seven B stroke six.
+
+[P_05_Displace01_InterroSecGuard]
+Speech_-001L=(null)
+Speech_0001L=-FISHER- I know this is embarrassing... just tell me what I want to know and we can pretend this never happened.
+Speech_0002L=-DisSol_Timothy- Jesus...Deal. What do you want?
+Speech_0005L=-FISHER- How do I access the Main Server Room?
+Speech_0006L=-DisSol_Timothy- I'm not sure... I think you might have to cut through R&D.
+Speech_0007L=-FISHER- Thanks.
+Speech_0008L=-DisSol_Timothy- I'd say 'my pleasure'... but...
+Speech_0009L=-FISHER- Forget it... I don't want to know.
+Speech_-001L=(null)
+Speech_0012L=-FISHER- How do I access the Main Server Room?
+Speech_0013L=-DisSol_Timothy- Ah... uh...can't get through here... our doors are malfunctioning...
+Speech_0014L=-FISHER- Is there another way?
+Speech_0015L=-DisSol_Timothy- Maybe through R&D... might be a way through the ventilation, into the electrical room.
+Speech_0019L=-FISHER- Thanks.
+Speech_0016L=-DisSol_Timothy- Oh god... don't do what I think you're going to do...
+Speech_0018L=-DisSol_Timothy- I co-operated... please...
+
+[P_05_Displace01_InterroServElevator]
+Speech_-001L=(null)
+Speech_0001L=-FISHER- What are you doing here?
+Speech_0008L=-DisSol_Alex- Oh... no... I'm... resetting the power to the central elevator
+Speech_0009L=-FISHER- The elevator... once that's back on, I'll be able to go to the upper floors?
+Speech_0010L=-DisSol_Alex- Yeah...
+Speech_0011L=-FISHER- Tell you what. You just relax... I'll deal with the elevator.
+Speech_0015L=-DisSol_Alex- Whatever you say.
+Speech_0012L=-DisSol_Alex- Just don't kill me, please.
+Speech_0013L=-DisSol_Alex- You need to reset the breaker to power the elevator.
+
+[P_05_Displace01_InterroServerTech]
+Speech_-001L=(null)
+Speech_0003L=-FISHER- I had a bit of a problem with your server...
+Speech_0004L=-DisTech_Jack- ...ah... please don't kill me...
+Speech_0005L=-FISHER- The files I want got shunted off to another computer...
+Speech_0006L=-DisTech_Jack- There should be a back-up here...
+Speech_0007L=-FISHER- There isn't... they're only on the PC of Milan Nedich...
+Speech_0008L=-DisTech_Jack- Milan? He's the VP of Protection Operations... his office is on the upper floors...
+Speech_0009L=-FISHER- Don't you think it's suspicious that he's hiding files?
+Speech_0010L=-DisTech_Jack- Uh... yeah... I guess...
+Speech_0014L=-DisTech_Jack- I don't know anything else
+Speech_0015L=-DisTech_Jack- Please... please let me live.
+
+[P_05_Displace01_InterroVIPExec]
+Speech_-001L=(null)
+Speech_0001L=-FISHER- Nice suit... Italian?
+Speech_0002L=-DisExc_Karol- Oh...oh no...uh... Italian... yes... Florentine silk... Andretti...
+Speech_0003L=-FISHER- Who's Andretti?
+Speech_0004L=-DisExc_Karol- Andretti? The famous designer... men's suits... tuxedos...
+Speech_0005L=-FISHER- I'm not a tuxedo kind of guy...
+Speech_0006L=-DisExc_Karol- But... but aren't you some kind of spy...
+Speech_0007L=-FISHER- Yeah... I'm the real kind... not the tuxedo kind. I'm the kind of spy who gets blood all over your Andretti unless you give me information...
+Speech_0008L=-DisExc_Karol- Oh...god... please... don't ruin my suit...
+Speech_0009L=-FISHER- How about a door code?
+Speech_0010L=-DisExc_Karol- CEO's office...2609
+Note_0016L=The key code for the CEO's office is 2609
+Speech_0013L=-DisExc_Karol- My wife will kill me if I ruin this suit...
+Speech_0014L=-DisExc_Karol- You're wrinkling the fabric...please...
+
+[P_05_Displace01_InterroVIPSol]
+Speech_-001L=(null)
+Speech_0001L=-FISHER- Gotcha...
+Speech_0002L=-DisSol_Paul- Hey...you're not supposed to be here!
+Speech_0003L=-FISHER- Tell me something useful and I'll leave...
+Speech_0004L=-DisSol_Paul- Forget it...I won't tell you anything.
+Speech_0005L=-FISHER- Are you crazy? We're on the sixtieth floor...
+Speech_0006L=-DisSol_Paul- Uh... wh...what do you mean...
+Speech_0009L=-FISHER- It's not true that you fall unconscious before you hit the ground... you'll see it coming the whole way...
+Speech_0010L=-DisSol_Paul- You...you wouldn't...
+Speech_0011L=-FISHER- I might...you wanna convince me not to?
+Speech_0012L=-DisSol_Paul- Uh.. door code to the executive offices is 2346.
+Note_0017L=The doorcode to the CEO meeting room is 2346
+Speech_0013L=-DisSol_Paul- Please... I'm scared of heights...
+Speech_0015L=-DisSol_Paul- I won't tell anyone you were here.
+
+[P_05_Displace01_Lambert]
+POPUPMESSAGE_0081=Retrieve the server access algorithm.
+Speech_0089L=-GRIMSDOTTIR- Sam, you need the access codes form the Executive's laptop. See if you can tap into it wirelessly.
+Speech_0017L=GRIMSDOTTIR - Fisher, that executive...he probably has the daily access algorithm for the Displace central servers stored on his laptop.
+Speech_0018L=FISHER - Lambert gave me pretty strict non-lethal parameters.
+Speech_0019L=GRIMSDOTTIR - If you stay close you should be able to hack into his laptop wirelessly.
+Speech_0020L=FISHER - I'll give it a whirl.
+Note_0069L=The Central Server access algorithm is on the executive's laptop
+Note_0082L=Electrochromic windows can be made transparent or opaque with the OCP.
+Speech_0090L=-REDDING- The windows are made with electrochromic glass. Specifications on your OPSAT.
+Speech_0021L=REDDING - Whoa.
+Speech_0022L=FISHER - That was weird.
+Speech_0023L=REDDING - Yeah...I've heard of this. It's called an electrochromic window. A small electric charge can change the opacity of microscopic crystals embedded in the glass.
+Speech_0024L=FISHER - Cool.
+Speech_0025L=REDDING - I'm thinking that your OCP should be able to toggle the state of the windows. I'm uploading the specification to your OPSAT.
+Speech_0026L=FISHER - Thanks Will.
+Note_0083L=Electrochromic windows can be made transparent or opaque with the OCP.
+Speech_-001L=(null)
+Speech_0078L=REDDING - The windows are made with electrochromic glass. Specifications on your OPSAT.
+Speech_0091L=-REDDING- Milan Nedich. VP Protection Operations...Displace International.
+Speech_0027L=REDDING - Milan Nedich. VP Protection Operations...Displace International.
+Speech_0028L=FISHER - He was in charge of the Morgenholt detail in Peru?
+Speech_0029L=REDDING - Yeah...and now he's in charge of Zherkezhi... and... damn... he's as clean as a whistle. Looks like he's been zeroed.
+Speech_0032L=FISHER - Hm...well whoever he is, he's playing both sides. We need to inform Shetland.
+Speech_0033L=REDDING - Shetland is on his own. We can't compromise OPSEC for private interests.
+Speech_0034L=FISHER - Fine...then I'm gonna try and take a look behind some of those zeros.
+Speech_-001L=(null)
+Speech_0080L=REDDING - Milan Nedich. VP Protection Operations...Displace International.
+Note_0084L=There might be a way into the Central Server room though R&D ventilation
+Speech_0087L=-GRIMSDOTTIR- It looks like some employees managed to get stuck between the double doors leaving to the server room. You'll have to find another way in there.
+Speech_0035L=GRIMSDOTTIR - Hmm...small problem Sam. A couple staffers got locked between the double doors leading to the server room.
+Speech_0038L=FISHER - That kind makes it hard to get through.
+Speech_0039L=GRIMSDOTTIR - Yeah...there might be another way... looks like there are some heat exchange vents in this part of the building... you might be able to find a way out there if you head through the R&D section.
+Speech_0040L=FISHER - I'll snoop around.
+Speech_-001L=(null)
+Speech_0074L=GRIMSDOTTIR - It looks like some employees managed to get stuck between the double doors leaving to the server room. You'll have to find another way in there.
+Note_0085L=There might be a way into the Central Server room though R&D ventilation
+Speech_0088L=-GRIMSDOTTIR- Check for a ventilation system. You might be able to find a way through.
+Speech_0001L=GRIMSDOTTIR - There's got to be a way through to the server room from this area.
+Speech_0002L=FISHER - Firing ranges usually have ventilation to clear the smoke... it probably ties into the AC system for the server room.
+Speech_0003L=GRIMSDOTTIR - Good thinking.
+Note_0086L=There might be a way into the Central Server room though R&D ventilation
+Speech_-001L=(null)
+Speech_0076L=GRIMSDOTTIR - Check for a ventilation system. You might be able to find a way through.
+Speech_-001L=(null)
+Speech_0004L=GRIMSDOTTIR - Uh...sorry to interrupt, but...
+Speech_0005L=FISHER - I see it.
+Speech_0006L=GRIMSDOTTIR - Power's coming back on.
+Speech_0007L=FISHER - I see it Grim...
+Speech_0008L=GRIMSDOTTIR - You got company incoming... you might want to--
+Speech_0009L=FISHER - I see it!
+Speech_-001L=(null)
+Speech_0010L=GRIMSDOTTIR - Uh...sorry to interrupt, but...
+Speech_0011L=FISHER - And he said let there be light...
+Speech_0012L=GRIMSDOTTIR - That's gonna make for a lot of happy New Yorkers...
+Speech_0013L=FISHER - Is there another kind?
+Speech_0014L=GRIMSDOTTIR - Well, those two guys that were trapped between the doors don't seem very happy.
+Speech_0015L=FISHER - Well, for them, the lights are still out.
+Speech_0016L=GRIMSDOTTIR - True.
+Speech_-001L=(null)
+Speech_0041L=GRIMSDOTTIR - Sam, you're going to need to manually restore power to Displace's elevators before you can get to the upper floors.
+Speech_0042L=FISHER - Will do.
+Speech_-001L=(null)
+Speech_0043L=GRIMSDOTTIR - Uh Sam...you better hide...
+Speech_0046L=FISHER - Where? I'm in a glass elevator.
+Speech_0047L=GRIMSDOTTIR - Well, someone else is in the other glass elevator on their way down...
+Speech_0048L=FISHER - Wonderful...
+Note_0073L=The key code for the fire escape door 3485
+Speech_-001L=(null)
+Speech_0050L=LAMBERT - Fisher, I'm afraid we might be facing an orchestrated attempt to push the world into a major crisis. Zherkezhi might know more about information warfare than anyone on earth, and the fact that Displace is combat-ready, essentially stateless, and better equipped than most governments...we need to find out fast whether this is a coincidence, or whether someone inside Displace is making a major move. That said, State Department has several very significant contracts with Displace. This thing is extremely political. I hate to do this to you, but keep it clean. Recon only. No fatalities.
+Speech_-001L=(null)
+Speech_0051L=GRIMSDOTTIR - Displace's Offices are on the top three floors of the Hantz Center Tower in downtown Manhattan. Recent financials indicate that they have invested heavily in their local infrastructure in order to maintain full operational capacity following even a major terrorist incident.
+Speech_-001L=(null)
+Speech_0052L=REDDING - Satellite confirms Grim's data. Displace is up and running at near-to-full capacity. It looks like they might be holding a meeting with members of New York City Council... possibly making a bid for protection or policing services to supplement the National Guard. They're prepared and opportunistic, that's for sure, but I wouldn't expect anything different. My money says they're playing fair, but if the boss wants to take a closer look, then that's what we'll do.
+Speech_-001L=(null)
+Speech_0055L=LAMBERT - Fisher, this is  a recon mission. Find out if Displace and Zherkezhi are working together and do not kill anyone
+Speech_-001L=(null)
+Speech_0056L=GRIMSDOTTIR - Sam, you're going to need to manually restore power to Displace's elevators before you can get to the upper floors.
+Speech_-001L=(null)
+Speech_0061L=GRIMSDOTTIR - Sam, you need the access codes form the Executive's laptop. See if you can tap into it wirelessly.
+Speech_-001L=(null)
+Speech_0067L=O'DELL - Now almost 48 hours into the blackout, State governments in New York, New Jersey, Connecticut, Massachusetts, and Pennsylvania have authorized deployment of the National Guard to help keep the peace as tensions and hysteria rises.
+Speech_0068L=O'DELL - Meanwhile, the USS Walsh sailed past Pearl Harbor, Hawaii this morning, en route to her duties in the Yellow Sea. The Walsh was escorted by her sister ship for fifty miles to symbolizes her vigil over the fifty states of the Union. The Walsh is expected to arrive in the Yellow Sea to join and assume C and C duties over Reagan Carrier Group in two days.
+
+[P_05_Displace01_LobbyCameras]
+
+[P_05_Displace01_LobbyChairLoop]
+
+[P_05_Displace01_LobbyEvent]
+
+[P_05_Displace01_LobbyGFConvo]
+POPUPMESSAGE_0008=Retrieve the server access algorithm.
+Speech_-001L=(null)
+Speech_0008L=-NYCCiv_Tom- So what did you wanna show me?
+Speech_0002L=-DisExc_Julian- In the lobby of the Empire State Building there are four brass rondelles. Art Deco pieces. Each rondelle represents one of the four disciplines of skyscraper construction.
+Speech_0003L=-NYCCiv_Tom- What? Like engineering? Financing? Real-estate...?
+Speech_0004L=-DisExc_Julian- Machines. Concrete. Decoration. Elevators. Elevators like this one here.
+Speech_0005L=-NYCCiv_Tom- Hunh. Ok, Julian. What's your point?
+Speech_0006L=-DisExc_Julian- My point is that every single day five million New York executives ride elevators. Elevators that they can't do their jobs without.
+Speech_0007L=-NYCCiv_Tom- So...
+
+[P_05_Displace01_LobbyMezzConvo]
+POPUPMESSAGE_0009=Retrieve the server access algorithm.
+Speech_-001L=(null)
+Speech_0008L=-NYCCiv_Tom- So what did you wanna show me?
+Speech_0002L=-DisExc_Julian- In the lobby of the Empire State Building there are four brass rondelles. Art Deco pieces. Each rondelle represents one of the four disciplines of skyscraper construction.
+Speech_0003L=-NYCCiv_Tom- What? Like engineering? Financing? Real-estate...?
+Speech_0004L=-DisExc_Julian- Machines. Concrete. Decoration. Elevators. Elevators like this one here.
+Speech_0005L=-NYCCiv_Tom- Hunh. Ok, Julian. What's your point?
+Speech_0006L=-DisExc_Julian- My point is that every single day five million New York executives ride elevators. Elevators that they can't do their jobs without.
+Speech_0007L=-NYCCiv_Tom- So...
+POPUPMESSAGE_0010=Retrieve the server access algorithm.
+
+[P_05_Displace01_LobbySecGuard]
+
+[P_05_Displace01_LobbyWindow]
+POPUPMESSAGE_0005=Retrieve the server access algorithm.
+Speech_-001L=(null)
+Speech_0004L=-DisExc_Julian- Lemme just get these windows before we go.
+Speech_0002L=-NYCCiv_Tom- Ah...man...I love that. We have to get some of those at City Hall.
+Speech_0003L=-DisExc_Julian- Email me and remind me... I'll set you up with a good deal.
+
+[P_05_Displace01_MemorableMoment]
+
+[P_05_Displace01_NoKill]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Jesus Christ, Fisher...I told you no kills. I'm pulling the plug. Mission over.
+
+[P_05_Displace01_Objectives]
+Objective_0001=Don't kill anyone.
+Objective_0095=Displace must not discover that intelligence operations are active against them. Killing anyone during the mission will result in immediate mission failure.
+Objective_0038=Retrieve the server access algorithm.
+Objective_0096=Recover Displace's Central Server access algorithm by hacking the laptop of the executive in the meeting room or checking for a back-up in the training area.
+Objective_0039=Access the Central Server in the server room
+Objective_0097=Access the Central Server to determine if Displace is complicit in Zherkezhi's possible crimes. Find a way in through the R&D section.
+POPUPMESSAGE_0113=Don't kill anyone.
+Speech_0121L=-LAMBERT- Fisher, this is  a recon mission. Find out if Displace and Zherkezhi are working together and do not kill anyone.
+Speech_0013L=LAMBERT - Fisher, we need to find out if Displace and Zherkezhi are working together.
+Speech_0043L=FISHER - But until we know, you want me to keep it quiet.
+Speech_0044L=LAMBERT - Don't kill anyone, or I'll abort the mission. The Pentagon has contracts with Displace all around the world...the President will have puppies if he finds out we're doing this.
+Objective_0082=Insert tracer programs into Displace's division servers
+Objective_0098=Grimsdottir will be better able to monitor Displace's activities if you can insert tracer programs into the small servers in each of Displace's divisions
+Speech_0122L=-GRIMSDOTTIR- Sam, it would be a big help if you could tap the servers in each of Displace's divisions with a little program I whipped up and put on your OPSAT.
+Speech_0016L=GRIMSDOTTIR - Sam, each of Displace's different divisions seems to have its own server farm. I've put a program on your OPSAT that will build a little back door into their networks.
+Speech_0048L=FISHER - You want me to upload that to each division server?
+Speech_0049L=GRIMSDOTTIR - I would appreciate it.
+Speech_0050L=FISHER - Since you asked so nice...
+Speech_-001L=(null)
+Speech_0110L=GRIMSDOTTIR - Sam, it would be a big help if you could tap the servers in each of Displace's divisions with a little program I whipped up and put on your OPSAT.
+Objective_0011=Discover who is in charge of the Zherkezhi protection detail.
+Objective_0099=Search Displace's servers to find any information about the Zherkezhi protection detail and who is in charge.
+Objective_0008=Exfiltrate from the primary extraction point.
+Objective_0100=Exfiltrate to the roof using the fire stairs on the south side of the top floor.
+POPUPMESSAGE_0114=Exfiltrate from the primary extraction point.
+Objective_0094=Find information linking Displace and Zherkhezi
+Objective_0101=User 'mnedich' has removed files relating to the Zherkezhi protection detail from the Central Server. Check his personal computer in his office on the top floor.
+Objective_0125=Discover the real identity of Milan Nedich.
+Objective_0126=Third Echelon's files draw a blank on the name Milan Nedich, Displace's VP of Protection Services. Find out what his real identity is.
+Note_0127L=The Laser Mic is part of the EEV.
+POPUPMESSAGE_0115=Find information linking Displace and Zherkhezi
+Speech_-001L=(null)
+Speech_0054L=LAMBERT - Damn. It looks like someone has shunted the data we need off the server... Login name, M Nedich.
+Speech_-001L=(null)
+Speech_0020L=FISHER-  Milan Nedich?
+Speech_0057L=LAMBERT - That name is coming up an awful lot, but we still don't have anything on him.
+Speech_0119L=-LAMBERT- Hmm... the data appears to have been moved to the terminal of Mnedich...Displace VP of Protection Operations... we'll need access to his computer in the Upper Offices.
+Speech_0058L=FISHER - M Nedich? Who's that?
+Speech_0059L=LAMBERT - Hmm... fragments here... looks like he's VP of Protection Operations for Displace.
+Speech_0060L=FISHER - He protected Zherkezhi and Morgenholt? Hmm. Either he's not very good at his job, or he's dirty.
+Speech_0061L=LAMBERT - Echelon has nothing on him. Looks like he's been zeroed.
+Speech_-001L=(null)
+Speech_0062L=-FISHER- Probably a pseudonym. I'll see if I can find out who he really is.
+Speech_0063L=LAMBERT - In any case, we need to get access to his computer. His office should be on the upper floors somewhere.
+Objective_0107=Find information linking Displace and Zherkhezi
+Objective_0108=User 'mnedich' has removed files relating to the Zherkezhi protection detail from the Central Server. Check his personal computer in his office on the top floor.
+POPUPMESSAGE_0116=Find information linking Displace and Zherkhezi
+Speech_-001L=(null)
+Speech_0109L=LAMBERT - Hmm... the data appears to have been moved to the terminal of Mnedich...Displace VP of Protection Operations... we'll need access to his computer in the Upper Offices.
+Objective_0128=Exfiltrate from the primary extraction point.
+Objective_0129=Exfiltrate to the roof using the fire stairs on the south side of the top floor.
+POPUPMESSAGE_0130=Exfiltrate from the primary extraction point.
+Speech_0120L=(null)
+Speech_0064L=LAMBERT - Hokkaido.
+Speech_0067L=FISHER - Isn't Hokkaido like the Alaska of Japan?
+Speech_0068L=LAMBERT - Yeah... looks like Milan Nedich has secretly relocated Zherkezhi there.
+Speech_0069L=FISHER - Interesting... now we definitely need to talk to Shetland.
+Speech_0070L=LAMBERT - We'll let State Department handle that mess. You're going to Hokkaido. We're sending a helicopter to evac you from the roof.
+Objective_0131=Exfiltrate from the primary extraction point.
+Objective_0132=Exfiltrate to the roof using the fire stairs on the south side of the top floor.
+POPUPMESSAGE_0133=Exfiltrate from the primary extraction point.
+Speech_-001L=(null)
+Speech_0106L=LAMBERT - Looks like Milan Nedich has secretly relocated Zherkezhi to Hokkaido, Japan. We're sending a helicopter to evac you from the roof.
+Speech_0123L=-REDDING- Milan Nowak... that's Nedich's real name. Turns out he's the Barber of Bosnia. Suspected war criminal from the Bosnian conflict.
+Speech_0073L=REDDING - Good grab Fisher. Milan Nedich's real name... Jesus... Milos Nowak...
+Speech_0074L=FISHER - Milos Nowak? Who is he?
+Speech_0077L=REDDING - Barber of Bosnia. Suspected war criminal from the Bosnian conflict. Allegedly scalped some of his prisoners.
+Speech_0078L=FISHER - Wanted in The Hague?
+Speech_0079L=REDDING - Yeah.
+Speech_0080L=FISHER - Bet you dollars to dinars that he doesn't make it to trial.
+Speech_0081L=REDDING - That's okay... I think my money's safer on the Nikkei.
+Speech_-001L=(null)
+Speech_0112L=REDDING - Milan Nowak... that's Nedich's real name. Turns out he's the Barber of Bosnia. Suspected war criminal from the Bosnian conflict.
+Objective_0092=Recover technical specifications for the Infrasound Generator
+Objective_0103=Displaces R&D Division is prototyping a new LTL munition that uses infrasound. Try to find the technical specifications.
+Objective_0093=Recover technical reports into ongoing Displace turret research
+Objective_0104=Displace's R&D Division is conducting research into automated turrets. Try to find the technical specifications.
+Speech_-001L=(null)
+Speech_0083L=GRIMSDOTTIR - Good work Sam, that's the first of their servers. If you can upload that to each of the other ones, I'll be able to snoop around as much as I please.
+Speech_0084L=FISHER - I'll see what I can do.
+Speech_-001L=(null)
+Speech_0085L=GRIMSDOTTIR - Good work Sam. Upload that program to the last server and you'll make me the happiest girl in the world.
+Speech_0086L=FISHER - You're easy to please.
+Speech_0087L=GRIMSDOTTIR - Access is a girl's best friend.
+Speech_0124L=-GRIMSDOTTIR- Way to go Sam. Now I can peruse Displace's divisional files at my leisure.
+Speech_0088L=GRIMSDOTTIR - Thanks Sam... that's the last one. I can't wait to sniff around in Displace's laundry basket
+Speech_0089L=FISHER - Awww...
+Speech_0090L=GRIMSDOTTIR - What?
+Speech_0091L=FISHER - Laundry... I totally forgot...
+Speech_-001L=(null)
+Speech_0111L=GRIMSDOTTIR - Way to go Sam. Now I can peruse Displace's divisional files at my leisure.
+
+[P_05_Displace01_OfficeEvents]
+Speech_-001L=(null)
+Speech_0001L=-DisExc_Julian- ...certainly entitled to request protection at that level from the National Guard I agree, but face it, the National Guard is a massive, cumbersome organization.
+Speech_0002L=-NYCCiv_Tom- Sure... that's what we need... a presence...
+Speech_0020L=-DisExc_Julian- On the contrary. The people want protection... they need protection... but they don't want to see protection. It frightens them. Having the National Guard on every corner will keep the peace... but at what cost?
+Speech_0021L=-NYCCiv_Tom- They'll get over it Julian. In the end, the thing they'll remember is that the National Guard is cheap. I'm dealing with tax payers here... the last thing I need is another fiscal accountability scandal.
+Speech_0022L=-DisExc_Julian- Hm...
+Speech_0023L=-NYCCiv_Tom- What?
+Speech_0024L=-DisExc_Julian- C'mon... I wanna show you something...
+
+[P_05_Displace01_OfficeLoungeLoop]
+
+[P_05_Displace01_OfficeLoungeRadio]
+
+[P_05_Displace01_OfficeOpsConvo]
+POPUPMESSAGE_0008=Retrieve the server access algorithm.
+Speech_-001L=(null)
+Speech_0007L=-DisExc_Julian- Heya, Mike. Brought Tom to see you.
+Speech_0002L=-DisTech_Micheal- Hi Jules. Hi Tom. Look, I think we're about ready to go with the presentation...
+Speech_0003L=-DisExc_Julian- I think you can forget the presentation Mike. Tom's sold. Aren't you Tom?
+Speech_0004L=-NYCCiv_Tom- Uh...well... yeah, I guess I am.
+Speech_-001L=(null)
+Speech_0005L=-DisExc_Julian- Allright. You wait here, I'm gonna head into the other room and do up some paperwork.
+Speech_0006L=-NYCCiv_Tom- Allright.
+
+[P_05_Displace01_OfficeProjector]
+
+[P_05_Displace01_OpsRandomLoop]
+
+[P_05_Displace01_OpsWorkLoop]
+
+[P_05_Displace01_RDDerekRandom]
+
+[P_05_Displace01_RDEvents]
+Speech_-001L=(null)
+Speech_0019L=-DisSol_A- It's a pretty cushy posting, that's for sure.
+Speech_0020L=-DisSol_B- But I heard the guy was really annoying.
+Speech_0021L=-DisSol_A- The guy isn't there anymore. He's outta town.
+Speech_0022L=-DisSol_B- What? So you're just watching his stuff?
+Speech_0023L=-DisSol_A- Yeah...emptying his liquor cabinet and playing video games... he's got the new Prince of Persia.
+Speech_0024L=-DisSol_B- Yeah? I heard it's awesome.
+Speech_0025L=-DisSol_A- Gonna be Game of the Year, man.
+Speech_0026L=-DisSol_B- Can't wait to play it.
+
+[P_05_Displace01_RDTechConvo]
+Speech_-001L=(null)
+Speech_0001L=-DisTech_Vaclav- Got any plans for the long weekend?
+Speech_0002L=-DisTech_Derek- Jesus... Fourth of July coming up. I forgot.
+Speech_0003L=-DisTech_Vaclav- You forgot? How could you forget?
+Speech_0004L=-DisTech_Derek- Ah... you know... been puttin' in crazy hours... don't even know what day it is.
+Speech_0005L=-DisTech_Vaclav- Mm... yeah, I know what you mean... me and Anne-Marie are gonna head up to Maine, stay in a little Bed and Breakfast... eat some lobster...
+Speech_0006L=-DisTech_Derek- Do they have power back in Maine yet?
+Speech_0007L=-DisTech_Vaclav- Power? Whoa... forgot about that.
+Speech_0008L=-DisTech_Derek- Ha. How could you forget?
+
+[P_05_Displace01_RDTurret]
+
+[P_05_Displace01_RDVaclavRandom]
+
+[P_05_Displace01_RoofEvents]
+Speech_-001L=(null)
+Speech_0002L=-DisSol_Walter- Hey, Marco asked me to ask you when you'd be finished getting the ventilation system running?
+Speech_0008L=-DisTech_Rolf- I don't know. In a while.
+Speech_0009L=-DisSol_Walter- Well, Marco says hurry up. Says the air is getting stale inside.
+Speech_0010L=-DisTech_Rolf- What the hell do I care what Marco says? I don't even know him.
+Speech_0011L=-DisSol_Walter- I'll tell him you said that.
+Speech_0012L=-DisTech_Rolf- Ha. Go ahead.
+Speech_0013L=-DisSol_Walter- Boy, are you in trouble.
+Speech_0014L=-DisTech_Rolf- Whatever.
+
+[P_05_Displace01_RoofSolRandom]
+
+[P_05_Displace01_RoofTech]
+
+[P_05_Displace01_RoofVentilation]
+
+[P_05_Displace01_SecurityEvents]
+Speech_-001L=(null)
+Speech_0009L=-DisTech_Jack- Alright...alright...hold on...I think I got it.
+Speech_0010L=-DisSol_Alex- Hurry up, I'm getting angry.
+Speech_0011L=-DisTech_Jack- Look, let me just connect this wire here...aaaaannnd...
+Speech_0012L=-DisSol_Alex- And?
+Speech_0013L=-DisTech_Jack- ...aaaannnnd... Dammit.
+Speech_0016L=-DisSol_Alex- Yer kiddin' me. I'm pulling the alarm...
+Speech_0017L=-DisTech_Jack- Hold on, hold on...
+Speech_0018L=-DisSol_Alex- I've been holding on for over an hour...
+Speech_-001L=(null)
+Speech_0019L=-DisTech_Jack- Ok...ok...this time I got it for sure. Hot, neutral, ground... got it all sorted out.
+Speech_0022L=-DisSol_Alex- I'm gonna sort you out if you don't open the damn door.
+Speech_0023L=-DisTech_Jack- No...I mean it...here...just connect this... yeah...now this... mm-hm... and...bingo!
+Speech_0024L=-DisSol_Alex- Bingo?
+Speech_0025L=-DisTech_Jack- uh...okay...that's not my fault...that's definitely caused by the blackout.
+Speech_-001L=(null)
+Speech_0026L=-DisSol_Alex- Well it's about time.
+Speech_0027L=-DisTech_Jack- I told you, it wasn't my fault. It was the blackout.
+Speech_0032L=-DisSol_Alex- Whatever...let's just hurry it up, will you.
+Speech_0033L=-DisTech_Jack- Allright. I want to check the server and make sure nothing got fried when the power came back on.
+Speech_0034L=-DisSol_Alex- Ok. Give a shout if you need anything.
+Speech_0035L=-DisTech_Jack- Will do.
+
+[P_05_Displace01_ServerCamera]
+
+[P_05_Displace01_ServerRandom]
+
+[P_05_Displace01_SRC]
+Speech_-001L=(null)
+Speech_0001L=-DisSol_A- It's a pretty cushy posting, that's for sure.
+Speech_0004L=-DisSol_B- But I heard the guy was really annoying.
+Speech_0005L=-DisSol_A- The guy isn't there anymore. He's outta town.
+Speech_0006L=-DisSol_B- What? So you're just watching his stuff?
+Speech_0007L=-DisSol_A- Yeah...emptying his liquor cabinet and playing video games... he's got the new Prince of Persia.
+Speech_0010L=-DisSol_B- Yeah? I heard it's awesome.
+Speech_0011L=-DisSol_A- Gonna be Game of the Year, man.
+Speech_0012L=-DisSol_B- Can't wait to play it.
+
+[P_05_Displace01_VIPCEO]
+
+[P_05_Displace01_VIPEvents]
+Speech_-001L=(null)
+Speech_0001L=-DisSol_Matthew- I've been hearing some creepy stuff about Milan. I'm not sure I trust that guy.
+Speech_0051L=-DisSol_Paul- Yeah. I heard he got drunk with some of the guys in Istanbul last month... wandered out of the bar looking for a fight...they found him the next morning covered in blood.
+Speech_0060L=-DisSol_Matthew- What?
+Speech_0061L=-DisSol_Paul- Yeah...Stan thinks he killed someone...read a newspaper article the next day...Istanbul police found some guy cut to ribbons just a couple blocks from the bar they were at.
+Speech_0054L=-DisSol_Matthew- Whoa.
+Speech_0055L=-DisSol_Paul- I think we should try and get on his PC in the executive offices, see if we can find anything.
+Speech_0057L=-DisSol_Matthew- The code to the area is 2346, but I don't know the code for his actual office.
+Speech_0058L=-DisSol_Paul- Alright...well, if I find out what it is, we'll go together.
+Speech_0059L=-DisSol_Matthew- Alright.
+Note_0066L=The key code for the CEOs meeting room is 2346
+
+[P_05_Displace01_VIPLaserMic]
+Speech_-001L=(null)
+Speech_0001L=-DisExc_Karol- Sorry to bring you in here so late, we need to put some extra men on the Zherkezhi detail. Your name came up.
+Speech_0002L=-DisSol_Gerald- Zherkezhi? That's the whacko in the penthouse uptown?
+Speech_0003L=-DisExc_Karol- Well, it's perhaps best not to refer to our client as 'the whacko'... but yes. Him. Or rather, his penthouse. Milos Nowak is--uh...
+Speech_0004L=-DisSol_Gerald- Who?
+Speech_0005L=-DisExc_Karol- Milan. Milan Nedich. Crazy slavic names...I always get them confused. Anyway, Zherkezhi is out of town, so there won't be a VIP. Just the property.
+Speech_0006L=-DisSol_Gerald- Okay. Sounds like a breeze.
+Speech_0007L=-DisExc_Karol- Well, it hasn't gone perfectly smooth so far...you'll get the full VIP rate and you'll be on duty as though there is a package on site.
+Speech_0008L=-DisSol_Gerald- Ok. Got it.
+Speech_0009L=-DisExc_Karol- Good. You report at thirteen hundred tomorrow.
+Speech_0010L=-DisSol_Gerald- Ok. I'll be there.
+
+[P_05_Displace01_VIPLoungeChair]
+

@@ -1,0 +1,48 @@
+[GENERAL]
+MapName=NAVE DA CARICO
+Briefing_LAMBERT=Dalle informazioni che hai recuperato in Perù sembra che Hugo Lacerda sia stato contattato da qualcuno per rapire e interrogare Morgenholt. È stato pagato in armi. Sembra che abbia usato quelle armi per rifornire i suoi uomini e pagare i debiti con altri gruppi di guerriglieri. Forse Lacerda è un perdente... ma forse ha strappato a Morgenholt informazioni che non vogliamo si sappiano in giro. La Maria Narcissa è in mare aperto, quindi non ci sono vie di fuga. Abbordala, ispezionala, scopri con chi stava trattando Lacerda e poi assicurati che non possa diffondere ciò che sa. Quinta libertà.
+Briefing_GRIMSDOTTIR=Quello che Morgenholt sapeva su Kernel di Masse, calcolo ricorsivo e algoritmi d'arma è paragonabile a quello che sapeva Oppenheimer sull'atomo o Turing sui computer digitali. Il Progetto Watson, l'indagine delle Nazioni Unite sui Kernel di Masse, verrà ricordato per secoli assieme al Progetto Manhattan come lo studio fondamentale che ha cambiato per sempre la natura della guerra. Immagina se Che Guevara avesse rapito e interrogato Oppenheimer nel 1959 e avrai un buon parallelo della situazione in cui ci troviamo.
+Briefing_REDDING=Manderemo l'elicottero a circa quaranta click dalla Maria Narcissa e ti lasceremo in mare sulla sua rotta. Abborderai di nascosto dalla prua. Ispeziona la nave e le stive. Scopri quello che puoi sui rifornimenti di armi e sulla gente con cui sta trattando Lacerda. Le immagini satellitari indicano che la Maria Narcissa ha una piccola lancia a poppa. Quella sarà la tua via di estrazione primaria. Se tutto va storto, possiamo sempre ripescarti dal mare.
+Briefing_PATRIDGE=Terremo la Walsh a tiro di elicottero dall'obiettivo per tutto il tempo. Se qualcosa va storto dovremmo riuscire ad aiutarti nell'estrazione. Se te la giochi pulita ti recupereremo dalla lancia in mare aperto appena esci dal raggio visivo della nave.
+Briefing=INCARICO
+
+
+[Interaction]
+IntActivatePumps=Attiva le pompe
+IntReadbilloflading=Leggi la bolla di carico
+IntExtraction=Estrazione
+
+[Computer]
+CompTransitLedger=Bolla di carico
+CompRoomassignment=Assegnamento stanze
+
+[Email]
+EmailFloodedBody=La sentina ha un problema. Forse ho trovato un modo di risolverlo. Se si allagano altri compartimenti prova ad attivare la pompa secondaria nel castello di prua.
+EmailFloodedDate=28 giugno 2007
+EmailFloodedFrom=Gerardo
+EmailFloodedSubject=Allagamento
+EmailFloodedTo=Ignacio
+
+EmailLacerdaBody=Arriverò sulla vostra nave stanotte. Tienimi quella tua feccia puzzolente fuori dai piedi. Non voglio essere disturbato.
+EmailLacerdaDate=28 giugno 2007
+EmailLacerdaFrom=Hugo Lacerda 
+EmailLacerdaSubject=Arrivo a bordo
+EmailLacerdaTo=Capitano Diego
+
+EmailInfoBody=Il corpo dell'americano Bruce Morgenholt è stato recuperato oggi in Perù. La causa del decesso non è stata resa pubblica, ma il Dipartimento di Stato americano ha preteso scuse formali dall'Esercito Peruviano per il suo possibile ruolo in un'operazione di salvataggio fallita. 
+EmailInfoDate=28 giugno 2007
+EmailInfoFrom=WNM News Wire
+EmailInfoSubject=Morgenholt trovato morto in Perù.
+EmailInfoTo=Iscritti
+
+EmailInfo2Body=I-SDF accusa la Corea del Nord per il crollo dei mercati. L'I-SDF giapponese ha rivelato le sue scoperte sugli eventi riguardanti la "giornata nera dell'oro". Secondo il rapporto attacchi informatici cinesi e nordcoreani avrebbero manipolato i mercati mondiali per provocare il crollo economico del giappone.
+EmailInfo2Date=28 giugno 2007
+EmailInfo2From=WNM News Wire
+EmailInfo2Subject=L'I-SDF accusa la Corea del Nord di essere coinvolta nel crollo del mercato
+EmailInfo2To=Iscritti
+
+EmailEngineRoomBody=Sono molto preoccupato per le giunte dei tubi del gas. Abbiamo già diverse perdite minori. Se la cosa peggiora, una scintilla potrebbe affondare questa scatola di sardine.
+EmailEngineRoomDate=28 giugno 2007
+EmailEngineRoomFrom=Pedro 
+EmailEngineRoomSubject=Sala macchine
+EmailEngineRoomTo=Cornelio

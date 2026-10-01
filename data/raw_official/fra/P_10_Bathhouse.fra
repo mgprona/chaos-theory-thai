@@ -1,0 +1,715 @@
+[P_10_Bathhouse_AlarmCheck]
+POPUPMESSAGE_0001=Niveau d'alerte 1
+POPUPMESSAGE_0008=Niveau d'alerte 2 - les ennemis mettent leurs armures
+Note_0009L=Les ennemis portent une armure.
+POPUPMESSAGE_0010=Niveau d'alerte 3 - les ennemis mettent leurs casques
+Note_0011L=Les ennemis portent un casque.
+POPUPMESSAGE_0012=Niveau d'alerte 4 - alerte rouge - les ennemis renforcent leurs positions
+Note_0013L=Les ennemis ont renforcé leurs positions.
+POPUPMESSAGE_0002=Niveau d'alerte 2 - les ennemis mettent leurs armures
+POPUPMESSAGE_0003=Niveau d'alerte 3 - les ennemis mettent leurs casques
+POPUPMESSAGE_0004=Niveau d'alerte 4 - alerte rouge - les ennemis renforcent leurs positions
+
+[P_10_Bathhouse_Bomb_Explosions]
+
+[P_10_Bathhouse_Bomb_Lights]
+
+[P_10_Bathhouse_Bombs_Timers]
+
+[P_10_Bathhouse_BrokenLight]
+
+[P_10_Bathhouse_CheckCiviliansDeath]
+
+[P_10_Bathhouse_Communications]
+Speech_0073L=Echelon a réussi à retrouver la trace de Doug Shetland à Tokyo, il y a six heures de cela. Il est extrêmement mobile et utilise une connexion sans fil, et ce que nous avons réussi à décrypter indique qu'il se prépare à conclure son affaire avec ses contacts locaux. Apparemment, ses hommes et lui se dirigeraient vers un sauna japonnais du centre-ville.  Il nous faut apprendre qui Shetland doit rencontrer et tout faire pour l'empêcher de conclure son affaire.
+
+
+Speech_0074L=L'attaque qui a coulé le Walsh en lançant à distance le missile de la batterie nord-coréenne a transité par Séoul, mais nous savons maintenant qu'elle est venue du Japon. Shetland a manifestement quelque chose à voir dans cette affaire, et ma connexion aux serveurs de Displace montre qu'il s'enrichit grâce à cette guerre.  Nous devons l'empêcher de nuire et empêcher l'escalade du confilt, en identifiant ses partenaires et en nous assurant que ces derniers n'ont pas les algorithmes de Zherkezhi en leur possession.
+Speech_0075L=Le sauna japonais dans lequel leur rencontre a lieu est un endroit semi-public, Fisher. Il y aura donc des civils, mais aussi un grand nombre de porte-flingues, très vraisemblablement. Les hommes de Shetland semblent avoir tous rejoint Tokyo, et ils convergent vers l'établissement depuis une heure.  Frances Coen a passé les derniers mois en Asie et elle a découvert des liens entre le propriétaire du sauna et une organization criminelle, les Nishins Rouges.  Ce sont peut-être eux les partenaires de Shetland.
+Speech_-001L=(null)
+Speech_0002L=Lambert. L'I-SDF est dans l'immeuble. Est-ce qu'elle a agi ?
+Speech_-001L=(null)
+Speech_0003L=Je n'arrive toujours pas à contacter Otomo. J'ignore ce qui se passe.
+Speech_0088L=Une petite minute...
+Speech_-001L=(null)
+Speech_0005L=Seigneur, Lambert... l'I-SDF n'est pas là pour abattre Shetland, mais pour le rencontrer. Ce sont eux, ses partenaires !
+Speech_0008L=Bon dieu ! Restez où vous êtes. Il nous faut plus de détails pour les chefs d'état-major.
+Speech_-001L=(null)
+Speech_0009L=Lambert...
+Speech_0010L=Laissez faire, Fisher. Nous ramasserons les morceaux quand ce sera fini.
+Speech_-001L=(null)
+Speech_0011L=Fisher...
+Speech_0012L=Shetland doit mourir... je sais...
+POPUPMESSAGE_0129=Eliminez Shetland.
+Speech_-001L=(null)
+Speech_0001L=N'oubliez pas qu'il y aura des civils dans le sauna japonais, Fisher. N'en tuez aucun... je répète, aucun.
+Speech_0013L=Je serai prudent.
+Speech_0014L=Soyez même zen. Pensez Gandhi...
+Speech_0015L=Bien compris.
+Speech_-001L=(null)
+Speech_0113L=Fisher, you have civilians on site. Do not kill any of them.
+Speech_-001L=(null)
+Speech_0016L=Bon sang, Fisher ! C'était un civil !
+Speech_0017L=Désolé.
+Speech_0018L=Contrôlez-vous ! Vous êtes un pro, alors, prouvez-le !
+Speech_0019L=Ça ne se reproduira pas.
+Speech_-001L=(null)
+Speech_0114L=Bon sang, Fisher, vous venez juste de tuer un civil ! Contrôlez-vous !
+Speech_-001L=(null)
+Speech_0020L=Vous êtes de moins en moins fiable, Fisher. J'annule tous vos objectifs, sauf les principaux. Remplissez la mission et fichez-moi le camp.
+Speech_0021L=Bien compris.
+Speech_-001L=(null)
+Speech_0115L=C'est le second civil que vous tuez, Fisher. J'annule tous vos objectifs, sauf les principaux. Remplissez la mission et fichez-moi le camp.
+Speech_-001L=(null)
+Speech_0022L=Ces types n'ont pas l'air japonais, Fisher...
+Speech_0023L=Costumes de marque taillés large aux épaules... ils sont armés, aucun doute. 
+Speech_0024L=Pour moi, ce sont des hommes de Displace, qui sont là incognito.
+Speech_0025L=C'est logique. Doug sait se faire discret quand c'est nécessaire.
+Speech_-001L=(null)
+Speech_0116L=Fisher, the guys in the suits look like Displace mercenaries trying to keep a low profile. Watch yourself.
+Note_0092L=L'ordinateur du propriétaire se trouve dans son bureau, au-dessus de la réception.
+Speech_-001L=(null)
+Speech_0026L=Vous allez devoir accéder au bureau pour voir qui Shetland est censé rencontrer, Fisher. Allez au nord de votre position, passez devant la réception et montez à l'étage.
+Speech_0027L=J'y vais.
+Speech_-001L=(null)
+Speech_0117L=Check the private offices on the top floor to figure out who Shetland is meeting with.
+Speech_-001L=(null)
+Speech_0030L=Il vaudrait mieux que vous sachiez qui Shetland est censé rencontrer ici avant d'aller vers l'arrière du sauna japonais, Fisher.
+Speech_0031L=Je reviens sur mes pas.
+Speech_0032L=Vous devriez trouver des infos dans le bureau du propriétaire, à l'étage.
+Speech_-001L=(null)
+Speech_0118L=Revenez sur vos pas et accédez à l'ordinateur situé dans le bureau du propriétaire, Fisher. Comme ça, nous saurons qui Shetland doit rencontrer.
+Speech_-001L=(null)
+Speech_0033L=Je vous l'ai dit, Fisher, il faut accéder à l'ordinateur du propriétaire pour savoir qui sont les contacts de Shetland.
+Speech_0034L=Vous voulez dire qu'il faut que je retourne à la réception ?
+Speech_0035L=Pas d'autres solutions.
+Note_0094L=L'I-SDF se prépare à arrêter Shetland, ce qui nuirait au bon déroulement de notre opération.
+Speech_-001L=(null)
+Speech_0036L=Fisher... le satellite vient de repérer une unité de troupes d'assaut de l'I-SDF qui convergent vers le sauna. Peut-être que les Nishins rouges ont vendu Shetland aux autorités.
+Speech_0039L=Je laisse l'I-SDF régler ça ?
+Speech_0040L=Pas avant la réunion de Shetland. Essayez de découvrir ce qu'il vient faire ici avant que l'I-SDF se charge de lui.
+Speech_-001L=(null)
+Speech_0041L=Ces deux-là ne sont pas de Displace... se sont des troupes d'assaut de l'I-SDF...
+Speech_0042L=Qu'est-ce que l'I-SDF fiche ici ?
+Note_0095L=L'I-SDF se prépare à arrêter Shetland, ce qui nuirait au bon déroulement de notre opération.
+Speech_-001L=(null)
+Speech_0043L=Peut-être que les Nishins rouges ont vendu Shetland à l'I-SDF. Espionnez la réunion et essayez de découvrir ce qui se passe avant l'intervention de l'I-SDF.
+Speech_0046L=Il faudrait essayer de la retarder...
+Speech_0047L=J'appelle tout de suite l'amiral Otomo, afin d'accorder nos violons avec lui.
+Speech_-001L=(null)
+Speech_0119L=Fisher... on dirait que l'I-SDF veut éliminer Shetland. Espionnez la réunion de Shetland avant que nos amis japonais ne flanquent tout par terre.
+Speech_-001L=(null)
+Speech_0121L=L'I-SDF se prépare à intervenir. Ecoutez ce qui se dit à la réunion de Shetland.
+Note_0128L=L'I-SDF se prépare à arrêter Shetland, ce qui nuirait au bon déroulement de notre opération.
+Speech_-001L=(null)
+Speech_0048L=Il faudrait découvrir le taux d'implication des Nishins rouges dans cette histoire.
+Speech_0049L=L'ordinateur du propriétaire...
+Speech_0050L=Dans le bureau que vous venez de traverser.
+Speech_-001L=(null)
+Speech_0120L=Fisher... il est possible que l'I-SDF veuille éliminer Shetland. Accéder à l'ordinateur du propriétaire. Il nous faut savoir qui Shetland est censé rencontrer. 
+Speech_-001L=(null)
+Speech_0122L=L'I-SDF se prépare à intervenir. Accédez à l'ordinateur du propriétaire dans le bureau d'à-côté.
+Note_0090L=Shetland est arrivé. Il a un rendez-vous dans les bains privés.
+Speech_-001L=(null)
+Speech_0053L=Je l'ai. Le rendez-vous de Shetland est prévu dans les bains privés, à l'arrière du sauna. 
+Speech_0054L=Qui doit-il rencontrer ?
+Speech_0055L=Apparemment, les Nishins rouges. Coen avait raison. Le propriétaire des lieux est impliqué jusqu'au cou avec la mafia locale.
+Speech_-001L=(null)
+Speech_0056L=Mais si l'I-SDF est là... 
+Speech_0057L=Peut-être que les potes yakuzas de Shetland l'ont vendu aux autorités...
+Speech_0058L=Je vais espionner Shetland et ses amis avant que l'I-SDF s'excite trop et décide d'intervenir en force.
+POPUPMESSAGE_0130=Espionnez le rendez-vous de Shetland avant l'intervention de l'I-SDF.
+Speech_-001L=(null)
+Speech_0123L=On dirait que Coen avait raison et que Shetland avait rendez-vous avec les Nishins rouges. Mais si l'I-SDF a l'intention d'intervenir, il faut que tu espionnes Shetland et ses amis avant l'assaut.
+POPUPMESSAGE_0131=Espionnez le rendez-vous de Shetland avant l'intervention de l'I-SDF.
+Speech_-001L=(null)
+Speech_0124L=L'I-SDF va peut-être essayer d'intervenir. Espionne vite Shetland et ses amis.
+POPUPMESSAGE_0134=Espionnez le rendez-vous de Shetland avant l'intervention de l'I-SDF.
+Speech_-001L=(null)
+Speech_0059L=Hmmm... ça ne ressemble pas au style de Shetland...
+Speech_0060L=Tant que tu n'auras pas trouvé du solide indiquant le contraire, ça tient la route pour moi.
+Speech_0061L=Je continue de chercher.
+POPUPMESSAGE_0135=Espionnez le rendez-vous de Shetland avant l'intervention de l'I-SDF.
+Speech_-001L=(null)
+Speech_0125L=On dirait que Coen avait raison et que Shetland avait rendez-vous avec les Nishins rouges.
+POPUPMESSAGE_0136=Espionnez le rendez-vous de Shetland avant l'intervention de l'I-SDF.
+Speech_-001L=(null)
+Speech_0126L=Il est possible que Shetland ait rendez-vous avec les Nishins rouges. Espionne-les.
+POPUPMESSAGE_0137=Espionnez le rendez-vous de Shetland avant l'intervention de l'I-SDF.
+Speech_-001L=(null)
+Speech_0062L=Bien pensé, Fisher. On dirait que Shetland utilise le code de récursivité infinie de Zherkezhi pour faire tourner des algorithmes lui permettant d'organiser ses troupes...
+Speech_0063L=Pourquoi ?
+Speech_0064L=La vache ! J'en connais qui vont adorer : il suffit que Shetland détermine ses objectifs pour que le logiciel répartisse les tâches entre ses hommes et les contacte tous.
+Speech_0067L=Autrement dit, ses hommes peuvent se rendre sur place et accomplir leurs objectifs sans même savoir quel est le plan d'ensemble, c'est ça ?
+Speech_0068L=Exactement. C'est plus ou moins l'inverse de la dague de verre de Nikoladze...
+Speech_-001L=(null)
+Speech_0127L=Fisher... j'ai trouvé sur le portable de Shetland un programme qui devrait nous aider à comprendre comment son armée privée peut fonctionner en étant si disséminée. C'est plus ou moins l'inverse de la dague de verre de Nikoladze.
+Speech_-001L=(null)
+Speech_0069L=Je viens de recevoir une requête de Frances Coen, Fisher.
+Speech_0070L=Qu'est-ce qu'elle veut ?
+Speech_0071L=Ça fait longtemps qu'elle cherche à introduire quelqu'un dans ce sauna pour espionner les Nishins rouges. Elle veut savoir si tu peux mettre des mouchards sur les lignes téléphoniques.
+Speech_0072L=Si c'est pour Frances, évidemment.
+POPUPMESSAGE_0132=Entrez dans le sauna japonais.
+Speech_-001L=(null)
+Speech_0076L=Beau travail, Fisher. Voilà pour la première ligne téléphonique. Occupe-toi des autres.
+Speech_-001L=(null)
+Speech_0078L=Fantastique, Sam ! Coen me dit qu'il n'y a plus qu'un seul mouchard à poser.
+Speech_-001L=(null)
+Speech_0080L=C'était la dernière ligne, Fisher. Coen te remercie.
+Speech_0081L=Dis-lui que c'était un plaisir.
+Speech_-001L=(null)
+Speech_0082L=Attention avec les alarmes, Fisher. Il ne faudrait pas vous faire repérer.
+Speech_-001L=(null)
+Speech_0084L=Je suis sérieux. Si trop d'alarmes sonnent, vous le regretterez.
+Speech_-001L=(null)
+Speech_0085L=Attention, Fisher ! Encore une alarme et ces types sauront que vous êtes là !
+Speech_-001L=(null)
+Speech_0086L=Bon sang, Fisher ! Tout le sauna est en état d'alerte, maintenant ! Il va vous falloir passer en force. Remplissez vos objectifs principaux et tirez-vous !
+Note_0093L=Shetland est en train de placer des bombes pour couvrir sa fuite.
+Speech_-001L=(null)
+Speech_0087L=Mon dieu, Fisher ! Shetland a placé des bombes dans la salle de la chaudière ! Vous devez les trouver, et vite !
+POPUPMESSAGE_0133=Désamorcez les bombes de Shetland.
+Speech_0065L=Pourquoi ?
+
+[P_10_Bathhouse_ComSummaries]
+Speech_-001L=(null)
+Speech_0001L=Il y a des civils sur place, Fisher. N'en tuez surtout pas.
+Speech_-001L=(null)
+Speech_0002L=Bon sang, Fisher, vous venez juste de tuer un civil ! Contrôlez-vous !
+Speech_-001L=(null)
+Speech_0003L=C'est le second civil que vous tuez, Fisher. J'annule tous vos objectifs, sauf les principaux. Remplissez la mission et fichez-moi le camp.
+Speech_-001L=(null)
+Speech_0004L=Ces types en costard ont l'air de mercenaires de Displace ne voulant pas se faire repérer. Soyez prudent.
+Speech_-001L=(null)
+Speech_0005L=Allez au bureau situé à l'étage pour découvrir avec qui Shetland a rendez-vous.
+Speech_-001L=(null)
+Speech_0006L=Revenez sur vos pas et accédez à l'ordinateur situé dans le bureau du propriétaire, Fisher. Comme ça, nous saurons qui Shetland doit rencontrer.
+Speech_-001L=(null)
+Speech_0007L=Une unité de l'I-SDF se rapproche du sauna japonais, Fisher. Je n'arrive pas à contacter l'amiral Otomo, et il faut espionner la réunion de Shetland avant l'intervention de l'I-SDF.
+Speech_-001L=(null)
+Speech_0017L=L'I-SDF arrive. Ecoutez ce qui se dit à la la réunion de Shetland avant son intervention.
+Speech_-001L=(null)
+Speech_0008L=Fisher... on dirait que l'I-SDF veut éliminer Shetland. Espionnez la réunion de Shetland avant que nos amis japonais ne flanquent tout par terre.
+Speech_-001L=(null)
+Speech_0009L=L'I-SDF se prépare à intervenir. Ecoutez ce qui se dit à la réunion de Shetland.
+Speech_-001L=(null)
+Speech_0010L=Fisher... il est possible que l'I-SDF veuille éliminer Shetland. Accéder à l'ordinateur du propriétaire. Il nous faut savoir qui Shetland est censé rencontrer. 
+Speech_-001L=(null)
+Speech_0011L=L'I-SDF se prépare à intervenir. Accédez à l'ordinateur du propriétaire dans le bureau d'à-côté.
+Speech_-001L=(null)
+Speech_0012L=On dirait que Coen avait raison et que Shetland avait rendez-vous avec les Nishins rouges. Mais si l'I-SDF a l'intention d'intervenir, il faut que tu espionnes Shetland et ses amis avant l'assaut.
+Speech_-001L=(null)
+Speech_0013L=L'I-SDF va peut-être essayer d'intervenir. Espionne vite Shetland et ses amis.
+Speech_-001L=(null)
+Speech_0014L=On dirait que Coen avait raison et que Shetland avait rendez-vous avec les Nishins rouges.
+Speech_-001L=(null)
+Speech_0015L=Il est possible que Shetland ait rendez-vous avec les Nishins rouges. Espionne-les.
+Speech_-001L=(null)
+Speech_0016L=Fisher... j'ai trouvé sur le portable de Shetland un programme qui devrait nous aider à comprendre comment son armée privée peut fonctionner en étant si disséminée. C'est plus ou moins l'inverse de la dague de verre de Nikoladze.
+
+[P_10_Bathhouse_DryBathGuard01]
+
+[P_10_Bathhouse_EventPlayerNotes]
+Note_0002L=Des types ont rangé une partie de leur équipement dans la salle de massage.
+Note_0010L=Il y a une trousse de premiers secours dans la salle de massage.
+Note_0003L=Il y a un conduit d'évacuation entre le hammam et le sauna froid.
+Note_0004L=Il y a une trousse de premiers secours dans le placard du restaurant.
+Note_0009L=Il y a une trousse de premiers secours à l'entrée des douches privées.
+POPUPMESSAGE_0006=Découvrez qui est le contact de Shetland.
+POPUPMESSAGE_0007=Espionnez le rendez-vous de Shetland avant l'intervention de l'I-SDF.
+POPUPMESSAGE_0008=Eliminez Shetland.
+Speech_-001L=(null)
+Speech_0011L=(null)
+Speech_-001L=(null)
+Speech_0012L=(null)
+
+[P_10_Bathhouse_FakeFight]
+
+[P_10_Bathhouse_FlashingNeon]
+
+[P_10_Bathhouse_Helicopter]
+POPUPMESSAGE_0001=Eliminez Shetland.
+
+[P_10_Bathhouse_InterroBackAlley]
+Speech_-001L=(null)
+Speech_0001L=Qu'est-ce que tu fabriques ici ?
+Speech_0002L=Ahhhh ! Seigneur ! On est censés vérifier les connexions DSL, pour qu'il n'y ait pas d'interférences.
+Speech_0008L=Pourquoi ? Shetland a installé un réseau ?
+Speech_0009L=Oui. Un truc qu'il appelle réseau fantôme, à base de connexions sans fil. Ça fonctionne entre les fréquences wi-fi standard... presque impossible à intercepter...
+Speech_0010L=Merci de ton aide.
+Speech_0011L=De rien.
+Speech_0003L=Je suis juste un prestataire...
+Speech_0005L=Je crois que je vais m'évanouir.
+
+[P_10_Bathhouse_InterroFallBack]
+Speech_-001L=(null)
+Speech_0001L=Parle-moi de votre stratégie de repli.
+Speech_0002L=Quoi ? Qu'est-ce...
+Speech_0003L=Du calme. Dis-moi juste ce que je veux savoir.
+Speech_0004L=Je... aïe ! OK. Le plan, c'est de défendre le couloir de derrière si tout va mal.
+Speech_0005L=Pourquoi ?
+Speech_0006L=Shetland a un hélico dans les airs. Il peut filer en moins de trois minutes. Si on nous attaque, on doit juste défendre le périmètre, le temps qu'il s'en aille.
+Note_0013L=Shetland a un hélicoptère qui se tient prêt sur le toit, en cas de départ précipité.
+Speech_0007L=Où est-ce que cet hélico doit se poser ?
+Speech_0008L=Sur le toit. Prenez le couloir de maintenance, derrière les douches privées. 
+Speech_0009L=Je ne sais rien d'autre.
+Speech_0010L=Vous ne l'aurez pas, il est trop malin.
+Speech_0011L=Laissez-moi partir.
+Note_0012L=Shetland a un hélicoptère qui se tient prêt sur le toit, en cas de départ précipité.
+
+[P_10_Bathhouse_InterroFrontBuilding]
+Speech_-001L=(null)
+Speech_0001L=Chut... tu sais ce qui m'intéresse ?
+Speech_0007L=Shetland, j'imagine... comme tout le monde, ici.
+Speech_0008L=Où est-il ?
+Speech_0009L=Il doit rencontrer quelqu'un dans les bains privés, au sud. Je ne sais pas qui ni quand, mais c'est pour bientôt.
+Speech_0010L=Quel est son plan de fuite en cas de problème ?
+Speech_0011L=Hmm... je parierais pour une extraction par hélico depuis le toit.
+Speech_0004L=Tuez-moi si vous le voulez.
+Speech_0005L=Vous jouez un jeu dangereux, l'ami...
+
+[P_10_Bathhouse_InterroKitchen]
+Speech_-001L=(null)
+Speech_0001L=Chut ! Parle-moi du propriétaire des lieux.
+Speech_0002L=Euh... le... le proprio ?
+Speech_0006L=Oui. Il paraît qu'il fait partie des Nishins rouges.
+Speech_0009L=Si c'est le cas... et si je parle... qu'est-ce qui m'arrivera à votre avis ?
+Speech_0010L=Aucune idée... si tu me le disais...
+Speech_0011L=Il me tuera s'il l'apprend.
+Speech_0012L=Autrement dit, il fait bien partie des Nishins rouges...
+Speech_0013L=Je n'ai rien dit, rien du tout !
+Speech_0003L=Plutôt mourir que voir les miens massacrés par les Nishins rouges.
+Speech_0005L=Je ne mérite pas la mort.
+Speech_0004L=Je fais juste des massages.
+
+[P_10_Bathhouse_InterroLaundry]
+Speech_-001L=(null)
+Speech_0003L=Bon, utilisons la manière douce. Tu m'apprends quelque chose d'utile et, en échange, je ne te tue pas. Honnête ?
+Speech_0004L=Ça me va, oui. Qu'est-ce que vous voulez savoir ? 
+Speech_0005L=Combien d'hommes vous avez, ici ?
+Speech_0006L=Euh... aucune idée, en fait. Shetland nous a rassemblés comme une flashmob. On était éparpillés dans Tokyo et on est venus quand il nous a appelés. Chacun sait ce qu'il a à faire.
+Speech_0007L=Intéressant.
+Speech_0008L=Moi, je devais juste venir surveiller ce sous-sol. Je ne savais même pas qu'il y aurait d'autre gars de Displace ici, c'est pour dire...
+Speech_0010L=Chacun de nous a une mission bien précise, comme garder le sous-sol.
+Speech_0011L=Et il y a aussi des règles auxquelles on doit obéir, comme ne jamais tirer sur les collègues.
+Speech_0012L=Entre notre mission personnelle et les règles générales, on n'a pas besoin de connaître les détails de l'opération en cours.
+
+[P_10_Bathhouse_InterroLockerRoom]
+Speech_-001L=(null)
+Speech_0001L=Qu'est-ce que tu fais là, tout seul ?
+Speech_0002L=Ah : Je vous en supplie...
+Speech_0003L=Qu'est-ce qu'il y a derrière les vestiaires ?
+Speech_0004L=Euh... un couloir... à droite, les bains publics... à gauche, la piscine... mais elle est en réparation...
+Speech_0005L=Merci de l'info, mais je ne suis pas venu nager.
+Speech_0006L=Les bains sont bien défendus... je ne sais pas s'il y a quelqu'un dans la piscine.
+Speech_0007L=Ahhh ! C'est mieux.
+Speech_0010L=Je vous en prie... j'ai peur des vestiaires depuis mon tout jeune âge...
+Speech_0011L=Tuez-moi s'il le faut, mais ne me fouettez pas avec une serviette... c'est dangereux pour les yeux.
+
+[P_10_Bathhouse_InterroPrivateBath01]
+Speech_-001L=(null)
+Speech_0004L=Qu'est-ce que vous faites ici ?
+Speech_0005L=Que... qui...
+Speech_0006L=Cet endroit va se transformer en champ de bataille... qu'est-ce que vous faites là ?
+Speech_0007L=Je... je ne savais pas... ils m'ont dit de partir... mais je ne l'ai pas fait.
+Speech_0008L=Eh bien, c'est trop tard, maintenant.
+Speech_0009L=Pou... pourquoi ?
+Speech_0010L=Je vais faire en sorte que vous n'alliez nulle part.
+Speech_0011L=Non... attendez !
+Speech_0001L=Please... don't hurt me.
+Speech_0002L=Je suis un vieil idiot.
+Speech_0003L=Ne me tuez pas !
+
+[P_10_Bathhouse_InterroPrivateBath02]
+Speech_-001L=(null)
+Speech_0004L=Qu'est-ce que vous faites ici ?
+Speech_0005L=Ha ! Et vous, alors ?
+Speech_0006L=Vous êtes bête, ou quoi ? Je suis armé.
+Speech_0007L=Ma peau ne craint pas les lames ! Les Nishins rouges n'ont peur de rien !
+Speech_0008L=Quoi ? Vous êtes un Nishin rouge ?
+Speech_0009L=Nul n'osera jamais me faire du mal... sous peine de devoir regarder tous ses proches se faire lentement torturer avant de subir le même sort.
+Speech_0010L=OK, bonhomme. Si tu me disais ce que signifie nishin ?
+Speech_0011L=Un nishin est un petit poisson... argenté, le plus souvent... excellent saur.
+Speech_0012L=Quoi ? Les poissons rouges ?
+Speech_0013L=Oui, on pourrait nous appeler comme ça, j'imagine...
+Speech_0002L=Je suis sans peur et indestructible !
+Speech_0003L=Je crache des flammes et je sais voler !
+
+[P_10_Bathhouse_InterroPrivateRooms]
+Speech_-001L=(null)
+Speech_0001L=Je ne veux pas vous faire du mal, alors, rendez-vous utile.
+Speech_0002L=Je sais beaucoup de choses...
+Speech_0006L=Excellent ! Commençons par le début...
+Speech_0007L=Le code de la porte du bureau du propriétaire est le 3650.
+Note_0015L=Le code de la porte du bureau du propriétaire est le 3650.
+Speech_0008L=Bien.
+Speech_0009L=Il y a des types barricadés dans la pièce adjacente au bureau... et un conduit d'aération mural relie les deux salles.
+Speech_0010L=Parfait.
+Speech_0011L=Ce fut un plaisir. Revenez quand vous voudrez.
+Speech_0003L=Il y a aussi une bouteille de bon whisky à côté de mon lit.
+Speech_0004L=La caméra du couloir peut être éteinte à partir de l'ordinateur de la réception.
+Note_0016L=Il y a une caméra dans le couloir menant au bureau du propriétaire.
+Note_0013L=Le code de la porte du bureau du propriétaire est le 3650.
+Note_0014L=Il y a une caméra dans le couloir menant au bureau du propriétaire.
+
+[P_10_Bathhouse_InterroPrivateVent]
+Speech_-001L=(null)
+Speech_0001L=Alors, ça dit quoi ?
+Speech_0002L=Que... que...
+Speech_0003L=Tu trouves quelque chose ?
+Speech_0004L=D... dans le conduit ? Non.
+Note_0013L=Un conduit d'aération passe au-dessus de la salle dans laquelle Shetland a rendez-vous avec ses partenaires.
+Speech_0005L=Donc, personne n'espionne le rendez-vous de Shetland, a priori ?
+Speech_0006L=Euh... non, je ne crois pas.
+Speech_0007L=Dans ce cas, il faut que je m'en charge. Bonne nuit.
+Speech_0008L=Bonne nuit.
+Speech_0009L=Je ne suis personne.
+Speech_0010L=Quand je pense que j'ai oublié de remplir ma police d'assurance !
+Note_0012L=Un conduit d'aération passe au-dessus de la salle dans laquelle Shetland a rendez-vous avec ses partenaires.
+
+[P_10_Bathhouse_InterroPublicBath01]
+Speech_-001L=(null)
+Speech_0001L=Je t'ai eu !
+Speech_0002L=Flûte ! Je savais que ça m'arriverait, ici.
+Speech_0003L=Pas de chance, mon vieux. Allez, parle !
+Speech_0004L=Euh... on n'a pas encore reçu nos lunettes thermiques, alors, on y voit que dalle. Par contre, je crois que les types qui sont arrivés avec Shetland sont bien équipés, eux.
+Note_0014L=Les gardes d'élite de Shetland sont équipés de vision thermique.
+Speech_0005L=Ils ont des lunettes thermiques ?
+Speech_0006L=Je crois, oui. De toute façon, elles ne valent rien dans la vapeur. Elle est trop chaude, autant que le corps humain... c'est comme dans un abattoir...
+Speech_0007L=Merci pour cette explication.
+Speech_0008L=De rien.
+Speech_0009L=Je n'entends pas très bien, non plus. Et pas à cause de la vapeur...
+Speech_0010L=Hein ? Vous m'avez parlé ?
+Note_0012L=Les gardes d'élite de Shetland sont équipés de vision thermique.
+
+[P_10_Bathhouse_InterroRestaurant]
+Speech_-001L=(null)
+Speech_0001L=Coopère si tu ne veux pas perdre une jambe.
+Speech_0002L=Ah ! Que... qui...
+Speech_0003L=Dis-moi tout ce que tu sais sur l'endroit que tu gardes.
+Speech_0006L=Euh... l'entrée et le bureau de l'étage sont au nord... les bains et saunas sont au sud.
+Note_0014L=La réception et les bureaux se trouvent au nord, les bains au sud.
+Speech_0007L=Bravo ! Impressionnant de lâcheté !
+Speech_0008L=On me dit toujours que je suis trop gentil. C'est peut-être pour ça que je ne suis jamais de garde seul... 
+Speech_0009L=Il y a aussi du saké dans la cuisine... et du bon !
+Speech_0011L=Je ne suis pas un très bon mercenaire.
+Note_0013L=La réception et les bureaux se trouvent au nord, les bains au sud.
+Speech_0004L=La... la cuisine ? Euh... il y a des fournitures médicales à l'intérieur.
+Speech_0005L=Quoi d'autre ?
+
+[P_10_Bathhouse_InterroSpyingRoom]
+Speech_-001L=(null)
+Speech_0001L=Qu'est-ce que vous faites là, les gars ?
+Speech_0002L=Comment êtes-vous arrivé ici ?
+Speech_0003L=C'est moi qui pose les questions.
+Speech_0004L=Nous sommes là pour surveiller le rendez-vous de Shetland.
+Speech_0005L=Qui en a donné l'ordre ?
+Speech_0006L=Je suis les instructions d'un certain Kaneda, mais ce n'est qu'un pion. Ce n'est même pas un soldat.
+Speech_0007L=Kaneda ? Merci. Et maintenant, tu vas faire la sieste...
+Speech_0009L=Je n'ai pas peur de mourir.
+Speech_0010L=J'ai servi mon pays avec honneur.
+
+[P_10_Bathhouse_Laundry]
+
+[P_10_Bathhouse_LaundryAChat]
+Speech_-001L=(null)
+Speech_0002L=Central, this is Seven... I've finished the basement... Yeah... ok... Seven out.
+
+[P_10_Bathhouse_LaundryGuard01]
+
+[P_10_Bathhouse_LaundryGuard02]
+
+[P_10_Bathhouse_LightShutters]
+
+[P_10_Bathhouse_LightShutters_Patrol]
+
+[P_10_Bathhouse_LightShutters_Repair]
+
+[P_10_Bathhouse_LightShutters_Timer]
+
+[P_10_Bathhouse_Main]
+
+[P_10_Bathhouse_MassageServant]
+
+[P_10_Bathhouse_Meeting]
+Speech_-001L=(null)
+Speech_0003L=Tout va bien.
+Speech_-001L=(null)
+Speech_0037L=Oui, ça fera l'affaire.
+Speech_-001L=(null)
+Speech_0039L=Je vous dis que nous avons tout vérifié. Aucun risque.
+Speech_-001L=(null)
+Speech_0016L=Vous avez les algorithmes ?
+Speech_-001L=(null)
+Speech_0017L=Vous les aurez une fois le versement de l'argent confirmé sur notre compte.
+Speech_-001L=(null)
+Speech_0018L=Quoi ? Ils ne sont pas là ? Nous n'allons pas vous suivre dans tout Tokyo jusqu'à...
+Speech_-001L=(null)
+Speech_0019L=Cool, Kaneda. Je vous les graverai sur disque, c'est tout.
+Speech_-001L=(null)
+Speech_0020L=Ha ! Vous vous fichez de moi ? Il faudrait être fou pour les télécharger sur un réseau public. Qu'est-ce que ça ?
+Speech_-001L=(null)
+Speech_0021L=Allons, du calme. C'est vrai, je ne suis pas fou. Mes hommes nous ont installé un réseau fantôme. Indépendant de l'Internet... et totalement sûr. Alors... asseyez-vous, vous aurez tout dans quatre minutes.
+Speech_-001L=(null)
+Speech_0022L=Du calme.
+Speech_-001L=(null)
+Speech_0025L=Vous nous avez eus ! Il ne faut jamais croire un Américain !
+Speech_-001L=(null)
+Speech_0028L=Epargnez-moi ça. Je connais le coup. Vous défendez votre honneur pour couvrir vos mensonges. Alors, je vérifie le compte bancaire, ou on se tire dessus tout de suite ?
+Speech_-001L=(null)
+Speech_0029L=Kaneda !
+Speech_-001L=(null)
+Speech_0032L=Tetsuo !
+Speech_-001L=(null)
+Speech_0031L=Ahhh... non... non, non... on... on peut s'arranger...
+
+[P_10_Bathhouse_MeetingSecurity]
+
+[P_10_Bathhouse_MeetingSpying]
+Speech_-001L=(null)
+Speech_0001L=Comment ça se passe ?
+Speech_0002L=C'est presque terminé. Je capte des interférences à la fréquence 802. J'essaye de les localiser, mais ce n'est pas facile.
+Speech_0005L=Tu ne crois quand même pas qu'il s'agit d'un réseau fantôme, si ?
+Speech_0006L=Les Nishins rouges n'ont pas accès à ce genre de technologie, mais Shetland...
+Speech_0009L=On prévient Kaneda ?
+Speech_0010L=Non. Shetland n'aurait jamais eu le temps d'installer ça. Et puis, on est pressés.
+
+[P_10_Bathhouse_NeonSign]
+
+[P_10_Bathhouse_Objectives]
+Objective_0028=Entrez dans le sauna.
+Objective_0029=Shetland a prévu de finaliser son accord avec ses partenaires inconnus dans un sauna de Tokyo. Entrez dans le bâtiment en empruntant le système d'évacuation. 
+Objective_0035=Découvrez qui est le contact de Shetland.
+Objective_0036=Accédez à l'ordinateur du propriétaire du sauna afin de déterminer qui est le contact de Shetland et quand leur rendez-vous doit avoir lieu.
+Objective_0003=Branchez-vous sur les lignes téléphoniques du sauna.
+Objective_0020=Un agent d'Echelon 3, Frances Coen, surveille les activités d'une organisation de yakuzas connue sous le nom de Nishins rouges. Branchez-vous sur les lignes téléphoniques du sauna pour elle.
+Objective_0018=Découvrez qui a donné l'ordre d'intervenir à l'unité d'assaut de l'I-SDF.
+Objective_0021=L'unité d'assaut de l'I-SDF est commandée sur le terrain. Découvrez qui la dirige.
+Speech_-001L=(null)
+Speech_0057L=(null)
+Speech_-001L=(null)
+Speech_0058L=(null)
+Objective_0016=Espionnez le rendez-vous de Shetland avant l'intervention de l'I-SDF.
+Objective_0022=Shetland a un rendez-vous dans la partie privée du sauna pour conclure son affaire. L'I-SDF d'Otomo arrive pour se charger de lui. Espionnez le rendez-vous avant l'intervention de l'I-SDF.
+Note_0032L=Il est possible que Shetland ait rendez-vous avec les Nishins rouges, une organisation de yakuzas.
+Objective_0024=Eliminez Shetland.
+Objective_0025=Shetland ne doit en aucun cas s'enfuir du sauna.
+Objective_0026=Désamorcez les bombes de Shetland.
+Objective_0027=Shetland est en train de placer des bombes censées détruire le sauna et faire disparaître tout ce qui pourrait l'incriminer. Désamorcez-les avant de vous lancer à sa poursuite.
+Objective_0030=Piratez l'ordinateur de Shetland.
+Objective_0031=(null)
+Speech_-001L=(null)
+Speech_0054L=(null)
+Speech_-001L=(null)
+Speech_0055L=(null)
+Speech_-001L=(null)
+Speech_0056L=(null)
+Objective_0043=Découvrez qui a donné l'ordre d'intervenir à l'unité d'assaut de l'I-SDF.
+Objective_0044=L'unité d'assaut de l'I-SDF est commandée sur le terrain. Découvrez qui la dirige.
+Objective_0047=Branchez-vous sur les lignes téléphoniques du sauna.
+Objective_0048=Un agent d'Echelon 3, Frances Coen, surveille les activités d'une organisation de yakuzas connue sous le nom de Nishins rouges. Branchez-vous sur les lignes téléphoniques du sauna pour elle.
+Objective_0002=Découvrez qui est le contact de Shetland.
+Objective_0019=Accédez à l'ordinateur du propriétaire du sauna afin de déterminer qui est le contact de Shetland et quand leur rendez-vous doit avoir lieu.
+
+[P_10_Bathhouse_PoolChat]
+Speech_-001L=(null)
+Speech_0012L=Too bad the pools empty... wouldn't mind a little dip too cool off.
+Speech_0013L=What... you didn't bring your bathing suit did you?
+Speech_0014L=No...
+Speech_0015L=Well, you can't go in with all your kit.
+Speech_0016L=I'm not ashamed of my body.
+Speech_0017L=What? Man... it's a bath house... it's all full of--
+Speech_0018L=Relax... heterosexual men have been bathing naked together since time immemorial... there's nothing wrong with it.
+Speech_0019L=Huh... yeah... ok... if you say so...
+Speech_0020L=And here I thought Displace was a forward-thinking employer.
+Speech_0001L=Dommage que la piscine soit vide. J'aurai bien piqué une tête.
+Speech_0002L=Hein ? Tu as ton maillot de bain sur toi ?
+Speech_0003L=Non.
+Speech_0004L=Alors, tu ne peux pas te baigner comme ça.
+Speech_0005L=Je n'ai pas honte de mon corps.
+Speech_0006L=Hein ? Mais c'est un sauna, ici ! C'est plein de...
+Speech_0009L=Détends-toi. Les hommes hétérosexuels se baignent nus depuis les temps immémoriaux, tu sais... il n'y a pas de mal à ça.
+Speech_0010L=M'ouais... enfin, si tu le dis...
+Speech_0011L=Des idées rétrogrades chez Displace ? Ça, alors...
+
+[P_10_Bathhouse_PrivateBathsChat01]
+Speech_-001L=(null)
+Speech_0001L=Bon, notre ligne de repli est ici.
+Speech_0002L=OK.
+Speech_0003L=Ce couloir, c'est notre Alamo. En cas de problème, on utilise tous les abris possibles et on prend tout le couloir en tir croisé, d'accord ?
+Speech_0004L=Pigé.
+Speech_0005L=Si on se fait surprendre, il faudra faciliter la retraite du patron. La visibilité risque de poser de gros problèmes en cas de combat, mais le sauna devrait être défendable. Alors, ouvrez l'oeil et tirez sur tout ce qui bouge.
+Speech_0006L=Ça marche.
+Speech_0007L=Rompez.
+
+[P_10_Bathhouse_PrivateBathsChat02]
+Speech_-001L=(null)
+Speech_0001L=Zachari !
+Speech_0002L=Oui, chef ?
+Speech_0003L=J'ai vérifié les plans. Il y a un conduit d'aération qui débouche juste dans la salle de réunion et l'I-SDF me rend nerveux. Vérifie qu'il n'y a pas de matériel de surveillance dans le conduit, tu veux ?
+Speech_0004L=Yes sir.
+Speech_0005L=Et fais vite, la réunion va commencer.
+Speech_0006L=I'm on it.
+
+[P_10_Bathhouse_PrivateBathsFight]
+
+[P_10_Bathhouse_PrivateBathsToilet]
+Speech_-001L=(null)
+Speech_0004L=Eleven here. Roger that. Confirmed. The boss is on his way? Good. Yes. Everything is ready. Is he with his friends? Any word yet on who they are? Alright... well let me know so my guys don't shoot them. Roger. Eleven out.
+
+[P_10_Bathhouse_PrivateRooms]
+
+[P_10_Bathhouse_PublicBaths]
+
+[P_10_Bathhouse_PublicBathsChat01]
+Speech_-001L=(null)
+Speech_0001L=Hé ! Tu m'as flanqué la trouille !
+Speech_0002L=Désolé.
+Speech_0003L=La visibilité est vraiment pourrie. En cas de problème, ce sera presque impossible de se battre.
+Speech_0004L=Tu as des lunettes de vision nocturne ?
+Speech_0005L=Ça ne sert à rien, ici. Si on avait des lunettes thermiques, peut-être...
+Speech_0006L=Il va falloir faire confiance à nos oreilles, alors.
+Speech_0007L=Ouais. Sauf que j'entends plus très bien depuis Mogadiscio.
+Speech_0008L=Tu étais avec les rangers ?
+Speech_0009L=Euh, non... je travaillais plus ou moins pour le général Aidid... mais indirectement... 
+Speech_0010L=Oh. Oublie ma question. 
+
+[P_10_Bathhouse_PublicBathsValve01]
+
+[P_10_Bathhouse_PublicBathsValve02]
+
+[P_10_Bathhouse_RadioTVBroadcast]
+Speech_0001L=Long Dan, l'ambassadeur de Chine aux Etats-Unis, a été chaudement félicité pour les efforts qu'il a déployés afin d'obtenir un cessez-le-feu en Corée. Les diplomates se sont réunis d'urgence autour de la table des négociations alors que les soldats américains, sud-coréens et nord-coréens s'observent en chiens de faïence.
+Speech_0002L=En bref, 141 des corps récupérés de l'incident du Walsh ont été rapatriés aux Etats-Unis afin d'y être enterrés. Les cérémonies funéraires commenceront après-demain. L'USS Walsh a officiellement coulé corps et bien, et le total des victimes se monte à 283 marins et officiers.
+
+[P_10_Bathhouse_Reception]
+
+[P_10_Bathhouse_ReceptionChat01]
+Speech_-001L=(null)
+Speech_0001L=L'étage est sûr ?
+Speech_0002L=Oui. Il y a peut-être des types des Nishins rouges dans les salons privés, mais je n'y suis pas allé. Et l'entrée ?
+Speech_0003L=Aucun problème. Un camion bloque l'allée et j'ai envoyé les gars qui le déchargeaient boire un café.
+Speech_0004L=Quels gars ?
+Speech_0005L=Bah, des travailleurs, quoi...
+Speech_0006L=Hein ? Tu leur as dit d'aller boire un café à ta santé et ils l'ont fait ?
+Speech_0007L=Euh... je leur ai aussi donné cent mille yens.
+Speech_0008L=Ah, je comprends mieux. N'oublie pas ta note de frais.
+Speech_0009L=Pas de risque !
+
+[P_10_Bathhouse_ReceptionChat02]
+Speech_-001L=(null)
+Speech_0001L=Ici numéro 9. Affirmatif. Tout est en position et l'objectif est encerclé. Il est en route ? Bien ? Il arrivera quand ? Parfait. Bon. Numéro 9, terminé.
+
+[P_10_Bathhouse_ReceptionGuard]
+
+[P_10_Bathhouse_Restaurant]
+
+[P_10_Bathhouse_RestaurantDesk]
+
+[P_10_Bathhouse_ServantSleepBed]
+
+[P_10_Bathhouse_ServantSteamPipes]
+
+[P_10_Bathhouse_SewerChat]
+Speech_-001L=(null)
+Speech_0001L=Tu me rappelles ce qu'on fiche ici ?
+Speech_0002L=Le patron veut qu'on vérifie toutes les fréquences DSL, pour être sûrs qu'il n'y aura pas d'interférences avec notre réseau fantôme.
+Speech_0003L=Je ne comprends même pas ce que tu dis. Mais grouille-toi, s'il te plaît. Qu'est-ce que ça pue, ici !
+Speech_0004L=Tu parles ! Il y a dû y avoir un problème avec les égouts, c'est pas possible... et le pire, c'est que c'est pareil à l'intérieur, au sous-sol.
+Speech_0005L=Quoi ?
+Speech_0006L=Ouais. Un problème de fondations, j'imagine... tout Tokyo s'enfonce peu à peu, tu sais...
+Speech_0007L=Mais non, idiot ! C'est l'aéroport, qui s'enfonce !
+Speech_0008L=Bah, c'est pareil, non ?
+
+[P_10_Bathhouse_ShetlandFight]
+Speech_-001L=(null)
+Speech_0005L=This pointless Sam... you won't know what to do if you catch me. Why bother chasing?
+Speech_-001L=(null)
+Speech_0003L=Mason et Lambert font ce qu'ils veulent de toi, Fisher. Pour eux, tu n'es qu'une arme comme une autre, rien de plus.
+Speech_-001L=(null)
+Speech_0004L=Tu es devenu l'instrument d'une politique en laquelle tu ne crois pas, Fisher. Va-t-en.
+Speech_-001L=(null)
+Speech_0002L=Rien ne remplace les liens du sang, et nous avons saigné ensemble, toi et moi. Ne sacrifie pas ton honneur à leurs manigances.
+
+[P_10_Bathhouse_ShowerGunFight]
+
+[P_10_Bathhouse_StreetSewer]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_10_Bathhouse_TechnicianRepair]
+
+[P_10_Bathhouse_TextLocalization]
+Speech_0002L=Tu es au courant ? La NASA a fini par arrêter de jouer les caïds. Elle a dit OK aux Chinois.
+Speech_0003L=C'est vrai ?
+Speech_0004L=Ouais. Un gros bonnet de la NASA a enfin dû ravaler sa fierté pour dire au président de demander au NORAD de ne pas abattre la capsule chinoise.
+Speech_0005L=Dingue !
+Speech_0006L=Ouais. On dirait que l'intervention est prévue pour dans une douzaine d'heures environ.
+Speech_0007L=Combien d'hommes la Chine a envoyés ?
+Speech_0008L=Un seul. Leur capsule n'a que trois places. Pour récupérer les deux astronautes, il fallait qu'elle soit presque vide.
+Speech_0009L=C'est pas dangereux ?
+Speech_0010L=Très honnêtement, je ne sais pas si on a déjà tenté une mission plus dangereuse de toute l'histoire de l'humanité...
+Speech_0011L=Vive les taikonautes !
+Speech_0012L=J'ai entendu dire que les Nishins rouges étaient des yakuzas...
+Speech_0013L=Tu rigoles ? On se dirait dans les années quatre-vingt...
+Speech_0014L=Hé, ces types sont sérieux, tu sais ! Ils ont des ninjas, ici...
+Speech_0015L=Et alors ? Il y a un virus, dans cette boîte, ou quoi ? Vous parlez tous de ninjas, c'est pas croyable !
+Speech_0016L=Tu devrais prendre ça au sérieux... j'ai entendu que Milan Nedich avait été tué par un ninja.
+Speech_0017L=Si ça te fais plaisir. Quand on te parlera de ninjas zombis, dis-le moi, OK ? Mais en attendant, le sabre de tes ninjas yakuzas ne fait pas vraiment peur à mon fusil d'assaut, tu vois...
+Speech_0018L=Sauf que les ninjas sont invulnérables aux balles.
+Speech_0019L=Laisse-moi tranquille, gros naze !
+Speech_0020L=Hé ! Qu'est-ce que tu fais ici ?
+Speech_0021L=Ha ! Qu'est-ce qu'on fait tous ici, tu veux dire, non ?
+Speech_0022L=J'ai l'impression que Shetland nous a rassemblés comme une flashmob.
+Speech_0023L=C'est quoi, une flashmob ?
+Speech_0024L=C'est quand on utilise Internet pour dire à tout un tas de gens de se rassembler au même endroit à la même heure, sans qu'on sache qui sera là. 
+Speech_0025L=Marrant. Mais pourquoi il ferait ça ?
+Speech_0026L=Pour préserver le secret de l'opération, évidemment. Pas de risque qu'il y ait une fuite si personne ne connaît le plan.
+Speech_0027L=Autrement dit, chacun vient pour obéir à ses ordres, remplit son rôle dans la mission, et s'en va.
+Speech_0028L=Exactement. Excellent, comme stratégie !
+Speech_0029L=Cette fin n'est pas inéluctable, Sam.
+Speech_0030L=Non... mais tout ça doit cesser.
+Speech_0031L=Nous sommes bien d'accord. Toute notre vie durant, nous avons mené leurs sales guerres, et ça nous a menés où ? A nous tenir en joue comme dans un mauvais western. Rien n'a changé, Fisher, et c'est pas près de le faire. Abattre le système et tout reprendre, voilà le seul moyen.
+Speech_0032L=C'est ta théorie du chaos, hein ? Plonger le monde dans la guerre, en espérant qu'il sera meilleur après ?
+Speech_0033L=Il le sera, oui, car cette guerre changera les choses. Toutes les précédentes voulaient surtout conserver l'ordre établi, mais c'est fini, bien fini, tout ça. L'Amérique est malade, Sam. Elle se meurt. Les politiciens, les bureaucrates et les accords secrets... ce ne sont plus que des soins palliatifs pour une vieille dame morte depuis longtemps.
+Speech_0034L=Les seuls accords secrets que j'ai vus récemment sont les tiens. Tu es un assassin, un criminel.
+Speech_0035L=C'est ainsi que le gouvernement nomme les révolutionnaires, Sam. On ne devient un héros que quand on a gagné la guerre. Tu le sais bien... notre monde se construit par le bas... jamais l'inverse, non, jamais. Honneur, courage, fidélité... ces concepts, il ne nous les apprend pas, Sam. Ils nous servent à le créer. Et toi, Sam... je sais que tu crois plus que tout en ces idéaux... et que, quoi que tu puisses en dire... tu ne tireras pas sur moi.
+Speech_0053L=C'est inutile, Fisher. Tu ne sauras pas quoi faire de moi si tu m'attrapes, alors, pourquoi me traquer ?
+Note_0036L=Il y a une trousse de premiers soins dans les toilettes des bains privés.
+Note_0037L=Il y a une trousse de premiers soins dans le placard de la réception.
+Note_0038L=Des types ont rangé une partie de leur équipement dans la salle de massage.
+Note_0039L=Il y a des fournitures à l'entrée des douches privées.
+Note_0040L=L'unité de surveillance de l'I-SDF installée de l'autre côté de la rue aura peut-être des fournitures.
+Note_0041L=Le code de la porte du bureau du propriétaire est le 3650.
+Note_0042L=L'ordinateur du propriétaire se trouve dans son bureau, au-dessus de la réception.
+Note_0043L=Il y a une caméra dans le couloir menant au bureau du propriétaire.
+Note_0044L=Un conduit d'aération passe au-dessus de la salle dans laquelle Shetland a rendez-vous avec ses partenaires.
+Note_0045L=Il y a un conduit d'évacuation entre le hammam et le sauna froid.
+Note_0046L=Shetland est arrivé. Il a un rendez-vous dans les bains privés.
+Note_0047L=Les gardes d'élite de Shetland sont équipés de vision thermique.
+Note_0048L=Shetland a un hélicoptère qui se tient prêt sur le toit, en cas de départ précipité.
+Note_0049L=Shetland est en train de placer des bombes pour couvrir sa fuite.
+Note_0050L=Il est possible que Shetland ait rendez-vous avec les Nishins rouges, une organisation de yakuzas.
+Note_0051L=La réception et les bureaux se trouvent au nord, les bains au sud.
+Note_0052L=L'I-SDF se prépare à arrêter Shetland, ce qui nuirait au bon déroulement de notre opération.
+
+[P_10_Bathhouse_InterroPool]
+Note_0012L=Des types ont rangé une partie de leur équipement dans la salle de massage.
+[P_10_Bathhouse_PrivateBathsChat03]
+Speech_0001L=Ici numéro 11, bien compris. Confirmé. Le patron arrive ? Bien. Oui, tout est près. Il est avec ses amis ? On sait de qu'il s'agit ? OK. Mais tiens-moi au courant quand même, ce serait dommage qu'on les bute par erreur. Numéro 11, terminé.
+[P_10_Bathhouse_PrivateBathsChat04]
+Speech_0001L=On passe au plan de repli.
+Speech_0002L=L'hélico est en route.
+Speech_0003L=Bien. Personne ne doit passer ici.
+[P_10_Bathhouse_InterroFurnaceA]
+Speech_0001L=Du calme...
+Speech_0002L=Ah ! Je vous en prie, je fais juste des massages...
+Speech_0006L=Je ne vais pas vous faire de mal.
+Speech_0007L=Vous n'êtes pas des leurs.
+Speech_0008L=Non, mais tout ce que vous serez en mesure de me dire pourrait m'aider contre eux.
+Speech_0009L=Il y une valve dans le sauna froid. Si on l'ouvre, ça créera un épais brouillard dans la salle et personne ne vous verra.
+Speech_0010L=Intéressant...
+Speech_0011L=Et je les ai entendus dire qu'ils n'avaient pas de lunettes thermiques. Si vous en avez vous, vous devriez les voir dans le brouillard. Mais pas dans la vapeur, par contre.
+Speech_0012L=Merci de votre aide.
+Speech_0013L=Vous êtes beaucoup plus gentil qu'eux.
+Speech_0005L=Je n'ai jamais fait de mal à une mouche.

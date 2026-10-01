@@ -1,0 +1,613 @@
+[P_11_KokuboSosho_AlarmCheck]
+POPUPMESSAGE_0001=Alarmstufe herabgesetzt – Feinde ziehen sich zurück – Nehmen Helme ab
+POPUPMESSAGE_0002=Alarmstufe herabgesetzt – Feinde ziehen sich zurück – Legen Körperpanzer ab
+POPUPMESSAGE_0003=Alarmstufe herabgesetzt – Feinde ziehen sich zurück
+
+[P_11_KokuboSosho_BasementGuards]
+Speech_-001L=(null)
+Speech_0001L=Pass auf, wo du mit dem Ding hinzielst.
+Speech_0002L=Ah ... beruhig dich ... ist doch ohnehin nicht tödlich.
+Speech_0003L=Ja? Bist du jemals von so einem Ding getroffen worden?
+Speech_0004L=Nein ...
+Speech_0005L=Nun ... Mamuro ist es ... und ich will nicht so enden wie er.
+Speech_0006L=Tatsächlich?
+Speech_0007L=Häh?
+Speech_0008L=Siehst du? Hat ihn verblöden lassen.
+Speech_0009L=Mamuro ... bist du von einem dieser Dinger getroffen worden?
+Speech_0010L=Äh ...
+Speech_0011L=Sagte ich dir doch ... dumm wie ein Sack Reis.
+Speech_0012L=Häh ... ha ... Sack Reis ... ha.
+
+[P_11_KokuboSosho_BathroomGuard]
+
+[P_11_KokuboSosho_Captured]
+
+[P_11_KokuboSosho_CapturedDialog]
+Speech_-001L=(null)
+Speech_0001L=Er scheint wieder zu sich zu kommen ...
+Speech_0002L=Gut ...
+Speech_-001L=(null)
+Speech_0003L=... der Oberst würde gerne mit Ihnen sprechen ...
+Speech_0004L=Noch mal ...
+Speech_0005L=Komm schon, Amerikaner! Rede!
+Speech_-001L=(null)
+Speech_0006L=... wie sind Sie hier hineingekommen? Sie müssen mir etwas sagen, bevor ich mich für Sie einsetzen kann ... Soldat?
+Speech_0007L=Geben Sie ihm eine kleine ... Zugabe, Soldat ...
+Speech_0008L=Jawohl.
+Speech_0009L=Komm schon, Amerikaner. Machen Sie es sich nicht selbst schwer! Sie wollen die Alternative nicht kennen lernen.
+Speech_0010L=Er wird nicht reden, Oberst.
+Speech_0011L=Dann muss ich wohl härtere Maßnahmen ergreifen. Wegtreten.
+Speech_0012L=Jawohl.
+Speech_-001L=(null)
+Speech_0013L=Vierundachtzig Kilogramm ... mal sehen ...
+Speech_-001L=(null)
+Speech_0014L=Ja ... davon werden Sie reden.
+Speech_-001L=(null)
+Speech_0015L=Wir werden herausfinden, was Sie wissen.
+Speech_0016L=Er scheint wieder zu sich zu kommen ...
+Speech_0017L=Gut ...
+Speech_0018L=... habe ziemlich heftig zugeschlagen ...
+Speech_0019L=Geben Sie ihm eine Minute ... er wird wieder aufwachen.
+Speech_0020L=... hören Sie  mich? Hallo, mein Freund? Sind Sie da? Ah ... er ist nicht so zäh ...
+Speech_0021L=Wie lange dauert das normalerweise?
+Speech_0022L=Normalerweise nur einige Minuten ... aber bei einem Amerikaner ...
+Speech_0023L=Ich dachte, die sollen angeblich stärker sein ...
+Speech_0024L=Zuviel Fleisch ...es könnte länger dauern, als wir dachten.
+Speech_0025L=Untersuchen Sie noch einmal seine Ausrüstung. Ich warte hier ...
+Speech_0026L=Jawohl.
+Speech_0027L=Ich frage mich, wie er hier hereingekommen ist?
+Speech_0028L=Vielleicht ist er ein Spion, und war schon die ganze Zeit hier?
+Speech_0029L=Vielleicht ist er noch nicht einmal Amerikaner ...
+
+[P_11_KokuboSosho_Communications]
+Speech_0126L=Das Verteidigungsministerium hat den Kontakt zu allen US-Offizieren verloren, die im Kokubo Sosho mit der japanischen Armee zusammenarbeiten. Offenbar wurden sie von den Japanern gefangen genommen. Die Japaner reagieren auf keine unserer Anfragen ... entweder scheuen sie sich zuzugeben, dass sie die Kontrolle über Otomo verloren haben, oder sie hängen mit ihm in der ganzen Sache drin. Wenn dies der Fall sein sollte, müssen wir Korea davon in Kenntnis setzen. Dann wäre ein grosser Krieg in Asien unvermeidlich ... Sollte allerdings Otomo allein hinter all dem stecken, müssen wir herausfinden, was unsere Offiziere wissen und einen Weg finden, mit ihm fertig zu werden, bevor Nordkorea herausfindet, was dort vor sich geht.
+Speech_0127L=Sam, auch wenn die japanische Regierung seine Handlungen nicht billigen sollte, besitzt Otomo immer noch genügend Kapazitäten, um einen Angriff durchzuführen. Sollte er den Informationszweig der japanischen Armee noch unter Kontrolle haben, musst du äußerst vorsichtig mit ihm umgehen. Wer weiss, welches Chaos dieser Kerl entfesseln könnte.
+Speech_0128L=Unser letzter Kontakt, den wir mit dem amerikanischen Personal im Kokubo Sosho hatten, bestand aus einem abgebrochenen Telefongespräch mit Major Harper, einem der Logistikberater. Es hörte sich so an, als hätten japanische Soldaten den Raum, in dem er sich befand, gestürmt und ihn gefangen genommen. Dabei ist allem Anschein nach niemand getötet worden ... Wenn wir verhindern wollen, dass die ganze Geschichte weiter eskaliert, wirst du dafür sorgen müssen, dass das auch so bleibt.
+Speech_0184L=LAMBERT - Find the officers, but don't kill anyone, or I abort the mission immediately.
+Speech_0001L=Fisher, ich kann das gar nicht deutlich genug betonen ... wenn auch nur ein einziger japanischer Soldat stirbt, riskieren wir den Dritten Weltkrieg. Sollte es Opfer geben, werde ich die Mission sofort abbrechen.
+Speech_0002L=Verstanden.
+Speech_0005L=Such unsere Offiziere und finde heraus, was zur Hölle hier vorgeht.
+Speech_0006L=Ich werde sie finden.
+POPUPMESSAGE_0183=Nehmen Sie Kontakt mit den verhafteten amerikanischen Offizieren auf.
+Speech_-001L=(null)
+Speech_0131L=Finde die Offiziere, aber töte niemanden, oder ich werde die Mission umgehend abbrechen.
+Note_0160L=Der Zugang zum Keller wurde gerade freigegeben.
+Speech_0185L=LAMBERT - Fisher you need to record everything that happens in Japanese War Room in the sub levels under the main floor.
+Speech_0007L=Sam, wir müssen alles aufzeichnen, was bei diesem Treffen passiert, damit wir es dem Generalstab präsentieren können.
+Speech_0008L=Wo ist die Operationszentrale?
+Speech_0009L=Im Untergeschoss unter der Hauptebene.
+Speech_0010L=Es würde die Sache beschleunigen, wenn du mich einige der Bedrohungen beseitigen ließest.
+Speech_0011L=Vergiss es, Fisher. Bevor wir nicht wissen, wer der Feind ist, gibt es keinen Feind. Kein Feind bedeutet keine Toten. Finde dich damit ab.
+Speech_-001L=(null)
+Speech_0132L=Fisher, du musst alles aufzeichnen, was in der japanischen Operationszentrale im Untergeschoss unter der Hauptebene geschieht.
+Note_0162L=Die SDF-Kommandotruppen im Keller setzen nicht-tödliche Waffen ein.
+Speech_0186L=REDDING - Sam, it looks like these guards are carrying non-lethal ammo. Don't let them tag you... if you're taken prisoner... I don't even want to think about it.
+Speech_0012L=Fisher, wie es aussieht, sind diese Wachen mit nicht-tödlichen Waffen ausgerüstet.
+Speech_0013L=Warum?
+Speech_0014L=Der einzige Grund, der mir einfällt, warum sie Kampftruppen damit ausrüsten solten, ist ... dass sie jeden verhören wollen, den sie erwischen.
+Speech_0017L=Nun ja, ich war noch nie besonders gesprächig.
+Speech_-001L=(null)
+Speech_0157L=Sam, es sieht so aus, als wären diese Wachen mit nicht-tödlichen Waffen ausgestattet. Lass dich nicht von ihnen erwischen ... wenn du in Gefangenschaft gerätst ... ich mag gar nicht daran denken.
+Speech_0187L=LAMBERT - You just downloaded the orders for the I-SDF strike team that went after Shetland. This confirms Otomo's involvement... but we still need to discover if his actions are sanctioned by the government.
+Speech_0076L=Genau, wie wir vermutet hatten ...
+Speech_0077L=Das ist eine Kopie der Befehle für das Kommando, das zu dem Badehaus geschickt wurde.
+Speech_0083L=Ja. Kaneda arbeitete direkt für Otomo ... das bestätigt Otomos Verbindung zu Shetland und die Verwicklung in die Angriffe mit den Algorithmen von Masse ... Aber wir müssen immer noch herausfinden, ob seine Handlungen von der Regierung gebilligt wurden.
+Speech_-001L=(null)
+Speech_0133L=Du hast gerade die Befehle für die Einsatzgruppe der japanischen Armee heruntergeladen, die sich um Shetland gekümmert hat. Das beweist Otomos Beteiligung ... aber wir müssen immer noch herausfinden, ob seine Handlungen von der Regierung gebilligt wurden.
+POPUPMESSAGE_0166=Zeichnen Sie das Treffen in der Operations-zentrale auf.
+Speech_0188L=LAMBERT - That double isolated room in the center of the corridors is the War Room, Sam. You'll need to find a way to record their meeting.
+Speech_0027L=Fisher, laut GPS befindest du dich in der Nähe der Operationszentrale. Gemäß unseren Informationen handelt es sich um einen abhörsicheren Raum ... Um aufzuzeichnen, was sich in seinem Inneren abspielt, musst du einen Weg hinein finden.
+Speech_0030L=Die Sicherung mag vielleicht elektronische Eindringlinge abhalten, aber ich wette, dass der Raum nicht luftdicht ist.
+Speech_0084L=Vermutlich nicht.
+Speech_-001L=(null)
+Speech_0134L=Der doppelt isolierte Raum in der Mitte der Korridore ist die Operationszentrale, Sam. Du musst einen Weg finden, das Treffen aufzuzeichnen.
+Speech_0189L=GRIMSDOTTIR - Sam, you should be able to laser mic the War Room from the vent overlooking it.
+Speech_0108L=Sam, ich habe hier einige Informationen über das Gebäude. Dieser Lüftungsschacht sollte genau über der Operationszentrale enden.
+Speech_0109L=Ich werde versuchen, dass Treffen von dort aus mit dem Laser-Mikrofon abzuhören.
+Speech_0110L=Gut. Wir werden dich wissen lassen, wenn wir genug haben, um den Generalstab glücklich zu machen.
+Speech_-001L=(null)
+Speech_0156L=Sam, du solltest die Operationszentrale mit deinem Laser-Mikro von dem darüber liegenden Lüftungsschacht aus abhören können.
+Speech_-001L=(null)
+Speech_0031L=Oh, mein Gott, Fisher ... das ist der Beweis. Otomo hat die japanische Regierung die ganze Zeit manipuliert.
+Speech_0032L=Wenigstens unterstützt sie seine Handlungen nicht ... Wie geht es jetzt weiter? Wie stoppen wir Otomo?
+Speech_0033L=Wenn wir Glück haben, müssen wir das vielleicht nicht ...
+Speech_0085L=Was meinen Sie?
+Speech_0086L=Grim ...
+Speech_0034L=Dieser General macht mir Sorgen, Fisher ... er arbeitet schon die ganze Zeit äußerst schweigsam an seinem Laptop ...greif von hier aus darauf zu ... lass uns nachschauen, was er vorhat.
+POPUPMESSAGE_0167=Beschaffen Sie sich Zugang zum Laptop des Generals.
+Speech_0089L=Mach ich.
+Speech_-001L=(null)
+Speech_0135L=Otomo hat die japanische Regierung manipuliert. Wir müssen wissen, was als Nächstes kommt.
+Speech_0136L=Der General in der Operationszentrale hat irgendetwas vor ... versuch, von dem Schacht über dem Raum aus auf seinen Laptop zuzugreifen.
+POPUPMESSAGE_0178=Beschaffen Sie sich Zugang zum Laptop des Generals.
+Note_0161L=Der Aufzug der I-SDF lässt sich jetzt benutzen.
+Speech_0190L=LAMBERT - Otomo is going to force launch North Korean ballistic missiles at Japan. We need to destroy his severs in the Command Center at the bottom of the elevator.
+Speech_0035L=Oh, Gott! Otomo wird eine nordkoreanische Rakete auf sein eigenes Land abfeuern!
+Speech_0038L=Von welchem Zeitraum reden wir?
+Speech_0039L=Könnte sich um Stunden handeln oder um Minuten. Geh nach unten und zerstöre seine Server.
+POPUPMESSAGE_0168=Zerstören Sie Otomos Server.
+Speech_0040L=Und wann holt Ihr mich hier heraus?
+Speech_0114L=Wenn du diese Server nicht zerstören kannst, bevor Otomo den Start auslöst, wird es dazu keine Veranlassung mehr geben.
+Speech_0115L=Und wenn ich die Server zerstöre?
+Speech_0116L=Wir denken uns währenddessen etwas aus.
+Speech_0117L=Halber Plan wäre wohl noch übertrieben ...
+Speech_-001L=(null)
+Speech_0137L=Otomo wird den Abschuss einer nordkoreanischen Rakete auf Japan auslösen. Wir müssen seine Server in der Kommandozentrale zerstören. Du erreichst sie, indem du mit dem Aufzug ganz nach unten fährst.
+POPUPMESSAGE_0179=Zerstören Sie Otomos Server.
+Speech_0191L=LAMBERT - Fisher... if you're sure you're okay... continue the mission as planned... but be careful... the base is on alert.
+Speech_0090L=Melde dich, Fisher! Kannst du mich hören?
+Speech_0091L=Ich ... ich bin okay, Lambert ... war ein Betäubungsgeschoss ... sie hatten vor, mich zu verhören.
+Speech_0094L=Dazu dürften sie keine Zeit gehabt haben ... du warst nur für einige Minuten weg.
+Speech_0095L=Gut ... wo waren wir stehen geblieben?
+Note_0194L=Die Gegner haben ihre Stellungen befestigt.
+POPUPMESSAGE_0173=Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein
+Speech_0096L=Nun, die gesamte Anlage befindet sich im Alarmzustand. Fühlst du dich wirklich in der Lage, die Mission fortzusetzen?
+Speech_0097L=Also jetzt, wo du das sagst ... Vielleicht sollte ich lieber eine Woche Urlaub am Strand machen.
+Speech_0118L=Kein Problem ... sobald wir herausgefunden haben, was in der Operationszentrale passiert.
+Speech_0119L=Bin schon unterwegs.
+Speech_0120L=Kannst du haben ... sobald du in der Operationszentrale fertig bist.
+Speech_0121L=Bin schon unterwegs.
+Speech_-001L=(null)
+Speech_0152L=Fisher ... wenn du dir sicher bist, dass es dir gut geht ... dann setz den Einsatz wie geplant fort ... aber sieh dich vor ... die gesamte Basis ist alarmiert.
+Speech_-001L=(null)
+Speech_0052L=Ich habe gerade mit dem Generalstab gesprochen ... die Anordnung, niemanden zu töten, wurde aufgehoben. Fifth Freedom für alle, ausgenommen Otomo.
+Speech_0053L=Du machst Witze ...
+Speech_0054L=Wir brauchen ihn lebend. Sein Profil ist ziemlich eindeutig. Er würde angesichts der Beweise vor einem Kriegsverbrecher-Tribunal nicht lügen. Das würde sein Ehrgefühl verletzen.
+POPUPMESSAGE_0169=Nehmen Sie Otomo lebend gefangen.
+Speech_0055L=Er soll die Verantwortung übernehmen, damit Japan Nordkorea gegenüber ohne Schuld dasteht.
+Speech_0056L=Richtig. Wenn Otomo stirbt ... stehen wir wieder ganz am Anfang. Ich will, dass er noch atmet, wenn du ihn zurückbringst.
+Speech_-001L=(null)
+Speech_0138L=Fisher, der Generalstab braucht Otomo in jedem Fall lebend. Fifth Freedom für jeden, außer ihn. Der Befehl, niemanden zu töten, wurde aufgehoben.
+POPUPMESSAGE_0180=Nehmen Sie Otomo lebend gefangen.
+Speech_-001L=(null)
+Speech_0103L=Fisher! Nordkorea hat NORAD und den Präsidenten kontaktiert ... sie berichten, dass sie die Kontrolle über eine Raketenstellung verloren haben!  Sie können den Start nicht abbrechen und wissen nicht, ob sie die Rakete rechtzeitig vernichten können.
+Speech_0104L=Wie viel Zeit bleibt noch?
+Speech_0105L=Sie sagen noch drei Minuten bis zum Start!
+Speech_0106L=Ich denke, dass ich den Server rechtzeitig erreichen kann.
+Speech_0107L=Beeil dich!
+POPUPMESSAGE_0182=Zerstören Sie Otomos Server.
+Speech_0139L=Sie sagen noch zweieinhalb Minuten bis zum Start!
+Speech_0140L=Sie sagen noch zwei Minuten bis zum Start!
+Speech_0141L=Sie sagen noch neunzig Sekunden bis zum Start!
+POPUPMESSAGE_0170=Zerstören Sie Otomos Server.
+Speech_-001L=(null)
+Speech_0142L=Sie sagen noch sechzig Sekunden bis zum Start!
+POPUPMESSAGE_0171=Zerstören Sie Otomos Server.
+Speech_-001L=(null)
+Speech_0165L=Beeil dich!
+Speech_0143L=Sie sagen noch dreißig Sekunden bis zum Start!
+Speech_0192L=LAMBERT - Well done, now get to Otomo.
+Speech_0063L=Gott sei Dank, Fisher! Der Start wurde abgebrochen.
+Speech_0064L=Ja ... aber ich glaube, ich habe die Nachbarn geweckt.
+Speech_0065L=Kämpf dich da durch, Sam, und dann bring uns Otomo, lebend.
+POPUPMESSAGE_0172=Nehmen Sie Otomo lebend gefangen.
+Speech_0066L=Mit Vergnügen.
+Speech_-001L=(null)
+Speech_0144L=Gut gemacht, und jetzt kümmere dich um Otomo.
+POPUPMESSAGE_0181=Nehmen Sie Otomo lebend gefangen.
+Speech_-001L=(null)
+Speech_0102L=Oh Gott! Fisher ... die Rakete ist unterwegs. Die Zeit der Spionage ist vorbei. Wir befinden uns im Krieg.
+Speech_-001L=(null)
+Speech_0153L=Gute Idee, Fisher.
+Speech_0154L=Jede Information über die Vorgänge hier kann uns nur von Nutzen sein.
+Speech_0155L=Stimmt.
+Speech_-001L=(null)
+Speech_0067L=Was nun?
+Speech_0068L=Ich glaube, hier nimmt sich jemand ein wenig zu wichtig ...
+Speech_0069L=Wir können uns nicht leisten, ihn sterben zu lassen, Fisher! Geh zu ihm und versuche ihn zu stabilisieren ... schnell!
+Speech_-001L=(null)
+Speech_0145L=Otomo hat gerade versucht, Seppuku zu begehen. Geh zu ihm und stabilisiere ihn, schnell.
+Speech_-001L=(null)
+Speech_0070L=Gute Arbeit, Fisher, sein Zustand ist stabil ... Wir müssen ihn dort rausschaffen. Spreng dir den Weg frei.
+Speech_0098L=Wir befinden uns über 100 Fuß unter Wasser!
+Speech_0099L=Es bleibt keine Zeit für einen Druckausgleich, Fisher ... Das wird zwar ein Schock für deinen Körper, ... aber wenigstens bleibt dir die Taucherkrankheit erspart ...
+Speech_0100L=Das nächste Mal übernimmst du die Mission, und ich denke mir diese verrückten Pläne aus.
+Speech_-001L=(null)
+Speech_0146L=Otomo sollte überleben. Spreng dich da heraus und wir werden dich oben aus dem Wasser fischen.
+POPUPMESSAGE_0174=Alarmstufe Eins
+Speech_-001L=(null)
+Speech_0147L=Pass besser auf, Fisher, die Mission könnte nicht heikler sein.
+POPUPMESSAGE_0175=Alarmstufe Zwei – Feinde legen Körperpanzer an
+Note_0195L=Die Gegner tragen eine Körperpanzerung.
+Speech_-001L=(null)
+Speech_0148L=Das war jetzt der zweite Alarm, Sam ...warum lässt du nicht einfach durchsagen, dass du da bist?!
+POPUPMESSAGE_0176=Alarmstufe Drei – Feinde setzen Helme auf
+Note_0196L=Die Gegner tragen Helme.
+Speech_-001L=(null)
+Speech_0149L=Verdammt, Fisher! Wenn du nicht besser aufpasst, sorgst du noch dafür, dass dieser Krieg wieder neu entflammt!
+Speech_0158L=Verdammt, Fisher ... pass mit dem Alarm auf.
+POPUPMESSAGE_0177=Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein
+Note_0197L=Die Gegner haben ihre Stellungen befestigt.
+Speech_0193L=LAMBERT - Fisher, the base is on alert.
+Speech_0080L=Oh, Gott, die gesamte Einrichtung ist alarmiert ...
+Speech_0081L=Ändern sich meine Missionsziele?
+Speech_0082L=Deine Ziele bleiben die gleichen, Sam ... du bist unsere letzte Hoffnung.
+Speech_-001L=(null)
+Speech_0151L=Fisher, die gesamte Basis ist alarmiert.
+Speech_-001L=(null)
+Speech_0122L=Verdammt, Sam! Du solltest ihn retten!
+Speech_0123L=He, er war bereits tot ...
+Speech_0124L=Es war noch genug Zeit, ihn zu behandeln ... Jetzt gibt es mit Sicherheit einen Krieg mit Korea. Mission beendet!
+Speech_-001L=(null)
+Speech_0125L=Verdammt, Sam! Wir brauchten die Informationen von diesen Jungs ... nun werden wir niemals wissen, was vorgeht. Verschwinde. Mission beendet!
+Speech_-001L=(null)
+Speech_0113L=Verdammt, Sam! Nicht nur, dass ich gesagt habe, keine Toten ... das war auch noch einer von unseren eigenen Offizieren! Mission beendet!
+Speech_-001L=(null)
+Speech_0073L=Verdammt, Fisher! Kannst du keine Befehle befolgen?
+Speech_0074L=Lambert ... ich ...
+Speech_0075L=Das war's Fisher ... Mission beendet!
+Speech_0129L=Die nordkoreanischen Streitkräfte haben einem bedingten Rückzug aus Seoul zugestimmt, nachdem die Amerikaner sich bereit erklärten, Geheiminformationen bezüglich des Walsh-Zwischenfalls offen zu legen. Es ist zu diesem Zeitpunkt nicht bekannt, ob die Behauptung der Nordkoreaner, das Schiff nicht absichtlich angegriffen zu haben, von den Vereinigten Staaten bewiesen werden konnte oder zumindest akzeptiert wird.
+Speech_0130L=Die Verluste der Nordkoreaner, Südkoreaner und Amerikaner im Korea-Konflikt haben inzwischen die Zahl von achttausend erreicht. 85 Prozent davon entfallen auf Nordkorea, das besonders in der Anfangsphase der Auseinandersetzungen während der Überschreitung der DMZ hohe Verluste zu verzeichnen hatte.
+
+[P_11_KokuboSosho_EliteLastRush]
+
+[P_11_KokuboSosho_GSDFAttacks]
+Speech_-001L=(null)
+Speech_0023L=(null)
+Speech_0001L=Verstanden. Ronin in Position. Warte auf Befehl.
+Speech_0002L=Ronin, Sie haben grünes Licht. Wiederhole, Sie haben grünes Licht.
+Speech_0003L=Verstanden. Aufmachen.
+Speech_0010L=Der Code wurde geändert.
+Speech_0011L=Hack das Ding. Schnell.
+Speech_0013L=Komm schon, mach die Tür auf.
+Speech_0015L=Eine Sekunde ... geschafft!
+Speech_0016L=Aufrücken ... stürmen und sichern. Los.
+Speech_0017L=Alles sauber!
+Speech_0018L=Wir sind im Tunnel ...
+Speech_0019L=Passen Sie auf, wo Sie hinschießen, Ronin ...
+Speech_0020L=Verstanden. Los, in Formation! Dicht zusammenbleiben. Flanken sichern.
+Speech_0021L=Ronin! Ronin! Bitte kommen, Ronin. Melden Sie sich, Ronin!
+
+[P_11_KokuboSosho_InterroBasement]
+Speech_-001L=(null)
+Speech_0001L=Nettes Spielzeug. Was für eine Munition verschießt das Ding?
+Speech_0004L=Was halten Sie davon, wenn Sie mich loslassen und ich es Ihnen zeige?
+Speech_0005L=Werd jetzt nicht frech ...
+Speech_0006L=Aaargh ... okay ... es ist so eine Art Taser-Munition ... elektrisch ...
+Speech_0007L=Interessant ... hast du etwas davon übrig?
+Speech_0008L=Es ist nicht so, als könnten Sie mich einfach kräftig durchschütteln und anschließend meine Munition vom Boden aufheben ...
+Speech_0009L=Du bist ganz schön aufmüpfig für jemanden, der ein Messer an der Kehle sitzen hat ...
+Speech_0010L=Aghhh ... Okay ... Ich glaube, sie bewahren zusätzliche Munition im Lagerraum auf.
+Note_0016L=Im Lagerraum liegen Schockpatronen mit Haftwirkung.
+Speech_0013L=Bitte töten Sie mich nicht ... ich bin eigentlich ganz nett ...
+Speech_0014L=Könnten Sie bitte das Messer etwas weiter weg halten ...
+
+[P_11_KokuboSosho_InterroCapturers]
+Speech_-001L=(null)
+Speech_0001L=Schlechte Nachrichten, Oberst.
+Speech_0002L=Ah! Wie haben Sie sich befreien können?
+Speech_0005L=Hör zu, ich fühle mich gerade nicht besonders gut ... daher würde ich nicht zögern, dir mit meinem Messer ein zweites Grinsen zu verpassen ...
+Speech_0006L=Bitte töten Sie mich nicht, Amerikaner.
+Speech_0014L=Ich habe Befehl, das nicht zu tun, aber ich kann dir immer noch ziemliche Schmerzen zufügen, wenn mir danach ist. Wie viele Männer hast du hier noch?
+Speech_0010L=Ich habe keine weitere Unterstützung angefordert ... der Hauptmann brauchte unten weitere Männer ... niemand hat mit Ihnen gerechnet.
+Speech_0016L=Also ist da nur noch dein Kumpel vor der Tür?
+Speech_0017L=Ja ...
+Speech_0012L=Ich war nachlässig ...
+Speech_0013L=Eine Minute länger und ich hätte mit den Blutegeln angefangen ...
+
+[P_11_KokuboSosho_InterroFirstTunnel]
+Speech_-001L=(null)
+Speech_0001L=Entschuldigung ... Ich glaube, ich habe mich verlaufen ...
+Speech_0002L=W... was! Okay ...
+Speech_0003L=Ich bin der Held, der hier ist, um die Welt zu retten.
+Speech_0004L=Ich ... ich dachte, ich sei der Held ...
+Speech_0005L=Nein, nein. Du gehörst zu den Leuten mit der super-geheimen unterirdischen Basis. Ich bin der Kerl, der in diese Basis eindringt. Also bin ich der Held. Jetzt sag mir, wie ich hineinkomme.
+Speech_0006L=Im Verteilerraum gibt es eine Leiter ... von dort aus finden Sie vermutlich einen Weg ... zu den Toiletten ...
+Note_0016L=Die Toiletten kann man vom Verteilerraum im Tunnel aus erreichen.
+Speech_0013L=Ich habe einmal eine Katze bei den Kabeln dort drüben gesehen ...
+Speech_0014L=Haben Sie es mit der Türklingel am Haupteingang versucht?
+
+[P_11_KokuboSosho_InterroHostagers]
+Speech_-001L=(null)
+Speech_0001L=Warum werden diese Männer festgehalten?
+Speech_0002L=Wa! Wer?
+Speech_0003L=Beantworte die Frage.
+Speech_0004L=So lauten meine Befehle ...
+Speech_0005L=Wessen Befehle?
+Speech_0006L=Wa... was? Der General ...
+Speech_0007L=Meinst du nicht Admiral?
+Speech_0008L=Was meinen Sie?
+Speech_0025L=Deine Befehle? Kommen sie von Admiral Otomo, oder nicht?
+Speech_0026L=Nein.
+Speech_0010L=Sie sind keine Geiseln ... wir ... wir halten sie nur fest.
+Speech_0011L=Wir haben Befehl, nicht auf sie zu schießen ... sollen sie einfach nur hier festhalten ...
+Speech_-001L=(null)
+Speech_0012L=Ich benötige Informationen.
+Speech_0013L=Von mir erfahren Sie nichts.
+Speech_0014L=Falsch.
+Speech_0015L=Agh ...
+Speech_0016L=Wo ist die Operationszentrale?
+Speech_0017L=In den Untergeschossen. Sie haben die Tür von der Lobby aus verriegelt.
+Speech_0018L=Wie öffne ich die Tür wieder?
+Speech_0019L=Sie sollte offen sein ... ein Hauptmann kam eben vorbei, um einige Männer für eine Mission auszuwählen.
+Speech_0023L=Was für eine Mission?
+Speech_0024L=Ich habe keine Ahnung ... er wollte mich nicht dabeihaben.
+Speech_0020L=Das ist mein erster Tag hier ...
+Speech_0021L=Ich habe Ihnen nichts getan ... bitte tun Sie mir nicht weh ...
+
+[P_11_KokuboSosho_InterroISDF]
+Speech_-001L=(null)
+Speech_0003L=Wo ist Otomo?
+Speech_0004L=Sicher in seinem Büro ... Sie werden niemals zu ihm gelangen.
+Speech_0005L=Schön ... wo befindet sich sein Server ...
+Speech_0006L=Genau hier ... aber es ist zu spät ... er hat den Abschuss bereits initiiert.
+Speech_0007L=Gibt es keinen Weg ihn aufzuhalten?
+Speech_0008L=Nicht ohne die Server zu zerstören.
+Speech_0024L=Kein Problem.
+Speech_0009L=Es ist ohne Bedeutung ... Sie werden hier unten sterben.
+Speech_0010L=Sie werden den Admiral niemals besiegen.
+Speech_-001L=(null)
+Speech_0012L=Sag mir, wie ich in Otomos Büro komme.
+Speech_0013L=Niemals!
+Speech_0014L=Ich habe Befehl, ihn lebend zu fangen ... aber was dich betrifft, sieht das anders aus ...
+Speech_0015L=Bitte! Nein!
+Speech_0016L=Du kommst dem Tod immer näher ...
+Speech_0017L=Unter dem Boden ... Ich glaube, dort gibt es einen Weg. Aber Otomo wird sich niemals ergeben ...
+Note_0025L=Es kann sein, dass man Otomos Büro durch einen Gang unter dem Boden erreichen kann.
+Speech_0018L=Das werden wir sehen.
+Speech_0021L=Das wird dein Ende sein, Amerikaner ...
+Speech_0023L=Sie werden Admiral Otomo niemals lebend in die Hände bekommen.
+
+[P_11_KokuboSosho_InterroMainLobby]
+Speech_-001L=(null)
+Speech_0001L=Nettes Gebäude.
+Speech_0002L=Wa! Wer?
+Speech_0003L=Ich werde vorschlagen, dass man euren Designer anheuert, um mal das Pentagon auf Vordermann zu bringen.
+Speech_0004L=Was wollen Sie ...
+Speech_0005L=Die allerneusten Nachrichten - was geschieht hier heute Nacht?
+Speech_0006L=Was? Ich weiß von nichts!
+Speech_0007L=Du weißt vermutlich mehr, als du denkst ... rede einfach.
+Speech_0008L=Äh ... einige Männer wurden umverteilt ... halten drinnen Wache. Und vorhin war hier ein Hauptmann und hat Freiwillige gesucht ... bin nicht sicher, wofür.
+Speech_0009L=Ein paar Schlipsträger und Offizielle sind zu einer Krisenkonferenz erschienen.
+Speech_0011L=Ich hätte heute Abend zu Hause bleiben sollen, es war Karaoke-Abend.
+
+[P_11_KokuboSosho_InterroServers]
+Speech_-001L=(null)
+Speech_0001L=Strenge Sicherheitsvorkehrungen habt ihr hier ...
+Speech_0002L=Nicht streng genug offenbar ...
+Speech_0003L=Sag mir etwas, dass mir hilft, mich hier leichter zu bewegen ...
+Speech_0006L=Okay, okay ... wir haben kürzlich einige Infrarot-Kameras installiert ...
+Note_0015L=Im Serverraum sind Infrarotkameras angebracht.
+Speech_0007L=Ja ...
+Speech_0008L=Es gibt außerdem noch einige Infrarot-Sensoren, um die Operationszentrale herum ...
+Note_0016L=Um die Operationszentrale herum gibt es Lasersensoren.
+Speech_0009L=Tatsächlich? Was noch?
+Speech_0010L=Ich bin nicht sicher, was die da unten in den Untergeschossen für Sicherheitsvorkehrungen getroffen haben.
+Speech_0012L=Und ich dachte, bei der Arbeit an Computern sei ich sicherer ...
+Speech_0013L=Sie tun mir weh ...
+
+[P_11_KokuboSosho_InterroWarRoom]
+Speech_-001L=(null)
+Speech_0003L=Wie gelange ich in die Operationszentrale?
+Speech_0004L=Sie haben die Tür von innen verriegelt ... wenn Sie keinen Schneidbrenner dabeihaben ...
+Speech_0005L=Ich hoffe für dich, dass du noch eine bessere Idee hast ...
+Speech_0006L=Arrghh ... Gott ... bitte ... warten Sie ... da ... da gibt es ein Ventilationssystem über dem Raum, vielleicht können Sie ihn von dort aus einsehen.
+Speech_0007L=Ich werde mir das mal ansehen. Du wartest hier.
+Speech_0008L=Oh ... okay.
+Speech_0012L=Wer sind Sie überhaupt?
+Speech_0013L=Sind Sie Koreaner?
+Speech_-001L=(null)
+Speech_0014L=Verhalte dich ruhig und dir passiert nichts.
+Speech_0015L=Einverstanden.
+Speech_0016L=Ich will zum Kommandozentrum von Otomos Sondereinheit.
+Speech_0017L=Nehmen Sie den Aufzug. Ist ganz hier in der Nähe. Sie können ihn nicht verfehlen.
+Speech_0018L=Willst du mitkommen? Ich hätte gerne einen Führer.
+Speech_0019L=Sind Sie verrückt?! Die haben da unten Elitetruppen ... die sind weitaus Furcht erregender als Sie!
+Speech_0022L=Viel Glück, falls Sie da hinuntergehen.
+Speech_0024L=Das geht da ganz schön weit nach unten ...
+
+[P_11_KokuboSosho_LobbyConversatio]
+Speech_-001L=(null)
+Speech_0001L=So spät noch bei der Arbeit?
+Speech_0002L=Arbeit? Meinst du das ernst? Dieser Job ist ein Witz.
+Speech_0003L=Wovon redest du? Wir sind hier zur Verteidigung des ...
+Speech_0004L=Verteidigung des Kokubo Sosho? Ja ... genau. Das ist, als würde man das CIA-Gebäude oder so etwas beschützen ...
+Speech_0005L=Was meinst du?
+Speech_0006L=Nun, es ist doch nicht so, als gäbe es irgendjemanden, der so verrückt wäre, hier einzudringen ... das hier ist der leichteste Job der Welt.
+
+[P_11_KokuboSosho_Missile]
+
+[P_11_KokuboSosho_NoKill]
+
+[P_11_KokuboSosho_Objectives]
+Objective_0007=Nehmen Sie Kontakt mit den verhafteten amerikanischen Offizieren auf.
+Objective_0022=Die im Kokubo Sosho stationierten amerikanischen Offiziere wurden von den SDF im Presseraum auf der obersten Etage über der Hauptlobby unter Arrest gestellt. Lassen Sie sich von ihnen Informationen geben.
+Objective_0005=Sie dürfen niemanden töten.
+Objective_0023=Die Beziehungen zu Japan stehen auf der Kippe. Wenn Sie jemanden töten, ist Ihre Mission gescheitert.
+POPUPMESSAGE_0031=Töten Sie niemanden.
+POPUPMESSAGE_0034=Nehmen Sie Kontakt mit den verhafteten amerikanischen Offizieren auf.
+POPUPMESSAGE_0035=Verschaffen Sie sich Zutritt zur Operations-zentrale.
+Objective_0008=Finden Sie heraus, wer dem I-SDF-Kommando den Eingreifbefehl gegeben hat.
+Objective_0024=Suchen Sie nach Ungereimtheiten und finden Sie heraus, wer das japanische Kommandoteam geleitet hat, das Shetland im Badehaus verhaften sollte.
+POPUPMESSAGE_0036=Zeichnen Sie das Treffen in der Operations-zentrale auf.
+Objective_0009=Zeichnen Sie das Treffen in der Operations-zentrale auf.
+Objective_0025=Die Anführer der Selbstverteidigungsstreitkräfte halten eine Notfallkonferenz in der Operationszentrale im Untereschoss ab. Zeichnen Sie das Treffen mit Ihrem Lasermikro auf.
+Objective_0037=Verschaffen Sie sich Zutritt zur Operations-zentrale.
+Objective_0038=Die verriegelten Türen der Operationszentrale des Kokubo Sosho lassen sich vom Hauptserverraum aus im Untergeschoss öffnen.
+POPUPMESSAGE_0032=Verschaffen Sie sich Zutritt zur Operations-zentrale.
+Objective_0010=Greifen Sie auf den Laptop des Generals zu.
+Objective_0026=Greifen Sie vom Lüftungsschacht ùber der Kommandozentrale aus mit Ihrem EEV auf den Laptop des Generals in der Kommandozentrale zu.
+Objective_0011=Beschädigen Sie die Server von Otomos I-SDF.
+Objective_0027=Begeben Sie sich in die I-SDF-Kommandozentrale in den unteren Etagen und zerstören Sie Otomos Server, bevor es zu spät ist.
+Objective_0017=Nehmen Sie Otomo lebend gefangen.
+Objective_0028=Fifth Freedom. Die Nicht-Töten-Einschränkung wird für alle Ziele bis auf Admiral Otomo aufgehoben, der lebend gefangen genommen werden muss, damit eine Chance besteht, die Region zu stabilisieren.
+Objective_0020=Verlassen Sie das Operationsgebiet über den einzig möglichen Exfiltrationspunkt.
+Objective_0029=Der einzige Fluchtweg führt durch die Wand von Otomos Büro und die Bucht von Tokio. Sprengen Sie ein Loch in die Wand und bringen Sie Otomo an die Oberfläche, damit er ärztlich versorgt werden kann.
+POPUPMESSAGE_0033=Verlassen Sie das Einsatzgebiet über einen beliebigen Extraktionspunkt.
+Objective_0021=Greifen Sie auf die I-SDF-Server zu.
+Objective_0030=(null)
+
+[P_11_KokuboSosho_ODell]
+
+[P_11_KokuboSosho_OfficersTalk]
+Speech_-001L=(null)
+Speech_0002L=Sie bleiben hier in diesem Raum und verhalten sich still!
+Speech_0003L=Wir haben kein Wort gesagt.
+Speech_0004L=Dann bleiben Sie dabei. Ich habe Befehl, Sie nicht zu erschießen, aber ich habe auch Befehl, sie nicht entkommen zu lassen ... verzichten wir darauf, herauszufinden, welcher Befehl den Vorrang hat.
+Speech_0011L=Wir sind keine Soldaten ... wir sitzen eigentlich nur am Schreibtisch ... wir sind hier vollkommen zufrieden.
+Speech_0012L=Und nicht auf die Toilette gehen!
+Speech_0013L=Okay ... gut ... das schaffen wir schon ... wir bleiben einfach hier.
+Speech_0014L=Ja! Das werden Sie!
+
+[P_11_KokuboSosho_Otomo]
+Speech_-001L=(null)
+Speech_0002L=Geben Sie auf, Admiral. Es ist vorbei.
+Speech_0004L=Also charmant hat mich noch niemand genannt ...
+Speech_0001L=Was haben Sie getan, Amerikaner?
+Speech_0003L=Hm. Glauben Sie, ich würde mich Ihnen ergeben ... glauben Sie, ich würde Ihrem Volk erlauben, mich meiner Würde zu berauben? Mich in Ketten zu legen? Nein. Mein Volk hat ihre ... charmante Unterdrückung ... ertragen. Mehr als sechzig Jahre lang.
+Speech_0006L=Amerikaner! Was haben Sie getan! Pah! Sie kommen zu spät. Sie mögen mich besiegt haben, aber der Drache ist erwacht. Diesmal wird er sich nicht so einfach bändigen lassen!
+
+[P_11_KokuboSosho_SamGenerics]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0006L=(null)
+Speech_-001L=(null)
+Speech_0007L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_11_KokuboSosho_Security]
+Note_0002L=Der Türcode für den Serverraum lautet 1945.
+Note_0005L=Die Zentralserver versinken im Boden, sobald Alarm gegeben wird.
+Note_0004L=Mit dem Retina-Scanner im Serverraum kann man die Server wieder an die Oberfläche bringen.
+Note_0003L=In der Toilette im Keller ist ein Erste-Hilfe-Schrank.
+Note_0006L=Ein Erste-Hilfe-Schrank befindet sich in der Nähe der Toiletten in der Hauptlobby.
+Speech_0001L=Diese Narren! Sie schicken ein weiteres Angriffsteam! Unterbrich den Strom für die Aufzüge!
+
+[P_11_KokuboSosho_SRCfirst]
+Speech_-001L=(null)
+Speech_0001L=Hast du die Nachrichten gehört? Die Rettung war erfolgreich ...
+Speech_0002L=Willst du mich verarschen?
+Speech_0003L=Nein. Dieser Chinese ... er spazierte durch den Weltraum hinüber, verband seine Kapsel mit der Station und brachte dann die zwei Astronauten, einen nach dem anderen, zurück.
+Speech_0004L=Wow ... das ist fantastisch...
+Speech_0005L=Würde ich auch sagen ...
+Speech_0006L=Also ... was ist diesmal schief gelaufen?
+Speech_0007L=Nichts. Nichts ist schief gelaufen. Der Wiedereintritt verlief reibungslos. Sie haben die Kapsel vor etwa einer Stunde aus dem Ozean geborgen ... die Astronauten sind ein wenig dehydriert ... aber das ist auch alles.
+Speech_0008L=Puh, das ist also das Ende der Geschichte.
+Speech_0009L=Das ist das Ende der Geschichte.
+Speech_0010L=Ein Hoch auf die Taikonauten!
+
+[P_11_KokuboSosho_SRCsecond]
+Speech_-001L=(null)
+Speech_0001L=Ich bekomme langsam Hunger.
+Speech_0002L=Ich auch ... geh und sag Elie Bescheid ... wir sollten was zu essen für die Leute bestellen, die noch hier sind.
+Speech_0003L=Geht nicht.
+Speech_0004L=Warum nicht?
+Speech_0005L=Sie haben ihn versetzt. Wir sind allein.
+Speech_0006L=Sie haben Elie versetzt? Was denken die sich dabei?
+Speech_0007L=Denken? Ha! Was redest du denn da? Wir sind bei der Armee - da denkt niemand ...
+
+[P_11_KokuboSosho_SRCthird]
+Speech_-001L=(null)
+Speech_0001L=Hast du eine Ahnung, was hier vorgeht?
+Speech_0002L=Was meinst du?
+Speech_0003L=Ich meine ... in den letzten paar Stunden sind doch eine Menge merkwürdige Dinge geschehen.
+Speech_0004L=Was ... du meinst die Gefangennahme der Amerikaner ... die Anzugträger, die zu einer Krisenkonferenz rennen ... der Offizier, der auftauchte und einen handverlesenen Angriffstrupp zusammenstellte ... Gerüchte über einen Eindringling ...Admiral Otomo, der einfach vom Erdboden verschwindet, während der Rest der Welt auf die Apokalypse zurast ... 
+Speech_0005L=Ja ... was hat das alles zu bedeuten?
+Speech_0006L=Ich versuche, keine Fragen zu stellen.
+
+[P_11_KokuboSosho_USOfficers]
+Speech_-001L=(null)
+Speech_0001L=Psst ...
+Speech_0002L=Was? Hey ... Sie ... Sie sind Amerikaner!
+Speech_0003L=Vielleicht ... aber ich bin nicht hier, um euch zu retten.
+Speech_0004L=Das ist in Ordnung. Wir sind ohnehin keine richtigen Geiseln.
+Speech_0005L=Was geht hier vor?
+Speech_0006L=Bin nicht sicher. Die japanische Armee hat das gesamte amerikanische Personal zusammengetrieben und eingesperrt. Zuvor haben wir einige Generäle und Minister eintreffen sehen.
+Speech_0007L=Wo sind sie hingegangen?
+Speech_0016L=In die Operationszentrale im Untergeschoss.
+Speech_0017L=Hmm ... die Türen zu den unteren Ebenen sind versperrt.
+Speech_0018L=Hier war gerade eben erst ein Offizier, der nach einsatztauglichen Freiwilligen suchte, die dort hinuntergehen sollten ... vielleicht sind die Türen ja jetzt offen?
+Speech_0019L=Perfektes Timing. Jemand wird sich später um Sie kümmern.
+Speech_-001L=(null)
+Speech_0008L=In Ordnung, Jungs ... was geht hier vor?
+Speech_0009L=Gott sei Dank, ein Amerikaner! Wann können wir gehen?
+Speech_0010L=Langsam ... ich bin nicht euer Babysitter. Sagt mir, was ihr wisst, dann kommt vielleicht später jemand anders, um euch herauszuholen.
+Speech_0011L=Äh ... nun, die japanische Armee hat das gesamte amerikanische Personal zusammengetrieben und uns eingesperrt. Zuvor haben wir einige Generäle und Minister eintreffen sehen.
+Speech_0012L=Wo sind sie hingegangen?
+Speech_0013L=In die Operationszentrale im Untergeschoss.
+Speech_0014L=Hmm ... die Türen zu den unteren Ebenen sind verriegelt.
+Speech_0015L=Hier war gerade eben erst ein Offizier, der nach einsatztauglichen Freiwilligen suchte, die dort hinuntergehen sollten ... vielleicht sind die Türen jetzt geöffnet.
+Speech_0020L=Danke für den Hinweis.
+
+[P_11_KokuboSosho_WaitsBotan]
+
+[P_11_KokuboSosho_WaitsHaru]
+
+[P_11_KokuboSosho_WaitsHiroshi]
+
+[P_11_KokuboSosho_WaitsJason]
+
+[P_11_KokuboSosho_WaitsKanata]
+
+[P_11_KokuboSosho_WaitsMamoru]
+
+[P_11_KokuboSosho_WaitsMasakazu]
+
+[P_11_KokuboSosho_WaitsRaidon]
+
+[P_11_KokuboSosho_WaitsSebastien]
+
+[P_11_KokuboSosho_WaitsShigekazu]
+
+[P_11_KokuboSosho_WaitsTetsuo]
+
+[P_11_KokuboSosho_WaitsYasashiku]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_11_KokuboSosho_WaitsYukata]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_11_KokuboSosho_Wallminers]
+
+[P_11_KokuboSosho_WarRoomEvent]
+Speech_-001L=(null)
+Speech_0020L=Wir können nicht ... aber wenn er die Kontrolle hat ... das ist politischer Selbstmord ... wir haben die Amerikaner schon festgesetzt.
+Speech_-001L=(null)
+Speech_0021L=Was denkt er sich ... keine Alternative ... er wird als erster sterben, ich bin mir sicher ...
+Speech_-001L=(null)
+Speech_0022L=Die Leitung ist sicher ... ja ... wir sind bereit zu verbinden ... ich kann ihn durchstellen ... ja ...
+Speech_-001L=(null)
+Speech_0001L=Hier spricht Admiral Otomo ...
+Speech_0002L=Admiral ... was hat das zu bedeuten?
+Speech_0031L=Das ist ... das ist unmöglich ... selbst wenn wir die Verfassung aufheben, der Kaiser würde nie ...
+Speech_0016L=Sechsund... das Volk wird das niemals zulassen.
+Speech_0018L=Das war es ... er hat die Verbindung unterbrochen.
+Speech_0019L=Mein Gott!
+Speech_-001L=(null)
+Speech_0023L=Mein Gott ... wir sind verloren ... wir können das nicht tun ... wir können den Amerikanern nicht sagen ... es darf nicht misslingen ... er hat den Verstand verloren ...
+Speech_-001L=(null)
+Speech_0024L=Wie lauten unsere Optionen? Können wir die Kommandozentrale zurückerobern? Was, wenn nicht? Haben wir eine andere Wahl?
+Speech_-001L=(null)
+Speech_0025L=Versuche, wieder zu verbinden ... Hier Zentrale, die Übertragung steht ... Der General ist gleich so weit.
+Speech_-001L=(null)
+Speech_0026L=Noch einmal der Admiral, Sir.
+Speech_0027L=Admiral ... wir ...
+Speech_-001L=(null)
+Speech_0029L=Mein Gott ... wir sind verloren ... wir können das nicht tun ... wir können den Amerikanern nicht sagen ... es darf nicht misslingen ... er hat den Verstand verloren ...
+Speech_-001L=(null)
+Speech_0030L=Was können wir tun? Zweiundsiebzig Stunden? Wie erreichen wir den Kaiser?
+
+Speech_0003L=Meine Herren, bitte. Ungeachtet Ihrer Bedenken habe ich durchaus alles unter Kontrolle.
+Speech_0004L=Unter Kontrolle? Admiral ... Sie haben einen Krieg mit Nordkorea entfacht und ...
+Speech_0005L=Und die Amerikaner zu unserem Interesse dort hineingezogen ... das ist in der Tat das, was ich getan habe.
+Speech_0006L=Was?!
+Speech_0007L=Bleiben Sie sitzen!
+Speech_0008L=Admiral ... das ist ...
+Speech_0009L=Ein notwendiger Schritt, um die Nation, das Volk und die Kultur Japans vor der militärischen Aggression unserer Feinde und der kulturellen Sabotage durch unsere Verbündeten zu bewahren.
+Speech_0010L=Wa.... Was?
+Speech_0011L=Die Vereinigten Staaten wurden, zu unserem Schutz, in einen Krieg hineingezogen, den sie sich nicht leisten können. Sie können gar nicht anders, als unseren nächsten Schritt zu unterstützen.
+Speech_0012L=Unseren nächsten Schritt?
+Speech_0013L=Sie werden die Nachkriegs-Verfassung aufheben. Sie werden die sofortige Remilitarisierung Japans befehlen und die Regierungsmacht wieder dem Kaiser übertragen. Die USA werden dies politisch und militärisch unterstützen, um sich von weiteren finanziellen und militärischen Verpflichtungen zu befreien, womit unsere Beziehungen in Asien beendet wären.
+Speech_0015L=Der Kaiser wird tun, was das Militär ihm sagt! Ich bin Realist ...so etwas braucht Zeit. Ich vertraue auf Ihre Ehre und Ihre Vernunft und gebe Ihnen daher sechsundneunzig Stunden.
+Speech_0017L=Werden meine Forderungen innerhalb von vier Tagen nicht erfüllt, werde ich den Start einer nordkoreanischen Rakete veranlassen und eine japanische Stadt meiner Wahl opfern. Bedauerlicherweise wird das Millionen von Menschenleben kosten. Aber es wird den Willen des Volkes stählen. Im Namen Ihrer Ehre und zum Wohle Japans bitte ich Sie ... zwingen Sie mich nicht zu handeln.
+Speech_0028L=Narr! Sie verschwenden Ihre Zeit mit feigen Plänen! Wenn Sie nicht ehrenhaft handeln können, zwinge ich Sie zu handeln! Dem Willen des Volkes werden Sie sich nicht widersetzen können, wenn Nordkorea eine unserer Städte vernichtet! Sie werden erfahren welche, wenn sie ausgelöscht wurde!

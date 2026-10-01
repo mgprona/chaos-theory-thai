@@ -1,0 +1,501 @@
+[P_09_SeoulTwo_Balcony]
+
+[P_09_SeoulTwo_Bombdrop]
+Speech_-001L=(null)
+Speech_0001L=Jung-Uh... Shing?
+Speech_0002L=Yeah, what is... ah!
+Speech_0003L=I found out what that beeping sound was...
+Speech_0004L=Is it... is it a dud?
+Speech_0005L=I don't know...
+Speech_0006L=Check it...
+Speech_0007L=You check it.
+Speech_0008L=Okay...
+Speech_0009L=Easy...
+Speech_0010L=Take cover!
+Speech_0011L=I want my mom...
+Speech_0012L=We're still alive...
+Speech_0013L=Easy...
+Speech_0014L=Look... let's just bake that patrol data into the UAV and get out of here before it does go off.
+Speech_0015L=Good idea.
+
+[P_09_SeoulTwo_Drone01]
+
+[P_09_SeoulTwo_Drone3]
+
+[P_09_SeoulTwo_E6fakefight]
+
+[P_09_SeoulTwo_Fin]
+Objective_0001=Rescue the EA-6B pilots
+Objective_0003=(null)
+Objective_0002=Disable all Type 86 Battle Tanks to aid in crippling the North Koreans
+Objective_0004=(null)
+
+[P_09_SeoulTwo_GilRun]
+
+[P_09_SeoulTwo_HQcom]
+Speech_0002L=LAMBERT - Fisher... I hate to do this to you... but we can't extract you yet.
+Speech_0025L=FISHER - You're lucky I'm not unionized...overtime would come out to double and a half.
+Speech_0020L=LAMBERT - We lost contact with the EA-6B before they could purge the data. It's still in the wreckage.
+Speech_0021L=FISHER - So I have to go there and delete it?
+Speech_0023L=LAMBERT - Before the North Koreans get their hands on it.
+Speech_-001L=(null)
+Speech_0047L=LAMBERT - Fisher, the plane went down before they could purge the data. You need to get to the wreckage and make sure the North Korean's don't recover it.
+Speech_-001L=(null)
+Speech_0182L=REDDING - NK regulars are setting up Portable Radar Reconnaissance Receivers. See if you can take them all out.
+Speech_-001L=(null)
+Speech_0183L=REDDING - Sam, it would be helpful if you could recover technical specification on these new North Korean UAV's.
+Speech_0184L=FISHER - You bet.
+Note_0168L=IFV's can be destroyed by lobbing a grenade in an open hatch.
+
+
+Speech_-001L=(null)
+Speech_0073L=REDDING - We have multiple reports of more active armor in your immediate A.O.
+Speech_0074L=FISHER - Great.
+Speech_-001L=(null)
+Speech_0162L=REDDING - Good job, Fisher...you've seriously impaired North Korea's armored advance.
+Speech_0081L=REDDING - Good job, Fisher...you've seriously impaired North Korea's armored advance.
+Speech_0163L=REDDING - My god, Sam... how many of those things have you taken out today?
+Speech_0164L=FISHER - I lost count.
+Speech_0165L=REDDING - You're reducing a North Korean mechanized division to scrap metal.
+Speech_0166L=FISHER - And I cost less than a single thousand pound bomb.
+Speech_0167L=REDDING - Only if you don't count the cost of your life insurance policy. That's almost half our budget.
+Speech_-001L=(null)
+Speech_0017L=REDDING - Good job Sam. RF monitoring indicates at least four more P3R's active in your A.O.
+Speech_-001L=(null)
+Speech_0107L=REDDING - Sam, we have RF confirmation that there are only two P3R's left in your area.
+Speech_-001L=(null)
+Speech_0109L=REDDING - One more P3R to go, Fisher.
+Speech_0110L=FISHER - I'll find it...
+Speech_-001L=(null)
+Speech_0018L=REDDING - Way to go, Sam. With those P3R's out of commission it'll be a lot safer to extract you.
+Speech_0111L=FISHER - Wow... you mean you're actually planning to get me out of here alive one day?
+Speech_-001L=(null)
+Speech_0114L=REDDING - Fisher, it looks like you just bypassed one of the P3R's. There's no way back... you might as well forget the objective.
+Speech_-001L=(null)
+Speech_0112L=REDDING - That was the last P3R, Sam. Good job.
+Speech_0113L=REDDING - NK regulars are setting up Portable Radar Reconnaissance Receivers. See if you can take them all out.
+Speech_-001L=(null)
+Speech_0120L=REDDING - Whoa... good grab, Sam. Looks like complete technical specification on North Korean UAV's.
+Speech_0123L=FISHER - So, what, we can just switch them all off now?
+Speech_0124L=REDDING - Ha. No. But we can pass it up the chain and inside of a few months find ways to disable them...
+Speech_0125L=FISHER - Well, that's not much help to me then, is it.
+Speech_0126L=REDDING - Sam, it would be helpful if you could recover technical specification on these new North Korean UAV's.
+Speech_-001L=(null)
+Speech_0096L=LAMBERT - Sam... get back to the building. You can designate the wreckage with your EEV from there.
+Speech_-001L=(null)
+Speech_0097L=LAMBERT - Sam... you need to designate the--
+Speech_0098L=FISHER - No point in rescuing one and leaving the other.
+Speech_-001L=(null)
+Speech_0106L=LAMBERT - Sam, you need to get to the plane and try to recover that data before we can extract you.
+Note_0161L=The pilots will be safe from the air strike in the side alley.
+Speech_-001L=(null)
+Speech_0129L=LAMBERT - Fisher... if you compromise this mission for those men...
+Speech_0130L=FISHER - Save it Irving... you gave me my orders already.
+Speech_-001L=(null)
+Speech_0133L=LAMBERT - Forget him, Fisher. He's dead.
+Speech_-001L=(null)
+Speech_0134L=LAMBERT - Alright Fisher, good job. He should be safe from the blast. Designate the wreckage with your EEV.
+Speech_-001L=(null)
+Speech_0135L=LAMBERT - You don't even exist, Fisher... you can't get a medal for this.
+Speech_0136L=FISHER - Medals don't help me sleep at night, Lambert.
+Speech_-001L=(null)
+Speech_0137L=LAMBERT - Alright, the pilots are safe, already. Now take out that plane.
+Speech_0138L=FISHER - With pleasure.
+POPUPMESSAGE_0171=Tap a Mobile Command Center
+Speech_-001L=(null)
+Speech_0127L=GRIMSDOTTIR - Fisher, there's another Mobile Command Center up ahead. This might be your last opportunity to tap into one. 
+Speech_0128L=FISHER - Those Predator drones are busy little bees, aren't they.
+Speech_-001L=(null)
+Speech_0115L=GRIMSDOTTIR - Good job Sam. Never hurts to have another line into the NKA command network.
+Speech_-001L=(null)
+Speech_0011L=GRIMSDOTTIR - Good job, Sam. With an inside line on the NKA's command network we should be able to funnel useful intelligence to the reg's.
+Speech_0066L=FISHER - Always happy to lend a hand.
+POPUPMESSAGE_0172=Tap a Mobile Command Center
+Speech_-001L=(null)
+Speech_0067L=GRIMSDOTTIR - I hate to be a pain, Fisher, but I really need you to tap that MCC before you go any further.
+Speech_0068L=FISHER - I'll double back.
+Speech_0069L=GRIMSDOTTIR - Fisher, you need to tap the MCC before we'll be able to extract you.
+Speech_0070L=GRIMSDOTTIR - Good job, Sam. With an inside line on the NKA's command network we should be able to funnel useful intelligence to the reg's.
+Speech_-001L=(null)
+Speech_0175L=LAMBERT - Sweet Jesus Fisher...what did you do?
+Speech_0176L=FISHER - It was an accident.
+Speech_0177L=LAMBERT - We don't have room for accidents. Watch your fire.
+Speech_-001L=(null)
+Speech_0178L=LAMBERT - Dammit Fisher...that's the second civilian you've killed.
+Speech_0179L=FISHER - Lambert...I...
+Speech_-001L=(null)
+Speech_0180L=LAMBERT - You should be able to designate the wreckage with your EEV from the top of this structure.
+Speech_0181L=FISHER - Alright.
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0185L=FISHER - God forgive me. 
+Speech_0186L=LAMBERT - Alright, Fisher, you have an F-117 inbound...standby.
+Speech_0187L=FISHER - Roger. Target is painted.
+Speech_0188L=US_PILOT - Hello there paperboy. This is postman. We have your glare. Stay on target.
+Speech_0189L=FISHER - Affirmative, postman.
+Speech_0147L=US_PILOT - And... there you go paperboy. The package is in the mail.
+Speech_0148L=FISHER - Confirm visual on the package postman.
+Speech_0149L=US_PILOT - Have a better one. Postman out. 
+
+[P_09_SeoulTwo_IFV]
+
+[P_09_SeoulTwo_Imprison]
+Note_0017L=The South Korean prisoner may attack the enemy if freed.
+
+[P_09_SeoulTwo_Imprison_Com]
+Speech_-001L=(null)
+Speech_0001L=Fine! Okay! 
+Speech_0002L=Shut up!
+Speech_0003L=I surrender. I surrender. Just... please don't hurt me
+Speech_0006L=You be quiet now! You're under arrest now!
+Speech_0007L=Okay.
+Speech_0010L=You're my prisoner!
+Speech_0011L=Okay. I surrender.
+Speech_0012L=Good... now don't move.
+Speech_0013L=Okay.
+Speech_0014L=Okay.
+Speech_0015L=Now what do we do?
+Speech_0016L=I don't know. You sit there... I'll figure something out.
+
+[P_09_SeoulTwo_Interog_Bae]
+Speech_-001L=(null)
+Speech_0001L=What are you doing here?
+Speech_0002L=Ah! Oh... just my luck...
+Speech_0003L=What are you talking about?
+Speech_0004L=Sitting in there, minding my own business and 'crash'. 
+Speech_0005L=What happened?
+Speech_0006L=You crazy maniacs drop a giant bomb on my head.
+Speech_0007L=Bomb?
+Speech_0008L=The one in there! Went right through the room! Just missed me!
+Speech_0009L=It didn't explode?
+Speech_0010L=Not yet... doesn't matter now... you're probably going to kill me anyway...
+Speech_0011L=I knew I should have stayed in bed.
+Speech_0012L=Fine... do you worst...
+
+[P_09_SeoulTwo_Interog_Bo]
+Speech_-001L=(null)
+Speech_0001L=Stay calm and you'll live...
+Speech_0002L=Wh... who--
+Speech_0003L=What unit are you with?
+Speech_0004L=We're the second wave... we're here to reinforce the first battalion and secure the area.
+Speech_0005L=Reinforcements? You must pack some supplies and extra equipment...
+Speech_0006L=Our resupply kit. We carry some NATO 5.56 by 45 in there, in case we recover American rifles.
+Speech_0009L=I found that already... anything else?
+Speech_0010L=No... we travel light... the third wave will be better equipped.
+Speech_0014L=Thanks for the tip.
+Note_0015L=There is ammo beside the P3R on the office roof.
+Speech_0011L=That's all we have... I swear...
+Speech_0013L=Look out for bombs...
+
+[P_09_SeoulTwo_Interog_Chen]
+Speech_-001L=(null)
+Speech_0001L=What are you doing here?
+Speech_0002L=Thank god, you're American.
+Speech_0003L=I'm not here to rescue you.
+Speech_0004L=Please... I want to help you.
+Speech_0005L=Too dangerous. Just tell me what you know.
+Speech_0006L=The MCC up ahead... they have some kind of flying drone protecting them.
+Speech_0007L=Thanks.
+Speech_0008L=Be careful... I called for a mortar strike on the alley by the MCC before I was captured... it could come any second.
+Speech_0009L=I'll be careful.
+Speech_0010L=We are brothers in arms.
+Speech_0011L=I am on your side.
+Speech_0012L=I think there are snipers around.
+
+[P_09_SeoulTwo_interog_chung]
+Speech_-001L=(null)
+Speech_0001L=You ever think of calling roadside assistance?
+Speech_0002L=Ah! Hey... let me go you American pig!
+Speech_0003L=I'm just trying to be helpful.
+Speech_0004L=You make jokes about your fancy capitalist style... living like kings on the backs of my people... take your roadside assistance and shove it up your--
+Speech_0005L=Calm down, or I'll knock you down.
+Speech_0006L=Do your worst.
+Speech_0007L=Intelligence first.
+Speech_0008L=There is an armored vehicle moving to secure the next street. How's that for intelligence! Ha! I hope it kills you.
+Speech_0009L=I don't like you.
+Speech_0010L=It's mutual.
+Speech_0011L=Yeah... but I'm the one with the knife.
+Speech_0012L=I hate you, pig.
+Speech_0013L=You smell like milk and cookies.
+
+[P_09_SeoulTwo_Interog_Ho]
+Speech_-001L=(null)
+Speech_0001L=What are you doing here?
+Speech_0002L=Ah! Who... uh... I'm... I just dropped off a some men to help secure the area.
+Speech_0003L=How many men?
+Speech_0004L=A sniper who went into the building... another guard to protect the MCC... and half a squad to scout ahead to the crash site.
+Speech_0005L=How long until they reach the plane?
+Speech_0006L=I don't know... they have orders to overlook... wait for an IFV to support them.
+Speech_0007L=How long until the IFV arrives?
+Speech_0008L=It should be any minute.
+Speech_0010L=I surrender.
+Speech_0011L=I'm just the driver.
+
+[P_09_SeoulTwo_Interog_Jin]
+Speech_-001L=(null)
+Speech_0001L=What are you doing here?
+Speech_0002L=Ah! Wait... you're American... I am South Korean... we're allies!
+Speech_0003L=I can see that from the uniform, what are you doing here.
+Speech_0004L=I'm the advance scout for my unit... they're not far behind... 
+Speech_0005L=How many?
+Speech_0006L=Four more... allies... allies... we're badly reduced... can you help us?
+Speech_0007L=I'm afraid I'm a little busy.
+Speech_0008L=Who are you?
+Speech_0009L=I'm the guy you never saw.
+Speech_0011L=Please, we're allies...
+Speech_0012L=If you don't let me tell my unit, they won't know you're on our side...
+
+[P_09_SeoulTwo_Interog_Manchu]
+
+[P_09_SeoulTwo_Interog_Pong]
+Speech_-001L=(null)
+Speech_0001L=Nice perch you have here. Where's your spotter?
+Speech_0002L=Ah! Uh... he... he's dead.
+Speech_0005L=Tell me something interesting, or you'll be reunited very shortly...
+Speech_0006L=Uh... uh... you must be after the plane that crashed...
+Speech_0007L=Maybe...
+Speech_0008L=Out the other side of this building... down the street, left into the alley and over the wall... you can't miss it.
+Speech_0009L=Thanks for the directions...
+Speech_0010L=Be careful. A QRF is heading to the crash site.
+Speech_0012L=I promise, I won't shoot you.
+
+[P_09_SeoulTwo_Interog_Seung]
+Speech_-001L=(null)
+Speech_0001L=Nice truck.
+Speech_0002L=You can have it... the keys are over the visor.
+Speech_0003L=Wouldn't be very subtle to start driving around here.
+Speech_0004L=It also wouldn't be subtle to kill me...
+Speech_0005L=Then tell me something useful...
+Speech_0006L=One of the snipers reported he had spotted two of the crewmen from the plane lying in the street.
+Speech_0007L=And...
+Speech_0008L=He thinks they're still alive...
+Speech_0009L=Alive?!
+Speech_0010L=Yes... command told him to hold fire... they may be arranging to capture them.
+Speech_0012L=This war is terrible.
+Speech_0013L=I never wanted to hurt anyone.
+
+[P_09_SeoulTwo_Interog_Shing]
+Note_0016L=There is a medical kit in the basement of the restaurant.
+Speech_-001L=(null)
+Speech_0001L=Boo.
+Speech_0002L=Oh... no... please... be quiet... you might set off the bomb.
+Speech_0003L=Tell me what I want to know and I'll let you leave.
+Speech_0004L=Anything... I just want to get out of here before--
+Speech_0005L=Do you have any equipment or supplies?
+Speech_0006L=There's some medical supplies in the basement I think...
+Speech_0007L=Thanks.
+Speech_0008L=And we have the UAV command unit in the kitchen.
+Speech_0009L=Interesting. You've been very helpful.
+Speech_0010L=I'm very scared of that bomb.
+Speech_0011L=Well, if it goes off, you won't notice.
+Speech_0012L=Please, don't leave me near that bomb.
+Speech_0013L=I'm scared of giant explosions.
+
+[P_09_SeoulTwo_Interog_Yuan]
+Speech_-001L=(null)
+Speech_0001L=Quiet... I won't hurt you.
+Speech_0002L=I'm not afraid of pain.
+Speech_0003L=Maybe you haven't been properly introduced...
+Speech_0004L=Ow... my wrist... arhghh... okay...
+Speech_0005L=Tell me something interesting...
+Speech_0006L=I'm just supposed to make sure the roof is clear while the guys up top set up the P3R.
+Speech_0007L=You're not doing a very good job.
+Speech_0008L=You're right... why don't you let me get back to work.
+Speech_0009L=I don't know anything else.
+Speech_0010L=Ask the other guys... I'm just a private.
+
+[P_09_SeoulTwo_KillSK]
+
+[P_09_SeoulTwo_Laser]
+Note_0010L=Laser designate the EA-6B from atop the scaffold at the end of the street.
+Speech_-001L=(null)
+Speech_0011L=LAMBERT - What's the situation, Sam?
+Speech_0012L=FISHER - The plane is smashed... I don't think I can recover the data. But two of the crew are alive... looks like they crawled out of the wreckage.
+Speech_0013L=LAMBERT - If you can't recover the data, we need to make sure no one can. Fall back to a safe distance to designate the target. I'll get on the horn with Flight Ops on the Reagan.
+Speech_0024L=LAMBERT - The plane is too badly damaged to recover the data. You need to fall back and designate the target for an air-strike. Use the structure down the street for your platform.
+Speech_0014L=FISHER - Let me get the pilots to safety first.
+Speech_0015L=LAMBERT - We don't have a lot of time, Sam. An NKA recovery team is en route.
+Speech_0016L=FISHER - Are you ordering me to leave these guys here and call in an air-strike?
+Speech_0017L=LAMBERT - I'm telling you what the objective is. I'm trusting you to complete it. You have your orders.
+Speech_0018L=LAMBERT - The plane is too badly damaged to recover the data. You need to fall back and designate the target for an air-strike. Use the structure down the street for your platform.
+Note_0023L=Laser designate the EA-6B from atop the scaffold at the end of the street.
+Speech_-001L=(null)
+Speech_0019L=LAMBERT -  What's the situation, Sam?
+Speech_0020L=FISHER - The plane is smashed... I don't think I can recover the data.
+Speech_0021L=LAMBERT - If you can't recover it, we need to make sure no one can. Fall back to a safe distance to designate the target. I'll get on the horn with Flight Ops on the Reagan.
+Speech_0022L=FISHER - On my way.
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0001L=FISHER - God forgive me. 
+Speech_0002L=LAMBERT - Alright, Fisher, you have an F-117 inbound...standby.
+Speech_0003L=FISHER - Roger. Target is painted.
+Speech_0004L=US_PILOT - Hello there paperboy. This is postman. We have your glare. Stay on target.
+Speech_0005L=FISHER - Affirmative, postman.
+Speech_-001L=(null)
+Speech_0006L=US_PILOT - Uh... paperboy, where'd you go?
+Speech_0007L=LAMBERT - What are you doing, Sam! Get that target painted.
+Speech_0008L=FISHER - Just a second.
+Speech_-001L=(null)
+Speech_0009L=FISHER - Okay. Target is painted.
+
+[P_09_SeoulTwo_MarketTwo]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_09_SeoulTwo_MasterController]
+Note_0028L=Do not kill any South Korean Troops
+Speech_-001L=(null)
+Speech_0001L=Meanwhile, as the first horrifying numbers for this tragic conflict begin to roll in, Americans are asking,'How did this happen?'. It's a question we'll ask of Secretary of Defense Frank Mason, tonight on WNM Flash when White House correspondent Montgomery Lewis sits down with the Secretary to talk about the war, the contracting scandal, and his alleged affair with Air Force Major Veronique Guilbault.
+Speech_0002L=In sports news, New York pitcher Akira Watanabe formally requested exemption from his contract with his new team. The world's highest paid baseball player has announced his intention to return to his country to join the Japanese Self Defense Force to 'quote' help defend his people, his land, and his culture from the Korean aggressors.
+Speech_-001L=(null)
+Speech_0003L=The Chinese rocket is away!
+Speech_0004L=What rocket?
+Speech_0005L=The one being sent to rescue the stranded astronauts.
+Speech_0006L=What stranded astronauts?
+Speech_0007L=The ones on the ISS...
+Speech_0008L=I haven't heard about that... what happened?
+Speech_0009L=What do you mean you haven't heard? It's the biggest news story of the decade...
+Speech_0010L=Have you not noticed that we are in the middle of a war?
+Speech_0011L=Wars happen all the time... this is important.
+Speech_-001L=(null)
+Speech_0013L=Wow... your combat boots are really shiny.
+Speech_0014L=They're new.
+Speech_0015L=What? How did you get new combat boots?
+Speech_0016L=I took them off a dead American.
+Speech_0017L=What?! That's horrible.
+Speech_0018L=Mine were worn out... and the army wasn't due to issue me a new pair until next year.
+Speech_0019L=But... you took a dead mans boots... that must be bad luck or something...
+Speech_0020L=Bad luck for him, I guess.
+Speech_-001L=(null)
+Speech_0026L=Come and get me you bastards!
+Speech_0027L=You'll never take me alive!
+
+[P_09_SeoulTwo_MCC]
+
+[P_09_SeoulTwo_Mrkt1]
+
+[P_09_SeoulTwo_Mrkt1_com]
+Speech_-001L=(null)
+Speech_0001L=Crap!
+Speech_0002L=Fighting vehicle! Fall back!
+Speech_-001L=(null)
+Speech_0003L=Take cover!
+Speech_0004L=Oh god! Wen!
+Speech_0005L=Take cover, dammit!
+Speech_0006L=Dammit!
+Speech_0007L=Come on you commie bastards! Take that!
+Speech_0008L=Get down!
+Speech_-001L=(null)
+Speech_0009L=In the alley!
+Speech_0010L=Attack!
+
+[P_09_SeoulTwo_Mrkt2_com]
+Speech_-001L=(null)
+Speech_0010L=Democratic Party Korean Sibling! Observe your American guardian flee as butter-fattened ducks steamed for the slaughter! Refuse their fraudulent escapists! Embrace us your truth one liberators!
+Speech_0017L=Man... who writes this crap?
+Speech_-001L=(null)
+Speech_0011L=Our Democratic Party Army is your sibling Korean Army! The oppressor is your lazy American demon. Us and freedom, combine the life which is peaceful and eternal, united together forever!
+Speech_0012L=Ugh... awful...
+Speech_-001L=(null)
+Speech_0014L=Korean Sibling! Our combined enemy is the lard-mongering American person. By the effort which combines us, we shall them repulse from our homeland! Give them gifts of humiliating defeat and death most miserable!
+Speech_0018L=A computer can translate better than this.
+Speech_-001L=(null)
+Speech_0015L=American persons is the drunkard of the media deceits! Search your Northern part sibling and be opened and combine. The shackles of the pressure make we burn the West together in ten possibilities of the lock!
+Speech_0016L=I thought being a DJ would be glamorous.
+
+[P_09_SeoulTwo_NDTinterog]
+Speech_-001L=(null)
+Speech_0005L=You're not thinking of jumping, I hope?
+Speech_0006L=Ah... No...
+Speech_0007L=Then what are you doing up here?
+Speech_0008L=I need to check the P3R... see if it tracked that plane that just flew over...
+Speech_0009L=P3R?
+Speech_0010L=Portable Radar Reconnaissance Receiver.
+Speech_0011L=Tell you what... you take a nap, I'll check it for you.
+Speech_0012L=Anything you say... just don't hurt me...
+Speech_0013L=I'm afraid of heights...
+
+[P_09_SeoulTwo_NDTroof]
+
+[P_09_SeoulTwo_NKGuard]
+Speech_-001L=(null)
+Speech_0005L=Wow... your combat boots are really shiny.
+Speech_0006L=They're new.
+Speech_0007L=What? How did you get new combat boots?
+Speech_0008L=I took them off a dead American.
+Speech_0009L=What?! That's horrible.
+Speech_0010L=Mine were worn out... and the army wasn't due to issue me a new pair until next year.
+Speech_0011L=But... you took a dead mans boots... that must be bad luck or something...
+Speech_0012L=Bad luck for him, I guess.
+
+[P_09_SeoulTwo_NKGuard_StateCheck]
+Speech_-001L=(null)
+Speech_0001L=The Chinese rocket is away!
+Speech_0002L=What rocket?
+Speech_0003L=The one being sent to rescue the stranded astronauts.
+Speech_0004L=What stranded astronauts?
+Speech_0005L=The ones on the ISS...
+Speech_0006L=I haven't heard about that... what happened?
+Speech_0007L=What do you mean you haven't heard? It's the biggest news story of the decade...
+Speech_0008L=Have you not noticed that we are in the middle of a war?
+Speech_0009L=Wars happen all the time... this is important.
+
+[P_09_SeoulTwo_NKSoundEFX]
+
+[P_09_SeoulTwo_Objectives]
+POPUPMESSAGE_0086=Tap a Mobile Command Center
+Objective_0066=Tap a Mobile Command Center
+Objective_0067=Enter and tap a North Korean MCC to give Third Echelon access to the North Korean command networks.
+Objective_0068=Locate and retrieve data drives from the NDT
+Objective_0069=The National Data Trunk surfaces at a switching station in central Seoul. Recover the drives from the station to discover if the attack on the Walsh originated in South Korea.
+Objective_0070=Interrogate a Special Forces agent to determine the location of Jong
+Objective_0071=Third Echelon operatives operating elsewhere in Seoul need you to interrogate nearby Special Forces. The mission will be aborted if they die before interrogation.
+Objective_0072=Get to the rooftop to transfer the data to the EA-6B
+Objective_0073=Broadcast the data from the NDT drives from the roof of the building to an EA-6B using a point-to-point secure laser communication link to prevent data interception.
+Objective_0074=Tap a Mobile Command Center
+Objective_0075=Enter and tap a North Korean MCC to give Third Echelon access to the North Korean command networks.
+Objective_0082=Stop the North Korean Propaganda Broadcasts
+Objective_0083=Disabling loud speakers broadcasting North Korean propaganda would dramatically improve the morale of allied troops.
+Objective_0047=Get to the EA-6B crash site.
+Objective_0048=Proceed East from the rooftop of the telecommunications building to locate the wreckage of the downed EA-6B.
+Objective_0049=Disable Portable Radar Reconnaissance Receivers
+Objective_0050=The NKA is using Portable Radar Reconnaissance Receivers (P3Rs) to coordinate ground mapping and tracking of allied targets. Disable any P3Rs you can find.
+Objective_0084=Gain Information about NK UAV's 
+Objective_0085=North Korea has unveiled their new Unmanned Aerial Vehicles. They have extremely advanced technology. Try to recover a technical specification for Third Echelon.
+POPUPMESSAGE_0051=Get to the EA-6B crash site.
+POPUPMESSAGE_0053=Disable Portable Radar Reconnaissance Receivers
+Objective_0018=Prevent data aboard the EA-6B from being recovered by North Korea
+Objective_0025=The remnants of the data aboard the EA-6B must not fall into North Korean hands. Either recover the data, or ensure it cannot be recovered by the NKA.
+POPUPMESSAGE_0054=Prevent data aboard the EA-6B from being recovered by North Korea
+Objective_0035=Designate the wreckage of the EA-6B for aerial bombardment
+Objective_0036=The data aboard the downed EA-6B is not recoverable. Take a position atop the scaffolding to the West of the crash site and laser designate the wreckage for an air strike.
+POPUPMESSAGE_0055=Designate the wreckage of the EA-6B for aerial bombardment
+
+[P_09_SeoulTwo_Plane_Logic]
+POPUPMESSAGE_0001=Designate the wreckage of the EA-6B for aerial bombardment
+
+[P_09_SeoulTwo_RoofCom]
+Speech_-001L=(null)
+Speech_0001L=I thought you said we'd be safe up here.
+Speech_0002L=We are safe up here.
+Speech_0003L=What?! A bomb just hit the building!
+Speech_0004L=Oh... that... well... we're not safe from bombs...
+Speech_0005L=What are we safe from then?
+Speech_0006L=Infantry. Listen... bombs don't want to kill you... it's purely statistical. But there is nothing in the world more dangerous than an infantryman with a rifle... I'd rather take my chances with the bombs.
+Speech_0007L=You're scaring the crap out of me.
+
+[P_09_SeoulTwo_SamGenerics]
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_09_SeoulTwo_SKAlley]
+
+[P_09_SeoulTwo_SKPrisoner]
+
+[P_09_SeoulTwo_SKSoundEFX]
+
+[P_09_SeoulTwo_Slaughter]
+
+[P_09_SeoulTwo_Switch]

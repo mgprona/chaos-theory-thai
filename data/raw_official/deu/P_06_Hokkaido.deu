@@ -1,0 +1,574 @@
+[P_06_Hokkaido_AlarmCheck]
+
+[P_06_Hokkaido_AlarmComms]
+POPUPMESSAGE_0001=Alarmstufe Eins
+Speech_-001L=(null)
+Speech_0002L=Fisher ... du steckst auch so schon in genügend Schwierigkeiten. Sei gefälligst unauffälliger.
+POPUPMESSAGE_0003=Alarmstufe Zwei – Feinde legen Körperpanzer an
+Note_0013L=Die Gegner tragen eine Körperpanzerung.
+Speech_-001L=(null)
+Speech_0004L=Vorsicht ist besser als Nachsicht, Fisher.
+POPUPMESSAGE_0005=Alarmstufe Drei – Feinde setzen Helme auf
+Note_0014L=Die Gegner tragen Helme.
+Speech_-001L=(null)
+Speech_0006L=Fisher, ich meine es ernst ... nimm dich zusammen, oder wir blasen die ganze Sache ab.
+POPUPMESSAGE_0007=Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein
+Note_0015L=Die Gegner haben ihre Stellungen befestigt.
+Speech_0008L=Die haben überall Alarm ausgelöst, Fisher. Erfülle deine primären Missionsziele und verschwinde.
+Speech_0009L=Meine Güte, Fisher ... der ganze Laden wurde alarmiert. Erfülle deine primären Missionsziele und verschwinde.
+POPUPMESSAGE_0010=Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein
+Note_0016L=Die Gegner haben ihre Stellungen befestigt.
+Speech_0011L=Die haben überall Alarm ausgelöst, Fisher. Erfülle deine primären Missionsziele und verschwinde.
+Speech_0012L=Meine Güte, Fisher ... der ganze Laden wurde alarmiert. Erfülle deine primären Missionsziele und verschwinde.
+
+[P_06_Hokkaido_CommSummaries]
+Speech_0022L=Fisher, wenn ich dem Generalstab nicht schleunigst neue Informationen liefern kann, dann wird es innerhalb der nächsten 24 Stunden Krieg geben. Du musst mir diesen Zherkezhi bringen, damit wir ihn verhören können. Milan Nedich hat den Kerl nach Hokkaido gebracht, um ihn vor jeglichem Zugriff zu schützen. Ich habe keine Ahnung, ob Shetland in die ganze Sache verwickelt ist, und ich wäre für jede neue Information dankbar. Hoffe, du reagierst nicht zu emotional auf die ganze Geschichte.
+Speech_0023L=Für meinen Geschmack gibt es hier einfach zu viele Zufälle. Zherkezhi ist der Einzige, der für die Versenkung der Walsh verantwortlich gewesen sein kann. Selbst wenn die Rakete von den Koreanern abgefeuert wurde, muss es letztendlich Zherkezhi gewesen sein, der sie ins Ziel gelenkt hat. Ach ja, und da wäre auch noch die Geschichte mit Displace ... ich weiß, dass du das bestimmt nicht hören willst, aber... Shetland hat Dreck am Stecken. Die Entführung von Morgenholt und die Tatsache, dass er Zherkezhi beschützen läßt ... die Verlegung nach dem Stromausfall ... die Sache stinkt.
+Speech_0024L=Sieht aus, als hätte Displace sich da in einer schönen ruhigen Gegend eingemietet. Es gibt dort nur wenige technische Gerätschaften. Du wirst dich also auf die traditionelle Methode verlassen müssen ... persönlich und schön nah am Geschehen.
+Speech_0025L=Der japanische Nachrichtendienst überwacht die Aktivitäten jeder Person im Dienste einer Sicherheitsfirma, solange sich diese im Land befindet. Wir haben gestern Kenntnis davon erhalten, dass Displace ein Anwesen angemietet hat, und es gelang einigen unserer Agenten, dort Mikrofone zu platzieren. Leider sind wir auf die neue Situation nicht optimal vorbereitet gewesen. Ich befürchte, dass unsere Mikrofone mit Standardmitteln zu lokalisieren sind. Ich brauche wohl nicht zu erwähnen, dass es das Beste wäre, wenn die Herrn von Displace unsere Mikrofone nicht finden.
+Speech_0026L=Die Regierung Nordkoreas dementiert weiterhin, dass die Raketen, die zur Versenkung des US-Zerstörers USS Walsh führten, von nordkoreanischem Boden abgefeuert worden seien. Obwohl stündlich aus aller Welt neue Beweise für eben diesen Vorgang auftauchen, ist es Nordkorea noch nicht gelungen, auch nur einen davon zu entkräften.
+Speech_0027L=Letzten Meldungen zufolge sind immer noch Tausende von Amerikanern nach dem verheerenden Stromausfall - der sowohl Japan als auch den östlichen Teil der Vereinigten Staaten getroffen hatte - von jeglicher Stromversorgung abgeschnitten. Mitarbeiter verschiedener Elektrizitätswerke berichten, dass es große Schwierigkeiten beim Anfahren der Kraftwerke in Maine, New Hampshire und Rhode Island gibt.
+Speech_0001L=Fisher, wenn wir nicht wollen, dass ein Krieg ausbricht, müssen wir Zherkezhi so schnell wie möglich kidnappen. Und wenn wir schon einmal dabei sind, können wir uns auch gleich noch um Nedich kümmern.
+Speech_0002L=Fisher, vor dir sind Zivilisten. Pass auf, wo du hinschießt.
+Speech_0003L=Das waren jetzt schon zwei Zivilisten. Die Mission ist ein völliger Fehlschlag. Erfülle dein primäres Missionsziel und vergiss den Rest.
+Speech_0004L=Du hast einen Zivilisten getötet, Fisher. Versuch dich wieder in den Griff zu bekommen.
+Speech_0006L=Die haben überall Alarm ausgelöst, Fisher. Erfülle deine primären Missionsziele und verschwinde.
+Speech_0007L=Fisher, schalte Shetland aus.
+Speech_0008L=Fisher, neues Missionsziel ... schalte Shetland aus.
+Speech_0009L=Shetland ist entkommen. Kümmere dich um die restlichen Missionsziele.
+Speech_0010L=Du hättest Shetland nicht aufhalten können. Wir werden versuchen ihn aufzuspüren ... kümmere dich um deine Mission und dann verschwinde.
+Speech_0011L=Nedich ist erledigt und Shetland hätten wir sowieso nicht aufhalten können. Begib dich zum Extraktionspunkt.
+Speech_0012L=Shetland ist auf dem Weg. Keine Ahnung, was er von Zherkezhi will, aber wir werden das herausfinden müssen. Für unseren Freund Nedich hatte der Spaß ja bereits ein Ende.
+Speech_0013L=LAMBERT - Satellite show you nearing Zherkezhi.
+Speech_0014L=Gut gemacht, Sam. Das war das letzte Mikro, das wir für Otomo aufspüren sollten.
+Speech_0015L=GRIMSDOTTIR - Zherkezhi is dead Sam...there's nothing we could have done to save him.
+Speech_0016L=Scanne die Nummernschilder. Vielleicht erfahren wir so etwas über Nedich.
+Speech_0017L=Sam, benutz dein EEV, um die Nummernschilder dieser LKWs zu scannen. Vielleicht finden wir so etwas über unseren Freund Nedich heraus.
+Speech_0018L=Fisher ... habe Nedich identifiziert. Es ist Milos Nowak ... ein Kriegsverbrecher aus dem Bosnienkrieg. Deine Befehle bleiben bestehen.
+Speech_0019L=Deine primären Missionsziele sind erfüllt. Wir können dich jederzeit da rausholen.
+Speech_0020L=Sam, wir können dich erst da herausholen, wenn du deine primären Missionsziele erfüllt hast.
+Speech_0021L=LAMBERT - Fisher...we just got word from Admiral Otomo at Japanese I-SDF. Some of his agents left behind microphones at the retreat and they're worried about Displace finding them. See if you can recover them.
+
+[P_06_Hokkaido_Communications]
+Speech_0120L=LAMBERT - Fisher, if we're going to prevent open war, we need to abduct Zherkezhi and take down Nedich while we're at it.
+Speech_0001L=Fisher, denk daran: Du musst Zherkezhi lebend zu uns bringen.
+Speech_0002L=Was ist mit Nedich?
+Speech_0003L=Nedich? Das ist eine ganz andere Geschichte.
+Speech_0006L=Isolieren. Vereinfachen. Durchführen.
+Speech_0007L=Sprechen wir von derselben Sache?
+Speech_0008L=Bestätigt.
+POPUPMESSAGE_0143=Finden Sie die wahre Identität von Milan Nedich heraus.
+Note_0145L=Die Nummernschilder der Lastwagen können mit dem EEV gescannt werden.
+Speech_-001L=(null)
+Speech_0078L=Sam, benutze dein EEV, um die Nummernschilder dieser Lastwagen zu scannen. Vielleicht kommen wir so an Informationen über unseren Freund Nedich.
+Speech_0079L=Ich werde es versuchen.
+Speech_0135L=REDDING - Scanning the license plates ID's Nedich for us. Carry on.
+Speech_0077L=Scanne die Nummernschilder. Vielleicht erfahren wir so etwas über Nedich.
+Speech_-001L=(null)
+Speech_0065L=Hmm ... nichts ... absolut nichts Verdächtiges ... Moment ... der bosnische Barbier ...
+Speech_0066L=Ho già un barbiere, ma credo sia italiano... quel posto vicino al chiosco delle ciambelle...
+Speech_0067L=Die Papiere der Leasingfirma verweisen auf eine Scheinfirma, die von einem gewissen Milos Nowak gegründet wurde. Diesen Herrn Nowak kennen wir unter dem Namen Milan Nedich. Nowak ist ein Kriegsverbrecher aus den Tagen des Bosnienkrieges. Er wird der "Barbier von Bosnien" genannt, weil er Berichten zufolge einige seiner Kriegsgefangenen skalpiert hat.
+Speech_0068L=Der Knabe wird sich wohl nicht so schnell freiwillig dem Internationalen Gerichtshof in Den Haag stellen, was?
+Speech_0069L=Nein, wohl kaum.
+Speech_0121L=Fisher, vor dir sind Zivilisten. Pass auf, wo du hinschießt.
+Speech_0009L=Fisher, sieht ganz so aus, als hätte Displace Personal da gelassen, um den Laden in Schuss zu halten.
+Speech_0010L=Zivilisten?
+Speech_0011L=Ja. Sorg dafür, dass keiner von ihnen verletzt wird.
+Speech_0012L=Verstanden.
+Speech_0122L=Du hast einen Zivilisten getötet, Fisher. Versuch dich wieder in den Griff zu bekommen.
+Speech_0013L=Verdammt, Fisher ... das war ein Zivilist. Könntest du dich vielleicht mal ein bisschen beherrschen?
+Speech_0014L=Das war ein Unfall. Ich werde ab jetzt besser aufpassen.
+Speech_0123L=LAMBERT - That's two civilians down. This mission is a disaster. Complete your primary objectives and forget about the rest.
+Speech_0015L=Fisher ... das war noch ein Zivilist. Diese Mission ist eine einzige Katastrophe. Erfülle deine primären Missionsziele und vergiss den Rest ... du bist ja völlig außer Kontrolle.
+Speech_0016L=Roger.
+POPUPMESSAGE_0138=Alarmstufe Eins
+Speech_-001L=(null)
+Speech_0102L=Fisher ... du steckst auch so schon in genügend Schwierigkeiten. Sei gefälligst unauffälliger.
+POPUPMESSAGE_0139=Alarmstufe Zwei – Feinde legen Körperpanzer an
+Speech_-001L=(null)
+Speech_0104L=Vorsicht ist besser als Nachsicht, Fisher.
+POPUPMESSAGE_0140=Alarmstufe Drei – Feinde setzen Helme auf
+Speech_-001L=(null)
+Speech_0106L=Fisher, ich meine es ernst ... nimm dich zusammen, oder wir blasen die ganze Sache ab.
+POPUPMESSAGE_0141=Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein
+Speech_0124L=LAMBERT - That's base alert Fisher. Complete your objectives and get to any extraction point.
+Speech_0108L=Meine Güte, Fisher ... der ganze Laden wurde alarmiert. Erfülle deine primären Missionsziele und verschwinde.
+POPUPMESSAGE_0142=Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein
+Speech_0130L=LAMBERT - That's base alert Fisher. Complete your objectives and get to any extraction point.
+Speech_0118L=Oh, Mann, Fisher ... die haben einen Großalarm ausgelöst. Du wirst dich da jetzt durchkämpfen müssen ... verschwinde.
+Speech_0131L=LAMBERT - Nedich is taken care of, but Shetland is on his way there. I don't know why, but I want to find out what he and Zherkezhi are meeting about.
+Speech_0029L=Soviel zum Thema Nedich. Geh jetzt in den hinteren Teil des Anwesens, um herauszufinden, was Shetland und Zherkezhi so treiben.
+Speech_0030L=Schon dabei.
+Speech_0128L=LAMBERT - Nedich is taken care of, but Shetland is on his way there. I don't know why, but I want to find out what he and Zherkezhi are meeting about.
+Speech_0031L=Soviel zu Nedich ... es gibt da aber noch ein Problem. Es befindet sich ein Hubschrauber im Anflug. Allem Anschein nach ist Shetland an Bord.
+Speech_0032L=Doug? Was will der denn hier?
+Speech_0033L=Entweder wollte er wissen, was Nedich vorhat, oder unsere Vermutungen waren falsch ...
+Speech_0034L=Glaubst du, Shetland treibt ein doppeltes Spiel?
+Speech_0035L=Ich habe keine Ahnung, und das stört mich gewaltig. Finde heraus, warum sich Shetland und Zherkezhi treffen.
+Speech_0129L=LAMBERT - That's Nedich out of the picture and there is nothing we could have done to prevent Shetland escaping. Get to extraction.
+Speech_0040L=Nedich hat es hinter sich und Shetlands Flucht hätten wir eh nicht verhindern können. Begib dich zum Extraktionspunkt.
+POPUPMESSAGE_0144=Entführen Sie Abrahim Zerkezhi.
+Speech_0132L=LAMBERT - Satellite show you nearing Zherkezhi.
+Speech_0115L=Fisher, den Satellitenbildern zufolge näherst du dich einer Art Teehaus.
+Speech_0116L=Ist Zherkezhi da drin?
+Speech_0117L=Könnte sein. Versuch so viele Informationen wie möglich zu sammeln, bevor du in Aktion trittst. Gut möglich, dass du nur einen Versuch hast.
+Speech_0125L=LAMBERT - Fisher...objective update...take down Shetland.
+Speech_0017L=Mein Gott, Fisher! Lass Shetland nicht entkommen!
+Speech_0020L=Ist er ein Ziel?
+Speech_0021L=Er ist DAS Ziel!
+Speech_0126L=LAMBERT - Fisher, kill Shetland.
+Speech_0022L=Fisher, schalte Shetland aus.
+Speech_0127L=LAMBERT - There was no way you could have stopped Shetland. We'll try and track him...complete the mission and get out of there.
+Speech_0023L=Verdammt ... er ist fort ... egal, du hättest ihn nicht aufhalten können. Kümmere dich um den Rest der Mission. Wir versuchen ihn aufzuspüren...
+Speech_0133L=LAMBERT - Shetland escaped. Complete the mission.
+Speech_0028L=Shetland ist entkommen. Kümmere dich um die restlichen Missionsziele.
+Speech_-001L=(null)
+Speech_0041L=Das war das erste Mikro. Es bleiben noch fünf übrig, Sam.
+Speech_0042L=Schon dabei.
+Speech_-001L=(null)
+Speech_0043L=Das war die erste Hälfte der Mikros, Sam.
+Speech_0044L=Ja ... werde mich mal umsehen und die anderen suchen.
+Speech_0134L=GRIMSDOTTIR - Good job Sam. That's the last of the microphones that Otomo asked us to recover.
+Speech_0045L=Das war das letzte Mikro, Fisher. Otomo wird sehr erfreut sein.
+Speech_0046L=Otomo scheint mir nicht gerade der Typ für Freudenausbrüche zu sein.
+Speech_0047L=Tja ... das ist halt der Geist der Samurai. Lass dich davon nicht täuschen, Sam, er ist wirklich ein netter Kerl.
+Speech_0048L=Hmm ... ich glaube, den Spruch habe ich auch schon mal im Zusammenhang mit Lambert gehört.
+Speech_0049L=Was? Wie meinst du das? Also ich finde Lambert nett ...
+Speech_0050L=Hast du schon mal mit seinen Ex-Frauen gesprochen?
+Speech_0136L=REDDING - Sam, we can't extract you until you've completed your primary objectives.
+Speech_0111L=Sam, wir können dich erst da herausholen, wenn du deine primären Missionsziele erfüllt hast.
+Speech_0112L=Okay.
+Speech_0137L=Das waren deine primären Missionsziele. Wir können dich jetzt jederzeit da rausholen, Fisher.
+Speech_0113L=Das waren deine primären Missionsziele. Wir können dich jetzt jederzeit da rausholen, Fisher.
+Speech_0114L=Verstanden.
+Note_0119L=Die Nummernschilder der Lastwagen können mit dem EEV gescannt werden.
+
+[P_06_Hokkaido_Helico]
+Speech_0001L=LAMBERT - There was no way you could have stopped Shetland. We'll try and track him...complete the mission and get out of there.
+Speech_0002L=Verdammt ... er ist fort ... egal, du hättest ihn nicht aufhalten können. Kümmere dich um den Rest der Mission. Wir versuchen ihn aufzuspüren...
+Speech_0003L=LAMBERT - Shetland escaped. Complete the mission.
+Speech_0004L=LAMBERT - Shetland escaped. Complete the mission.
+Speech_0005L=Das waren deine primären Missionsziele. Wir können dich jetzt jederzeit da rausholen, Fisher.
+Speech_0006L=Das waren deine primären Missionsziele. Wir können dich jetzt jederzeit da rausholen, Fisher.
+Speech_0007L=Verstanden.
+
+[P_06_Hokkaido_InteriorGardenChat]
+Speech_-001L=(null)
+Speech_0011L=He, Wendell! Hast du Milan gesehen?
+Speech_0002L=Milan? Ja ... der ist hier eben mit ein paar Jungs durch. Ich glaube, die haben ein Meeting. Wieso?
+Speech_0003L=Hab gehört, dass Carl ihn sucht.
+Speech_0004L=Carl? Dachte, der sucht nach Mikros ...
+Speech_0005L=Sollte er wohl auch eigentlich machen ... aber du kennst ja Carl ...
+Speech_0006L=Oh, ja ... ich kenne ihn ...
+
+[P_06_Hokkaido_InterroAppleBlossom]
+Speech_-001L=(null)
+Speech_0001L=Schön die Ruhe bewahren ...
+Speech_0002L=Okay.
+Speech_0003L=Wo komme ich von hier aus hin? 
+Speech_0004L=Von hier aus? Von hier aus kommt man zum mittleren Shoin ...
+Speech_0005L=Shoin? Was zum Henker ist ein Shoin?
+Speech_0008L=Äh ... Shoin? Ich glaube dabei handelt es sich um einen Architekturstil, der seine Blütezeit während der Muromachi-Epoche hatte. Zu dieser Zeit gewannen die Krieger - die Samurai - an Macht und begannen den alten Adel zu verdrängen.
+Speech_0009L=Das war ja wirklich sehr informativ ... fällt dir vielleicht auch was ein, mit dem sich etwas anfangen lässt?
+Speech_0010L=Ich glaube, in einem der Schlafzimmer liegt ein Erste-Hilfe-Kasten.
+Speech_0011L=Schon besser.
+Speech_0020L=Bitte, töten Sie mich nicht.
+Speech_0021L=Wir nutzen diesen Ort nur zur Erholung ...
+
+[P_06_Hokkaido_InterroCreek]
+Speech_-001L=(null)
+Speech_0001L=Rede ... aber schön leise ...
+Speech_0002L=Ich werde Ihnen alles sagen ... ich bin mit Sicherheit der größte Feigling, der Ihnen je untergekommen ist.
+Speech_0003L=Na, da sei dir mal nicht so sicher ...
+Speech_0004L=Ich hab mir sogar schon in die Hose gemacht ...
+Speech_0005L=Wow, damit gehörst du auf jeden Fall schon mal zu den Top Ten. Wo steckt Zherkezhi?
+Speech_0006L=Irgendwo hinten ... vielleicht im Teehaus ...
+Speech_0007L=Gut ... schätze, es ist an der Zeit für dich, schlafen zu gehen ...
+Speech_0008L=Ich bin so ein Angsthase ... Sie sollten mich töten ... ich verdiene es wirklich nicht zu leben ...
+Speech_0009L=Du hast ja nicht gerade viel Rückgrat, was?
+Speech_0010L=Oh, tut mir Leid. Ich schäme mich ja so sehr ...
+Speech_0022L=Ich verdiene es nicht zu leben ...
+Speech_0023L=Ich kann mir im Spiegel bestimmt nicht mehr in die Augen sehen ...
+
+[P_06_Hokkaido_InterroGardenOS]
+Speech_-001L=(null)
+Speech_0001L=Sag mir, wo ich Milan Nedich finden kann ...
+Speech_0002L=Ah! Äh ... der ist gerade hier durch ... er ist auf dem Weg zum Meeting-Raum im mittleren Palast ...
+Note_0019L=Nedich hält sich im mittleren Palast auf.
+Speech_0003L=Ein Meeting? Mit wem trifft er sich? Zherkezhi?
+Speech_0004L=Mit dem Irren? Hmm ... nein ... nur mit ein paar seiner Jungs ...
+Speech_0005L=Mit wie vielen seiner Jungs?
+Speech_0006L=Drei, glaube ich ...
+Speech_0011L=Bewaffnet?
+Speech_0012L=Natürlich ... Milan ist immer bewaffnet ...
+Speech_0014L=Ich habe Ihnen doch gesagt, wo Milan hin ist.
+Speech_0015L=Zherkezhi war nicht bei ihm.
+Note_0017L=Nedich hält sich im mittleren Palast auf.
+Note_0018L=Nedich hält sich im mittleren Palast auf.
+
+[P_06_Hokkaido_InterroMic]
+Speech_-001L=(null)
+Speech_0001L=Und ... was gefunden?
+Speech_0002L=Ah ... wer sind Sie?
+Speech_0003L=Ich suche nach derselben Sache wie du ...
+Speech_0004L=Nach Mikrofonen?
+Speech_0005L=Ja ... hast du welche gefunden?
+Speech_0006L=Nein.
+Speech_0007L=Wo hast du denn noch nicht nachgesehen?
+Speech_0008L=In den Telefonen.
+Speech_0009L=Hmm ... ich sehe sie mir mal an.
+Speech_0010L=Sorry ... ich höre auf ... versprochen.
+Speech_0012L=Nehmen Sie die Mikros, wenn Sie wollen.
+
+[P_06_Hokkaido_InterroMiddleShoin]
+Speech_-001L=(null)
+Speech_0001L=Hängt Zherkezhi hier irgendwo rum?
+Speech_0002L=Wa... was? Äh ... ich habe keine Ahnung ...
+Speech_0005L=Du hast zehn Finger ... und ich habe ein sehr scharfes Messer ... Möchtest du vielleicht noch mal über deine Antwort nachdenken?
+Speech_0006L=Zh ... Zherkezhi ... ach ja ... der Computerfritze ... der ist, glaub' ich, wieder im Teehaus ...
+Speech_0007L=Ist das weit weg?
+Speech_0010L=Durch den neuen Shoin ... ist nicht weit ...
+Speech_0011L=Beschützt ihn dort jemand?
+Speech_0012L=Ich glaube, da ist nur eine Wache.
+Speech_0018L=Zherkezhi wird nur leicht bewacht.
+Speech_0019L=Ich glaube, er ist im Teehaus ...
+
+[P_06_Hokkaido_InterroMilan]
+Speech_-001L=(null)
+Speech_0001L=Shhh ... mach mir jetzt bitte keine Szene ...
+Speech_0002L=Wer sind Sie ... was wollen Sie?
+Speech_0003L=Ich will wissen, warum du Zherkezhi schützt ... was hat Displace mit der Sache zu tun?
+Speech_0004L=Von mir erfahren Sie nichts.
+Speech_0005L=Muss ich dir erst den Hals durchschneiden und in deinem Kehlkopf nach der Antwort suchen?
+Speech_0006L=Oh, mein Gott ... Bitte lassen Sie mich gehen.
+Speech_0007L=Du wirst aus der Geschichte nicht mehr lebend rauskommen, Nedich. Wenn du mir erzählst was ich wissen will sorge ich dafür, dass es schmerzlos über die Bühne geht.
+Speech_0008L=Der Stromausfall ... wir wollten, dass Zherkezhi nach dem Stromausfall in Sicherheit ist.
+Speech_-001L=(null)
+Speech_0043L=Du wirst mir ein paar Fragen beantworten müssen.
+Speech_0044L=Ha. Fragen Sie nur ... von mir erfahren Sie nichts.
+Speech_0045L=Warum nicht? Du bist eh schon so gut wie tot ... du hast die Wahl, wie schnell dein Abschied vom Leben über die Bühne geht ...
+Speech_0046L=Sie können mich nicht einfach so umbringen ... es gibt genaue Regeln ... ich bin ein Kriegsgefangener ...
+Speech_0047L=Du bist ein nicht uniformierter Kombattant und offiziell herrscht Friede. Das macht dich zum Terroristen, mein Freund.
+Speech_0048L=Dann schicken Sie mich nach Guantanamo ...
+Speech_0049L=Ich schicke dich in kleinen Portionen in alle Winkel der Welt, wenn du nicht sofort redest ... was hat Displace mit Zherkezhi zu tun?
+Speech_0050L=Der Stromausfall ... er hat uns die Algorithmen für den Stromausfall gegeben ... wir haben ihn hierher gebracht, um ihn zu schützen ...
+Speech_0051L=Und was ist mit der Walsh?
+Speech_0052L=Ich weiß nichts über die Walsh ... da müssen Sie Shetland fragen ...
+Speech_0053L=Shetland?!!
+Speech_0054L=Ja ... er brauchte nach dem Stromausfall weitere Daten von Zherkezhi ... aber wir haben alles, was wir ...
+Speech_0055L=Shetland weiß, was ihr im Schilde führt???
+Speech_0056L=Ja ... ja ... er ist der Boss. Er hat uns den Befehl gegeben ... Zherkezhi hierher zu schaffen ...
+Speech_0057L=Wo ist Shetland jetzt?
+Speech_0058L=Er ist unterwegs ... mit dem Hubschrauber.
+Speech_0059L=Wo will Shetland hin?
+Speech_0060L=Ich habe keine Ahnung!
+Speech_0061L=Warum hat er Zherkezhi getötet?
+Speech_0062L=Keine Ahnung ... vermutlich wusste Zherkezhi zu viel ...
+Speech_0063L=Was ... was hat er gewusst?
+Speech_0064L=Das mit dem Stromausfall ... wie die Algorithmen funktionieren ...
+Speech_0065L=Was ist mit der Walsh? Hatten Zherkezhis Algorithmen irgendwas mit dem Angriff auf das Schiff zu tun?
+Speech_0066L=Ich weiß es nicht ... ich war nur für den Personenschutz verantwortlich ...
+Speech_0067L=Tja, dann hast du deinen Job wirklich nicht gerade gut gemacht.
+Speech_0040L=Erledigen Sie mich oder lassen Sie mich gehen.
+Speech_0041L=Machen Sie schon ... oder sind Sie etwa zu feige?
+
+[P_06_Hokkaido_InterroNedichPals]
+Speech_-001L=(null)
+Speech_0001L=Erzähl mir, was du weißt, und ich lasse dich am Leben.
+Speech_0004L=Oh ... oh ... okay ... was wollen Sie wissen ...
+Speech_0005L=Ich will dich nicht bei der Entfaltung deiner Persönlichkeit einschränken ... erzähl mir einfach alles, was dir in den Sinn kommt ...
+Speech_0006L=Äh ... Nedich ... er beschützt diesen Typen, diesen Zherkezhi ... der ist wohl ein Computergenie ...
+Speech_0007L=Das wusste ich bereits ...
+Speech_0008L=Shetland ... Shetland ist auf dem Weg hierher ...
+Speech_0011L=Warum?
+Speech_0012L=Ich weiß nicht so recht ... Nedich und Shetland ... es hat was mit den beiden zu tun ...
+Speech_0013L=Stecken Nedich und Shetland gemeinsam in dieser Sache ... oder kocht Nedich sein eigenes Süppchen?
+Speech_0014L=Ich habe keine Ahnung ... Nedich ist ein Irrer ... wer weiß, zu was der alles im Stande ist ...
+Speech_0018L=Sprechen Sie mit Nedich, wenn Sie mehr wissen wollen ...
+Speech_0019L=Seien Sie vorsichtig ... Nedich ist irre ... er ist gefährlich ...
+
+[P_06_Hokkaido_InterroNinjaTraps]
+Speech_-001L=(null)
+Speech_0001L=Ich habe schlechte Nachrichten ...
+Speech_0002L=Ha! Ich wusste es doch! Ich wusste, dass es hier Ninjas gibt.
+Speech_0003L=Wie bitte?
+Speech_0006L=Ja ... Sie müssen ein Ninja sein ... wie hätten Sie mich sonst einfach so schnappen können ...
+Speech_0007L=Hör mal, ich habe nicht die geringste Ahnung, wovon du ...
+Speech_0010L=Wow, ich kann es kaum glauben ... Ein echter Ninja.
+Speech_0017L=I'm gonna kill you if--
+Speech_0018L=Wow ... ein echter Ninja will mich töten ... wie cool ...
+Speech_0020L=Haben Sie Tetsubishi?
+Speech_0021L=Wenn Sie mich töten wollen, dann nehmen Sie bitte Ihr cooles Blasrohr.
+
+[P_06_Hokkaido_InterroOldShoin]
+Speech_-001L=(null)
+Speech_0001L=Das ist sehr gefährlich ... so ganz allein ... im Dunkeln ...
+Speech_0002L=Um Gottes Willen ... tun Sie mir nichts ...
+Speech_0003L=Erzähl mir etwas, mit dem ich was anfangen kann ... sonst breche ich dir den Arm.
+Speech_0004L=Äh ... ich weiß nichts ... bin ganz neu in der Firma ...
+Speech_0005L=Ich hoffe, die sorgen dafür, dass du gut krankenversichert bist ...
+Speech_0006L=Gut ... gut ... hab ja verstanden ... Ich habe gehört, dass irgendwelche Erste-Hilfe-Ausrüstung in der Küche ist ...
+Note_0018L=In der Küche lagern einige Vorräte.
+Speech_0007L=In der Küche? Gut, danke.
+Speech_0014L=Ich bin noch neu in der Firma ... die erzählen mir rein gar nichts ...
+Speech_0015L=Erste-Hilfe-Ausrüstung ... suchen Sie in der Küche danach ...
+Note_0016L=In der Küche lagern einige Vorräte.
+Note_0017L=In der Küche lagern einige Vorräte.
+
+[P_06_Hokkaido_InterroTeahouse]
+Speech_-001L=(null)
+Speech_0001L=Dein Boss ist ein Mörder ...
+Speech_0004L=Aber er ist trotzdem mein Boss.
+Speech_0005L=Hmm ... dass man als Konzernchef seine Investoren prellen darf, das wusste ich ja bereits ... aber ich wusste nicht, dass Mord ...
+Speech_0006L=He ... sparen Sie sich Ihre Predigten, Mann. Ihr Boss hat mit Sicherheit auch einige Leute auf dem Gewissen ...
+Speech_0009L=Ich arbeite für die Leute, die gewählt wurden.
+Speech_0010L=Na und? Das tut Shetland auch ...
+Speech_0011L=Vom "Volk" gewählt ... und nicht von Aktionären ...
+Speech_0012L=Wir werden am freien Markt gehandelt ... neunzehn Dollar je Aktie ... jeder kann bei uns einsteigen ...
+Speech_0013L=Es gibt schon einen großen Unterschied zwischen einem freien Land und einer "Neunzehn Dollar je Aktie"-Demokratie ...
+Speech_0014L=Freiheit ... ja, ja ... verstecken Sie sich nur hinter Ihren leeren Phrasen. Solange die Regierung Leute wie Sie auf ihre Bürger ansetzt, wird niemand jemals frei sein.
+Speech_0015L=Hmmm ... da hast du Recht ... es wär vielleicht besser, wenn uns alle dasselbe Schicksal ereilen würde wie Zherkezhi ...
+Speech_0016L=Ganz genau ...
+Speech_0017L=Okay, fangen wir bei dir an ...
+Speech_0019L=Sie sind nur ein kleines Rad in einem riesigen System ...
+Speech_0020L=Wir vertrauen Shetland ...
+
+[P_06_Hokkaido_InterroTrucks]
+Speech_-001L=(null)
+Speech_0001L=Nette Karre ...
+Speech_0002L=Ach, du Scheiße ...
+Speech_0003L=Glaubst du, der Kofferraum ist groß genug für eine Leiche?
+Speech_0004L=Oh, mein Gott ... Ich ... ich habe keine Ahnung ...
+Speech_0005L=Wenn du mir nicht sofort sagst, wo Nedich steckt, werde ich es ausprobieren.
+Speech_0006L=Er ist, glaube ich, im mittleren Palast ... da findet gerade ein Meeting mit ein paar ranghohen Offizieren statt ...
+Speech_0007L=Danke.
+Speech_0018L=Ich führe nur Befehle aus ...
+Speech_0019L=Ich bin hier wirklich nur eine kleine Nummer ...
+
+[P_06_Hokkaido_JeepChat]
+Speech_-001L=(null)
+Speech_0001L=Fünfgang, 240 PS mit automatischem Getriebe ...
+Speech_0002L=Acht-Liter-V8-Turbodiesel, mit 460 Newtonmeter Drehmoment ... 
+
+foot pounds of torque.
+Speech_0003L=Einzelradaufhängung mit Doppel-A-Rahmen auf einem Stahl-Kastenrahmen ... 
+
+on a six quad steel box section.
+Speech_0004L=Allrad-Antrieb mit ABS mit drehmomentabhängigem Differential und 40:1-Übersetzung ... 
+
+with 40:1 gear reduction.
+Speech_0005L=Extra-robuste 17-Zoll-Felgen. 2-Zentimeter-Alu-Unterbodenschutz und stahlgitterverstärkter Schutz für den Antriebsstrang ... 
+
+rocker panel and steel grid drive-train protection.
+Speech_0006L=Auf die Windschutzscheibe projiziertes Head-Up-Display mit Wärmebildgerät ... 
+
+display.
+Speech_0007L=Und ein 640-Gigabyte MP3-Player ...
+Speech_0008L=...  serienmäßig ...
+Speech_0009L=Niemand wird JEMALS mehr als 640 Gigabyte brauchen ...
+Speech_0010L=Was erzählst du denn da? Ich hab meine bald voll ...
+
+[P_06_Hokkaido_LevelPattern]
+
+[P_06_Hokkaido_LicencePlates]
+
+[P_06_Hokkaido_MeetingFlags]
+
+[P_06_Hokkaido_MeetingMumblings]
+Speech_-001L=(null)
+Speech_0001L=... wir können das also nach ... da umlegen ... ja ... genau.
+Speech_-001L=(null)
+Speech_0002L=... Äh ... nun ... ich bin mir da nicht so ganz sicher ...
+Speech_-001L=(null)
+Speech_0003L=... ja, aber wenn er doch sagt ... auch wieder wahr ... Südafrikaner ...
+Speech_-001L=(null)
+Speech_0004L=... nein ... nein ... das ist okay ... gut, damit können wir leben.
+Speech_-001L=(null)
+Speech_0005L=... ich glaube, darauf können wir uns uns einlassen ... das geht schon in Ordnung ...
+Speech_-001L=(null)
+Speech_0006L=... was ist mit Ihnen? ... was meinen Sie denn?
+Speech_-001L=(null)
+Speech_0007L=... ja ... ja ... nein ... vielleicht ... das wird sich zeigen ...
+Speech_-001L=(null)
+Speech_0008L=... ja... zurück nach New York ... das Geschäft steht also ...
+Speech_-001L=(null)
+Speech_0009L=Es gab Schwierigkeiten in unseren New Yorker Büros ... Er kommt vorbei, um die undichte Stelle zu stopfen ...
+
+[P_06_Hokkaido_MeetingPalace]
+POPUPMESSAGE_0043=Eliminieren Sie Milan Nedich.
+Speech_-001L=(null)
+Speech_0005L=Ja ...
+Speech_-001L=(null)
+Speech_0006L=Nein, nein.
+Speech_-001L=(null)
+Speech_0007L=Ja ... okay ... schon verstanden.
+Speech_-001L=(null)
+Speech_0008L=Gut.
+Speech_-001L=(null)
+Speech_0009L=Nein.
+Speech_-001L=(null)
+Speech_0010L=Okay.
+Speech_-001L=(null)
+Speech_0036L=Okay, zuhören ... das war Doug. Er kommt vorbei und er scheint nicht gerade bester Laune zu sein.
+Speech_0003L=Was soll das heißen: Er kommt vorbei?
+Speech_-001L=(null)
+Speech_0039L=Schwierigkeiten in unseren Büros? Waren die Bullen da?
+Speech_0040L=Wen interessieren schon die Büros ... Was soll das heißen: die undichte Stelle stopfen?
+Speech_0041L=Keine Ahnung ... hängt vielleicht mit dem Schiff zusammen ... vielleicht ist jemand an uns dran ...
+Speech_0042L=Aber was ist, wenn ...
+Speech_-001L=(null)
+Speech_0030L=Mann, vergiss es einfach. Der Boss ist auf dem Weg. Die Sache wird langsam heiß. Wir wussten ja, dass es so kommen würde. Kümmere dich um den Laden hier und sorg dafür, dass sein Besuch glatt über die Bühne geht. Beeilung.
+Speech_-001L=(null)
+Speech_0031L=Ohh ... Mist ...
+Speech_0032L=...  gut gemacht ...
+Speech_0033L=Das sind nur Yen ... seit dem Crash an den Finanzmärkten sind die eh nichts mehr wert ...
+Speech_0034L=Lohnt sich nicht die aufzuheben ...
+Speech_0035L=... wer den Pfennig nicht ehrt ...
+Speech_0004L=Es gab Schwierigkeiten in unseren New Yorker Büros ... Er kommt vorbei, um die undichte Stelle zu stopfen ...
+
+[P_06_Hokkaido_MemorableInterrupted]
+Speech_-001L=(null)
+Speech_0001L=Eindringling!
+
+[P_06_Hokkaido_MemorableMoment]
+Speech_-001L=(null)
+Speech_0001L=Ja ... äh ... Douglas.
+Speech_-001L=(null)
+Speech_0002L=Was?
+Speech_-001L=(null)
+Speech_0004L=Die Koreaner, sie ... können doch nicht ... Douglas, ich muss die Wahrheit wissen.
+Speech_-001L=(null)
+Speech_0005L=Die Wahrheit? Ha! Kannte Oppenheimer die Wahrheit? Oder Roosevelt? Wir bestimmen, was wahr ist. Und wahr ist, dass wir das Richtige tun.
+Speech_-001L=(null)
+Speech_0006L=Was meinst du damit?
+Speech_-001L=(null)
+Speech_0011L=Wir haben den Beweis: das Konzept funktioniert ... Aber jetzt ist es vorbei.
+Speech_-001L=(null)
+Speech_0012L=Du meinst ... du meinst, es gibt Frieden ...
+Speech_-001L=(null)
+Speech_0013L=Nun, Frieden "gibt" es nicht einfach so. Frieden ... muss erzwungen werden ... genau wie früher. Der Sheriff trägt einen Stern ... aber auch eine Kanone.
+Speech_-001L=(null)
+Speech_0014L=Kanone?
+Speech_-001L=(null)
+Speech_0017L=Ja, genau ...
+Speech_-001L=(null)
+Speech_0018L=Oh, mein Gott ...
+Speech_-001L=(null)
+Speech_0019L=Und wir wollen doch nicht, dass seine Kanone in falsche Hände gerät, oder?
+Speech_-001L=(null)
+Speech_0020L=Was ... was soll das ... nein!
+
+[P_06_Hokkaido_MicrophoneATalk]
+POPUPMESSAGE_0002=Holen Sie die versteckten Mikrofone heraus.
+Speech_-001L=(null)
+Speech_0001L=Mikrofone ... pah ... was für ein Quatsch ... Wer benutzt denn heutzutage noch Mikros? Die benutzen Satelliten. Mann, Mann, Mann ... das ist so albern ... ich komm' mir vor wie ein Vollidiot.
+
+[P_06_Hokkaido_MicrophoneBChat]
+Speech_-001L=(null)
+Speech_0015L=Hast du Wanzen gefunden?
+Speech_0016L=Ja! Die sind hier überall ... ich werde die Viecher einfach nicht los! Ist hier wie im Insekten-Zoo ...
+Speech_0017L=Ich meinte Mikrofone, du Schwachkopf.
+Speech_0018L=Oh ... nun, ich hab mich ein wenig umgesehen ... aber nichts gefunden.
+Speech_0019L=Ein wenig? Was soll das heißen? Wo hast du nachgesehen?
+Speech_0020L=Öh ... auf den Tischen und so ...
+Speech_0021L=Du hast auf den Tischen nach Abhörmikrofonen gesucht?!
+Speech_0022L=Ja.
+Speech_0005L=Wow ... und hast du welche gefunden?
+Speech_0006L=Äh ... nein ...
+Speech_0007L=(Seufz) Lass gut sein ... ich suche selber danach ...
+Speech_0008L=Okay. Sag Bescheid, wenn du Hilfe brauchst.
+
+[P_06_Hokkaido_Microphones]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+
+[P_06_Hokkaido_NightingaleChat]
+Speech_-001L=(null)
+Speech_0001L=Ahh ... dieses Gequietsche macht mich noch ganz irre. Klingt als würde ich die ganze Zeit auf einen Schwarm Wellensittiche treten.
+Speech_0002L=Nachtigall ... so was nennt sich Nachtigall-Bodenbelag. Dient als Schutz vor Ninjas.
+Speech_0003L=Ninjas? Es gibt keine Ninjas.
+Speech_0004L=Ach, ja? Damals in Jahr 2004, bei dieser Geschichte in Georgien, hatte man mich angeheuert, um eine Ölplattform zu bewachen ... da wurden wir plötzlich von einem Ninja angegriffen.
+Speech_0005L=Du spinnst doch.
+Speech_0006L=Weißt du was ... wenn du mir nicht glaubst, warum tauschen wir dann nicht einfach die Plätze. Dann geh ich auf dem Anti-Ninja-Boden.
+Speech_0007L=Meinetwegen ... ich übernehme deinen Posten.
+Speech_0008L=Abgemacht.
+Speech_0015L=He, he, he ... und pass schön auf die Ninjas auf, du Spinner.
+Speech_0016L=Psst ... die hören uns doch ...
+
+[P_06_Hokkaido_Objectives]
+Objective_0001=Eliminieren Sie Milan Nedich.
+Objective_0017=Milan Nedich ist in die Pläne von Zherkezhi verwickelt und könnte eine kriminelle Interessengruppe innerhalb von Displace International anführen. Nutzen Sie jede Gelegenheit, um ihn zu eliminieren.
+Objective_0008=Entführen Sie Abrahim Zherkezhi.
+Objective_0018=Die Algorithmen der Waffen von Abrahim Zherkezhi sind auSSerordentlich komplex. Entführen Sie ihn, damit Third Echelon ihn zu seinen Methoden und Plänen befragen kann.
+Note_0025L=Sie können die Papierwände durchbrechen und so die Wachen überwältigen
+Note_0026L=Mikrofone schälen Sie mit dem Messer aus der Wand.
+Note_0027L=Die Mikrofone orten Sie mit dem Nachtsichtgerät.
+Note_0028L=Mikrofone werden durch das EEV sichtbar.
+POPUPMESSAGE_0029=Eliminieren Sie Milan Nedich.
+Objective_0002=Finden Sie die wahre Identität von Nedich heraus.
+Objective_0019=In den Akten von Third Echelon befinden sich keine Unterlagen über Milan Nedich, den Vizepräsidenten für die Sicherheitsdienste von Displace. Scannen Sie sein Nummernschild, um seine wahre Identität herauszubekommen.
+POPUPMESSAGE_0031=Eliminieren Sie Douglas Shetland.
+Objective_0006=Eliminieren Sie Douglas Shetland.
+Objective_0020=Shetland hat Zherkezhi ermordet, um zu verhindern, dass Informationen ans Tageslicht kommen, die einen Weltkrieg verhindern können. Er handelt auSSerdem mit geheimen Waffenalgorithmen. Nutzen Sie jede Gelegenheit, um ihn zu eliminieren.
+Objective_0003=Holen Sie die versteckten Mikrofone heraus.
+Objective_0021=Das Sonderkommando von Admiral Otomo überwacht die Machenschaften von Displace schon seit längerem. Ihre Agenten haben ortbare Mikrofone in den Räumlichkeiten des Unternehmens angebracht. Suchen und entfernen Sie sie, um die Operationssicherheit zu gewährleisten. 
+Objective_0012=Zeichnen Sie das Gespräch zwischen Shetland und Zherkezhi auf.
+Objective_0022=(null)
+Objective_0013=Verhören Sie Milan Nedich.
+Objective_0023=(null)
+POPUPMESSAGE_0033=Verlassen Sie das Einsatzgebiet über den primären Extraktionspunkt.
+Objective_0016=Begeben Sie sich zum primären Exfiltrationspunkt.
+Objective_0024=Verlassen Sie das Operationsgebiet über das Seeufer, an dem man Sie abgesetzt hat.
+
+[P_06_Hokkaido_PatrolTriggers]
+
+[P_06_Hokkaido_ShetlandGuards]
+POPUPMESSAGE_0001=Eliminieren Sie Milan Nedich.
+
+[P_06_Hokkaido_Sitting_Guard]
+
+[P_06_Hokkaido_Sprinklers]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_06_Hokkaido_SprinklersTimer]
+
+[P_06_Hokkaido_SRC]
+Speech_-001L=(null)
+Speech_0001L=Noch ein paar Tage wie heute und ich setze mich zur Ruhe ...
+Speech_0002L=Hast du 'nen schlechten Tag gehabt?
+Speech_0003L=Einen "schlechten Tag"? Nein, Mann ... war ein Spitzentag! Hab heute fast hunderttausend Dollar gemacht ...
+Speech_0004L=Wie denn das?
+Speech_0005L=Die Walsh! Es gibt Krieg! Und wo ein Krieg ist, gibt es Geld zu verdienen, mein Freund!
+Speech_0006L=Das verstehe ich nicht ... wir ziehen doch gar nicht in den Krieg ... das macht doch das Militär ...
+Speech_0007L=Im Krieg geht es nicht ums Kämpfen! Es geht um Transporte, Logistik, Dienstleistungen. Die Armee wäscht doch nicht ihre eigene Wäsche ... die schmeißen Milliarden aus dem Fenster, damit sich jemand um ihren ganzen Mist kümmert ...
+Speech_0008L=Tun sie das?
+Speech_0009L=Na klar ... die wollen doch nicht, dass ihre Soldaten Geschirr spülen. Die überlassen das den anderen ...
+Speech_0010L=Macht irgendwie Sinn ...
+Speech_0011L=Das macht mehr als nur Sinn ... es hält die Weltwirtschaft in Schwung ... die Investoren wissen es ... und ich habe hunderttausend Dollar, die genau das beweisen.
+Speech_-001L=(null)
+Speech_0012L=He, hast du meine zwanzig Mäuse?
+Speech_0013L=Du meinst die vom Spiel? Vergiss es. Das Spiel wurde nicht beendet ... die haben es wegen des Stromausfalls abgeblasen.
+Speech_0014L=Das Spiel war schon im achten Inning, es war vorbei ...
+Speech_0015L=Es ist erst dann vorbei, wenn es jemand für beendet erklärt.
+Speech_0016L=Es ist vorbei, wenn der Schiedsrichter es im achten Inning beendet ... so lauten die Regeln ...
+Speech_0017L=Tja ... ich habe aber keinen Schiedsrichter gesehen, der es beendet hat. Es zählt nicht ...
+Speech_0018L=Doch, es zählt ... es zählt für die Tabelle, für die Liga und für die Buchmacher in Las Vegas ...
+Speech_0019L=Tja, ich bin aber nun mal kein Buchmacher aus Vegas ... also zählt es nicht.
+Speech_0020L=Mann, bist du ein Drecksack ...
+Speech_-001L=(null)
+Speech_0021L=Hast du die Nachrichten gehört?
+Speech_0022L=Das mit der Walsh?
+Speech_0023L=Nein ... die andere Sache ... die Sache mit den Astronauten ...
+Speech_0024L=Oh ... nein ... die hatte ich schon ganz vergessen ...
+Speech_0025L=Man hat gerade gemeldet, dass der Sauerstoffgehalt immer noch fällt. Die Reparaturen waren nicht erfolgreich ...
+Speech_0026L=Mann, ist das so? Und jetzt ... werden die einfach so sterben?
+Speech_0027L=In den Nachrichten hieß es, dass die jetzt versuchen wollen, bei einem Weltraumspaziergang eine Bruchstelle an der Außenhülle zu reparieren.
+Speech_0028L=Dachte, die hätten gar nicht die richtige Ausrüstung für Weltraumspaziergänge ...
+Speech_0029L=Haben sie auch nicht.
+Speech_0030L=Pfff ... Mann ... was für ein Alptraum ...
+
+[P_06_Hokkaido_WaitAnims_Pierre]
+

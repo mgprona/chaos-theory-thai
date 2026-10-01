@@ -1,0 +1,17 @@
+[GENERAL]
+MapName=TRAINING
+Briefing_LAMBERT=As Splinter Cells in training, you must learn to trust each other to complete your objectives. The only things standing between you and failure are your wits, and your partner. Learn to work together to accomplish missions that could not be completed by an individual Agent.
+
+[Email]
+EmailShareEquipBody=To Initiate the Share Equipment move, stand next to the other Agent and push the Interact Key. To Complete the Share Equipment move, the other Agent must use the Interact Key. This will Perform the move and transfer the selected inventory item.
+EmailShareEquipDate=06/23/07
+EmailShareEquipFrom=Dan
+EmailShareEquipSubject=Share Equipment
+EmailShareEquipTo=Seb
+
+
+[Computer]
+CompDeactivateLaserGrid=Deactivate Laser Grid
+
+[Interaction]
+LCDScreen=Replay tips

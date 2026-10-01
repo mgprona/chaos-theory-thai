@@ -1,0 +1,40 @@
+[GENERAL]
+MapName=BAGNI
+Briefing_LAMBERT=Echelon ha rintracciato Doug Shetland a Tokyo sei ore fa. È in movimento, trasmette in wireless e, stando alle intercettazioni, sembra che stia per concludere l'affare con il suo contatto giapponese, chiunque sia. Da quanto abbiamo intercettato, sembra che lui e i suoi uomini stiano convergendo sui bagni pubblici nel centro della città. Dobbiamo scoprire chi sta per incontrare Shetland, e fare tutto il possibile per impedirgli di concludere l'affare.
+Briefing_GRIMSDOTTIR=È chiaro che l'attacco che ha affondato la Walsh e costretto a lanciare il missile veniva da Seul... ma è partito dal Giappone. Shetland ha qualcosa a che fare con questo, e la mia linea nei server di Displace mostra che sta chiaramente guadagnando dalla guerra. Per fermare le sue operazioni e impedire un'ulteriore escalation, dobbiamo identificare i suoi soci in affari e assicurarci che non esca da lì con altri algoritmi bellici di Zherkezhi.
+Briefing_REDDING=Fisher, i bagni dove avverrà questo incontro sono un luogo semi-pubblico. Ci saranno dei civili, e probabilmente una vagonata di scagnozzi. Gli uomini di Shetland stanno spuntando in tutta Tokyo da qualche ora, e si stanno dirigendo tutti assieme verso questo luogo. Frances Coen è stata in Asia negli ultimi mesi, e ha individuato dei legami tra i proprietari dei bagni e un'organizzazione criminale giapponese chiamata Nishin Rosso... potrebbero essere loro i soci di Shetland.
+Briefing=INCARICO
+
+[Computer]
+CompAccessCamPublicBathsA=Telecamera sicurezza A bagni pubblici
+CompAccessCamPublicBathsB=Telecamera sicurezza B bagni pubblici
+CompAccessCamPrivateBathsA=Telecamera sicurezza A bagni privati
+CompAccessCamPrivateBathsB=Telecamera sicurezza B bagni privati
+CompAccessCamPrivateRooms=Telecamera di sicurezza stanze private
+CompDisableCameraSystem=Disattiva sistema di telecamere
+CompISDFOrdersReport=Rapporto ordini ISDF
+
+[Email]
+EmailMercuryFishBody=Gli scienziati del New Brunswick, in Canada, hanno oggi annunciato i risultati di uno studio decennale sulla contaminazione da metalli pesanti nelle riserve ittiche. I risultati sarebbero "molto allarmanti" secondo il Dr Jules Bortlien, ma "in definitiva non molto rilevanti visto che il tonno è scomparso".
+EmailMercuryFishDate=10 luglio 2007
+EmailMercuryFishFrom=Notizie della WNM
+EmailMercuryFishSubject=Mercurio in aumento nelle riserve di tonno
+EmailMercuryFishTo=Iscritti
+
+EmailMeetingReservationBody=Haru... spero che non sia arrabbiato. Lo so che tu sei Nishin Rosso e sarai sempre il benvenuto nelle nostre strutture. Mi assicurerò personalmente che i nostri ospiti speciali non ti disturbino.
+EmailMeetingReservationDate=10 luglio 2007
+EmailMeetingReservationFrom=Yakuo
+EmailMeetingReservationSubject=Prenotazione
+EmailMeetingReservationTo=Haru
+
+EmailUSSWalshBody=I corpi di 141 marinai della USS Walsh sono rientrati oggi negli Stati Uniti in attesa della cerimonia funebre.
+EmailUSSWalshDate=10 luglio 2007
+EmailUSSWalshFrom=Notizie della WNM 
+EmailUSSWalshSubject=I corpi dei marinai della Walsh tornano a casa
+EmailUSSWalshTo=Iscritti
+
+EmailChaosTheoryBody=Signore, ho completato l'installazione degli algoritmi richiesti e installato il software necessario. Per mantenere la sicurezza delle operazioni basta inserire incarichi e compiti, e allocare il numero di risorse con tempo e luogo di esecuzione. L'algoritmo genererà il piano della missione e contatterà i suoi uomini a distanza quando necessario.
+EmailChaosTheoryDate=10 luglio 2007
+EmailChaosTheoryFrom=Karol
+EmailChaosTheorySubject=Teoria del caos
+EmailChaosTheoryTo=Shetland

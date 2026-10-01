@@ -1,0 +1,747 @@
+[P_04_Interro_UpperFloor]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Pick a number between one and ten...
+Speech_0002L=Wh... what... oh... oh crap... uh... three.
+Speech_0003L=FISHER - Hm. Lucky guess... you get to live. Now tell me something useful or we'll play another round.
+Speech_0004L=Oh god... uh... the mag-lock... the locked door to the roof...
+Speech_0007L=FISHER - What about it...
+Speech_0008L=I think the computer that controls it is in the master bedroom on the top floor.
+Speech_0009L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0010L=I... I work for Displace... Displace International.
+Speech_0011L=I've told you everything...
+Speech_0013L=Do you want me to pick again... four... no... seven...
+
+[P_04_Penthouse_AlarmState]
+POPUPMESSAGE_0006=Alarm Stage One
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Fisher, looks like Zherkezhi has his own alarm system. Careful.
+POPUPMESSAGE_0007=Alarm Stage Two - Enemies Equipping Body Armor
+Note_0010L=Enemies are wearing body armor.
+Speech_-001L=(null)
+Speech_0002L=LAMBERT - I'm serious Sam... too many alarms these mercenaries will be after you. 
+POPUPMESSAGE_0008=Alarm Stage Three - Enemies Equipping Helmets
+Note_0011L=Enemies are wearing helmets.
+Speech_-001L=(null)
+Speech_0003L=LAMBERT - Fisher... I'm not kidding around. One more alarm and you'll be in big trouble.
+POPUPMESSAGE_0009=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0012L=Enemies have fortified their positions.
+Speech_-001L=(null)
+Speech_0004L=LAMBERT - Dammit, Sam. They called a general alarm... you're going to have to battle your way through now. Complete your primary objectives and get out of there!
+Speech_-001L=(null)
+Speech_0005L=LAMBERT - Dammit, Sam. They called a general alarm... you're going to have to battle your way out of there. Get to extraction.
+
+[P_04_Penthouse_Animation_DG_Assis]
+
+[P_04_Penthouse_Animation_DG_Wait2]
+
+[P_04_Penthouse_Animation_NG_Wait]
+
+[P_04_Penthouse_Animation_NG_Wait2]
+
+[P_04_Penthouse_Animation_Repair]
+
+[P_04_Penthouse_Animation_Repair2]
+
+[P_04_Penthouse_BaseAlert]
+
+[P_04_Penthouse_BaseAlert2]
+
+[P_04_Penthouse_Beacons]
+Note_0001L=The door code to Dvorak's room is 0280.
+
+[P_04_Penthouse_Briefings]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Bruce Morgenholt and Abrahim Zherkezhi were partnered together on Project Watson, the UN Committee that cracked the Masse kernels. They're the ones who discovered Five-Twelve encryption, the same encryption used in the messages you recovered at MCAS Bank. If this so-called 'Dvorak' person has somehow gotten his hands on Masse-based IW algos, we're in a world of hurt.
+Speech_-001L=(null)
+Speech_0002L=GRIMSDOTTIR - I've been trying to penetrate Zherkezhi's private networks since we connected him to this mess. I've seen some tough network security before, and I expected Zherkezhi to have top of the line tech, but this is crazy. Zherkezhi's server isn't just impenetrable or invisible...it's like...it's like looking for a shadow in a pitch black room...it's driving me crazy...
+Speech_-001L=(null)
+Speech_0003L=REDDING - Things are turning sour in New York. It's been 24 hours since the blackout and no one has a clue when it might end. We've got sporadic reports of unrest all over Manhattan, but it hasn't started to spill over yet. Word coming down from above is that the National Guard will be deployed within the hour. We'll need to insert you into an alley behind a building adjacent to the target building. Watch out for civilians.
+
+[P_04_Penthouse_CamerasRestantes]
+Speech_-001L=(null)
+Speech_0001L=REDDING - Good work Fisher. That's one camera tapped. There should be five more.
+Speech_0002L=FISHER - I'll keep my eyes open.
+Speech_-001L=(null)
+Speech_0005L=REDDING - One camera tapped. Five to go.
+Speech_-001L=(null)
+Speech_0003L=REDDING - Good work Fisher. That's four of six cameras tapped.
+Speech_0004L=FISHER - I'll keep an eye out for the other two.
+
+[P_04_Penthouse_Conversation_Alley]
+Speech_-001L=(null)
+Speech_0001L=You have enough light down here?
+Speech_0002L=Think so. These barricade lights are battery operated, so they should be okay. I have flares too if I need 'em.
+Speech_0003L=Alright... then we'll concentrate on getting power to the CP before we break-out to the perimeter.
+Speech_0004L=Sounds good.
+
+[P_04_Penthouse_Conversation_Green]
+Speech_-001L=(null)
+Speech_0001L=How long have you known him?
+Speech_0002L=Long time, long time. Since before Displace... huh... since before Bosnia.
+Speech_0003L=Before Bosnia... good lord. I knew he had connections but -
+Speech_0004L=Yeah... we know him long time. He treat us good. We do what he say.
+Speech_0005L=Yes... yes, well, he certainly treats us well.
+Speech_0006L=Now you know too. Now you work for him. Do what he say.
+Speech_0007L=Yes, well... certainly... worth my while now, isn't it.
+Speech_0008L=More than worth your while. Keep you alive man.
+
+[P_04_Penthouse_Conversation_Lift]
+Speech_-001L=(null)
+Speech_0001L=What's the status on that elevator?
+Speech_0002L=I'll have it running in a sec.
+Speech_0003L=Well speed it up. We need to get some more equipment up the roof.
+Speech_0004L=I'm going as fast as I can.
+
+[P_04_Penthouse_Conversation_Park]
+Speech_-001L=(null)
+Speech_0002L=Man... I can't even see my own feet. How long til we have power?
+Speech_0004L=Not sure... they want to get the elevator working first so we can get to the helipad on the roof.
+Speech_0005L=So where does that leave us?
+Speech_0006L=In the dark...as usual.
+Speech_0007L=I got an idea...what about these cars? Maybe we can turn the headlights on.
+Speech_0008L=What are you gonna do, break into someone's car? That's hardly protecting the public.
+Speech_0009L=We'll just blame it on the rioters...
+Speech_0010L=Hm... good idea.
+
+[P_04_Penthouse_Conversation_Patio]
+Speech_-001L=(null)
+Speech_0001L=Hey... I don't recognize you. How long have you been with Displace?
+Speech_0004L=Three months... I just got transferred up from Peru... I was on the... ahem... VIP detail down there.
+Speech_0005L=Ah... so you're already... uh... in the loop?
+Speech_0006L=Yeah... me and... well, you know... we go way back.
+Speech_0007L=Well stick with us... we know how to get things done.
+Speech_0008L=I know... like I say... we go way back.
+Speech_0009L=Riiiiight.
+
+[P_04_Penthouse_Conversation_Power]
+Speech_-001L=(null)
+Speech_0001L=So you know what I can't figure out... like... the entire city is dark, right?
+Speech_0002L=Yeah...
+Speech_0003L=But this guy over here... all his lights are on... how can that be?
+Speech_0004L=Well, the richer you get, the more paranoid you get... guy probably has his own generator so he can keep his security system running.
+Speech_0005L=Security system? Who's gonna climb fifteen floors to break into his apartment?
+Speech_0006L=Like I said... paranoid.
+
+[P_04_Penthouse_Conversation_Tech]
+Speech_-001L=(null)
+Speech_0001L=How much longer is this gonna to take?
+Speech_0002L=It'll be done when it's done.
+Speech_0003L=Done when it's done? What kind of answer is that?
+Speech_0004L=Hey, I got a 220 connection here at 16 amps...
+Speech_0005L=So?
+Speech_0006L=So you know what that kinda juice will do to you if the wires get crossed?
+Speech_0007L=Uh... no...
+Speech_0008L=Well here... touch right here and find out...
+Speech_0009L=Uh... no thanks...
+Speech_0010L=Yeah, good thinkin'. Now get lost, it'll be done when it's done.
+
+[P_04_Penthouse_DGuard_LF1]
+
+[P_04_Penthouse_DvorakMainServer]
+
+[P_04_Penthouse_DvorakPuzzleLose]
+Speech_-001L=(null)
+Speech_0001L=GNOME - Whoopsee... tubes overheated... seems like we... hahaha... missed our cue... better restart from the top there chum...
+
+[P_04_Penthouse_DvorakPuzzleMeca]
+
+[P_04_Penthouse_DvorakPuzzleWin]
+Speech_-001L=(null)
+Speech_0001L=GNOME - Ah-ha There you go. Hahaha... Your output stack should be ready... hmmm
+Speech_-001L=(null)
+Speech_0002L=GNOME - Ah-ha There you go. Hahaha... Your output stack should be ready... hmmm
+
+[P_04_Penthouse_Emitters]
+
+[P_04_Penthouse_Gnome_Animations]
+
+[P_04_Penthouse_Gnome_help]
+Speech_-001L=(null)
+Speech_0001L=FISHER - You must be Dvorak.
+Speech_0002L=GNOME - Ahem...oh... well...Dvorak hm? I had thought this area was, well, off limits...
+Speech_0003L=FISHER - You're not Dvorak?
+Speech_0004L=GNOME - Well, ahem...since we're being blunt ... well...no.
+Speech_0007L=FISHER - Then who are you?
+Speech_0008L=GNOME - Such a rush... hmm... Fancy some tea do you?
+Speech_-001L=(null)
+Speech_0011L=GNOME - Reminds me of poor old Jiggers... hahaha... ah Jiggers... we hardly knew ye...
+Speech_0012L=FISHER - Who are you? What are you doing here?
+Speech_0013L=GNOME - Oh... well, one might ask you the same...
+Speech_0014L=FISHER - I'm looking for a man named Dvorak.
+Speech_0015L=GNOME - Ah! Dvorak, yes! Hahaha... well, you're not going to find one... hahaha... this way...
+Speech_-001L=(null)
+Speech_0018L=GNOME - Ah... hahaha... yes... here we are then... This is Dvorak.
+Speech_-001L=(null)
+Speech_0021L=FISHER - Okay... If this is Dvorak... who are you?
+Speech_0022L=GNOME - Ahem... I am Dvorak's keeper. Thank you most kindly for asking.
+Speech_0027L=FISHER - And what is this... this... Dvorak?
+Speech_0028L=GNOME - Dvorak is... well... you likely wouldn't understand...
+Speech_0029L=FISHER - I'm positive you're right... but let's have it for the record anyway.
+Speech_0030L=GNOME - Dvorak is a mechanical representation of a self-referential axiom of number theory. Dvorak encodes its own logical structure within its own executable cycle and recursively derives a more accurate representation of itself with each successive execution.
+Speech_-001L=(null)
+Speech_0032L=FISHER - I need your help.
+Speech_0033L=GNOME - Indeed... what can I help you with my good fellow?
+Speech_0034L=FISHER - I need you to help me initialize Dvorak so I can retrieve an output stack.
+Speech_0035L=GNOME - Ah... Dvorak... well, that is certainly something I can help with... ahem... hahaha... why don't you restart it. I'll initialize the towers on this side...hahaha... ahem... you can do the other side.
+Speech_-001L=(null)
+Speech_0038L=GNOME - If you see Jigger's, tell him I miss him.
+Speech_-001L=(null)
+Speech_0040L=GNOME - Eventually, Dvorak will derive the answer. But eventually is a very long time...
+Speech_-001L=(null)
+Speech_0041L=GNOME - Ah...how terribly rude. Go about your business then.
+Speech_-001L=(null)
+Speech_0042L=GNOME - Ahem... in all honesty, sir... you've been terribly rude and I'd prefer not to talk to you.
+Speech_-001L=(null)
+
+[P_04_Penthouse_Gnome_IntheDvorak]
+
+[P_04_Penthouse_Gnome_killed]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Fisher! You just killed an innocent man!
+Speech_0002L=FISHER - Sorry. I thought he was the enemy.
+Speech_0003L=LAMBERT - From now on check your targets.
+Speech_0004L=FISHER - Yes Sir.
+Speech_-001L=(null)
+Speech_0005L=LAMBERT - Fisher! You just killed another innocent. Complete your primary objectives and get out of there. It's too risky to keep you in the field any longer than necessary.
+
+[P_04_Penthouse_Gnome_Lambert]
+Speech_-001L=(null)
+Speech_0049L=FISHER - Lambert... he doesn't want to cooperate. What do I do?
+Speech_0050L=LAMBERT - I don't know... better check out the next room.
+Speech_0051L=LAMBERT - I don't know... I think you're going to need to figure out how to operate that thing on your own.
+Speech_-001L=(null)
+Speech_0037L=LAMBERT - Fisher... what are you doing?
+Speech_0038L=FISHER - I've seen these things before... this is a finite state machine.
+Speech_0039L=LAMBERT - It is?
+Speech_0040L=FISHER - Yeah. Looks like Dvorak is just the encoded innards of a fifty year old scrap heap.
+Speech_0041L=GRIMSDOTTIR - No wonder I couldn't hack into it.
+Speech_0042L=FISHER - It doesn't even speak the same language. I'm going to try and reinitialize the machine and retrieve an output stack for analysis. 
+Speech_0043L=GRIMSDOTTIR - Gotcha.
+Speech_-001L=(null)
+Speech_0044L=FISHER - Alright, I've got the stack.
+Speech_0045L=GRIMSDOTTIR - Fisher... judging by what we just saw, I think that's an infinite state machine... not a finite state machine.
+Speech_0046L=FISHER - What's the difference?
+Speech_0047L=GRIMSDOTTIR - This one is self-referential. Each output stack is a logical  instruction set that tells the machine to recurse itself and derive a more accurate set of instructions for the execution cycle.
+Speech_0048L=FISHER - Fascinating. Can I go now?
+Speech_-001L=(null)
+Speech_0024L=FISHER - Lambert... what the hell is this thing?
+Speech_0025L=LAMBERT - I have no idea Fisher... talk to the old man... maybe he knows something.
+Speech_-001L=(null)
+Speech_0026L=FISHER - Lambert... what the hell is this thing?
+Speech_0027L=LAMBERT - I don't know Fisher...but I bet that old man would have helped us if...
+Speech_0028L=FISHER - Well too late... now what do we do?
+Speech_0029L=LAMBERT - Grim?
+Speech_0030L=GRIMSDOTTIR - It looks like a finite state machine... weird academic sixties era university basement crap.
+Speech_0031L=FISHER - What should I do?
+Speech_0032L=GRIMSDOTTIR - You'll need to retrieve an output stack. Restart the machine, then hit the switch on each tower in sequence when the tube heats up. Once you're done, you'll need to recover the output stack.
+Speech_-001L=(null)
+Speech_0052L=LAMBERT - Grim?
+Speech_0053L=GRIMSDOTTIR - It looks like a finite state machine... weird academic sixties era university basement crap.
+Speech_0054L=FISHER - What should I do?
+Speech_0055L=GRIMSDOTTIR - You'll need to retrieve and output stack. Restart the machine, then hit the switch on each tower in sequence when the tube heats up. Once you're done, you'll need to recover the output stack.
+Speech_-001L=(null)
+Speech_0033L=GRIMSDOTTIR - It looks like the tubes will overheat and reset if you don't initialize the tower fast enough. You'll need to restart the whole sequence over again.
+Speech_-001L=(null)
+Speech_0034L=GRIMSDOTTIR - No good, you'll have to try again.
+Speech_-001L=(null)
+Speech_0035L=GRIMSDOTTIR - You took too long. You need to initialize each tower before the main tube overheats.
+Speech_-001L=(null)
+Speech_0036L=GRIMSDOTTIR - Too slow. Restart the machine again.
+Speech_-001L=(null)
+Speech_0001L=FISHER - Lambert... something weird is happening.
+Speech_0002L=LAMBERT - I'll say.
+Speech_0003L=FISHER - What do I do?
+Speech_0004L=LAMBERT - The old man seems harmless. Indulge him. See if he knows anything.
+Speech_-001L=(null)
+Speech_0005L=FISHER - Jesus... I think I just figured out why you couldn't hack in here Grim...
+Speech_0006L=GRIMSDOTTIR - Uh... yeah... no kidding
+Speech_0007L=FISHER - What the hell do I do now?
+Speech_0008L=GRIMSDOTTIR - Uh... hold on while I find a slide rule...
+Speech_0009L=LAMBERT - See what the old man knows, Fisher.
+Speech_-001L=(null)
+Speech_0010L=FISHER - Right. Grim...did you get that?
+Speech_0011L=GRIMSDOTTIR - My god... It's an infinite state machine.
+Speech_0014L=FISHER - Fine. What do I do?
+Speech_0015L=GRIMSDOTTIR - ... if Zherkezhi is using this...
+Speech_0016L=FISHER - Grim.
+Speech_0017L=GRIMSDOTTIR - Sorry. Uh. Sam, we're going to need to a copy of Dvorak's outputs so we can work out the algorithm it's built on.
+Speech_0018L=FISHER - How do I get its output?
+Speech_0019L=GRIMSDOTTIR - It runs on punch cards.
+Speech_0020L=FISHER - Punch cards?
+Speech_0021L=GRIMSDOTTIR - You'll need to restart the sequence and initialize each tower in the right order and then retrieve the output stack.
+Speech_0022L=FISHER - How do I know the right sequence?
+Speech_0023L=GRIMSDOTTIR - You'll need to hit the switches in order as the tubes start to heat up. Ask the old man for help.
+
+[P_04_Penthouse_Gnome_stunned]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Fisher! What the hell are you doing?
+Speech_0002L=FISHER - Sorry. I thought he was the enemy.
+Speech_0003L=LAMBERT - He seemed harmless enough... now you're on your own in there.
+Speech_-001L=(null)
+Speech_0004L=LAMBERT - Fisher! What the hell are you doing?
+Speech_0005L=FISHER - Sorry. I thought he was the enemy.
+Speech_0006L=LAMBERT - From now on check your targets.
+Speech_0007L=FISHER - Yes Sir.
+
+[P_04_Penthouse_Gnome_Upset]
+
+[P_04_Penthouse_Guard_guestroom]
+
+[P_04_Penthouse_Interro_Construction]
+Speech_-001L=(null)
+Speech_0001L=FISHER - What are you doing down here?
+Speech_0002L=Who the hell -
+Speech_0003L=FISHER - Off to a bad start... talk or die.
+Speech_0004L=Ah... ok... we're on VIP protection... this floor... we need to secure it because we can't lock it off from the penthouse.
+Speech_0005L=FISHER - Does the architect or engineer keep an office or a desk down here?
+Speech_0006L=Yeah... of course... west side of the building...
+Speech_0007L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0008L=I... I work for Displace... Displace International.
+Speech_0009L=If you're gonna kill me, do it quick.
+Speech_0010L=You're messing with the wrong company pal.
+
+[P_04_Penthouse_Interro_Construction2]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Like my new knife?
+Speech_0002L=Oh... god...
+Speech_0003L=FISHER - I've been using it quite a bit... is it still sharp?
+Speech_0004L=Feels sharp...
+Speech_0005L=FISHER - Maybe you better tell me something interesting before I get all distracted and slip...
+Speech_0006L=Medical supplies... you probably want some medical supplies... In the washroom beside the kitchen...
+Note_0014L=Medical kits are located in the bathrooms of the penthouse.
+Speech_0009L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0010L=I... I work for Displace... Displace International.
+Speech_0011L=Please... I've told you all I know...
+Speech_0013L=I was going to resign next week... please...
+
+[P_04_Penthouse_Interro_FirstNG]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Shh... I'm not going to hurt you.
+Speech_0002L=Wh... who are you... Wait a minute, is this a training exercise?
+Speech_0003L=FISHER - Uh... Damn... Support... this guy knows it's an exercise, who let the cat out of the bag?
+Speech_0004L=Ha... I knew it...
+Speech_0005L=FISHER - Roger that. Yeah. Okay. Yeah, well, gimme a hand here pal... just play along. Name, Rank, Number.
+Speech_0006L=Corporeal Stan Donlon. 24-28-996.
+Speech_0007L=FISHER - And you're not going to tell me anything else?
+Speech_0008L=No sir.
+Speech_0009L=FISHER - Good boy. Alright, want me to move on to the next one? Yeah. Roger. Oh... okay... I'll ask. Command wants to know how many are on the roof.
+Speech_0010L=Two on the roof, sir. Two more inbound in a chopper.
+Speech_0011L=FISHER - Thanks. Dismissed.
+Speech_0012L=Well, am I dismissed or not?... Sir?
+Speech_0013L=Wait a minute... this isn't an exercise... who are you?
+
+[P_04_Penthouse_Interro_genericNG]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Stay calm. We're on the same side.
+Speech_0002L=J-jesus... who are you...
+Speech_0003L=FISHER - I'm the monster in the closet... and I'm going to let you go back to sleep as soon as you tell me how many men you have deployed out here.
+Speech_0004L=There's...there's just eight of us in the squad, but there are more on the roof...
+Speech_0005L=FISHER - How many?
+Speech_0006L=I don't know... I swear.
+Speech_0007L=FISHER - Thanks for the intell...
+Speech_0008L=I'm not even a soldier... I work at a hardware store...
+Speech_0010L=I'm just an ordinary guy... please...
+
+[P_04_Penthouse_Interro_RoofTop]
+Speech_-001L=(null)
+Speech_0001L=FISHER - What are you doing out here all by yourself?
+Speech_0002L=Uh... guarding the roof...
+Speech_0003L=FISHER - From what?
+Speech_0004L=Let me go and I'll show you.
+Speech_0005L=FISHER - Feisty one? How 'bout I cut your ear off... see how tough you are then?
+Speech_0006L=Go ahead... I have two...
+Speech_0007L=FISHER - How many men do you have out here?
+Speech_0008L=I'm alone on this roof.
+Speech_0009L=FISHER - Alone hunh?... lousy way to die.
+Speech_0010L=We all die alone.
+Speech_0014L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0015L=Displace International. And even if you kill me, they'll find you.
+Speech_0011L=Let me go and we'll see who is strongest.
+Speech_0013L=I know you are too scared to fight me fairly.
+
+[P_04_Penthouse_Interro_Ruined]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Nice place you got here... decorate it yourself?
+Speech_0002L=Who... who are you...
+Speech_0003L=FISHER - The landlord... rent's overdue.
+Speech_0004L=What do you want...
+Speech_0005L=FISHER - Where can I find Dvorak?
+Speech_0006L=I don't know any Dvorak... if you mean Zherkezhi... he's gone...
+Speech_0007L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0008L=I... I work for Displace... Displace International.
+Speech_0010L=I'll do whatever you say.
+Speech_0011L=I have been tortured before... I'll cooperate.
+
+[P_04_Penthouse_InterroGreenhouse]
+Speech_-001L=(null)
+Speech_0037L=FISHER - Pick a number between one and ten...
+Speech_0038L=Wh..what... oh... oh crap... uh... three.
+Speech_0039L=FISHER - Hm. Lucky guess... you get to live. Now tell me something useful or we'll play another round.
+Speech_0040L=Oh god... uh... the mag-lock... the locked door to the roof...
+Speech_0041L=FISHER - What about it...
+Speech_0042L=I think the computer that controls it is in the master bedroom on the top floor.
+Speech_0043L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0044L=I... I work for Displace... Displace International.
+Speech_0045L=I've told you everything...
+Speech_0046L=Do you want me to pick again... four... no... seven...
+Speech_-001L=(null)
+Speech_0001L=FISHER - I'm allergic to flowers... maybe you should talk before I sneeze and accidentally cut your throat.
+Speech_0004L=Oh god... I'll tell you anything.
+Speech_0005L=FISHER - Good. Start with your boss. What's his name?
+Speech_0006L=N... Nedich... Milan Nedich... he's in charge of all our VIP protection contracts.
+Speech_0007L=FISHER - And how many of those under his protection has he killed in the last, say, six weeks?
+Speech_0008L=Wh... what?
+Speech_0009L=FISHER - What kinda scam is he running?
+Speech_0010L=I... I don't know about any scam... I swear...
+Speech_0012L=Don't hurt me... I'm not as tough as I act...
+Speech_0013L=Don't tell Milan I gave you his name... he's psychotic.
+
+[P_04_Penthouse_InterroGreenhouse2]
+Speech_-001L=(null)
+Speech_0021L=FISHER - Like my new knife?
+Speech_0022L=Oh... god...
+Speech_0023L=FISHER - I've been using it quite a bit... is it still sharp?
+Speech_0024L=Feels sharp...
+Speech_0025L=FISHER - Maybe you better tell me something interesting before I get all distracted and slip...
+Speech_0026L=Medical supplies... you probably want some medical supplies... In the washroom beside the kitchen...
+Note_0027L=Medical kits are located in the bathrooms of the penthouse.
+Speech_0028L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0029L=I... I work for Displace... Displace International.
+Speech_0030L=Please... I've told you all I know...
+Speech_0031L=I was going to resign next week... please...
+Speech_-001L=(null)
+Speech_0011L=FISHER - I'm allergic to flowers... maybe you should talk before I sneeze and accidentally cut your throat.
+Speech_0012L=Oh god... I'll tell you anything.
+Speech_0013L=FISHER - Good. Start with your boss. What's his name?
+Speech_0014L=N... Nedich... Milan Nedich... he's in charge of all our VIP protection contracts.
+Speech_0015L=FISHER - And how many of those under his protection has he killed in the last, say, six weeks?
+Speech_0016L=Wh... what?
+Speech_0017L=FISHER - What kinda scam is he running?
+Speech_0018L=I... I don't know about any scam... I swear...
+Speech_0019L=Don't hurt me... I'm not as tough as I act...
+Speech_0020L=Don't tell Milan I gave you his name... he's psychotic.
+
+[P_04_Penthouse_InterroPatioGuard]
+Speech_-001L=(null)
+Speech_0015L=FISHER - Like my new knife?
+Speech_0016L=Oh... god...
+Speech_0017L=FISHER - I've been using it quite a bit... is it still sharp?
+Speech_0018L=Feels sharp...
+Speech_0019L=FISHER - Maybe you better tell me something interesting before I get all distracted and slip...
+Speech_0020L=Medical supplies... you probably want some medical supplies... In the washroom beside the kitchen...
+Speech_0023L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0024L=I... I work for Displace... Displace International.
+Speech_0025L=Please... I've told you all I know...
+Speech_0027L=I was going to resign next week... please...
+Speech_-001L=(null)
+Speech_0028L=FISHER - Stay quiet... it's a long way down to the street...
+Speech_0029L=Oh... God... please... don't.
+Speech_0030L=FISHER - Sounds to me like you know who's in charge of VIP protection here?
+Speech_0031L=Yeah... it's Nedich... Milan Nedich...
+Speech_0032L=FISHER - Was he in charge of the protection detail on Morgenholt in Peru as well...
+Speech_0033L=Yeah... Milan handles all Displace VIP protection contracts...
+Speech_0034L=FISHER - Well he's not very good at it, is he?
+Speech_0035L=Please don't throw me off this roof.
+Speech_0036L=FISHER - Wouldn't dream of it...
+Speech_0037L=I don't wanna die.
+Speech_0038L=I'm scared of heights, please.
+
+[P_04_Penthouse_Lambert_Comm]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Fisher...the National Guard deployed into Manhattan about an hour ago. 
+Speech_0029L=FISHER - I feel safer already.
+Speech_0030L=LAMBERT - Watch your fire Sam. Those boys aren't expecting to see you and they'll attack on sight. Do not... I repeat, do not kill any of them.
+Speech_0031L=FISHER - I'll be careful.
+Speech_0032L=LAMBERT - Good.
+Speech_-001L=(null)
+Speech_0121L=LAMBERT - National Guard is on site Sam. Do not kill any of them, even if they fire on you.
+Note_0154L=The elevator is the only way to the helipad.
+Note_0155L=Zherkezhi's penthouse is the building to the West of the helipad.
+Speech_0160L=LAMBERT - Fisher, you should be able to get to the roof via the elevator once the National Guard restores power.
+Speech_0093L=LAMBERT - Fisher...looks like the National Guard are trying to restore power to the building's elevator. That's probably your best way to the top.
+Speech_0094L=FISHER - I'll see if I can hitch a ride.
+Speech_0095L=LAMBERT - It'll be a long climb if you don't.
+Speech_-001L=(null)
+Speech_0096L=LAMBERT - Fisher, the elevator is the only way to the roof.
+Speech_-001L=(null)
+Speech_0097L=LAMBERT - Fisher, you should be able to get to the roof via the elevator once the National Guard restores power.
+Speech_0161L=LAMBERT - Fisher, you've got a lot of mercenaries on site. See if you can find out who they work for.
+Speech_0002L=LAMBERT - Fisher, that's a hired gun if I've ever seen one.
+Speech_0003L=FISHER - He's no night watchman either...he's a merc. He's got the same kit as the guys who were protecting Lacerda.
+Speech_0037L=LAMBERT - This whole situation is getting uglier by the second. See if you can find out who these characters work for.
+Speech_0038L=FISHER - Will do.
+Speech_-001L=(null)
+Speech_0098L=LAMBERT - Fisher, these guys are mercenaries. Find out who they work for.
+Speech_-001L=(null)
+Speech_0100L=LAMBERT - Fisher, you've got a lot of mercenaries on site. See if you can find out who they work for.
+Speech_-001L=(null)
+Speech_0101L=LAMBERT - Sam, Zherkezhi's penthouse is atop this building. He also has construction permits on other floors. Maybe you can dig up some blueprints.
+Speech_0162L=REDDING - Zherkezhi has IR cameras. You should be able to see the projected beam with night vision. If you can tap each of the cameras, it would be a big help.
+Speech_0006L=REDDING - Fisher... Zherkezhi cameras project an infrared beam so they can see in the dark.
+Speech_0007L=FISHER - If its an infrared beam, I can see it in night vision.
+Speech_0008L=REDDING - Exactly... and listen... it would help us keep tabs on Zherkezhi if we could use these cameras against him.
+Speech_0070L=FISHER - Gotcha. I'll try and run some taps.
+Speech_-001L=(null)
+Speech_0112L=REDDING - Zherkezhi has IR cameras. You should be able to see the projected beam with night vision. If you can tap each of the cameras, it would be a big help.
+Speech_-001L=(null)
+Speech_0013L=GRIMSDOTTIR - Fisher, looks like Zherkezhi has these doors mag-locked on a remote switch. You'll need to find the computer that controls the magnetic lock.
+Speech_0054L=FISHER - Where would I find that?
+Speech_0055L=GRIMSDOTTIR - It'll be somewhere inside the penthouse... you'll have to sniff around.
+Speech_0119L=GRIMSDOTTIR - It's probably in that panic room he keeps hidden behind his bedroom.
+Speech_0120L=GRIMSDOTTIR - It's inside the panic room, you must have missed it when you were in there the first time.
+Speech_-001L=(null)
+Speech_0127L=GRIMSDOTTIR - The computer that controls the mag-lock is back in the panic room.
+Speech_-001L=(null)
+Speech_0128L=GRIMSDOTTIR - You'll find the computer that controls the mag-lock in the panic room behind the bedroom.
+Speech_-001L=(null)
+Speech_0129L=GRIMSDOTTIR - You'll find the computer that controls the mag-lock somewhere in the Penthouse.
+Note_0158L=There might be architectural plans somewhere in the construction area.
+Speech_0163L=LAMBERT - Sam, Zherkezhi's penthouse is atop this building. He also has construction permits on other floors. Maybe you can dig up some blueprints.
+Speech_0014L=LAMBERT - Fisher, satellite shows you've reached Zherkezhi's building. County Clerk's office has construction permits on file for the floors below the penthouse and in the neighboring structure.
+Speech_0033L=FISHER - Any plans or blueprints on file?
+Speech_0034L=LAMBERT - I'll have Grim look into it, but with this blackout...
+Speech_0035L=FISHER - I understand... I'll see if I can dig up some plans down here.
+Speech_0036L=LAMBERT - Good idea.
+Speech_0164L=LAMBERT - Fisher, the mercenaries here all work for Displace International. That's Doug Shetland's company. I'm guessing that someone inside Displace is working both sides. See if you can find out who is in charge of the protection detail.
+Speech_0015L=LAMBERT - Displace? That's Doug Shetland's company.
+Speech_0039L=FISHER - I know.
+Speech_0040L=LAMBERT - Fisher, if Shetland turns out to be crooked-
+Speech_0041L=FISHER - If Shetland is crooked, I'll take him down myself, but I have a feeling there's more to it than that.
+Speech_0042L=LAMBERT - Could be. See if you can find out who's in charge of this protection detail. Maybe someone inside Displace is playing both sides.
+Speech_0043L=FISHER - You got it.
+Speech_-001L=(null)
+Speech_0102L=LAMBERT - Displace is Doug Shetland's company. See if you can find out who is in charge of this protection detail. I'd hate to find out someone inside Displace is playing both sides.
+Speech_-001L=(null)
+Speech_0099L=LAMBERT - Fisher, the mercenaries here all work for Displace International. That's Doug Shetland's company. I'm guessing that someone inside Displace is working both sides. See if you can find out who is in charge of the protection detail.
+Speech_-001L=(null)
+Speech_0106L=GRIMSDOTTIR - Uh oh...
+Speech_0107L=FISHER - What.
+Speech_0108L=GRIMSDOTTIR - All these mercenaries we've been seeing...
+Speech_0109L=FISHER - Yeah?
+Speech_0110L=GRIMSDOTTIR - Turns out they work for Displace International...
+Speech_0165L=GRIMSDOTTIR -  I've located Dvorak in the adjacent structure. Cross the roof through the magnetically locked doors to get to him. I've unlocked the doors for you.
+Speech_0016L=GRIMSDOTTIR - Gotcha.
+Speech_0056L=FISHER - Who?
+Speech_0057L=GRIMSDOTTIR - Dvorak.
+Speech_0058L=FISHER - Where is he?
+Speech_0059L=GRIMSDOTTIR - According to this, he's in the building next door. You can get there across the rooftop through the magnetically locked doors.
+Speech_0060L=FISHER - How do I get through the doors?
+Speech_0061L=GRIMSDOTTIR - They're not magnetically locked anymore.
+Speech_0062L=FISHER - Thanks for the help.
+Speech_-001L=(null)
+Speech_0104L=GRIMSDOTTIR - Dvorak is in the adjacent structure. I've unlocked the magnetic doors so you can cross the roof.
+Speech_-001L=(null)
+Speech_0126L=GRIMSDOTTIR -  I've located Dvorak in the adjacent structure. Cross the roof through the magnetically locked doors to get to him. I've unlocked the doors for you.
+Speech_-001L=(null)
+Speech_0139L=FISHER - Alright, I've got the stack.
+Speech_0140L=LAMBERT - Good work Fisher, time to make yourself scarce. Get to your primary extraction point.
+Speech_0141L=LAMBERT - Good work Fisher, complete the rest of your objectives and proceed to extraction.
+Speech_0156L=LAMBERT - Good work Fisher, time to make yourself scarce. Get to your primary extraction point.
+Speech_0157L=LAMBERT - Good work Fisher, complete the rest of your objectives and proceed to extraction.
+Speech_0145L=GRIMSDOTTIR - Fisher...judging by what we just saw, I think that's an infinite state machine...not a finite state machine.
+Speech_0146L=FISHER - What's the difference?
+Speech_0147L=GRIMSDOTTIR - This one is self-referential. Each output stack is a logical  instruction set that tells the machine to recurse itself and derive a more accurate set of instructions for the next execution cycle.
+Speech_0148L=FISHER - Fascinating. Can I go now?
+Speech_0149L=GRIMSDOTTIR - Fisher...judging by what we just saw, I think that's an infinite state machine...not a finite state machine.
+Speech_0150L=FISHER - What's the difference?
+Speech_0151L=GRIMSDOTTIR - This one is self-referential. Each output stack is a logical  instruction set that tells the machine to recurse itself and derive a more accurate set of instructions for the next execution cycle.
+Speech_0152L=FISHER - Fascinating. Can I go now?
+Speech_0142L=FISHER - On my way.
+Speech_0166L=GRIMSDOTTIR - Echelon has nothing on Milan Nedich. Looks like he's dirty and using Displace International for cover.
+Speech_0019L=GRIMSDOTTIR - Milan Nedich... Echelon's got nothing...he doesn't even exist.
+Speech_0065L=FISHER - Hm... well whoever he is, he's playing both sides. We need to inform Shetland.
+Speech_0066L=GRIMSDOTTIR - No can do, Sam... We can't compromise OPSEC for private interests.
+Speech_0067L=FISHER - Fine... but if I find Nedich, it will be less of a problem.
+Speech_0068L=GRIMSDOTTIR - Admirable of you to protect your friend but - 
+Speech_0069L=FISHER - You said he doesn't exist... I'm just correcting a bureaucratic error.
+Speech_-001L=(null)
+Speech_0111L=GRIMSDOTTIR - Echelon has nothing on Milan Nedich. Looks like he's dirty and using Displace International for cover. 
+
+
+Speech_0167L=GRIMSDOTTIR - Those plans you found were the architectural plans for the penthouse. I've uploaded them to your OPSAT.
+Speech_0020L=GRIMSDOTTIR - Hmm... work permits, architectural plans... interesting... Zherkezhi has a hardened panic room off of his bedroom...
+Speech_0049L=FISHER - I'll check it out
+Speech_0050L=GRIMSDOTTIR - Looks like he also filed plans for construction in the next building over?
+Speech_0051L=FISHER - The next building?
+Speech_0052L=GRIMSDOTTIR - I'm no architect, but if I'm reading these plans right, both buildings are connected across a rooftop. I'll leave the relevant data on your OPSAT. Should help you navigate.
+Speech_0053L=FISHER - Thanks.
+Speech_-001L=(null)
+Speech_0125L=GRIMSDOTTIR - Those plans you found were the architectural plans for the penthouse. I've uploaded them to your OPSAT.
+Speech_0168L=REDDING - That's all the camera tapped Sam. Good job.
+Speech_0021L=REDDING - Good work on the cameras, Sam. We'll have guys watching Zherkezhi twenty-four-seven.
+Speech_0077L=FISHER - Always happy to keep the donut dippers busy.
+Speech_-001L=(null)
+Speech_0118L=REDDING - That's all the camera tapped Sam. Good job.
+Speech_-001L=(null)
+Speech_0153L=LAMBERT -  That connects Zherkezhi to MCAS Bank in Panama. Objective complete.
+Speech_-001L=(null)
+Speech_0022L=LAMBERT - That pretty much confirms it. These records show Zherkezhi has a long history of transactions with MCAS Bank in Panama.
+Speech_0044L=FISHER - Is he the one who shipped the arms to Lacerda's goons?
+Speech_0045L=LAMBERT - It doesn't matter much now. We'll need to bring him in for a chat either way.
+Speech_0046L=FISHER - Where do I find him?
+Speech_0047L=LAMBERT - We'll look into that, you still need to locate Dvorak.
+Speech_0122L=LAMBERT - We'll look into that, you still need to recover a data sample from Dvorak. 
+Speech_0123L=LAMBERT - We'll look into that, you get yourself to extraction.
+Speech_0048L=FISHER - Alright.
+Speech_-001L=(null)
+Speech_0103L=LAMBERT - It looks like Zherkezhi has a long history of transactions with MCAS Bank in Panama. We'll need to talk to him sooner or later. For now, get yourself to extraction.
+Speech_-001L=(null)
+Speech_0105L=LAMBERT - It looks like Zherkezhi has a long history of transactions with MCAS Bank in Panama. We'll need to talk to him sooner or later. For now, get yourself to extraction.
+Speech_-001L=(null)
+Speech_0124L=LAMBERT - It looks like Zherkezhi has a long history of transactions with MCAS Bank in Panama. We'll need to talk to him sooner or later. For now, finish your objectives and get out of there.
+Speech_0169L=REDDING - You've destroyed one of the IR cameras Sam, don't bother trying to tap the rest.
+Speech_0113L=REDDING - Well that's not much help.
+Speech_0114L=FISHER - What?
+Speech_0115L=REDDING - I'd hoped to use those cameras to keep tabs on Zherkezhi... but you can forget it now.
+Speech_0116L=FISHER - Sorry. My mistake.
+Speech_-001L=(null)
+Speech_0117L=REDDING - You've destroyed one of the IR cameras Sam, don't bother trying to tap the rest.
+
+[P_04_Penthouse_Lift]
+
+[P_04_Penthouse_NGelevator]
+
+[P_04_Penthouse_NGTech]
+
+[P_04_Penthouse_Objectives]
+Objective_0046=Get to Zherkezhi's penthouse in the adjacent building.
+Objective_0047=Zherkezhi's penthouse apartment has power, and is connected to the roof by electrical cables attached to the large sign.
+Objective_0004=Access Zherkezhi's Server to determine who Dvorak is.
+Objective_0025=Access Zherkezhi's private terminal and find out who Dvorak is. The terminal is probably hidden somewhere near the master bedroom.
+Note_0039L=The National Guard is on our side, don't kill any of them.
+Objective_0003=Find out who the mercenaries work for.
+Objective_0026=The men protecting Zherkezhi appear to be professional mercenaries. Find out who they work for by interrogating any of them or accessing any computer they may have brought.
+POPUPMESSAGE_0053=Find out who the mercenaries work for.
+Note_0021L=The mercenaries work for Displace International.
+Note_0045L=The door code to Dvorak's room is 0280.
+Objective_0005=Locate Dvorak.
+Objective_0027=Go to the abandoned part of the building across the roof and locate Zherkezhi's associate, Dvorak.
+POPUPMESSAGE_0054=Locate Dvorak.
+Note_0040L=Dvorak is not a person. It's a computer.
+Objective_0006=Retrieve a hardcopy output for a single Dvorak execution cycle.
+Objective_0028=Restart the Dvorak computer without overheating it and recover a stack of punch cards that contains the data from its execution cycle.
+POPUPMESSAGE_0055=Retrieve a hardcopy output for a single Dvorak execution cycle.
+Objective_0011=Obtain the missing transaction records.
+Objective_0029=Recover any additional information about dealings between Zherkezhi or Dvorak and MCAS Bank in Panama.
+Objective_0007=Exfiltrate to the primary extraction point.
+Objective_0030=Exfiltrate from the main elevator in the living room of Zherkezhi's penthouse.
+Note_0051L=The mercenaries may be using wall mines to fortify their positions.
+Objective_0013=(null)
+Objective_0014=(null)
+Objective_0015=(null)
+Objective_0001=Find the architectural plans.
+Objective_0032=Find the architectural plans.
+Objective_0002=Tap the Penthouse video cameras.
+Objective_0033=Tapping the security cameras that Zherkezhi has installed will facilitate Echelon's ability to more closely monitor his activities.
+POPUPMESSAGE_0057=Tap the Penthouse video cameras.
+Note_0041L=You can see the infrared light projected by IR cameras with Night Vision.
+Objective_0008=Discover who is in charge of the Zherkezhi protection detail.
+Objective_0034=Some of the guards may know who is in charge of the Zherkezhi protection detail. Ask around.
+POPUPMESSAGE_0058=Discover who is in charge of the Zherkezhi protection detail.
+Note_0022L=The VIP protection leader is Milan Nedich.
+Objective_0035=Get to Zherkezhi's penthouse in the adjacent building.
+Objective_0036=Zherkezhi's penthouse apartment has power, and is connected to the roof by electrical cables attached to the large sign.
+Objective_0037=Get to the top of the building being used by the National Guard.
+Objective_0038=The National Guard is restoring power to activate the elevator and set up a Command Post atop the building. Make your way up the shaft, or try to hitch a ride.
+Note_0042L=The mercenaries may be using wall mines to fortify their positions.
+Note_0048L=Medical kits are located in the bathrooms of the penthouse.
+Note_0043L=There is a medical kit in the construction area.
+Note_0044L=There is a medical kit in Zherkezhis panic room.
+
+[P_04_Penthouse_PopUp_Messages]
+POPUPMESSAGE_0009=Get to Zherkezhi's penthouse in the adjacent building.
+POPUPMESSAGE_0011=Get to Zherkezhi's penthouse in the adjacent building.
+POPUPMESSAGE_0004=Find out who the mercenaries work for.
+POPUPMESSAGE_0006=Obtain the missing transaction records.
+POPUPMESSAGE_0007=Access Zherkezhi's Server to determine who Dvorak is.
+POPUPMESSAGE_0012=Find out who the mercenaries work for.
+POPUPMESSAGE_0014=Find out who the mercenaries work for.
+POPUPMESSAGE_0015=Locate Dvorak.
+POPUPMESSAGE_0016=Exfiltrate to the primary extraction point.
+
+[P_04_Penthouse_SamIsAKiller]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Sweet Jesus Fisher... what did you do?
+Speech_0002L=FISHER - It was an accident.
+Speech_0003L=LAMBERT - We don't have room for accidents. Watch your fire.
+Speech_-001L=(null)
+Speech_0004L=LAMBERT - Dammit, Sam. You killed a civilian. Watch your fire.
+Speech_-001L=(null)
+Speech_0005L=LAMBERT - Dammit Fisher... that's the second civilian you've killed.
+Speech_0006L=FISHER - Lambert... I...
+Speech_0007L=LAMBERT - Save the whining for your evaluation. Complete your Primary Objectives and forget the rest. You're a hazard.
+Speech_0009L=FISHER - Roger.
+Speech_-001L=(null)
+Speech_0008L=LAMBERT - That's two civilians Fisher. You've lost your edge. I'm canceling your additional objectives. Complete your Primaries and extract ASAP.
+
+[P_04_Penthouse_SamIsAKiller_2]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Sweet Jesus Fisher... what did you do?
+Speech_0002L=FISHER - It was an accident.
+Speech_0003L=LAMBERT - We don't have room for accidents. Watch your fire.
+Speech_-001L=(null)
+Speech_0004L=LAMBERT - Dammit, Sam. You killed a civilian. Watch your fire.
+Speech_-001L=(null)
+Speech_0005L=LAMBERT - Dammit Fisher... that's the second civilian you've killed.
+Speech_0006L=FISHER - Lambert... I...
+Speech_0007L=LAMBERT - Save the whining for your evaluation. Complete your Primary Objectives and forget the rest. You're a hazard.
+Speech_0008L=FISHER - Roger.
+Speech_-001L=(null)
+Speech_0009L=LAMBERT - That's two civilians Fisher. You've lost your edge. I'm canceling your additional objectives. Complete your Primaries and extract ASAP.
+
+[P_04_Penthouse_SamIsAKiller3]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Sweet Jesus Fisher... what did you do?
+Speech_0002L=FISHER - It was an accident.
+Speech_0003L=LAMBERT - We don't have room for accidents. Watch your fire.
+Speech_-001L=(null)
+Speech_0004L=LAMBERT - Dammit, Sam. You killed a civilian. Watch your fire.
+Speech_-001L=(null)
+Speech_0005L=LAMBERT - Dammit Fisher... that's the second civilian you've killed.
+Speech_0006L=FISHER - Lambert... I...
+Speech_0007L=LAMBERT - Save the whining for your evaluation. Complete your Primary Objectives and forget the rest. You're a hazard.
+Speech_0008L=FISHER - Roger.
+Speech_-001L=(null)
+Speech_0009L=LAMBERT - That's two civilians Fisher. You've lost your edge. I'm canceling your additional objectives. Complete your Primaries and extract ASAP.
+
+[P_04_Penthouse_SamPosition]
+
+[P_04_Penthouse_SciptedObjects]
+
+[P_04_Penthouse_SRC_blackout]
+Speech_-001L=(null)
+Speech_0003L=It's weird you know... I mean... I was in college back in, what, 2003 when we had that big blackout here.
+Speech_0013L=Yeah... I remember that. Everyone thought it was a terrorist attack
+Speech_0007L=Heh... yeah... well, if you farted in 2003 people thought it was a terrorist attack.
+Speech_0008L=Didn't it turn out to be the Canadians or something... bad wiring?
+Speech_0010L=Something like that... don't really remember.
+Speech_0011L=Yeah... terrorists... Canadians... what's the difference.
+Speech_0012L=Exactly.
+
+[P_04_Penthouse_SRC_Liquor]
+Speech_-001L=(null)
+Speech_0001L=Hey... where's the liquor cabinet?
+Speech_0002L=Don't bother.
+Speech_0003L=Why not? I could use a bloody drink... this place is boring.
+Speech_0004L=No kidding. We emptied the liquor cabinets three weeks ago.
+Speech_0005L=Ah... man...
+
+[P_04_Penthouse_SRC_NG1]
+Speech_-001L=(null)
+Speech_0001L=Hey... did you hear? The Chinese are gonna try and launch a rescue mission to the ISS.
+Speech_0002L=Ha... that'll be the day...
+Speech_0003L=What do you mean?
+Speech_0004L=It's impossible... they don't have the know-how... they don't have the man-power... they don't have the will... They don't have chance.
+Speech_0005L=They have a rocket on the launch-pad, ready to go.
+Speech_0006L=Yeah... just what we need... a Chinese knock-off of a wrought-iron Soviet-era Russian missile with the warhead stripped out and a dentist's chair welded inside...
+Speech_0007L=Better than an over-engineered ceramic shell full of parts designed by 30 different firms, sub-contracted out to the lowest bidders that the lowest bidders could find, manufactured in 12 different states by members of 8 different unions, still suing each other over the last 4 cent plastic widget that cracked in transport and ended up costing the tax-payers a hundred million dollars because it was machined to a tolerance of 1 mm instead of 1/25th of an inch.
+Speech_0008L=Hm... I thought 1 mm was the same as 1/25th of an inch.
+Speech_0009L=That's why we need the Chinese to save our asses.
+
+[P_04_Penthouse_SubNavMeshes]
+
+[P_04_Penthouse_TVLoop]
+Speech_-001L=(null)
+Speech_0001L=... in other news... the East Coast blackout struck its twenty fourth hour not long ago. The governors of six eastern states met for an emergency conference and unanimously agreed to a limited deployment of the National Guard in order to quell possible civil unrest as temperatures soar...
+Speech_-001L=(null)
+Speech_0002L=... in other news, Director Liu of the Chinese National Space Administration publicly offered to attempt a rescue of the astronauts stranded aboard the International Space Station, stating that the CNSA has a Shenzhue rocket which could be fueled and prepped for emergency launch within seventy-two hours&as yet there has been no response from NASA or ESA officials.

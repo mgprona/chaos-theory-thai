@@ -1,0 +1,62 @@
+[GENERAL]
+MapName=DISPLACE
+Briefing=A FAIRE
+Briefing_LAMBERT=J'ai bien peur que nous soyons face à une tentative délibérée de déclencher une crise de portée mondiale, Fisher. Zherkezhi en sait sans doute plus que n'importe qui d'autre au monde sur la guerre de l'information, et quand on y ajoute le fait que Displace est une armée privée prête au combat et mieux equipée que la plupart des gouvernements, il faut savoir s'il s'agit d'une coincidence, ou si quelqu'un chez Displace est en train de tenter un très gros coup, mais comme Displace est sous contrat avec le département d'état, cette affaire est extrèmement politique, donc mission de reconnaissance uniquement, défense de tuer qui que ce soit.
+Briefing_GRIMSDOTTIR=Les bureaux de Displace International occupent les trois derniers étages de la tour Hantz, au centre de Manhattan. Les comptes de la société indiquent d'importants investissements pour protéger ses locaux et son infrastructure, même en cas d'attaque terroriste majeure.
+Briefing_REDDING=L'imagerie satellite confirme les recherches de Grim. Displace fonctionne à plein régime. Apparemment, sa direction prend actuellement part à une réunion du conseil municipal de New York, peut-être pour lui proposer de protéger la ville à la place de la Garde nationale. Ce serait extrèmement opportuniste de leur part, mais difficile de leur en vouloir, pour moi il n`y a rien de louche la dessous, mais si le patron veut qu'on y regarde de plus près, c'est ce qu'on va faire.
+
+[Interaction]
+IntUseAlgorithm=Utiliser l'algorithme
+IntExtract=Extraction
+
+[Computer]
+CompUploadTracer=Télécharger programme espion
+CompObjective=Objectif
+CompPowerSystemEvaluation=Evaluation du système électrique
+CompEmail=E-mail
+CompVIPDetailReport=Rapport VIP
+CompMeetRoomCode=Code de la porte de la salle de réunion
+CompTurretPerformanceReport=Rapport de performance de la tourelle
+CompWNMNewsWire=WNM Actualités
+CompProtectionDetailBackup=Sauvegarde des instructions de protection
+CompNews=Actualités
+CompSynchAccessAlgorithm=Algorithme d'accès synchronisé
+CompFiredoorkeycode=Code de la porte à incendie
+CompHokkaidoMeet=Rencontre à Hokkaido
+CompCameraAccess=Accéder au système de surveillance
+CompAccess=Accéder
+CompInfraSoundSpecSheet=Fiche technique des infra-sons
+CompServerAccessAlgorithm=Algorithme d'accès au serveur
+CompLobbyAreaDoorcodes=Codes des portes du vestibule
+
+
+[Email]
+EmailPowerEvalBody=L'évaluation technique de nos générateurs sur site est désormais terminée. Nous espérons pouvoir fournir une quantité d'électricité limitée à tout l'immeuble et nous avons augmenté l'efficacité des coupe-circuit. Tous les systèmes devraient se remettre en marche sans la moindre interruption dès que le courant sera revenu en ville.
+EmailPowerEvalDate=30/06/2007
+EmailPowerEvalFrom=Hantz Centre de Maintenance
+EmailPowerEvalSubject=Evaluation du système électrique
+EmailPowerEvalTo=Displace_Tous
+
+EmailMeetRoomCodeBody=Matt... j'ai le code de la salle de réunion du boss. C'est le 2346. Demande aux gars s'ils connaissent le code du bureau. Mais n'en parle pas à Milan, surtout ! Je le sens pas, ce type.
+EmailMeetRoomCodeDate=29/06/2007
+EmailMeetRoomCodeFrom=Gilley
+EmailMeetRoomCodeSubject=Code de la salle de réunion
+EmailMeetRoomCodeTo=Matthew
+
+EmailWNMLotteryBody=Brody Masterson-Woods III, le célèbre magnat de l'acier de Pennsylvanie, a été déclaré vainqueur de la cagnotte de 1,1 milliard de dollars offerte par le loto. C'est la plus grosse cagnotte de toute l'histoire du pays. La fortune personnelle de M. Masterson-Woods III est évaluée à 68,4 milliards de dollars.
+EmailWNMLotteryDate=28/06/2007
+EmailWNMLotteryFrom=WNM Actualités
+EmailWNMLotterySubject=Un milliardaire gagne un milliard au loto
+EmailWNMLotteryTo=Abonné
+
+EmailWNMMasonBody=Selon le Secrétaire de la défense, Frank Mason, la Garde nationale est actuellement "mise à rude épreuve". Alors qu'elle supplée déjà l'armée américaine dans onze pays, son déploiement d'urgence dans cinq Etats "met en péril sa capacité à défendre notre territoire".
+EmailWNMMasonDate=29/06/2007
+EmailWNMMasonFrom=WNM Actualités
+EmailWNMMasonSubject=Mason : la Garde nationale "mise à rude épreuve"
+EmailWNMMasonTo=Abonné
+
+EmailLobbyCodeBody=Julian... pour la visite de Tom, j'ai changé le code des portes donnant sur la salle de réunion depuis le vestibule. Le nouveau code est le 8136. C'est le même pour les deux portes.
+EmailLobbyCodeDate=30/06/2007
+EmailLobbyCodeFrom=Gordon
+EmailLobbyCodeSubject=Code des portes de vestibules
+EmailLobbyCodeTo=Julian

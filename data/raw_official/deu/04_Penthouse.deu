@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=PENTHOUSE
+Briefing_LAMBERT=Bruce Morgenholt und Abrahim Zherkezhi arbeiteten gemeinsam im UN-Komitee Projekt Watson, dem es gelang Masses Kernels zu knacken. Sie waren es, die die 10-24-Verschlüsselung entdeckt haben. Die Nachrichten, die du in der MCAS-Bank gefunden hast, waren nach genau diesem System verschlüsselt. Wenn dieser "Dvorak" IW-Algorithmen in die Finger bekommen hat, die auf Masses Technik basieren, dann stecken wir gehörig in Schwierigkeiten.
+Briefing_GRIMSDOTTIR=Seit wir den Kerl mit der ganzen Geschichte in Verbindung bringen konnten, versuche ich schon in Zherkezhis Privatnetzwerk einzudringen. Ich habe ja in meinem Leben schon einige sichere Netzwerke gesehen und hatte mich auch darauf eingestellt, dass Zherkezhis Netzwerk ein harter Brocken sein würde, aber das ist Wahnsinn. Zherkezhis Server ist nicht einfach nur gesichert oder gut getarnt ... es ist so ... es ist so, als würde man in einem stockfinsteren Raum nach einem Schatten suchen ... das Ding treibt mich noch in den Wahnsinn ... 
+Briefing_REDDING=In New York wird die Lage langsam ungemütlich. Seit dem Stromausfall sind jetzt 24 Stunden vergangen und niemand weiß, wie lange er noch anhalten wird. Aus Manhattan wurden schon die ersten Unruhen gemeldet. Glücklicherweise ist der Funke noch nicht auf andere Bezirke übergesprungen. Wir setzen dich in einer Gasse ab, die an das Zielgebäude angrenzt. Pass auf die Zivilisten auf. 
+Briefing=AUFGABE
+
+[Interaction]
+IntRetrieveOutputs=Ausgabedaten abrufen
+IntStartMainServer=Hauptserver starten
+IntExtraction=Exfiltration
+
+[Computer]
+CompPenthouseArchitecturalPlans=Konstruktionspläne des Penthouse
+
+[Email]
+EmailTransactionBody=Senor Dvorak, die Überweisung wurde gemäSS Ihres Auftrags vom 24. Juni 2007 ausgeführt. Bei der Abwicklung der Transaktionen sind keine Probleme aufgetreten. Im Rahmen der Möglichkeiten, die unsere Geschäftsbedingungen vorsehen, haben wir die Aufzeichnungen über den Vorgang vernichtet.
+EmailTransactionDate=29. Juni 2007
+EmailTransactionFrom=MCAS Banco de Panama
+EmailTransactionSubject=Transaktion abgeschlossen
+EmailTransactionTo=Dvorak 
+
+EmailNewsBody=Aufgrund des jüngsten Stromausfalls sind die News-Wire-Server von WNM vorübergehend auSSer Betrieb. Wir hoffen, dass dieses Problem in Kürze behoben wird, und möchten uns für den Ausfall des News-Wire-Dienstes entschuldigen.
+EmailNewsDate=29. Juni 2007
+EmailNewsFrom=WNM-Eilmeldung
+EmailNewsSubject=Automatisierte Nachricht
+EmailNewsTo=Abonnent 
+
+EmailDisplaceBody=Ich verstehe. Es gibt immer Probleme, wenn man Berufssoldaten für einfache Wachaufgaben einteilt. Ich sehe zu, dass die Fluktuation erhöht wird, damit dort niemand zu lange bleibt. Gerald stöSSt Ende der Woche zum ersten Mal dazu.
+EmailDisplaceDate=30. Juni 2007
+EmailDisplaceFrom=Planung für Displace
+EmailDisplaceSubject=Moralbedenken
+EmailDisplaceTo=George
+
+EmailDvorakBody=Protokolliert: fehlgeschlagener Anmeldeversuch 29. Juni 2007. Vertragsmitarbeiter. Kein unbefugtes Eindringen. Protokollfluss 14 wird gestartet. Benachrichtigung Zugangscode. Ändern. 0280.
+EmailDvorakDate=30. Juni 2007
+EmailDvorakFrom=Dvorak 
+EmailDvorakSubject=Protokollfluss 14 gestartet
+EmailDvorakTo=Zherkezhi 

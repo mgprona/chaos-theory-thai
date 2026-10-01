@@ -1,0 +1,38 @@
+[GENERAL]
+MapName=PENTHOUSE
+Briefing_LAMBERT=LAMBERT - Bruce Morgenholt and Abrahim Zherkezhi were partnered together on Project Watson, the UN Committee that cracked the Masse kernels. They're the ones who discovered Five-Twelve encryption, the same encryption used in the messages you recovered at MCAS Bank. If this so-called "Dvorak" person has somehow gotten his hands on Masse-based IW algos, we're in a world of hurt.
+Briefing_GRIMSDOTTIR=GRIMSDOTTIR - I've been trying to penetrate Zherkezhi's private networks since we connected him to this mess. I've seen some tough network security before, and I expected Zherkezhi to have top of the line tech, but this is crazy. Zherkezhi's server isn't just impenetrable or invisible... it's like... it's like looking for a shadow in a pitch black room... it's driving me crazy... 
+Briefing_REDDING=REDDING - Things are turning sour in New York. It's been 24 hours since the blackout and no one has a clue when it might end. We've got sporadic reports of unrest all over Manhattan, but it hasn't started to spill over yet. Word coming down from above is that the National Guard will be deployed within the hour. We'll need to insert you into an alley behind a building adjacent to the target building. Watch out for civilians. 
+
+[Interaction]
+IntRetrieveOutputs=Retrieve Outputs
+IntStartMainServer=Start Main Server
+IntExtraction=Extraction
+
+[Computer]
+CompPenthouseArchitecturalPlans=Penthouse Architectural Plans
+
+[Email]
+EmailTransactionBody=Senor Dvorak, As per your instructions dated June 24, 2007, the transfer has been made and the payables issued. All transactions have cleared and trace has been shredded and burned as permitted under our charter.
+EmailTransactionDate=06/29/07
+EmailTransactionFrom=MCAS Banco de Panama
+EmailTransactionSubject=Transaction Completed
+EmailTransactionTo=Dvorak 
+
+EmailNewsBody=Due to the recent power outage, WNM News Wire servers are temporarily down. We expect the problem to be remedied shortly, and apologize for any interruption in your expected News Wire Service.
+EmailNewsDate=06/29/07
+EmailNewsFrom=WNM News Wire
+EmailNewsSubject=Automated Message
+EmailNewsTo=Subscriber 
+
+EmailDisplaceBody=I understand. It is never easy to ask professional soldiers to undertake simple guard duty. I will look into increasing the roll-over rate so no one is stuck there too long. I'll put Gerald on the rotation later this week to start.
+EmailDisplaceDate=06/30/07
+EmailDisplaceFrom=PlanningDisplace
+EmailDisplaceSubject=Morale concerns
+EmailDisplaceTo=George
+
+EmailDvorakBody=Failed log attempt noted. June 29, 2007. Contract employee. No intrusion. Initiate Protocol Stream 14.  Access code notify. Change. 0280.
+EmailDvorakDate=06/30/07
+EmailDvorakFrom=Dvorak 
+EmailDvorakSubject=Protocol Stream 14 Initiated
+EmailDvorakTo=Zherkezhi 

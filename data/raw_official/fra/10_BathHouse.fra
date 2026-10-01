@@ -1,0 +1,40 @@
+[GENERAL]
+MapName=SAUNA
+Briefing_LAMBERT=Echelon a réussi à retrouver la trace de Doug Shetland à Tokyo, il y a six heures de cela. Il est extrêmement mobile et utilise une connexion sans fil, et ce que nous avons réussi à décrypter indique qu'il se prépare à conclure son affaire avec ses contacts locaux. Apparemment, ses hommes et lui se dirigeraient vers un sauna japonnais du centre-ville.  Il nous faut apprendre qui Shetland doit rencontrer et tout faire pour l'empêcher de conclure son affaire.
+Briefing_GRIMSDOTTIR=L'attaque qui a coulé le Walsh en lançant à distance le missile de la batterie nord-coréenne a transité par Séoul, mais nous savons maintenant qu'elle est venue du Japon. Shetland a manifestement quelque chose à voir dans cette affaire, et ma connexion aux serveurs de Displace montre qu'il s'enrichit grâce à cette guerre.  Nous devons l'empêcher de nuire et empêcher l'escalade du confilt, en identifiant ses partenaires et en nous assurant que ces derniers n'ont pas les algorithmes de Zherkezhi en leur possession.
+Briefing_REDDING=Le sauna japonais dans lequel leur rencontre a lieu est un endroit semi-public, Fisher. Il y aura donc des civils, mais aussi un grand nombre de porte-flingues, très vraisemblablement. Les hommes de Shetland semblent avoir tous rejoint Tokyo, et ils convergent vers l'établissement depuis une heure.  Frances Coen a passé les derniers mois en Asie et elle a découvert des liens entre le propriétaire du sauna et une organization criminelle, les Nishins Rouges.  Ce sont peut-être eux les partenaires de Shetland.
+Briefing=A FAIRE
+
+[Computer]
+CompAccessCamPublicBathsA=Bains publics - caméra de surveillance A
+CompAccessCamPublicBathsB=Bains publics - caméra de surveillance B
+CompAccessCamPrivateBathsA=Bains privés - caméra de surveillance A
+CompAccessCamPrivateBathsB=Bains privés - caméra de surveillance B
+CompAccessCamPrivateRooms=Caméra de sécurité des salles privées
+CompDisableCameraSystem=Désactiver les caméras de surveillance
+CompISDFOrdersReport=Rapport des instructions de l'I-SDF
+
+[Email]
+EmailMercuryFishBody=Des chercheurs du Nouveau Brunswick, au Canada, ont révélé aujourd'hui les conclusions d'une étude de dix ans menée sur la contamination des poissons d'élevage par les métaux lourds. Celles-ci étaient "très inquiétantes", selon le Dr. Jules Bortlien, qui a toutefois modéré son propos en ajoutant qu' ''elles ne sont plus d'actualité de nos jours, compte tenu du fait que le thon est une espèce disparue."
+EmailMercuryFishDate=10/07/2007
+EmailMercuryFishFrom=WNM Actualités
+EmailMercuryFishSubject=Le mercure, un danger mortel pour le thon
+EmailMercuryFishTo=Abonné
+
+EmailMeetingReservationBody=Haru... J'espère que vous ne l'avez pas mal pris. Vous êtes les Nishins rouges et vous serez toujours les bienvenus chez nous, cela va de soi. Je veillerai à ce que nos clients spéciaux ne vous dérangent pas.
+EmailMeetingReservationDate=10/07/2007
+EmailMeetingReservationFrom=Yakuo
+EmailMeetingReservationSubject=Réservation
+EmailMeetingReservationTo=Haru
+
+EmailUSSWalshBody=Les dépouilles des 141 marins de l'USS Walsh ont été rapatriées aux Etats-Unis aujourd'hui, en préparation de leur enterrement.
+EmailUSSWalshDate=10/07/2007
+EmailUSSWalshFrom=WNM Actualités 
+EmailUSSWalshSubject=Le retour des dépouilles du Walsh
+EmailUSSWalshTo=Abonné
+
+EmailChaosTheoryBody=Monsieur, j'ai terminé l'installation des algorithmes requis et j'ai installé le logiciel nécessaire. Afin de ne pas compromettre la sécurité de l'opération, il suffit d'entrer les tâches et tâches secondaires, ainsi que l'allocation des ressources et l'heure et le lieu d'exécution. L'algorithme générera alors le plan de mission et contactera vos hommes à distance au moment venu.
+EmailChaosTheoryDate=10/07/2007
+EmailChaosTheoryFrom=Karol
+EmailChaosTheorySubject=Théorie du chaos
+EmailChaosTheoryTo=Shetland

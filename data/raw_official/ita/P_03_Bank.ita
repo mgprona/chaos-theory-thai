@@ -1,0 +1,621 @@
+[P_03_Bank_AfterSprinkler]
+
+[P_03_Bank_AlarmCheck]
+POPUPMESSAGE_0001=Livello di allarme ridotto - I nemici rientrano e tolgono l'elmetto
+POPUPMESSAGE_0002=Livello di allarme ridotto - I nemici rientrano e tolgono il giubbotto antiproiettile
+POPUPMESSAGE_0003=Livello di allarme ridotto - I nemici rientrano
+
+[P_03_Bank_Communications]
+Speech_0207L=Fisher, le armi di Lacerda sono state comprate da qualcuno che ha usato una banca off shore panamense come intermediario. Voglio dare un'occhiata ai loro registri... sfortunatamente le cose non sono così semplici. Questa operazione non deve sembrare un'azione dell'intelligence americana, quindi per coprirla dovrai scassinare il caveau della banca e portare via dei titoli al portatore... di proprietà del governo francese.
+Speech_0208L=Ieri notte sono entrata sui server della banca, ma non ho trovato molto. Tutte le postazioni hanno driver per dischi plug and play. Probabilmente li rimuovono fisicamente ogni notte. In questo pazzo mondo le intrusioni elettroniche sono temute più di quelle fisiche... Comunque sia, probabilmente i dischi si trovano nel caveau principale, il che significa che non sarà facile procurarseli.
+Speech_0209L=Prima le buone notizie. Sei già stato in questa banca. Facevi parte della squadra CIA che è entrata nell'89 alla ricerca dei fondi neri di Noriega. Gran parte delle informazioni che abbiamo sulla banca vengono proprio dalla tua squadra. La brutta notizia è che c'è un sacco di sorveglianza elettronica. Laser, sensori di movimento, porte chiuse a chiave, telecamere, tutto il possibile, e tutto nuovo rispetto all'89... Abbiamo anche contattato uno... ehm... specialista... per aiutarti ad aprire il caveau. Dovresti parlare con lui.
+Speech_0210L=Senti... non so chi sei nè perchè ti sto aiutando... sempre meglio che guardare il soffitto della cella, comunque. Mi hanno detto che devi lavorare su una Mason Wells 88. Beh, non è un giochetto per una persona sola... ma mi hanno detto che puoi fare il lavoro di cinque uomini. Per me va bene. Ho fatto fare al tuo amico Willy un piccolo deposito per te. Ti serviranno un paio di cose da una cassetta di sicurezza nel caveau più piccolo: le useremo per aprire quello principale.
+Speech_0211L=Continueremo il nostro percorso verso il Mar Giallo e ti rimanderemo in elicottero a Panama City. Non sono autorizzato ad agire nei confini panamensi, quindi fuori dall'ambasciata agirai sotto copertura. Tu e il tuo compagno sarete soli a Panama.
+Speech_0252L=Long Dan, ambasciatore cinese negli Stati Uniti, è stato richiamato oggi in Cina per un incontro di emergenza con le autorità governative. Il tema di discussione saranno le tensioni tra Corea e Giappone. Si prevedono nuovi sforzi da parte di Long Dan per portare i delegati di Corea, USA e Giappone al tavolo delle trattative.
+Speech_0253L=E ora lo sport... il lanciatore Akira Watanabe è arrivato ieri a New York per il primo allenamento con la sua nuova squadra. Dopo una giornata di valutazioni, l'allenatore Mathieu Ferland ha affermato che Watanabe è senza dubbio il miglior lanciatore di sempre...
+POPUPMESSAGE_0265=Allarme di primo livello
+Speech_-001L=(null)
+Speech_0224L=Fisher... attento agli allarmi... dopo tutto si tratta di un furto in banca.
+POPUPMESSAGE_0266=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+Speech_-001L=(null)
+Speech_0225L=Dico sul serio, Sam... troppi allarmi e ti troverai addosso l'intero esercito panamense.
+POPUPMESSAGE_0267=Allarme di terzo livello - I nemici indossano l'elmetto
+Speech_-001L=(null)
+Speech_0226L=Fisher... non sto scherzando. Un altro allarme e sarai in grossi guai.
+Speech_-001L=(null)
+Speech_0227L=Dannazione, Sam. È un allarme generale... dovrai uscirne combattendo. Completa gli obiettivi primari e vieni fuori di lì!
+Speech_0272L=Sam, ho aggiunto delle informazioni sulla banca al tuo OPSAT.
+Speech_0027L=Fisher, ho appena sincronizzato il tuo OPSAT con le informazioni sulla banca che tu e la tua squadra avete raccolto nell'89.
+Speech_0028L=Ah, quanti ricordi.
+Speech_0029L=Sì... a giudicare dal tuo rapporto... sembra sia stata una bella vacanza...
+Speech_0030L=Lo è stata. Passai quasi tutto il resto dell'anno dormendo in un fosso sulla strada tra Baghdad e il Kuwait.
+Speech_0031L=Oh. Beh... se ti può consolare, fu un brutto anno anche per me.
+Speech_0032L=Cosa? Ma tu non lavoravi per il governo durante la Guerra del Golfo...
+Speech_0033L=No. Ma andavo al liceo.
+Speech_0034L=Oh. Già. Bah.
+Speech_0228L=Sam, ho aggiunto delle informazioni sulla banca al tuo OPSAT.
+Speech_0273L=Sam, devi disattivare una scatola di giunzione sul tetto per spegnere le chiusure magnetiche sulle finestre in alto.
+Speech_0111L=Fisher, ho una copia dell'ordine dei lavori inviato dalla banca alla compagnia di assicurazioni. Dice che le finestre a volta sopra la lobby sono chiuse magneticamente. Cerca un interruttore o una scatola di giunzione per disattivare la chiusura.
+Speech_0114L=Giusto.
+Speech_-001L=(null)
+Speech_0229L=Sam, devi disattivare una scatola di giunzione sul tetto per spegnere le chiusure magnetiche sulle finestre in alto.
+Speech_0274L=Hanno appena acceso dei laser nella lobby, Sam.
+Speech_0115L=Bel lavoro, Sam. Le chiusure magnetiche sulle finestre sono sistemate... ehi... aspetta un minuto... Un picco di corrente. Nella lobby... sembra che sia stata attivata una griglia laser...
+Note_0254L=Ci sono dei sensori laser attivi nella lobby e nei corridoi al piano di sopra.
+Speech_0118L=Laser? Ma i laser non fanno tanto...
+Speech_0119L=Anni novanta... ?
+Speech_0120L=Stavo per dire settanta... potresti smetterla di farmi sentire vecchio?
+Speech_0121L=Ho una brutta notizia, Sam... tu sei vecchio.
+Speech_-001L=(null)
+Speech_0230L=Hanno appena acceso dei laser nella lobby, Sam.
+Note_0259L=Ci sono dei sensori laser attivi nella lobby e nei corridoi al piano di sopra.
+Speech_0275L=Ho il numero di serie. Ora devi bloccare le chiusure ad autorizzazione negli uffici della sicurezza, del presidente e del tesoriere.
+Speech_0050L=Fisher, questo è il nostro consigliere. Ti guiderà nei passi necessari a entrare nel caveau... abbi pazienza con lui...
+Speech_0053L=Oh... è uno di quelli...
+Speech_0054L=(statica) Bene! Pronto? (rumore) È acceso questo affare?
+Speech_0057L=Lo è. Sono qui. Ti hanno spiegato?
+Speech_0060L=Più o meno. Senti... questa è una Mason Wells 88. Sono pezzi unici. Se vuoi darle un'occhiata sotto la gonna, la prima cosa da fare è autorizzare l'apertura.
+Speech_0256L=Come faccio?
+Speech_0257L=Il presidente e il tesoriere della banca possiedono una chiusura autorizzata ciascuno nei loro uffici. Un'altra la troverai nell'ufficio della sicurezza. Dovrai disattivarle tutte e tre.
+Speech_0258L=Va bene.
+Speech_0061L=Dove lo trovo?
+Speech_0062L=Ci dev'essere un sistema di ventilazione che passa sopra il caveau e sotto al pavimento della lobby centrale. Dovresti riuscire a prendere il codice da lì.
+Speech_0065L=Ricevuto.
+Speech_0237L=Bene... Dobbiamo dare un'occhiata al numero di serie del caveau. È inciso in un codice a barre sulla parte esterna. Dovresti riuscire a leggerlo dal sistema di ventilazione sotto il pavimento della lobby.
+Speech_-001L=(null)
+Speech_0246L=Non farti prendere dalla fretta, Fisher. Devi recuperare il numero di serie del caveau prima di entrare.
+Speech_0247L=OK... torno indietro.
+Speech_0248L=Sam, procurati il numero di serie del caveau prima di procedere.
+Speech_-001L=(null)
+Speech_0066L=Eccomi qua... col tuo numero di serie. 091772. Significa che è una quattro passaggi. La prima cosa da fare è autorizzare l'apertura.
+Speech_0071L=Come faccio?
+Speech_0072L=Il presidente e il tesoriere della banca possiedono una chiusura autorizzata ciascuno nei loro uffici. Un'altra la troverai nell'ufficio della sicurezza. Dovrai disattivarle tutte e tre.
+Speech_0073L=Va bene.
+Speech_-001L=(null)
+Speech_0238L=Ho il numero di serie. Ora devi bloccare le chiusure ad autorizzazione negli uffici della sicurezza, del presidente e del tesoriere.
+Note_0260L=Le guardie che pattugliano le griglie laser hanno delle torce che disattivano le griglie in determinati punti.
+Speech_0276L=Stai vicino alla guardia di pattuglia ed eviterai i laser.
+Speech_0122L=Sembra ci siano altri laser più avanti, Sam. Sento i fotoni che cantano felici da tutte le parti.
+Speech_0123L=C'è una guardia... sembra che lui possa andare in giro senza problemi.
+Speech_0124L=Forse ha un segnalatore... avvicinati, così resterai nella sua ombra elettronica.
+Speech_-001L=(null)
+Speech_0231L=Stai vicino alla guardia di pattuglia ed eviterai i laser.
+Speech_-001L=(null)
+Speech_0074L=Questa era l'autorizzazione del presidente. Ne mancano due.
+Speech_-001L=(null)
+Speech_0075L=Questa era l'autorizzazione del tesoriere. Ne mancano due.
+Speech_-001L=(null)
+Speech_0076L=Questa era l'autorizzazione della sicurezza. Ne mancano due.
+Speech_-001L=(null)
+Speech_0077L=Due sono andate. Ora serve l'autorizzazione dell'ufficio del presidente.
+Speech_-001L=(null)
+Speech_0078L=Due sono andate. Ora serve l'autorizzazione dell'ufficio del tesoriere.
+Speech_-001L=(null)
+Speech_0079L=Due sono andate. Ora serve l'autorizzazione dell'ufficio della sicurezza.
+Speech_0277L=Autorizzazioni sistemate. Vai verso il caveau. Troverai un po' di attrezzatura in una cassetta di sicurezza.
+Speech_0080L=Bene... autorizzazioni a posto. La gabbia esterna del caveau dovrebbe aprirsi in questo istante.
+Speech_0081L=Ottimo.
+Speech_0083L=All'interno della gabbia troverai un piccolo caveau pieno di cassette di sicurezza. Il tuo amico ti ha lasciato un kit dentro una di quelle.
+Speech_0084L=Bene... ti avverto quando arrivo lì.
+Speech_-001L=(null)
+Speech_0239L=Autorizzazioni sistemate. Vai verso il caveau. Troverai un po' di attrezzatura in una cassetta di sicurezza.
+Speech_0278L=L'equipaggiamento che ti serve è nella cassetta di sicurezza 1024.
+Speech_0085L=Sam, qui Will...
+Speech_0086L=Turtle diceva che l'equipaggiamento era in una delle cassette.
+Speech_0087L=All'altezza del torace, lato destro. Numero 1024.
+Speech_-001L=(null)
+Speech_0234L=L'equipaggiamento che ti serve è nella cassetta di sicurezza 1024.
+Speech_0279L=Prendi il nuovo kit e portalo nel caveau principale.
+Speech_0088L=Fai molta attenzione alle attrezzature.
+Speech_0089L=Cos'è tutta questa roba?
+Speech_0090L=Le cariche sono per il caveau e l'altro è un grimaldello telemetrico.
+Speech_0091L=Un grimaldello telemetrico?
+Speech_0092L=Vai verso il caveau principale... ti guideremo noi.
+Speech_-001L=(null)
+Speech_0240L=Prendi il nuovo kit e portalo nel caveau principale.
+Speech_0280L=Per aprire due serrature in contemporanea devi usare il grimaldello telemetrico. Usa il maschio su una serratura e la femmina sull'altra. Lavora sulla femmina e i tuoi movimenti verranno replicati sul maschio.
+Speech_0095L=Bene, ora devi far scattare entrambi i lucchetti nello stesso momento.
+Speech_0096L=Ecco a cosa serve il grimaldello telemetrico.
+Speech_0097L=Esatto, legge i tuoi movimenti in una serratura e li imita nell'altra in tempo reale.
+Speech_0098L=Voi ragazzi usate dei giocattoli interessanti.
+Speech_-001L=(null)
+Speech_0241L=Per aprire due serrature in contemporanea devi usare il grimaldello telemetrico. Usa il maschio su una serratura e la femmina sull'altra. Lavora sulla femmina e i tuoi movimenti verranno replicati sul maschio.
+Speech_0281L=Bene. Adesso, quando senti di essere nel punto giusto per ogni perno, devi aspettare un secondo per la sincronia del grimaldello. Quando senti un beep puoi far scattare il perno e passare a quello successivo. Non cercare di far scattare un perno prima della sincronizzazione, o dovrai ricominciare.
+Speech_0249L=Bene. Adesso, quando senti di essere nel punto giusto per ogni perno, devi aspettare un secondo per la sincronia del grimaldello. Quando senti un beep puoi far scattare il perno e passare a quello successivo. Non cercare di far scattare un perno prima della sincronizzazione, o dovrai ricominciare.
+Speech_0250L=Giusto.
+Speech_-001L=(null)
+Speech_0251L=Bene. Adesso, quando senti di essere nel punto giusto per ogni perno, devi aspettare un secondo per la sincronia del grimaldello. Quando senti un beep puoi far scattare il perno e passare a quello successivo. Non cercare di far scattare un perno prima della sincronizzazione, o dovrai ricominciare.
+Speech_0282L=Bene, ora piazza le cariche sui perni principali e falli saltare.
+Speech_0103L=Bene, ora piazza le cariche sui perni principali. Quando sono tutte a posto... Beh, credo che tu sappia cosa fare.
+Speech_-001L=(null)
+Speech_0242L=Bene, ora piazza le cariche sui perni principali e falli saltare.
+Speech_0283L=Ottimo lavoro. Sam, entra e trova quei dischi.
+Speech_0106L=Apriti... sesamo...
+Speech_0107L=Lambert... siamo dentro.
+Speech_0108L=Ottimo lavoro. Sam, entra e trova quei dischi.
+Speech_-001L=(null)
+Speech_0243L=Ottimo lavoro. Sam, entra e trova quei dischi.
+Speech_0284L=Un messaggio su otto caricato, Fisher. Ne mancano sette.
+Speech_0002L=Che sollievo. Sembra che il nostro programma di installazione sia compatibile con il loro sistema operativo.
+Speech_0003L=Tutto qui? Plug and play?
+Speech_0004L=Più o meno. Nessun problema. Ora carica tutte e otto le finte mail.
+Speech_0005L=Facciamo sembrare il furto una questione interna.
+Speech_0082L=Esattamente.
+Speech_-001L=(null)
+Speech_0212L=Un messaggio su otto caricato, Fisher. Ne mancano sette.
+Speech_-001L=(null)
+Speech_0006L=Siamo a metà dei messaggi falsi, Sam. Ancora quattro.
+Speech_0007L=Grazie... ho sempre avuto problemi a contare dopo il tre...
+Speech_0008L=Risparmia il sarcasmo, Sam, grazie...
+Speech_-001L=(null)
+Speech_0009L=Bel lavoro, Fisher, ancora una mail e siamo a posto.
+Speech_0010L=Faccio del mio meglio.
+Speech_0285L=Ottimo lavoro, Sam, hai caricato tutto.
+Speech_0011L=Bel lavoro, Fisher. Ora le indagini sul furto punteranno dritto verso gli stessi investigatori...
+Speech_0012L=E così il governo panamense manderà in prigione qualche banchiere innocente?
+Speech_0013L=Sì, innocente. Se escludiamo la fornitura di armi ai rivoluzionari... 
+Speech_0014L=Ah, giusto. Dimenticavo... banchieri: cattivi.
+Speech_-001L=(null)
+Speech_0213L=Ottimo lavoro, Sam, hai caricato tutto.
+Speech_0286L=Dannazione, Fisher. Hai distrutto il computer su cui dovevamo caricare un messaggio. Considera l'obiettivo secondario annullato.
+Speech_0017L=Dannazione... quel computer ci serviva per mandare i messaggi falsi.
+Speech_0018L=Ops... immagino che questo chiuda la questione dell'obiettivo secondario.
+Speech_0019L=Purtroppo sì.
+Speech_-001L=(null)
+Speech_0214L=Dannazione, Fisher. Hai distrutto il computer su cui dovevamo caricare un messaggio. Considera l'obiettivo secondario annullato.
+Speech_0287L=Bel lavoro Fisher, adesso la missione sembrerà un semplice furto.
+Speech_0023L=Bel lavoro, Fisher... ora la missione sembrerà un furto... non sapranno mai perché eravamo qui.
+Speech_0024L=Lambert... ora che ho cinquanta milioni di dollari in mano... credo che dovremmo parlare ancora di quell'aumento.
+Speech_0025L=Hm... venticinque cent l'ora e non un penny di più.
+Speech_0026L=Accetto.
+Speech_-001L=(null)
+Speech_0215L=Bel lavoro Fisher, adesso la missione sembrerà un semplice furto.
+Speech_0288L=Sam, i messaggi relativi a Lacerda sono stati tutti cancellati, ma alcuni frammenti rivelano che provengono da un tizio chiamato Dvorak. Sono tutti crittografati con una chiave a 512 bit, una cosa estremamente sofisticata e segreta.
+Speech_0036L=Ho trovato i frammenti di un messaggio da un tizio chiamato 'Dvorak'. Echelon non ha niente su di lui... Aspetta... che strano.
+Speech_0043L=Cosa?
+Speech_0044L=I messaggi cancellati. Hanno una cifratura a 512 bit. Non ne ho più viste dai tempi di Phillip Masse.
+Speech_0045L=Ho ucciso Masse fuori da Severomorsk.
+Speech_0046L=Ricordo. Ed è confermato... quindi si tratta di qualcuno che accede a informazioni decisamente segrete.
+Speech_0047L=Chi?
+Speech_0048L=Non ne sono sicura... ti farò sapere.
+Speech_-001L=(null)
+Speech_0232L=Sam, i messaggi relativi a Lacerda sono stati tutti cancellati, ma alcuni frammenti rivelano che provengono da un tizio chiamato Dvorak. Sono tutti crittografati con una chiave a 512 bit, una cosa estremamente sofisticata e segreta.
+Speech_0167L=Zherkezhi?
+Speech_0168L=È una possibilità che mi spaventa.
+Speech_-001L=(null)
+Speech_0233L=Sam, i messaggi relativi a Lacerda sono stati tutti cancellati, ma alcuni frammenti rivelano che provengono da un tizio chiamato Dvorak. Sono tutti crittografati con una chiave a 512 bit, una cosa a cui avevano accesso Morgenholt e Zherkezhi...
+Speech_0289L=Sam, devi completare gli obiettivi primari prima dell'estrazione.
+Speech_0205L=Sam, devi completare gli obiettivi primari prima dell'estrazione.
+Speech_0206L=Ricevuto.
+Speech_-001L=(null)
+Speech_0235L=Sam, devi completare gli obiettivi primari prima dell'estrazione.
+POPUPMESSAGE_0268=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Speech_0290L=Bene, Fisher... questa missione è un disastro. Completa l'obiettivo primario e vai al punto di estrazione più vicino.
+Speech_0169L=Bene, Fisher... questa missione è un disastro. Completa l'obiettivo primario e vai al punto di estrazione più vicino.
+Speech_0170L=Sì, signore.
+Speech_-001L=(null)
+Speech_0221L=Bene, Fisher... questa missione è un disastro. Completa l'obiettivo primario e vai al punto di estrazione più vicino.
+POPUPMESSAGE_0269=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Speech_0291L=Sembra che abbiano acceso il riscaldamento, Fisher. Gli obiettivi sono completi... vai al punto di estrazione più vicino.
+Speech_0171L=Sembra che abbiano acceso il riscaldamento, Fisher. Gli obiettivi sono completi... vai al punto di estrazione più vicino.
+Speech_0172L=Sì, signore.
+Speech_-001L=(null)
+Speech_0222L=Sembra che abbiano acceso il riscaldamento, Fisher. Gli obiettivi sono completi... vai al punto di estrazione più vicino.
+Speech_0292L=Bene, Sam, possiamo procedere all'estrazione dal punto di inserimento.
+Speech_0176L=Bene, Sam, possiamo procedere all'estrazione dal punto di inserimento.
+Speech_0177L=Il muro del cortile anteriore?
+Speech_0178L=Esatto. Redding ti aspetta lì vicino.
+Speech_0179L=Sto arrivando.
+Speech_-001L=(null)
+Speech_0219L=Bene, Sam, possiamo procedere all'estrazione dal punto di inserimento.
+Speech_0293L=LAMBERT - Alright Fisher, that's all we need. Time to make yourself scarce. Go to the closest extraction point.
+Speech_0180L=Bene, Fisher, non ci serve altro. È ora di sparire. Vai al punto di estrazione più vicino.
+Speech_0181L=Sto arrivando.
+Speech_-001L=(null)
+Speech_0220L=Bene, Fisher, non ci serve altro. È ora di sparire. Vai al punto di estrazione più vicino.
+Speech_0294L=LAMBERT - The archives you looked at detailed account transactions from a man named Zherkezhi. He's a big time computational theorist... I hope he's not involved in this mess.
+Speech_0150L=Oh no... Zherkezhi... proprio quello che speravo di non vedere...
+Speech_0153L=Zherkezhi... è una specie di carne in scatola?
+Speech_0154L=Probabilmente è il più grande esperto di teoria computazionale al mondo... ha lavorato con Morgenholt sul Progetto Watson... dicono che sia partito per la tangente...
+Speech_0155L=Tutto questo mi puzza di uomo cattivo...
+Speech_-001L=(null)
+Speech_0216L=Gli archivi che hai consultato contengono i dettagli delle transazioni con un uomo chiamato Zherkezhi. È un genio della teoria computazionale... spero non sia coinvolto in questa storia.
+Speech_-001L=(null)
+Speech_0158L=Oh no... Zherkezhi... proprio quello che speravo di non vedere...
+Speech_0159L=Zherkezhi? Grimsdottir lo ha nominato in relazione a un certo Dvorak...
+Speech_0162L=Beh, chiunque sia questo Dvorak, spero non abbia preso Zherkezhi.
+Speech_0163L=Perché... chi è?
+Speech_0164L=Probabilmente è il più grande esperto di teoria computazionale al mondo... ha lavorato con Morgenholt sul Progetto Watson... dicono che sia partito per la tangente...
+Speech_0165L=Tutto questo mi puzza di uomo cattivo...
+Speech_0217L=Gli archivi sembrano confermare la teoria di Grimsdottir... Zherkezhi è collegato in qualche modo a questo Dvorak...
+Speech_0295L=LAMBERT - Well that's about as messy as it gets. Complete your objectives and get out of there Fisher.
+Speech_0182L=Oops.
+Speech_0183L=Diamine! Cosa succede?
+Speech_0187L=Laser all'interno del caveau!
+Speech_0189L=Cosa?! E come facevo a saperlo?
+Speech_0190L=Poche chiacchiere, gente. Fisher... hai già avuto a che fare con le difese armate... completa gli obiettivi.
+Speech_0191L=Buona idea.
+Speech_0296L=GRIMSDOTTIR - Armed response inbound. Complete your objectives and get outta there Sam.
+Speech_0261L=Oops.
+Speech_0262L=Diamine! Cosa succede?
+Speech_0192L=Laser all'interno del caveau! La banca è in allarme. Esercito in arrivo!
+POPUPMESSAGE_0270=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Speech_0194L=Alla larga... io mi tiro fuori... (rumore)
+Speech_0195L=Poche chiacchiere, gente. Non possiamo farci niente, adesso. Fisher, prendi quei dati e fuori di lì.
+Speech_0196L=Buona idea.
+Speech_0297L=LAMBERT - Well that's about as messy as it gets. Complete your objectives and get out of there Fisher.
+Speech_0197L=Fisher... non posso credere che sei arrivato fin qui per farti beccare da una telecamera.
+Speech_0198L=Non posso farci molto, ora.
+Speech_0199L=Bene, hai già avuto a che fare con le difese armate... completa gli obiettivi ed esci di lì.
+Speech_0200L=Buona idea.
+Speech_0298L=GRIMSDOTTIR - Armed response inbound. Complete your objectives and get outta there Sam.
+Speech_0263L=Fisher... non posso credere che sei arrivato fin qui per farti beccare da una telecamera.
+Speech_0264L=Non posso farci molto, ora.
+Speech_0201L=Fisher, la banca è in allarme. C'è un esercito in arrivo!
+POPUPMESSAGE_0271=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Speech_0203L=Poche chiacchiere, gente. Fisher, prendi i dati e scappa.
+Speech_0204L=Buona idea.
+Speech_-001L=(null)
+Speech_0244L=Forze armate in arrivo, Sam. completa gli obiettivi e vattene.
+Speech_-001L=(null)
+Speech_0245L=Beh, peggio non poteva andare. Completa gli obiettivi e levati di lì, Fisher.
+Speech_-001L=(null)
+Speech_0173L=Bene Fisher, cerca un punto debole per far saltare tutto e uscire da lì.
+Speech_0174L=Mi ricordo questo posto... alcune delle sezioni in mattoni chiudono i tunnel che Noriega usava per contrabbandare i soldi della droga fuori dal paese.
+Speech_0175L=Probabilmente i tunnel sono ancora lì... sai cosa fare...
+Speech_0236L=Fisher, cerca un punto debole per far saltare tutto e uscire da lì.
+Speech_0299L=LAMBERT - Good job Fisher, we just ID'd Lacerda's Panamanian contact.
+Speech_0144L=Sembra che il contatto panamense di Lacerda sia questo signor Segundo Ruiz de Medeiros. Vice presidente della società per la Gestione del Canale di Panama.
+Speech_0145L=È quella la prossima tappa?
+Speech_0146L=No... i traffici minori di Lacerda sono un discorso completamente diverso... manderò qualcun altro su quella pista...
+Speech_0147L=Qualcun altro?
+Speech_0148L=Mi sembra di avvertire un'ombra di gelosia, Sam.
+Speech_0149L=Mi passerà...
+Speech_-001L=(null)
+Speech_0218L=Bel lavoro, Fisher, abbiamo appena identificato il contatto panamense di Lacerda.
+Speech_-001L=(null)
+Speech_0223L=Buona idea, Fisher, ora anche se finisci sulle telecamere non riusciranno a identificarti.
+
+[P_03_Bank_ConvBooth]
+Speech_-001L=(null)
+Speech_0001L=Ti dico che era un ratto.
+Speech_0004L=Neanche per sogno! Era troppo grosso. Forse era una scimmia... o ... o un orso...
+Speech_0005L=Aah! Un orso! Sei pazzo... so che la presa d'aria è grande... ma gli orsi sono grossi... e comunque un orso avrebbe distrutto l'ufficio del tesoriere.
+Speech_0006L=... Beh... magari era un orsetto... sai... uno di quelli carini...
+Speech_0007L=A Panama gli orsi non esistono...
+Speech_0008L=Magari è fuggito dallo zoo...
+Speech_0009L=Sei un imbecille...
+Speech_0010L=Era troppo grosso per essere un ratto...
+
+[P_03_Bank_ConvGarden]
+Speech_-001L=(null)
+Speech_0001L=Ehi, Emilio! Hai visto le nuove luci dei rilevatori di movimento?
+Note_0012L=Ci sono dei sensori di movimento collegati alle luci in giardino.
+Speech_0004L=No... cosa fanno?!
+Speech_0005L=La luce si accende quando qualcosa si muove!
+Speech_0006L=Wow... ma è... incredibile!
+Speech_0007L=Magico, direi!
+Speech_0008L=Credo che me ne prenderò una per il garage... pensaci... porti dentro la macchina la sera e le luci del vialetto si accendono da sole!
+Speech_0009L=Ah! Sei pazzo! Questa è alta tecnologia, Emilio... costerà migliaia di dollari!
+Speech_0010L=Hm... sì... forse hai ragione... non potrei mai permettermelo!
+
+[P_03_Bank_GardenSensors]
+
+[P_03_Bank_InterroBalcony]
+Speech_-001L=(null)
+Speech_0001L='sera.
+Speech_0002L=Ah... ma come hai... ahhh...
+Speech_0003L=Le domande le faccio io... che cosa fai qui?
+Speech_0004L=Ho sentito l'allarme... sono sceso dal tetto...
+Speech_0005L=Come hai fatto?
+Speech_0006L=Gli altri che stanno sul tetto... mi hanno mandato giù, dovevo sorvegliare le porte sul retro...
+Speech_0007L=Quanti sono quelli sul tetto?
+Speech_0008L=Solo due...
+Speech_0009L=Non c'è modo di tornare su?
+Speech_0010L=No. Avevano bisogno della fune per muoversi sull'altro lato...
+Speech_0012L=Ti prometto che non dirò niente a nessuno...
+Speech_0013L=Ti prego... finisco il servizio tra sei settimane...
+
+[P_03_Bank_InterroCamera]
+Speech_-001L=(null)
+Speech_0007L=Shhh.
+Speech_0008L=Oddio... no...
+Speech_0009L=Ci sono altri modi per entrare o uscire da questa stanza che hai voglia di rivelarmi?
+Speech_0010L=Ehm... um... gli uccelli...
+Speech_0011L=Uccelli? Cosa significa "uccelli"?
+Speech_0012L=I condotti di ventilazione sopra il ventilatore... credo che conducano fuori... sento il rumore degli uccelli...
+Note_0019L=C'è un condotto che collega la stanza della sicurezza all'esterno.
+Speech_0013L=Queste sì che sono informazioni utili...
+Speech_0014L=Significa che posso vivere?
+Speech_0015L=Fammici riflettere un po'...
+Speech_0016L=Ti ho parlato dei condotti... ti prego, non farmi del male.
+Speech_0018L=Non so nient'altro.
+
+[P_03_Bank_InterroGarden]
+Speech_-001L=(null)
+Speech_0005L=Parlami dei vostri sistemi di sicurezza...
+Speech_0006L=Ah... ehm... va bene... ehm... abbiamo dei sensori di movimento... Appena installati.
+Speech_0007L=Sensori di movimento?
+Speech_0010L=Sì... accendono le luci...
+Note_0017L=Ci sono dei sensori di movimento collegati alle luci in giardino.
+Speech_0011L=Oh... niente allarmi? Solo luci... come quelle del garage?
+Speech_0012L=Non del mio... stai scherzando... costa, quella roba... alta tecnologia...
+Speech_0013L=Sì, certo, come no.
+Speech_0014L=Te lo giuro, i sensori di movimento non sono collegati all'allarme.
+Speech_0016L=Non uccidermi, ti supplico.
+
+[P_03_Bank_InterroKeypad]
+Speech_-001L=(null)
+Speech_0001L=Ciao Paco...
+Speech_0002L=Oh, no, un ladro! Ti prego... non picchiare Paco...
+Speech_0005L=Dimmi il codice...
+Speech_0008L=Questa porta è rotta... e Paco non sa ripararla... devo chiamare la manutenzione e farli venire...
+Speech_0009L=C'è un'altra entrata?
+Speech_0010L=Forse se sei un topo... heh heh... vuoi che Paco chiami la manutenzione per te?
+Speech_0011L=No... Lascia perdere... troverò un'altra strada.
+Speech_0013L=Se vuoi che chiami quei tizi per sistemarla basta dirlo.
+Speech_0014L=Questa roba si rompe in continuazione.
+Speech_-001L=(null)
+Speech_0015L=Ciao Paco...
+Speech_0016L=Ah.. chi sei? Cosa vuoi?
+Speech_0017L=Volevo ringraziarti per aver riparato i comandi della porta.
+Speech_0018L=Ehi, ehi, questo è Paco... sbrigo il lavoro sporco.
+Speech_0019L=Ora vorresti dirmi il codice della porta?
+Speech_0020L=Certo, perché no... è 8645, vuoi che lo scriva?
+Note_0025L=Il codice della porta per l'ufficio del tesoriere è 8645.
+Speech_0021L=No, va bene così.
+Speech_0022L=8645, te l'ho già detto...
+Speech_0023L=Paco non dà i suoi numeri al primo che passa...
+
+[P_03_Bank_InterroLobby]
+Speech_-001L=(null)
+Speech_0015L=Non ti ho svegliato, vero?
+Speech_0016L=Ahhh!
+Speech_0017L=Shhh... sono qui per un furto...
+Speech_0018L=I cassetti degli sportellisti... ci sono le eccedenze serali... un migliaio di balboa ognuno... 
+Speech_0019L=Non mi interessano gli spiccioli...
+Speech_0020L=Non riuscirai mai ad aprire la cassaforte... è inattaccabile...
+Speech_0021L=Allora non ti dispiace se provo...
+Speech_0022L=N... no... certo... sei tu il capo... tutto quello che vuoi...
+Speech_0023L=Come puoi aiutarmi?
+Speech_0024L=Qui c'è uno scanner retinico... posso sbloccarlo...
+Speech_0025L=Molto gentile da parte tua...
+Speech_0026L=Buona fortuna con la cassaforte...
+Speech_0027L=L'oro è pesante... non riuscirai a prenderne molto.
+
+[P_03_Bank_InterroMainDesk]
+Speech_-001L=(null)
+Speech_0005L=Quanta gente c'è di servizio, questa notte?
+Speech_0006L=Madre de Dios... 
+Speech_0007L=Rispondi alla domanda.
+Speech_0008L=Quanti? Me compreso, vuoi dire?
+Speech_0009L=A meno che tu non voglia essere eliminato dal conto...
+Speech_0010L=No... no, no... va bene così... credo... credo che siamo in venti...
+Note_0019L=Ci sono circa venti guardie in servizio nella banca.
+Speech_0011L=Credi?
+Speech_0012L=Contando le guardie all'esterno e sul tetto, oltre ai tecnici e alle guardie che possiamo chiamare in caso di emergenza...
+Speech_0013L=E questo contando anche te o no?
+Speech_0014L=Sì... sì... Anche me, sono sicuro...
+Speech_0016L=Non c'è nessun altro, sono sicuro...
+Speech_0017L=Paolo è in malattia, di solito siamo in ventuno.
+
+[P_03_Bank_InterroOutside]
+Speech_-001L=(null)
+Speech_0001L=Senti, non so chi sei, ma questa è proprietà privata...
+Speech_0004L=Di cosa stai parlando? Lavoro qui da due anni...
+Speech_0005L=Dimostralo.
+Speech_0006L=Dimostrarlo? Ehm... va bene... vediamo... il codice della porta sul retro... è... ehi... aspetta un minuto... cerchi di fregarmi! Sei tu che non dovresti essere qui...
+Speech_0009L=E va bene, mi hai scoperto... mi arrendo... oh... aspetta... facciamo che mi dici il codice lo stesso e io non sono costretto a farti del male...
+Speech_0010L=Oh. Beh, se la metti così... il codice è 3901.
+Note_0015L=Il codice per la porta posteriore della banca è 3901.
+Speech_0011L=Grazie.
+Speech_0012L=Mi hai quasi fregato, ma sono troppo furbo.
+Speech_0013L=Non ho paura di te... uurghhh... va bene... ho paura! Tantissima paura!
+
+[P_03_Bank_InterroReception]
+Speech_-001L=(null)
+Speech_0001L=Bello quel trucchetto coi laser...
+Speech_0002L=Que? Cos... ehm... le griglie... rilevano un segnale che viene da un trasmettitore cucito nella mia uniforme...
+Speech_0005L=Dammi il trasmettitore...
+Speech_0006L=Non so dov'è... lo giuro... è cucito da qualche parte nell'uniforme...
+Speech_0007L=Hmm... adesso hai un problema, perché devo comunque superare i laser... e visto che non voglio spogliarti... dovrò prendere il tuo corpo...
+Speech_0010L=Il... mio corpo? Vuoi... vuoi dire svenuto, spero... ?
+Speech_0011L=Per me va bene comunque.
+Speech_0012L=Ti prego... non c'è bisogno di uccidermi...
+Speech_0013L=Avresti fatto prima a seguirmi... ora ti toccherà trascinarmi...
+
+[P_03_Bank_InterroSecurity]
+Speech_-001L=(null)
+Speech_0001L=Brutte notizie...
+Speech_0002L=Ah! Hahaha...ok, Tajo...molto divertente...ehi...ahia!
+Speech_0003L=Non sono Tajo.
+Speech_0004L=Io... che... oh... oh, no...
+Speech_0005L=Stai calmo. Dimmi qualcosa di interessante.
+Speech_0018L=Le telecamere di sicurezza. Il sistema è centralizzato... c'è una sala di controllo centrale... da lì puoi accedere a tutte le telecamere...
+Speech_0019L=Dove?
+Speech_0020L=Primo piano.
+Note_0026L=Il sistema di telecamere è accessibile dalla stanza della sicurezza al secondo piano.
+Speech_0021L=Non mi viene in mente nient'altro.
+Speech_0022L=Ti ho detto della stanza di controllo.
+
+[P_03_Bank_LobbySecurity]
+Note_0001L=Il codice per la porta della stanza principale della sicurezza è 2306.
+Note_0004L=Il codice per entrambe le cabine di sicurezza al primo piano è 3624.
+Note_0003L=C'è un kit medico nel bagno del primo piano.
+Note_0005L=C'è un kit medico nel cucinotto del secondo piano.
+
+[P_03_Bank_Objectives]
+Objective_0033=Recupera l'equipaggiamento aggiuntivo per la decodifica dal caveau piccolo
+Objective_0034=Redding oggi ha lasciato l'equipaggiamento aggiuntivo necessario per la decodifica dei codici del caveau principale in una cassetta di sicurezza. Recuperala dal caveau piccolo.
+Objective_0035=Usa il grimaldello telemetrico per aprire la doppia serratura.
+Objective_0036=Devi usare il grimaldello telemetrico per aprire la doppia serratura del caveau principale.
+Objective_0037=Posiziona la carica sulla porta del caveau principale.
+Objective_0038=La carica deve essere posizionata sulla ruota del caveau principale per disattiare la serratura magnetica a tempo e permettere l'apertura del caveau.
+Objective_0039=Entra nella Banca.
+Objective_0040=Entra nella Banca attraverso i tetti o per l'ingresso principale.
+POPUPMESSAGE_0047=Entra nella banca.
+Objective_0001=Scopri per conto di chi ha acquistato le armi la Banca MCAS.
+Objective_0018=La Banca MCAS ha sponsorizzato l'accordo per le armi di Lacerda. Scopri chi li ha messi sotto contratto. Questa informazione è custodita nel server separato nel caveau principale.
+Objective_0002=Ruba 50 milioni di dollari in buoni del governo francese al portatore.
+Objective_0019=Per far sembrare la penetrazione nel caveau un semplice furto, ruba i 50 milioni di dollari in buoni del governo francese al portatore custoditi nell'armadietto a prova di incendio nel caveau.
+Objective_0010=Trova il nome del contatto panamense di Lacerda.
+Objective_0021=Oltre a chi consegna e riceve le armi, qualcuno deve aver aiutato Lacerda a superare i nuovi protocolli di ispezione al Canale di Panama. Scopri chi è.
+POPUPMESSAGE_0049=Ruba 50 milioni di dollari in buoni governativi francesi al portatore.
+Objective_0052=Vai al punto di estrazione primario.
+Objective_0053=Esci passando sopra al muro esterno dalla facciata della banca da dove sei entrato.
+Objective_0041=Vai al punto di estrazione primario.
+Objective_0042=Esci passando sopra al muro esterno dalla facciata della banca da dove sei entrato.
+POPUPMESSAGE_0046=Trova il nome del contatto panamense di Lacerda.
+POPUPMESSAGE_0050=Autorizza l'accesso al caveau dai pannelli dei tre responsabili.
+POPUPMESSAGE_0051=Rientra al punto di estrazione primario.
+Objective_0043=Vai al punto di estrazione primario.
+Objective_0044=Esci passando sopra al muro esterno dalla facciata della banca da dove sei entrato.
+POPUPMESSAGE_0045=Rientra al punto di estrazione primario.
+Objective_0013=Autorizza l'accesso al caveau da tre pannelli di guardia.
+Objective_0023=L'accesso al caveau deve essere autorizzato dall'ufficio del presidente, dall'ufficio principale della sicurezza e dall'ufficio del tesoriere. Non importa in quale ordine viene autorizzato l'accesso.
+POPUPMESSAGE_0048=Autorizza l'accesso al caveau dai pannelli dei tre responsabili.
+POPUPMESSAGE_0054=L'EEV PUÒ ESSERE USATO PER SABOTAGGI A DISTANZA; TUTTAVIA LA DIFFICOLTÀ AUMENTA.
+Objective_0004=Cerca le prove di transazioni sospette.
+Objective_0024=Trova gli archivi cartacei negli uffici degli ufficiali della Banca MCAS e cerca indizi di altri affari sospetti correlati al rapimento di Morgenholt.
+Objective_0008=Inserisci una serie di email false per farlo sembrare un lavoro interno.
+Objective_0025=Grimsdottir ti ha dato una serie di email da inserire nei computer della Banca MCAS. Distoglieranno l'attenzione dall'operazione e faranno apparire il furto come un lavoro interno.
+Objective_0017=Cancella gli archivi delle telecamere della banca.
+Objective_0030=(null)
+
+[P_03_Bank_PresOffLaserMic]
+Speech_-001L=(null)
+Speech_0005L=Che altro potevo fare?! Se volete che controlli se il presidente ha lasciato acceso il condizionatore nel suo ufficio, dovrò pure entrarci, no? Certo che ho usato il codice della porta. Ma certo. Cosa significa rischioso? Non ci sente nessuno! Sei paranoico. Cosa? Non dire il codice? 3490! 3490! 3490! 3490! Ecco, l'ho detto! Ho detto il codice! Cosa fai adesso? Oh... oh... sì... ooooh... che paura! Idiota.
+Note_0024L=Il codice della porta dell'ufficio del Presidente è 3490.
+Speech_-001L=(null)
+Speech_0002L=Hmm... chi è quella guardia nuova che è passata sul monitor?
+Speech_0006L=È Hermano Sampas, signore. Settore 21 G.
+Speech_0007L=Sampas, eh... mi piace come si muove. Ha ritmo... passione...
+Speech_0008L=Sì, signore.
+Speech_0009L=Una guardia così... può sorvegliare i miei soldi quando vuole. Dagli accesso alla lounge quando è in pausa.
+Speech_0010L=Sì, signore.
+Speech_0011L=Ah, Salvador...
+Speech_0012L=Sì, signore?
+Speech_0013L=Scopri se sa ballare...
+Speech_0014L=Sì, signore.
+Speech_-001L=(null)
+Speech_0015L=Oh, no... ancora il ventilatore...
+Speech_0017L=Stupido rottame... perché il condizionatore nell'ufficio del presidente è sempre a posto mentre il nostro ventilatore si rompe ogni sera?
+Speech_0018L=Perché lui è il presidente e noi siamo solo guardie di sicurezza. Tanto varrebbe riprendersi Noriega.
+Speech_0020L=Sono sempre i poveri a soffrire per i ricchi.
+Speech_0021L=A me lo dici... Beh... comunque sia... meglio sistemarlo...
+Speech_0022L=Scordatelo. Non me le sporco le mani. Chiama quello sfigato di Paco e fallo fare a lui.
+Speech_0023L=Buona idea.
+
+[P_03_Bank_Projector]
+Note_0008L=Le guardie che pattugliano le griglie dei laser hanno delle torce che disattivano i laser localmente.
+Speech_0001L=La luce... sin da quando i primi uomini cercarono di proteggere sé stessi, le proprie case e i propri averi, la luce è sempre stata alla base della sicurezza.
+Speech_0002L=SmartSec ha portato la sicurezza a un nuovo livello con il brevetto Laser Intelli-Grid Technology... la nuova generazione di sistemi di sicurezza basati sulla luce.
+Speech_0003L=Il sistema LIGT è costituito da una complessa rete di raggi laser collegati in una griglia che regisce in modo semi-intelligente.
+Speech_0004L=Il nostro sistema Intelli-Grid è progettato per rilevare la posizione delle persone autorizzate a muoversi attraverso una zona sorvegliata da LIGT, usando un minuscolo segnalatore che può essere cucito sulle uniformi o comunque nascosto alla vista.
+Speech_0005L=Le guardie di pattuglia possono muoversi facilmente e in tutta sicurezza attraverso la griglia intelligente senza far scattare allarmi. Il loro segnalatore disattiva i singoli laser al loro passaggio.
+Speech_0007L=Per ulteriori informazioni sull'acquisto e l'installazione del nostro sistema brevettato Laser Intelli-Grid Technology, contattate il rappresentante SmartSec più vicino.
+
+[P_03_Bank_ReceptionPatrol]
+
+[P_03_Bank_RepairKeypad]
+Speech_-001L=(null)
+Speech_0008L=Paco sistema questo... Paco sistema quello... questo è rotto. L'altro è sporco. Sempre a fare lo schiavo, sempre a pulire. Sempre a tenervi il pannolone così potete lavorare. Oh... non preoccupatevi... se lo rompete... Paco... Paco lo aggiusterà. Come se Paco non avesse niente di meglio da fare che sistemare tutti gli aggeggi che si rompono. Hm. Allora, qual'era quel codice... 8645... ecco qui... vediamo che altro c'è da aggiustare per Paco...
+Note_0007L=Il codice della porta per l'ufficio del tesoriere è 8645.
+Speech_0009L=... e così Paco dice "va bene, se vuoi che Paco sistemi la porta, Paco sistema la porta"... ma ora sono cavoli tuoi... perché Paco cambia il codice... hmmm... 8645 suona bene...
+Speech_0006L=Paco sistema questo... Paco sistema quello... questo è rotto. L'altro è sporco. Sempre a fare lo schiavo, sempre a pulire. Sempre a tenervi il pannolone così potete lavorare. Oh... non preoccupatevi... se lo rompete... Paco... Paco lo aggiusterà. Come se Paco non avesse niente di meglio da fare che sistemare tutti gli aggeggi che si rompono. Hm. Allora, qual'era quel codice... 8645... ecco qui... vediamo che altro c'è da aggiustare per Paco...
+
+[P_03_Bank_SamGenerics]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+
+[P_03_Bank_SecurityPostA]
+
+[P_03_Bank_SecurityPostB]
+Speech_-001L=(null)
+Speech_0003L=Hai presente l'altra notte quando stavo coprendo il turno di Colon?
+Speech_0004L=Sì...
+Speech_0005L=Ecco, sono di pattuglia, appena dopo l'archivio, e sento qualcosa... guardo dentro e sento cantare...
+Speech_0006L=Cantare? Da dove?
+Speech_0007L=È questo il bello... ho controllato tutta la stanza ma non ho trovato niente... ma ho davvero sentito cantare... e dopo vengo da questa parte e sento Rodrigo che canta la stessa canzone...
+Speech_0012L=Quindi era Rodrigo quello nell'archivio?
+Speech_0013L=No... lì non c'era nessuno. Ma hai presente la presa d'aria nell'archivio? Credo che sia collegata a questo lato... nel bagno degli uomini... credo sia per questo che ho sentito Rodrigo...
+Speech_0014L=Vuoi dire che Rodrigo canta mentre è in bagno? Eeuuww...
+
+[P_03_Bank_SRCfirst]
+Speech_-001L=(null)
+Speech_0001L=Ehi... stavo pensando a una cosa...
+Speech_0002L=E sarebbe?
+Speech_0003L=Hai mai notato che questa banca non ha un Bancomat?
+Speech_0004L=Certo...
+Speech_0005L=Secondo te come mai?
+Speech_0006L=Perché non vogliono che qualcuno provi a sabotarlo.
+Speech_0007L=Sabotare un Bancomat? Mai sentito niente del genere!
+Speech_0008L=Il problema in realtà è che causerebbe una riduzione di risorse umane che sarebbe meglio evitare...
+Speech_0009L=Oh... oh... capisco.
+
+[P_03_Bank_SRCsecond]
+Speech_-001L=(null)
+Speech_0001L=Ugh, queste uniformi sono scomode.
+Speech_0009L=Oh... quella è una di quelle nuove. Sono americane.
+Speech_0010L=Bene... Significa che non sono fatte da lavoratori di seconda classe che si scannano a vicenda per un contratto di servizio nell'esercito panamense.
+Speech_0011L=Oh, non mi fraintendere... la qualità delle uniformi è esemplare... non si rovinano mai...
+Speech_0012L=E allora?
+Speech_0013L=Beh, sono cinque gradi più calde, pesano due etti in più, non lasciano traspirare e prudono.
+Speech_0014L=Beh, non mi sembra un grande affare... perchè lo fanno, gli americani?
+Speech_0015L=Dal punto di vista commerciale è una pessima idea... ma dimmi una cosa...
+Speech_0016L=Cosa?
+Speech_0017L=Parlando ipoteticamente... se dovessi invadere Panama... preferiresti combattere contro un esercito che usa uniformi usa-e-getta di seconda scelta o contro un esercito sovraccarico, accaldato, pieno di irritazioni e che si muove male?
+Speech_0018L=Oh... non l'avevo considerata da questo punto di vista.
+Speech_0019L=Nemmeno i nostri generali, quando hanno regalato agli americani un contratto per uniformi indistruttibili... ci sono molti modi di combattere una guerra, amico...
+
+[P_03_Bank_SRCultimate]
+Speech_-001L=(null)
+Speech_0001L=Hai sentito le ultime notizie? Gli americani hanno appena annunciato che ci sono problemi con lo shuttle di salvataggio.
+Speech_0006L=Che genere di problemi?
+Speech_0007L=Un problema in uno dei razzi - ci vogliono settimane per produrre quei pezzi, sai?
+Speech_0008L=Non avevano detto che gli astronauti hanno solo pochi giorni di supporto vitale?
+Speech_0009L=Hanno detto proprio così.
+Speech_0010L=Ma... allora... stanno morendo lassù...
+Speech_0011L=Così sembra...
+Speech_0012L=È orribile.
+Speech_0013L=Già.
+
+[P_03_Bank_VaultAccess]
+
+[P_03_Bank_VaultMainDoor]
+POPUPMESSAGE_0001=Scopri per chi ha comprato le armi la banca MCAS.
+
+[P_03_Bank_WaitsAdolpho]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_03_Bank_WaitsColon]
+
+[P_03_Bank_WaitsFonda]
+
+[P_03_Bank_WaitsHermano]
+
+[P_03_Bank_WaitsIiago]
+
+[P_03_Bank_WaitsMontegu]
+
+[P_03_Bank_WaitsPaco]
+
+[P_03_Bank_WaitsRamon]
+
+[P_03_Bank_WaitsRodrigo]
+Speech_-001L=(null)
+Speech_0002L=(null)
+
+[P_03_Bank_WaitsSalvador]
+
+[P_03_Bank_WaitsTajo]
+

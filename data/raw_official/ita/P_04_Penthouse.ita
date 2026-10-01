@@ -1,0 +1,784 @@
+[P_04_Interro_UpperFloor]
+Speech_-001L=(null)
+Speech_0001L=Scegli un numero da uno a dieci...
+Speech_0002L=C... cosa... oh... oh merda... ehm... tre.
+Speech_0003L=Hm. Che fortuna... puoi vivere. Adesso dimmi qualcosa di utile o facciamo un altro giro.
+Speech_0004L=Oddio... ehm... la chiusura magnetica... la porta per il tetto...
+Speech_0007L=Parliamone...
+Speech_0008L=Credo che il computer che la controlla sia nella camera da letto grande al piano più alto.
+Speech_0009L=Sembri proprio bravo, non è che mi puoi dire anche per chi lavori?
+Speech_0010L=Io... io lavoro per Displace... Displace International.
+Speech_0011L=Ti ho detto tutto...
+Speech_0013L=Vuoi che ne scelga un altro? Quattro... no... sette...
+
+[P_04_Penthouse_AlarmState]
+POPUPMESSAGE_0006=Allarme di primo livello
+Speech_-001L=(null)
+Speech_0001L=Fisher, sembra che Zherkezhi abbia un suo sistema di allarme. Sii prudente.
+POPUPMESSAGE_0007=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+Note_0010L=I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.
+Speech_-001L=(null)
+Speech_0002L=Dico sul serio, Sam... troppi allarmi e ti troverai addosso tutti quei mercenari. 
+POPUPMESSAGE_0008=Allarme di terzo livello - I nemici indossano l'elmetto
+Note_0011L=I NEMICI INDOSSANO L'ELMETTO.
+Speech_-001L=(null)
+Speech_0003L=Fisher... non sto scherzando. Al prossimo allarme sarai nei guai.
+POPUPMESSAGE_0009=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0012L=I NEMICI HANNO CREATO DELLE DIFESE.
+Speech_-001L=(null)
+Speech_0004L=Dannazione, Sam. È un allarme generale. Dovrai uscirne combattendo, ora. Completa gli obiettivi primari ed esci da lì!
+Speech_-001L=(null)
+Speech_0005L=Dannazione, Sam. È un allarme generale. Dovrai uscirne combattendo, ora. Raggiungi il punto di estrazione!
+
+[P_04_Penthouse_Animation_DG_Assis]
+
+[P_04_Penthouse_Animation_DG_Wait2]
+
+[P_04_Penthouse_Animation_NG_Wait]
+
+[P_04_Penthouse_Animation_NG_Wait2]
+
+[P_04_Penthouse_Animation_Repair]
+
+[P_04_Penthouse_Animation_Repair2]
+
+[P_04_Penthouse_BaseAlert]
+
+[P_04_Penthouse_BaseAlert2]
+
+[P_04_Penthouse_Beacons]
+Note_0001L=Il codice della porta della camera di Dvorak è 0280.
+
+[P_04_Penthouse_Briefings]
+Speech_-001L=(null)
+Speech_0001L=Bruce Morgenholt e Abrahim Zherkezhi lavoravano insieme nel Progetto Watson, il comitato delle Nazioni Unite che ha risolto i kernel di Masse. Sono loro che hanno scoperto la crittografia a 512 bit, la stessa usata nei messaggi che hai scoperto nella MCAS Bank. Se questo tale "Dvorak" è riuscito in qualche modo a mettere le mani sugli algoritmi di guerra informatica di Masse, siamo in un mare di guai.
+Speech_-001L=(null)
+Speech_0002L=Sto cercando di entrare nella rete privata di Zherkezhi sin da quando è risultato coinvolto in questa storia. So cosa significa una rete sicura, e mi aspettavo che Zherkezhi avesse il meglio, ma questo è incredibile. Il server di Zherkezhi non è solo impenetrabile o invisibile... è come... è come cercare un'ombra in una stanza completamente buia... mi sta facendo impazzire.
+Speech_-001L=(null)
+Speech_0003L=Le cose stanno peggiorando a New York. Sono passate 24 ore dal blackout e nessuno sa quando potrebbe finire. La tensione sta salendo in tutta Manhattan, ma non ha ancora iniziato a esplodere sul serio. Ai piani alti dicono che entro un'ora interverrà la Guardia Nazionale. Dovremo inserirti in un vicolo dietro a un edificio vicino all'obiettivo. Attento ai civili.
+
+[P_04_Penthouse_CamerasRestantes]
+Speech_-001L=(null)
+Speech_0001L=Bel lavoro, Fisher. Una telecamera intercettata. Dovrebbero essercene altre cinque.
+Speech_0002L=Terrò gli occhi aperti.
+Speech_-001L=(null)
+Speech_0005L=Una telecamera a posto. Ne mancano cinque.
+Speech_-001L=(null)
+Speech_0003L=Bel lavoro, Fisher. Con questa fanno quattro telecamere controllate su sei.
+Speech_0004L=Cerco le altre due.
+
+[P_04_Penthouse_Conversation_Alley]
+Speech_-001L=(null)
+Speech_0001L=Avete abbastanza luce qui sotto?
+Speech_0002L=Credo di sì. Queste luci sono a batteria, quindi dovrebbero andare. Se necessario ho anche dei flare.
+Speech_0003L=Bene... allora pensiamo a ridare energia al posto di comando prima di passare al perimetro.
+Speech_0004L=Perfetto.
+
+[P_04_Penthouse_Conversation_Green]
+Speech_-001L=(null)
+Speech_0001L=Da quanto lo conosci?
+Speech_0002L=Da molto, molto tempo. Da prima di Displace... ehm... prima della Bosnia.
+Speech_0003L=Prima della Bosnia... buon Dio. Sapevo che aveva dei collegamenti, ma...
+Speech_0004L=Sì... lo conosciamo da molto tempo. Ci tratta bene. Facciamo ciò che dice.
+Speech_0005L=Sì...sì, Beh, effettivamente ci tratta bene.
+Speech_0006L=Ora lo sai anche tu. Ora lavori anche tu per lui. Fa' ciò che dice.
+Speech_0007L=Sì, Beh... certo... vale la pena, giusto?
+Speech_0008L=Vale più della pena. Ti tiene in vita.
+
+[P_04_Penthouse_Conversation_Lift]
+Speech_-001L=(null)
+Speech_0001L=Qual'è la situazione dell'ascensore?
+Speech_0002L=Dovrebbe partire tra poco.
+Speech_0003L=Beh, muoviti. Dobbiamo portare delle attrezzature sul tetto.
+Speech_0004L=Sto facendo più in fretta che posso.
+
+[P_04_Penthouse_Conversation_Park]
+Speech_-001L=(null)
+Speech_0002L=Ah... non si vede un accidente. Tra quanto ci daranno la corrente?
+Speech_0004L=Chi lo sa... per prima cosa vogliono rimettere in funzione l'ascensore per arrivare all'eliporto sul tetto.
+Speech_0005L=E questo cosa significa per noi?
+Speech_0006L=Significa buio... come al solito.
+Speech_0007L=Ho un'idea... che ne dici di quelle auto? Forse possiamo accendere i fari.
+Speech_0008L=Cosa vuoi fare, scassinare una macchina? Non credo sia contemplato nella protezione del bene pubblico.
+Speech_0009L=Potremo dare la colpa ai dimostranti...
+Speech_0010L=Hm... buona idea.
+
+[P_04_Penthouse_Conversation_Patio]
+Speech_-001L=(null)
+Speech_0001L=Ehi... non ti conosco. Da quanto lavori in Displace?
+Speech_0004L=Tre mesi... mi hanno appena trasferito dal Perù... ero nella... ahem... missione VIP.
+Speech_0005L=Ah... quindi sei già... ehm... nel giro?
+Speech_0006L=Sì... io e... Beh, tu sai chi... ci conosciamo da molto tempo.
+Speech_0007L=Beh, resta con noi... sappiamo come si lavora.
+Speech_0008L=Lo so... come ti dicevo... ci conosciamo da molto tempo.
+Speech_0009L=Giusssto.
+
+[P_04_Penthouse_Conversation_Power]
+Speech_-001L=(null)
+Speech_0001L=Sai cosa non capisco? Voglio dire... tutta la città è al buio, giusto?
+Speech_0002L=Sì...
+Speech_0003L=Ma questo tizio quassù... ha tutte le luci accese... com'è possibile?
+Speech_0004L=Beh, più sei ricco e più diventi paranoico... si sarà preso un generatore proprio per tenere acceso il sistema di sicurezza. 
+Speech_0005L=Sistema di sicurezza? Chi vuoi che si faccia quindici piani di arrampicata per entrargli nell'appartamento?
+Speech_0006L=Te l'ho detto... paranoia.
+
+[P_04_Penthouse_Conversation_Tech]
+Speech_-001L=(null)
+Speech_0001L=Quanto ci vorrà ancora?
+Speech_0002L=Il tempo che ci vuole.
+Speech_0003L=Il tempo che ci vuole? Che razza di risposta è?
+Speech_0004L=Senti, ho una due e venti a 16 ampere...
+Speech_0005L=E allora?
+Speech_0006L=E allora sai che razza di scossa ti prendi se i fili si toccano?
+Speech_0007L=Ehm... no...
+Speech_0008L=Benissimo... tocca qui e fammi sapere...
+Speech_0009L=Ehm... no, grazie...
+Speech_0010L=Ecco, buona idea. Ora sparisci, ci metterò il tempo che ci vuole.
+
+[P_04_Penthouse_DGuard_LF1]
+
+[P_04_Penthouse_DvorakMainServer]
+
+[P_04_Penthouse_DvorakPuzzleLose]
+Speech_-001L=(null)
+Speech_0001L=Ooops... valvole surriscaldate... sembra che... hahaha... abbiamo sbagliato coda... meglio ripartire dalla cima, amico.
+
+[P_04_Penthouse_DvorakPuzzleMeca]
+
+[P_04_Penthouse_DvorakPuzzleWin]
+Speech_-001L=(null)
+Speech_0001L=GNOME - Ah-ha There you go. Hahaha... Your output stack should be ready... hmmm
+Speech_-001L=(null)
+Speech_0002L=GNOME - Ah-ha There you go. Hahaha... Your output stack should be ready... hmmm
+
+[P_04_Penthouse_Emitters]
+
+[P_04_Penthouse_Gnome_Animations]
+
+[P_04_Penthouse_Gnome_help]
+Speech_-001L=(null)
+Speech_0001L=Tu devi essere Dvorak.
+Speech_0002L=Ahem...oh... Beh...Dvorak, hm? Pensavo che questa zona fosse, come dire, off limits...
+Speech_0003L=Sei Dvorak o no?
+Speech_0004L=Beh, ehm... visto che siamo così sgarbati... Beh... no.
+Speech_0007L=E allora chi sei?
+Speech_0008L=Quanta fretta... hmm... gradisci del tè?
+Speech_-001L=(null)
+Speech_0011L=Mi viene in mente il povero vecchio Jigger... hahaha... ah Jigger... lo conoscevamo appena...
+Speech_0012L=Chi sei tu? Cosa ci fai qui?
+Speech_0013L=Oh... Beh, potrei farti la stessa domanda, sai.
+Speech_0014L=Sto cercando un uomo chiamato Dvorak.
+Speech_0015L=Ah! Dvorak, sì! Hahaha... Beh, non credo che ne troverai uno... hahaha... da questa parte...
+Speech_-001L=(null)
+Speech_0018L=Ah... hahaha... sì... allora, eccoci qui... Questo è Dvorak.
+Speech_-001L=(null)
+Speech_0021L=Va bene... Se questo è Dvorak... tu chi sei?
+Speech_0022L=Ahem... Sono il custode di Dvorak. Grazie per avermelo chiesto.
+Speech_0027L=E cos'è... cos'è questo...Dvorak?
+Speech_0028L=Dvorak è... Beh... non credo che lo capiresti...
+Speech_0029L=Scommetto di no... ma sentiamo, giusto per la cronaca...
+Speech_0030L=Dvorak è la rappresentazione meccanica di un assioma autoreferenziale della teoria dei numeri. Dvorak codifica la sua struttura logica nel proprio ciclo eseguibile e ne deriva ricorsivamente una rappresentazione più accurata di sé stesso ad ogni esecuzione successiva.
+Speech_-001L=(null)
+Speech_0032L=Mi serve il tuo aiuto.
+Speech_0033L=Ma certo... come posso aiutarti, amico mio?
+Speech_0034L=Dovresti aiutarmi a inizializzare Dvorak per estrarre l'output.
+Speech_0035L=Ah... Dvorak... Beh, credo proprio di poterti aiutare... ahem... hahaha... riavvia tutto, allora. Io inizializzerò le torri da questa parte... hahaha... ahem... tu pensa all'altro lato.
+Speech_-001L=(null)
+Speech_0038L=Se vedi Jigger, digli che mi manca.
+Speech_-001L=(null)
+Speech_0040L=Prima o poi Dvorak troverà la risposta. Ma prima o poi può significare una lunga attesa.
+Speech_-001L=(null)
+Speech_0041L=Ah... che scortese. Vattene, allora.
+Speech_-001L=(null)
+Speech_0042L=Ahem.. in tutta onestà, signore... Lei è stato tremendamente scortese e non desidero parlarle più.
+Speech_-001L=(null)
+Speech_0039L=Ah-ha. Ecco qui. Hahaha... il tuo output dovrebbe essere pronto... hmmm.
+Speech_0036L=Ooops... valvole surriscaldate... sembra che... hahaha... abbiamo sbagliato coda... meglio ripartire dalla cima, amico.
+
+[P_04_Penthouse_Gnome_IntheDvorak]
+
+[P_04_Penthouse_Gnome_killed]
+Speech_-001L=(null)
+Speech_0001L=Fisher! Hai appena ucciso un innocente!
+Speech_0002L=Scusa. Pensavo che fosse il nemico.
+Speech_0003L=Stai molto attento a chi spari.
+Speech_0004L=Sì, signore.
+Speech_-001L=(null)
+Speech_0005L=Fisher! Hai appena ucciso un altro innocente. Completa gli obiettivi primari e tirati fuori di lì. È troppo rischioso tenerti sul campo più del necessario.
+
+[P_04_Penthouse_Gnome_Lambert]
+Speech_-001L=(null)
+Speech_0049L=Lambert... non vuole cooperare. Che faccio?
+Speech_0050L=Non lo so... prova a guardare nell'altra stanza.
+Speech_0051L=Non saprei... credo che dovrai scoprire da solo come usare quell'affare.
+Speech_-001L=(null)
+Speech_0037L=Fisher... cosa stai facendo?
+Speech_0038L=Ho già visto una cosa del genere... questa è una macchina a stati finiti.
+Speech_0039L=Davvero?
+Speech_0040L=Sì. Sembra che Dvorak non sia altro che mucchio di rottami vecchio di cinquant'anni.
+Speech_0041L=Non mi stupisco che fosse impossibile inserirsi.
+Speech_0042L=Non usa nemmeno gli stessi linguaggi. Cercherò di reinizializzare la macchina per recuperare l'output per analizzarlo. 
+Speech_0043L=Trovato.
+Speech_-001L=(null)
+Speech_0044L=Bene, ho recuperato l'output.
+Speech_0045L=Fisher... a giudicare da quello che abbiamo appena visto, credo che questa non sia una macchina a stati finiti.. ma a stati infiniti.
+Speech_0046L=Qual'è la differenza?
+Speech_0047L=Questa è autoreferenziale. Ogni coda di uscita rappresenta un set di istruzioni logiche che dice alla macchina di effettuare una ricorsione per derivare un set di istruzioni più preciso per il prossimo ciclo di esecuzione.
+Speech_0048L=Affascinante. Posso andare in bagno, adesso?
+Speech_-001L=(null)
+Speech_0024L=Lambert... cosa diavolo è quest'affare?
+Speech_0025L=Non ne ho idea, Fisher... parla col vecchio... forse sa qualcosa.
+Speech_-001L=(null)
+Speech_0026L=Lambert... cosa diavolo è quest'affare?
+Speech_0027L=Non lo so, Fisher... ma scommetto che quel vecchio ci avrebbe aiutato se...
+Speech_0028L=Beh, troppo tardi.. ora che facciamo?
+Speech_0029L=Grim?
+Speech_0030L=Sembra una macchina a stati finiti... Roba da cantine universitarie degli anni sessanta.
+Speech_0031L=Cosa dovrei fare?
+Speech_0032L=Dovrai recuperare l'output. Riavvia la macchina, poi premi l'interruttore di ogni torre in sequenza seguendo il riscaldamento delle valvole. Quando hai finito dovrai prendere la coda di uscita.
+Speech_-001L=(null)
+Speech_0052L=Grim?
+Speech_0053L=Sembra una macchina a stati finiti... Roba da cantine universitarie degli anni sessanta.
+Speech_0054L=Cosa dovrei fare?
+Speech_0055L=Dovrai recuperare l'output. Riavvia la macchina, poi premi l'interruttore di ogni torre in sequenza seguendo il riscaldamento delle valvole. Quando hai finito dovrai prendere la coda di uscita.
+Speech_-001L=(null)
+Speech_0033L=Sembra che le valvole si sovraccarichino azzerandosi se non inizializzi la torre abbastanza velocemente. Dovrai riavviare da capo l'intera sequenza.
+Speech_-001L=(null)
+Speech_0034L=Non va, dovrai provare di nuovo.
+Speech_-001L=(null)
+Speech_0035L=Ci hai messo troppo. Devi inizializzare ogni torre prima che la valvola principale si sovraccarichi.
+Speech_-001L=(null)
+Speech_0036L=Troppo lento. Riavvia la macchina.
+Speech_-001L=(null)
+Speech_0001L=Lambert... sta succedendo qualcosa di strano.
+Speech_0002L=Direi.
+Speech_0003L=Cosa faccio?
+Speech_0004L=Il vecchio sembra inoffensivo. Assecondalo. Vedi se sa qualcosa.
+Speech_-001L=(null)
+Speech_0005L=Oh Cristo... credo di aver capito perché non riuscivi a inserirti, Grim...
+Speech_0006L=Ehm... già... davvero.
+Speech_0007L=Che diavolo faccio, adesso?
+Speech_0008L=Ehm... aspetta, mi servirà un regolo calcolatore.
+Speech_0009L=Fisher, scopri cosa sa quell'uomo.
+Speech_-001L=(null)
+Speech_0010L=Bene. Grim... hai sentito?
+Speech_0011L=Mio dio... è una macchina a stati infiniti.
+Speech_0014L=Bello. E ora cosa faccio?
+Speech_0015L=... se Zherkezhi la sta usando...
+Speech_0016L=Grim.
+Speech_0017L=Scusa. Ehm. Sam, ci servirà una copia dell'output di Dvorak per ricavarne l'algoritmo su cui si basa.
+Speech_0018L=Come faccio ad averlo?
+Speech_0019L=Funziona a schede perforate.
+Speech_0020L=Schede perforate?
+Speech_0021L=Dovrai riavviare la sequenza e inizializzare ogni torre nel giusto ordine, poi recuperare la coda in uscita.
+Speech_0022L=Come faccio a scoprire la sequenza giusta?
+Speech_0023L=Dovrai usare gli interruttori in ordine via via che le valvole si scaldano. Chiedi aiuto al vecchio.
+
+[P_04_Penthouse_Gnome_stunned]
+Speech_-001L=(null)
+Speech_0001L=Fisher! Cosa diavolo stai facendo?
+Speech_0002L=Mi spiace. Pensavo fosse il nemico.
+Speech_0003L=Mi sembrava piuttosto innocuo... ora dovrai cavartela da solo.
+Speech_-001L=(null)
+Speech_0004L=Fisher! Cosa diavolo stai facendo?
+Speech_0005L=Mi spiace. Pensavo fosse il nemico.
+Speech_0006L=Stai molto attento a chi spari.
+Speech_0007L=Sì, signore.
+
+[P_04_Penthouse_Gnome_Upset]
+
+[P_04_Penthouse_Guard_guestroom]
+
+[P_04_Penthouse_Interro_Construction]
+Speech_-001L=(null)
+Speech_0001L=Cosa ci fai qua sotto?
+Speech_0002L=Ma chi diavolo...
+Speech_0003L=Cominciamo male... parla o muori.
+Speech_0004L=Ah... ok... facciamo protezione VIP... questo piano... dobbiamo metterlo in sicurezza perché non possiamo chiuderlo dall'attico.
+Speech_0005L=L'architetto ha un ufficio o una scrivania, qui?
+Speech_0006L=Sì... certo... sul lato ovest dell'edificio...
+Speech_0007L=Visto che te la cavi tanto bene, perché non mi dici il nome dell'impresa per cui lavori?
+Speech_0008L=Io... io lavoro per Displace... Displace International.
+Speech_0009L=Se vuoi uccidermi, fallo in fretta.
+Speech_0010L=Stai dando fastidio alla gente sbagliata, bello mio.
+Note_0012L=Ci potrebbero essere i progetti dell'edificio da qualche parte nel cantiere
+
+[P_04_Penthouse_Interro_Construction2]
+Speech_-001L=(null)
+Speech_0001L=Ti piace il mio nuovo coltello?
+Speech_0002L=Oh... Dio...
+Speech_0003L=È già un po' che lo uso... sarà ancora affilato?
+Speech_0004L=A me sembra affilato...
+Speech_0005L=Allora sarà meglio che tu mi dica qualcosa prima che mi distragga e mi scivoli...
+Speech_0006L=Medicinali... scommetto che vuoi dei medicinali... nei bagni dietro la cucina...
+Note_0014L=I kit medici si trovano nei bagni dell'attico
+Speech_0009L=Sembri proprio bravo, non è che mi puoi dire anche per chi lavori?
+Speech_0010L=Io... lavoro per Displace... Displace International.
+Speech_0011L=Ti prego... ti ho detto tutto quello che sapevo...
+Speech_0013L=Mi licenzio la settimana prossima... ti prego...
+
+[P_04_Penthouse_Interro_FirstNG]
+Speech_-001L=(null)
+Speech_0001L=Shh... non voglio farti del male.
+Speech_0002L=C... chi sei... aspetta un secondo.. è un'esercitazione?
+Speech_0003L=Oh, merda... Controllo? Questo tizio sa che è un'esercitazione, chi se l'è fatta scappare?
+Speech_0004L=Ah... lo sapevo...
+Speech_0005L=Ricevuto. Sì. Va bene. Sì, d'accordo, dammi una mano, amico... stai al gioco. Nome, grado e matricola.
+Speech_0006L=Caporale Stan Donion. 24-28-996.
+Speech_0007L=E non mi dirai nient'altro?
+Speech_0008L=No, signore.
+Speech_0009L=Bravo ragazzo. Allora, volete che passi al prossimo? Sì. Ricevuto. Oh... va bene, chiederò. Il comando vuole sapere quanti siete sul tetto.
+Speech_0010L=Due sul tetto, signore. Altri due in arrivo in elicottero.
+Speech_0011L=Grazie. Congedato.
+Speech_0012L=Bene, sono congedato o no? ...signore?
+Speech_0013L=Aspetta un secondo... questa non è un'esercitazione... chi sei?
+
+[P_04_Penthouse_Interro_genericNG]
+Speech_-001L=(null)
+Speech_0001L=Stai calmo. Siamo dalla stessa parte.
+Speech_0002L=G... Gesù... chi sei...
+Speech_0003L=Sono l'uomo nero... e ti farò tornare a nanna appena mi dici quanta gente c'è qui.
+Speech_0004L=Siamo... siamo solo in otto nella squadra, ma ce ne sono altri sul tetto...
+Speech_0005L=Quanti?
+Speech_0006L=Non lo so... giuro.
+Speech_0007L=Grazie per l'informazione...
+Speech_0008L=Non sono neanche un soldato... lavoro in un negozio di computer...
+Speech_0010L=Sono inoffensivo... ti prego...
+
+[P_04_Penthouse_Interro_RoofTop]
+Speech_-001L=(null)
+Speech_0001L=Cosa ci fa una bella guardia come te in un posto come questo?
+Speech_0002L=Ehm... sorveglio il tetto...
+Speech_0003L=Da cosa?
+Speech_0004L=Lasciami andare e ti faccio vedere.
+Speech_0005L=Cattivo umore? Proviamo a tagliarti un orecchio... così vedremo se sei veramente un duro.
+Speech_0006L=Fai pure... ne ho due...
+Speech_0007L=Quanti uomini ci sono qua fuori?
+Speech_0008L=Sono solo, sul tetto.
+Speech_0009L=Da solo, eh? ... che brutto modo per morire.
+Speech_0010L=Tutti moriamo soli.
+Speech_0014L=Visto che te la cavi tanto bene, perché non mi dici il nome dell'impresa per cui lavori?
+Speech_0015L=Displace International. E mi puoi anche uccidere, ma ti troveranno.
+Speech_0011L=Lasciami andare e vedremo chi è il più forte.
+Speech_0013L=Hai troppa paura per combattere da uomo a uomo.
+
+[P_04_Penthouse_Interro_Ruined]
+Speech_-001L=(null)
+Speech_0001L=Bel posticino... l'hai arredato tu?
+Speech_0002L=Chi... chi sei...
+Speech_0003L=Il padrone di casa... è scaduto l'affitto.
+Speech_0004L=Cosa vuoi...
+Speech_0005L=Dove posso trovare Dvorak?
+Speech_0006L=Non conosco nessun Dvorak... se intendi Zherkezhi... è andato...
+Speech_0007L=Sembri proprio bravo, non è che mi puoi dire anche per chi lavori?
+Speech_0008L=Io... io lavoro per Displace... Displace International.
+Speech_0010L=Farò tutto quello che vuoi.
+Speech_0011L=Mi hanno già torturato in passato... Preferisco collaborare.
+
+[P_04_Penthouse_InterroGreenhouse]
+Speech_-001L=(null)
+Speech_0037L=FISHER - Pick a number between one and ten...
+Speech_0038L=C... cosa... oh... oh merda... ehm... tre.
+Speech_0039L=FISHER - Hm. Lucky guess... you get to live. Now tell me something useful or we'll play another round.
+Speech_0040L=Oh god... uh... the mag-lock... the locked door to the roof...
+Speech_0041L=Parliamone...
+Speech_0042L=I think the computer that controls it is in the master bedroom on the top floor.
+Speech_0043L=Visto che sei tanto bravo, mi vuoi dire per quale impresa militare lavori?
+Speech_0044L=I... I work for Displace... Displace International.
+Speech_0045L=Ti ho detto tutto...
+Speech_0046L=Do you want me to pick again... four... no... seven...
+Speech_-001L=(null)
+Speech_0001L=Sono allergico ai fiori... ti consiglio di parlare prima che mi scappi uno starnuto e ti tagli la gola per sbaglio.
+Speech_0004L=Senti... ti dirò quello che vuoi.
+Speech_0005L=Bene. Cominciamo dal tuo capo. Come si chiama?
+Speech_0006L=N...  Nedich... Milan Nedich... si occupa di tutti i contratti di protezione VIP.
+Speech_0007L=E quanti dei clienti sotto protezione ha ucciso nelle ultime, diciamo, sei settimane?
+Speech_0008L=C... cosa?
+Speech_0009L=Che razza di truffa sta combinando?
+Speech_0010L=Io... non so niente di nessuna truffa... lo giuro...
+Speech_0012L=Non farmi del male... non sono duro come sembro...
+Speech_0013L=Non dire a Milan che ti ho dato il suo nome... quello è uno psicopatico.
+Speech_0014L=Scegli un numero da uno a dieci...
+Speech_0015L=C... cosa... oh... oh merda... ehm... tre.
+Speech_0016L=Hm. Che fortuna... puoi vivere. Adesso dimmi qualcosa di utile o facciamo un altro giro.
+Speech_0019L=Oddio... ehm... la chiusura magnetica... la porta per il tetto...
+Speech_0020L=Parliamone...
+Speech_0021L=Credo che il computer che la controlla sia nella camera da letto grande al piano più alto.
+Speech_0022L=Visto che ci stiamo divertendo tanto, perché non mi dici il nome dell'impresa militare per cui lavori?
+Speech_0023L=Io... io lavoro per Displace... Displace International.
+Speech_0024L=Ti ho detto tutto...
+Speech_0026L=Vuoi che ne scelga un altro? Quattro... no... sette...
+
+[P_04_Penthouse_InterroGreenhouse2]
+Speech_-001L=(null)
+Speech_0021L=Ti piace il mio nuovo coltello?
+Speech_0022L=Oh... god...
+Speech_0023L=FISHER - I've been using it quite a bit... is it still sharp?
+Speech_0024L=Feels sharp...
+Speech_0025L=FISHER - Maybe you better tell me something interesting before I get all distracted and slip...
+Speech_0026L=Medical supplies... you probably want some medical supplies... In the washroom beside the kitchen...
+Note_0027L=I kit medici si trovano nei bagni dell'attico
+Speech_0028L=FISHER - Since you're doing so well, why don't you tell me the name of the PMC you work for?
+Speech_0029L=I... I work for Displace... Displace International.
+Speech_0030L=Ti prego... ti ho detto tutto quello che sapevo...
+Speech_0031L=I was going to resign next week... please...
+Speech_-001L=(null)
+Speech_0011L=Sono allergico ai fiori... ti consiglio di parlare prima che mi scappi uno starnuto e ti tagli la gola per sbaglio.
+Speech_0012L=Oh god... I'll tell you anything.
+Speech_0013L=FISHER - Good. Start with your boss. What's his name?
+Speech_0014L=N... Nedich... Milan Nedich... he's in charge of all our VIP protection contracts.
+Speech_0015L=E quanti dei clienti sotto protezione ha ucciso nelle ultime, diciamo, sei settimane?
+Speech_0016L=Wh... what?
+Speech_0017L=FISHER - What kinda scam is he running?
+Speech_0018L=Io... non so niente di nessuna truffa... lo giuro...
+Speech_0019L=Non farmi del male... non sono duro come sembro...
+Speech_0020L=Don't tell Milan I gave you his name... he's psychotic.
+
+[P_04_Penthouse_InterroPatioGuard]
+Speech_-001L=(null)
+Speech_0015L=Ti piace il mio nuovo coltello?
+Speech_0016L=Oh... Dio...
+Speech_0017L=È già un po' che lo uso... sarà ancora affilato?
+Speech_0018L=A me sembra affilato...
+Speech_0019L=Allora sarà meglio che tu mi dica qualcosa prima che mi distragga e mi scivoli...
+Speech_0020L=Medical supplies... you probably want some medical supplies... In the washroom beside the kitchen...
+Speech_0023L=Visto che ci stiamo divertendo tanto, perché non mi dici il nome dell'impresa militare per cui lavori?
+Speech_0024L=Io... io lavoro per Displace... Displace International.
+Speech_0025L=Ti prego... ti ho detto tutto quello che sapevo...
+Speech_0027L=Mi licenzio la settimana prossima... ti prego...
+Speech_-001L=(null)
+Speech_0028L=Silenzio... è un bel viaggio fino alla strada.
+Speech_0029L=Oh... Dio... ti prego... non farlo.
+Speech_0030L=Ho l'impressione che tu sappia chi si occupa della protezione dei VIP, qui, giusto?
+Speech_0031L=Sì... è Nedich... Milan Nedich...
+Speech_0032L=Si occupava anche della protezione di Morgenholt in Perù, magari?
+Speech_0033L=Sì... Milan gestisce tutti i contratti di protezione VIP della Displace...
+Speech_0034L=E non è molto bravo, vero?
+Speech_0035L=Ti prego, non buttarmi di sotto.
+Speech_0036L=Non me lo sognerei mai...
+Speech_0037L=Non voglio morire.
+Speech_0038L=Soffro di vertifigini, ti prego.
+Speech_0003L=Silenzio... è un bel viaggio fino alla strada.
+Speech_0004L=Oh... Dio... ti prego... non farlo.
+Speech_0005L=Ho l'impressione che tu sappia chi si occupa della protezione dei VIP, qui, giusto?
+Speech_0006L=Sì... è Nedich... Milan Nedich...
+Speech_0007L=Si occupava anche della protezione di Morgenholt in Perù, magari?
+Speech_0008L=Sì... Milan gestisce tutti i contratti di protezione VIP della Displace...
+Speech_0009L=E non è molto bravo, vero?
+Speech_0010L=Ti prego, non buttarmi di sotto.
+Speech_0011L=Non me lo sognerei mai...
+Speech_0012L=Non voglio morire.
+Speech_0013L=Soffro di vertifigini, ti prego.
+Speech_0026L=Non voglio morire.
+
+[P_04_Penthouse_Lambert_Comm]
+Speech_-001L=(null)
+Speech_0001L=Fisher... la Guardia Nazionale è arrivata a Manhattan un'ora fa. 
+Speech_0029L=Mi sento già più sicuro.
+Speech_0030L=Vacci piano con le armi, Sam. Quei ragazzi non si aspettano di vederti e ti spareranno a vista. Non ucciderli, ripeto, non ucciderli per nessun motivo.
+Speech_0031L=Starò attento.
+Speech_0032L=Bene.
+Speech_-001L=(null)
+Speech_0121L=La Guardia Nazionale è lì, Sam. Non uccidere nessuno di loro, anche se ti sparano addosso.
+Note_0154L=L'unico modo per arrivare all'eliporto è con l'ascensore
+Note_0155L=L'attico di Zherkezhi è l'edificio a ovest dell'eliporto
+Speech_0160L=LAMBERT - Fisher, you should be able to get to the roof via the elevator once the National Guard restores power.
+Speech_0093L=Fisher... sembra che la Guardia Nazionale stia cercando di ridare energia all'ascensore dell'edificio. Credo sia il modo migliore per salire.
+Speech_0094L=Vedrò se riesco a farmi dare un passaggio.
+Speech_0095L=Sarà una lunga salita se non ci riesci.
+Speech_-001L=(null)
+Speech_0096L=Fisher, l'ascensore è l'unico modo per arrivare sul tetto.
+Speech_-001L=(null)
+Speech_0097L=Fisher, dovresti riuscire ad arrivare sul tetto usando l'ascensore dopo che la Guardia Nazionale avrà riattivato la corrente.
+Speech_0161L=LAMBERT - Fisher, you've got a lot of mercenaries on site. See if you can find out who they work for.
+Speech_0002L=Fisher, quello era un professionista, non c'è dubbio.
+Speech_0003L=E non è certo la guardia notturna... è un mercenario... ha lo stesso equipaggiamento di quelli che proteggevano Lacerda.
+Speech_0037L=Questa faccenda continua a peggiorare. Cerca di scoprire per chi lavorano questi tizi.
+Speech_0038L=Lo farò.
+Speech_-001L=(null)
+Speech_0098L=Fisher, questi tizi sono mercenari. Scopri per chi lavorano.
+Speech_-001L=(null)
+Speech_0100L=Fisher, è pieno di mercenari qui. Cerca di scoprire per chi lavorano.
+Speech_-001L=(null)
+Speech_0101L=Sam, l'attico di Zherkezhi è in cima a questo edificio. Ha anche il permesso di costruzione sugli altri piani. Forse puoi trovare qualche pianta di progetto.
+Speech_0162L=REDDING - Zherkezhi has IR cameras. You should be able to see the projected beam with night vision. If you can tap each of the cameras, it would be a big help.
+Speech_0006L=Fisher... le telecamere di Zherkezhi proiettano un raggio a infrarossi per vedere nel buio.
+Speech_0007L=Se è un raggio a infrarossi posso usare il visore notturno.
+Speech_0008L=Esatto... e ascolta... se potessimo usare quelle telecamere contro Zherkezhi, questo ci aiuterebbe a tenerlo sotto controllo.
+Speech_0070L=Ho capito. Cercherò di mettere qualche spia.
+Speech_-001L=(null)
+Speech_0112L=Zherkezhi usa telecamere a infrarossi. Dovresti riuscire a vedere il raggio proiettato con la visione notturna. Sarebbe utile riuscire a mettere delle cimici su tutte le telecamere.
+Speech_-001L=(null)
+Speech_0013L=Fisher, sembra che Zherkezhi usi delle porte a chiusura magnetica comandate a distanza. Dovrai trovare il computer che controlla la chiusura magnetica.
+Speech_0054L=Dove può essere?
+Speech_0055L=Da qualche parte nell'attico... dovrai guardare in giro.
+Speech_0119L=Forse nella stanza bunker nascosta dietro la sua camera da letto.
+Speech_0120L=È nella stanza bunker, forse ti è sfuggito quando sei passato lì la prima volta.
+Speech_-001L=(null)
+Speech_0127L=Il computer che controlla la chiusura magnetica è nella stanza bunker.
+Speech_-001L=(null)
+Speech_0128L=Puoi trovare il computer che controlla la chiusura magnetica nella stanza bunker dietro la camera da letto.
+Speech_-001L=(null)
+Speech_0129L=Puoi trovare il computer che controlla la chiusura magnetica da qualche parte nell'attico.
+Note_0158L=Ci potrebbero essere i progetti dell'edificio da qualche parte nel cantiere
+Speech_0163L=LAMBERT - Sam, Zherkezhi's penthouse is atop this building. He also has construction permits on other floors. Maybe you can dig up some blueprints.
+Speech_0014L=Fisher, il satellite indica che hai raggiunto l'edificio di Zherkezhi. Gli uffici della contea hanno i file con i permessi di costruzione per i piani sotto l'attico e nella struttura adiacente.
+Speech_0033L=Esistono piani o modelli su file?
+Speech_0034L=Dirò a Grim di guardarci, ma con il blackout...
+Speech_0035L=Capisco... vedrò se riesco a tirare fuori dei piani da qui.
+Speech_0036L=Buona idea.
+Speech_0164L=LAMBERT - Fisher, the mercenaries here all work for Displace International. That's Doug Shetland's company. I'm guessing that someone inside Displace is working both sides. See if you can find out who is in charge of the protection detail.
+Speech_0015L=Displace? Ma è la compagnia di Shetland.
+Speech_0039L=Lo so.
+Speech_0040L=Fisher, se scopriamo che Shetland si è fatto corrompere...
+Speech_0041L=Se Shetland è corrotto lo ucciderò personalmente, ma ho la sensazione che ci sia qualcosa di più.
+Speech_0042L=Può darsi. Cerca di scoprire chi si occupa di questa protezione. Forse qualcuno fa il doppio gioco all'interno di Displace.
+Speech_0043L=Buona idea.
+Speech_-001L=(null)
+Speech_0102L=Displace è la compagnia di Doug Shetland. Cerca di scoprire chi si occupa di questa storia. Non vorrei scoprire che qualcuno in Displace fa il doppio gioco.
+Speech_-001L=(null)
+Speech_0099L=Fisher, tutti questi mercenari lavorano per Displace International. È la compagnia di Doug Shetland. Credo che qualcuno in Displace stia facendo il doppio gioco. Cerca di scoprire chi si occupa di questa storia.
+Speech_-001L=(null)
+Speech_0106L=Ehm... oh...
+Speech_0107L=Cosa?
+Speech_0108L=Quei mercenari che abbiamo visto...
+Speech_0109L=Sì?
+Speech_0110L=Ho scoperto che lavorano per Displace International.
+Speech_0165L=GRIMSDOTTIR -  I've located Dvorak in the adjacent structure. Cross the roof through the magnetically locked doors to get to him. I've unlocked the doors for you.
+Speech_0016L=Trovato.
+Speech_0056L=Chi?
+Speech_0057L=Dvorak.
+Speech_0058L=Dov'è?
+Speech_0059L=Secondo questi dati è nell'edificio accanto. Puoi arrivarci dal tetto, una volta superate le porte a chiusura magnetica.
+Speech_0060L=Come le supero?
+Speech_0061L=Non sono più chiuse.
+Speech_0062L=Grazie dell'aiuto.
+Speech_-001L=(null)
+Speech_0104L=Dvorak è nella struttura adiacente. Ho sbloccato le porte magnetiche, così potrai passare dal tetto.
+Speech_-001L=(null)
+Speech_0126L=Ho individuato Dvorak nella struttura adiacente. Passa dalle porte magnetiche e attraversa il tetto per raggiungerlo. Ho sbloccato le porte per te.
+Speech_-001L=(null)
+Speech_0139L=Bene, ho recuperato l'output.
+Speech_0140L=Bel lavoro, Fisher, ora sparisci. Raggiungi il punto di estrazione primario.
+Speech_0141L=Bel lavoro, Fisher, completa gli altri obiettivi e vai al punto di estrazione.
+Speech_0156L=Bel lavoro, Fisher, ora sparisci. Raggiungi il punto di estrazione primario.
+Speech_0157L=LAMBERT - Good work Fisher, complete the rest of your objectives and proceed to extraction.
+Speech_0145L=Fisher... a giudicare da quello che abbiamo appena visto, credo che questa non sia una macchina a stati finiti.. ma a stati infiniti.
+Speech_0146L=Qual'è la differenza?
+Speech_0147L=Questa è autoreferenziale. Ogni coda di uscita rappresenta un set di istruzioni logiche che dice alla macchina di effettuare una ricorsione per derivare un set di istruzioni più preciso per il prossimo ciclo di esecuzione.
+Speech_0148L=Affascinante. Posso andare in bagno, adesso?
+Speech_0149L=Fisher... a giudicare da quello che abbiamo appena visto, credo che questa non sia una macchina a stati finiti.. ma a stati infiniti.
+Speech_0150L=Qual'è la differenza?
+Speech_0151L=Questa è autoreferenziale. Ogni coda di uscita rappresenta un set di istruzioni logiche che dice alla macchina di effettuare una ricorsione per derivare un set di istruzioni più preciso per il prossimo ciclo di esecuzione.
+Speech_0152L=Affascinante. Posso andare in bagno, adesso?
+Speech_0142L=Sto andando.
+Speech_0166L=GRIMSDOTTIR - Echelon has nothing on Milan Nedich. Looks like he's dirty and using Displace International for cover.
+Speech_0019L=Milan Nedich... non c'è niente su Echelon... Quell'uomo non esiste.
+Speech_0065L=Hm... Beh, chiunque sia fa il doppio gioco. Dobbiamo avvertire Shetland.
+Speech_0066L=Non si può fare, Sam. Non possiamo compromettere la sicurezza per interessi privati.
+Speech_0067L=Va bene... ma se trovo Nedich, diventerà un problema in meno.
+Speech_0068L=È ammirevole che tu voglia proteggere un amico, ma... 
+Speech_0069L=Hai detto che non esiste... sto solo correggendo un errore burocratico.
+Speech_-001L=(null)
+Speech_0111L=Echelon non ha niente su Milan Nedich. C'è qualcosa che puzza, credo stia usando Displace International come copertura. 
+
+
+Speech_0167L=GRIMSDOTTIR - Those plans you found were the architectural plans for the penthouse. I've uploaded them to your OPSAT.
+Speech_0020L=Hmm... permessi di lavoro, progetti... interessante... Zherkezhi ha una stanza bunker rinforzata vicino alla camera da letto...
+Speech_0049L=Controllerò.
+Speech_0050L=Sembra che abbia anche dei progetti di costruzione nell'edificio accanto...
+Speech_0051L=L'edificio accanto?
+Speech_0052L=Non sono un architetto, ma se ho letto bene i piani, i due palazzi sono collegati per mezzo dei tetti. Manderò i dati necessari sul tuo OPSAT. Dovresti riuscire a orientarti.
+Speech_0053L=Grazie.
+Speech_-001L=(null)
+Speech_0125L=Quelli che hai trovato sono i progetti dell'attico. Li ho caricati sull'OPSAT.
+Speech_0168L=REDDING - That's all the camera tapped Sam. Good job.
+Speech_0021L=Bel lavoro con le telecamere, Sam. I ragazzi potranno godersi Zherkezhi ventiquattr'ore su ventiquattro per tutta la settimana.
+Speech_0077L=È sempre un piacere offrire un po' di svago a quei culi di pietra.
+Speech_-001L=(null)
+Speech_0118L=Hai sistemato tutte le telecamere, Sam. Bel lavoro.
+Speech_-001L=(null)
+Speech_0153L=Questo collega Zherkezhi alla MCAS Bank di Panama. Obiettivo completato.
+Speech_-001L=(null)
+Speech_0022L=E questa è la conferma. Questi registri indicano che Zherkezhi ha effettuato una lunga serie di transazioni con la MCAS Bank di Panama.
+Speech_0044L=È lui che ha mandato le armi agli scagnozzi di Lacerda?
+Speech_0045L=Non è più importante, a questo punto. Dobbiamo comunque fare due chiacchiere.
+Speech_0046L=Dove posso trovarlo?
+Speech_0047L=Ci pensiamo noi, tu devi trovare Dvorak.
+Speech_0122L=Controlleremo, tu pensa a recuperare i dati di Dvorak. 
+Speech_0123L=Ci pensiamo noi, tu raggiungi il punto di estrazione.
+Speech_0048L=Va bene.
+Speech_-001L=(null)
+Speech_0103L=Sembra che Zherkezhi abbia effettuato una lunga serie di transazioni con la banca MCAS di Panama. Prima o poi dovremo parlargli. Per ora pensa ad arrivare all'estrazione.
+Speech_-001L=(null)
+Speech_0105L=Sembra che Zherkezhi abbia effettuato una lunga serie di transazioni con la banca MCAS di Panama. Prima o poi dovremo parlargli. Per ora pensa ad arrivare all'estrazione.
+Speech_-001L=(null)
+Speech_0124L=Sembra che Zherkezhi abbia effettuato una lunga serie di transazioni con la banca MCAS di Panama. Prima o poi dovremo parlargli. Intanto tu completa gli obiettivi ed esci di lì.
+Speech_0169L=REDDING - You've destroyed one of the IR cameras Sam, don't bother trying to tap the rest.
+Speech_0113L=Beh, così non ci servirà a molto.
+Speech_0114L=Cosa?
+Speech_0115L=Speravo di usare quelle telecamere per tenere d'occhio Zherkezhi... ma è meglio lasciar perdere.
+Speech_0116L=Scusa. È colpa mia.
+Speech_-001L=(null)
+Speech_0117L=Hai distrutto una delle telecamere a infrarossi, Sam. Lascia perdere le altre.
+Speech_0143L=Non ci serve altro. Raggiungi un punto di estrazione.
+Speech_0144L=Completa gli altri obiettivi e raggiungi un punto di estrazione.
+
+[P_04_Penthouse_Lift]
+
+[P_04_Penthouse_NGelevator]
+
+[P_04_Penthouse_NGTech]
+
+[P_04_Penthouse_Objectives]
+Objective_0046=Vai all'attico di Zherkezhi nell'edificio adiacente.
+Objective_0047=L'appartamento attico di Zherkezhi ha l'elettricità, ed è collegato al tetto dai cavi elettrici collegati alla grande insegna.
+Objective_0004=Accedi al server di Zherkezhi per scoprire chi è Dvorak
+Objective_0025=Accedi al terminale privato di Zherkezhi per scoprire chi è Dvorak. Il terminale probabilmente è nascosto da qualche parte dietro alla camera da letto grande.
+Note_0039L=La guardia nazionale è dalla nostra parte, non ucciderne nessuno.
+Objective_0003=Scopri per chi lavorano i mercenari
+Objective_0026=Gli uomini che proteggono Zherkezhi sembrano mercenari professionisti. Scopri per chi lavorano interrogandone uno o accedendo a uno dei loro computer.
+POPUPMESSAGE_0053=Scopri per chi lavorano i mercenari.
+Note_0021L=I mercenari lavorano per Displace International
+Note_0045L=Il codice per la porta di Dvorak è 0280
+Objective_0005=Trova Dvorak.
+Objective_0027=Vai nella parte abbandonata del palazzo, oltre il tetto, e trova il socio di Zherkezhi, Dvorak.
+POPUPMESSAGE_0054=Trova Dvorak.
+Note_0040L=Dvorak non è una persona. È un computer.
+Objective_0006=Trova una copia cartacea di un ciclo di esecuzione di Dvorak.
+Objective_0028=Fai ripartire il computer Dvorak senza surriscaldarlo e recupera le schede perforate che contengono i dati del suo ciclo di esecuzione.
+POPUPMESSAGE_0055=Recupera una stampa di un singolo ciclo di esecuzione di Dvorak.
+Objective_0011=Trova i registri mancanti della transazione
+Objective_0029=Trova informazioni aggiuntive sui traffici tra Zherkezhi o Dvorak e la Banca MCAS a Panama.
+Objective_0007=Vai al punto di estrazione primario.
+Objective_0030=Esci dall'ascensore principale nel soggiorno dell'attico di Zherkezhi.
+Note_0051L=I mercenari potrebbero usare mine da muro per fortificare le posizioni
+Objective_0013=(null)
+Objective_0014=(null)
+Objective_0015=(null)
+Objective_0001=Trova i piani dell'edificio.
+Objective_0032=Trova i piani dell'edificio.
+Objective_0002=Collegati alle telecamere dell'attico
+Objective_0033=Inserendoti nelle telecamere di sicurezza installate da Zherkezhi, Echelon potrà seguire più da vicino le sue attività.
+POPUPMESSAGE_0057=Prendi le telecamere dell'attico.
+Note_0041L=Puoi vedere la luce infrarossa proiettata dalle telecamere a infrarossi con la visione notturna.
+Objective_0008=Scopri chi è il responsabile dei piani di protezione di Zherkezhi
+Objective_0034=Alcune delle guardie potrebbero sapere chi ha l'incarico dei dettagli della protezione di Zherkezhi. Chiedi in giro.
+POPUPMESSAGE_0058=Scopri chi è incaricato dei dettagli della protezione di Zherkezhi.
+Note_0022L=Il capo protezione VIP è Milan Nedich
+Objective_0035=Vai all'attico di Zherkezhi nell'edificio adiacente.
+Objective_0036=L'appartamento attico di Zherkezhi ha l'elettricità, ed è collegato al tetto dai cavi elettrici collegati alla grande insegna.
+Objective_0037=Portati in cima all'edificio che sta usando la guardia nazionale.
+Objective_0038=La guardia nazionale sta ridando corrente per attivare l'ascensore e impiantare un posto di comando in cima all'edificio. Fatti strada per la tromba dell'ascensore o chiedi un passaggio.
+Note_0042L=I mercenari potrebbero usare mine da muro per fortificare le posizioni
+Note_0048L=I kit medici si trovano nei bagni dell'attico
+Note_0043L=C'è un kit medico nel cantiere
+Note_0044L=C'è un kit medico nella stanza antipanico di Zherkezhi
+Note_0019L=Porta magnetica sbloccata. Accesso al tetto OK
+Objective_0016=(null)
+Objective_0024=Vai al primo punto di estrazione disponibile
+Objective_0031=La missione è in pericolo. Esci dall'ascensore principale nel soggiorno dell'attico di Zherkezhi o giù per l'ascensore secondario nella sezione abbandonata dell'edificio.
+
+[P_04_Penthouse_PopUp_Messages]
+POPUPMESSAGE_0009=Raggiungi l'attico di Zherkezhi nell'edificio adiacente.
+POPUPMESSAGE_0011=Raggiungi l'attico di Zherkezhi nell'edificio adiacente.
+POPUPMESSAGE_0004=Scopri per chi lavorano i mercenari.
+POPUPMESSAGE_0006=Ottieni i registri mancanti della transazione.
+POPUPMESSAGE_0007=Accedi al server di Zherkezhi per determinare chi è Dvorak.
+POPUPMESSAGE_0012=Scopri per chi lavorano i mercenari.
+POPUPMESSAGE_0014=Scopri per chi lavorano i mercenari.
+POPUPMESSAGE_0015=Trova Dvorak.
+POPUPMESSAGE_0016=Rientra al punto di estrazione primario.
+POPUPMESSAGE_0001=Scopri per chi lavorano i mercenari.
+POPUPMESSAGE_0002=Accedi al server di Zherkezhi per determinare chi è Dvorak.
+POPUPMESSAGE_0005=Accedi al server di Zherkezhi per determinare chi è Dvorak.
+POPUPMESSAGE_0013=Trova Dvorak.
+POPUPMESSAGE_0018=Accedi al server di Zherkezhi per determinare chi è Dvorak.
+
+[P_04_Penthouse_SamIsAKiller]
+Speech_-001L=(null)
+Speech_0001L=Buon Dio, Fisher... cos'hai fatto?
+Speech_0002L=È stato un incidente.
+Speech_0003L=Non possiamo permetterci incidenti. Non sparare.
+Speech_-001L=(null)
+Speech_0004L=Dannazione, Sam. Hai ucciso un civile. Guarda dove spari.
+Speech_-001L=(null)
+Speech_0005L=Dannazione, Fisher... è il secondo civile che uccidi.
+Speech_0006L=Lambert... io...
+Speech_0007L=Risparmia le scuse per la tua valutazione. Completa gli obiettivi primari e scordati il resto. Sei un rischio.
+Speech_0009L=Ricevuto.
+Speech_-001L=(null)
+Speech_0008L=E così fanno due civili, Fisher. Sei impazzito? Annullo gli obiettivi supplementari. Completa i primari e vai subito all'estrazione.
+
+[P_04_Penthouse_SamIsAKiller_2]
+Speech_-001L=(null)
+Speech_0001L=Buon Dio, Fisher... cos'hai fatto?
+Speech_0002L=È stato un incidente.
+Speech_0003L=Non possiamo permetterci incidenti. Non sparare.
+Speech_-001L=(null)
+Speech_0004L=Dannazione, Sam. Hai ucciso un civile. Guarda dove spari.
+Speech_-001L=(null)
+Speech_0005L=Dannazione, Fisher... è il secondo civile che uccidi.
+Speech_0006L=Lambert... io...
+Speech_0007L=Risparmia le scuse per la tua valutazione. Completa gli obiettivi primari e scordati il resto. Sei un rischio.
+Speech_0008L=Ricevuto.
+Speech_-001L=(null)
+Speech_0009L=E così fanno due civili, Fisher. Sei impazzito? Annullo gli obiettivi supplementari. Completa i primari e vai subito all'estrazione.
+
+[P_04_Penthouse_SamIsAKiller3]
+Speech_-001L=(null)
+Speech_0001L=Buon Dio, Fisher... cos'hai fatto?
+Speech_0002L=È stato un incidente.
+Speech_0003L=Non possiamo permetterci incidenti. Non sparare.
+Speech_-001L=(null)
+Speech_0004L=Dannazione, Sam. Hai ucciso un civile. Guarda dove spari.
+Speech_-001L=(null)
+Speech_0005L=Dannazione, Fisher... è il secondo civile che uccidi.
+Speech_0006L=Lambert... io...
+Speech_0007L=Risparmia le scuse per la tua valutazione. Completa gli obiettivi primari e scordati il resto. Sei un rischio.
+Speech_0008L=Ricevuto.
+Speech_-001L=(null)
+Speech_0009L=E così fanno due civili, Fisher. Sei impazzito? Annullo gli obiettivi supplementari. Completa i primari e vai subito all'estrazione.
+
+[P_04_Penthouse_SamPosition]
+
+[P_04_Penthouse_SciptedObjects]
+
+[P_04_Penthouse_SRC_blackout]
+Speech_-001L=(null)
+Speech_0003L=Sai, è strano... pensa... ero al college quando ci fu il grande blackout del 2003.
+Speech_0013L=Sì... mi ricordo. Tutti pensavano che fosse un attacco terroristico.
+Speech_0007L=Heh... sì... Beh, nel 2003 se scoreggiavi tutti pensavano a un attacco terroristico.
+Speech_0008L=Non era saltato fuori che era colpa dei canadesi o roba del genere... problemi di cavi?
+Speech_0010L=Qualcosa del genere... non ricordo bene.
+Speech_0011L=Già... terroristi... canadesi... Che differenza c'è?
+Speech_0012L=Giusto.
+
+[P_04_Penthouse_SRC_Liquor]
+Speech_-001L=(null)
+Speech_0001L=Ehi... dov'è l'armadietto degli alcolici?
+Speech_0002L=Lascia perdere.
+Speech_0003L=Perché? Ho bisogno di un dannato drink... questo posto è una noia.
+Speech_0004L=Appunto. L'armadietto l'abbiamo svuotato tre settimane fa.
+Speech_0005L=Ah... accidenti...
+
+[P_04_Penthouse_SRC_NG1]
+Speech_-001L=(null)
+Speech_0001L=Ehi... hai sentito? I cinesi vogliono lanciare una missione di salvataggio per la stazione spaziale.
+Speech_0002L=Ah... non succederà mai.
+Speech_0003L=Cosa intendi?
+Speech_0004L=È impossibile... non hanno le conoscenze... non hanno la forza lavoro... non hanno la volontà... non hanno speranze.
+Speech_0005L=Hanno un razzo sulla piattaforma di lancio, pronto a partire.
+Speech_0006L=Già... proprio quello che ci serviva... una copia cinese da due soldi di un rottame di missile russo dell'era sovietica senza la testata e con una poltrona da dentista saldata dentro.
+Speech_0007L=Sempre meglio di uno scafo in ceramica con parti progettate da 30 aziende differenti in subappalto al minor offerente trovato da chi a sua volta offriva di meno, costruito in 12 stati differenti da membri di 8 diversi sindacati che sono ancora in tribunale per quel pezzo di plastica da 4 centesimi che si è rotto durante il trasporto e che ha finito per costare ai contribuenti cento milioni di dollari perché era costruito con una tolleranza di un millimetro invece che 1/25 di pollice.
+Speech_0008L=Hm... pensavo che un millimetro fosse proprio 1/25 di pollice.
+Speech_0009L=Ecco perché dobbiamo farci salvare il culo dai cinesi.
+
+[P_04_Penthouse_SubNavMeshes]
+
+[P_04_Penthouse_TVLoop]
+Speech_-001L=(null)
+Speech_0001L=... passiamo alle altre notizie... il blackout sulla costa est superato da poco le ventiquattro ore. I governatori di sei stati dell'est si sono incontrati per una conferenza di emergenza e hanno concordato all'unanimità sulla necessità dell'intervento della Guardia Nazionale per limitare i crescenti disordini...
+Speech_-001L=(null)
+Speech_0002L=...cambiamo argomento... Il direttore dell'Agenzia Spaziale Nazionale Cinese Liu si è offerto pubblicamente di tentare il recupero degli astronauti bloccati sulla stazione spaziale internazionale, sostenendo che l'ASNC ha a disposizione un razzo Shenzhue che potrebbe essere rifornito e preparato per un lancio di emergenza entro settantadue ore... ancora non si è avuta risposta da parte delle autorità della NASA e dell'ESA.
+

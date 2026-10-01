@@ -1,0 +1,18 @@
+[GENERAL]
+MapName=ENTRAINEMENT COOP.
+Briefing_LAMBERT=VOUS DEVEZ APPRENDRE À FAIRE ÉQUIPE POUR ATTEINDRE VOS OBJECTIFS. QUAND VOUS SEREZ EN OPÉRATION, VOUS N'AUREZ QUE VOTRE INTELLIGENCE ET VOTRE COÉQUIPIER POUR VOUS AIDER. APPRENEZ À LUI FAIRE CONFIANCE!
+Briefing=A FAIRE
+
+[Email]
+EmailShareEquipBody=Pour entamer le mouvement Echange d'équipement, placez-vous à côté de l'autre agent et appuyez sur la touche d'interaction (A). L'autre agent doit lui aussi appuyer sur la touche d'interaction (A) pour poursuivre le mouvement. Cela permet d'exécuter le mouvement et de transférer l'objet sélectionné.
+EmailShareEquipDate=23/06/2007
+EmailShareEquipFrom=Dan
+EmailShareEquipSubject=Echange d'équipement
+EmailShareEquipTo=Seb
+
+
+[Computer]
+CompDeactivateLaserGrid=Désactiver les lasers
+
+[Interaction]
+LCDScreen=Repasser les astuces

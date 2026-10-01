@@ -1,0 +1,614 @@
+[P_02_CargoShip_AlarmManager]
+POPUPMESSAGE_0001=Alarma de nivel uno
+POPUPMESSAGE_0002=Alarma de nivel dos - El enemigo se coloca el chaleco.
+Note_0005L=Los enemigos llevan chalecos blindados.
+POPUPMESSAGE_0003=Alarma de nivel tres - El enemigo se coloca el casco.
+Note_0006L=Los enemigos llevan cascos.
+POPUPMESSAGE_0004=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+Note_0007L=Los enemigos han reforzado sus posiciones.
+POPUPMESSAGE_0006=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+
+[P_02_CargoShip_BackSideCargoSoldiers]
+Speech_-001L=(null)
+Speech_0001L=Me encanta el olor del mar.
+Speech_0004L=A mí sólo me huele a gasoil y a vómitos.
+Speech_0002L=Venga, disfruta mientras puedas. Cuando quieras darte cuenta, estarás sudando en alguna otra jungla.
+Speech_0005L=Por lo menos en la jungla no se coge el escorbuto.
+Speech_0003L=Ya, y en un barco no hay peligro de que te devore un caimán.
+
+[P_02_CargoShip_BodyGuards]
+Speech_-001L=(null)
+Speech_0001L=Damiem - Hey, why don't you pour us a glass too?
+Speech_-001L=(null)
+Speech_0002L=Norman - I'll just have a beer actually...
+
+[P_02_CargoShip_BowNavMesh]
+
+[P_02_CargoShip_BowSoldiers]
+Speech_-001L=(null)
+Speech_0001L=¿Qué estás haciendo aquí?
+Speech_0005L=Nada, sólo quería quitarme a Lacerda de la vista.
+Speech_0002L=Dímelo a mí. Menudo huevón.
+Speech_0006L=Deberíamos matarlo y arrojarlo por la borda.
+Speech_0003L=Estoy de acuerdo, pero esos tíos que lo protegen...
+Speech_0007L=Sí, tienes razón. Parecen peligrosos.
+
+[P_02_CargoShip_CaptainCheckGrab]
+
+[P_02_CargoShip_CoffeeRoomSoldiers]
+Speech_-001L=(null)
+Speech_0001L=Hay algo que no entiendo. Se supone que llevamos café de Colombia, el mejor del mundo.
+Speech_0009L=Pero el café sabe a estiércol de cabra.
+Speech_0002L=Exacto. ¿Se puede saber la razón?
+Speech_0010L=El capitán Diego compra el café más barato que encuentra.
+Speech_0003L=¿Por qué?
+Speech_0011L=Porque el café barato huele más fuerte. A los perros les cuesta olfatear lo que se esconde debajo.
+Speech_0004L=Aaah. Tiene su lógica. Pero me gustaría tomar una buena taza de café.
+Speech_0012L=Dímelo a mí.
+
+[P_02_CargoShip_Doctor]
+
+[P_02_CargoShip_Emitters]
+POPUPMESSAGE_0004=Busca el camarote de Lacerda.
+POPUPMESSAGE_0005=Coloca rastreadores en cualquier caja de armas ilegales.
+
+[P_02_CargoShip_EngineSoldiers]
+Speech_-001L=(null)
+Speech_0001L=Eh... Te has tirado...
+Speech_0005L=No. Creí que habías sido tú.
+Speech_0002L=No he sido yo. ¡Tío, qué mal huele!
+Speech_0006L=Huele a... No estoy seguro... Es como gas...
+Speech_0003L=Huele a cieno.
+Speech_0007L=Sí, huele igual que los vapores de una ciénaga.
+Speech_0004L=¿Crees que es peligroso?
+Speech_0010L=Supongo que no.
+
+[P_02_CargoShip_FirstFloorSoldier]
+
+[P_02_CargoShip_HoldSoldiers]
+Speech_-001L=(null)
+Speech_0001L=¿Vas a encender esa bomba o qué?
+Speech_0006L=No sé cómo funciona este maldito cacharro.
+Speech_0002L=El capitán Diego dice que te des prisa o nos hundimos.
+Speech_0007L=Si me equivoco, nos hundiremos antes.
+Speech_0011L=Nemesio - Then don't do it wrong.
+Speech_0012L=Saul - Easy for you to say.
+Speech_0003L=Pues no te equivoques.
+Speech_0008L=Qué fácil es decirlo.
+
+[P_02_CargoShip_InteroBedroomOfficer]
+Speech_-001L=(null)
+Speech_0001L=Qué tranquilo está esto...
+Speech_0002L=¡Aah!
+Speech_0003L=Oscuro y silencioso. Ideal para esconder un cadáver.
+Speech_0004L=¡No, por favor! Te diré todo lo que quieras.
+Speech_0005L=Cuéntame los planes de Lacerda.
+Speech_0006L=Está entregando armas a gente con la que está en deuda. Intenta ganar apoyos.
+Speech_0007L=¿Para qué?
+Speech_0008L=Es un chiflado. Cree en la revolución.
+Speech_-001L=(null)
+Speech_0009L=No le tengo aprecio a Lacerda. Por mí, mátalo.
+Speech_-001L=(null)
+Speech_0011L=No se lo diré a nadie.
+
+[P_02_CargoShip_InterogateCaptain]
+Speech_-001L=(null)
+Speech_0001L=Creo que hoy tiene a un pasajero especial.
+Speech_0002L=¿Quién es usted?
+Speech_0003L=Soy el tipo que ha venido a cobrar las deudas de Lacerda. ¿Dónde está?
+Speech_0006L=Ese hijo de... He tenido que cederle mi camarote para que cierre la boca de una vez.
+Speech_0007L=Muy amable por su parte.
+Speech_0008L=Tenga cuidado. Ha traído guardaespaldas, y parecen peligrosos.
+Speech_0009L=No temo a sus matones guerrilleros.
+Speech_0010L=No son peruanos. Son europeos. Yo diría que profesionales.
+Speech_0011L=Gracias por el aviso.
+Speech_0012L=De nada.
+Speech_-001L=(null)
+Speech_0013L=Me alegro de verle, pero mis hombres le dispararán si le ven.
+Speech_-001L=(null)
+Speech_0014L=Si me trae su cadáver, se lo echaré a las ratas.
+
+[P_02_CargoShip_InterogBodyGuards]
+Speech_-001L=(null)
+Speech_0001L=¿Quién eres tú?
+Speech_0002L=¿Qui-quién...?
+Speech_0003L=Tú no eres esbirro de Lacerda. ¿Qué estás haciendo aquí?
+Speech_0004L=No sé qué...
+Speech_0005L=¿De quién proteges a Lacerda?
+Speech_0006L=Lacerda es muy impopular. Tiene muchos enemigos.
+Speech_0007L=¿Para quién son las armas?
+Speech_0008L=Lacerda las quiere para pagar sus deudas... y ganarse amigos.
+Speech_-001L=(null)
+Speech_0010L=Quiere dar un golpe en Perú, pero no va a funcionar.
+Speech_-001L=(null)
+Speech_0011L=Lacerda no tiene cerebro, ni carisma.
+
+[P_02_CargoShip_InterogBreakSoldBow]
+Speech_-001L=(null)
+Speech_0001L=Bonita noche...
+Speech_0002L=¿Qué...?
+Speech_0003L=Chsss... ¿Cuántos hombres hay a bordo?
+Speech_0004L=¿En total? Somos treinta y seis, creo... incluyendo a Lacerda y a un par de tipos con pinta de mercenarios que ha traído con él.
+Speech_0005L=¿Dónde está Lacerda?
+Speech_0006L=Estuvo aquí hace veinte minutos, quejándose de su camarote. Exigía que le dieran otro.
+Speech_-001L=(null)
+Speech_0008L=No encontrarás a Lacerda donde haya trabajo que hacer.
+Speech_-001L=(null)
+Speech_0009L=Lacerda ya debe estar borracho.
+
+[P_02_CargoShip_InterogCoffeeSoldier]
+Speech_-001L=(null)
+Speech_0001L=Cuéntame algo útil, o tendré que hacerte daño.
+Speech_0002L=No, por favor.
+Speech_0003L=No supliques. Es patético.
+Speech_0004L=En esta cubierta no hay gran cosa. La cafetería, y poco más. Arriba están los camarotes de los oficiales. Hay bastantes hombres.
+Speech_-001L=(null)
+Speech_0017L=El capitán Diego le ha cedido su camarote a Lacerda, una cubierta más arriba.
+Speech_0018L=Qué amable es el capitán.
+Speech_0019L=Ya no aguantaba las quejas de Lacerda. Es insoportable.
+Speech_0020L=Entonces le dispararé por vosotros.
+Speech_-001L=(null)
+Speech_0005L=Pareces uno de los hombres de Lacerda.
+Speech_0006L=Eh... Sí, así es.
+Speech_0007L=Mal asunto. Dime dónde puedo encontrarlo.
+Speech_-001L=(null)
+Speech_0021L=Antes andaba por aquí, de malas pulgas. Decía que iba a exigirle al capitán un camarote mejor.
+Speech_0022L=Así que el capitán debe saber dónde está.
+Speech_0023L=Supongo que sí.
+Speech_-001L=(null)
+Speech_0015L=Soy un buen tipo, de veras.
+Speech_-001L=(null)
+Speech_0016L=Tengo miedo a morir.
+
+[P_02_CargoShip_InterogEngineFenceS]
+Speech_-001L=(null)
+Speech_0001L=Tranquilo. No queremos que salgan chispas.
+Speech_0002L=¿Qui-quién eres?
+Speech_0003L=Soy el jefe de bomberos, y me preocupa que tú o alguno de tus amigos se le ocurra organizar un tiroteo aquí.
+Speech_0004L=¿Por qué?
+Speech_0005L=¿No hueles a gas?
+Speech_0006L=Pero... creía que no era peligroso.
+Speech_0007L=Imagina que tuvieras que recoger y guardar la munición para evitar accidentes. ¿Dónde la pondrías?
+Speech_0008L=Los hombres duermen a estribor, así que gira a la izquierda al salir de la sala de máquinas. Allí tienen una caja llena de armas nuevas, y creo que hay más material.
+Speech_-001L=(null)
+Speech_0009L=Prometo no disparar el arma.
+Speech_-001L=(null)
+Speech_0010L=Ni siquiera encenderé una cerilla.
+
+[P_02_CargoShip_InterogLacerda]
+Speech_-001L=(null)
+Speech_0001L=No te molestes en suplicar. Ya estás muerto.
+Speech_0004L=¿Qué... qué he hecho?
+Speech_0010L=Poca cosa. Ordenar una ejecución.
+Speech_0011L=¡Eso es mentira!
+Speech_0012L=Morgenholt. Tus hombres lo han torturado hasta la muerte.
+Speech_0013L=No, por favor. Arréstame, llévame a juicio, pero no me mates.
+Speech_0014L=Dime algo interesante y a lo mejor te dejo vivir.
+Speech_0015L=Me pagaron para secuestrarle e interrogarle...
+Speech_-001L=(null)
+Speech_0005L=¿Quiénes?
+Speech_0006L=No lo sé. Tratábamos siempre de incógnito. Debe de ser gente muy poderosa.
+Speech_0016L=Interesante. Pero no lo suficiente.
+Speech_0017L=No, no... Espera... Por favor...
+Speech_0018L=No malgastes tu tiempo. Se te está acabando.
+Speech_-001L=(null)
+Speech_0019L=Chsss... No montes una escena.
+Speech_0020L=Gulp... Santo Dios...
+Speech_0021L=No exactamente. Pero si te apetece rezar...
+Speech_0022L=Por favor, no me mates...
+Speech_-001L=(null)
+Speech_0023L=Contéstale...
+Speech_0024L=Oh... sí, sí... ¡Estoy buscando ron!
+Speech_-001L=(null)
+Speech_0025L=No, no, no hace falta.
+Speech_0026L=Bien hecho.
+Speech_-001L=(null)
+Speech_0027L=Deja que me vaya. No les diré que te he visto.
+Speech_0028L=No tienes ni idea de lo que está pasando, ¿verdad? Tus matones torturaron a Morgenholt hasta la muerte. Tú eres el responsable.
+Speech_0029L=Oh, no... No fue culpa mía...
+Speech_0030L=Ser un mentiroso es peor que ser un cobarde un mentiroso. Tú diste la orden. Por eso vas a morir. \n
+Speech_0031L=Por favor...
+Speech_0032L=Primero, dime quién te pagó para secuestrarlo.
+Speech_0033L=No lo sé. Me Contactaron de forma indirecta, y me advirtieron que no intentara averiguar quiénes eran.
+Speech_-001L=(null)
+Speech_0034L=¡Un momento! Si no dejas que me vaya, vendrán aquí a buscarme.
+Speech_0035L=Ni lo sueñes.
+Speech_-001L=(null)
+Speech_0038L=Soy un cobarde... Por favor...
+Speech_-001L=(null)
+Speech_0039L=Lo siento... No fue culpa mía...
+Speech_-001L=(null)
+Speech_0040L=LACERDA - I don't deserve this.
+
+[P_02_CargoShip_InterogMShopSailor]
+Speech_-001L=(null)
+Speech_0001L=Búu.
+Speech_0002L=Dios mío, ¿cómo has...?
+Speech_0005L=Las preguntas las hago yo. Háblame de la lancha.
+Speech_0006L=¿Qué lancha?
+Speech_0007L=La que está ahí sujeta.
+Speech_0008L=Lo único que tienes que hacer es empujar esa palanca y montar. ¿Qué más quieres saber?
+Speech_0009L=No estará minada...
+Speech_0010L=¿Cómo vamos a minar un bote salvavidas?
+Speech_-001L=(null)
+Speech_0003L=Adelante, coge la lancha. Cuanto antes te vayas, mejor.
+Speech_-001L=(null)
+Speech_0004L=No pienso detenerte.
+
+[P_02_CargoShip_InterogOfficeSoldier]
+Speech_-001L=(null)
+Speech_0001L=¿Qué estás haciendo aquí?
+Speech_0002L=Yo iba a preguntarte lo mismo.
+Speech_0003L=Yo tengo un cuchillo, así que tú primero.
+Speech_0004L=Se supone que estoy patrullando la oficina y la enfermería.
+Speech_0005L=¿Qué más hay en esta cubierta?
+Speech_0006L=Nada. En la de arriba están la cocina y la cafetería. Debajo, la sala de máquinas.
+Speech_-001L=(null)
+Speech_0007L=No sé más. Es mi segundo día a bordo.
+Speech_-001L=(null)
+Speech_0008L=Si vas a herirme, al menos hazlo cerca de la enfermería.
+
+[P_02_CargoShip_InterogPumpUpSoldier]
+Speech_-001L=(null)
+Speech_0001L=Hay mucho ruido aquí abajo.
+Speech_0002L=Oh, por...
+Speech_0003L=Así es más fácil no ser oído. ¿Qué hay aquí?
+Speech_0004L=Ésta es la bomba auxiliar. Hay unos cuantos compartimentos inundados. Tenemos que achicarlos con la bomba.
+Speech_0005L=Gracias por la información.
+Speech_-001L=(null)
+Speech_0007L=Soy nuevo en esto de la revolución.
+Speech_-001L=(null)
+Speech_0008L=No quiero morir.
+
+[P_02_CargoShip_InterogServerSoldier]
+Speech_-001L=(null)
+Speech_0001L=¿Qué hay aquí?
+Speech_0002L=¿De dónde diablos has salido?
+Speech_0003L=No importa. Estoy buscando a Hugo Lacerda.
+Speech_0004L=Oh... Puede que el capitán guarde en el servidor un archivo con la lista de camarotes.
+Speech_0005L=¿Un servidor?
+Speech_0006L=Técnicamente es un servidor, pero básicamente es una chatarra.
+Speech_0007L=Mientras me diga lo que quiero saber...
+Speech_-001L=(null)
+Speech_0008L=Por favor, deja que me vaya.
+Speech_-001L=(null)
+Speech_0009L=Nunca he hecho daño a nadie.
+
+[P_02_CargoShip_InterogTopDeckSold]
+Speech_-001L=(null)
+Speech_0001L=Aquí arriba hay mucha gente...
+Speech_0002L=Oh, no... Ah... sí... esta ratonera apesta. Prefiero el aire fresco.
+Speech_0003L=¿Qué hay aquí arriba?
+Speech_0004L=La sala de radio, la del servidor y la plataforma de observación.
+Speech_0005L=¿Algo más?
+Speech_0006L=Hay una escalerilla de emergencia que baja a la lancha de popa.
+Speech_-001L=(null)
+Speech_0009L=No sé nada más.
+Speech_-001L=(null)
+Speech_0011L=No he hecho nada malo.
+
+[P_02_CargoShip_InteroQuartCrowSold]
+Speech_-001L=(null)
+Speech_0001L=Bonitos camarotes.
+Speech_0002L=¿Cómo...? Ah, éstos son los camarotes de los oficiales. El del capitán está al otro lado del vestíbulo.
+Speech_0003L=¿Tú eres un oficial?
+Speech_0004L=No, soy pasajero. Vengo con Lacerda. Nos han dejado sus camarotes.
+Speech_0005L=Debéis ser huéspedes muy importantes.
+Speech_0006L=Lacerda paga muy bien al capitán.
+Speech_0007L=¿En armas?
+Speech_0008L=Eso creo.
+Speech_-001L=(null)
+Speech_0010L=Si vas a por Lacerda, cuidado con sus guardaespaldas.
+Speech_-001L=(null)
+Speech_0011L=No quiero morir en este buque roñoso.
+
+[P_02_CargoShip_LambertComms]
+Speech_-001L=(null)
+Speech_0001L=Según el último informe en dique seco de la compañía Celestinia, el Maria Narcissa tiene un sistema de alarma recién instalado.
+Speech_0012L=No me lo digas: tres alarmas y se acabó la misión.
+Speech_0010L=Vamos, Fisher, esto no es un juego. Pero no te conviene alertar a todo el barco de tu presencia. Controla las alarmas.
+Speech_-001L=(null)
+Speech_0025L=Fisher, hemos interceptado una emisión del Maria Narcisa. Tienen una brecha en el casco y piden escolta.
+Speech_0026L=¿Se está hundiendo el barco?
+Speech_0027L=No, pero hay varios compartimentos inundados. Tendrás que activar la bomba para acceder a todas las bodegas. Está a proa, en la sala de máquinas.
+Speech_-001L=(null)
+Speech_0110L=Parte de la bodega está inundada. Tienes que activar la bomba de achique, en la sala de máquinas del castillo de proa.
+Speech_-001L=(null)
+Speech_0033L=Fisher, parece que Lacerda se dedica a repartir sus bienes. Está pagando deudas con parte del armamento que le han entregado. 
+Speech_0034L=Quieres que busque más embalajes con armas.
+Speech_0035L=Aún mejor: ponles dispositivos de rastreo, para que averigüemos en manos de quién acaban.
+Speech_0036L=Bien.
+Speech_-001L=(null)
+Speech_0028L=Tiene que haber una bomba para achicar el agua de la bodega delantera.
+Speech_0029L=La encontraré.
+Speech_-001L=(null)
+Speech_0030L=Esos compartimentos están anegados. Activa la bomba de emergencia de la sentina para achicar el agua.
+Speech_-001L=(null)
+Speech_0037L=Bien hecho, Sam. Has conseguido achicar el agua.
+Speech_0038L=Parte de la bodega está inundada. Tienes que activar la bomba de achique, en la sala de máquinas del castillo de proa.
+Speech_-001L=(null)
+Speech_0031L=Bien hecho. Eso achicará los compartimentos inundados. Ya puedes buscar el albarán del cargamento de Lacerda.
+Speech_0032L=De acuerdo.
+Speech_-001L=(null)
+Speech_0111L=Bien hecho, Sam. Has conseguido achicar el agua.
+Speech_-001L=(null)
+Speech_0039L=Bien hecho, Sam. Ésa era la primera caja. Intenta encontrar las demás.
+Speech_0040L=De acuerdo.
+Speech_-001L=(null)
+Speech_0041L=Bien, Sam. A juzgar por la numeración de las cajas, ya llevas la mitad. Intenta encontrar las demás.
+Speech_-001L=(null)
+Speech_0042L=Buen trabajo, Sam. Quedan dos cajas.
+Speech_-001L=(null)
+Speech_0043L=Ánimo, Sam. Ya sólo te queda una.
+Speech_-001L=(null)
+Speech_0044L=Ésa era la última caja de armamento, Sam. Ahora podremos seguirles el rastro y descubrir qué conexiones tiene Lacerda.
+Speech_-001L=(null)
+Speech_0045L=Ésa era la última caja de armamento. Buen trabajo.
+Speech_0046L=Hay más cajas con armas en el barco. Coloca un dispositivo de rastreo en cada una.
+Speech_-001L=(null)
+Speech_0006L=Los sensores de tu traje detectan mucho humo ahí abajo.
+Speech_0007L=Lo huelo. Parece un escape de gas.
+Speech_0017L=Puede haber riesgo de explosión. No podemos permitirnos un incendio en la sala de máquinas...
+Speech_0018L=Estupendo.
+Speech_0019L=No esperes que el enemigo sea lo bastante listo para darse cuenta. Son capaces de abrir fuego si te descubren...
+Speech_0020L=Ya capto el mensaje. Seré sigiloso.
+Speech_-001L=(null)
+Speech_0105L=Hay un escape en la sala de máquinas. Si salta una chispa, puedes volar.
+Speech_-001L=(null)
+Speech_0021L=Hay un escape en la sala de máquinas. Si salta una chispa, puedes volar.
+Speech_0076L=Según el albarán, Lacerda recibió las armas utilizando como intermediario un banco de Panamá.
+Speech_0090L=Los libros de Lacerda son falsos. El cargamento va a nombre de Nakariakov, una clave utilizada por los traficantes de armas filipinos.  
+Speech_-001L=(null)
+Speech_0054L=Fisher, te acabas de pasar el único compartimento que queda por registrar. Comprueba si el contenedor de Lacerda está ahí.
+Speech_0055L=Gracias por la sugerencia.
+POPUPMESSAGE_0118=Consigue el albarán de entrega para el envío de armas de Lacerda.
+Speech_-001L=(null)
+Speech_0056L=Apuesto a que el contenedor de Lacerda está en este compartimento. El albarán debe estar pegado en un costado.
+Speech_0057L=Echaré un vistazo.
+Speech_-001L=(null)
+Speech_0058L=Buen trabajo. Parece que quien entregó las armas a Lacerda actuó por poderes.
+Speech_0059L=¿Quién fue?
+Speech_0060L=Seguridad Mercantil Costa Afuerda de Panamá.
+Speech_0061L=Un banco transnacional...
+Speech_0062L=Un paraíso fiscal, ya sabes.
+Speech_0063L=Me encantan las finanzas.
+Speech_-001L=(null)
+Speech_0106L=Según el albarán, Lacerda recibió las armas utilizando como intermediario un banco de Panamá.
+Speech_0077L=Eso completa todos tus objetivos primarios. Puedes salir de ahí cuando quieras.
+Speech_0078L=De acuerdo.
+Speech_0079L=Tienes que conseguir los libros de contabilidad para averiguar con quién más tiene tratos Lacerda. Busca en la oficina del barco.
+POPUPMESSAGE_0101=Busca el registro de tránsito del barco para el cargamento de Lacerda.
+Speech_0080L=Aún tienes que averiguar dónde se esconde Lacerda.
+Speech_0081L=A lo mejor el capitán sabe dónde está.
+Speech_0082L=Buena idea. ¿Por qué no vas al puente y preguntas?
+Speech_0135L=En el ordenador del barco debe haber una lista de camarotes. El centro de radio y comunicaciones está en el puente.
+Speech_0083L=Todavía tienes que asistir a tu cita con Lacerda. Está en el camarote del capitán.
+Speech_0084L=Se me ha olvidado traerle flores.
+POPUPMESSAGE_0102=Elimina a Hugo Lacerda.
+Speech_-001L=(null)
+Speech_0085L=Sam, estás cerca de las oficinas. En esa cubierta, a estribor.
+Speech_0086L=¿Están allí los libros de contabilidad?
+Speech_0087L=Allí deberían estar.
+POPUPMESSAGE_0119=Busca el registro de tránsito del barco para el cargamento de Lacerda.
+Speech_-001L=(null)
+Speech_0011L=Esos libros son falsos. Dicen que en el contenedor de Lacerda hay caña de azúcar y cocos, de un tal Nakariakov de Malasia. 
+Speech_0064L=Nakariakov... Ese nombre me suena.
+Speech_0065L=Nakariakov es la clave utilizada por los narcos filipinos para los cargamentos de armas. 
+Speech_0066L=En vez de cocos de Malasia, Lacerda ha comprado armas de un ruso imaginario.
+Speech_-001L=(null)
+Speech_0107L=Los libros de Lacerda son falsos. El cargamento va a nombre de Nakariakov, una clave utilizada por los traficantes de armas filipinos.  
+Speech_0088L=Exacto. Has completado todos tus objetivos primarios. Puedes salir de ahí cuando quieras.
+Speech_0089L=Muy bien.
+Speech_0067L=Exacto. Pero aún tenemos que encontrar el albarán auténtico. Vuelve a las bodegas, en la cubierta inferior.
+Speech_0068L=Ya voy.
+POPUPMESSAGE_0103=Consigue el albarán de entrega para el envío de armas de Lacerda.
+Speech_0069L=Exacto. Ahora, ¿por qué no averiguas dónde se esconde Lacerda?
+Speech_0070L=A lo mejor el capitán sabe dónde está.
+Speech_0071L=Buena idea. ¿Por qué no vas al puente y preguntas?
+Speech_0136L=En el ordenador del barco debe haber una lista de camarotes. El centro de radio y comunicaciones está en el puente.
+Speech_0072L=Todavía tienes que asistir a tu cita con Lacerda. Está en el camarote del capitán.
+Speech_0073L=Se me ha olvidado traerle flores.
+POPUPMESSAGE_0104=Elimina a Hugo Lacerda.
+Speech_-001L=(null)
+Speech_0022L=Maldición, Fisher, probablemente es el único a bordo que sabe dónde está Lacerda.
+Speech_0023L=Entonces tendré que registrar todo el barco.
+Speech_0024L=En el ordenador del barco debe haber una lista de camarotes. El centro de radio y comunicaciones está en el puente.
+Speech_-001L=(null)
+Speech_0108L=Puede que el capitán tenga un registro de la asignación de camarotes. Ve al puente superior y averigua en qué camarote está Lacerda.
+Speech_-001L=(null)
+Speech_0091L=Lacerda se aloja en el camarote del capitán...
+Speech_0092L=¿Dónde está eso?
+Speech_0093L=Cubierta tres, a babor. Sólo se puede acceder por las dos escaleras interiores.
+POPUPMESSAGE_0120=Elimina a Hugo Lacerda.
+Speech_-001L=(null)
+Speech_0109L=Lacerda está en el camarote del capitán. Cubierta tres, a babor. Usa las escaleras interiores.
+POPUPMESSAGE_0121=Elimina a Hugo Lacerda.
+Speech_-001L=(null)
+Speech_0094L=Buen trabajo. Informaré al Estado Mayor de que Lacerda ha sido neutralizado.
+Speech_0099L=Fisher, no podemos sacarte hasta que completes los objetivos primarios.
+Speech_0100L=De acuerdo, volveré atrás.
+Speech_-001L=(null)
+Speech_0003L=Buen trabajo. Informaré al Estado Mayor de que Lacerda ha sido neutralizado. Has cumplido tus objetivos primarios. Te sacaremos de ahí en cuanto estés listo.
+Speech_-001L=(null)
+Speech_0097L=Lacerda está en el camarote del capitán. Cubierta tres, a babor. Usa las escaleras interiores.
+Speech_0098L=Puede que el capitán tenga un registro de la asignación de camarotes. Ve al puente superior y averigua en qué camarote está Lacerda.
+Speech_-001L=(null)
+Speech_0047L=Ése es su sistema de alarma, Fisher. Ten cuidado.
+Speech_-001L=(null)
+Speech_0048L=Fisher, ten cuidado. Si alertas a todo el barco, te arrepentirás.
+Speech_-001L=(null)
+Speech_0049L=Fisher, eres una calamidad.
+Speech_0050L=Sólo es otra alarma...
+Speech_0051L=Es más que eso. Todo el barco está en alerta. Completa tus objetivos primarios y olvida lo demás.
+Speech_-001L=(null)
+Speech_0052L=Maldita sea, has despertado al avispero. Todo el barco está en alerta.
+Speech_0053L=Fisher, el barco tiene un sistema de alarma centralizado. Si disparas muchas alarmas, sabrán que estás allí y las cosas se pondrán feas.
+Speech_-001L=(null)
+Speech_0112L=Officials in Peru have confirmed the recovery of the body of American Computer Engineer Bruce Morgenholt. No cause of death has yet been announced, but the State Department has demanded an apology from the Peruvian Army for their possible role in a botched rescue operation.
+Speech_0113L=In Japan, Admiral Toshiro Otomo publicly revealed I-SDF findings relating to events leading up to 'Black Gold Da'. The I-SDF report alleges that North Korean and Chinese information warfare attacks may have manipulated worldwide markets to bring about the economic collapse in Japan.
+Speech_-001L=(null)
+Speech_0114L=La información que has conseguido en Perú apunta a que Hugo Lacerda fue contratado por terceros para secuestrar e interrogar a Morgenholt. Le pagaron en armas, que ha utilizado para equipar a sus hombres y pagar deudas contraídas con otros grupos guerrilleros. Lacerda es un perdedor, pero gracias a Morgenholt tal vez haya descubierto información confidencial. La Maria Narcissa está en altamar, así que no tiene escapatoria. Aborda el barco, regístralo, averigua con quién ha tenido tratos Lacerda y asegúrate de que no divulgue lo que sabe. Tienes carta blanca para hacer lo que sea necesario..
+Speech_0115L=Lo que Morgenholt sabía sobre los kernels de Masse, computación recursiva y algoritmos de armamento, es parecido a lo que sabía Oppenheimer sobre física atómica o Turing sobre ordenadores digitales. El Proyecto Mason sobre los Kernels de Masse será recordado junto con el Proyecto Manhattan como el avance científico que cambió la naturaleza de la guerra para siempre. Imagínate que el Che Guevara hubiera secuestrado e interrogado a Oppenheimer en 1959. Ahora nos encontramos en una situación similar.
+Speech_0116L=Vamos a llevar el helicóptero a cuarenta kilómetros del Maria Narcisa y a dejarte en el agua, interceptando su rumbo. Tendrás que abordarla por la proa sin que te detecten. Registra la nave y las bodegas. Averigua lo que puedas sobre los cargamentos de armas y descubre con quién trata Lacerda. El satélite muestra que hay una lancha a popa. Ése será tu recurso primario para la extracción. Si las cosas van mal, intentaremos rescatarte por mar.
+Speech_0117L=El Walsh se mantendrá a una distancia tal que el Maria Narcissa esté siempre al alcance del helicóptero. Si algo va mal, te ayudaremos a escapar. Pero si todo va bien y huyes en la lancha del barco, te recogeremos cuando estés fuera de su vista.
+Speech_0122L=Parte de la bodega está inundada. Tienes que activar la bomba de achique, en la sala de máquinas del castillo de proa.
+Speech_0124L=Hay un escape en la sala de máquinas. Si salta una chispa, puedes volar.
+Speech_0125L=Bien hecho, Sam. Has conseguido achicar el agua.
+Speech_0126L=Hay más cajas con armas en el barco. Coloca un dispositivo de rastreo en cada una.
+Speech_0127L=Hay más cajas con armas en el barco. Coloca un dispositivo de rastreo en cada una.
+Speech_0128L=Hay más cajas con armas en el barco. Coloca un dispositivo de rastreo en cada una.
+Speech_0129L=Hay más cajas con armas en el barco. Coloca un dispositivo de rastreo en cada una.
+Speech_0130L=Ésa era la última caja de armamento. Buen trabajo.
+Speech_0131L=Según el albarán, Lacerda recibió las armas utilizando como intermediario un banco de Panamá.
+Speech_0132L=Los libros de Lacerda son falsos. El cargamento va a nombre de Nakariakov, una clave utilizada por los traficantes de armas filipinos.
+Speech_0133L=Puede que el capitán tenga un registro de la asignación de camarotes. Ve al puente superior y averigua en qué camarote está Lacerda.
+Speech_0134L=Lacerda está en el camarote del capitán. Cubierta tres, a babor. Usa las escaleras interiores.
+
+[P_02_CargoShip_MachineShopSailor]
+
+[P_02_CargoShip_MemorableM]
+POPUPMESSAGE_0028=Elimina a Hugo Lacerda.
+Speech_-001L=(null)
+Speech_0001L=¡Jamás en la vida me habían insultado de esta manera!
+Speech_0018L=No te alteres. Él consiguió que pasaras la inspección. ¿Crees que estos días es fácil atravesar la zona del Canal, con tantas medidas de seguridad?
+Speech_0003L=¡Me importa un comino! ¿Crees que mi trabajo es fácil? ¡No! ¡Qué ofensa, obligarme a sobornar a un inspector de mi propio bolsillo! Ese vicepresidente Segundo Ruiz de Medeiros me las pagará.
+Speech_0021L=Vale.
+Speech_0004L=Recuerda bien lo que digo: ¡Se va a acordar de mí, como que me llamo Hugo Lacerda!
+Speech_0022L=Genial.
+Speech_0008L=Necesito otra copa.
+Speech_-001L=(null)
+Speech_0009L=LACERDA - Let me see...
+Speech_0017L=LACERDA - Now where would that fat pig stash his rum...
+Speech_0011L=LACERDA - Ahh... bastard... I want rum...
+Speech_-001L=(null)
+Speech_0012L=LACERDA - Si, si... fine... as soon as I find it... must be here somewhere.
+Speech_-001L=(null)
+Speech_0013L=LACERDA - What do I look like? A damn waiter? Ha!
+Speech_0014L=LACERDA - Hmm... let's see.
+Speech_0024L=Damien - So...?
+Speech_0015L=LACERDA - Bastard doesn't have any liquor.
+Speech_0020L=Norman - What about my beer?
+Speech_0016L=LACERDA - Shut up...
+Speech_-001L=(null)
+Speech_0025L=¡Lacerda, vamos, tráenos una copa!
+Speech_-001L=(null)
+Speech_0026L=¿Te echo una mano?
+Speech_-001L=(null)
+Speech_0027L=Vamos, Lacerda, date prisa.
+
+[P_02_CargoShip_MessHallSoldiers]
+Speech_-001L=(null)
+Speech_0001L=¿Has visto a Lacerda, Tomás?
+Speech_0004L=No, pero he oído cómo insultaba a alguien hace un rato. Por eso me he venido aquí.
+Speech_0002L=¿Y de qué se quejaba ahora?
+Speech_0005L=De su camarote, o de algo por el estilo.
+Speech_0003L=Será huevón. Cree que porque ahora tiene dinero es el rey del mundo.
+Speech_0006L=Un día de éstos recibirá su merecido, ya verás.
+
+[P_02_CargoShip_Objectives]
+Objective_0001=Consigue el albarán de entrega para el cargamento de armas de Lacerda.
+Objective_0024=Las armas usadas para pagar a Lacerda están en una caja grande, dentro de alguna de las bodegas de carga. Búscala y lee el albarán de entrega. Suele estar pegado al lateral de las cajas.
+Objective_0003=Consigue el registro de tránsito del cargamento de Lacerda.
+Objective_0025=En la oficina del barco se guarda un registro informatizado de tránsito. Eso quiere decir que podrás ver desde dónde ha venido la caja de armas de Lacerda.
+Objective_0018=Elimina a Hugo Lacerda.
+Objective_0026=Hugo Lacerda acaba de pasar a la lista de objetivos paralelos de Third Echelon. Aprovecha cualquier oportunidad para tacharlo de la lista.
+Objective_0008=Busca el nombre del contacto panameño de Lacerda.
+Objective_0027=Además de los que envían y reciben las armas, debe haber otros implicados en este asunto, alguien que ayuda a Lacerda a evitar los protocolos de inspección del Canal de Panamá. Averigua quién es.
+POPUPMESSAGE_0061=Consigue el albarán de entrega para el envío de armas de Lacerda.
+Objective_0019=Coloca dispositivos de rastreo en cualquier caja de armas ilegales.
+Objective_0028=Coloca dispositivos de rastreo en las cajas de armas restantes que Lacerda va a entregar a sus aliados. Será de gran utilidad para operaciones futuras
+POPUPMESSAGE_0062=Coloca dispositivos de rastreo en las cajas de armas ilegales de Lacerda.
+Objective_0020=Busca en qué camarote está Lacerda.
+Objective_0029=Interroga al capitán o busca el listado de asignación de camarotes, en la sala de ordenadores, para ver dónde está Lacerda.
+POPUPMESSAGE_0063=Averigua en qué camarote está Lacerda.
+Objective_0021=Interroga a Hugo Lacerda.
+Objective_0030=(null)
+Objective_0006=Ve al punto de extracción.
+Objective_0031=Roba la lancha del barco, montada a popa, para escapar del barco.
+POPUPMESSAGE_0064=Ve al punto de extracción.
+Objective_0069=Busca en qué camarote está Lacerda.
+Objective_0070=Interroga al capitán o busca el listado de camarotes, en la sala de ordenadores, para ver dónde está Lacerda.
+Objective_0022=Busca en qué camarote está Lacerda.
+Objective_0033=Interroga al capitán o busca el listado de camarotes, en la sala de ordenadores, para ver dónde está Lacerda.
+Objective_0023=Busca en qué camarote está Lacerda.
+Objective_0034=Interroga al capitán o busca el listado de camarotes, en la sala de ordenadores, para ver dónde está Lacerda.
+POPUPMESSAGE_0068=Averigua en qué camarote está Lacerda.
+POPUPMESSAGE_0065=Ve al punto de extracción.
+Note_0035L=Hay un botiquín en la enfermería.
+Note_0036L=Hay un botiquín en los lavabos de la tripulación, cerca de la sala de máquinas.
+Note_0037L=Hay un botiquín en el puente.
+Note_0038L=Hay un escape de gas en la sala de máquinas. Un incendio provocaría una explosión.
+Note_0039L=Hay un escape de gas en la sala de máquinas. Un incendio destruiría el barco.
+Note_0040L=El contenedor de Lacerda está en la bodega de carga inundada, adelante.
+Note_0041L=El agua de los compartimentos inundados puede reducirse con la bomba del castillo de proa. 
+Note_0042L=La tripulación está formada por mercenarios y guerrilleros armados. No son civiles.
+Note_0043L=El barco tiene un sistema de alarma activado. Ten cuidado.
+Note_0044L=El capitán debe saber en qué camarote se encuentra Lacerda.
+Note_0045L=El servidor de la sala de la cubierta superior tendrá una lista de asignación de camarotes.
+Note_0046L=Lacerda está en el camarote del capitán, bajo el puente hacia popa.
+Note_0047L=Lacerda tiene guardaespaldas profesionales.
+Note_0048L=La lancha del barco está en la cubierta exterior de popa.
+Note_0049L=La lancha del barco puede servir para la extracción.
+Note_0050L=En caso de emergencia la extracción se hará por el costado de la nave.
+Note_0051L=Hay un conducto de ventilación que conecta el castillo de proa y la zona de máquinas delantera.
+Note_0052L=Hugo Lacerda ha conseguido huir del faro y navega en el Maria Narcissa. Aborda el carguero, localiza a Lacerda y asegúrate de que no pueda informar a nadie de los datos que haya podido sacar a Morgenholt. 
+Note_0053L=Matar, disparar alarmas y ser detectado reduce tu calificación en la misión.
+Note_0054L=Hugo Lacerda ha conseguido huir del faro y navega en el Maria Narcissa. Aborda el carguero, localiza a Lacerda y asegúrate de que no pueda informar a nadie de los datos que haya podido sacar a Morgenholt. 
+Note_0055L=Las puertas correderas se mueven sobre rieles. No puedes usar el cable óptico.
+Note_0056L=Interrogar a un enemigo puede proporcionarte información muy útil.
+Note_0057L=Si fallas un objetivo secundario deberás completarlo después en otra misión.
+Note_0058L=Los objetivos paralelos son opcionales, pero si fracasas en él tendrás menos puntos.
+Note_0059L=Los enemigos pueden usar bengalas para buscar en la oscuridad.
+Note_0060L=Los enemigos pueden buscarte de dos en dos o luchar en equipo.
+Objective_0010=Ve a cualquier punto de extracción disponible.
+Objective_0032=Sal hacia el mar, por el costado del barco, y te recogerá el USS Walsh.
+
+[P_02_CargoShip_OfficeAndInfirmary]
+Speech_-001L=(null)
+Speech_0004L=¿Ha pasado Lacerda por aquí?
+Speech_0005L=Sí, estuvo hace un rato, quejándose de los libros de cuentas. Bastardo. Ojalá alguien le rebane el cuello.
+Speech_0001L=No te metas en líos con Lacerda.
+Speech_0006L=No tengo intención de hacerlo. Espero que alguien lo haga por mí.
+Speech_0002L=Ese alguien puede sufrir una muerte espantosa a manos de Lacerda.
+Speech_0007L=Ohhh.
+Speech_0003L=¿Dónde está ahora Lacerda?
+Speech_0008L=No lo sé, ni quiero saberlo.
+
+[P_02_CargoShip_OfficerQuarters]
+
+[P_02_CargoShip_PilothouseConv]
+Speech_-001L=(null)
+Speech_0003L=¿Timonel?
+Speech_0007L=Sí, capitán.
+Speech_0002L=Rumbo ochenta y ocho grados, seis minutos. Mantén la velocidad.
+Speech_0008L=Sí, señor.
+Speech_0004L=¿Todo despejado?
+Speech_0009L=Sí, señor.
+Speech_0005L=Gracias.
+
+[P_02_CargoShip_Radio]
+
+[P_02_CargoShip_TeleportSoldiers]
+Speech_-001L=(null)
+Speech_0001L=¿Le has echado un vistazo a este barco?
+Speech_0004L=Sí.
+Speech_0002L=Dime que hay botes salvavidas.
+Speech_0005L=Hay en el puente y en los costados, y a popa hay una lancha motora.
+Speech_0003L=¿Crees que hay suficientes para todos?
+Speech_0006L=Sí. Pero no me fiaría demasiado de ellas.
+
+[P_02_CargoShip_TopDeckSoldiers]
+Speech_-001L=(null)
+Speech_0001L=¿Qué significa la palabra 'bootstrap'?
+Speech_0006L=Algo así como 'conseguir algo recurriendo sólo a procesos internos'. ¿Por qué?
+Speech_0002L=Los yanquis dicen que tendrán que hacer eso con una lanzadera si quieren salvar a los astronautas de la estación.
+Speech_0007L=¿Tan mal está la cosa?
+Speech_0003L=Peor. Como los restos de la primera lanzadera siguen unidos al módulo de acoplamiento, la tripulación tiene que dar un paseo espacial para ser rescatada.
+Speech_0008L=Eso no suena nada bien.
+Speech_0004L=Y no pueden enviar una lanzadera hasta dentro de dos semanas, así que a lo mejor ya es tarde.
+Speech_0009L=Y yo que creía que esta nave era peligrosa...
+Speech_0005L=Esta nave no se mueve a treinta mil kilómetros por hora.
+
+[P_02_CargoShip_OfficerPilotingCab]
+Speech_0002L=Sí, señor.
+Speech_0003L=Sí, señor.

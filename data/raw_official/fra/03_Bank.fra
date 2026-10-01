@@ -1,0 +1,71 @@
+[GENERAL]
+MapName=BANQUE
+Briefing=A FAIRE
+Briefing_LAMBERT=Fisher, les armes de Lacerda ont été achetées par le biais d'une banque panaméenne off-shore. J'aimerais jeter un oeil à ses comptes, mais ce n'est pas si simple. L'opération ne doit surtout pas avoir l'air d'un coup de la CIA, alors, vous allez devoir couvrir vos traces en dérobant également quelques bons au porteur appartenant au gouvernement français.
+Briefing_GRIMSDOTTIR=J'ai réussi à pirater le serveur de la banque, la nuit dernière, mais je n'ai pas trouvé grand-chose. Tous leurs postes de travail ont leur propre disque dur et ils sont sécurisés indépendamment tous les soirs. Quand on pense que les intrusions électroniques sont plus redoutées que les cambriolages, de nos jours... bref, leurs disques durs doivent être rangés dans la salle des coffres, et les obtenir ne sera pas une partie de plaisir.
+Briefing_REDDING=Commençons par les bonnes nouvelles. Tu connais déjà cette banque, vu que c'est celle où tu as accompagné une équipe de la CIA en 1989 pour retrouver l'argent de la drogue de Noriega. En fait, la plupart de nos infos viennent de cette opération. La mauvaise nouvelle, c'est que la sécurité est béton : lasers, détecteurs de mouvement, portes verrouillées, caméras, la totale, quoi. Nous avons contacté un... euh, spécialiste... pour qu'il t'aide à ouvrir le coffre. Il serait bon que tu lui parles.
+Briefing_PATRIDGE=Nous allons poursuivre en direction de la mer Jaune et nous vous renverrons à la ville de Panama en hélicoptère. Je n'ai pas l'autorisation d'opérer à l'intérieur des frontières panaméennes, ce qui signifie qu'il vous faudra agir à partir de l'ambassade, et surtout, sans assistance.
+Briefing_TURTLE=Ecoute, mec, je ne sais pas qui tu es, ni pourquoi je dois t'aider, mais je préfère être ici qu'au fond de ma cellule. On m'a dit que tu allais devoir ouvrir un Mason Wells 88. Normalement, ça ne se fait pas seul, ce genre de truc, mais il paraît que toi, tu vaux dix hommes. Ton copain Willy a fait un dépôt pour toi. Tu trouveras dans la petite salle des coffres tout le nécessaire pour entrer dans la grande.
+
+
+[Interaction]
+IntExfiltrateOverWall=Exfiltr. par-dessus mur
+IntOpenBox=Ouvrir la boîte
+IntEnableAccess=Autoriser l'accès
+IntOpenPanel=Ouvrir le panneau
+
+[Computer]
+CompUploadFakeEmail=Télécharger faux e-mail
+CompDeactivateLaserGrid=Désactiver les lasers
+CompPanamaCanalAdmFiles=Fichiers de l'adm. canal de Panama
+CompMCASTransactionFiles=Fichiers de transactions de la MCAS
+CompActivateSprinklers=Activer les extincteurs 
+CompTurnOffVaultLights=Eteindre lumières salle des coffres
+CompOpenCage=Ouvrir la cage
+CompDeactivateFan=Eteindre le ventilateur
+CompDeleteCameraArchives=Effacer les archives de surveillance
+CompDisableCameraSystem=Désactiver les caméras de surveillance
+CompAccess=Accéder
+CompObjective=Objectif
+CompWNMOnlineService=Service en ligne de WNM
+CompNews=Actualités
+CompAudio=Audio
+CompReception=Réception
+CompFrontDoors=Porte principale
+CompBankSide=Côté de la banque
+CompSecurity=Poste de sécurité
+CompBackDoors=Porte de derrière
+CompHall=Couloir
+CompLounge=Salon
+CompSecretary=Bureau de la secrétaire
+
+[Email]
+EmailMedkitsBody=Hé, Lago, les nouvelles trousses de soins sont là. Elles viennent tout droit d'un surplus de l'armée US, la grande classe. Si quelqu'un a la courante, il y a des pilules dans les toilettes.
+EmailMedkitsDate=28/06/2007
+EmailMedkitsFrom=Emilio
+EmailMedkitsSubject=Nouvelles trousses
+EmailMedkitsTo=Lago
+
+EmailDoorcodesBody=Si tu vois Hermano ou Tajo ce soir, dis-leur qu'il faut qu'ils changent le code de leur porte le plus rapidement possible. Je ne sais pas comment ça se fait, mais les deux postes de sécurité du rez-de-chaussée ont le même code d'accès, 3624. Tu te rends compte ? C'est dingue, le hasard, hein ?
+EmailDoorcodesDate=28/06/2007
+EmailDoorcodesFrom=Montegu
+EmailDoorcodesSubject=Changement du code des portes
+EmailDoorcodesTo=Lago
+
+EmailSecurityBody=Correct. 2306 >>Juste pour confirmer... le code de la porte de la salle de sécurité est bien le 2306 pour ce soir, non ? >>Gaspar
+EmailSecurityDate=28/06/2007
+EmailSecurityFrom=Fonda
+EmailSecuritySubject=RE: Code porte salle de sécurité
+EmailSecurityTo=Gaspar
+
+EmailWNMaBody=Long Dan, l'ambassadeur de Chine aux Etats-Unis, a été rappelé aujourd'hui pour une réunion d'urgence, dans l'espoir d'amener les délégués américains et nord-coréens à la table des négociations. 
+EmailWNMaDate=28/06/2007
+EmailWNMaFrom=WNM Actualités
+EmailWNMaSubject=Long Dan rappelé à Pékin
+EmailWNMaTo=Abonné
+
+EmailWNMbBody=Le président Bowers a décoré du ruban bleu  ''Chanteur", un chien de 4 ans qui a remporté le concours canin de Middlemount, dans le Tennessee.
+EmailWNMbDate=28/06/2007
+EmailWNMbFrom=WNM Actualités
+EmailWNMbSubject=Chanteur soutient le président
+EmailWNMbTo=Abonné

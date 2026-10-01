@@ -1,0 +1,18 @@
+[GENERAL]
+MapName=ENTRENAM. COOP
+Briefing_LAMBERT=TODO SPLINTER CELL EN PRÁCTICAS DEBE APRENDER A TRABAJAR EN EQUIPO. EN EL CAMPO DE OPERACIONES LO ÚNICO QUE TE SEPARA DEL FRACASO SON TUS HABILIDADES... Y TU COMPAÑERO. APRENDE A CONFIAR EN ÉL PARA FORMAR UN BUEN EQUIPO CAPAZ DE LOGRAR MISIONES EN LAS QUE UN AGENTE SOLO FRACASARÍA.
+Briefing=TODO
+
+[Email]
+EmailShareEquipBody=Para iniciar el movimiento cooperativo Compartir equipo, ponte junto al otro agente y presiona (A) para interactuar. Para completar el movimiento, el otro agente debe presionar también (A), así el objeto elegido del inventario será transferido.
+EmailShareEquipDate=23/06/2007
+EmailShareEquipFrom=Dan
+EmailShareEquipSubject=Compartir equipo
+EmailShareEquipTo=Seb
+
+
+[Computer]
+CompDeactivateLaserGrid=Desactivar rejilla láser
+
+[Interaction]
+LCDScreen=VOLVER A LOS CONSEJOS

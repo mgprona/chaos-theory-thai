@@ -1,0 +1,56 @@
+[GENERAL]
+MapName=KOKUBO SOSHO
+Briefing=TODO
+Briefing_LAMBERT=El Departamento de Estado ha perdido contacto con los americanos que trabajan en el Kokubo Sosho con las Fuerzas de Autodefensa japonesas. Al parecer, las FAD los han tomado como prisioneros y se niegan a contestar a nuestras llamadas. Los japoneses nos dan largas. Ignoramos si temen reconocer que no controlan a Otomo o aprueban lo que ha hecho. Si es así, tendremos que confesarles la verdad a los norcoreanos, lo que provocará una guerra generalizada en Asia. Si no... Debemos averiguar qué saben nuestros hombres y encargarnos de Otomo antes de que los norcoreanos se enteren de lo que está pasando.
+Briefing_GRIMSDOTTIR=Sam, aunque el gobierno japonés no apoye a Otomo, éste tiene aún capacidad para actuar. Si aún controla el arma informática de las FAD, tendrás que tratar con él con cautela. No hace falta que te explique los estragos que podría causar.
+Briefing_REDDING=El último contacto que tuvimos con el personal americano en el Kokubo Sosho fue una llamada telefónica del mayor Harper, asesor logístico de las FAD. Por los ruidos de la grabación, se deduce que tropas japonesas irrumpieron en la sala y que el mayor fue capturado. No parece que nadie haya muerto... y si queremos mantener relaciones amistosas con Japón, mejor será que tú tampoco mates a nadie.
+
+[Interaction]
+IntSwitchObject=Prender/Apagar
+
+[Computer]
+CompUnlockWarRoomDoors=Abrir puertas Oficina Guerra
+CompISDFBathhouseReport=Informe Casa baños FAD
+CompGSDFLiveFeed=Sabotear alimentación GSDF
+CompDownloadISDFdata=Descargar datos FAD
+CompPressRoom=Sala de prensa
+CompMainDesk=Mostrador de recepción
+CompBasement=Sótano
+CompTunnel=Túnel
+CompServerRoom=Sala del servidor
+CompAccess=Acceder
+CompObjective=Objetivo
+CompCamera=Cámara
+CompWNMOnlineService=Servicio en línea WNM
+CompNews=Noticias
+
+[Email]
+EmailAmmoBody=Esta noche te mostraré la nueva munición, en cuanto estés listo. Si no me encuentras en el almacén, estaré donde los servidores. El código es 1945. Hasta luego.
+EmailAmmoDate=11 de julio de 2007
+EmailAmmoFrom=Shoji
+EmailAmmoSubject=Munición TLT
+EmailAmmoTo=BUSCANDO...
+
+EmailMedkitBody=Comunicado para todo el personal de este cuerpo. En caso de emergencia, contacten con su ATS o directamente recurran a los nuevos botiquines que se han colocado cerca de los lavabos, en el nivel de calle y el inferior.
+EmailMedkitDate=11 de julio de 2007
+EmailMedkitFrom=Servicio de salud FAD
+EmailMedkitSubject=Nuevos botiquines disponibles
+EmailMedkitTo=Kokubo_Todos
+
+EmailProtocolBody=Recordatorio. El nuevo protocolo de seguridad ha entrado en funcionamiento. Si suena una alarma los servidores quedarán ocultos bajo el suelo para que nadie pueda acceder a ellos. Para volver a elevarlos, se han activado escáners de retina para usted y para Botan.
+EmailProtocolDate=11 de julio de 2007
+EmailProtocolFrom=Yukio
+EmailProtocolSubject=Seguridad de la sala de servidores
+EmailProtocolTo=Haru
+
+EmailWNMaBody=Lawson Woodrow Burns, cuatro veces campeón del mundo de golf, murió ayer a la edad de 99 años, de un ataque al corazón.
+EmailWNMaDate=11 de julio de 2007
+EmailWNMaFrom=Boletín de noticias de la WNM
+EmailWNMaSubject=Fallece un golfista legendario
+EmailWNMaTo=Suscriptor
+
+EmailWNMbBody=Observadores independientes estiman que el número de bajas norcoreanas podría superar los siete mil hombres en los cuatro primeros días de lucha.
+EmailWNMbDate=11 de julio de 2007
+EmailWNMbFrom=Boletín de noticias de la WNM
+EmailWNMbSubject=Cifras contradictorias en el conflicto coreano
+EmailWNMbTo=Suscriptor

@@ -1,0 +1,10 @@
+[GENERAL]
+MapName=HOKKAIDO
+Briefing_LAMBERT=LAMBERT - Fisher, if I can't throw the Joint Chiefs a bone, we'll be at war in the next twenty-four. I need you to bring in Zherkezhi for questioning. Milan Nedich has moved him to Hokkaido for protection. I have no idea if Shetland is aware or involved, but I'd like to find out. However it turns out, don't let your personal concerns get in the way.
+Briefing_GRIMSDOTTIR=GRIMSDOTTIR - In my opinion, there are too many coincidences here. Zherkezhi is the only living person who could have orchestrated the sinking of the Walsh. Even if the Korea did launch the missile, it would almost certainly have required Zherkezhi's help to actually hit the ship. And this business with Displace... I know you don't want to hear it... but I think Shetland's dirty. The kidnapping of Morgenholt, the protection of Zherkezhi... relocating him after the blackout... it stinks.
+Briefing_REDDING=REDDING - Looks like Displace has rented out the entire retreat. It's low tech and quiet. Don't expect servers and security. Expect aware guards, in tune with the environment. You're going to need to rely on more traditional methods... up close and personal.
+Briefing_OTOMO=OTOMO - Japanese I-SDF conducts low level monitoring of the activities of anyone employed by a PMC for as long as they are in the country. We discovered yesterday that Displace has rented this retreat, and a number of our agents planted microphones in the location. Unfortunately, we were not adequately prepared for the increased importance of the location. The microphones are detectable using standard tools. Needless to say, it would be best if Displace did not find them.
+
+[Interaction]
+IntScanlicenseplate=Scan license plate
+IntExtraction=Extraction

@@ -1,0 +1,142 @@
+[COMMON]
+Back=BACK
+Continue=CONTINUE
+Unknown=UNKNOWN
+Orientation[0]=N
+Orientation[1]=NE
+Orientation[2]=E
+Orientation[3]=SE
+Orientation[4]=S
+Orientation[5]=SW
+Orientation[6]=W
+Orientation[7]=NW
+Scanning=SCANNING...
+Recording=RECORDING...
+Connecting=CONNECTING...
+NoFeed=NO FEED AVAILABLE
+
+Disconnecting=DISCONNECTING...
+DistanceMeter=M
+
+
+[HUD]
+Interact=INTERACT
+Exit=BACK TO GAME
+SwitchAttach=SWITCH ATTACHMENT
+SwitchWeapon=SWITCH WEAPON
+
+[TRAINING]
+Title=TRAINING INFORMATION
+Press=PRESS
+Continue=TO CONTINUE
+
+
+[ENDMISSION]
+MissionFailedMsg=MISSION FAILED
+MissionSuccessMsg=MISSION COMPLETE
+MissionContinueMsg=TO BE CONTINUED...
+
+
+[OPSATMENU]
+Goals=GOALS
+Notes=NOTES
+Datas=DATA
+Map=MAP
+Equipment=EQUIPMENT
+GoalsTitle=OBJECTIVES
+NoGoals=NO GOALS
+GoalType[0]=PRIMARY OBJECTIVES
+GoalType[1]=SECONDARY OBJECTIVES
+GoalType[2]=OPPORTUNITY OBJECTIVES
+GoalType[3]=FALLBACK OBJECTIVES
+GoalType[4]=BONUS OBJECTIVES
+NotesTitle=NOTES
+DatasTitle=DATA
+DatasType=TYPE
+DatasLocation=LOCATION
+DatasFrom=FROM
+DatasName=FILE
+DataType[0]=UNKNOWN
+DataType[1]=EMAIL
+DataType[2]=SOUND
+DataType[3]=IMAGE
+MapTitle=MAP
+MapAlarm=ALARM
+MapObjective=OBJECTIVE
+MapPlayer=PLAYER
+MapObjectiveDetail=OBJECTIVE:
+MapLocation=LOCATION:
+EquipmentTitle=EQUIPMENT
+MapAlarmTriggered=TRIGGERED ALARMS
+Hide=HIDE
+Show=SHOW
+
+
+[PAUSEMENU]
+PauseNormal=PAUSE
+PauseGameOver=GAME OVER
+PauseContinue=MISSION SUCCESS
+ChoiceRetryGame=RETRY
+ChoiceContinueGame=CONTINUE
+ChoiceQuickSaveGame=QUICK SAVE
+ChoiceResumeGame=RESUME
+ChoiceRestartGame=RESTART
+ChoiceSaveGame=SAVE
+ChoiceLoadGame=LOAD
+ChoiceOptions=OPTIONS
+ChoiceQuitLobby=LEAVE MISSION
+ChoiceQuit=QUIT
+QuitWarningTitle=QUIT GAME
+QuitWarningMsg=ARE YOU SURE YOU WANT TO RETURN TO THE MAIN MENU? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO LEAVE OR CANCEL.
+RestartWarningTitle=RESTART GAME
+RestartWarningMsg=ARE YOU SURE YOU WANT TO RESTART? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO CONTINUE OR CANCEL.
+QuitLobbyWarningMsg=ARE YOU SURE YOU WANT TO RETURN TO THE LOBBY? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO LEAVE OR CANCEL.
+PauseWaitingTeammate=GAME PAUSED. WAITING FOR YOUR TEAMMATE...
+PauseReturnToLobby=GOING BACK TO LOBBY... ( %i )
+GameOverWaitingTeammate=WAITING FOR YOUR TEAMMATE...
+SaveGameWaitingTeammate=WAITING FOR YOUR TEAMMATE...
+
+[COMPUTER]
+SecurityAccess=SECURITY ACCESS
+HackingDetail=HACKING PROCESS
+Filename=FILE NAME
+FileType=TYPE
+Files=FILES
+DataType[0]=UNKNOWN
+DataType[1]=EMAIL
+DataType[2]=IMAGE
+DataType[3]=SOUND
+DataType[4]=CAMERA
+
+[MISSIONREVIEW]
+ObjectivesTitle=OBJECTIVES REVIEW
+StatsTitle=MISSION STATISTICS
+OverallTitle=OVERALL ACHIEVEMENT
+PrimaryObj=PRIMARY OBJECTIVES
+SecondaryObj=SECONDARY OBJECTIVES
+OpportunityObj=OPPORTUNITY OBJECTIVES
+BonusObj=BONUS OBJECTIVES
+SuccessRating=SUCCESS RATING : 
+FinalRating=FINAL RATING : 
+Hours=HOUR(S)
+Minutes=MIN.
+You=YOU
+Teammate=TEAMMATE
+UnlockLoadOutTitle=CONGRATULATIONS !!!
+UnlockLoadOutMsg=ASSAULT LOAD-OUT UNLOCKED
+MissionStatus[0]=NOT COMPLETED
+MissionStatus[1]=COMPLETED
+MissionStatus[2]=CANCELLED
+MissionStat[0]=MISSION PLAYED
+MissionStat[1]=TIME PLAYED
+MissionStat[2]=TIMES IDENTIFIED AS INTRUDER
+MissionStat[3]=ENEMIES KNOCKED OUT
+MissionStat[4]=ENEMIES INJURED
+MissionStat[5]=ENEMIES KILLED
+MissionStat[6]=CIVILIANS KNOCKED OUT
+MissionStat[7]=CIVILIANS INJURED
+MissionStat[8]=CIVILIANS KILLED
+MissionStat[9]=BODIES FOUND
+MissionStat[10]=ALARMS TRIGGERED
+MissionStat[11]=NUMBER OF SAVES USED
+MissionStat[12]=CONTINUES USED

@@ -1,0 +1,192 @@
+[P_04_GCS_AlarmCheck]
+POPUPMESSAGE_0001=Niveau d'alerte 1
+POPUPMESSAGE_0003=Niveau d'alerte 2 - les ennemis mettent leurs armures
+Note_0007L=Les ennemis portent une armure.
+POPUPMESSAGE_0004=Niveau d'alerte 3 - les ennemis mettent leurs casques
+Note_0008L=Les ennemis portent un casque.
+POPUPMESSAGE_0005=Niveau d'alerte 4 - alerte rouge - les ennemis renforcent leurs positions
+Note_0009L=Les ennemis ont renforcé leurs positions.
+
+[P_04_GCS_BatroomSoldier]
+
+[P_04_GCS_BombChecks]
+
+[P_04_GCS_ChuBodyGuard]
+
+[P_04_GCS_Communications]
+Speech_-001L=(null)
+Speech_0001L=Les hommes de Kim contrôlent apparemment tout le quartier. Vous n'êtes pas encore arrivés à la gare proprement dite.
+Speech_-001L=(null)
+Speech_0002L=Mon dieu, ils ne plaisantent pas ! On dirait qu'ils ont placé des bombes dans les galeries souterraines. Désamorcez-les toutes avant d'aller espionner ce coup de téléphone.
+Note_0048L=Pour désamorcer une bombe, les deux agents doivent couper simultanément le fil par lequel passe le courant.
+Speech_-001L=(null)
+Speech_0003L=Bien joué. Ce dossier contient le plan détaillé des bombes. Mémorisez-le bien avant de toucher quoi que ce soit afin d'éviter les mauvaises surprises.
+Speech_-001L=(null)
+Speech_0004L=Beau travail. Voilà pour la première bombe.
+Speech_-001L=(null)
+Speech_0017L=Excellent ! Ça fait deux.
+Speech_-001L=(null)
+Speech_0005L=Beau travail, les gars ! Il ne reste plus de bombes. Et maintenant, montez à la gare et découvrez ce que Kim mijote.
+Speech_-001L=(null)
+Speech_0042L=Vous allez trop vite. Revenez sur vos pas et désamorcez-moi ces bombes avant que Kim ne fasse exploser la gare centrale.
+POPUPMESSAGE_0046=Désamorcez les bombes posées dans les souterrains de la gare.
+Speech_-001L=(null)
+Speech_0043L=Je parie que la deuxième bombe est au niveau de ces turbines. Trouvez-la et désamorcez-la.
+Speech_-001L=(null)
+Speech_0029L=Moins vite. Revenez à la zone de maintenance et désamorcez la bombe.
+Speech_-001L=(null)
+Speech_0030L=Moins vite. Revenez à la salle des turbines ; la deuxième bombe s'y trouve.
+POPUPMESSAGE_0047=Placez un mouchard dans le téléphone du hall de la gare avant que Chu l'atteigne.
+Speech_-001L=(null)
+Speech_0006L=Bien. Chu va recevoir un coup de téléphone dans la cabine située au centre de la gare. Placez un mouchard dans le combiné, mais sans vous faire repérer, surtout, ou Chu paniquera.
+Speech_-001L=(null)
+Speech_0036L=Bon sang, Chu vous a vus ! La mission est terminée.
+Speech_-001L=(null)
+Speech_0011L=Beau travail. Maintenant, cachez-vous et écoutez la conversation téléphonique de Chu sans vous faire repérer.
+Speech_-001L=(null)
+Speech_0007L=Seigneur ! Récupérez l'antivirus et chargez-vous de l'homme de Kim. Suivez Chu jusqu'à la consigne automatique et récupérez le virus.
+Speech_-001L=(null)
+Speech_0032L=Bien. Allez récupérer l'antivirus, maintenant que vous avez le numéro du casier et son code.
+Speech_-001L=(null)
+Speech_0038L=Bon sang, qu'est-ce qui vous a pris ? Chu était notre seule chance ! Nous n'arrêterons jamais Kim, désormais...
+Speech_-001L=(null)
+Speech_0044L=Bon sang ! Il fallait absolument placer ce mouchard pour entendre la conversation entre Chu et Kim. J'annule la mission.
+Speech_-001L=(null)
+Speech_0033L=N'entrez pas dans les toilettes sans avoir pris l'antivirus. Vous vous retrouveriez infectés et il faudrait annuler la mission.
+Speech_-001L=(null)
+Speech_0034L=Bien. Maintenant, l'un de vous doit s'injecter l'antivirus pour entrer dans les toilettes et neutraliser l'homme de Kim.
+Speech_-001L=(null)
+Speech_0045L=Vous avez perdu la tête ? J'annule la mission et j'appelle le CDC pour qu'il mette le quartier en quarantaine avant que le virus ne ravage New York.
+Speech_-001L=(null)
+Speech_0010L=Malédiction, trop tard ! Ils s'enfuient par le train. Pas le temps de descendre jusqu'au quai pour monter dedans... sautez sur le toit, vite !
+Speech_-001L=(null)
+Speech_0015L=Beau travail. Quel que soit le virus que cet homme s'est injecté, celui-ci mourra de lui-même quand sa température corporelle retombera. Descendez au quai inférieur et empêchez les soldats de Kim de s'enfuir avec le reste du virus. 
+Note_0039L=Pour désamorcer une bombe, les deux agents doivent couper simultanément le fil par lequel passe le courant.
+Speech_0014L=Bon sang ! Il fallait absolument placer ce mouchard pour entendre la conversation entre Chu et Kim. J'annule la mission.
+
+[P_04_GCS_ConvCellPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=Les bombes sont placées ?
+Speech_0002L=Plus qu'une, monsieur.
+Speech_0003L=Dépêchez-vous... mais faites attention. Elles sont très sensibles, et je ne voudrais pas qu'elles explosent alors qu'on est encore là.
+Speech_0004L=Bien, monsieur.
+Speech_0005L=Allô, colonel ? Les bombes seront placées d'ici quelques minutes. Oui, je comprends. Un téléphone public ? Oui, monsieur. La cabine située au centre de la gare ? J'y serai.
+
+[P_04_GCS_ConvEnding]
+Speech_-001L=(null)
+Speech_0001L=Pourquoi est-ce qu'on est les derniers à évacuer ?
+Speech_0002L=Il faut bien un dernier.
+Speech_0003L=Je sais bien, mais entre ces bombes et ce pauvre Ming qui a chopé le virus...
+Speech_0004L=Nerveux ? Dis-toi qu'on meurt tous un jour ou l'autre...
+Speech_0005L=D'accord, mais j'aimerais bien que ce soit pas aujourd'hui...
+Speech_-001L=(null)
+Speech_0007L=Combien de gars sont partis en avant-garde ?
+Speech_0008L=Une trentaine, je crois.
+Speech_0009L=Où ils vont ?
+Speech_0010L=Chu a dit de ne pas poser de question. On verra bien en arrivant.
+
+[P_04_GCS_ConvHydroTunnel]
+Speech_-001L=(null)
+Speech_0001L=Eh, fais gaffe, bon sang ! Tu sais ce que c'est que ce truc ?
+Speech_0002L=Ouais, un genre de bombe...
+Speech_0003L=Un genre de bombe ? Si ce machin explose, plusieurs pâtés de maisons disparaîtront avec nous, crétin dégénéré !
+Speech_0004L=Oh... euh...
+Speech_0005L=Oui. Tu vois de quel genre de bombe il s'agit, maintenant ?
+Speech_0006L=Bon, je... je vais être plus prudent, promis.
+Speech_0007L=Bonne idée.
+Speech_-001L=(null)
+Speech_0008L=Elle est active ?
+Speech_0009L=Je ne sais pas. Je me mélange toujours entre le fil jaune et le fil bleu...
+Speech_0010L=Dans ce cas, je te conseille de vérifier le plan sur le portable avant de tous nous tuer.
+Speech_0011L=Mais le portable est tout là-bas...
+Speech_0012L=Et nous aussi, si jamais cette bombe explose. Oh, et on sera à Harlem et à Jersey en même temps, vu le nombre de pièces qu'il restera de nous...
+
+[P_04_GCS_ConvPubPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=Oui, monsieur.
+Speech_0002L=Il a fallu modifier légèrement notre plan.
+Speech_0003L=Bien sûr. Aucun plan n'est jamais figé. Quel est le problème ?
+Speech_0004L=Un de mes hommes s'est accidentellement infecté. Heureusement, il a eu la présence d'esprit de s'enfermer dans les toilettes pour ne pas nous contaminer.
+Speech_0005L=Je vois...
+Speech_0006L=Le casier contenant votre paiement contient également une dose de l'antivirus.
+Speech_0007L=Vous voulez que je soigne votre homme ?
+Speech_0008L=Non, il est bien trop tard pour cela. Et puis, vous mourriez si vous entriez dans la pièce sans avoir pris l'antivirus.
+Speech_0009L=Donc, vous voulez que je me l'injecte et que je tue votre homme afin de récupérer les échantillons de virus.
+Speech_0010L=Vous comprenez vite, Chu. Le casier est le 9201 et son code est la date de naissance de votre fils, inversée.
+Speech_0011L=Merci, colonel. Je n'échouerai pas.
+
+[P_04_GCS_ConvSubway]
+Speech_-001L=(null)
+Speech_0001L=J'ai une autre question...
+Speech_0002L=La réponse est non.
+Speech_0003L=Non, sérieusement... maintenant que le train est parti, comment faire pour atteindre la bombe si jamais ça se passe mal ?
+Speech_0004L=J'ai l'impression que tu n'as pas compris nos ordres... si ça va mal, la bombe est censée exploser.
+Speech_0005L=Oh, OK. Euh... dis, ça ne risque pas de nous tuer ?
+Speech_0006L=Si. C'est pour ça qu'on est là, justement. Pour veiller que tout se passe bien.
+
+[P_04_GCS_InterroChu]
+Speech_-001L=(null)
+Speech_0002L=Les Américains... ha ! Un policier renégat, j'imagine. Vous vous croyez dans un film d'action ? Vous pensez que je vais parler ? Aucune chance !
+Speech_0004L=Oh, mon dieu, vous n'êtes pas de la police ! Ne me tuez pas, je vous en prie ! Je vais tout vous dire. Le code du casier est le 0315.
+Note_0006L=Le code du casier est le 0315
+
+[P_04_GCS_InterroDualChu]
+Speech_-001L=(null)
+Speech_0001L=Aaaahhh.... à l'aide... aaaarggh... ooohhhh...
+Speech_-001L=(null)
+Speech_0003L=Aaaahhhh... qui... qui est là ? Je... je ne vois plus rien... mes yeux... à l'aide... ooohhhh... j'ai mal partout, je... ça brûle... seigneur... Chu ? Chu ? C'est toi ? Aahhhhh... à l'aide... à l'aide...
+
+[P_04_GCS_LockerAntidote]
+
+[P_04_GCS_MainHallChu]
+
+[P_04_GCS_MainHallGuards]
+
+[P_04_GCS_MetroTrain]
+
+[P_04_GCS_Objectives]
+Objective_0001=Découvrez ce que mijote vraiment le colonel Kim.
+Objective_0008=Le colonel Kim et ses hommes se sont rendus maîtres de la gare centrale, mais sans faire parvenir leurs exigences aux autorités. Découvrez quel est leur plan et empêchez-les de le mener à bien.
+POPUPMESSAGE_0030=Découvrez quel est le véritable plan du colonel Kim.
+Objective_0002=Désamorcez les bombes de la gare centrale.
+Objective_0009=Les hommes de Kim ont placé trois bombes dans les galeries du métro. Extrêmement puissantes, elles pourraient provoquer l'effondrement de plusieurs pâtés d'immeubles. Il faut absolument les désamorcer.
+Objective_0003=Placez un mouchard dans le téléphone du hall de la gare avant que Chu l'atteigne.
+Objective_0010=Chu, un homme de Kim, va recevoir un appel à partir d'un téléphone public du hall de la gare. Placez un mouchard dans le téléphone avant qu'il n'y arrive pour pouvoir enregistrer la conversation.
+POPUPMESSAGE_0031=Désamorcez les bombes posées dans les souterrains de la gare.
+Objective_0014=Allez chercher l'antidote dans le casier.
+Objective_0015=Chu va aller chercher un échantillon de l'antidote dans un casier. Découvrez celui dont il s'agit et neutralisez Chu sans lui laisser le temps d'utiliser l'antidote.
+Objective_0042=Eliminez le soldat contaminé qui s'est enfermé dans les toilettes.
+Objective_0043=Utilisez l'antidote pour pouvoir entrer dans les toilettes sans être contaminé et éliminez le soldat infecté.
+Objective_0044=Suivez Chu jusqu'au casier.
+Objective_0045=Suivez Chu jusqu'au casier.
+POPUPMESSAGE_0032=Allez chercher l'antidote dans le casier.
+Objective_0046=Récupérez le virus en possession du soldat infecté.
+Objective_0047=Récupérez le virus en possession du soldat infecté.
+POPUPMESSAGE_0048=Eliminez le soldat infecté des toilettes.
+Objective_0018=Empêchez les hommes de Kim de s'enfuir avec le reste du virus.
+Objective_0019=Accédez à la plate-forme du métro et empêchez les autres hommes de Kim de s'enfuir avant qu'il soit trop tard.
+Objective_0006=Sautez sur le toit du métro pour le suivre jusqu'à sa destination.
+Objective_0013=Il est trop tard pour empêcher la fuite des hommes de Kim. Sautez sur le toit du métro et suivez-les jusqu'à leur destination.
+POPUPMESSAGE_0034=Sautez sur le toit du métro pour le suivre jusqu'à sa destination.
+Objective_0022=Retrouvez les plans des bombes.
+Objective_0023=Retrouvez les plans des bombes.
+POPUPMESSAGE_0035=Désamorcez les bombes posées dans les souterrains de la gare.
+POPUPMESSAGE_0036=Allez chercher l'antidote dans le casier.
+POPUPMESSAGE_0037=Eliminez le soldat infecté des toilettes.
+Objective_0024=Suivez Chu jusqu'au casier.
+Objective_0025=(null)
+Objective_0026=Récupérez le virus en possession du soldat infecté.
+Objective_0027=Récupérez l'échantillon d'arme biologique en possession du soldat qui a été infecté dans les toilettes.
+Objective_0028=Eliminez le soldat contaminé qui s'est enfermé dans les toilettes.
+Objective_0029=Utilisez l'antidote pour pouvoir entrer dans les toilettes sans être contaminé et éliminez le soldat infecté.
+POPUPMESSAGE_0033=Eliminez le soldat infecté des toilettes.
+
+[P_04_GCS_ShootLaptop]
+
+[P_04_GCS_Timer]
+Speech_-001L=(null)
+Speech_0001L=Vous allez trop vite. Revenez sur vos pas et désamorcez-moi ces bombes avant que Kim ne fasse exploser la gare centrale.
+
+[P_04_GCS_Objective]
+Objective_0038=Récupérez le virus en possession du soldat infecté.
+Objective_0039=Récupérez l'échantillon d'arme biologique en possession du soldat qui a été infecté dans les toilettes.

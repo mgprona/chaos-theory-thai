@@ -1,0 +1,21 @@
+[GENERAL]
+MapName=SEÚL
+Briefing_LAMBERT=Esto es un trabajo fácil. Jong Pom-chu es un químico surcoreano. Sospechamos que trabaja para la agencia central de inteligencia de Corea del Norte. Según los informes de la CIA, tiene conocimientos suficientes para fabricar armas químicas y biológicas. Si lo que has descubierto en Panamá es cierto, que ha sobornado a Medeiros para pasar cargamento ilegal por el canal, es lógico suponer que Jong dispone además del material necesario. Tienes que ir a Seúl y secuestrar a Jong antes de que los norcoreanos lo saquen del país.
+Briefing=TODO
+
+[Computer]
+
+[Email]
+
+EmailescapeBody=En caso de emergencia Jong tiene que ser trasladado de nuevo para que no caiga en manos de los americanos o los surcoreanos. Si algo va mal hay una barca en el mercado del pescado. Dile a Jong que puede usarla para escapar. 
+Emailescapedate=7 jul. 2007
+Emailescapefrom=Sun
+Emailescapesubject=En caso de huida
+Emailescapeto=Pok
+
+
+EmailbackdoorBody=El código de la puerta trasera del hotel es 7649. Hay que asegurarse de que la puerta esté cerrada permanentemente.
+Emailbackdoordate=8 jul. 2007
+Emailbackdoorfrom=Ping
+EmailbackdoorSubject=Código de la puerta del hotel
+Emailbackdoorto=Cho

@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=FARO
+Briefing_LAMBERT=Fisher, un ingegnere americano di nome Bruce Morgenholt è stato rapito da un gruppo separatista peruviano chiamato la "Voce del Popolo". Hugo Lacerda, che sospettiamo essere il leader, è un estremista rivoluzionario che predica la guerra dell'informazione come unico sistema efficace per ottenere la rivoluzione nella società moderna. Devi andare là dentro e recuperare o distruggere qualsiasi informazione che Morgenholt sia stato costretto a divulgare e, se possibile, portarlo in salvo. Quanto a Lacerda... è appena finito sulla nostra lista di obiettivi, quindi, se te lo trovi nel mirino, spara pure.
+Briefing_GRIMSDOTTIR=Normalmente salvare ostaggi non è il nostro lavoro, ma Morgenholt faceva parte del Progetto Watson, il comitato delle Nazioni Unite che ha studiato il lavoro di Philip Masse dopo la Georgia. Qualcuno è preoccupato che questo rapimento sia solo una copertura e che stiano interrogando Morgenholt per ottenere informazioni sui Kernel di Masse. Il problema è che alcuni trucchetti scoperti da Masse potrebbero essere molto pericolosi, nelle mani sbagliate. Dobbiamo contenere le informazioni a ogni costo.
+Briefing_REDDING=La zona obiettivo è un faro collegato a una fortificazione e ad altre strutture del periodo coloniale spagnolo. Non conosciamo la posizione precisa di Morgenholt, quindi dovrai trovarlo da solo. L'inserimento avverrà di notte con lo zodiac sulla spiaggia proprio sotto al forte. L'immagine termica indica che là sotto ci sono alcune grotte naturali o parzialmente artificiali, che puoi usare per infiltrarti.
+Briefing_PATRIDGE=Bene, Fisher, l'elicottero ti lascerà a qualche chilometro dalla costa sullo zodiac. L'estrazione avverrà via elicottero dalla cima del faro.
+Briefing_SHETLAND=Displace International ha un contratto con Wright-Pritchard Technologies per proteggere i loro VIP in situazioni potenzialmente ostili. Abbiamo effettuato un'attenta valutazione di rischio per il loro progetto in Perù e abbiamo accettato di proteggere Morgenholt. I tizi che l'hanno preso sapevano cosa stavano facendo. Non è stato un rapimento di turisti. Ho perso tre ottimi elementi nel rapimento, e ora sto preparando un piano di salvataggio da far approvare alla famiglia di Morgenholt e alla Wright-Pritchard. Questa storia costerà parecchi soldi a Displace.
+Briefing=INCARICO
+Briefing_PARTRIDGE=Bene, Fisher, l'elicottero ti lascerà a qualche chilometro dalla costa sullo zodiac. L'estrazione avverrà via elicottero dalla cima del faro.
+
+
+[Interaction]
+IntExfiltrate=Chiama per l'estrazione
+IntScanCrate=Esamina la cassa
+
+[Computer]
+CompEraseData=Cancella i dati di Morgenholt
+CompObjective=Obiettivo
+CompNews=Notizie
+CompEmail=Email
+
+[Email]
+EmailISSBody=È stato perso il contatto con la Stazione Spaziale Internazionale. I tecnici temono che la stazione sia stata colpita da un micrometeorite.
+EmailISSDate=23 giugno 2007
+EmailISSFrom=Notizie della WNM
+EmailISSSubject=Contatto perduto con la SSI
+EmailISSTo=Iscritti
+
+EmailMorgenholtBody=Il governo peruviano sospetta che l'americano Bruce Morgenholt sia stato rapito da un'organizzazione chiamata "Voce del Popolo". Il gruppo in questione non ha fatto alcuna dichiarazione in merito.
+EmailMorgenholtDate=23 giugno 2007
+EmailMorgenholtFrom=Notizie della WNM
+EmailMorgenholtSubject=La "Voce del Popolo" sospettata del rapimento di Morgenholt
+EmailMorgenholtTo=Iscritti
+
+EmailJimboBody=Ciao Jimbo. Allora, ho accettato l'offerta di Pedro e sono in campeggio con i suoi amici. A quanto pare sono un gruppo di rivoluzionari quasi organizzati... inoffensivi, direi. Comunque, giravo in queste grotte e ho trovato dei funghi bioluminescenti. O forse erano infestati da Photobacterium Phosphorium... non lo so. Vedo di mandartene un campione.
+EmailJimboDate=23 giugno 2007
+EmailJimboFrom=Alphonse
+EmailJimboSubject=PP
+EmailJimboTo=Jim

@@ -1,0 +1,248 @@
+[CATEGORIES]
+Category[0]=UNKNOWN
+Category[1]=PERMANENT
+Category[2]=MAINGUN
+Category[3]=GADGETS
+Category[4]=ITEMS
+
+[FN2000]
+Name=SC-20K
+NameShort=SC-20K
+Description=SC-20k Prototype Modular Assault Weapon. 5.56x45mm jacketed cartridges in 30 round magazine with bull-pup configuration. Integral 1.5x reflex sight and silencer, mounts modular attachments. Binary trigger mechanism for auto or semi-auto fire. Ejection port supports ambidextrous operation.
+HowToUseMe=
+
+[FN2000AMMO]
+Name=SC-20K Ammo Clip
+NameShort=SC-20K Ammo Clip
+Description=SC-20K Ammo Clip
+HowToUseMe=
+
+[FN7]
+Name=SC Pistol
+NameShort=SC Pistol
+Description=SC Prototype Pistol. 5.7x28mm jacketed cartridges in 20 round magazine with integral silencer. Grip configured for ambidextrous use. Prototype OCP mounted under barrel. OCP causes electrical differential potential on target, electrical surge causes circuit interference. Capacitor recharges over time.
+HowToUseMe=
+
+[FN7AMMO]
+Name=5.7mm Pistol Ammo Clip
+NameShort=5.7mm Pistol Ammo Clip
+Description=5.7mm Pistol Ammo Clip
+HowToUseMe=
+
+[SCOPE]
+Name=20mm Sniper Attachment
+NameShort=Sniper
+Description=SC-20k Prototype 20mm attachment. 20mm APDS anti-materiel super-penetrator round for armored or emplaced targets. Dual stage sniper scope. Recoil is extreme. Hold breath for accurate fire. Cannot be silenced.
+HowToUseMe=
+
+[FOREGRIP]
+Name=Foregrip Attachment
+NameShort=Foregrip
+Description=SC-20k Prototype Foregrip attachment. Provides increased stability to firing platform and controlled recoil. Improves rounds-on-target during sustained fire.
+HowToUseMe=
+
+[LAUNCHER]
+Name=Launcher Attachment 
+NameShort=Launcher
+Description=SC-20k Launcher attachment. Standard 40mm gas operated launcher deploys a variety of Less-Than-Lethal 40mm devices. Silent operation.
+HowToUseMe=
+
+[SHOTGUN]
+Name=Shotgun Attachment
+NameShort=Shotgun
+Description=SC-20k Shotgun attachment. 12 Guage Triple Ought loads offer exceptional stopping power at close range. Affords dual barrel firing in tandem with SC-20k for multi-range engagement.
+HowToUseMe=
+
+[GUNBAREL]
+Name=GUNBAREL
+NameShort=GUNBAREL
+Description=GUNBAREL attachment
+HowToUseMe=
+
+[GUNGRIP]
+Name=GUNGRIP
+NameShort=GUNGRIP
+Description=GUNGRIP attachment
+HowToUseMe=
+
+[GUNSCOPE]
+Name=GUNSCOPE
+NameShort=GUNSCOPE
+Description=GUNSCOPE attachment
+HowToUseMe=
+
+[SHOTGUNAMMO]
+Name=Shotgun attachment Ammo
+NameShort=Shotgun attachment Ammo
+Description=Shotgun attachment Ammo
+HowToUseMe=
+
+[SCOPEAMMO]
+Name=Sniper attachment Ammo
+NameShort=Sniper attachment Ammo
+Description=Sniper attachment Ammo
+HowToUseMe=
+
+
+[AK47]
+Name=AK 47
+NameShort=AK 47
+Description=The AK-47 is chambered in 7.62x39 and features hardwood furniture with a fixed stock.
+HowToUseMe=
+
+[BERETTA]
+Name=Beretta 92FS
+NameShort=Beretta 92FS
+Description=Hand Gun
+HowToUseMe=
+
+[C4]
+Name=C4
+NameShort=C4
+Description=C4
+HowToUseMe=
+
+[FLARE]
+Name=Flare
+NameShort=Flare
+Description=A standard flare that emits both light and heat.
+HowToUseMe=
+
+[CHEMICALFLARE]
+Name=Chemical Flare
+NameShort=Chemical Flare
+Description=A break-open chemical flare for illuminating dark environments.
+HowToUseMe=
+
+[DISPOSABLEPICK]
+Name=Disposable Pick
+NameShort=Disposable Pick
+Description=
+
+[FLASHGRENADE]
+Name=Flash Grenade
+NameShort=Flashbang
+Description=SC-82 Series non-lethal flashbang grenade. Explosion blinds, deafens and stuns. Safe distance, approximately 8m.
+HowToUseMe=
+
+[FLASHLIGNT]
+Name=Flashlight
+NameShort=Flashlight
+Description=Cop flashlight
+HowToUseMe=
+
+[FRAGGRENADE]
+Name=Frag Grenade
+NameShort=Frag
+Description=SC-60 Series fragmentation grenade. 5.5cm steel sphere wrapped around comp B charge and high-explosive fuze. Explosion casts fragments in circular pattern, lethal to 2m.
+HowToUseMe=
+
+[REVIVESYRINGE]
+Name=Adrenalin Syringe
+NameShort=Adrenalin Syringe
+Description=SC Experimental Adrenalin Boost. Injected into torso of incapacitated person increases survivability for most wounds.
+HowToUseMe=
+
+[GAZGRENADE]
+Name=Gas Grenade
+NameShort=Gas
+Description=SC-40 Series Less-Than-Lethal CS-Gas grenade. Releases a cloud of incapacitating CS gas for dispatching unprotected targets. Use with caution. Gas can cause damage to respiratory system.
+HowToUseMe=
+
+[LASERMIC]
+Name=Laser Mic
+NameShort=Laser Mic
+Description=
+HowToUseMe=
+
+[LIQUIDNITROGEN]
+Name=Liquid nitrogen
+NameShort=Liquid nitrogen
+Description=
+HowToUseMe=
+
+[LOCKPICK]
+Name=Lock Pick
+NameShort=Lock Pick
+Description=
+HowToUseMe=
+
+[M18SMOKEGRENADE]
+Name=M18 Colored Smoke Grenade
+NameShort=M18 Colored Smoke
+Description=
+HowToUseMe=
+
+[MEDKIT]
+Name=Medical Kit
+NameShort=Medical Kit
+Description=
+HowToUseMe=
+
+[OPTICCABLE]
+Name=OpticCable
+NameShort=OpticCable
+Description=
+HowToUseMe=
+
+[RINGAIRFOILROUND]
+Name=Airfoil Round
+NameShort=Airfoil Round
+Description=40mm launchable high-impact, zero penetration round. Severe impacts can render targets unconscious. Silent operation.
+HowToUseMe=
+
+[SMOKEGRENADE]
+Name=Smoke Grenade
+NameShort=Smoke
+Description=SC-81 Series Smoke Grenade. Releases a cloud of visibility obscuring smoke, harmless when inhaled. Use to provide visibility cover when crossing open ground.
+HowToUseMe=
+
+[STICKYCAMERA]
+Name=Sticky Camera
+NameShort=Sticky Camera
+Description=40mm launchable surveillance camera with real-time live wireless feed to OPSAT. Full Thermal, EMF and Night Vision capability, with pan and zoom functionality. Noise making and CS-gas release functionality for Less-Than-Lethal utility. Cameras can be recovered if Gas canister has not been ruptured. Wireless signal reacquisition possible if within range.
+HowToUseMe=
+
+[STICKYSHOCKER]
+Name=Sticky Shocker
+NameShort=Sticky Shocker
+Description=40mm launchable high-voltage, low-amperage adhesive round. Electrical discharge incapacitates target on impact. Charge can be conducted through water.
+HowToUseMe=
+
+
+[INFRAREDSTRESSGEN]
+Name=Stress Generator
+NameShort=Stress Generator
+Description=Stress Generator
+HowToUseMe=
+
+[WALLMINE]
+Name=Wall Mine
+NameShort=Wall Mine
+Description=A motion sensitive high explosive adhesive mine, lethal to 3m. Can be disabled manually while green light is flashing.
+HowToUseMe=
+
+[TARGETBEACON]
+Name=Target Beacon
+NameShort=Target Beacon
+Description=
+HowToUseMe=
+
+[UMP]
+Name=UMP
+NameShort=UMP
+Description=UMP Short Machine Gun
+HowToUseMe=
+
+[UZI]
+Name=Uzi
+NameShort=Uzi
+Description=SMG
+HowToUseMe=
+
+[CRYOBLOODVIAL]
+Name=Cryo Blood Vial
+NameShort=Cryo Blood Vial
+Description=Cryo bla
+HowToUseMe=Cryo bla
+

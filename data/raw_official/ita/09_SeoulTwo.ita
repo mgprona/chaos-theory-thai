@@ -1,0 +1,11 @@
+[GENERAL]
+MapName=SEUL
+Briefing=INCARICO
+
+[Computer]
+CompDisableRadar=Disattiva radar
+CompUploadTap=Carica intercettazioni
+CompUAVData=Dati UAV
+
+[Interaction]
+IntScanPlane=Designa l'aereo

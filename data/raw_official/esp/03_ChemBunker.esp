@@ -1,0 +1,44 @@
+[GENERAL]
+MapName=BÚNKER QUÍMICO
+Briefing_LAMBERT=Interrogado por el agente especial Jack Baxter, Jong Pom-chu ha confesado su participación en la venta de secretos de guerra biológica a agentes del CGIB. El CGIB le chantajeó después para que les suministrara material de bioingeniería vírica que Jong pasaba de incógnito a través de Panamá. Las investigaciones sobre las comunicaciones de Jong en los últimos meses demuestran que el gobierno norcoreano puede estar usando tanto su información como su material para fabricar armas biológicas en un viejo complejo de búnkers cerca de Namp'o-si. Vuestra misión es infiltraros en el complejo, identificar posibles armas químicas o biológicas y obtener muestras de los agentes utilizados.
+Briefing=TODO
+
+[Computer]
+CompDisableCameraSystem=Desactivar sistema cámaras
+
+[Email]
+EmailVirusProtocolBody=Nuestra investigación nos ha llevado por fin a un protocolo funcional de una vacuna. Hay que extraer una muestra de sangre del mono y dos compuestos químicos diferentes. La composición correcta de la vacuna está en las notas adjuntas al correo.
+EmailVirusProtocolDate=12 de octubre de 2007
+EmailVirusProtocolFrom=Pok
+EmailVirusProtocolSubject=Protocolo antivírico
+EmailVirusProtocolTo=Kim
+
+EmailCryoTankBody=Por cierto, olvidé mencionar que debes mezclar los diferentes compuestos respetando el orden del protocolo. Obviamente, se necesitan dos personas para completar esa parte de la tarea. Ten cuidado, puede ser peligroso.
+EmailCryoTankDate=12/10/2007
+EmailCryoTankFrom=Pok
+EmailCryoTankSubject=Mezclar el protocolo
+EmailCryoTankTo=Kim
+
+EmailWarheadBody=Para insertar una nueva muestra en el vehículo de transporte tienes que abrir la cabeza del misil. El código es 1961. Guarda el código como si tu vida dependiera de ello... lo cual es cierto.
+EmailWarheadDate=12/10/2007
+EmailWarheadFrom=Bae
+EmailWarheadSubject=Acceso a la cabeza del misil
+EmailWarheadTo=Kim
+
+EmailCountingMonkeyBody=Pok... Sé lo que vas a decir, dirás que estoy loco, pero ¡creo que la pequeña Java sabe contar! Si le muestro un racimo de plátanos chilla una vez por cada plátano del racimo... ¡es increíble! Voy a hacer más pruebas, y sugiero que hagamos una investigación a fondo para comprobar si los experimentos han podido tener algún resultado recombinatorio que desconozcamos. Su sangre está en la cámara. Código 1423.
+EmailCountingMonkeyDate=10/12/2007
+EmailCountingMonkeyFrom=Joo
+EmailCountingMonkeySubject=Una mona muy lista
+EmailCountingMonkeyTo=Pock
+
+EmailCraneBody=Hola, Kim. Al final han reparado la grúa. En cuanto vuelva el operario podremos completar la carga de los misiles armados. No quiero manejarla yo, temo provocar un accidente. 
+EmailCraneDate=12/10/2007
+EmailCraneFrom=Kim
+EmailCraneSubject=La grúa funciona
+EmailCraneTo=Bae
+
+EmailDisarmingWarheadsBody=Cuando hayas abierto la ojiva del misil, para retirar el virus de la cabeza tienes que desactivar el mecanismo de seguridad. Para ello deberás cortar los dos cables activos simultáneamente. Es muy recomendable hacerlo con dos personas.
+EmailDisarmingWarheadsDate=12/10/2007
+EmailDisarmingWarheadsFrom=Bae
+EmailDisarmingWarheadsSubject=DESARMAR LA OJIVA
+EmailDisarmingWarheadsTo=Kim

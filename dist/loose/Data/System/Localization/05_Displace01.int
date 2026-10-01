@@ -1,0 +1,62 @@
+[GENERAL]
+MapName=DISPLACE
+Briefing=TODO
+Briefing_LAMBERT=LAMBERT - Fisher, I'm afraid we might be facing an orchestrated attempt to push the world into a major crisis. Zherkezhi might know more about information warfare than anyone on earth, and the fact that Displace is combat-ready, essentially stateless, and better equipped than most governments...we need to find out fast whether this is a coincidence, or whether someone inside Displace is making a major move. That said, State Department has several very significant contracts with Displace. This thing is extremely political. I hate to do this to you, but keep it clean. Recon only. No fatalities.
+Briefing_GRIMSDOTTIR=GRIMSDOTTIR - Displace's Offices are on the top three floors of the Hantz Center Tower in downtown Manhattan. Recent financials indicate that they have invested heavily in their local infrastructure in order to maintain full operational capacity following even a major terrorist incident.
+Briefing_REDDING=REDDING - Satellite confirms Grim's data. Displace is up and running at near-to-full capacity. It looks like they might be holding a meeting with members of New York City Council... possibly making a bid for protection or policing services to supplement the National Guard. They're prepared and opportunistic, that's for sure, but I wouldn't expect anything different. My money says they're playing fair, but if the boss wants to take a closer look, then that's what we'll do.
+
+[Interaction]
+IntUseAlgorithm=Use Algorithm
+IntExtract=Extract
+
+[Computer]
+CompUploadTracer=Upload Tracer
+CompObjective=Objective
+CompPowerSystemEvaluation=Power System Evaluation
+CompEmail=Email
+CompVIPDetailReport=VIPDetailReport
+CompMeetRoomCode=Meeting Room code
+CompTurretPerformanceReport=TurretPerformanceReport
+CompWNMNewsWire=WNM News Wire
+CompProtectionDetailBackup=ProtectionDetailBackup
+CompNews=News
+CompSynchAccessAlgorithm=Synch Access Algorithm
+CompFiredoorkeycode=Firedoor keycode
+CompHokkaidoMeet=HokkaidoMeet
+CompCameraAccess=Camera Access
+CompAccess=Access
+CompInfraSoundSpecSheet=InfraSoundSpecSheet
+CompServerAccessAlgorithm=Server Access Algorithm
+CompLobbyAreaDoorcodes=Lobby Area Doorcodes
+
+
+[Email]
+EmailPowerEvalBody=We have completed our technical evaluation of our on site generators. We expect limited power access to the entire building, and have upgraded the surge protection to protect the building. When City restores the power, we expect immediate restoration of all systems without interrupt.
+EmailPowerEvalDate=Sat, June 30th, 2007
+EmailPowerEvalFrom=Hantz Center Maintenance
+EmailPowerEvalSubject=Power System Evaluation
+EmailPowerEvalTo=Displace_All
+
+EmailMeetRoomCodeBody=Matt... I got the code to the VIP meeting room. 2346. Talk to some of the guys and see if they know the office code. Don't let Milan found out. I got a bad feeling about that guy.
+EmailMeetRoomCodeDate=Fri, June 29th, 2007
+EmailMeetRoomCodeFrom=Gilley
+EmailMeetRoomCodeSubject=Meeting Room code
+EmailMeetRoomCodeTo=Matthew
+
+EmailWNMLotteryBody=Pennsylvania steel magnate Brody Masterson-Woods III was today announced the winner of the 1.1 Billion Dollar Stupid Ball Lotto, the largest jackpot in US history. He already has a net worth of 68.4 Billion.
+EmailWNMLotteryDate=Thu, June 28th, 2007
+EmailWNMLotteryFrom=WNM News Wire
+EmailWNMLotterySubject=Billionaire Wins Billion Dollar Lottery
+EmailWNMLotteryTo=Subscriber
+
+EmailWNMMasonBody=Defense Secretary Frank Mason was quoted as saying the National Guard was stretched 'impossibly thin'. With National Guardsmen supplementing regular US Army forces in eleven countries overseas, the recent emergency deployments in five states have 'seriously impaired their ability to defend the people'.
+EmailWNMMasonDate=Fri, June 29th, 2007
+EmailWNMMasonFrom=WNM News Wire
+EmailWNMMasonSubject=Mason: 'National Guard Stretched Thin'
+EmailWNMMasonTo=Subscriber
+
+EmailLobbyCodeBody=Julian... for Tom's visit, I've changed the door codes between the ops room and the main lobby. The new code is 8136. It's the same for both doors.
+EmailLobbyCodeDate=Sat, June 30th, 2007
+EmailLobbyCodeFrom=Gordon
+EmailLobbyCodeSubject=Lobby Area Doorcodes
+EmailLobbyCodeTo=Julian

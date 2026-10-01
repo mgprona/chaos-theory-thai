@@ -1,0 +1,209 @@
+[P_03_Chemical_AlarmCheck]
+POPUPMESSAGE_0001=Alarm Stage One
+POPUPMESSAGE_0002=Alarm Stage Two - Enemies Equipping Body Armor
+Note_0003L=Enemies are wearing body armor
+POPUPMESSAGE_0004=Alarm Stage Three - Enemies Equipping Helmets
+Note_0005L=Enemies are wearing helmets
+POPUPMESSAGE_0006=Alarm Stage Four: Enemies Fortifying Positions
+Note_0007L=Enemies have fortified their positions
+
+[P_03_Chemical_Communications]
+Speech_-001L=(null)
+Speech_0001L=Lambert: Remember, we're under a cease-fire agreement with North Korea while they meet allied demands to withdrawal from Seoul. Keep it discrete. We don't want to re-ignite the war.
+Speech_-001L=(null)
+Speech_0002L=LAMBERT: Stay calm. It's a test launch, scheduled long before the war broke out. The DPRK is just reminding us that they mean business. It also happens to be your best way inside the bunker.
+POPUPMESSAGE_0015=Infiltrate the bunker down one of the silos.
+Speech_-001L=(null)
+Speech_0003L=LAMBERT: Good lord. That all but proves it. They must have a specific agent in mind if they are conducting payload thermographic tests. Recover the viral protocol from their main lab so we can analyze it.
+POPUPMESSAGE_0016=Recover the viral protocol from the main laboratory.
+Speech_-001L=(null)
+Speech_0004L=LAMBERT: That's a protocol for a viral based bio-weapon. From the looks of it, we'll need a serum sample from one of their monkeys in order to test both their virus and their anti-virus.
+POPUPMESSAGE_0017=Acquire the appropriate chimpanzee blood serum needed for the antidote.
+Speech_-001L=(null)
+Speech_0011L=LAMBERT: Well, you're thinking ahead... maybe whatever experiments they're conducting on these monkeys are part of their viral protocol.
+Speech_-001L=(null)
+Speech_0013L=LAMBERT: That's a protocol for a viral based bio-weapon. Take that serum and test it against the anti-virus they have stored in their cryogenic chamber.
+POPUPMESSAGE_0018=A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.
+Speech_-001L=(null)
+Speech_0005L=LAMBERT: Good. Now take that serum and test it against the anti-virus they have stored in their cryogenic chamber.
+POPUPMESSAGE_0019=A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.
+Speech_-001L=(null)
+Speech_0006L=LAMBERT: You're going to need to follow the protocol to manufacture a sample of the anti-virus.
+Speech_-001L=(null)
+Speech_0007L=LAMBERT: Good. It looks like the anti-virus is stable. You'll need to get to the top of the cryochamber so one of you can recover the sample.
+Speech_-001L=(null)
+Speech_0008L=LAMBERT: Good job. If we can get this to the CDC, they can institute a response plan in the event this weapon is used against our troops. The last thing we need is a sample of the virus itself in weaponized form. You need to find a way into the warhead storage room you passed through earlier in order to recover a sample.
+Note_0022L=A missile in the storage bay contains the virus sample you need.
+POPUPMESSAGE_0020=Retrieve a viral sample from one of the missiles.
+Speech_-001L=(null)
+Speech_0009L=LAMBERT: Good work. I suggest you be careful with that stuff. Make your way to the moorage down below and avail yourselves of some transportation. We'll pick you up from open water.
+POPUPMESSAGE_0021=Exfiltrate to the primary extraction point
+Speech_-001L=(null)
+Speech_0010L=LAMBERT: Good thinking. If CDC can see the procedure they used in the operation, it'll make figuring out the exact nature of the virus a lot easier.
+Speech_-001L=(null)
+Speech_0012L=LAMBERT: We can't extract you until your objectives are complete. Get back in there and finish the mission.
+Speech_-001L=(null)
+Speech_0014L=LAMBERT: Damn. That is exactly the kind of news I didn't want to hear... a rogue Colonel with bio weapons and an agenda.
+
+[P_03_Chemical_Cryotank]
+
+[P_03_Chemical_CryoTankDown]
+
+[P_03_Chemical_CryoTankUp]
+
+[P_03_Chemical_FlickeringLight]
+
+[P_03_Chemical_HallwayTurret]
+
+[P_03_Chemical_InterroGuard]
+Speech_-001L=(null)
+Speech_0001L=Oh, no... you must be the Americans. I knew this day would come. Look, don't kill me... the code for the main lab is 8416...
+Note_0003L=The key code to open the security port of the main lab is 8416
+
+[P_03_Chemical_InterroTech]
+Speech_-001L=(null)
+Speech_0001L=Oh, god. Please... no... I'm just a scientist. I just take care of the monkeys. I'll tell you everything. The code for the mini-lab is 5791... you'll find what you're looking for in there.
+Speech_0002L=Oh... please don't kill me. The mini-lab code is 5791 and the code for the fridge inside is 1423. Please... I didn't do anything wrong.
+Note_0003L=The key code into the mini lab is 5791
+
+[P_03_Chemical_LocalizationTemp]
+Note_0001L=The key code to the refrigerated locker in the mini lab is 8361.
+Note_0002L=The key code into the mini lab is 9015.
+Note_0003L=The key code into the operating room is 5439.
+Note_0004L=The key code to open the main lab from the security port is 8416.
+Note_0005L=A missile in the storage bay contains the virus sample you need.
+Note_0006L=The code for unlocking the missile warhead is 1961.
+Note_0007L=Anti-viral protocol Component One = Blood Serum Type A.
+Note_0008L=Anti-viral protocol Component One = Blood Serum Type B.
+Note_0009L=Anti-viral protocol Component One = Blood Serum Type O.
+Note_0010L=Protocol Sequence - User One = 
+Note_0011L=Protocol Sequence - User Two =
+Note_0012L=Blue
+Note_0013L=Red
+Note_0014L=Violet
+Note_0015L=Green
+Note_0016L=Yellow
+Note_0017L=Aqua
+Speech_-001L=(null)
+Speech_0018L=Is the zodiac all fueled up?
+Speech_0019L=Fueled and ready to go.
+Speech_0020L=Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.
+Speech_0021L=Good idea. I'm with you.
+Speech_-001L=(null)
+Speech_0022L=Under interrogation by Special agent Jack Baxter, Jong Pom-chu confessed his involvement in delivering highly classified bio-weapon research to agents of the CGIB. CGIB then blackmailed him into acquire heavily regulated v So, what does it say? Viral engineering equipment which he smuggled through Panama on their behalf. Our investigation of Jong's reported telecommunications activities over the last few months makes it clear that the North Korean government may be using his intelligence and his equipment to manufacture biological weapons in a series of old bunkers near Namp'o-si. Your mission is infiltrate the bunker complex, identify any chemical or biological weapons, and recover samples of any agents being developed.
+Speech_-001L=(null)
+Speech_0023L=Long Dan, the Chinese ambassador to the US, has been praised for his diplomatic effort in bringing about a cease-fire in the Korean War. Even as American and North and South Korean forces face an uneasy stand-off in still-occupied Seoul, diplomats return to the bargaining table for an emergency session. 
+Speech_-001L=(null)
+Speech_0024L=In other news, 141 of the bodies recovered from the Walsh incident arrived in the United States today in preparation for funeral services due to commence the day after tomorrow. The USS Walsh is now confirmed lost with all hands, leaving the death toll at a staggering 283 crewman and officers.
+POPUPMESSAGE_0026=Infiltrate the bunker down one of the silos.
+POPUPMESSAGE_0027=Recover the viral protocol from the main laboratory.
+POPUPMESSAGE_0028=Acquire the appropriate chimpanzee blood serum needed for the antidote.
+POPUPMESSAGE_0029=A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.
+POPUPMESSAGE_0030=A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.
+POPUPMESSAGE_0031=Retrieve a viral sample from one of the missiles.
+POPUPMESSAGE_0032=Exfiltrate to the primary extraction point
+
+[P_03_Chemical_Main]
+
+[P_03_Chemical_MainLab]
+
+[P_03_Chemical_MainLabSleepGuard]
+
+[P_03_Chemical_MainLabTech01]
+
+[P_03_Chemical_MainLabTech02]
+
+[P_03_Chemical_MainLabTech02Timer]
+
+[P_03_Chemical_MiniLab]
+Note_0001L=The key code to the refrigerated locker in the mini lab is 1423
+Note_0002L=The key code to the refrigerated locker in the mini lab is 1423
+
+[P_03_Chemical_MiniLabChat01]
+Speech_-001L=(null)
+Speech_0001L=Oh... Java... you're so cute you cuddly little wuddly boo...
+Speech_0002L=Aaak!
+Speech_0003L=Oh... Java... you're not hungry? But you've been pooping so well... yes... oh... that's so cute... mmm... mango... you love mango don't you boo-boo?
+Speech_0004L=Aaak! Aaak! Aaak! Aaak!
+Speech_0005L=Good girl Java... good girl...
+Speech_0006L=Aaak! Aaak!
+Speech_0007L=Oh... you're so smart Java...
+Speech_0008L=Aaak! Aaak! Aaak!
+
+[P_03_Chemical_MissileBoat]
+
+[P_03_Chemical_MissileBoatChat01]
+Speech_-001L=(null)
+Speech_0008L=Is the zodiac all fueled up?
+Speech_0009L=Fueled and ready to go.
+Speech_0010L=Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.
+Speech_0011L=Good idea. I'm with you.
+
+[P_03_Chemical_MissileExplosion]
+
+[P_03_Chemical_MissileLaunch]
+
+[P_03_Chemical_MissileRoom]
+Note_0001L=The code for unlocking the missile warhead is 1961.
+
+[P_03_Chemical_MissileRoomChat01]
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0024L=So, what does it say?
+Speech_0025L=Loading... thirty-seven point one. Launch... spikes at thirty-seven point six. Flight... hmm... we range from thirty-seven point five when on-board convection begins, down to... thirty-six point four just before limit.
+Speech_0035L=That's all well within our delta two degrees. What about terminal?
+Speech_0036L=It normalizes perfectly at terminal. Exactly thirty-seven degrees.
+Speech_0037L=Exactly body temperature.
+Speech_0038L=Giving an aerated half life of four hours and a twenty percent infection rate over sixteen hours.
+Speech_0039L=I'd call that a success.
+Speech_0040L=Are you kidding. If there was a Nobel Prize for weapons research, we'd have just won it.
+Speech_0041L=Maybe we'll get a commendation from Colonel Kim.
+Speech_0042L=Didn't you hear? The Colonel disappeared. He was ordered to report to General Po, but he never showed up.
+Speech_0043L=What?!
+Speech_0044L=He accused the General of cow-towing to the Chinese bureaucrats at the expense of five thousand loyal troops.
+Speech_0045L=Well... it's kind of true.
+Speech_0046L=Rumor is he took the viral cultures and is threatening to weaponize them to fight the war single-handedly.
+Speech_0047L=Hm. Well, good thing this bunker is hardened against bio-agents.
+Speech_0048L=I'll say.
+
+[P_03_Chemical_MissileRoomSleepG]
+
+[P_03_Chemical_Monkeys]
+
+[P_03_Chemical_MonkeyTechnician]
+
+[P_03_Chemical_Objectives]
+Objective_0033=Recover the videotape of the monkey autopsy.
+Objective_0034=   
+Objective_0025=Infiltrate the bunker down one of the silos.
+Objective_0026=The only way to infiltrate the bunker is down one of the launch tubes.
+Objective_0031=Recover the viral protocol from the main laboratory.
+Objective_0032=The protocol for the North Korean biological weapon must be recovered from the main laboratory in order for you to manufacture an anti-virus.
+Objective_0009=Acquire the appropriate chimpanzee blood serum needed for the antidote.
+Objective_0017=Blood serum from a test chimpanzee must be recovered in order for you to manufacture an anti-virus using the protocol.
+Objective_0010=Retrieve a sample of the anti-virus from the cryogenic chamber.
+Objective_0018=A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.
+Objective_0019=Retrieve a viral sample from one of the missiles.
+Objective_0020=A sample of the weaponized virus must be recovered from one of the warheads in the storage facility.
+Objective_0021=Exfiltrate to the primary extraction point
+Objective_0022=Get to the Zodiac at the end of the Missile Boat dock in order to extract.
+Objective_0029=Exfiltrate to the primary extraction point.
+Objective_0030=Get to the Zodiac at the end of the Missile Boat dock in order to extract.
+
+[P_03_Chemical_OperationRoom]
+
+[P_03_Chemical_OperationRoomComp]
+
+[P_03_Chemical_SiloElevatorControl]
+
+[P_03_Chemical_WarehouseChat]
+Speech_-001L=(null)
+Speech_0008L=Are you cold?
+Speech_0009L=No. It's only really cold inside the cryo-chamber.
+Speech_0010L=Then why are your teeth chattering.
+Speech_0011L=Because I'm scared of the bio-weapons they keep inside the cryo-chamber.
+Speech_0012L=Really? I heard they were pretty humane.
+Speech_0013L=If by humane you mean six hours of having your immune system turn against you, liquefy your internal organs and cause you to explosively hemorrhage infectious goop out of every orifice until you boil to death, sure.
+Speech_0016L=Oh. Nevermind.
+
+[P_03_Chemical_Zodiac]

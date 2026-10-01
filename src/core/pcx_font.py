@@ -132,90 +132,144 @@ class PCXFont:
             char_code = char_or_code
         return self._glyph_map.get(char_code)
 
-    def render_thai_character(
-        self,
-        char: str,
-        font: ImageFont.FreeTypeFont,
-        cell_bbox: Tuple[int, int, int, int],
-        text_color_idx: int = 254,
-        bg_color_idx: int = 0,
-    ) -> Image.Image:
-        """Render a single Thai character fitted to the given cell bounding box."""
-        x, y, w, h = cell_bbox
-        # Render high-resolution grayscale then downsample or render directly
-        glyph_img = Image.new("P", (w, h), bg_color_idx)
-        if self.palette:
-            glyph_img.putpalette(self.palette)
+    def _build_grayscale_lut(self) -> np.ndarray:
+        """Build lookup table mapping grayscale (0..255) to valid palette indices."""
+        pal = self.palette or []
+        valid_indices = [i for i in range(256) if i != DELIMITER_INDEX]
 
-        draw = ImageDraw.Draw(glyph_img)
+        lums = []
+        for i in valid_indices:
+            r = pal[i * 3]
+            g = pal[i * 3 + 1]
+            b = pal[i * 3 + 2]
+            lum = (r * 299 + g * 587 + b * 114) // 1000
+            lums.append((i, lum))
 
-        # Measure text
-        bbox = draw.textbbox((0, 0), char, font=font)
-        text_w = bbox[2] - bbox[0]
-        text_h = bbox[3] - bbox[1]
-
-        # Center horizontally and position vertically
-        pos_x = max(0, (w - text_w) // 2 - bbox[0])
-        pos_y = max(0, (h - text_h) // 2 - bbox[1])
-
-        draw.text((pos_x, pos_y), char, fill=text_color_idx, font=font)
-        return glyph_img
+        lut = np.zeros(256, dtype=np.uint8)
+        for v in range(256):
+            if v < 35:
+                lut[v] = 0
+            else:
+                best_i, best_diff = 254, 9999
+                for idx, lum in lums:
+                    diff = abs(lum - v)
+                    if diff < best_diff:
+                        best_diff = diff
+                        best_i = idx
+                lut[v] = best_i
+        return lut
 
     def inject_thai_glyphs(
         self,
         ttf_path: Union[str, Path],
         font_size: Optional[int] = None,
         char_codes: Optional[List[int]] = None,
+        is_bold: bool = False,
     ) -> int:
-        """Inject Thai glyphs from a TrueType font into CP874 slots (161..251).
+        """Inject Thai glyphs from a TrueType font into CP874 slots (161..251)
+        by laying out all 224 character cells with proper delimiter bounding boxes.
 
-        Returns the number of glyphs injected.
+        Returns the number of Thai glyphs injected.
         """
-        if not self.image:
+        if not self.image or not self.palette:
             raise ValueError("No PCX image loaded")
 
-        if char_codes is None:
-            # Thai range in CP874: 161 (0xA1, 'ก') to 251 (0xFB)
-            char_codes = list(range(161, 252))
+        img_w, img_h = self.image.size
+        pal = self.palette
+        row_h = self.glyphs[0].bbox[3] if self.glyphs else 16
 
-        # Determine reference cell height
-        avg_h = int(np.median([g.bbox[3] for g in self.glyphs])) if self.glyphs else 16
         if font_size is None:
-            font_size = max(10, avg_h - 2)
+            font_size = max(10, row_h - 3)
 
         ttf_font = ImageFont.truetype(str(ttf_path), size=font_size)
+        dummy_draw = ImageDraw.Draw(Image.new("L", (10, 10)))
+        lut = self._build_grayscale_lut()
 
-        # Identify text color index (most frequent non-black, non-delimiter index)
-        colors = self.image.getcolors() or []
-        sorted_colors = sorted(colors, key=lambda x: -x[0])
-        text_idx = 254
-        for _, idx in sorted_colors:
-            if idx not in (0, DELIMITER_INDEX):
-                text_idx = idx
-                break
-
+        # Collect all 224 character cells (codes 32..255)
+        # Min width is 6px to prevent squashing narrow vowels/tone marks
+        min_w = 6
+        glyphs_to_pack: List[Tuple[int, int, Image.Image]] = []
         injected = 0
-        for code in char_codes:
-            if code not in self._glyph_map:
-                continue
-            glyph = self._glyph_map[code]
-            try:
-                char = bytes([code]).decode("cp874")
-            except Exception:
-                continue
 
-            rendered = self.render_thai_character(
-                char=char,
-                font=ttf_font,
-                cell_bbox=glyph.bbox,
-                text_color_idx=text_idx,
-                bg_color_idx=0,
-            )
+        for code in range(FIRST_CHAR_CODE, FIRST_CHAR_CODE + TOTAL_CELLS):
+            if code < 161:
+                g = self.get_glyph(code)
+                if g and g.image:
+                    glyphs_to_pack.append((code, g.bbox[2], g.image))
+                else:
+                    blank = Image.new("P", (min_w, row_h), 0)
+                    blank.putpalette(pal)
+                    glyphs_to_pack.append((code, min_w, blank))
+            elif 161 <= code <= 251:
+                try:
+                    char = bytes([code]).decode("cp874")
+                    bb = dummy_draw.textbbox((0, 0), char, font=ttf_font)
+                    gw = bb[2] - bb[0]
+                    gh = bb[3] - bb[1]
+                    cw = max(min_w, gw + 2)
 
-            x, y, w, h = glyph.bbox
-            self.image.paste(rendered, (x, y))
-            glyph.image = rendered
-            injected += 1
+                    canvas = Image.new("L", (cw, row_h), 0)
+                    cdraw = ImageDraw.Draw(canvas)
+                    pos_x = max(0, (cw - gw) // 2 - bb[0])
+                    pos_y = max(0, (row_h - gh) // 2 - bb[1])
+                    cdraw.text((pos_x, pos_y), char, fill=255, font=ttf_font)
+
+                    c_arr = np.array(canvas)
+                    p_arr = lut[c_arr]
+                    glyph_img = Image.fromarray(p_arr, mode="P")
+                    glyph_img.putpalette(pal)
+                    glyphs_to_pack.append((code, cw, glyph_img))
+                    injected += 1
+                except Exception:
+                    blank = Image.new("P", (min_w, row_h), 0)
+                    blank.putpalette(pal)
+                    glyphs_to_pack.append((code, min_w, blank))
+            else:
+                blank = Image.new("P", (min_w, row_h), 0)
+                blank.putpalette(pal)
+                glyphs_to_pack.append((code, min_w, blank))
+
+        # Pack glyphs into image array with delimiter lines
+        arr = np.zeros((img_h, img_w), dtype=np.uint8)
+        y = 0
+
+        # Initial top horizontal delimiter
+        arr[y, :] = DELIMITER_INDEX
+        y_top = y + 1
+        y_bottom = y_top + row_h
+        arr[y_top:y_bottom, 0] = DELIMITER_INDEX
+        cur_x = 1
+
+        for code, cw, gimg in glyphs_to_pack:
+            if cur_x + cw + 1 > img_w:
+                # Wrap to next row
+                arr[y_top:y_bottom, cur_x:] = 0
+                arr[y_bottom, :] = DELIMITER_INDEX
+                y = y_bottom
+                y_top = y + 1
+                y_bottom = y_top + row_h
+                if y_bottom >= img_h:
+                    raise ValueError(f"PCX font texture height overflow: {img_h} at code {code}")
+                arr[y_top:y_bottom, 0] = DELIMITER_INDEX
+                cur_x = 1
+
+            g_data = np.array(gimg)
+            gh, gw = g_data.shape
+            use_h = min(row_h, gh)
+            use_w = min(cw, gw)
+            arr[y_top:y_top + use_h, cur_x:cur_x + use_w] = g_data[:use_h, :use_w]
+
+            cur_x += cw
+            arr[y_top:y_bottom, cur_x] = DELIMITER_INDEX
+            cur_x += 1
+
+        # Close final row
+        arr[y_bottom, :] = DELIMITER_INDEX
+
+        new_image = Image.fromarray(arr, mode="P")
+        new_image.putpalette(pal)
+        self.image = new_image
+        self._parse_cells()
 
         return injected
 

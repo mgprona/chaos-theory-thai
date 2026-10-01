@@ -1,0 +1,47 @@
+[GENERAL]
+MapName=CARGO SHIP
+Briefing_LAMBERT=LAMBERT - Information you recovered in Peru makes it look like Hugo Lacerda was contracted by a third party to kidnap and interrogate Morgenholt. His payment was in weapons. He appears to be using those arms to equip his own men, and pay off debts to other guerilla groups. Maybe Lacerda is a nickel-ante loser... but maybe he learned things from Morgenholt that we don't want anyone to know. The Maria Narcissa is out to sea, so there's no escape. Board her, search her, find out who Lacerda has been dealing with, and then make sure he doesn't have an opportunity to spread what he knows. Fifth Freedom.
+Briefing_GRIMSDOTTIR=GRIMSDOTTIR - What Morgenholt knew about the Masse Kernels, recursive computation and weaponized algorithms is akin to what Oppenheimer knew about atoms, or what Turing knew about digital computers. Project Watson... the United Nations investigation into the Masse Kernels will be remembered for centuries alongside the Manhattan Project as fundamental research that changed the nature of warfare forever. Imagine if Che Guevara had kidnapped and interrogated Oppenhiemer in 1959 and you have a pretty accurate parallel of the situation we're in right now.
+Briefing_REDDING=REDDING - We're going to send the helicopter out about forty clicks ahead of the Maria Narcissa and leave you in the water on her course. You'll board covertly onto the bow. Search the ship and the holds. Find out what you can about the arms shipments and who Lacerda is dealing with. Satellite imaging shows the Maria Narcissa racks a small launch on the stern. That will be your primary extraction. If things go bad, we might be able to arrange to pluck you out of the sea.
+Briefing_PATRIDGE=PARTRIDGE - We'll keep the Walsh inside of helicopter range of the target vessel at all times. If something goes wrong, we should be able to assist in extraction. If you play it safe, we'll recover you in the ship's launch from open water once you're out of visual range of the ship.
+
+
+[Interaction]
+IntActivatePumps=Activate Pumps
+IntReadbilloflading=Read bill of lading
+IntExtraction=Extraction
+
+[Computer]
+CompTransitLedger=Transit Ledger
+CompRoomassignment=Room assignment
+
+[Email]
+EmailFloodedBody=There is a problem with the main bilge. I think I have managed a work-around. If any of the compartments flood again, try activating the secondary pump in the forecastle.
+EmailFloodedDate=June 28th, 2007
+EmailFloodedFrom=Gerardo
+EmailFloodedSubject=Flooding
+EmailFloodedTo=Ignacio
+
+EmailLacerdaBody=I’ll arrive aboard your ship sometime tonight. Please keep your smelly hooligans out of my way. I don’t want to be disturbed.
+EmailLacerdaDate=June 28th, 2007
+EmailLacerdaFrom=Hugo Lacerda 
+EmailLacerdaSubject=Coming Aboard
+EmailLacerdaTo=Captain Diego
+
+EmailInfoBody=The body of American Bruce Morgenholt was recovered in Peru today. No cause of death has been announced, but the US State Department has demanded an apology from the Peruvian Army for their possible role in a botched rescue operation.
+EmailInfoDate=June 28th, 2007
+EmailInfoFrom=WNM News Wire
+EmailInfoSubject=Morgenholt Found Dead in Peru
+EmailInfoTo=Subscriber
+
+EmailInfo2Body=Japan’s I-SDF revealed their findings into the events surrounding ‘Black Gold Day’. The report alleges that North Korean and Chinese information warfare attacks may have manipulated worldwide markets to bring about the economic collapse in Japan.
+EmailInfo2Date=June 28th, 2007
+EmailInfo2From=WNM News Wire
+EmailInfo2Subject=I-SDF Alleges North Korean Involvement in Market Crash
+EmailInfo2To=Subscriber
+
+EmailEngineRoomBody=I’m very worried about the sealant rings on the gas pipes. We already have several small gas leaks. If it gets worse, a single spark could sink this rat trap.
+EmailEngineRoomDate=June 28th, 2007
+EmailEngineRoomFrom=Pedro 
+EmailEngineRoomSubject=Engine Room
+EmailEngineRoomTo=Cornelio

@@ -80,10 +80,10 @@ def compile_translations(
 
                 total_strings += 1
                 if isinstance(val_obj, dict):
-                    th_text = val_obj.get("th", "").strip()
+                    th_raw = val_obj.get("th", "")
                     en_text = val_obj.get("en", "")
-                    if th_text:
-                        chosen_text = th_text
+                    if th_raw is not None and str(th_raw).strip() != "":
+                        chosen_text = str(th_raw)
                         thai_translated_strings += 1
                     else:
                         chosen_text = en_text
@@ -116,10 +116,31 @@ def compile_translations(
         ini_doc = IniDocument.from_file(template_file)
         ini_doc.apply_translations(translations, fallback_to_english=True)
 
-        # Retain UTF-16LE if original was UTF-16LE, else use target encoding (CP874)
-        if ini_doc.encoding == "utf-16le" or ini_doc.has_bom:
-            out_encoding = "utf-16le"
-            out_bom = True
+        # Check if any Thai characters (0x0E00..0x0E7F) are present in this stem
+        stem_has_thai = False
+        for s_dict in translations.values():
+            for v in s_dict.values():
+                if any(0x0E00 <= ord(c) <= 0x0E7F for c in str(v)):
+                    stem_has_thai = True
+                    break
+            if stem_has_thai:
+                break
+
+        # If file has Thai or target encoding is CP874, use CP874 so the 224-cell
+        # PCX font can render Thai characters. Only retain UTF-16LE if no Thai is
+        # present and the file originally used UTF-16LE with unencodable characters (e.g. Credits.int).
+        if stem_has_thai:
+            out_encoding = encoding
+            out_bom = False
+        elif ini_doc.encoding == "utf-16le" or ini_doc.has_bom:
+            try:
+                # Test if all text is encodable in target encoding without replacement
+                ini_doc.serialize(encoding=encoding, add_bom=False).decode(encoding)
+                out_encoding = encoding
+                out_bom = False
+            except Exception:
+                out_encoding = "utf-16le"
+                out_bom = True
         else:
             out_encoding = encoding
             out_bom = False

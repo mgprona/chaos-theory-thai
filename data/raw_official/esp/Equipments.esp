@@ -1,0 +1,248 @@
+[CATEGORIES]
+Category[0]=DESCONOCIDO
+Category[1]=PERMANENTE
+Category[2]=ARMA PRINCIPAL
+Category[3]=ACCESORIOS
+Category[4]=OBJETOS
+
+[FN2000]
+Name=SC20K
+NameShort=SC20K
+Description=Prototipo de arma modular de asalto SC20K.\n\nCartuchos de 5.56x45 mm en cargadores de 30 unidades y configuración bull-pup.\n\nMira réflex de 1.5x con silenciador y accesorios modulares.\n\nMecanismo doble de disparo para automático o semiautomático.\n\nLa zona de expulsión está diseñada para uso ambidiestro.
+HowToUseMe=
+
+[FN2000AMMO]
+Name=Munición SC20K
+NameShort=Cargador SC20k
+Description=Munición SC20K
+HowToUseMe=
+
+[FN7]
+Name=Pistola SC
+NameShort=Pistola SC
+Description=Protipo de pistola SC.\n\nCartuchos de 5.7x28 mm en cargadores de 20 balas. Silenciador integrado.\n\nEmpuñadura para uso ambidiestro.\n\nPrototipo PO montado bajo el cañón.\n\nPO es un dispositivo de distorsión eléctrica que causa interferencias.\n\nEl condensador necesita un tiempo para recarga.
+HowToUseMe=
+
+[FN7AMMO]
+Name=Munición 5.7 mm pistola
+NameShort=Cargador 5.7mm pistola
+Description=Munición 5.7 mm pistola
+HowToUseMe=
+
+[SCOPE]
+Name=Acc. 20 mm francotirador
+NameShort=FRANCOTIR.
+Description=Accesorio prototipo 20 mm para SC20K.\n\nProyectil de 20 mm antimateria que penetra blindajes usando GHP (generadores de haces de partículas).\n\nMira de francotirador de doble posición.\n\nFuerte retroceso. Contén el aliento para un disparo más preciso. No hay silenciador.
+HowToUseMe=
+
+[FOREGRIP]
+Name=Acc. empuñadura frontal
+NameShort=EMPUÑADURA
+Description=Prototipo de empuñadura delantera del SC20K.\n\nProporciona mayor estabilidad al disparar y controla el retroceso.\n\nAumenta la tasa de efectividad en los disparos durante las ráfagas. 
+HowToUseMe=
+
+[LAUNCHER]
+Name=Accesorio lanzador 
+NameShort=LANZADOR
+Description=Accesorio lanzador del SC20K.\n\nLanzador estándar de 40 mm accionado por un mecanismo de gas. Muy silencioso.\n\nPermite lanzar distintos dispositivos de 40 mm no tan letales como las balas.
+HowToUseMe=
+
+[SHOTGUN]
+Name=Accesorio escopeta
+NameShort=ESCOPETA
+Description=Accesorio de escopeta para el SC20K.\n\nCapacidad para doce cargas y excepcional potencia de retención a corta distancia.\n\nDisparo de doble cañón con el SC20K para diferentes situaciones y distancias.
+HowToUseMe=
+
+[GUNBAREL]
+Name=CAÑÓN
+NameShort=GUNBAREL
+Description=Acceosrio de cañón.
+HowToUseMe=
+
+[GUNGRIP]
+Name=SOPORTE
+NameShort=EMPUÑADURA
+Description=Accesorio de soporte.
+HowToUseMe=
+
+[GUNSCOPE]
+Name=TELEOBJETIVO
+NameShort=Mira telescópica
+Description=Accesorio de mira telescópica para fusil.
+HowToUseMe=
+
+[SHOTGUNAMMO]
+Name=Munición de escopeta
+NameShort=Munición escopeta
+Description=Munición para el accesorio de escopeta.
+HowToUseMe=
+
+[SCOPEAMMO]
+Name=Munición de francotirador
+NameShort=Munición francotirador
+Description=Munición para el accesorio francotirador.
+HowToUseMe=
+
+
+[AK47]
+Name=AK 47
+NameShort=AK47
+Description=El famoso fusil AK-47 con cámara de 7.62x39 y carcasa con madera y culata fija.
+HowToUseMe=
+
+[BERETTA]
+Name=Beretta 92FS
+NameShort=Beretta 92FS
+Description=Una de las armas de mano más usadas en el mundo.
+HowToUseMe=
+
+[C4]
+Name=C4
+NameShort=C4
+Description=Explosivo plástico C4.
+HowToUseMe=
+
+[FLARE]
+Name=Bengala
+NameShort=Bengala
+Description=Bengala tradicional que emite luz y calor.
+HowToUseMe=
+
+[CHEMICALFLARE]
+Name=Bengala química
+NameShort=Bengala química
+Description=Bengala química que se activa por rotura del cierre y desprende una luz intensa.
+HowToUseMe=
+
+[DISPOSABLEPICK]
+Name=Ganzúa deshechable
+NameShort=Ganzúa deshechable
+Description=
+
+[FLASHGRENADE]
+Name=Granda Cegad.
+NameShort=Granda Cegad.
+Description=Granada cegadora de la serie SC-82.\n\nEl fogonazo deja ciego, sordo y aturdido al enemigo.\n\nDistancia de seguridad, unos 8 metros.
+HowToUseMe=
+
+[FLASHLIGNT]
+Name=Linterna
+NameShort=Linterna
+Description=Linterna estándar de policía.
+HowToUseMe=
+
+[FRAGGRENADE]
+Name=Granada Frag
+NameShort=Granada Frag
+Description=Granada de fragmentación de tipo SC-60.\n\nUna esfera de acero de 5,5 cm que envuelve una mecha altamente explosiva y carga B comprimida.\n\nLa explosión lanza fragmentos letales en un radio circular de 2 metros.
+HowToUseMe=
+
+[REVIVESYRINGE]
+Name=JERING. ADRENALINA
+NameShort=Inyección adrenalina
+Description=Jeringuilla experimental de adrenalina.\n\nInyectada en el torso de un individuo aturdido o incapacitado, aumenta las posibilidades de supervivencia ante un gran número de heridas.
+HowToUseMe=
+
+[GAZGRENADE]
+Name=Granada gas
+NameShort=Gas
+Description=Granada de gas CS no letal de la serie SC 40. \n\nLibera una nube de gas CS que aturde al enemigo desprotegido.\n\nDebe usarse con cuidado; puede causar daños al sistema respiratorio.
+HowToUseMe=
+
+[LASERMIC]
+Name=Micro láser
+NameShort=Micrófono láser
+Description=
+HowToUseMe=
+
+[LIQUIDNITROGEN]
+Name=Nitrógeno líquido
+NameShort=Nitrógeno líquido
+Description=
+HowToUseMe=
+
+[LOCKPICK]
+Name=Ganzúa
+NameShort=Ganzúa
+Description=
+HowToUseMe=
+
+[M18SMOKEGRENADE]
+Name=Bote humo M18 color
+NameShort=Humo coloreado M18
+Description=
+HowToUseMe=
+
+[MEDKIT]
+Name=Botiquín
+NameShort=Botiquín
+Description=
+HowToUseMe=
+
+[OPTICCABLE]
+Name=Cable óptico
+NameShort=Cable óptico
+Description=
+HowToUseMe=
+
+[RINGAIRFOILROUND]
+Name=Proyectil NP
+NameShort=Proyectil NP
+Description=Proyectil no perforador de 40 mm, alto impacto e índice de penetración cero.\n\nDeja al objetivo inconsciente al impactar.\n\nNo emite ningún sonido.
+HowToUseMe=
+
+[SMOKEGRENADE]
+Name=Bote de humo
+NameShort=Humo
+Description=Granada de humo de tipo SC 81.\n\nLibera una nube de humo espeso y oscuro que no daña los pulmones al ser inhalado.\n\nTe proporciona un paraguas de cobertura visual cuando atraviesas un espacio abierto.
+HowToUseMe=
+
+[STICKYCAMERA]
+Name=CÁM. SEGUIMIEN.
+NameShort=CÁM. SEGUIMIEN.
+Description=Cámara de seguimiento de 40 mm que se lanza a distancia y se adhiere al objetivo, desde el que envía imágenes al ENSAT en tiempo real y sin cables. \n\nLleva visión térmica, nocturna y de campo electromagnético, panorámica y zoom.\n\nPuede emitir sonido o gas CS para realizar ataques no letales. Si el depósito del gas no se ha roto se puede recuperar y reutilizar. \n\nLa señal que envía tiene un radio limitado.
+HowToUseMe=
+
+[STICKYSHOCKER]
+Name=Dardo Tázer
+NameShort=Dardo taser
+Description=Munición de 40 mm que emite una descarga eléctrica de alto voltaje y bajo amperaje.\n\nMás que clavarse, se pega al enemigo y lanza una descarga al impactar. La descarga se transmite también por el agua.
+HowToUseMe=
+
+
+[INFRAREDSTRESSGEN]
+Name=Generador estrés
+NameShort=Generador estrés
+Description=Dispositivo generador de estrés.
+HowToUseMe=
+
+[WALLMINE]
+Name=Mina de pared
+NameShort=Mina pared
+Description=Mina de alto poder explosivo sensible al movimiento y letal en un radio de 3 m. Se puede desactivar manualmente mientras la luz verde parpadee.
+HowToUseMe=
+
+[TARGETBEACON]
+Name=Apuntar al faro
+NameShort=Guía de objetivo
+Description=
+HowToUseMe=
+
+[UMP]
+Name=UMP
+NameShort=UMP
+Description=UMP ametralladora corta
+HowToUseMe=
+
+[UZI]
+Name=Uzi
+NameShort=Uzi
+Description=AMC
+HowToUseMe=
+
+[CRYOBLOODVIAL]
+Name=Ampolla criogénica
+NameShort=Ampolla crio.
+Description=Crio
+HowToUseMe=Crio
+

@@ -1,0 +1,11 @@
+[GENERAL]
+MapName=HOKKAIDO
+Briefing_LAMBERT=Si je ne peux pas donner un os à ronger aux chefs d'état-major, on sera à guerre dans les vingt-quatre heures, Fisher. Ramenez-moi Zherkezhi pour qu'on puisse l'interroger. Milan Nedich l'a amené à Hokkaido pour le protéger. J'ignore si Shetland est au courant de ce qui se passe, mais j'aimerais bien le savoir. En tout cas, pas de sentiment s'il est impliqué.
+Briefing_GRIMSDOTTIR=Il y a un peu trop de coïncidences à mon goût, dans cette histoire. Zherkezhi est le seul à avoir pu orchestrer la destruction du Walsh. Même si ce sont les Coréens qui ont lancé le missile, ils ont eu besoin de son aide pour toucher le navire, c'est presque obligé. Et pour ce qui est de Displace... ça ne va pas te faire plaisir, Fisher, mais je pense que Shetland est impliqué. L'enlèvement de Morgenholt, la protection rapprochée de Zherkezhi et son déplacement vers Hokkaido... ça sent vraiment mauvais, tout ça.
+Briefing_REDDING=On dirait que Displace a loué la totalité du site. C'est très calme. Pas de serveurs ni de systèmes de sécurité, a priori. Par contre, les gardes seront sans doute très vigilants. Il va falloir t'occuper d'eux au corps à corps... les bonnes vieilles méthodes, quoi.
+Briefing_OTOMO=L'I-SDF surveille les activités de tous les employés des sociétés militaires privées sur le sol japonais. Nous avons appris hier que Displace avait loué cette retraite et plusieurs de nos agents ont placé des micros sur le site. Malheureusement, nous n'étions pas préparés au degré de technologie de Displace, et nos micros sont détectables par le matériel standard. Inutile de dire qu'il vaudrait mieux que les hommes de Displace ne les repèrent pas...
+Briefing=A FAIRE
+
+[Interaction]
+IntScanlicenseplate=Scanner la plaque
+IntExtraction=Extraction

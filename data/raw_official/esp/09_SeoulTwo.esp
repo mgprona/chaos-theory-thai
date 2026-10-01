@@ -1,0 +1,11 @@
+[GENERAL]
+MapName=SEÚL
+Briefing=TODO
+
+[Computer]
+CompDisableRadar=Desactivar radar
+CompUploadTap=Cargar programa
+CompUAVData=Datos del avión teledirigido 
+
+[Interaction]
+IntScanPlane=Designar el avión

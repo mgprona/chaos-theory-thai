@@ -1,0 +1,50 @@
+[GENERAL]
+MapName=BATTERIE
+Briefing=A FAIRE
+Briefing_LAMBERT=Je sais que vous pensez que la solution la plus rapide à notre problème est de traquer Shetland, et vous avez peut-être raison, Fisher. Malheureusement, la situation empire sur le plan diplomatique depuis le Walsh, et la guerre pourrait éclater à tout moment en Corée. Nous avons localisé la batterie qui a tiré le missile. S'il s'avère que ce tir n'était pas intentionnel de la part des Nord-Coréens, il nous faut en apporter la preuve, et vite !
+Briefing_GRIMSDOTTIR=J'ai étudié les données que tu as trouvées dans l'ordinateur de Zherkezhi, à New York. Son algorithme est une brillante extrapolation des noyaux de Masse, rendue infiniment plus complexe par la récusivité offerte par Dvorak. Si tu pouvais accéder à la mémoire BIOS des lance-missiles de la batterie, je devrais pouvoir déceler la trace laissée par l'algorithme dans le système.
+Briefing_REDDING=Tu sauteras en altitude, avec ouverture du parachute au ras du sol. Insertion en forêt, à deux kilomètres à l'est de la batterie, puis infiltration dans le périmètre et entrée par le conduit l'aération principal. Cette batterie existe depuis la Seconde Guerre mondiale, mais elle a bénéficié de plusieurs mises à jours. Nous n'avons qu'une carte sommaire, impossible de savoir à quoi s'attendre. 
+Briefing_MASSON=Depuis la destruction du Walsh, l'USS Ronald Reagan a pris le contrôle de notre escadre en mer Jaune. Notre flotte est en alerte rouge. En cas de guerre, nous sommes prêts à exécuter des sorties ciblées contre des objectifs visant à limiter les capacités offensive de la Corée du Nord. Si les services de renseignement nous apprennent qu'ils veulent la bagarre, ils l'auront. Et quant aux servants de cette batterie, je leur conseille d'avoir un bon casque... et une bible !
+Briefing_OTOMO=L'I-SDF japonaise a joué un grand rôle pour ce qui est de déterminer que le missile qui a coulé le Walsh a bien été tiré par cette batterie. L'aide de toute notre armée vous est acquise afin de comprendre ce qui a pu motiver un tel acte de démence de la part de l'agresseur coréen. Nous n'avons pas les moyens d'attaquer cette batterie de missiles, mais nous mettrons tout en oeuvre pour lutter contre les Coréens si nos grands alliés américains sont obligés de leur déclarer la guerre.
+
+[Interaction]
+IntExtract=Extraction falaise
+
+[Computer]
+CompOutpostEntrance=Entrée de l'avant-poste
+CompWarehouse=Entrepôt
+CompPlayMusic=Ecouter une plage aléatoire
+CompShippingLog=Récupérer les registres de réparation
+CompRepairLogs=Récupérer les registres de réparation
+CompHydraulicCrane=Grue hydraulique
+CompLoadingBay=Hangar de chargement
+CompMissileBayEntrance=Entrée du hangar à missiles
+CompAccessCode=Annuler le vol du missile
+CompForklift=Commandes de la grue
+CompEastMissileBay=Hangar à missiles est
+CompWestMissileBay=Hangar à missiles ouest
+CompCommandCenter=Centre de commandement
+CompEastBattery=Batterie est
+CompWestBattery=Batterie ouest
+CompUploadCodes=Télécharger les codes d'annulation
+CompUploadReport=Télécharger le rapport des techniciens
+CompScanBios=Scanner le BIOS du lance-missiles
+
+[Email]
+EmailMunitionsBody=Feng, j'ai examiné les livraisons de munitions de petit calibre à l'entrepôt et on dirait que tu as commandé des 5.56 OTAN. Je ne pensais même pas que c'était possible et, de toute façon, aucune de nos armes n'utilise ce genre de munitions. Qu'est-ce que tu veux qu'on en fasse ?
+EmailMunitionsDate=06/07/2007
+EmailMunitionsFrom=Ho
+EmailMunitionsSubject=Erreur de munitions
+EmailMunitionsTo=Feng
+
+EmailBloodyBody=Bong, je sais que tu saignes du nez quand tu restes trop longtemps sous terre, alors, j'ai commandé une autre trousse de premiers soins. Elle se trouve dans la salle de contrôle du hangar aux missiles, des fois que tu en aies besoin.
+EmailBloodyDate=06/07/2007
+EmailBloodyFrom=Chen
+EmailBloodySubject=Saignements de nez
+EmailBloodyTo=Bong
+
+EmailUndeliverableBody=Le message envoyé à l'Abonné a été bloqué par l'Administrateur du système.
+EmailUndeliverableDate=06/07/2007
+EmailUndeliverableFrom=Administrateur système
+EmailUndeliverableSubject=WNM Actualités - distribution impossible
+EmailUndeliverableTo=Utilisateur

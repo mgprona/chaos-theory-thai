@@ -1,0 +1,37 @@
+[GENERAL]
+MapName=LIGHTHOUSE
+Briefing_LAMBERT=LAMBERT - Fisher, an American engineer named Bruce Morgenholt has been kidnapped by a Peruvian separatist group called the "People's Voice". Their suspected leader, Hugo Lacerda, is a hard-core revolutionary preaching information warfare as the only realistic means to achieve revolution in modern society. We need to you get in there and recover or destroy any information Morgenholt may have been forced to divulge, and, if possible, rescue him. As for Lacerda... he's just been bumped onto our target of opportunity list, so if you have a shot, take it.
+Briefing_GRIMSDOTTIR=GRIMSDOTTIR - Hostage rescue isn't normally our bag, but Morgenholt was part of Project Watson, the UN Committee that studied Phillip Masse's handiwork after Georgia. Some people are worried that this kidnapping is just a cover-up and that Morgenholt is being interrogated for classified information about the Masse Kernels. Fact is that some of the tricks Masse came up with could be used to do a lot of damage. We need to contain that information at all costs.
+Briefing_REDDING=REDDING - The target area is a lighthouse attached to an abandoned Spanish Colonial era fortification and some nearby structures. We don't have an exact location on Morgenholt, so you'll have to find him yourself. Insertion will be at night by zodiac onto the beach beneath the fort itself. Thermal imaging shows that there are some old natural and semi-natural caves under the fort, so you may be able to use those for infiltration.
+Briefing_PATRIDGE=PARTRIDGE - Alright Fisher, the helicopter will drop you a few kilometers off shore in the Zodiac  you have one of my zodiacs and logistical support in and out of the target area. Extraction will be by helicopter from the top of the lighthouse
+Briefing_SHETLAND=SHETLAND - Displace International holds the contract with Wright-Pritchard Technologies to protect their VIP's in potentially hostile situations. We did a thorough threat evaluation for their project in Peru and we accepted the VIP detail on Morgenholt. The guys who came after him knew what they were doing. This was not a tourist grab. I lost three good men in the snatch, and I'm currently preparing a rescue plan for approval from Morgenholt's family and Wright-Pritchard. This is gonna cost Displace a lot of money.
+
+
+[Interaction]
+IntExfiltrate=Call Extraction
+IntScanCrate=Scan Crate
+
+[Computer]
+CompEraseData=Erase Morgenholt Data
+CompObjective=Objective
+CompNews=News
+CompEmail=Email
+
+[Email]
+EmailISSBody=Contact with the International Space Station has been lost. Technicians fear the station may have been struck by a micrometeor.
+EmailISSDate=June 23, 2007
+EmailISSFrom=WNM News Wire
+EmailISSSubject=Contact With ISS Lost
+EmailISSTo=Subscriber
+
+EmailMorgenholtBody=The Peruvian government has communicated their suspicions that American Bruce Morgenholt was kidnapped by an organization known as the "People's Voice". The group itself has not released any public statements.
+EmailMorgenholtDate=June 23, 2007
+EmailMorgenholtFrom=WNM News Wire
+EmailMorgenholtSubject="People's Voice" Suspected in Morgenholt Kidnapping
+EmailMorgenholtTo=Subscriber
+
+EmailJimboBody=Hey Jimbo. So I took Piedro up on his offer and came camping with his buddies. Turns out they're a bunch of half-organized revolutionaries... kinda harmless though. Anyway, I was looking around in some caves here and spotted some bioluminescent fungus. Or maybe it was fungus that was host to Photobacterium Phosphorium... not sure. I'll try and get you a sample.
+EmailJimboDate=June 23, 2007
+EmailJimboFrom=Alphonse
+EmailJimboSubject=PP
+EmailJimboTo=Jim

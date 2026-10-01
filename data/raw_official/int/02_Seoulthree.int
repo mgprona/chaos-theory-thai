@@ -1,0 +1,20 @@
+[GENERAL]
+MapName=SEOUL 3
+Briefing_LAMBERT=LAMBERT - This one should be a cake-walk. Jong Pom-chu is a South Korean chemist, suspected to be working for the North Korean Cabinet Intelligence Bureau. CIA has recently flagged him as someone with the capability to manufacture chemical and biological weapons. If what you discovered in Panama is true, and Jong has been bribing Senor de Medeiros to move illegal cargo through the Canal Zone, odds are good he also has the tools and ingredients. I need you to abduct Jong from Seoul before and North Korean forces manage to pick him up and sneak him out of the country.
+
+[Computer]
+
+[Email]
+
+EmailescapeBody=In the event of an emergency, Jong may need to be relocated again so he is not captured by the Americans or South Koreans. If something goes wrong, there is a boat docked in the fish market. Tell Jong he can use that to escape.
+Emailescapedate=07/07/07
+Emailescapefrom=Sun
+Emailescapesubject=Escape Contingency
+Emailescapeto=Pok
+
+
+EmailbackdoorBody=The doorcode for the back of the hotel is 7649. Make sure this door is secure at all times.
+Emailbackdoordate=07/08/07
+Emailbackdoorfrom=Ping
+EmailbackdoorSubject=Hotel Door code
+Emailbackdoorto=Cho

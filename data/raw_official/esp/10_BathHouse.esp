@@ -1,0 +1,40 @@
+[GENERAL]
+MapName=CASA DE BAÑOS
+Briefing_LAMBERT=Echelon ha localizado a Doug Shetland en Tokio hace seis horas. Está en movimiento, con una conexión inalámbrica. Por lo que hemos conseguido descifrar, está a punto de cerrar un trato con sus contactos japoneses, sean quienes sean. Al parecer, él y sus hombres van a reunirse en una casa de baños, en el centro de la ciudad. Hay que averiguar con quién va a reunirse Shetland y hacer todo lo posible para impedir que cierre el trato.
+Briefing_GRIMSDOTTIR=Es evidente que el ataque que neutralizó al Walsh y lanzó el misil vino a través de Seúl... pero tuvo su origen en Japón. Shetland tiene algo que ver. La línea secreta que hemos abierto en los servidores de Displace demuestra que se está llenando los bolsillos con esta guerra. Para detener sus operaciones y evitar una nueva escalada de violencia, debemos identificar a sus socios y asegurarnos de que los algoritmos de Zherkezhi no sigan en su poder.
+Briefing_REDDING=Fisher, esa casa de baños donde va a celebrarse la reunión debe ser un lugar semipúblico. Habrá civiles, y probablemente un buen número de pistoleros. En la última hora, los hombres de Shetland están brotando como setas por todo Tokio, y todos se dirigen al mismo lugar. Frances Coen, que lleva unos meses destinada en Asia, ha descubierto lazos entre el propietario de los baños y una organización criminal japonesa conocida como los Nishin Rojos. Es probable que sean socios de Shetland.
+Briefing=TODO
+
+[Computer]
+CompAccessCamPublicBathsA=Cámara de seguridad A baños públicos
+CompAccessCamPublicBathsB=Cámara de seguridad B baños públicos
+CompAccessCamPrivateBathsA=Cámara de seguridad A baños privados
+CompAccessCamPrivateBathsB=Cámara de seguridad B baños privados
+CompAccessCamPrivateRooms=Cámara seguridad salas privadas
+CompDisableCameraSystem=Desactivar sistema cámaras
+CompISDFOrdersReport=Informe de órdenes de las FAD
+
+[Email]
+EmailMercuryFishBody=Científicos de New Brunswick, Canadá, han anunciado hoy los resultados de un estudio sobre contaminación de los peces por metales pesados, que ha durado diez años. El informe revela datos alarmantes, según el Dr. Jules Bortlien, que ha hablado de la escasez de atunes en los mares".
+EmailMercuryFishDate=10 jul. 2007
+EmailMercuryFishFrom=Boletín de noticias de la WNM
+EmailMercuryFishSubject=Aumento del mercurio en los atunes
+EmailMercuryFishTo=Suscriptor
+
+EmailMeetingReservationBody=Haru, espero no haberte disgustado. Por supuesto, eres un Nishin Rojo y siempre serás bienvenido a nuestra casa. Me ocuparé de que nuestros huéspedes especiales no te molesten.
+EmailMeetingReservationDate=10 jul. 2007
+EmailMeetingReservationFrom=Yakuo
+EmailMeetingReservationSubject=Reserva
+EmailMeetingReservationTo=Haru
+
+EmailUSSWalshBody=Los cuerpos de 141 marineros del USS Walsh han llegado hoy a Estados Unidos para la preparación de sus funerales.
+EmailUSSWalshDate=10 jul. 2007
+EmailUSSWalshFrom=Boletín de noticias de la WNM 
+EmailUSSWalshSubject=Los cadáveres del Walsh repatriados
+EmailUSSWalshTo=Suscriptor
+
+EmailChaosTheoryBody=Señor, he terminado de implementar los algoritmos e instalado el software necesario. Para mantener la seguridad de las operaciones sólo hay que introducir las tareas y subtareas y colocar el número de elementos y el tiempo y lugar de ejecución. Con ello el algoritmo generará el plan de la misión y contactará de forma remota con sus hombres cuando sea necesario.
+EmailChaosTheoryDate=10 jul. 2007
+EmailChaosTheoryFrom=Karol
+EmailChaosTheorySubject=Teoría del Caos
+EmailChaosTheoryTo=Shetland

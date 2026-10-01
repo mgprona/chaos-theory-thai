@@ -1,0 +1,621 @@
+[P_03_Bank_AfterSprinkler]
+
+[P_03_Bank_AlarmCheck]
+POPUPMESSAGE_0001=Disminuye el nivel de alarma - El enemigo se tranquiliza - Se quita el casco.
+POPUPMESSAGE_0002=Disminuye el nivel de alarma - El enemigo se tranquiliza - Se quita el chaleco.
+POPUPMESSAGE_0003=Disminuye el nivel de alarma - El enemigo se tranquiliza.
+
+[P_03_Bank_Communications]
+Speech_0207L=Fisher, Lacerda ha adquirido esas armas utilizando como intermediario a un banco de Panamá. Quiero echar un vistazo a sus registros, pero por desgracia no es tan fácil. No debe parecer una operación de los servicios secretos americanos, así que para encubrirla tendrás que romper la caja fuerte y llevarte algunos bonos... propiedad del Gobierno de Francia.
+Speech_0208L=Anoche entré en el servidor del banco, pero no encontré gran cosa. Todos sus ordenadores tienen discos duros extraíbles. Supongo que los guardan cada noche. Ahora se protegen más contra los hackers que contra los ladrones. El caso es que deben guardar los discos en la cámara acorazada, así que no va a ser nada fácil acceder a ellos.
+Speech_0209L=Primero, las buenas noticias. Ya has estado en ese banco, cuando penetraste con un equipo de la CÍA buscando el dinero de Noriega. La mayoría de la información que tenemos sobre el banco procede de tu equipo. Ahora, las malas: la seguridad es excelente. Lásers, sensores de movimiento, puertas acorazadas, cámaras... En el 89 no había nada de eso. Hemos contactado también con un especialista para que te ayude a reventar la cámara. Habla con él.
+Speech_0210L=No sé por qué te ayudo, aunque cualquier cosa es mejor que estar en la trena. Creo que tienes que abrir una Mason Wells 88. No es tarea para un solo hombre, aunque me han dicho que eres capaz de hacer el trabajo de cinco. He hecho que tu socio Willy deposite unas cuantas cosas en una caja de seguridad de la cámara pequeña, a tu nombre. Las necesitarás para reventar la cámara principal.
+Speech_0211L=Nosotros seguimos rumbo al Mar Amarillo, pero vamos a enviarte en helicóptero a Ciudad de Panamá. No tengo autorización para actuar dentro de Panamá, así que trabajarás sin que lo sepa la Embajada. Tú y tu socio os tendréis que arreglar por vuestra cuenta.
+Speech_0252L=El embajador chino en Estados Unidos, Long Dan, ha regresado hoy a China para asistir a una reunión urgente de su gobierno en la que se tratarán las recientes tensiones entre Corea y Japón. Long Dan intentará que los delegados coreanos, japoneses y estadounidenses se sienten juntos en una mesa de negociación.
+Speech_0253L=Deportes. Akira Watanabe llegó ayer a Nueva York para su primer entrenamiento con su nuevo equipo. Tras las pruebas del primer día, el entrenador Mathieu Ferland ha declarado que Watanabe puede ser el mejor lanzador de la historia del béisbol.
+POPUPMESSAGE_0265=Alarma de nivel uno
+Speech_-001L=(null)
+Speech_0224L=Fisher, cuidado con las alarmas. Estás robando un banco.
+POPUPMESSAGE_0266=Alarma de nivel dos - El enemigo se coloca el chaleco.
+Speech_-001L=(null)
+Speech_0225L=Va en serio. Si saltan más alarmas tendrás a todo el ejército de Panamá detrás de ti.
+POPUPMESSAGE_0267=Alarma de nivel tres - El enemigo se coloca el casco.
+Speech_-001L=(null)
+Speech_0226L=No bromeo, Fisher. Una alarma más y tendrás problemas muy serios.
+Speech_-001L=(null)
+Speech_0227L=Maldita sea, Sam, ésa es la alarma general. Ahora tendrás que abrirte paso a la fuerza. ¡Completa los objetivos primarios y sal de ahí!
+Speech_0272L=Sam, he transmitido a tu ENSAT más información sobre el banco.
+Speech_0027L=Fisher, he sincronizado tu ENSAT con la información del banco que tú y tus hombres recopilasteis en el 89.
+Speech_0028L=¡Ah, qué recuerdos!
+Speech_0029L=Sí, a juzgar por el informe parece que fueron casi unas vacaciones.
+Speech_0030L=En comparación, sí. El resto del año lo pasé en una trinchera, junto a la carretera de Bagdad a Kuwait.
+Speech_0031L=Si te sirve de consuelo, aquel año también fue duro para mí.
+Speech_0032L=No me digas que trabajabas para el Gobierno en la Guerra del Golfo...
+Speech_0033L=No, no. Yo estaba en octavo.
+Speech_0034L=Vale, muy graciosa.
+Speech_0228L=Sam, he transmitido a tu ENSAT más información sobre el banco.
+Speech_0273L=Hay que neutralizar una caja de interruptores del techo para desconectar los cierres magnéticos de las ventanas.
+Speech_0111L=Fisher, tengo la copia de un documento del banco para la aseguradora. Dice que las ventanas de la cúpula del vestíbulo tienen cierres magnéticos. Para desconectarlos, tendrás que buscar ahí arriba una caja de interruptores.
+Speech_0114L=De acuerdo.
+Speech_-001L=(null)
+Speech_0229L=Hay que neutralizar una caja de interruptores del techo para desconectar los cierres magnéticos de las ventanas.
+Speech_0274L=Se han encendido unos lásers en el vestíbulo.
+Speech_0115L=Bien, Sam. Eso ha desactivado los cierres magnéticos de las ventanas. Eh, espera. Hay un pico de energía. Parece que hay una rejilla láser en el vestíbulo.
+Note_0254L=Hay sensores láser activos en el vestíbulo y los pasillos superiores.
+Speech_0118L=¿Láser? Los lásers son de los...
+Speech_0119L=¿Noventa?
+Speech_0120L=Iba a decir los setenta. Deja de hacerme sentir viejo, por favor.
+Speech_0121L=Para tu información, eres un viejo.
+Speech_-001L=(null)
+Speech_0230L=Se han encendido unos lásers en el vestíbulo.
+Note_0259L=Hay sensores láser activos en el vestíbulo y los pasillos superiores.
+Speech_0275L=Ya tenemos el número de serie. Ahora tienes que buscar las llaves de autorización en la oficina de seguridad y los despachos del presidente y el tesorero.
+Speech_0050L=Fisher, éste es nuestro asesor. Él te guiará para que puedas entrar en la cámara acorazada. Ten paciencia con él.
+Speech_0053L=Ah... Es de ésos que...
+Speech_0054L=¡Exacto! ¿Hola? ¿Esto está conectado?
+Speech_0057L=Sí. Estoy aquí. ¿Te han informado?
+Speech_0060L=Sí. Atiende. Es una Mason Wells 88. Cada cámara es única. Si quieres meterle mano a esa preciosidad, tienes que decirme su número de serie.
+Speech_0256L=¿Cómo lo hago?
+Speech_0257L=En los despachos del presidente y del tesorero hay dos llaves de autorización. También debe haber otra en la oficina de seguridad. Tienes que desactivar las tres.
+Speech_0258L=Bien.
+Speech_0061L=¿Y dónde lo tiene?
+Speech_0062L=Bajo el suelo del vestíbulo, encima de la cámara, hay un sistema de ventilación. Desde allí puedes escanear el código de barras.
+Speech_0065L=Entiendo.
+Speech_0237L=Hay que averiguar el número de serie, un código de barras grabado en el exterior de la cámara. Bajo el suelo del vestíbulo hay un sistema de ventilación. Desde ahí lo verás.
+Speech_-001L=(null)
+Speech_0246L=No te precipites, Fisher. Si quieres entrar a la cámara acorazada, antes tienes que escanear el número de serie.
+Speech_0247L=Vale, me doy la vuelta.
+Speech_0248L=Antes de seguir necesitas el número de serie de la cámara acorazada.
+Speech_-001L=(null)
+Speech_0066L=Ahí está. La cámara es de la serie 091772, lo cual significa que hay que abrirla en cuatro pasos. Primero, hay que autorizar la apertura.
+Speech_0071L=¿Cómo lo hago?
+Speech_0072L=En los despachos del presidente y del tesorero hay dos llaves de autorización. También debe haber otra en la oficina de seguridad. Tienes que desactivar las tres.
+Speech_0073L=Bien.
+Speech_-001L=(null)
+Speech_0238L=Ya tenemos el número de serie. Ahora tienes que buscar las llaves de autorización en la oficina de seguridad y los despachos del presidente y el tesorero.
+Note_0260L=Los guardias que patrullan las zonas con protección láser llevan dispositivos que desactivan la rejilla a su paso.
+Speech_0276L=Pégate al vigilante y podrás evitar los lásers.
+Speech_0122L=Hay más lásers delante de ti, Sam. Ese lugar está plagado de fotones.
+Speech_0123L=Hay un guardia que los está atravesando sin ningún problema.
+Speech_0124L=Debe llevar una especie de emisor. Acércate, para aprovechar su sombra electrónica.
+Speech_-001L=(null)
+Speech_0231L=Pégate al vigilante y podrás evitar los lásers.
+Speech_-001L=(null)
+Speech_0074L=Ésa es la autorización del presidente. Faltan dos.
+Speech_-001L=(null)
+Speech_0075L=Ésa es la autorización del tesorero. Faltan dos más.
+Speech_-001L=(null)
+Speech_0076L=Ésa es la autorización de seguridad. Faltan dos más.
+Speech_-001L=(null)
+Speech_0077L=Ya van dos. Falta la autorización del despacho del presidente.
+Speech_-001L=(null)
+Speech_0078L=Ya van dos. Falta la autorización del despacho del tesorero.
+Speech_-001L=(null)
+Speech_0079L=Ya van dos. Falta la autorización de la oficina de seguridad.
+Speech_0277L=La autorización ya está. Ve a la cámara. Te he dejado herramientas allí, en una caja de seguridad.
+Speech_0080L=El primer paso ya está. Mientras hablamos, la reja exterior de la cámara debe estar abriéndose.
+Speech_0081L=Genial.
+Speech_0083L=Pasada esa reja hay una pequeña cámara, con cajas de seguridad. Te he dejado herramientas en una de ellas.
+Speech_0084L=De acuerdo. Cuando entre, te avisaré.
+Speech_-001L=(null)
+Speech_0239L=La autorización ya está. Ve a la cámara. Te he dejado herramientas allí, en una caja de seguridad.
+Speech_0278L=El equipo que necesitas está en la caja 1024.
+Speech_0085L=Sam, soy Will...
+Speech_0086L=El Tortuga dice que en una de estas cajas hay material.
+Speech_0087L=A la altura de tu pecho, a mano derecha. La 1024.
+Speech_-001L=(null)
+Speech_0234L=El equipo que necesitas está en la caja 1024.
+Speech_0279L=Ve a la cámara principal con las herramientas.
+Speech_0088L=Cuidado con ese equipo.
+Speech_0089L=¿Qué es todo esto?
+Speech_0090L=Las cargas son para la cámara, y el otro aparato es una ganzúa telemétrica.
+Speech_0091L=¿Una ganzúa telemétrica?
+Speech_0092L=Ve a la cámara principal. Allí te lo explico.
+Speech_-001L=(null)
+Speech_0240L=Ve a la cámara principal con las herramientas.
+Speech_0280L=Para abrir las dos cerraduras a la vez necesitas la ganzúa telemétrica. Pon el extremo macho en una cerradura y el hembra en otro. Ahora, utiliza el extremo hembra y el macho replicará tus movimientos.
+Speech_0095L=Ahora, tienes que reventar esas dos cerraduras al mismo tiempo.
+Speech_0096L=Para eso es la ganzúa telemétrica.
+Speech_0097L=Exacto. Lee tus movimientos en una cerradura y los imita en la otra en tiempo real.
+Speech_0098L=Tenéis unos juguetes geniales.
+Speech_-001L=(null)
+Speech_0241L=Para abrir las dos cerraduras a la vez necesitas la ganzúa telemétrica. Pon el extremo macho en una cerradura y el hembra en otro. Ahora, utiliza el extremo hembra y el macho replicará tus movimientos.
+Speech_0281L=Cada vez que notes que tocas un perno, espera un segundo para que la ganzúa telemétrica se sincronice. Cuando oigas el pitido, mueve el perno y pasa al siguiente. No intentes moverlo antes de sincronizar, o tendrás que empezar de nuevo.
+Speech_0249L=Cada vez que notes que has tocado un perno, espera un segundo para que la ganzúa telemétrica se sincronice. Cuando oigas el pitido, mueve el perno y pasa al siguiente. No intentes moverlo antes de sincronizar, o tendrás que empezar de nuevo.
+Speech_0250L=De acuerdo.
+Speech_-001L=(null)
+Speech_0251L=Cada vez que notes que tocas un perno, espera un segundo para que la ganzúa telemétrica se sincronice. Cuando oigas el pitido, mueve el perno y pasa al siguiente. No intentes moverlo antes de sincronizar, o tendrás que empezar de nuevo.
+Speech_0282L=Coloca las cargas en los pernos principales y vuélalos.
+Speech_0103L=Ahora coloca las cargas sobre los pernos principales. Cuando estén puestas, ya sabes lo que tienes que hacer.
+Speech_-001L=(null)
+Speech_0242L=Coloca las cargas en los pernos principales y vuélalos.
+Speech_0283L=Buen trabajo. Ahora, encuentra esos discos.
+Speech_0106L=Y... ábrete, Sésamo...
+Speech_0107L=Lambert...estoy dentro.
+Speech_0108L=Buen trabajo. Ahora, encuentra esos discos.
+Speech_-001L=(null)
+Speech_0243L=Buen trabajo. Ahora, encuentra esos discos.
+Speech_0284L=Ya has guardado el primer mensaje, Fisher. Te quedan siete.
+Speech_0002L=Menos mal. Nuestro instalador parece compatible con su sistema operativo.
+Speech_0003L=¿Así de simple? ¿Plug-and-play?
+Speech_0004L=Más o menos. Hay que cargar en su red estos ocho emails falsos.
+Speech_0005L=Así el robo parecerá cosa de alguien de dentro.
+Speech_0082L=Exacto.
+Speech_-001L=(null)
+Speech_0212L=Ya has guardado el primer mensaje, Fisher. Te quedan siete.
+Speech_-001L=(null)
+Speech_0006L=Ya vas por la mitad, Sam. Te quedan cuatro mensajes.
+Speech_0007L=Gracias. Siempre me ha costado contar más de 3.
+Speech_0008L=No te pases de gracioso, Sam.
+Speech_-001L=(null)
+Speech_0009L=Muy bien, Fisher. Un mensaje más y estaremos cubiertos.
+Speech_0010L=Hago lo que puedo.
+Speech_0285L=Buen trabajo. Has terminado con los mensajes.
+Speech_0011L=Buen trabajo. Ahora cualquier investigación sobre el robo señalará a los propios investigadores.
+Speech_0012L=Y el gobierno de Panamá terminará encarcelando a algún banquero inocente.
+Speech_0013L=Inocente, si no tienes en cuenta que trafican con armas.
+Speech_0014L=Sí, lo olvidaba. Banqueros igual a delincuentes.
+Speech_-001L=(null)
+Speech_0213L=Buen trabajo. Has terminado con los mensajes.
+Speech_0286L=Has destruido uno de los ordenadores que necesitábamos para cargar los mensajes. Considera cancelado tu objetivo secundario.
+Speech_0017L=Maldición. Ese ordenador nos hacía falta para colocar uno de los mensajes falsos.
+Speech_0018L=Supongo que eso anula el objetivo secundario.
+Speech_0019L=Por desgracia.
+Speech_-001L=(null)
+Speech_0214L=Has destruido uno de los ordenadores que necesitábamos para cargar los mensajes. Considera cancelado tu objetivo secundario.
+Speech_0287L=Buen trabajo, Fisher. Ahora la operación parecerá un atraco.
+Speech_0023L=Bien hecho, Fisher. Ahora la operación parecerá un atraco. Nunca sabrán por qué entramos al banco.
+Speech_0024L=Lambert, ahora que tengo en mi poder cincuenta millones, me gustaría hablar de la subida de sueldo.
+Speech_0025L=Hmm, está bien. Veinticinco céntimos la hora. Ni uno más.
+Speech_0026L=Hecho.
+Speech_-001L=(null)
+Speech_0215L=Buen trabajo, Fisher. Ahora la operación parecerá un atraco.
+Speech_0288L=Sam, los mensajes relacionados con Lacerda han sido eliminados, pero los fragmentos indican que se los envió un tal Dvorak. Estaban codificados con una clave de 512 bits, extremadamente sofisticada y de alto secreto.
+Speech_0036L=Tengo fragmentos de un mensaje enviado por un tal 'Dvorak'. Su nombre no aparece en Echelon. Espera... Qué raro...
+Speech_0043L=¿El qué?
+Speech_0044L=Los mensajes borrados. Están encriptados con algoritmo cinco doce. No había visto un cinco doce desde Phillip Masse.
+Speech_0045L=Yo maté a Masse a las afueras de Severomorsk.
+Speech_0046L=Me acuerdo. Confirmado: aquí hay alguien con acceso a información de alto secreto.
+Speech_0047L=¿Quién?
+Speech_0048L=No estoy segura. Ya te contaré.
+Speech_-001L=(null)
+Speech_0232L=Sam, los mensajes relacionados con Lacerda han sido eliminados, pero los fragmentos indican que se los envió un tal Dvorak. Estaban codificados con una clave de 512 bits, extremadamente sofisticada y de alto secreto.
+Speech_0167L=¿Zherkezhi?
+Speech_0168L=Es una posibilidad aterradora.
+Speech_-001L=(null)
+Speech_0233L=Sam, los mensajes relacionados con Lacerda han sido eliminados, pero los fragmentos indican que se los envió un tal Dvorak. Estaban codificados con un algoritmo de 512 bits, al que tenían acceso Morgenholt y Zherkezhi.
+Speech_0289L=Sam, debes completar los objetivos primarios antes de la extracción.
+Speech_0205L=Sam, debes completar los objetivos primarios antes de la extracción.
+Speech_0206L=Entiendo.
+Speech_-001L=(null)
+Speech_0235L=Sam, debes completar los objetivos primarios antes de la extracción.
+POPUPMESSAGE_0268=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+Speech_0290L=Fisher, esta misión es un desastre. Completa los objetivos primarios y ve al punto de extracción más cercano.
+Speech_0169L=Fisher, esta misión es un desastre. Completa los objetivos primarios y ve al punto de extracción más cercano.
+Speech_0170L=Sí, señor.
+Speech_-001L=(null)
+Speech_0221L=Fisher, esta misión es un desastre. Completa los objetivos primarios y ve al punto de extracción más cercano.
+POPUPMESSAGE_0269=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+Speech_0291L=Parece que te han descubierto, Fisher. Ya has completado los objetivos, así que ve al punto de extracción más cercana.
+Speech_0171L=Parece que te han descubierto, Fisher. Ya has completado los objetivos, así que ve al punto de extracción más cercano.
+Speech_0172L=Sí, señor.
+Speech_-001L=(null)
+Speech_0222L=Parece que te han descubierto, Fisher. Ya has completado los objetivos, así que ve al punto de extracción más cercana.
+Speech_0292L=Vamos a sacarte de ahí según lo previsto, por el mismo punto de inserción.
+Speech_0176L=La extracción será según lo previsto, en el mismo punto de inserción.
+Speech_0177L=¿Sobre el muro del patio delantero?
+Speech_0178L=Sí. Redding te estará esperando en las inmediaciones.
+Speech_0179L=Ya voy.
+Speech_-001L=(null)
+Speech_0219L=Vamos a sacarte de ahí según lo previsto, por el mismo punto de inserción.
+Speech_0293L=LAMBERT - Alright Fisher, that's all we need. Time to make yourself scarce. Go to the closest extraction point.
+Speech_0180L=Ya tenemos lo que queríamos, Fisher. Es hora de largarse. Ve al punto de extracción más cercano.
+Speech_0181L=Ya voy.
+Speech_-001L=(null)
+Speech_0220L=Ya tenemos lo que queríamos, Fisher. Es hora de largarse. Ve al punto de extracción más cercano.
+Speech_0294L=LAMBERT - The archives you looked at detailed account transactions from a man named Zherkezhi. He's a big time computational theorist... I hope he's not involved in this mess.
+Speech_0150L=Oh no... Zherkezhi... Lo último que quería encontrarme.
+Speech_0153L=¿Qué es Zherkezhi? ¿Algún plato precocinado raro?
+Speech_0154L=Es tal vez el mayor teórico en ordenadores del mundo. Trabajó con Morgenholt en el Proyecto Watson. Dicen que está como una cabra.
+Speech_0155L=Típica historia de un científico loco.
+Speech_-001L=(null)
+Speech_0216L=En esos archivos aparecen transacciones de un tipo llamado Zherkezhi. Es un experto en Teoría de la Computación. Espero que no esté involucrado en este asunto.
+Speech_-001L=(null)
+Speech_0158L=Oh no... Zherkezhi... Lo último que quería encontrarme.
+Speech_0159L=¿Zherkezhi? Grimsdottir lo mencionó en relación con un tal Dvorak...
+Speech_0162L=No sé quién es Dvorak, pero espero que no tenga a Zherkezhi.
+Speech_0163L=¿Por qué? ¿Quién es?
+Speech_0164L=Es tal vez el mayor teórico en ordenadores del mundo. Trabajó con Morgenholt en el Proyecto Watson. Dicen que está como una cabra.
+Speech_0165L=Típica historia de un científico loco.
+Speech_0217L=Esos archivos parecen confirmar la teoría de Grimsdottir. Zherkezhi está relacionado con ese tal Dvorak...
+Speech_0295L=LAMBERT - Well that's about as messy as it gets. Complete your objectives and get out of there Fisher.
+Speech_0182L=Uups.
+Speech_0183L=¿Qué ha pasado?
+Speech_0187L=¡Hay lásers en la puerta de la cámara!
+Speech_0189L=¿Y cómo iba a saberlo yo?
+Speech_0190L=Silencio. Fisher, ahora que has neutralizado la respuesta armada, completa los objetivos.
+Speech_0191L=De acuerdo.
+Speech_0296L=GRIMSDOTTIR - Armed response inbound. Complete your objectives and get outta there Sam.
+Speech_0261L=Uups.
+Speech_0262L=¿Qué ha pasado?
+Speech_0192L=¡Hay lásers en la puerta! Todo el banco está en alerta. ¡Viene el Ejército!
+POPUPMESSAGE_0270=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+Speech_0194L=Yo me largo de aquí...
+Speech_0195L=Callad. Ya no podemos hacer nada. Fisher, llévate esos datos y sal de ahí.
+Speech_0196L=Entendido.
+Speech_0297L=LAMBERT - Well that's about as messy as it gets. Complete your objectives and get out of there Fisher.
+Speech_0197L=No me puedo creer que te hayas dejado filmar por una cámara.
+Speech_0198L=Ahora ya no tiene remedio.
+Speech_0199L=Ahora que has neutralizado la respuesta armada, completa los objetivos y sal de ahí.
+Speech_0200L=De acuerdo.
+Speech_0298L=GRIMSDOTTIR - Armed response inbound. Complete your objectives and get outta there Sam.
+Speech_0263L=No me puedo creer que te hayas dejado filmar por una cámara.
+Speech_0264L=Ahora ya no tiene remedio.
+Speech_0201L=Fisher, hay alarmas por todo el banco. ¡Viene el Ejército!
+POPUPMESSAGE_0271=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+Speech_0203L=Silencio. Fisher, llévate esos datos y sal de ahí.
+Speech_0204L=De acuerdo.
+Speech_-001L=(null)
+Speech_0244L=Vienen soldados. Completa los objetivos y sal de ahí, Sam.
+Speech_-001L=(null)
+Speech_0245L=Bueno, es imposible organizar más jaleo. Completa tus objetivos y sal de ahí, Fisher.
+Speech_-001L=(null)
+Speech_0173L=Bien, Fisher, busca un punto débil y trata de abrirte paso para salir de ahí.
+Speech_0174L=Recuerdo este lugar. Hay unos sectores de ladrillo que llevan a unos túneles. Noriega los usaba para llevarse el dinero que ganaba con la droga.
+Speech_0175L=Si esos túneles siguen ahí, ya sabes lo que tienes que hacer.
+Speech_0236L=Fisher, busca un punto débil y trata de abrirte paso para salir de ahí.
+Speech_0299L=LAMBERT - Good job Fisher, we just ID'd Lacerda's Panamanian contact.
+Speech_0144L=Al parecer, el contacto panameño de Lacerda es Segundo Ruiz de Medeiros, vicepresidente del Canal de Panamá.
+Speech_0145L=¿Es ése mi próximo destino?
+Speech_0146L=No. Los contactos de Lacerda son un asunto aparte. Enviaré a otro agente a investigarlo.
+Speech_0147L=¿Otro agente?
+Speech_0148L=¿Detecto un toque de celos, Fisher?
+Speech_0149L=Lo superaré.
+Speech_-001L=(null)
+Speech_0218L=Bien. Ya sabemos quién es el contacto de Lacerda en Panamá.
+Speech_-001L=(null)
+Speech_0223L=Bien pensado, Fisher. Aunque la cámara te grabe, ya no podrán identificarte.
+
+[P_03_Bank_ConvBooth]
+Speech_-001L=(null)
+Speech_0001L=Te digo que era una rata.
+Speech_0004L=Demasiado grande para ser una rata. A lo mejor era un mono... o un oso.
+Speech_0005L=¡Un oso! ¡Estás loco! Ya sé que el conducto es grande, pero los osos son gigantescos. Además, habría destrozado el despacho del tesorero.
+Speech_0006L=Bueno, a lo mejor era un osito. Ya sabes, ésos que son tan lindos...
+Speech_0007L=Pero si en Panamá no hay osos.
+Speech_0008L=A lo mejor se ha escapado del zoo.
+Speech_0009L=Tú estás tonto.
+Speech_0010L=Era muy grande para ser una rata.
+
+[P_03_Bank_ConvGarden]
+Speech_-001L=(null)
+Speech_0001L=Eh, Emilio, ¿has visto los sensores de movimiento nuevos?
+Note_0012L=Hay sensores de movimiento conectados a las luces en el jardín.
+Speech_0004L=No. ¿Qué hacen?
+Speech_0005L=Cuando detectan movimiento, se enciende la luz.
+Speech_0006L=¡Vaya, qué lindo!
+Speech_0007L=¡Parece magia!
+Speech_0008L=Voy a poner uno de ésos en mi aparcamiento. Imagínate: ¡vas de noche, te montas en el coche y la luz de la entrada se enciende sola!
+Speech_0009L=¡Estás tú bueno! Es alta tecnología, Emilio. Costará miles de dólares.
+Speech_0010L=Supongo que tienes razón. No me lo puedo permitir.
+
+[P_03_Bank_GardenSensors]
+
+[P_03_Bank_InterroBalcony]
+Speech_-001L=(null)
+Speech_0001L=Buenas...
+Speech_0002L=¡Ah! ¿Cómo has...? ¡Aah!
+Speech_0003L=Yo hago las preguntas. ¿Qué haces aquí arriba?
+Speech_0004L=He oído la alarma y he bajado del tejado...
+Speech_0005L=¿Cómo lo has hecho?
+Speech_0006L=Me han bajado con una cuerda para que vigile las puertas de atrás.
+Speech_0007L=¿Cuántos hay en el tejado?
+Speech_0008L=Sólo dos más...
+Speech_0009L=¿Hay alguna forma de subir?
+Speech_0010L=No. Necesitaban la cuerda para bajar por el otro lado.
+Speech_0012L=No se lo contaré a nadie...
+Speech_0013L=Por favor, me quedan sólo seis semanas...
+
+[P_03_Bank_InterroCamera]
+Speech_-001L=(null)
+Speech_0007L=Chsss...
+Speech_0008L=Dios mío, no...
+Speech_0009L=¿Hay alguna otra forma de entrar o salir de esta sala?
+Speech_0010L=Eh... los pájaros...
+Speech_0011L=¿Pájaros? ¿Qué quieres decir?
+Speech_0012L=El conducto encima del ventilador debe llevar al exterior. Hay pájaros que anidan en él.
+Note_0019L=Hay un conducto de ventilación que lleva desde la sala de seguridad al exterior.
+Speech_0013L=Una información muy útil.
+Speech_0014L=¿Me dejarás vivir?
+Speech_0015L=Deja que me lo piense...
+Speech_0016L=Te he contado lo del conducto. No me hagas daño.
+Speech_0018L=No sé nada más.
+
+[P_03_Bank_InterroGarden]
+Speech_-001L=(null)
+Speech_0005L=Háblame de los sistemas de seguridad...
+Speech_0006L=Sí, claro. Tenemos sensores de movimiento recién instalados.
+Speech_0007L=¿Sensores de movimiento?
+Speech_0010L=Sí. Encienden las luces.
+Note_0017L=Hay sensores de movimiento conectados a las luces en el jardín.
+Speech_0011L=¿Sin alarmas? ¿Sólo luces, como en tu garaje?
+Speech_0012L=Me tomas el pelo. Esas cosas son muy caras. Alta tecnología...
+Speech_0013L=Ya, entiendo.
+Speech_0014L=Lo juro, los sensores no tienen alarma.
+Speech_0016L=No me mates, por favor.
+
+[P_03_Bank_InterroKeypad]
+Speech_-001L=(null)
+Speech_0001L=Hola, Paco...
+Speech_0002L=¡Oh, no, un ladrón! No me hagas daño...
+Speech_0005L=Pues dime el código.
+Speech_0008L=Esta puerta está rota, y no sé arreglarla. Tengo que avisar a la compañía de seguridad.
+Speech_0009L=¿Hay otra forma de entrar?
+Speech_0010L=Si fueras un ratón, a lo mejor. ¿Quieres que llame a la compañía de tu parte?
+Speech_0011L=No, déjalo. Ya encontraré algo.
+Speech_0013L=Si quieres que llame para que lo arreglen, dímelo.
+Speech_0014L=Esto no hace más que estropearse.
+Speech_-001L=(null)
+Speech_0015L=Hola, Paco...
+Speech_0016L=¿Quién eres? ¿Qué quieres?
+Speech_0017L=Darte las gracias por arreglar el teclado de la puerta.
+Speech_0018L=Ya, a Paco siempre le toca hacer el trabajo sucio.
+Speech_0019L=¿Te importa decirme el código de la puerta?
+Speech_0020L=Claro. Es 8645. ¿Quieres que te lo escriba?
+Note_0025L=El código de la puerta de la oficina del tesorero es 8645.
+Speech_0021L=No hace falta.
+Speech_0022L=8645, ya te lo he dicho.
+Speech_0023L=Paco no le dice el código a cualquiera.
+
+[P_03_Bank_InterroLobby]
+Speech_-001L=(null)
+Speech_0015L=Espero no haberte despertado...
+Speech_0016L=¡Ahhh!
+Speech_0017L=Chsss. He venido a robar el banco.
+Speech_0018L=El cajero... Por la noche guarda en cada cajón unos mil balboas...
+Speech_0019L=No me interesa la calderilla.
+Speech_0020L=La cámara acorazada es inexpugnable...
+Speech_0021L=Deja que lo intente...
+Speech_0022L=Claro, claro, tú mandas. Haz lo que quieras.
+Speech_0023L=¿Cómo puedes ayudarme?
+Speech_0024L=El escáner de retina. Puedo desactivarlo.
+Speech_0025L=Muy amable.
+Speech_0026L=Suerte con la cámara acorazada.
+Speech_0027L=El oro pesa. No podrás llevarte mucho.
+
+[P_03_Bank_InterroMainDesk]
+Speech_-001L=(null)
+Speech_0005L=¿Cuántos hay en el turno de noche?
+Speech_0006L=Madre de Dios... 
+Speech_0007L=Respóndeme...
+Speech_0008L=¿Cuántos? ¿Incluyéndome a mí?
+Speech_0009L=A no ser que quieras que te borre del total...
+Speech_0010L=No, no, por favor... Creo... creo que somos veinte...
+Note_0019L=Hay una veintena de guardias trabajando en el banco.
+Speech_0011L=¿Crees?
+Speech_0012L=Eso es contando los guardias de fuera y los del tejado, los técnicos y los guardias que están de reserva en caso de emergencia...
+Speech_0013L=¿Incluyéndote a ti, o no?
+Speech_0014L=Sí, sí, incluyéndome a mí...
+Speech_0016L=No hay más, estoy seguro.
+Speech_0017L=Normalmente somos 21, pero Pablo está enfermo.
+
+[P_03_Bank_InterroOutside]
+Speech_-001L=(null)
+Speech_0001L=Muy bien. No sé quién eres, pero esto es propiedad privada.
+Speech_0004L=¿De qué estás hablando? Llevo dos años trabajando aquí.
+Speech_0005L=Demuéstralo.
+Speech_0006L=¿Que lo demuestre? El código de las puertas de atrás es... Eh, espera un momento. Quieres engañarme. Tú eres el que no debería estar aquí...
+Speech_0009L=Qué listo, me has pillado. Espera, ¿qué tal si me dices el código por las buenas y así no tengo que hacerte daño?
+Speech_0010L=Bueno, si te pones así... El código es 3901.
+Note_0015L=El código de las puertas del banco es 3901.
+Speech_0011L=Gracias.
+Speech_0012L=Casi me engañas, pero soy demasiado listo.
+Speech_0013L=No me das miedo... ¡Aaay! ¡Vale, vale, sí me das miedo!
+
+[P_03_Bank_InterroReception]
+Speech_-001L=(null)
+Speech_0001L=Bonito truco el de los lásers...
+Speech_0002L=¿Qué? Ah, la rejilla... Los lásers detectan una señal que emite el transmisor pegado a mi uniforme.
+Speech_0005L=Dame ese transmisor.
+Speech_0006L=No sé dónde está, lo juro. Lo llevo pegado a la ropa, en alguna parte...
+Speech_0007L=Hmm. Malas noticias para ti. Tengo que pasar a través de esos lásers, y como no me apetece desnudarte tendré que quedarme con tu cuerpo.
+Speech_0010L=¿Mi cuerpo? ¿Te... te refieres a mi cuerpo inconsciente?
+Speech_0011L=Me sirve de cualquier manera.
+Speech_0012L=Por favor, no hace falta que me mates.
+Speech_0013L=Deberías haberme seguido. Ahora tendrás que ir tirando de mí.
+
+[P_03_Bank_InterroSecurity]
+Speech_-001L=(null)
+Speech_0001L=Malas noticias.
+Speech_0002L=¡Ah! Ja ja ja, muy divertido, García. ¿Eh?
+Speech_0003L=No soy García.
+Speech_0004L=¿Cómo...? Yo no...
+Speech_0005L=Cálmate, y cuéntame algo interesante.
+Speech_0018L=El sistema de cámaras de seguridad está centralizado. Hay una sala desde la que puedes acceder a todas las cámaras.
+Speech_0019L=¿Dónde?
+Speech_0020L=Segundo piso.
+Note_0026L=Puedes acceder al sistema de cámaras desde la sala de seguridad de la segunda planta.
+Speech_0021L=No se me ocurre nada más.
+Speech_0022L=Ya te he hablado de la sala de vídeo.
+
+[P_03_Bank_LobbySecurity]
+Note_0001L=El código de la puerta de la sala de seguridad principal es 2306.
+Note_0004L=El código de la puerta de las cabinas de seguridad de la primera planta es 3624.
+Note_0003L=Hay un botiquín en el baño de la planta primera.
+Note_0005L=Hay un botiquín en la cocina de la segunda planta.
+
+[P_03_Bank_Objectives]
+Objective_0033=Recoge de la cámara pequeña equipo adicional para burlar la seguridad del banco.
+Objective_0034=El equipo adicional que necesitas para entrar en la cámara principal está en una caja de seguridad que han depositado esta mañana en la cámara pequeña.
+Objective_0035=Usa la cerradura telemétrica para saltarte el doble cierre de seguridad.
+Objective_0036=La cerradura telemétrica es necesaria para desbloquear el doble cierre de la cámara principal.
+Objective_0037=Coloca la carga en la puerta de la cámara principal.
+Objective_0038=La carga debe colocarse en la rueda de la cámara principal para desactivar el cierre magnético por temporizador y permitir que la cámara se abra.
+Objective_0039=Entra en el banco.
+Objective_0040=Entra en el banco a través de los tejados o por la entrada principal.
+POPUPMESSAGE_0047=Entra en el banco.
+Objective_0001=Averigua para quién compró las armas el banco MCAS.
+Objective_0018=El banco MCAS ha sido un agente intermediario en el trato de armas de Lacerda. Averigua quién le ha contratado para hacerlo. Los datos estarán en el servidor adicional, en la cámara principal.
+Objective_0002=Roba 50 millones de dólares en bonos del tesoro, franceses y al portador.
+Objective_0019=Para esconder nuestras verdaderas razones para entrar en la cámara acorazada, simularemos un robo: llévate cincuenta millones de dólares en bonos del estado del Gobierno francés que hay en el armario ignífugo.
+Objective_0010=Busca el nombre del contacto panameño de Lacerda.
+Objective_0021=Además de los que envían y reciben las armas, debe haber otros implicados en este asunto, alguien que ayuda a Lacerda a evitar los protocolos de inspección del Canal de Panamá. Averigua quién es.
+POPUPMESSAGE_0049=Roba 50 millones de dólares en bonos del estado con titularidad francesa.
+Objective_0052=Ve al punto de extracción primario.
+Objective_0053=Sal por la pared exterior, desde el punto frontal por el que has entrado al banco.
+Objective_0041=Ve al punto de extracción primario.
+Objective_0042=Sal por la pared exterior, desde el punto frontal por el que has entrado al banco.
+POPUPMESSAGE_0046=Averigua el nombre del contacto panameño de Lacerda.
+POPUPMESSAGE_0050=Autoriza el acceso a la cámara acorazada desde los terminales de tres oficinistas.
+POPUPMESSAGE_0051=Sal hacia el punto de extracción principal.
+Objective_0043=Ve al punto de extracción primario.
+Objective_0044=Sal por la pared exterior, desde el punto frontal por el que has entrado al banco.
+POPUPMESSAGE_0045=Sal hacia el punto de extracción principal.
+Objective_0013=Autoriza el acceso a la cámara acorazada desde los terminales de tres oficiales.
+Objective_0023=El acceso a las cámaras acorazadas se autoriza desde el despacho del presidente, la oficina de seguridad y la oficina del tesorero. No importa en qué orden se hace la autorización.
+POPUPMESSAGE_0048=Autoriza el acceso a la cámara acorazada desde los terminales de tres oficinistas.
+POPUPMESSAGE_0054=EL VISOR ELECTRÓNICO PUEDE USARSE PARA HACKEAR OBJETOS A DISTANCIA, AUNQUE NO ES FÁCIL.
+Objective_0004=Revisa cualquier registro de transacción sospechosa.
+Objective_0024=Busca en los archivos impresos de las oficinas de los directivos del banco MCAS alguna prueba que los implique en el secuestro de Morgenholt.
+Objective_0008=Pon algunos correos falsos para que parezca que está hecho desde dentro.
+Objective_0025=Grimsdottir ha preparado unos correos electrónicos para que los cargues en los ordenadores del banco MCAS. Así parecerá que la operación de robo ha sido planeada por alguien de dentro.
+Objective_0017=BUSCANDO...
+Objective_0030=(null)
+
+[P_03_Bank_PresOffLaserMic]
+Speech_-001L=(null)
+Speech_0005L=¿Y qué quieres que haga? Si quiero ver si el presidente se ha dejado puesto el aire acondicionado del despacho, tendré que entrar. Claro que tengo que usar el código de la puerta. ¿Que me calle? ¡Nadie está escuchando! No seas paranoico. ¿Cómo que no diga el código? ¡3490! ¡3490! ¡3490! ¡3490! ¡Hala, ya he dicho el código! ¿Y ahora, qué piensas hacer? Oh, síiiii. Qué miedo tengo.
+Note_0024L=El código de la puerta del despacho del presidente es 3490.
+Speech_-001L=(null)
+Speech_0002L=¿Quién es ese guardia nuevo que aparece en el monitor?
+Speech_0006L=Es Germán Sampas, señor. Sector 21-G.
+Speech_0007L=Ah, Sampas. Me gusta cómo se mueve. Tiene ritmo, pasión.
+Speech_0008L=Sí, señor.
+Speech_0009L=A un guardia así le confiaría hasta mi vida. Haz que le autoricen para acceder a la sala de personal en su turno de descanso....
+Speech_0010L=Sí, señor.
+Speech_0011L=Y, Salvador...
+Speech_0012L=¿Sí, señor?
+Speech_0013L=Averigua si sabe bailar.
+Speech_0014L=Sí, señor.
+Speech_-001L=(null)
+Speech_0015L=No, el ventilador otra vez.
+Speech_0017L=¿Cómo es que el aire del despacho del presidente nunca falla, y nuestro ventilador se rompe todas las noches?
+Speech_0018L=Porque él es el presidente y nosotros sólo somos guardias de seguridad.
+Speech_0020L=Qué desgracia es ser pobre...
+Speech_0021L=Dímelo a mí. Aún así, deberíamos arreglarlo.
+Speech_0022L=No pienso ensuciarme las manos. Llama al pringado de Paco y dile que lo arregle él.
+Speech_0023L=Buena idea.
+
+[P_03_Bank_Projector]
+Note_0008L=Los guardias que patrullan zonas con láser llevan un dispositivo que desactiva las rejillas a su paso.
+Speech_0001L=Luz... Desde que los primeros humanos buscaron proteger sus hogares y pertenencias, la luz ha sido la clave de la seguridad.
+Speech_0002L=SmartSec ha elevado la seguridad a un nuevo nivel, con su tecnología Intelirred Láser: la última generación de sistemas de seguridad basados en la luz.
+Speech_0003L=Intelirred se basa en un sistema de sofisticados rayos láser, interconectados en una red que se comporta como un sistema inteligente.
+Speech_0004L=Intelirred está diseñado para detectar la posición de cada persona autorizada dentro del área asegurada, mediante un pequeño emisor que puede pegarse al uniforme o esconderse en cualquier lugar.
+Speech_0005L=Los guardias de seguridad pueden pasar a través de Intelirred sin disparar las alarmas, ya que sus emisores van desactivando cada láser al atravesarlo.
+Speech_0007L=Si quiere saber cómo adquirir e instalar nuestra tecnología Intelirred, póngase en contacto con su representante local de SmartSec.
+
+[P_03_Bank_ReceptionPatrol]
+
+[P_03_Bank_RepairKeypad]
+Speech_-001L=(null)
+Speech_0008L=Arregla esto, Paco. Arregla lo otro. Esto esta roto, eso está sucio. Siempre como un esclavo, reparando lo que los demás estropean y recogiendo lo que ensucian. Oh, no te preocupes: si está roto, Paco lo arreglará. Paco no tiene otra cosa que hacer que arreglar lo que los demás estropean. Hmm. ¿Cuál era el código? Ah, 8645. Ya está. Ahora, a ver qué más puede arreglar Paco...
+Note_0007L=El código de la puerta de la oficina del tesorero es 8645.
+Speech_0009L=Así que Paco dice, 'vale, queréis que arregle la puerta, pues Paco la arregla', pero ahora vine lo gracioso, porque Paco va a cambiar el código. Hmmm. ¿Qué tal 8645?
+Speech_0006L=Arregla esto, Paco. Arregla lo otro. Esto esta roto, eso está sucio. Siempre como un esclavo, reparando lo que los demás estropean y recogiendo lo que ensucian. Oh, no te preocupes: si está roto, Paco lo arreglará. Paco no tiene otra cosa que hacer que arreglar lo que los demás estropean. Hmm. ¿Cuál era el código? Ah, 8645. Ya está. Ahora, a ver qué más puede arreglar Paco...
+
+[P_03_Bank_SamGenerics]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+
+[P_03_Bank_SecurityPostA]
+
+[P_03_Bank_SecurityPostB]
+Speech_-001L=(null)
+Speech_0003L=¿Sabes que la otra noche me tocó cubrir el turno de Colón?
+Speech_0004L=Sí.
+Speech_0005L=Pues estoy patrullando el archivo cuando oigo algo. Me acerco, y oigo a alguien cantar...
+Speech_0006L=¿Cantando? ¿Dónde?
+Speech_0007L=Atiende. Registro la sala y no encuentro nada. Pero el caso es que oigo cantar. Y más tarde, cuando vuelvo por aquí, escucho a Rodrigo cantar la misma canción.
+Speech_0012L=¿Así que Rodrigo estuvo en el archivo?
+Speech_0013L=No, no había nadie. ¿Te acuerdas del conducto de ventilación, en el archivo? Creo que está conectado con el servicio de caballeros. Por eso pude oír a Rodrigo.
+Speech_0014L=¿Quieres decir que Rodrigo canta cuando está en el servicio? Pufff...
+
+[P_03_Bank_SRCfirst]
+Speech_-001L=(null)
+Speech_0001L=Se me acaba de ocurrir una cosa.
+Speech_0002L=¿Qué cosa?
+Speech_0003L=¿Te has fijado en que este banco no tiene cajeros automáticos?
+Speech_0004L=Claro...
+Speech_0005L=¿Por qué será?
+Speech_0006L=Porque no quieren que la gente los hackee.
+Speech_0007L=¿Hackear un cajero automático? ¡Imposible!
+Speech_0008L=No se trata de que sea imposible, sino de introducir una fuente de recursos económicos que no les conviene.
+Speech_0009L=Ah, ya te entiendo.
+
+[P_03_Bank_SRCsecond]
+Speech_-001L=(null)
+Speech_0001L=Uf, este uniforme es incómodo.
+Speech_0009L=Es uno de esos nuevos, hechos en EEUU.
+Speech_0010L=Qué bien. O sea, que no están fabricados por obreros que se matan por un contrato con el Ejército de Panamá.
+Speech_0011L=No te equivoques. La calidad del uniforme es ejemplar. No se desgasta en la vida.
+Speech_0012L=¿Y?
+Speech_0013L=Bueno, es cinco grados más caliente, pesa cinco kilos más, no transpira y además pica.
+Speech_0014L=No sé, no me acaba de parecer un buen diseño. ¿Por qué lo han hecho así los yanquis?
+Speech_0015L=Desde el punto de vista del diseño, es un espanto. Pero piensa en esto...
+Speech_0016L=¿En qué?
+Speech_0017L=Imagínate que tienes que invadir Panamá. ¿Preferirías luchar contra soldados con ropas ligeras y desechables, o contra otros que entre el sudor y los picores no se pueden ni mover?
+Speech_0018L=Vaya, no lo había pensado.
+Speech_0019L=Tampoco lo pensaron nuestros generales cuando firmaron un contrato por uniformes duraderos. Hay muchas formas de hacer la guerra.
+
+[P_03_Bank_SRCultimate]
+Speech_-001L=(null)
+Speech_0001L=¿Has oído las noticias? Los yanquis han reconocido que tienen problemas con la lanzadera de rescate.
+Speech_0006L=¿Qué clase de problemas?
+Speech_0007L=Un defecto en uno de los ensamblajes del cohete. Necesitarán varias semanas para fabricar las piezas.
+Speech_0008L=A los astronautas sólo les queda oxígeno para unos días...
+Speech_0009L=Eso han dicho.
+Speech_0010L=O sea, que van a morir allá arriba...
+Speech_0011L=Así parece.
+Speech_0012L=Es horrible.
+Speech_0013L=Lo es.
+
+[P_03_Bank_VaultAccess]
+
+[P_03_Bank_VaultMainDoor]
+POPUPMESSAGE_0001=Averigua para quién compró las armas el banco MCAS.
+
+[P_03_Bank_WaitsAdolpho]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_03_Bank_WaitsColon]
+
+[P_03_Bank_WaitsFonda]
+
+[P_03_Bank_WaitsHermano]
+
+[P_03_Bank_WaitsIiago]
+
+[P_03_Bank_WaitsMontegu]
+
+[P_03_Bank_WaitsPaco]
+
+[P_03_Bank_WaitsRamon]
+
+[P_03_Bank_WaitsRodrigo]
+Speech_-001L=(null)
+Speech_0002L=(null)
+
+[P_03_Bank_WaitsSalvador]
+
+[P_03_Bank_WaitsTajo]
+

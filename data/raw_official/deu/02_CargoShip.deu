@@ -1,0 +1,48 @@
+[GENERAL]
+MapName=FRACHTER
+Briefing_LAMBERT=Nach den Informationen, die du in Peru sicherstellen konntest, sieht es so aus, als sei Hugo Lacerda von einem Dritten mit der Entführung und Befragung Morgenholts beauftragt worden. Er wurde dafür mit Waffen bezahlt. Damit scheint er seine eigenen Männer zu bewaffnen und Schulden bei anderen Guerilla-Gruppierungen zu bezahlen. Lacerda mag eigentlich unwichtig sein ... aber er könnte von Morgenholt Dinge erfahren haben, die wir niemanden wissen lassen wollen. Die Maria Narcissa befindet sich auf offener See, es gibt also kein Entkommen. Gehe an Bord, durchsuche das Schiff, finde heraus, wer Lacerdas Geschäftspartner sind, und dann sorge dafür, dass Lacerda keine Gelegenheit mehr haben wird, sein Wissen zu verbreiten.
+Briefing_GRIMSDOTTIR=Was Morgenholt über Masses Kernels, rekursiven Datenverkehr und waffenfähige Algorithmen wusste, kann man mit Oppenheimers Wissen über Atome oder Turings über digitale Computer vergleichen. Projekt Watson ... Die Erforschung von Masses Kernels durch die Vereinten Nationen wird für Jahrhunderte neben dem Manhattan Projekt als fundamentale Forschungsarbeit stehen, die das Wesen der Kriegsführung für immer veränderte. Stell dir vor, Che Guevara hätte 1959 Oppenheimer entführt und verhört, dann hast du ein ziemlich genaues Bild der Situation, in der wir uns jetzt befinden.
+Briefing_REDDING=Wir werden dich mit dem Helikopter etwa vierzig Kilometer vor der Maria Narcissa, im Kurs des Schiffes, im Wasser absetzen. Klettere ungesehen an Bord. Durchsuche das Schiff und die Frachträume. Finde soviel wie möglich über die Waffenlieferungen und Geschäftspartner Lacerdas heraus. Satellitenaufnahmen zeigen, dass ein Beiboot am Heck der Maria Narcissa befestigt ist. Das wird der primäre Exfiltratrationspunkt. Falls alles schief geht, werden wir dich wohl auch aus dem Wasser fischen können.
+Briefing_PATRIDGE=Während der gesamten Zeit wird sich die Walsh in Helikopterreichweite der Maria Narcissa befinden, wir sollten dir also bei der Evakuierung helfen können. Wenn alles gut geht, werden wir dich, sobald du mit dem Beiboot außer Reichweite des Schiffes gelangt bist, abholen.
+Briefing=AUFGABE
+
+
+[Interaction]
+IntActivatePumps=Pumpen aktivieren
+IntReadbilloflading=Frachtbrief lesen
+IntExtraction=Exfiltration
+
+[Computer]
+CompTransitLedger=Frachtbuch
+CompRoomassignment=Raumverteilung
+
+[Email]
+EmailFloodedBody=Wir haben ein Problem mit der Hauptpumpe. Ich hab mir da was einfallen lassen. Wenn die Frachträume wieder geflutet werden, versuch mal, die Hilfspumpe auf dem Vorderdeck in Gang zu setzen.
+EmailFloodedDate=28. Juni 2007
+EmailFloodedFrom=Gerardo
+EmailFloodedSubject=Flutung
+EmailFloodedTo=Ignacio
+
+EmailLacerdaBody=Ich komme irgendwann heute Abend auf Ihr Schiff. Sorgen Sie dafür, dass mir diese stinkenden Proleten nicht im Weg stehen. Ich möchte nicht gestört werden.
+EmailLacerdaDate=28. Juni 2007
+EmailLacerdaFrom=Hugo Lacerda 
+EmailLacerdaSubject=Ankunft auf dem Schiff
+EmailLacerdaTo=Kapitän Diego
+
+EmailInfoBody=Der Leichnam des Amerikaners Bruce Morgenholt wurde heute in Peru geborgen. Zur Zeit ist noch nichts Näheres über seine Todesursache bekannt. Das amerikanische AuSSenministerium hat jedoch eine offizielle Entschuldigung von der peruanischen Armee verlangt. In Regierungskreisen vermutet man, dass Morgenholt infolge eines schlecht koordinierten Befreiungsversuchs starb. Japanischer Geheimdienst vermutet Nordkorea hinter Börsencrash.
+EmailInfoDate=28. Juni 2007
+EmailInfoFrom=WNM-Eilmeldung
+EmailInfoSubject=Morgenholt tot in Peru aufgefunden.
+EmailInfoTo=Abonnent
+
+EmailInfo2Body=Der japanische Geheimdienst hat seine Untersuchungs-ergebnisse über die Ereignisse im Zusammenhang mit dem historischen Börsencrash veröffentlicht. Den Informationen zufolge haben die Regierungen von Nordkorea und China versucht, den Zusammenbruch der japanischen Wirtschaft durch Manipulationen an den Weltmärkten und gezielte Desinformationskampagnen herbeizuführen. Wenn das so weitergeht, reicht ein einziger Funken, um diese Mausefalle zu versenken.
+EmailInfo2Date=28. Juni 2007
+EmailInfo2From=WNM-Eilmeldung
+EmailInfo2Subject=Japanischer Geheimdienst vermutet Nordkorea hinter Börsencrash
+EmailInfo2To=Abonnent
+
+EmailEngineRoomBody=Ich mache mir groSSe Sorgen um die Dichtungsringe an den Gasleitungen. Wir haben schon mehrere kleine Lecks. Wenn das so weitergeht, reicht ein einziger Funken, um diese Mausefalle zu versenken.
+EmailEngineRoomDate=28. Juni 2007
+EmailEngineRoomFrom=Pedro 
+EmailEngineRoomSubject=Maschinenraum
+EmailEngineRoomTo=Cornelio

@@ -1,0 +1,34 @@
+[GENERAL]
+MapName=PANAMÁ
+Briefing_LAMBERT=Bienvenidos a primera división, muchachos. Sé que aún os estáis entrenando, pero ha surgido algo y no tenemos a más agentes, así que os toca jugar. Nos han llegado pruebas del Banco MCAS de Panamá que demuestran que el vicepresidente Segundo Ruiz de Medeiros ha estado recibiendo sobornos para permitir que algunos barcos atraviesen el canal sin ser inspeccionados. Hay que encontrar los registros de cuentas de Medeiros.
+Briefing=TODO
+
+
+[Computer]
+CompAccessingTheArchives=Accediendo a los archivos...
+CompAccessingTheServer=Accediendo al servidor...
+
+[Email]
+EmailSecSystemeBody=No sé a qué imbécil se le habrá ocurrido esto, pero el mecanismo para desactivar la rejilla láser en caso de emergencia ¡está DENTRO de la propia rejilla! Como no encuentre un rayo microondas de alta tecnología, me quedaré aquí hasta el día del juicio final. ¿Y cómo se supone que voy a salir?
+EmailSecSystemeDate=28 de junio de 2007
+EmailSecSystemeFrom=Neron
+EmailSecSystemeSubject=Segurid. en sala exposic.
+EmailSecSystemeTo=Jose
+
+EmailTempABody=Esto... Lo siento, lo entendí mal. El código de la puerta para entrar en el área de exposiciones es 2341.
+EmailTempADate=28 de junio de 2007
+EmailTempAFrom=Juan
+EmailTempASubject=RE: Código sala servidor
+EmailTempATo=Hermes
+
+EmailTempBBody=¡Eh! Tengo el códígo del pasillo que lleva a la sala de billar. Y desde ahí podemos ir a la sala que tiene la pantalla de TV grande... ¿Quieres ver esta noche el partido? El código es 1523.
+EmailTempBDate=28 de junio de 2007
+EmailTempBFrom=Franco
+EmailTempBSubject=Partido de esta noche
+EmailTempBTo=Julio
+
+EmailTempCBody=Ya sé que el código para SALIR de la sala del servidor al área de exposiciones es 1534... El que necesito es el código para ENTRAR en la sala de exposiciones.
+EmailTempCDate=28 de junio de 2007
+EmailTempCFrom=Hermes
+EmailTempCSubject=Código puerta sala servidor
+EmailTempCTo=Juan

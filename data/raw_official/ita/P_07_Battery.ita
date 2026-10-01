@@ -1,0 +1,786 @@
+[P_07_Battery_Barks]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_07_Battery_Briefings]
+Speech_-001L=(null)
+Speech_0001L=Fisher, so che secondo te il sistema più veloce per risolvere la situazione è cercare Shetland, e forse hai ragione. Purtroppo, la situazione diplomatica attorno al caso Walsh non sta migliorando. Abbiamo meno di ventiquattro ore prima che scoppi una guerra aperta nella penisola coreana. Abbiamo individuato la batteria che ha lanciato il missile contro la Walsh. Se sono sincere le affermazioni dei nordcoreani secondo cui il lancio non era intenzionale, dobbiamo provarlo... e in fretta.
+Speech_0002L=Abbiamo decodificato i dati che hai recuperato dal computer di Zherkezhi a New York. L'algoritmo di Zherkezhi è un'estrapolazione avanzata dei kernel di Masse resa infinitamente più complessa dalla ricorsione attraverso Dvorak. Credo che se potessi accedere al BIOS del lanciamissili della batteria, potrei identificare l'impronta lasciata dall'algoritmo sul sistema.
+Speech_0003L=Dovrai effettuare un inserimento HALO in una foresta a due clic a est della batteria. Entrerai nel perimetro di sicurezza della batteria e ti infiltrerai attraverso il condotto di ventilazione principale. La batteria è in servizio più o meno dalla Seconda Guerra Mondiale, ma l'intelligence e il satellite indicano che è stata aggiornata diverse volte. Abbiamo pochi dati sulla locazione... non sappiamo cosa troverai.
+Speech_0004L=Dopo la distruzione della Walsh, la USS Ronald Reagan ha assunto il controllo delle operazioni nel Mar Giallo. La nostra flotta è in allarme rosso. In caso di guerra, siamo pronti a condurre attacchi di precisione contro obiettivi sensibili, mirati a indebolire le difese costiere nordcoreane allo scopo di inserirci dietro le loro linee. Lo spionaggio riferisce che i Coreani cercano lo scontro; bene, è quello che avranno. Chiunque si trovi in quella batteria farà meglio a cercarsi un elmetto e una bibbia.
+Speech_0005L=L'I-SDF giapponese è stato fondamentale per determinare che il missile che ha affondato la Walsh proveniva realmente da questa batteria. Avete il completo supporto di tutti i settori della Forza di Autodifesa Giapponese per determinare la ragione di questa folle mossa da parte degli aggressori coreani. Non abbiamo la possibilità di colpire direttamente la struttura, ma l'I-SDF userà tutti i mezzi a propria disposizione per interferire con la loro operatività nel caso che i nostri grandi alleati americani siano costretti a dichiarare guerra.
+
+[P_07_Battery_CheckLives]
+
+[P_07_Battery_Checkpoints]
+
+[P_07_Battery_Communications]
+Speech_-001L=(null)
+Speech_0003L=Fisher... sembra che la guerra sia inevitabile. Lo Stato Maggiore ha richiesto a tutte le risorse dati di intelligence a livello di comando divisione.
+Speech_0004L=Quindi, a parte impedire la Terza Guerra Mondiale, cosa posso fare per voi stasera?
+Speech_0005L=Il comandante della base dovrebbe avere informazioni aggiornate sulla forza delle divisioni nordcoreane sulla tratta Kaesong-Munsan.
+Speech_0006L=Vedrò di ottenere un appuntamento dalla sua segretaria.
+POPUPMESSAGE_0245=Scopri se i coreani hanno lanciato il missile intenzionalmente.
+Speech_0099L=Fisher, visto che tutti chiedono informazioni ho pensato di giocare un po' anch'io.
+Speech_0100L=Cosa posso servirti, Will?
+Speech_0101L=Sembra che questa batteria abbia capacità di riparazione e manutenzione per il supporto alla guerra meccanizzata. Se potessi recuperare dei registri di manutenzione o di spedizione sarebbe molto utile.
+Speech_0102L=Farò il possibile.
+POPUPMESSAGE_0246=Recupera i registri di spedizione e riparazione.
+Speech_-001L=(null)
+Speech_0103L=Bel lavoro, Fisher. Sembra che eseguano spedizioni e riparazioni con quattro dipartimenti diversi.
+Speech_0104L=Adoro la burocrazia militare.
+Speech_0105L=Cerca di recuperare i registri degli altri tre.
+Speech_0106L=Numero 67!
+Speech_-001L=(null)
+Speech_0107L=Bel lavoro, Sam. Ancora un registro di spedizione e avremo una descrizione dettagliata delle loro forze meccanizzate nella regione.
+Speech_0108L=Lo troverò.
+Speech_0247L=(null)
+Speech_0109L=Bel lavoro, Sam. Dalle richieste di trasporto e di ricambi, deduco che la struttura sia molto più importante di quanto credessimo.
+Speech_0110L=Beh, mi conosci... io sono sempre dove c'è l'azione.
+Speech_0235L=Bel lavoro, Sam... hai recuperato gli ultimi registri.
+Speech_-001L=(null)
+Speech_0012L=So cosa stai pensando, Fisher.
+Speech_0013L=Se decidono di buttare al vento il protocollo e lasciare le testate sbloccate...
+Speech_0014L=Anche se esplodessero non distruggerebbero la batteria.
+Speech_0015L=No, ma sarebbe comunque un bel macello.
+Speech_-001L=(null)
+Speech_0017L=Bel lavoro, Fisher.
+Speech_0018L=Sto caricando i codici della sequenza di attivazione per Grim. Lambert, se dovesse accadere il peggio... e io mi trovassi ancora qui...
+Speech_0021L=Non dirlo nemmeno, Sam.
+Speech_0221L=Bella pensata, Fisher. Ora, se saremo costretti, potremo far scoppiare i missili a distanza e, se non altro, mettere fuori uso la batteria per un po'.
+Speech_-001L=(null)
+Speech_0022L=Fisher... l'esercito nordcoreano l'ha fatto... stanno oltrepassando la zona demilitarizzata... siamo in guerra.
+Speech_0023L=Perché? Abbiamo appena trovato le prove che non hanno lanciato il missile.
+Speech_0024L=Buon dio... a proposito di lanci... quella batteria si è appena accesa come un albero di Natale...
+Speech_0027L=Non stanno puntando le nostre navi, vero?
+Speech_0028L=Il radar attivo è acceso. Sembra che stiano per lanciare. Fisher, devi annullare l'attacco.
+Speech_0029L=Ben detto, capo.
+Note_0214L=È scoppiata una guerra sulla DMZ.
+POPUPMESSAGE_0238=Interrompi il lancio del missile.
+Speech_0224L=Fisher.. i nordcoreani si sono appena riversati nella zona demilitarizzata... siamo in guerra e sembra che quella batteria stia per lanciare altri missili. Devi fermarli.
+Note_0225L=È scoppiata una guerra sulla DMZ.
+Speech_-001L=(null)
+Speech_0060L=Ora tutto è chiaro... il missile veniva da qui, ma non l'hanno lanciato intenzionalmente.
+Speech_0061L=Questo è bene. Possiamo evitare una guerra. 
+Speech_0062L=Il problema è che qualcuno ha lanciato il missile intenzionalmente.
+Speech_0063L=Quel qualcuno è per caso Douglas Shetland con gli algoritmi di Zherkezhi?
+Speech_0064L=È probabile, ma devo prima sapere se c'è l'impronta di Dvorak nel BIOS della piattaforma che ha sparato il missile.
+POPUPMESSAGE_0239=Esamina il BIOS del lanciatore per tracciare i frammenti di algoritmo di Dvorak.
+Speech_0226L=Sam, non hanno lanciato il missile intenzionalmente. Ma dobbiamo comunque scoprire chi è stato e da dove. Inserisciti nella scheda madre della piattaforma che ha sparato il missile.
+Speech_-001L=(null)
+Speech_0009L=Buon dio, Fisher... quei numeri sono il triplo delle nostre previsioni...
+Speech_0010L=Diavolo... conosco parecchia gente nella seconda divisione di fanteria, Lambert...
+Speech_0011L=Sono bravi soldati... ma spero che la loro polizza di assicurazione sulla vita sia aggiornata.
+Speech_0220L=Fisher, quelle erano le informazioni che ci servivano sul corridoio Kaesong-Munsan... ma non sono buone. Se questa roba ci esplode in faccia saremo in grossi guai.
+Speech_-001L=(null)
+Speech_0054L=Perché l'hai fatto? Quel tecnico avrebbe potuto rispondere a qualche domanda importante...
+Speech_0055L=Per esempio?
+Speech_0056L=Per esempio se hanno lanciato il missile intenzionalmente. Vedi se ha dei registri o dei diari in ufficio.
+Speech_0057L=Darò un'occhiata.
+Note_0215L=Controlla il computer del responsabile tecnico per trovare i rapporti segreti.
+Speech_0227L=Sam, devi scoprire se il tecnico aveva delle copie del rapporto da qualche parte.
+Note_0228L=Controlla il computer del responsabile tecnico per trovare i rapporti segreti.
+Speech_-001L=(null)
+Speech_0030L=All'inferno... troppo tardi...
+Speech_0031L=La testata non si armerà finché non sarà a qualche centinaio di metri dal bersaglio. Se riesco a trovare i codici di annullamento...
+Speech_0032L=Buona idea. I controlli di lancio sono proprio sotto la piattaforma.
+Speech_0033L=Vado.
+Speech_0127L=Più in fretta, Fisher... il tempo di volo del missile è di quattro minuti.
+Speech_0128L=Più in fretta, Fisher... il tempo di volo del missile è di tre minuti.
+Speech_0126L=Più in fretta, Fisher... il tempo di volo del missile è di due minuti.
+Speech_0129L=Più in fretta, Fisher... il tempo di volo del missile è di novanta secondi.
+Speech_0130L=Più in fretta, Fisher... il tempo di volo del missile è di sessanta secondi.
+Speech_0131L=Più in fretta, Fisher... il tempo di volo del missile è di trenta secondi.
+Note_0216L=Carica i codici di interruzione dal computer sotto la piattaforma di lancio est.
+POPUPMESSAGE_0240=Ottieni i codici di annullamento del missile.
+Speech_0222L=È troppo tardi per fermare il lancio, ma puoi annullare l'attacco mediante i controlli di lancio sotto la piattaforma. Muoviti.
+Note_0223L=Carica i codici di interruzione dal computer sotto la piattaforma di lancio est.
+Speech_-001L=(null)
+Speech_0067L=Bel lavoro, Sam, quelli sono i codici di annullamento.
+Speech_0068L=Devo ancora superare il circuito di forzatura sul lanciatore.
+Speech_0206L=Devo ancora superare il circuito di forzatura della sala di controllo.
+Speech_0069L=Presto... il missile si avvicina alla USS Ronald Reagan a velocità massima.
+Speech_0070L=Non ti preoccupare, ho appena dichiarato illegale la Corea del Nord.
+Speech_0071L=Ehm... eh... cosa vuol dire?
+Speech_0072L=Ehm... lascia perdere... hai ragione, Grim... sono vecchio.
+Note_0217L=Scarica i codici di interruzione nella console nella stanza di controllo missili.
+POPUPMESSAGE_0241=Annulla il missile.
+Speech_0229L=Ora che abbiamo i codici di annullamento, devi superare i circuiti di forzatura nella sala di controllo del missile.
+Note_0230L=Scarica i codici di interruzione nella console nella stanza di controllo missili.
+Speech_-001L=(null)
+Speech_0073L=Bel lavoro, Sam... attacco annullato.
+Speech_0074L=È fatta... è saltato?
+Speech_0075L=No, ma la testata non si è armata. Anche se superasse la falange della Reagan colpirebbe lo scafo schiacciandosi come una lattina di birra.
+Speech_0076L=Schiacciare lattine di birra è la specialità dei marinai.
+Speech_0077L=Molto divertente... pensa a correre verso l'altra piattaforma e sistema il BIOS.
+Speech_0078L=Sì, sì, sto andando.
+Speech_0231L=Attacco annullato. Vai sull'altra piattaforma e sistema il BIOS.
+Speech_0079L=Molto divertente... pensa a raggiungere l'estrazione.
+Speech_0080L=Va bene... arrivo.
+POPUPMESSAGE_0242=Rientra in un punto di estrazione qualsiasi.
+Speech_0232L=Attacco annullato. Vai all'estrazione.
+Speech_-001L=(null)
+Speech_0081L=Devi aprire il rivestimento prima di lavorare sul BIOS.
+Speech_0082L=Non ho portato il piede di porco.
+Speech_0083L=Pazienza... i piedi di porco li usano solo i personaggi sfigati nei videogiochi. Metti il lanciamissili in posizione di manutenzione. L'interruttore dovrebbe essere nella stanza di controllo proprio sotto di te.
+Speech_0236L=Dovrai aprire il rivestimento della scheda madre dalla stanza di controllo sotto di te.
+Speech_-001L=(null)
+Speech_0086L=La chiusura è aperta. Puoi accedere alla scheda madre sul lanciamissili e recuperare i dati del BIOS.
+Speech_0233L=La chiusura è aperta. Puoi accedere alla scheda madre sul lanciamissili e recuperare i dati del BIOS.
+Speech_-001L=(null)
+Speech_0087L=Bel lavoro, Sam... sto leggendo il BIOS... sì... ecco l'impronta di Dvorak...
+Speech_0088L=Da dove viene? Da Hokkaido? Dagli uffici Displace?
+Speech_0091L=Seul.
+Speech_0092L=Cosa? Seul in Corea del Sud? Mi stai dicendo che gli Stati Uniti sono appena entrati in guerra per proteggere chi ha affondato la Walsh?
+Note_0243L=È scoppiata una guerra sulla DMZ.
+Speech_0093L=Non riesco a tracciarlo più in là di Seul...
+Speech_0094L=Va bene, ora cosa faccio?
+Speech_0260L=Fisher... l'esercito nordcoreano l'ha fatto... stanno oltrepassando la zona demilitarizzata... siamo in guerra.
+Speech_0261L=Perché? Abbiamo appena trovato le prove che non hanno lanciato il missile.
+Speech_0262L=Buon dio... a proposito di lanci... quella batteria si è appena accesa come un albero di Natale...
+Speech_0263L=Non stanno puntando le nostre navi, vero?
+Speech_0264L=Il radar attivo è acceso. Sembra che stiano per lanciare. Fisher, devi annullare l'attacco.
+Speech_0265L=Ben detto, capo.
+POPUPMESSAGE_0266=Stop the missile launch.
+Speech_0097L=Merda... non puoi fare più niente da lì. Vai all'estrazione.
+Speech_0244L=Altra complicazione. Sembra che l'ordine di lancio sia passato da Seul... spero che siamo in guerra contro il nemico giusto. Annulla il lancio del missile della batteria Est ed esci di lì. 
+Speech_0267L=Fisher.. i nordcoreani si sono appena riversati nella zona demilitarizzata... siamo in guerra e sembra che quella batteria stia per lanciare altri missili. Devi fermarli.
+Note_0268L=È scoppiata una guerra sulla DMZ.
+Speech_-001L=(null)
+Speech_0034L=Fisher, ti ricordi cosa diceva Mason a proposito dell'elmetto e la bibbia?
+Speech_0035L=Mi prendi in giro...
+Speech_0036L=Abbiamo ricevuto un rapporto da un F-15 del gruppo Reagan. Hanno risposto al lancio del missile con un GBU-28 verso la tua posizione.
+Speech_0037L=Un bunker buster?
+Speech_0038L=Due bunker buster...
+Speech_0039L=Hm... Beh, il mio elmetto non servirà a molto, e la bibbia l'ho lasciata a casa. Quanto manca?
+Speech_0040L=Stiamo ricevendo il segnale proprio ora...
+Speech_0041L=È ... mio dio... tre minuti.
+Speech_0202L=È ... mio dio... due minuti e mezzo.
+Speech_0203L=È ... mio dio... due minuti.
+Speech_0204L=È ... mio dio... novanta secondi.
+Speech_0205L=È ... mio dio... un minuto.
+Speech_0042L=Ho da fare.
+Speech_0111L=Sam, ho un'ipotesi di uscita.
+Speech_0112L=Peccato... iniziava a piacermi, qui...
+Speech_0113L=Il monitoraggio indica che la divisione sta chiedendo di muovere dei missili da difesa costiera a sud... dovrebbero esserci dei furgoni in uscita dalla rimessa principale.
+Speech_0114L=Credo che l'autostop sia vietato in Corea del Nord.
+Speech_0115L=Allora ti consiglio di nasconderti sotto un telone o di attaccarti al pianale.
+Speech_0207L=Scenario di uscita, Sam.
+Speech_0208L=Vorrei proprio sentirlo.
+Speech_0209L=Esci da dove sei entrato... non farti fermare da nessuno.
+Speech_0210L=Esci da dove sei entrato, oppure lungo la scogliera partendo da uno dei lanciamissili. Corri.
+Speech_0098L=Merda... Beh, intanto possiamo impedirgli di lanciare un altro missile... vai all'altro lanciamissili.
+Speech_-001L=(null)
+Speech_0043L=Fisher...
+Speech_0044L=Ricordo che avevo girato da questa parte...
+Speech_0045L=Sam... io...
+Speech_0046L=Sì... lo so...
+Speech_0047L=Posso... posso metterti in collegamento con...
+Speech_0048L=No. Non ci parliamo da tempo.
+Speech_0049L=Non è mai troppo tardi per cominciare.
+Speech_0050L=Ha! Abbiamo appena trovato l'eccezione che conferma la regola...
+Speech_0051L=Sam... mi spiace... io...
+Speech_0052L=Non preoccuparti. Missione completa, giusto?
+Speech_0053L=Missione completa.
+Speech_-001L=(null)
+Speech_0116L=...e dalla linea del fronte, le forze alleate continuano la loro vigilanza permanente delle attività nordcoreane. È noto da tempo che la strategia di invasione coreana punta a una rapida e devastante spinta verso la capitale sudcoreana di Seul. Se una simile avanzata avesse successo, le speranze di concludere rapidamente le ostilità nel subcontinente asiatico si ridurrebbero notevolmente.
+Speech_0118L=Cambiamo argomento... il produttore di materiali e attrezzature per la casa Handy Hardwood ha lanciato oggi ufficialmente la sua campagna Supportiamo i Nostri Soldati. I clienti sono invitati a scrivere lettere e cartoline di incoraggiamento ai combattenti della nostra nazione. Per ogni cartolina Handy Hardwood offre legno e materiali per un valore di dieci dollari. Date una mano ai nostri ragazzi e loro vi daranno il legno.
+Speech_0119L=Stiamo ricevendo rapporti dal confine della zona demilitarizzata riguardanti una massiccia avanzata nordcoreana. I combattimenti hanno raggiunto livelli molto intensi. Le truppe americane e sudcoreane hanno opposto una barriera di fuoco contro l'avanzata travolgente dell'esercito nemico.
+Speech_0120L=I rapporti dal fronte indicano che intere divisioni corazzate e di fanteria hanno superato le difese e stanno procedendo verso Seul. Altre fonti riferiscono di una limitata ma efficace reazione di alcuni settori della retroguardia alleata lasciata indietro dalla prima avanzata nemica, il cui unico obiettivo sembra essere la presa di Seul a ogni costo.
+Speech_-001L=(null)
+Speech_0181L=A tutto il personale. Cibo e acqua sono razionati fino a nuovo ordine.
+Speech_0182L=Caporale Dak-po a rapporto in fureria. Caporale Dak-po in fureria.
+Speech_0183L=Siamo i figli fieri e orgogliosi di una nazione grande e instancabile.
+Speech_0184L=A tutto il personale arruolato. Domani verranno distribuiti i nuovi spazzolini.
+Speech_0185L=Attenzione. È vietato attaccare memo sui tabelloni senza l'approvazione del sottoufficiale Pok.
+Speech_0186L=Tecnico Lop-Pong a rapporto nella baia di carico quattro. Tecnico Lop-Pong a rappordo nella baia di carico quattro.
+Speech_0187L=Ricordate, ogni pallottola contiene la vostra rabbia. Distruggete il nemico col vostro odio.
+Speech_0188L=Tutto il personale deve riportare i propri piatti in cucina dopo la pausa pranzo.
+Speech_0189L=Durante il razionamento, il personale col grado di caporale o inferiore può fare la doccia solo di lunedì o giovedì.
+Speech_-001L=(null)
+Speech_0190L=Missile partito.
+Speech_0191L=Tempo all'impatto: quattro minuti.
+Speech_0192L=Tempo all'impatto: tre minuti.
+Speech_0193L=Tempo all'impatto: due minuti.
+Speech_0194L=Tempo all'impatto: un minuto.
+Speech_0196L=Tempo all'impatto: trenta secondi.
+Speech_0197L=Tempo all'impatto: venti secondi.
+Speech_0198L=Tempo all'impatto: dieci, nove, otto, sette, sei, cinque, quattro, tre, due, uno...
+Speech_0199L=Impatto. Bersaglio colpito!
+Speech_0200L=Tempo all'impatto: dieci, nove, otto... ah... missile distrutto. Ripeto, missile distrutto.
+Speech_0201L=Ah! Attacco annullato! Cosa succede?
+Speech_-001L=(null)
+Speech_0121L=Fisher, quelle erano le informazioni che ci servivano sul corridoio Kaesong-Munsan... ma non sono buone. Se questa roba ci esplode in faccia saremo in grossi guai.
+Speech_0122L=Fisher, manca poco alla guerra. Lo Stato Maggiore vuole usare tutte le risorse per ottenere qualsiasi genere di informazione. Chiedi al comandante della base tutto ciò che sa sulla forza delle divisioni nordcoreane nel corridoio di Kaesong-Munsan.
+Speech_0123L=Bella pensata, Fisher. Ora, se saremo costretti, potremo far scoppiare i missili a distanza e, se non altro, mettere fuori uso la batteria per un po'.
+Speech_0124L=È troppo tardi per fermare il lancio, ma puoi annullare l'attacco mediante i controlli di lancio sotto la piattaforma. Muoviti.
+Speech_0125L=Fisher.. i nordcoreani si sono appena riversati nella zona demilitarizzata... siamo in guerra e sembra che quella batteria stia per lanciare altri missili. Devi fermarli.
+Speech_0132L=Fisher, stanno arrivando dei bunker buster. Tirati fuori di lì... in fretta.
+Speech_0133L=Sam, non hanno lanciato il missile intenzionalmente. Ma dobbiamo comunque scoprire chi è stato e da dove. Inserisciti nella scheda madre della piattaforma che ha sparato il missile.
+Speech_0134L=Sam, devi scoprire se il tecnico aveva delle copie del rapporto da qualche parte.
+Speech_0135L=Ora che abbiamo i codici di annullamento, devi superare i circuiti di forzatura nella sala di controllo del missile.
+Speech_0218L=Ora che abbiamo i codici di annullamento, devi superare i circuiti di forzatura sulla piattaforma per annullare l'attacco.
+Speech_0136L=Attacco annullato. Vai sull'altra piattaforma e sistema il BIOS.
+Speech_0137L=Attacco annullato. Vai all'estrazione.
+Speech_0138L=Altra complicazione. Sembra che l'ordine di lancio sia passato da Seul... spero che siamo in guerra contro il nemico giusto. Annulla il lancio del missile della batteria Est ed esci di lì. 
+Speech_0139L=Altra complicazione. Sembra che l'ordine di lancio sia passato da Seul... spero che siamo in guerra contro il nemico giusto. Sam, esci di lì.
+Speech_0140L=La chiusura è aperta. Puoi accedere alla scheda madre sul lanciamissili e recuperare i dati del BIOS.
+Speech_0141L=Dovrai aprire il rivestimento della scheda madre dalla stanza di controllo sotto di te.
+Speech_0142L=Bel lavoro, Sam... hai recuperato gli ultimi registri.
+Speech_0143L=Sam... sarebbe molto utile se potessi recuperare i registri di spedizione e manutenzione che tengono lì.
+Speech_0211L=Per l'estrazione dovrai tornare attraverso il sistema di ventilazione, Sam.
+Speech_0212L=Per l'estrazione dovrai tornare attraverso il sistema di ventilazione, Sam, oppure lungo la scogliera partendo da uno dei lanciamissili.
+Speech_0213L=Per l'estrazione dovrai attaccarti al pianale di uno dei furgoni nella rimessa.
+Speech_-001L=(null)
+Speech_0144L=Il cosmonauta russo ha appena tentato una passeggiata spaziale per riparare la perdita di ossigeno all'esterno della stazione.
+Speech_0145L=Non hanno le attrezzature per le passeggiate... che accidenti pensano di fare?
+Speech_0146L=Non credo avessero molta scelta.
+Speech_0147L=E cosa è successo?
+Speech_0148L=È volato via nello spazio.
+Speech_0149L=Cosa?
+Speech_0150L=Sì. Per un po' ha cantato 'Slavsa Otechestvo nashe svobodnoye', poi ha spento la radio ed è scivolato via nell'orizzonte.
+Speech_0151L=Wow. Sono contento che stiamo combattendo contro gli americani.
+Speech_0152L=Perché?
+Speech_0153L=Perché i russi sono dei duri.
+Speech_-001L=(null)
+Speech_0154L=Ho paura... cosa facciamo quando arrivano gli americani?
+Speech_0155L=Te lo dico io... ci sono tre cose da non dimenticare quando crolla tutto.
+Speech_0156L=Cosa?
+Speech_0157L=Primo... se sei dentro quando arrivano... esci più in fretta che puoi. Lanceranno delle bunker buster. Chiunque rimanga sotto morirà.
+Speech_0158L=Ok... uscire... capito.
+Speech_0159L=Secondo... se sei fuori quando arrivano, corri dentro più in fretta che puoi. Spareranno con munizioni di precisione... morirai prima di sapere che ti sparano addosso.
+Speech_0160L=Ehm.. ok... quindi... non stare fuori e non stare dentro.
+Speech_0161L=Esattamente... e la terza cosa...
+Speech_0162L=Qual'è la terza cosa?
+Speech_0163L=Quando muori... non sporcarmi di sangue... ha!
+Speech_-001L=(null)
+Speech_0164L=Ah... questi stivali mi uccidono.
+Speech_0165L=Sì, so cosa vuoi dire. Ne ho avuto un paio nuovo due mesi fa e mi fanno ancora male i piedi.
+Speech_0166L=Hai trovato un modo per ammorbidirli più in fretta?
+Speech_0167L=No. Ma so per certo cosa non fare. Ho sentito di un tizio nel quarto plotone, anni fa... si è lamentato col medico della compagnia... e gli hanno tagliato un piede.
+Speech_0168L=Cosa?!
+Speech_0169L=Da allora nessuno si lamenta più degli stivali.
+Speech_0170L=Oh... Beh... non sarò io il primo.
+POPUPMESSAGE_0237=Scopri se i coreani hanno lanciato il missile intenzionalmente.
+
+[P_07_Battery_CommunicationsAlert]
+Speech_-001L=(null)
+POPUPMESSAGE_0028=Allarme di primo livello
+Speech_0001L=Accidenti, Fisher, attento agli allarmi. Stiamo sfiorando la Terza Guerra Mondiale.
+Speech_-001L=(null)
+POPUPMESSAGE_0029=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+Note_0041L=I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.
+Speech_0002L=Fisher! Fai piano. Ci manca solo che diamo una scusa ai nordcoreani.
+Speech_-001L=(null)
+POPUPMESSAGE_0030=Allarme di terzo livello - I nemici indossano l'elmetto
+Note_0042L=I NEMICI INDOSSANO L'ELMETTO.
+Speech_0003L=Maledizione, Fisher, mantieni il controllo. Un altro allarme e tutta la base sarà in allerta!
+Speech_-001L=(null)
+POPUPMESSAGE_0031=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0043L=I NEMICI HANNO CREATO DELLE DIFESE.
+Speech_0009L=Maledizione, Fisher, hai scatenato un nido di vespe. Tutta la base è in allarme. Completa gli obiettivi primari ed esci di lì!
+Speech_-001L=(null)
+POPUPMESSAGE_0032=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0044L=I NEMICI HANNO CREATO DELLE DIFESE.
+Speech_0004L=Maledizione, Fisher, hai scatenato un nido di vespe. Tutta la base è in allarme. Completa gli obiettivi primari ed esci di lì!
+Speech_-001L=(null)
+POPUPMESSAGE_0033=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0045L=I NEMICI HANNO CREATO DELLE DIFESE.
+Speech_0010L=Maledizione, Fisher, hai scatenato un nido di vespe. Tutta la base è in allarme. Tiratene fuori prima possibile.
+Speech_-001L=(null)
+POPUPMESSAGE_0034=Allarme di primo livello
+Speech_0005L=Se non fossimo già in guerra ti direi di essere prudente. 
+Speech_-001L=(null)
+POPUPMESSAGE_0035=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+Note_0047L=I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.
+Speech_0006L=Se non fossimo già in guerra ti direi di essere prudente. 
+Speech_-001L=(null)
+POPUPMESSAGE_0036=Allarme di terzo livello - I nemici indossano l'elmetto
+Note_0048L=I NEMICI INDOSSANO L'ELMETTO.
+Speech_0007L=Fisher, controllati... un altro allarme e tutta la base sarà in allerta... questo ci avvicinerà ulteriormente alla guerra!
+Speech_-001L=(null)
+POPUPMESSAGE_0037=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0049L=I NEMICI HANNO CREATO DELLE DIFESE.
+Speech_0008L=Maledizione, Fisher! Hai appena messo in allerta tutta la base... devo informare lo Stato Maggiore che stiamo aprendo un secondo fronte? Completa gli obiettivi primari e sparisci!
+Speech_-001L=(null)
+POPUPMESSAGE_0038=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0050L=I NEMICI HANNO CREATO DELLE DIFESE.
+Speech_0011L=Maledizione, Fisher! Hai appena messo in allerta tutta la base... devo informare lo Stato Maggiore che stiamo aprendo un secondo fronte? Completa gli obiettivi primari e sparisci!
+Speech_-001L=(null)
+POPUPMESSAGE_0039=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0051L=I NEMICI HANNO CREATO DELLE DIFESE.
+Speech_0012L=Maledizione, Fisher! Hai appena messo in allerta tutta la base... devo informare lo Stato Maggiore che stiamo aprendo un secondo fronte? Esci di lì, subito!
+POPUPMESSAGE_0025=Livello di allarme ridotto - I nemici rientrano e tolgono l'elmetto
+POPUPMESSAGE_0026=Livello di allarme ridotto - I nemici rientrano e tolgono il giubbotto antiproiettile
+POPUPMESSAGE_0027=Livello di allarme ridotto - I nemici rientrano
+POPUPMESSAGE_0013=Allarme di primo livello
+POPUPMESSAGE_0014=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+POPUPMESSAGE_0015=Allarme di terzo livello - I nemici indossano l'elmetto
+POPUPMESSAGE_0016=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+POPUPMESSAGE_0017=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+POPUPMESSAGE_0018=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+POPUPMESSAGE_0019=Allarme di primo livello
+POPUPMESSAGE_0020=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+POPUPMESSAGE_0021=Allarme di terzo livello - I nemici indossano l'elmetto
+POPUPMESSAGE_0022=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+POPUPMESSAGE_0023=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+POPUPMESSAGE_0024=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+
+[P_07_Battery_ConvoBatteryEast]
+Speech_-001L=(null)
+Speech_0001L=Bersaglio inquadrato. Primario. Portaerei. Direzione 2-1-8. Raggio. 1-1-2-0 chilometri. Confermato.
+Speech_0002L=Bersaglio primario inquadrato, tutto sul verde. Impostare tracciamento 1-12.
+Speech_0003L=1-12. Confermato.
+Speech_0004L=Interfaccia di ingaggio attivata. Tracciamento bersaglio attivo.
+Speech_0005L=Controllo.
+Speech_0006L=Puntamento e piano di volo verdi.
+Speech_0007L=Controllo.
+Speech_0008L=Circuito di fuoco verde.
+Speech_0009L=Controllo.
+Speech_0010L=Circuito di blocco verde.
+Speech_0011L=Controllo.
+Speech_0012L=Iniziare il read-back del tracciamento del bersaglio primario.
+Speech_0013L=Pronti al read-back.
+Speech_0014L=Bersaglio inquadrato. Primario. Portaerei. Direzione 2-1-8. Raggio. 1-1-2-0 chilometri. 
+Speech_0015L=Read-back corretta.
+Speech_0016L=Confermata acquisizione bersaglio primario. Pronti a sparare.
+Speech_0017L=Attendere l'ordine di fuoco.
+Speech_0018L=Pronti al fuoco.
+Speech_0019L=Attendere la designazione del prossimo bersaglio.
+Speech_0020L=Attesa per designazione prossimo bersaglio.
+Speech_-001L=(null)
+Speech_0021L=Bersaglio inquadrato. Primario. Cacciatorpediniere. Direzione 2-1-8. Raggio. 1-1-2 chilometri. Confermato.
+Speech_0022L=Bersaglio primario inquadrato, tutto sul verde. Impostare tracciamento 1-12.
+Speech_0023L=1-12. Confermato.
+Speech_0024L=Interfaccia di ingaggio attivata. Tracciamento bersaglio attivo.
+Speech_0025L=Controllo.
+Speech_0026L=Puntamento e piano di volo verdi.
+Speech_0027L=Controllo.
+Speech_0028L=Circuito di fuoco verde.
+Speech_0029L=Controllo.
+Speech_0030L=Circuito di blocco verde.
+Speech_0031L=Controllo.
+Speech_0032L=Iniziare il read-back del tracciamento del bersaglio primario.
+Speech_0033L=Pronti al read-back.
+Speech_0034L=Bersaglio inquadrato. Primario. Cacciatorpediniere. Direzione 2-1-8. Raggio. 1-1-2 chilometri. 
+Speech_0035L=Read-back corretta.
+Speech_0036L=Confermata acquisizione bersaglio primario. Pronti a sparare.
+Speech_0037L=Attendere l'ordine di fuoco.
+Speech_0038L=Pronti al fuoco.
+Speech_0039L=Attendere la designazione del prossimo bersaglio.
+Speech_0040L=Attesa per designazione prossimo bersaglio.
+Speech_-001L=(null)
+Speech_0041L=Bersaglio inquadrato. Primario. Incrociatore. Direzione 2-1-9. Raggio. 1-1-6 chilometri. Confermato.
+Speech_0042L=Bersaglio primario inquadrato, tutto sul verde. Impostare tracciamento 1-12.
+Speech_0043L=1-12. Confermato.
+Speech_0044L=Interfaccia di ingaggio attivata. Tracciamento bersaglio attivo.
+Speech_0045L=Controllo.
+Speech_0046L=Puntamento e piano di volo verdi.
+Speech_0047L=Controllo.
+Speech_0048L=Circuito di fuoco verde.
+Speech_0049L=Controllo.
+Speech_0050L=Circuito di blocco verde.
+Speech_0051L=Controllo.
+Speech_0052L=Iniziare il read-back del tracciamento del bersaglio primario.
+Speech_0053L=Pronti al read-back.
+Speech_0054L=Bersaglio inquadrato. Primario. Incrociatore. Direzione 2-1-9. Raggio. 1-1-6 chilometri. 
+Speech_0055L=Read-back corretta.
+Speech_0056L=Confermata acquisizione bersaglio primario. Pronti a sparare.
+Speech_0057L=Attendere l'ordine di fuoco.
+Speech_0058L=Pronti al fuoco.
+Speech_0059L=Attendere la designazione del prossimo bersaglio.
+Speech_0060L=Attesa per designazione prossimo bersaglio.
+Speech_-001L=(null)
+Speech_0061L=Bersaglio inquadrato. Primario. Incrociatore. Direzione 2-1-7. Raggio. 1-1-6 chilometri. Confermato.
+Speech_0062L=Bersaglio primario inquadrato, tutto sul verde. Impostare tracciamento 1-12.
+Speech_0063L=1-12. Confermato.
+Speech_0064L=Interfaccia di ingaggio attivata. Tracciamento bersaglio attivo.
+Speech_0065L=Controllo.
+Speech_0066L=Puntamento e piano di volo verdi.
+Speech_0067L=Controllo.
+Speech_0068L=Circuito di fuoco verde.
+Speech_0069L=Controllo.
+Speech_0070L=Circuito di blocco verde.
+Speech_0071L=Controllo.
+Speech_0072L=Iniziare il read-back del tracciamento del bersaglio primario.
+Speech_0073L=Pronti al read-back.
+Speech_0074L=Bersaglio inquadrato. Primario. Incrociatore. Direzione 2-1-7. Raggio. 1-1-6 chilometri. 
+Speech_0075L=Read-back corretta.
+Speech_0076L=Confermata acquisizione bersaglio primario. Pronti a sparare.
+Speech_0077L=Attendere l'ordine di fuoco.
+Speech_0078L=Pronti al fuoco.
+Speech_0079L=Attendere la designazione del prossimo bersaglio.
+Speech_0080L=Attesa per designazione prossimo bersaglio.
+
+[P_07_Battery_ConvoGarage]
+Speech_-001L=(null)
+Speech_0001L=Ehi, Feng... hai detto che c'erano otto casse da consegnare... ne vedo solo sette.
+Speech_0004L=Cosa vuol dire, sette?
+Speech_0005L=Vuol dire una in meno di otto.
+Speech_0006L=Beh, la bolla di accompagnamento diceva otto.
+Speech_0007L=Le hai contate?
+Speech_0008L=Ehm... Beh... non proprio.
+Speech_0009L=Non proprio? Non è tanto difficile contare otto casse enormi... senti... ricontrollo... ma se ti sei sbagliato... farò rapporto.
+
+[P_07_Battery_ConvoMissileBay_01]
+Speech_-001L=(null)
+Speech_0001L=Bene... Tercom. Database online... a posto. Radar di mappatura del terreno... a posto. Sottosistema di mappatura coordinate... a posto. Controllo incrociato coordinate... a posto. Calcolo deviazione inerziale... hmm... no, va bene... a posto. Copertura... a posto.
+Speech_-001L=(null)
+Speech_0004L=Ok... IGS e GPS... vediamo... giroscopio inerziale... a posto. Accelerometro... a posto. Calibratore barometrico... a posto. Sequencer GPS... a posto. Ricevitore di rete... a posto. Ok... bene.
+Speech_-001L=(null)
+Speech_0005L=E... guida terminale... DSMAC... a posto. Correlatore immagini... a posto. Mappatore attivo immagini... a posto. Tracciamento obiettivo... a posto. Immagine termica... a posto. Ricevitore armamento... a posto. E fusione... a posto...
+Speech_-001L=(null)
+Speech_0006L=CHIN - bored... blah... blah...
+
+[P_07_Battery_ConvoWarehouse]
+Speech_-001L=(null)
+Speech_0001L=Allora... Beh, lavoro finito. Adesso tocca alla stanza di controllo.
+Speech_0004L=Chi c'è nella stanza di controllo?
+Speech_0005L=Come faccio a saperlo?
+Speech_0006L=E allora... vorrà dire che lasceremo il missile dov'è.
+Speech_0007L=L'ordine è: consegnare il carico nella 27-290. Non dice niente riguardo a usare delle gru per le quali non siamo nemmeno addestrati.
+Speech_0008L=Più che giusto.
+
+[P_07_Battery_Emitters]
+
+[P_07_Battery_GPlayBatteryEast]
+
+[P_07_Battery_GPlayBatteryEastHall]
+
+[P_07_Battery_GPlayBatteryWest]
+
+[P_07_Battery_GPlayBatteryWest_01]
+
+[P_07_Battery_GPlayBedroom]
+
+[P_07_Battery_GPlayCmdCenter]
+Speech_-001L=(null)
+Speech_0006L=Signore... abbiamo finito l'ispezione preliminare del Lanciamissili Ovest.
+Speech_0001L=E qual'è il suo rapporto, capitano?
+Speech_0018L=Abbiamo effettuato tutti i test, signore.
+Speech_0010L=E?
+Speech_0011L=E... Beh... non c'è nessun guasto, signore.
+Speech_0012L=Nessun guasto... hm... curioso. C'è una nave da guerra da 18 miliardi di dollari sul fondo del mare, affondata da un missile lanciato da questa batteria. Il mondo è a meno di dodici ore da una guerra che farà milioni di morti... e mi sta dicendo che non ci sono stati guasti?
+Speech_0015L=Noi... abbiamo controllato, signore. Le assicuro...
+Speech_0016L=Senta, capitano, le uniche due persone in questo posto in grado di autorizzare quel lancio senza approvazione siamo io e lei. Io non l'ho fatto... e se non è stato un guasto...
+Speech_-001L=(null)
+Speech_0004L=Voglio che rifacciate tutti  i test, dopodiché farete tutti i test che il capitano ha dimenticato finché non scoprirete che diavolo è successo al mio missile!
+Speech_0005L=Sì signore!
+Speech_0017L=Adesso fuori di qui...
+
+[P_07_Battery_GPlayCmdCenter_01]
+
+[P_07_Battery_GPlayCmdCenter_02]
+
+[P_07_Battery_GPlayCmdCenter_03]
+
+[P_07_Battery_GPlayCmdCenter_04]
+
+[P_07_Battery_GPlayGarage]
+
+[P_07_Battery_GPlayGarage_01]
+
+[P_07_Battery_GPlayGuardPost]
+
+[P_07_Battery_GPlayGuardPost_01]
+
+[P_07_Battery_GPlayMissileBay]
+Speech_-001L=(null)
+Speech_0001L=Ah... lascia perdere... prendiamoci un caffè.
+Speech_0002L=Buona idea...
+Speech_0003L=Aspetta... non dovresti chiudere la copertura della testata?
+Speech_0004L=Ah... scordatelo... ci vogliono dieci minuti per la procedura... torneremo dalla pausa in tempo.
+Speech_0005L=Ma qualcuno potrebbe attivare la sequenza di armamento...
+Speech_0006L=Ha! Ridicolo! Chi potrebbe farlo?
+Speech_0007L=Non lo so... ma...
+Speech_0008L=E anche se volesse... a meno che non possa forzare i codici...
+Speech_0009L=Sai, hai ragione.
+Speech_0010L=Ma certo che ho ragione. Ora prendiamoci questo caffè, d'accordo?
+Note_0011L=Puoi attivare la sequenza di armamento nei missili senza copertura.
+
+[P_07_Battery_GPlayMissileCtrl]
+
+[P_07_Battery_GPlayMissileCtrl_01]
+
+[P_07_Battery_GPlayMissileCtrl_02]
+
+[P_07_Battery_GPlayOffice]
+
+[P_07_Battery_GPlayOffice_01]
+
+[P_07_Battery_GPlayOffice_02]
+
+[P_07_Battery_GPlayOutpost]
+
+[P_07_Battery_GPlayTimer]
+
+[P_07_Battery_GPlayWarehouse]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_07_Battery_GPlayWarehouse_01]
+
+[P_07_Battery_InteractiveObjects]
+Note_0001L=Puoi trovare delle munizioni nel magazzino.
+Note_0002L=C'è un kit medico nella stanza di controllo nell'hangar missili.
+
+[P_07_Battery_InteroBatteryEast]
+Speech_-001L=(null)
+Speech_0003L=È inutile resistere... soffrirai ancora di più.
+Speech_0004L=Chi sei?
+Speech_0005L=Sono quello che fermerà il missile prima che faccia dei danni. E tu sei quello che mi dirà come.
+Speech_0006L=D... devi prendere i codici di annullamento dal computer di lancio. Poi, visto che non sei autorizzato, dovrai superare il circuito di forzatura sul lanciamissili.
+Speech_0007L=Grazie... e se sparate altri missili oggi, tornerò e sparerò a voi.
+Speech_0008L=Non lo farò... prometto.
+Speech_0016L=Non lo faremo più... prometto.
+Speech_0017L=Ti prego... eseguiamo solo gli ordini.
+
+[P_07_Battery_InteroBatteryWest]
+Speech_-001L=(null)
+Speech_0001L=FISHER - The missile that sank the Walsh... it came from here... didn't it?
+Speech_0002L=HWAN - Wha! Ah! Who?
+Speech_0003L=FISHER - Answer me! Did the missile come from this launcher?
+Speech_0004L=HWAN - Y...yes... but it wasn't our fault...
+Speech_0005L=FISHER - I gathered that... but my friends are still dead.
+Speech_0006L=HWAN - We... tried to stop it...
+Speech_0007L=FISHER - You didn't do a very good job.
+Speech_0008L=HWAN - Ugh... please... you're hurting me...
+Speech_0009L=FISHER - I know.
+Speech_0010L=HWAN - I'm... I'm sorry for your friends...
+Speech_0011L=FISHER - You apologize to them... here... let me introduce you.
+Speech_0012L=HWAN - No...ugh... please...
+Speech_0013L=HWAN - Please... stop...
+Speech_0014L=HWAN - I'm sorry...
+
+[P_07_Battery_InteroCmdCenter]
+Speech_-001L=(null)
+Speech_0001L=Il tuo capo è un uomo triste.
+Speech_0004L=Ti p... ti prego... sono un codardo...
+Speech_0005L=Questo è evidente. Dimmi qualcosa di interessante e non avrai niente di cui avere paura.
+Speech_0006L=Sei americano... e scommetto che sei qui perché il missile ha affondato la vostra nave...
+Speech_0007L=Forse.
+Speech_0008L=L'hanno lanciato da qui... ma non abbiamo effettuato noi il lancio... non ho idea di come sia successo. La mia teoria è che il BIOS del lanciamissili contenga una traccia digitale dell'attacco che ha corrotto il sistema.
+Speech_0009L=Grazie... è quello che volevo sapere.
+Speech_0010L=Mi vergogno. Uccidimi.
+Speech_0011L=Sono un inutile codardo leccapiedi...
+
+[P_07_Battery_InteroCmdCenter_01]
+Speech_-001L=(null)
+Speech_0001L=Niente panico.
+Speech_0002L=Va bene.
+Speech_0003L=Sei ben addestrato.
+Speech_0004L=Sono un fedele soldato dell'esercito nordcoreano.
+Speech_0005L=Congratulazioni. Dammi qualche informazione o concimerai fiori in un cimitero pieno di gente come te.
+Speech_0006L=Io non so niente.
+Speech_0007L=Heh heh... quindi sei un ignorante.
+Speech_0008L=Non sono ignorante. Sono fedele.
+Speech_0009L=Sei più indottrinato di un cappellano militare.
+Speech_0010L=Non paragonarmi a un occidentale codardo!
+Speech_0011L=Dimmi qualcosa di utile e la finiamo qui.
+Speech_0012L=Meglio la morte che il disonore.
+Speech_0013L=Cristo, voi duri siete tutti uguali...
+Speech_0014L=Caporale Jung Bo-Kwan.
+Speech_0015L=825-775-867
+
+[P_07_Battery_InteroColonel]
+Speech_-001L=(null)
+Speech_0001L=Lascia stare i "chi diavolo sei"... siamo troppo vecchi per questi giochi da bambini.
+Speech_0002L=Grrr. Va bene. Cosa vuoi, americano?
+Speech_0003L=Questa batteria è sul corridoio logistico di Kaesong-Munsan. Qual'è la forza delle divisioni?
+Speech_0004L=Perché dovrei dirtelo? Mi ucciderai lo stesso.
+Speech_0005L=È un gioco di posizione, colonnello, e tu hai già perso. Perché devi condannare anche cinquantamila uomini?
+Speech_0006L=Sono i tuoi uomini, americano, non i miei.
+Speech_0007L=Non sono i miei uomini, colonnello, e nemmeno i tuoi. Sono solo uomini. Mariti, padri, figli. Come me e come te. Devono morire per i nostri errori?
+Speech_0008L=Abbiamo un rapporto di forza di 8 a 1 contro la vostra seconda divisione di fanteria, tra meccanizzati, artiglieria e fanteria lungo il percorso.
+Speech_0012L=Otto a uno?!
+Speech_0013L=Non potete vincere. Kaesong-Munsan sarà il punto di rottura e Seul cadrà entro 72 ore.
+Speech_0010L=I vecchi soldati non muoiono mai.
+Speech_0011L=Vivere per servire. Vivere per morire.
+
+[P_07_Battery_InteroDorm_01]
+Speech_-001L=(null)
+Speech_0001L=Com'è il cibo della caffetteria?
+Speech_0004L=Mio dio... lo sapevo... è iniziata l'invasione... siamo già accerchiati dal vostro esercito...
+Speech_0005L=Sì. Non hai motivo di resistere.
+Speech_0006L=Mi arrendo.
+Speech_0007L=Bene. Quanta gente avete nella batteria?
+Speech_0008L=Siamo solo 40... scommetto che ci superate in numero.
+Speech_0009L=Ma certo... superati e accerchiati.
+Speech_0010L=So riconoscere la sconfitta.
+Speech_0011L=È senso pratico, non codardia.
+
+[P_07_Battery_InteroGarage]
+Speech_-001L=(null)
+Speech_0001L=Dimmi qualcosa di utile e non chiuderò il tuo cadavere in una di queste casse.
+Speech_0002L=Il codice della porta per gli uffici è 1879.
+Speech_0003L=Ma... ma come? Niente resistenza? Niente suppliche?
+Speech_0004L=Sei tu quello col coltello.
+Speech_0005L=Giusto... Beh, allora grazie.
+Note_0009L=Il codice per la porta dell'area spedizioni è 1879.
+Speech_0006L=Te l'ho detto, è 1879.
+Speech_0007L=Posso darti anche il portafogli.
+
+[P_07_Battery_InteroLookout]
+Speech_-001L=(null)
+Speech_0001L=Conosci Elvis?
+Speech_0002L=C... come sei arrivato qui?
+Speech_0003L=Stai rovinando l'atmosfera. Non sono qui per le chiacchiere...
+Speech_0004L=Sto zitto...
+Speech_0005L=Niente di interessante, qui?
+Speech_0006L=Abbiamo un registro delle riparazioni su quel computer...
+Speech_0007L=Mi piacciono i registri...
+Speech_0008L=Ti prego... sono solo un esploratore...
+Speech_0009L=Non sono cattivo... non uccidermi...
+Speech_0010L=JIN - I'm only here because I have good eyes.
+
+[P_07_Battery_InteroMissileBay]
+Note_0016L=Un ascensore collega il centro di comando alla sala controllo missili.
+Note_0017L=Puoi trovare il comandante della base nel centro di comando.
+Speech_-001L=(null)
+Speech_0001L=Stai zitto o saranno guai...
+Speech_0002L=Oh... dio... ti prego... collaborerò.
+Speech_0003L=Bene... sto cercando degli ufficiali anziani... un centro di comando.
+Speech_0004L=C'è un ascensore, lì... porta al centro di comando. Il comandante della base dovrebbe essere lì.
+Speech_0005L=Grazie.
+Speech_-001L=(null)
+Speech_0006L=Ho sentito che c'è un lancio in corso...
+Speech_0007L=Oh... dio...
+Speech_0008L=Non ho tempo per terrorizzarti... da dove lo lanceranno?
+Speech_0009L=La batteria est... ma devi sbrigarti...
+Speech_0010L=Grazie del consiglio.
+Speech_0011L=Ti prego... non farmi del male...
+Speech_0012L=Non ho fatto niente di male...
+Note_0014L=Un ascensore collega il centro di comando alla sala controllo missili.
+Note_0015L=Puoi trovare il comandante della base nel centro di comando.
+
+[P_07_Battery_InteroOffice]
+Speech_-001L=(null)
+Speech_0001L=Facile o difficile?
+Speech_0004L=Ehm... ehm... facile?
+Speech_0005L=Ottimo... va bene anche a me. Dimmi qualcosa che non so e potrai far finta di non avermi mai visto.
+Speech_0006L=Ehm... il codice della porta del magazzino?
+Speech_0007L=Sarebbe magnifico.
+Speech_0008L=5871.
+Speech_0009L=Sei stato molto utile.
+Speech_0011L=Tu sei forte... io sono debole...
+Speech_0012L=Odio il mio lavoro...
+
+[P_07_Battery_InteroOffice_01]
+Speech_-001L=(null)
+Speech_0001L=Fai gli straordinari?
+Speech_0002L=Oddio! Un commando americano!
+Speech_0003L=Shh...
+Speech_0004L=Ti prego, non uccidermi... Amo l'America! Amo gli USA!
+Speech_0005L=Zitto...
+Speech_0006L=Amo Britney... è la migliore! Viva gli Yankee!
+Speech_0007L=Ehi... calmati...
+Speech_0008L=Il gelato alla cioccolata... sì! I gelati. Gli hamburger... mmm.
+Speech_0009L=Senti, io...
+Speech_0010L=La casetta nei sobborghi. Libertà e democrazia!
+Speech_0011L=Chiudi la bocca!
+Speech_0012L=Born to wild! Born to be free! Born in the USA!
+Speech_0013L=Ah... lascia perdere...
+Speech_0014L=BAE - God Bless America!
+Speech_0015L=Voglio andare alla partita di baseball!
+Speech_0016L=Oh say can you see... by the dawn's early light...
+
+[P_07_Battery_InteroWarehouse]
+Note_0014L=Usa i comandi della gru per spostare il missile e liberare la strada.
+Speech_-001L=(null)
+Speech_0001L=Supponi che io volessi aprire queste porte...
+Speech_0002L=Mio dio... chi sei?
+Speech_0003L=Sono il Mastro di chiavi. Tu sei il Guardia di porta. 
+Speech_0004L=Oh... dio... non... non so il codice... non siamo di questa base... dobbiamo solo consegnare il missile e aspettare una firma...
+Speech_0005L=Hm... e io come faccio a passare?
+Speech_0006L=Dovrai passare in qualche modo dalla fossa di lancio del missile...
+Speech_0007L=Buona idea.
+Speech_0008L=S... sono felice per te...
+Note_0012L=L'unico modo di entrare nell'hangar missili è attraverso il tubo di carico dei missili.
+Speech_0009L=Credo che prima dovrai spostare il missile.
+Speech_0010L=I controlli della gru sono nella stanza di controllo sulla baia di carico.
+Speech_0011L=I comandi sono lì... sul muro.
+Note_0013L=Usa i comandi della gru per spostare il missile e liberare la strada.
+
+[P_07_Battery_InteroWarehouse_01]
+Speech_-001L=(null)
+Speech_0001L=Cosa c'è nelle casse?
+Speech_0002L=Mio dio... no.
+Speech_0003L=Sì, sì, colpisci e terrorizza... ma ora rispondi... cosa c'è nelle casse?
+Speech_0004L=Non lo so... lo giuro... mi limito a sorvegliare la stanza.
+Speech_0005L=Bene... allora dimmi cosa sai...
+Speech_0006L=C'è uno sportello nell'angolo... porta al pavimento sotto la zona di carico...
+Speech_0007L=Davvero?
+Speech_0008L=Non so altro.
+Speech_0009L=Guardatele da solo, le casse. Io non parlo.
+
+[P_07_Battery_Objectives]
+Objective_0001=Cerca di capire se i coreani hanno lanciato il missile intenzionalmente.
+Objective_0026=Nonostante le asserzioni nordcoreane, il satellite mostra chiaramente che il missile che ha affondato la Walsh veniva da questa batteria. Controlla al centro di comando per verificare se si è trattato di un danno intenzionale.
+Objective_0006=Recupera i registri di spedizione e riparazione.
+Objective_0027=Recuperando informazioni di spionaggio di basso livello sulle consegne e le riparazioni dai quattro computer non protetti darai agli analisti di Echelon un'immagine più chiara delle capacità dei nordcoreani in quella regione.
+Objective_0015=Esamina il BIOS del lanciatore per tracciare i frammenti di algoritmo di Dvorak.
+Objective_0028=Se il lancio è stato forzato è possibile riuscire a trovare un'impronta di Dvorak nel BIOS della piattaforma della batteria ovest. Apri la custodia per controllare.
+Objective_0012=Esamina il BIOS del lanciatore per tracciare i frammenti di algoritmo di Dvorak.
+Objective_0029=Se il lancio è stato forzato è possibile riuscire a trovare un'impronta di Dvorak nel BIOS della piattaforma della batteria ovest. Apri la custodia per controllare.
+Objective_0016=Ferma il lancio del missile.
+Objective_0030=La guerra è scoppiata, e la Corea del Nord ha autorizzato gli attacchi contro bersagli americani in mare. Cerca di impedire il lancio di un missile dalla piattaforma della batteria est.
+Objective_0017=Trova i codici di interruzione del missile.
+Objective_0031=Il missile è partito. Prendi i codici per l'interruzione dal comando del lancio sotto la piattaforma della batteria est.
+Objective_0018=Interrompi il lancio del missile.
+Objective_0032=Porta i codici per l'interruzione alla zona missili est e usali per superare il controllo autorizzazione del missile.
+Objective_0036=Ferma il lancio del missile.
+Objective_0037=La guerra è scoppiata, e la Corea del Nord ha autorizzato gli attacchi contro bersagli americani in mare. Cerca di impedire il lancio di un missile dalla piattaforma della batteria est.
+Objective_0025=Determina la forza delle divisioni nordcoreane nel passaggio Kaesong-Munsan.
+Objective_0033=(null)
+Objective_0024=Carica un missile in ogni piattaforma.
+Objective_0034=(null)
+Objective_0019=Vai ad uno qualunque dei punti di estrazione.
+Objective_0035=Per andartene, lanciati oltre la scogliera da qualunque delle due piattaforme.
+Speech_-001L=(null)
+Speech_0021L=Ehi! Porta fuori questo furgone! Il comando vuole che iniziamo a caricare dei missili!
+Speech_0022L=Muoviti! Muoviti! Presto.
+Speech_0023L=Ok! Via! Via!
+
+[P_07_Battery_PopUps]
+POPUPMESSAGE_0001=Scopri se i coreani hanno lanciato il missile intenzionalmente.
+POPUPMESSAGE_0002=Interrompi il lancio del missile.
+POPUPMESSAGE_0003=Esamina il BIOS del lanciatore per tracciare i frammenti di algoritmo di Dvorak.
+POPUPMESSAGE_0004=Ottieni i codici di annullamento del missile.
+POPUPMESSAGE_0005=Annulla il missile.
+POPUPMESSAGE_0006=Rientra in un punto di estrazione qualsiasi.
+POPUPMESSAGE_0007=1879
+
+[P_07_Battery_SamGenerics]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_07_Battery_StressLevel]
+
+[P_07_Battery_StressLevel_01]
+
+[P_07_Battery_StressLevel_02]
+
+[P_07_Battery_Timers]
+
+[P_07_Battery_TimersMissile]
+
+[P_07_Battery_VirtualAlertZones]
+
+[P_07_Battery_WaitMissileBay_01]
+

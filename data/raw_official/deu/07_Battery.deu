@@ -1,0 +1,50 @@
+[GENERAL]
+MapName=BATTERIE
+Briefing=AUFGABE
+Briefing_LAMBERT=Fisher, ich weiß, dass dieses Problem am einfachsten zu lösen wäre, wenn wir uns um Shetland kümmerten. Unglücklicherweise sieht es nicht so aus, als würde sich die Situation um den Walsh-Zwischenfall beruhigen. Wir stehen vierundzwanzig Stunden vor dem Ausbruch eines Krieges auf der koreanischen Halbinsel. Wir haben die Raketen-Batterie lokalisiert, von der aus die Walsh beschossen wurde. Wenn die Behauptung Nordkoreas, dass der Raketenabschuss unbeabsichtigt geschehen ist, wahr sein sollte, dann müssen wir das beweisen ... und zwar schnell.
+Briefing_GRIMSDOTTIR=Ich habe die Daten untersucht, die du auf Zherkezhis Computer in New York sicher gestellt hast. Zherkezhis Algorithmus ist eine hochentwickelte Weiterentwicklung von Masses Kernels, deren Komplexität von Dvorak mittels Rekursion unendlich erhöht wurde. Wenn es dir gelänge, auf das BIOS der Startanlage in der Batterie zuzugreifen, müsste ich den Fingerprint dieses Algorithmus im System identifizieren können.
+Briefing_REDDING=Du wirst das Gebiet aus großer Höhe per Fallschirm infiltrieren, zwei Klicks östlich der Raketenbatterie. Anschließend wirst du in den Sicherheitsbereich der Anlage eindringen und die Stellung durch die Fahrzeugzufahrt betreten. Die Batterie selbst besteht schon seit dem Zweiten Weltkrieg, aber Geheimdienstinformationen und Satellitenaufnahmen zeigen, dass sie seitdem mehrmals modernisiert wurde. Wir besitzen nur begrenztes Kartenmaterial ... wir wissen nicht, was dich erwartet. 
+Briefing_MASSON=Seit der Zerstörung der Walsh hat die USS Ronald Reagan das Kommando über den Einsatzverband im Gelben Meer übernommen. Für unsere Flotte gilt Alarmstufe Rot. Im Falle eines Kriegsausbruchs sind wir bereit, Präzisionsangriffe auf wichtige Ziele durchzuführen und die Küstenbefestigungen Nordkoreas zu schwächen, um einen Einsatz hinter der vorrückenden Front zu ermöglichen. Falls es tatsächlich so aussieht, als wollten die Koreaner einen Kampf, dann werden sie den auch bekommen. Wenn es losgeht, sollte sich jeder in dieser Batterie schnell einen Stahlhelm und eine Bibel besorgen.
+Briefing_OTOMO=Die japanische I-SDF hat maßgeblich dazu beigetragen zu ermitteln, dass die Rakete, welche die Walsh zerstört hat, tatsächlich von dieser Batterie abgefeuert wurde. Sie genießen bei Ihrem Bemühen, die Motivation hinter dieser wahnwitzigen Aktion der koreanischen Aggressoren herauszufinden, die vollste Unterstützung aller Teile der japanischen Armee. Uns fehlen die Kapazitäten für einen direkten Angriff auf die Anlage, aber die I-SDF wird, für den Fall, dass unsere amerikanischen Verbünden zu einem Krieg gezwungen werden sollten, alles tun, um die Ressourcen des Feindes einzuschränken.
+
+[Interaction]
+IntExtract=Über Felsen evakuieren
+
+[Computer]
+CompOutpostEntrance=Eingang zum AuSSenposten
+CompWarehouse=Lager
+CompPlayMusic=Zufallsmusik abspielen
+CompShippingLog=Frachtprotokolle abrufen
+CompRepairLogs=Reparaturprotokolle abrufen
+CompHydraulicCrane=Hydraulischer Kran
+CompLoadingBay=Ladebucht
+CompMissileBayEntrance=Eingang zur Raketenladebucht
+CompAccessCode=Steuerung für den Zugriffscode
+CompForklift=Gabelstaplersteuerung
+CompEastMissileBay=Östliche Raketenladebucht
+CompWestMissileBay=Westliche Raketenladebucht
+CompCommandCenter=Kommandozentrale
+CompEastBattery=Ost-Batterie
+CompWestBattery=West-Batterie
+CompUploadCodes=Abbruchcodes herunterladen
+CompUploadReport=Bericht des Technikers herunterladen
+CompScanBios=BIOS der Startanlage scannen
+
+[Email]
+EmailMunitionsBody=Feng, ich habe mir heute die Gewehrmunition angesehen, die ins Lager geliefert wurde. Sieht so aus, als hättest du NATO-Patronen des Kalibers 5,56 mm bestellt. Ich hätte gar nicht gedacht, dass so was geht... Aber wir haben natürlich nicht die passenden Waffen dafür. Was machen wir jetzt damit?
+EmailMunitionsDate=06.Juli 2007
+EmailMunitionsFrom=Ho
+EmailMunitionsSubject=Fehler bei der Munitionsbestellung
+EmailMunitionsTo=Feng
+
+EmailBloodyBody=Bong, ich weiSS, dass du Probleme mit deiner Nase bekommst, wenn du lange unter der Erde bist. Deswegen habe ich noch einen Erste-Hilfe-Schrank bestellt und für den Fall der Fälle im Raketenkontrollraum anbringen lassen.
+EmailBloodyDate=06.Juli 2007
+EmailBloodyFrom=Chen
+EmailBloodySubject=Nasenbluten
+EmailBloodyTo=Bong
+
+EmailUndeliverableBody=Die an "Abonnent" gesendete Nachricht wurde auf diesem Server vom Verwalter abgewiesen.
+EmailUndeliverableDate=06.Juli 2007
+EmailUndeliverableFrom=Systemverwalter
+EmailUndeliverableSubject=WNM News Wire - nicht zustellbar
+EmailUndeliverableTo=Benutzer

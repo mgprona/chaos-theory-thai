@@ -1,0 +1,593 @@
+[P_02_CargoShip_AlarmManager]
+POPUPMESSAGE_0001=Alarm Stage One.
+POPUPMESSAGE_0002=Alarm Stage Two: Enemies Equipping Body Armor.
+Note_0005L=Enemies are wearing body armor.
+POPUPMESSAGE_0003=Alarm Stage Three: Enemies Equipping Helmets.
+Note_0006L=Enemies are wearing helmets.
+POPUPMESSAGE_0004=Alarm Stage Four: Enemies Fortifying Positions.
+Note_0007L=Enemies have fortified their positions.
+
+[P_02_CargoShip_BackSideCargoSoldiers]
+Speech_-001L=(null)
+Speech_0001L=PrGeu_E - Ah... I love the smell of the ocean air.
+Speech_0004L=PrGeu_F - All I smell is burning oil and vomit.
+Speech_0002L=PrGeu_E - Ah... come on... enjoy it while it lasts. Before you know it we'll be sweating it out in some jungle again.
+Speech_0005L=PrGeu_F - Never heard of anybody getting scurvy in a jungle.
+Speech_0003L=PrGeu_E - And I never heard of anybody getting eaten by an alligator on a ship.
+
+[P_02_CargoShip_BodyGuards]
+Speech_-001L=(null)
+Speech_0001L=Damiem - Hey, why don't you pour us a glass too?
+Speech_-001L=(null)
+Speech_0002L=Norman - I'll just have a beer actually...
+
+[P_02_CargoShip_BowNavMesh]
+
+[P_02_CargoShip_BowSoldiers]
+Speech_-001L=(null)
+Speech_0001L=Aurelio - What are you doing up here?
+Speech_0005L=Hector - Ah... just trying to get away from that jerk Lacerda.
+Speech_0002L=Aurelio - Tell me about it. What a pain.
+Speech_0006L=Hector - We should kill him and toss him overboard.
+Speech_0003L=Aurelio - Yeah. I'd agree with you, but those guys protecting him...
+Speech_0007L=Hector - Yeah... you're right. They look dangerous.
+
+[P_02_CargoShip_CaptainCheckGrab]
+
+[P_02_CargoShip_CoffeeRoomSoldiers]
+Speech_-001L=(null)
+Speech_0001L=Javiero - Yuch... you know what I don't understand? Here we are loaded up with Colombian... best coffee in the world.
+Speech_0009L=Pedro - And the coffee tastes like bat guano.
+Speech_0002L=Javiero - Exactly... what's up with that?
+Speech_0010L=Pedro - Because Captain Diego buys the cheapest coffee he can find.
+Speech_0003L=Javiero - Why?
+Speech_0011L=Pedro - Because cheap coffee sweats more. Makes it harder for the dogs to smell what's hidden inside the coffee.
+Speech_0004L=Javiero - Ahhh... that makes sense. Still... wouldn't mind a good cup of coffee.
+Speech_0012L=Pedro - Tell me about it.
+
+[P_02_CargoShip_Doctor]
+
+[P_02_CargoShip_Emitters]
+POPUPMESSAGE_0004=Find out which cabin Lacerda is in
+POPUPMESSAGE_0005=Place tracking devices on any illegal weapons crates.
+
+[P_02_CargoShip_EngineSoldiers]
+Speech_-001L=(null)
+Speech_0001L=Iago - Euh... did you just...
+Speech_0005L=Orlando - No. I thought it was you.
+Speech_0002L=Iago - It wasn't me. Man it stinks.
+Speech_0006L=Orlando - Smells like... I'm not sure... like gas fumes...
+Speech_0003L=Iago - Smells like mud.
+Speech_0007L=Orlando - Yeah. Smells like gas fumes from a swamp...
+Speech_0004L=Iago - You think it's dangerous.
+Speech_0010L=Orlando - Probably not.
+
+[P_02_CargoShip_FirstFloorSoldier]
+
+[P_02_CargoShip_HoldSoldiers]
+Speech_-001L=(null)
+Speech_0001L=Nemesio - You going to start that pump there or what?
+Speech_0006L=Saul - I don't know how this stupid thing works...
+Speech_0002L=Nemesio - Captain Diego says hurry up, or we'll sink.
+Speech_0007L=Saul - Well, if I do it wrong we might sink faster.
+Speech_0011L=Nemesio - Then don't do it wrong.
+Speech_0012L=Saul - Easy for you to say.
+
+[P_02_CargoShip_InteroBedroomOfficer]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Quiet down here...
+Speech_0002L=Raul - Ah!
+Speech_0003L=FISHER - Quiet and dark... great place to hide a body.
+Speech_0004L=Raul - Oh, no... please... I'll tell you anything you want to know.
+Speech_0005L=FISHER - Tell me what Lacerda is up to.
+Speech_0006L=Raul - He's delivering arms to people that he owes favors too. Trying to consolidate support.
+Speech_0007L=FISHER - For what?
+Speech_0008L=Raul - He believes in the revolution... he's crazy.
+Speech_-001L=(null)
+Speech_0009L=Raul - I have no love for Lacerda... kill him if you want.
+Speech_-001L=(null)
+Speech_0011L=Raul - I'll tell no one.
+
+[P_02_CargoShip_InterogateCaptain]
+Speech_-001L=(null)
+Speech_0001L=FISHER - I hear you have a special passenger tonight?
+Speech_0002L=Capt_Diego - Wh--ah... who?
+Speech_0003L=FISHER - I'm the guy who's here to cash the checques Lacerda's been writing...
+Speech_0006L=Capt_Diego -That son of a--he was provoking my men, so I gave him my own cabin to shut him up!
+Speech_0007L=FISHER - That's very kind of you.
+Speech_0008L=Capt_Diego - Be careful... he brought some personal bodyguards... they look dangerous.
+Speech_0009L=FISHER - I'm not afraid of Lacerda's thugs...
+Speech_0010L=Capt_Diego - No... they're not Peruvian... they're European's I think... pros.
+Speech_0011L=FISHER - Hmm. Thanks for the tip.
+Speech_0012L=Capt_Diego - The pleasure is all mine.
+Speech_-001L=(null)
+Speech_0013L=Capt_Diego - I'm glad you're here, but my men will still shoot you on sight.
+Speech_-001L=(null)
+Speech_0014L=Capt_Diego - Leave me his corpse so I can feed it the rats.
+
+[P_02_CargoShip_InterogBodyGuards]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Who are you?
+Speech_0002L=Damien - Wh--who...
+Speech_0003L=FISHER - You're not one of Lacerda's thugs... what are you doing here?
+Speech_0004L=Damien - I don't know... I--
+Speech_0005L=FISHER - Who are you protecting Lacerda from?
+Speech_0006L=Damien - Lacerda has a lot of enemies... he's not very popular.
+Speech_0007L=FISHER - What are the guns for?
+Speech_0008L=Damien - Lacerda's using them to pay off his debts... win some friends.
+Speech_-001L=(null)
+Speech_0010L=Damien - He wants to organize in Peru... it'll never work.
+Speech_-001L=(null)
+Speech_0011L=Damien - Lacerda doesn't have brains or charisma...
+
+[P_02_CargoShip_InterogBreakSoldBow]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Nice night...
+Speech_0002L=Aurelio - Wha--!
+Speech_0003L=FISHER - Shhh... what's the roster? How many men aboard?
+Speech_0004L=Aurelio - Total? There's thirty six of us I think... but that's including Lacerda and a couple of mean looking mercenaries he brought with him.
+Speech_0005L=FISHER - Where's Lacerda now?
+Speech_0006L=Aurelio - He was just here, twenty minutes ago... complaining about his quarters... he said he wanted another room.
+Speech_-001L=(null)
+Speech_0008L=Aurelio - You won't find Lacerda where there's work to be done.
+Speech_-001L=(null)
+Speech_0009L=Aurelio - Lacerda's probably drunk by now.
+
+[P_02_CargoShip_InterogCoffeeSoldier]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Tell me something useful, or I'll have to hurt you.
+Speech_0002L=Pedro - Oh no... please...
+Speech_0003L=FISHER - Don't beg... it's pathetic.
+Speech_0004L=Pedro - Uh... okay... uh... there's not much on this deck... cafeteria, mostly. Upstairs there's the officers quarters... quiet a few men up there.
+Speech_-001L=(null)
+Speech_0017L=Pedro - Last I heard, Captain Diego let Lacerda take his quarters... up one deck.
+Speech_0018L=FISHER - Awfully nice of the Captain...
+Speech_0019L=Pedro - He couldn't stand Lacerda's complaining any longer... no one can.
+Speech_0020L=FISHER - I'll go shut him up for you then.
+Speech_-001L=(null)
+Speech_0005L=FISHER - You look like one of Lacerda's men...
+Speech_0006L=Pedro - Ah... uh... yes... that's right.
+Speech_0007L=FISHER - Too bad for you... tell me where I can find him.
+Speech_-001L=(null)
+Speech_0021L=Pedro - He's been wandering around in a bad mood... said he was going to talk to the Captain about getting better quarters.
+Speech_0022L=FISHER - So the Captain might know where he is?
+Speech_0023L=Pedro - I guess so.
+Speech_-001L=(null)
+Speech_0015L=Pedro - I'm not really a bad guy.
+Speech_-001L=(null)
+Speech_0016L=Pedro - I'm afraid of dying.
+
+[P_02_CargoShip_InterogEngineFenceS]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Stay calm... we don't want to make any sparks.
+Speech_0002L=Iago - Wh... who are you?
+Speech_0003L=FISHER - I'm the fire inspector, and I'm worried that you or one of your stupid friends might try and squeeze a shot off in here.
+Speech_0004L=Iago - Wh--why?
+Speech_0005L=FISHER - Can't you smell the gas?
+Speech_0006L=Iago - But... but I didn't think it was dangerous...
+Speech_0007L=FISHER - Say you guys need to stow your ammo to prevent any accidents.... where would you put it.
+Speech_0008L=Iago - Uh...the men bunk up portside... just turn left out the back of the engine room... they've got a crate full of new guns back there, maybe some other stuff too... not sure.
+Speech_-001L=(null)
+Speech_0009L=Iago - I won't fire my weapon, I promise.
+Speech_-001L=(null)
+Speech_0010L=Iago - I won't even light a match.
+
+[P_02_CargoShip_InterogLacerda]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Don't bother begging, you're already dead.
+Speech_0004L=LACERDA - Wh... what did I do?
+Speech_0010L=FISHER - Small matter of ordering an execution...
+Speech_0011L=LACERDA - I... no... I didn't...
+Speech_0012L=FISHER - Morgenholt. Your men tortured him to death...
+Speech_0013L=LACERDA - I... no... please... arrest me... put me on trial... I don't want to die...
+Speech_0014L=FISHER - Tell me something really juicy and maybe I'll let you live...
+Speech_0015L=LACERDA - I was hired... you know... to kidnap and interrogate him.
+Speech_-001L=(null)
+Speech_0005L=FISHER - By who?
+Speech_0006L=LACERDA - I don't know... they only dealt with me anonymously... they must be pretty powerful...
+Speech_0016L=FISHER - Interesting... but not enough to save your life...
+Speech_0017L=LACERDA - No... no... wait... please...
+Speech_0018L=FISHER - Save your breath. You only have a few left.
+Speech_-001L=(null)
+Speech_0019L=FISHER - Shh... let's not make a scene.
+Speech_0020L=LACERDA - Ulp... madre de dios...
+Speech_0021L=FISHER - Not exactly... but if it makes you feel better to pray...
+Speech_0022L=LACERDA - Please don't kill me...
+Speech_-001L=(null)
+Speech_0023L=FISHER - Calm him down...
+Speech_0024L=LACERDA - Uh... uh, yeah... I'm looking for some rum.
+Speech_-001L=(null)
+Speech_0025L=LACERDA - No... no... I'll find it....
+Speech_0026L=FISHER - Good job.
+Speech_-001L=(null)
+Speech_0027L=LACERDA - Please, let me go... I won't tell them I saw you.
+Speech_0028L=FISHER - You don't understand what's happening here, do you? Morgenholt... your goons tortured him to death, and I'm holding you responsible.
+Speech_0029L=LACERDA - Oh... no... it's not my fault...
+Speech_0030L=FISHER - The only thing worse than a coward is a liar. You gave the order, and now you're going to die for it.
+Speech_0031L=LACERDA - Please...
+Speech_0032L=FISHER - First, tell me who contracted you to kidnap him.
+Speech_0033L=LACERDA - I... I don't know... I swear... I was contacted indirectly... I was warned not to try and find out...
+Speech_-001L=(null)
+Speech_0034L=LACERDA - Uh... just a sec! You better let me go... or they'll come looking.
+Speech_0035L=FISHER - You wish.
+Speech_-001L=(null)
+Speech_0038L=LACERDA - I am a coward... please...
+Speech_-001L=(null)
+Speech_0039L=LACERDA - I am sorry... it's not my fault...
+Speech_-001L=(null)
+Speech_0040L=LACERDA - I don't deserve this.
+
+[P_02_CargoShip_InterogMShopSailor]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Boo.
+Speech_0002L=Ruben - My god... how did...
+Speech_0005L=FISHER - I'll ask the questions... tell me about the launch.
+Speech_0006L=Ruben - The launch?
+Speech_0007L=FISHER - The boat up there on the rack.
+Speech_0008L=Ruben - All you have to do is pull the lever up there and get in... what else do you need to know?
+Speech_0009L=FISHER - It's not mined or anything?
+Speech_0010L=Ruben - Are you crazy? Why would we mine a lifeboat?
+Speech_-001L=(null)
+Speech_0003L=Ruben - Go ahead and take the launch... be glad to see you go.
+Speech_-001L=(null)
+Speech_0004L=Ruben - Don't let me stop you.
+
+[P_02_CargoShip_InterogOfficeSoldier]
+Speech_-001L=(null)
+Speech_0001L=FISHER - What are you doing here?
+Speech_0002L=Stefano - I would ask you the same.
+Speech_0003L=Fisher - I have a knife... you go first.
+Speech_0004L=Stefano - Right. Uh... I'm supposed to patrol around the office and the infirmary...
+Speech_0005L=FISHER - What else is o this deck?
+Speech_0006L=Stefano - Nothing. One deck up is the galley and the cafeteria. Below us is the engine room.
+Speech_-001L=(null)
+Speech_0007L=Stefano - I don't know more... it's my second day aboard.
+Speech_-001L=(null)
+Speech_0008L=Stefano - If you're going to hurt me, at least leave me near the infirmary.
+
+[P_02_CargoShip_InterogPumpUpSoldier]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Noisy down here...
+Speech_0002L=Saul - Oh my--
+Speech_0003L=FISHER - Makes it easy to sneak up on people... what is this hold?
+Speech_0004L=Saul - The auxiliary pump is here... there are some flooded compartments... the pump should be able to drain them.
+Speech_0005L=FISHER - Thanks for the information.
+Speech_-001L=(null)
+Speech_0007L=Saul - I'm new at this whole revolutionary thing.
+Speech_-001L=(null)
+Speech_0008L=Saul - I don't want to die.
+
+[P_02_CargoShip_InterogServerSoldier]
+Speech_-001L=(null)
+Speech_0001L=FISHER - What's in here?
+Speech_0002L=Gustavo - Wha... how... where did you come from?
+Speech_0003L=Fisher - Nevermind that... I'm looking for Hugo Lacerda.
+Speech_0004L=Gustavo - Uh... It think the Captain probably just logged a memo about room assignments on the server.
+Speech_0005L=Fisher - Server hunh?
+Speech_0006L=Gustavo - Well... basically... technically it's a server... but it's a piece of junk.
+Speech_0007L=Fisher - As long as it tells me what I want to know.
+Speech_-001L=(null)
+Speech_0008L=Gustavo - Please, let me go.
+Speech_-001L=(null)
+Speech_0009L=Gustavo - I've never hurt anyone.
+
+[P_02_CargoShip_InterogTopDeckSold]
+Speech_-001L=(null)
+Speech_0001L=FISHER - There are a lot of guys up here...
+Speech_0002L=Vincente - Oh no... uh... uh... yeah... it stinks on this rat trap... the fresh air is nice...
+Speech_0003L=FISHER - What's up here?
+Speech_0004L=Vincente  - Just the communication and server rooms and the observation platform.
+Speech_0005L=FISHER - Anything else?
+Speech_0006L=Vincente - There's an emergency ladder down to the launch at the stern.
+Speech_-001L=(null)
+Speech_0009L=Vincente - I don't know anything else.
+Speech_-001L=(null)
+Speech_0011L=Vincente - I didn't do anything wrong.
+
+[P_02_CargoShip_InteroQuartCrowSold]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Nice cabins here.
+Speech_0002L=Mauricio - Wha! Who... uh... yeah... these are the officers quarters... the Captain's quarters are just down the hall.
+Speech_0003L=FISHER - So you're an officer?
+Speech_0004L=Mauricio - No... just a passenger... travelling with Lacerda... they let us use their quarters.
+Speech_0005L=FISHER - You must be important guests.
+Speech_0006L=Mauricio - I think Lacerda is paying the Captain very well.
+Speech_0007L=FISHER - In arms?
+Speech_0008L=Mauricio - I... I think so.
+Speech_-001L=(null)
+Speech_0010L=Mauricio - If you're after Lacerda, watch out for his bodyguards.
+Speech_-001L=(null)
+Speech_0011L=Mauricio - I don't want to die on this rusty old hulk.
+
+[P_02_CargoShip_LambertComms]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Fisher, we just pulled up Celestinia's last dry-dock report for the Maria Narcissa. They have a newly installed central alarm system.
+Speech_0012L=FISHER - Don't tell me... three alarms and the mission is over?
+Speech_0010L=LAMBERT - Of course not... this is no video game Fisher. But you don't want the whole place alerted to your presence... keep it under control.
+Speech_-001L=(null)
+Speech_0025L=REDDING - Fisher, we just intercepted a radio call form the Maria Narcissa... she's reporting a hull leak and asking for an escort.
+Speech_0026L=FISHER - The ship is sinking?
+Speech_0027L=REDDING - No, but apparently several compartments are flooded. You'll need to activate the bilge in the forward machine room to access all the cargo holds.
+Speech_-001L=(null)
+Speech_0110L=REDDING - Fisher, some of the cargo hold are flooded. You'll need to activate the bilge pump in the machine room in the forecastle.
+Speech_-001L=(null)
+Speech_0033L=REDDING - Fisher, it looks like Lacerda is spreading around his new found wealth... paying off his debts with some of the arms that were delivered to him. 
+Speech_0034L=FISHER - You want me to scan any more weapons crates.
+Speech_0035L=REDDING - Better idea... plant tracking devices on them and we can see who they end up getting delivered to.
+Speech_0036L=FISHER - Okay.
+Speech_-001L=(null)
+Speech_0028L=REDDING - There should be a large pump in here that you can use to drain the forward cargo hold.
+Speech_0029L=FISHER - I'll find it.
+Speech_-001L=(null)
+Speech_0030L=REDDING - Fisher, those compartments are flooded. You need to activate the emergency bilge pump to drain them.
+Speech_-001L=(null)
+Speech_0037L=REDDING - Good work Sam. That drained the flooded compartments.
+Speech_0038L=REDDING - Fisher, some of the cargo hold are flooded. You'll need to activate the bilge pump in the machine room in the forecastle.
+Speech_-001L=(null)
+Speech_0031L=REDDING - Good job. That'll drain the flooded compartments. Now you can search them for the bill of lading attached to Lacerda's shipment.
+Speech_0032L=FISHER - Alright.
+Speech_-001L=(null)
+Speech_0111L=REDDING - Good work Sam. That drained the flooded compartments.
+Speech_-001L=(null)
+Speech_0039L=REDDING - Good job Sam. That's the first crate. Keep your eyes peeled for any more.
+Speech_0040L=FISHER - Alright.
+Speech_-001L=(null)
+Speech_0041L=REDDING - Okay Sam... judging by the numbering on the crates, that's about half of them. See if you can find the rest.
+Speech_-001L=(null)
+Speech_0042L=REDDING - Good job Sam. Two more crates to go.
+Speech_-001L=(null)
+Speech_0043L=REDDING - Way to go, Fisher, one more crate to go.
+Speech_-001L=(null)
+Speech_0044L=REDDING - That was the last of the weapons crates, Sam. Now we'll be able to track them wherever they go and see just how connected Lacerda is.
+Speech_-001L=(null)
+Speech_0045L=REDDING - That's the last weapons crate Sam. Good job.
+Speech_0046L=REDDING - More weapons crates on the ship Sam. See if you can plant a tracking device on each of them.
+Speech_-001L=(null)
+Speech_0006L=GRIMSDOTTIR - Sensors in your suit are detecting a lot of fumes down there.
+Speech_0007L=FISHER - Yeah... I can smell it... some kind of gas leak.
+Speech_0017L=GRIMSDOTTIR - Could be enough to be a serious explosive hazard. We can't have any firing in the engine room...
+Speech_0018L=FISHER - Wonderful.
+Speech_0019L=GRIMDOTTIR - And don't expect the enemy to be smart enough to realize that. They might still open fire on you if they see you...
+Speech_0020L=FISHER - I get the message... I'll be discreet.
+Speech_-001L=(null)
+Speech_0105L=GRIMSDOTTIR - Sam, the engine room has a gas leak. No firing in there. Not even a spark.
+Speech_-001L=(null)
+Speech_0021L=GRIMSDOTTIR - Sam, the engine room has a gas leak. No firing in there. Not even a spark.
+Speech_0076L=GRIMSDOTTIR - The bill of lading says that the arms were delivered to Lacerda using a Panamanian offshore bank as a proxy.
+Speech_0090L=GRIMSDOTTIR - Lacerda's ledgers are forged. The shipment is transited under the name Nakariakov... a code name used by Philippine arms dealers.  
+Speech_-001L=(null)
+Speech_0054L=GRIMSDOTTIR - Fisher, you just passed the only compartment that you haven't been through. You should see if Lacerda's shipping container is in there.
+Speech_0055L=FISHER - Thanks for the tip.
+POPUPMESSAGE_0118=Retrieve the bill of lading for Lacerda's arms shipment.
+Speech_-001L=(null)
+Speech_0056L=GRIMSDOTTIR - I'm betting that Lacerda's shipping container is somewhere in this compartment. The bill of lading should be mounted on the side.
+Speech_0057L=FISHER - I'll have a look around.
+Speech_-001L=(null)
+Speech_0058L=GRIMSDOTTIR - Good work Sam... it looks like whoever delivered these arms to Lacerda was operating through a proxy.
+Speech_0059L=FISHER - Who?
+Speech_0060L=GRIMSDOTTIR - Mercantil Costa Afuerda Securidad de Panama.
+Speech_0061L=FISHER - Off shore bankers?
+Speech_0062L=GRIMSDOTTIR - Yeah... the cigar chomping kind.
+Speech_0063L=FISHER - Great... I love bureaucrats.
+Speech_-001L=(null)
+Speech_0106L=GRIMSDOTTIR - The bill of lading says that the arms were delivered to Lacerda using a Panamanian offshore bank as a proxy.
+Speech_0077L=GRIMSDOTTIR - That completes all of your primary objectives. Get to extraction whenever you want.
+Speech_0078L=FISHER - Alright.
+Speech_0079L=GRIMSDOTTIR - You still need to recover the transit ledgers so we can figure out who else Lacerda is dealing with. Try the ship's office... they should have that information.
+POPUPMESSAGE_0101=Retrieve the ship's transit ledger for Lacerda's shipment.
+Speech_0080L=GRIMSDOTTIR - You still need to find out where Lacerda is holed up.
+Speech_0081L=FISHER - The captain probably knows where he is.
+Speech_0082L=GRIMSDOTTIR - Good idea... why don't you head to the bridge and ask.
+Speech_0135L=LAMBERT - They might have logged a record of his room assignment in the ship's computer. The radio and communications center is topside.
+Speech_0083L=GRIMSDOTTIR - Now all you need to do is keep your date with Lacerda. He's in the captain's quarters.
+Speech_0084L=FISHER - I forgot to bring a corsage.
+POPUPMESSAGE_0102=Eliminate Hugo Lacerda
+Speech_-001L=(null)
+Speech_0085L=GRIMSDOTTIR - Sam, you're near the ship's office. This deck, starboard side.
+Speech_0086L=FISHER - I'll find the transit ledgers there?
+Speech_0087L=GRIMSDOTTIR - That's where they should be keeping them.
+POPUPMESSAGE_0119=Retrieve the ship's transit ledger for Lacerda's shipment.
+Speech_-001L=(null)
+Speech_0011L=GRIMSDOTTIR - The transit ledgers are forged. They say Lacerda's container is full of sugarcane and coconuts from a man named Nakariakov in Malaysia. 
+Speech_0064L=FISHER - Nakariakov... I remember that name.
+Speech_0065L=GRIMSDOTTIR - Nakariakov is a code name that Philippine drug dealers use to indicate arms shipments. 
+Speech_0066L=FISHER - So instead of nuts from Malaysia, Lacerda got guns from an imaginary Russian?
+Speech_-001L=(null)
+Speech_0107L=GRIMSDOTTIR - Lacerda's ledgers are forged. The shipment is transited under the name Nakariakov... a code name used by Philippine arms dealers.  
+Speech_0088L=GRIMSDOTTIR - Exactly. All of your primary objectives are complete, Sam. Get to extraction whenever you want.
+Speech_0089L=FISHER - Alright.
+Speech_0067L=GRIMSDOTTIR - Exactly. But se still need to find the actual bill of lading. Head back below decks into the cargo holds.
+Speech_0068L=FISHER - On my way.
+POPUPMESSAGE_0103=Retrieve the bill of lading for Lacerda's arms shipment.
+Speech_0069L=GRIMSDOTTIR - Exactly. Now why don't you go find out where Lacerda is hiding.
+Speech_0070L=FISHER - The captain probably knows where he is.
+Speech_0071L=GRIMSDOTTIR - Good idea... why don't you head to the bridge and ask.
+Speech_0136L=LAMBERT - They might have logged a record of his room assignment in the ship's computer. The radio and communications center is topside.
+Speech_0072L=GRIMSDOTTIR - Exactly. Now all you need to do is keep your date with Lacerda. He's in the captain's quarters.
+Speech_0073L=FISHER - I forgot to bring a corsage.
+POPUPMESSAGE_0104=Eliminate Hugo Lacerda
+Speech_-001L=(null)
+Speech_0022L=LAMBERT - Dammit Fisher... was probably the only person aboard who knows where Lacerda is.
+Speech_0023L=FISHER - I guess I'll have to sweep the whole ship.
+Speech_0024L=LAMBERT - They might have logged a record of his room assignment in the ship's computer. The radio and communications center is topside.
+Speech_-001L=(null)
+Speech_0108L=LAMBERT - Fisher, the Captain might have logged a record of Lacerda's room assignment on the ships server. Check the top deck to find out where Lacerda is.
+Speech_-001L=(null)
+Speech_0091L=LAMBERT - So Lacerda is holed up in the Captain's quarters...
+Speech_0092L=FISHER - Where is that?
+Speech_0093L=LAMBERT - Third deck, port side. The two interior stairwells are the only access to that deck.
+POPUPMESSAGE_0120=Eliminate Hugo Lacerda.
+Speech_-001L=(null)
+Speech_0109L=LAMBERT - Fisher, Lacerda is in the Captain's quarters. Third deck, port side. Use the interior stairwells.
+POPUPMESSAGE_0121=Eliminate Hugo Lacerda.
+Speech_-001L=(null)
+Speech_0094L=LAMBERT - Good job Fisher. I'll inform the Joint Chiefs that Lacerda is no longer a threat.
+Speech_0099L=REDDING - Fisher, we can't extract you until you complete your primary objectives.
+Speech_0100L=FISHER - Alright. I'll double back.
+Speech_-001L=(null)
+Speech_0003L=LAMBERT - Good job Fisher. I'll inform the Joint Chiefs that Lacerda is no longer a threat. Your primaries objectives are completed. We can extract you whenever you're ready.
+Speech_-001L=(null)
+Speech_0097L=LAMBERT - Fisher, Lacerda is in the Captain's quarters. Third deck, port side. Use the interior stairwells.
+Speech_0098L=LAMBERT - Fisher, the Captain might have logged a record of Lacerda's room assignment on the ships server. Check the top deck to find out where Lacerda is.
+Speech_-001L=(null)
+Speech_0047L=LAMBERT - That's their alarm system Fisher... I'm warning you... be careful
+Speech_-001L=(null)
+Speech_0048L=LAMBERT - Fisher... be careful... if you put the whole ship on alert, you'll regret it.
+Speech_-001L=(null)
+Speech_0049L=LAMBERT - Dammit Fisher, you're a liability.
+Speech_0050L=FISHER - It's just another alarm...
+Speech_0051L=LAMBERT - It's more than that. The whole ship is alerted. Complete your primary objectives and forget the rest.
+Speech_-001L=(null)
+Speech_0052L=LAMBERT - Dammit Fisher, you just kicked the hornets nest. The whole ship is on alert.
+Speech_0053L=LAMBERT - Fisher, the ship has a central alarm system. If you set off too many alarms, they'll know you're there and your life will be a lot more difficult.
+Speech_-001L=(null)
+Speech_0112L=Officials in Peru have confirmed the recovery of the body of American Computer Engineer Bruce Morgenholt. No cause of death has yet been announced, but the State Department has demanded an apology from the Peruvian Army for their possible role in a botched rescue operation.
+Speech_0113L=In Japan, Admiral Toshiro Otomo publicly revealed I-SDF findings relating to events leading up to 'Black Gold Da'. The I-SDF report alleges that North Korean and Chinese information warfare attacks may have manipulated worldwide markets to bring about the economic collapse in Japan.
+Speech_-001L=(null)
+Speech_0114L=LAMBERT - Information you recovered in Peru makes it look like Hugo Lacerda was contracted by a third party to kidnap and interrogate Morgenholt. His payment was in weapons. He appears to be using those arms to equip his own men, and pay off debts to other guerilla groups. Maybe Lacerda is a nickel-ante loser... but maybe he learned things from Morgenholt that we don't want anyone to know. The Maria Narcissa is out to sea, so there's no escape. Board her, search her, find out who Lacerda has been dealing with, and then make sure he doesn't have an opportunity to spread what he knows. Fifth Freedom.
+Speech_0115L=GRIMSDOTTIR - What Morgenholt knew about the Masse Kernels, recursive computation and weaponized algorithms is akin to what Oppenheimer knew about atoms, or what Turing knew about digital computers. Project Watson... the United Nations investigation into the Masse Kernels will be remembered for centuries alongside the Manhattan Project as fundamental research that changed the nature of warfare forever. Imagine if Che Guevara had kidnapped and interrogated Oppenhiemer in 1959 and you have a pretty accurate parallel of the situation we're in right now.
+Speech_0116L=REDDING - We're going to send the helicopter out about forty clicks ahead of the Maria Narcissa and leave you in the water on her course. You'll board covertly onto the bow. Search the ship and the holds. Find out what you can about the arms shipments and who Lacerda is dealing with. Satellite imaging shows the Maria Narcissa racks a small launch on the stern. That will be your primary extraction. If everything goes bad, we might be able to arrange to pluck you out of the sea.
+Speech_0117L=PARTRIDGE - We'll keep the Walsh inside of helicopter range of the target vessel at all times. If something goes wrong, we should be able to assist in extraction. If you play it safe, we'll recover you in the ships launch from open water once you're out of visual range of the ship.
+
+[P_02_CargoShip_MachineShopSailor]
+
+[P_02_CargoShip_MemorableM]
+POPUPMESSAGE_0028=Eliminate Hugo Lacerda.
+Speech_-001L=(null)
+Speech_0001L=LACERDA - I tell you... never... never in my life have I been so insult!
+Speech_0018L=Damien - I don't see why you're upset. He got you past the inspection. You think it's easy to get through the Canal Zone with all the crackdowns these days?
+Speech_0003L=LACERDA - I don't care if it's hard! You think my job is easy? No! But this insult! Forcing me to bribe an inspector! Out of my own pocket! No! This big shot... this Vice President Senor Segundo Ruiz de Medeiros... ha! I'll show him.
+Speech_0021L=Damien - Fine.
+Speech_0004L=LACERDA - Mark my words! I'll make him pay! I'll make him pay double! Or my name is not Hugo Lacerda!
+Speech_0022L=Damien - Great.
+Speech_0008L=LACERDA - I need another drink.
+Speech_-001L=(null)
+Speech_0009L=LACERDA - Let me see...
+Speech_0017L=LACERDA - Now where would that fat pig stash his rum...
+Speech_0011L=LACERDA - Ahh... bastard... I want rum...
+Speech_-001L=(null)
+Speech_0012L=LACERDA - Si, si... fine... as soon as I find it... must be here somewhere.
+Speech_-001L=(null)
+Speech_0013L=LACERDA - What do I look like? A damn waiter? Ha!
+Speech_0014L=LACERDA - Hmm... let's see.
+Speech_0024L=Damien - So...?
+Speech_0015L=LACERDA - Bastard doesn't have any liquor.
+Speech_0020L=Norman - What about my beer?
+Speech_0016L=LACERDA - Shut up...
+Speech_-001L=(null)
+Speech_0025L=Damien - Lacerda, come on... bring us a drink!
+Speech_-001L=(null)
+Speech_0026L=Damien - What, you need a hand?
+Speech_-001L=(null)
+Speech_0027L=Damien - C'mon Lacerda... hurry up...
+
+[P_02_CargoShip_MessHallSoldiers]
+Speech_-001L=(null)
+Speech_0001L=Kemen - Hey, Tomas, have you seen Lacerda?
+Speech_0004L=Tomas - No... but I heard him yelling at someone a few minutes ago. That's why I came here.
+Speech_0002L=Kemen - What was he yelling about this time.
+Speech_0005L=Tomas - Complaining about his quarters or something.
+Speech_0003L=Kemen - Bastard... thinks now that he's got a little cash he's the king of the world.
+Speech_0006L=Tomas - He'll get his one of these days. You'll see.
+
+[P_02_CargoShip_Objectives]
+Objective_0001=Retrieve the bill of lading for Lacerda's arms shipment.
+Objective_0024=The arms used to pay Lacerda were shipped in a large crate, located in one of the cargo holds. Locate and read the Bill of Lading, mounted on the side of the crate.
+Objective_0003=Retrieve the ship's transit ledger for Lacerda's shipment.
+Objective_0025=A computerized ledger will be kept in the ship's office. Access this ledger to determine who facilitated the delivery of the arms to Lacerda.
+Objective_0018=Eliminate Hugo Lacerda.
+Objective_0026=Hugo Lacerda has been elevated to Third Echelon's Target of Opportunity list. Take advantage of any possible opportunity to remove him from the list.
+Objective_0008=Find the name of Lacerda's Panamanian contact.
+Objective_0027=In addition to those shipping and receiving the weapons, someone must also have helped Lacerda get them past new security inspection protocols at the Panama Canal. Find out who.
+POPUPMESSAGE_0061=Retrieve the bill of lading for Lacerda's arms shipment.
+Objective_0019=Place tracking devices on any illegal weapons crates.
+Objective_0028=Planting tracking devices on the remaining crates that Lacerda is delivering to his allies and supporters may assist in future intelligence operations.
+POPUPMESSAGE_0062=Place tracking devices on any illegal weapons crates.
+Objective_0020=Find out which cabin Lacerda is in.
+Objective_0029=Interrogate the Captain, or check the ship's register in the main computer room to find out which room Lacerda is in.
+POPUPMESSAGE_0063=Find out which cabin Lacerda is in
+Objective_0021=Interrogate Hugo Lacerda
+Objective_0030=(null)
+Objective_0006=Exfiltrate to the extraction point.
+Objective_0031=Steal the ship's launch, mounted on the stern, to escape the ship.
+POPUPMESSAGE_0064=Exfiltrate to the extraction point.
+Objective_0069=Find out which cabin Lacerda is in
+Objective_0070=Interrogate the Captain, or check the ship's register in the main computer room to find out which room Lacerda is in.
+Objective_0022=Find out which cabin Lacerda is in
+Objective_0033=Interrogate the Captain, or check the ship's register in the main computer room to find out which room Lacerda is in.
+Objective_0023=Find out which cabin Lacerda is in
+Objective_0034=Interrogate the Captain, or check the ship's register in the main computer room to find out which room Lacerda is in.
+POPUPMESSAGE_0068=Find out which cabin Lacerda is in
+POPUPMESSAGE_0065=Exfiltrate to the extraction point.
+Note_0035L=A medical kit is located in the infirmary.
+Note_0036L=A medical kit is located crew quarters washroom next to the engine room.
+Note_0037L=A medical kit is located on the bridge.
+Note_0038L=There is a gas leak in the engine room. Any firing will cause an explosion.
+Note_0039L=There is a gas leak in the engine room. Any firing will destroy the ship.
+Note_0040L=Lacerda's shipping container is located in the flooded forward-most hold.
+Note_0041L=The flooded compartments can be drained using the pump in the forecastle.
+Note_0042L=The crew are vagabonds and guerillas - not civilians. They are armed.
+Note_0043L=The ship has an active alarm system. Be careful.
+Note_0044L=The Captain will know which room Lacerda is in.
+Note_0045L=The server in the room on the top deck will list Lacerda's room assignation.
+Note_0046L=Lacerda is in the Captain's quarters, below the bridge to the stern.
+Note_0047L=Lacerda is being guarded by professional mercenaries.
+Note_0048L=The ship's launch is located on the stern outer deck.
+Note_0049L=The ship's launch can be used for extraction.
+Note_0050L=In an emergency, extraction is over the side of the boat.
+Note_0051L=There is a vent connecting the forward machine shop and the forecastle.
+Note_0052L=Hugo Lacerda managed to get away from the lighthouse aboard the Maria Narcissa before you could get to him. Board the ship, locate him, and make sure that he is never able to communicate what he may have learned from Morgenholt.
+Note_0053L=Killing, setting off alarms, and being detected reduces your Mission Rating.
+Note_0054L=Hugo Lacerda managed to get away from the lighthouse aboard the Maria Narcissa before you could get to him. Board the ship, locate him, and make sure that he is never able to communicate what he may have learned from Morgenholt.
+Note_0055L=Sliding doors roll in wheeled tracks. The Optic Cable can't be used.
+Note_0056L=Interrogating enemies provides lots of useful intelligence.
+Note_0057L=If you fail a Secondary Objective, you must complete it in a later mission.
+Note_0058L=Opportunity Objectives are optional, but failing them lowers Mission Rating.
+Note_0059L=Enemies may use flares if they search in the dark.
+Note_0060L=Enemies can pair up to search or fight in teams.
+
+[P_02_CargoShip_OfficeAndInfirmary]
+Speech_-001L=(null)
+Speech_0004L=Stefano - Hey, did Lacerda pass through here?
+Speech_0005L=Ernesto - Yeah... he was here a few minutes ago... complaining about the ledgers. Bastard. I hope someone cuts his throat.
+Speech_0001L=Stefano - Lacerda is not a man to trifle with.
+Speech_0006L=Ernesto - I'm not going to trifle with him... I'm hoping someone else will do it.
+Speech_0002L=Stefano - That someone would experience painful death at Lacerda's fearsome hands.
+Speech_0007L=Ernesto - Mm-hmm.
+Speech_0003L=Stefano - Where is Lacerda now?
+Speech_0008L=Ernesto - I don't know, and I don't want to know.
+
+[P_02_CargoShip_OfficerQuarters]
+
+[P_02_CargoShip_PilothouseConv]
+Speech_-001L=(null)
+Speech_0003L=Captain_Diego - Helm?
+Speech_0007L=Fidel - Yes Captain.
+Speech_0002L=Captain_Diego - Make your heading eighty-eight degrees six minutes. Maintain speed.
+Speech_0008L=Fidel - Yes sir.
+Speech_0004L=Captain_Diego - Scopes are clear?
+Speech_0009L=Fidel - Yes sir.
+Speech_0005L=Captain_Diego - Thank you.
+
+[P_02_CargoShip_Radio]
+
+[P_02_CargoShip_TeleportSoldiers]
+Speech_-001L=(null)
+Speech_0001L=PrGeu_C - Ay... have you had a look around this boat?
+Speech_0004L=PrGeu_D - Yeah.
+Speech_0002L=PrGeu_C - Tell me you found the life rafts.
+Speech_0005L=PrGeu_D - Someone the top deck, on the sides, and there's a powered launch racked on the stern.
+Speech_0003L=PrGeu_C - Think there's enough for everyone?
+Speech_0006L=PrGeu_D - Yeah... but I'm not sure that I even trust the life rafts on this thing.
+
+[P_02_CargoShip_TopDeckSoldiers]
+Speech_-001L=(null)
+Speech_0001L=PrGeu_A - What does it mean 'to bootstrap'?
+Speech_0006L=PrGeu_B - Uh...it means 'to accomplish something by using an entirely internal process...' why?
+Speech_0002L=PrGeu_A - Ay... the Americans say they will have to 'bootstrap' a shuttle launch if they want to save the astronauts on the ISS.
+Speech_0007L=PrGeu_B - It's that bad?
+Speech_0003L=PrGeu_A - It's worse... they say that since the wreckage of the first shuttle is still attached to the docking module, the crew will need to space walk to the rescue shuttle...
+Speech_0008L=PrGeu_B - ...that doesn't sound good...
+Speech_0004L=PrGeu_A - Well, it will be two weeks before they can even launch the shuttle, so it might not even matter...
+Speech_0009L=PrGeu_B - And I thought this ship was dangerous...
+Speech_0005L=PrGeu_A - This ship isn't moving at thirty thousand kilometers an hour.

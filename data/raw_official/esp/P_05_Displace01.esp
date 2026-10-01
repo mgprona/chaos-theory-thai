@@ -1,0 +1,738 @@
+[P_05_Displace01_AlarmCheck]
+POPUPMESSAGE_0008=Alarma de nivel uno
+Speech_-001L=(null)
+Speech_0001L=Ten cuidado con las alarmas. El edificio está infestado de mercenarios.
+POPUPMESSAGE_0009=Alarma de nivel dos - El enemigo se coloca el chaleco.
+Note_0012L=Los enemigos llevan chalecos blindados.
+Speech_-001L=(null)
+Speech_0002L=Va en serio. Si saltan muchas alarmas, los mercenarios irán a por ti.
+POPUPMESSAGE_0010=Alarma de nivel tres - El enemigo se coloca el casco.
+Note_0013L=Los enemigos llevan cascos.
+Speech_-001L=(null)
+Speech_0003L=¡Cuidado, Sam! Si salta una alarma más tendrás problemas.
+POPUPMESSAGE_0011=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+Note_0014L=Los enemigos han reforzado sus posiciones.
+Speech_-001L=(null)
+Speech_0006L=¡Maldita sea! ¡Todo el lugar está en alerta, Sam! Tendrás que buscarte una escapatoria, pero sin matar a nadie. Completa los objetivos primarios y sal de ahí.
+Speech_-001L=(null)
+Speech_0007L=Sam, se ha activado la alarma general. ¡Sal de ahí, rápido!
+Objective_0017=Insert tracer programs into Displace's division servers
+Objective_0018=Grimsdottir will be better able to monitor Displace's activities if you can insert tracer programs into the small servers in each of Displace's divisions
+Objective_0015=Discover the real identity of Milan Nedich.
+Objective_0016=Third Echelon's files draw a blank on the name Milan Nedich, Displace's VP of Protection Services. Find out what his real identity is.
+
+[P_05_Displace01_BGuardConvo]
+Speech_-001L=(null)
+Speech_0009L=Por lo visto, los astronautas han logrado recuperar el soporte vital de la Estación Espacial.
+Speech_0010L=¿Crees que lo conseguirán?
+Speech_0011L=No. Pero al menos han ganado algo de tiempo para intentar el rescate.
+Speech_0012L=¿Con la lanzadera?
+Speech_0013L=Sí. La NASA está reparando el ensamblaje del cohete, para ver si pueden despegar a tiempo.
+Speech_0014L=¿Y qué pasa con los chinos?
+Speech_0015L=Supongo que ya no nos hacen falta.
+Speech_0016L=Bueno, esperemos que no falle nada más.
+
+[P_05_Displace01_BGuardEvents]
+
+[P_05_Displace01_BGuardPCLoop]
+
+[P_05_Displace01_BGuardPre]
+
+[P_05_Displace01_ConferenceEvents]
+Speech_-001L=(null)
+Speech_0061L=Usted está preocupado por los costes, Tom, por lo que puedan pensar los contribuyentes. Pero es un error pensar en esos términos. Las escaleras son mucho más baratas que los ascensores, y sin embargo, no son una máxima en la construcción de rascacielos. 
+Speech_0041L=Claro, nadie va a subir setenta pisos por las escaleras.
+Speech_0042L=Pero nadie va a preguntarse cuánto cuesta un ascensor.
+Speech_0043L=Desde luego que no.
+Speech_0044L=Exacto, y le diré porqué. Porque el coste del ascensor no se mide en función de lo que se obtiene, sino de lo que se ahorra. Displace es cara, Tom, no voy a negarlo. Pero lo importante no es lo que cuesta contratarnos. Lo importante es lo que costaría no contratarnos. Cualquier puñado de pueblerinos con un M4 podría apostarse en una esquina y... ya sabe el resto. Al final, verá que confiar en la Guardia Nacional es como subir por las escaleras. Si quiere que esos cinco millones de ejecutivos trabajen cada día... tendrán que subir por el ascensor.
+Speech_0051L=Hmm. Tal vez tenga razón, Julian.
+Speech_0052L=Claro que la tengo. Vamos a hablar con Mikey.
+Speech_-001L=(null)
+Speech_0031L=Displace International es una CMP: una compañía militar privada dedicada a la asesoría y resolución de situaciones delicadas.
+Speech_-001L=(null)
+Speech_0032L=Nuestra misión es ofrecer a gobiernos y otros clientes legalmente reconocidos la posibilidad de resolver con rapidez y profesionalidad situaciones potencialmente conflictivas.
+Speech_-001L=(null)
+Speech_0033L=Displace mantiene una política muy estricta. Sólo aceptamos contratos de gobiernos, instituciones o movimientos de liberación moralmente justificados y reconocidos internacionalmente.
+Speech_-001L=(null)
+Speech_0034L=Displace no acepta contratos con terroristas, regímenes que sufren embargos, gobiernos u organizaciones que vulneran los derechos humanos, mafias internacionales, traficantes de armas o grupos que no respetan las convenciones de Ginebra.
+Speech_-001L=(null)
+Speech_0035L=Displace ofrece tres servicios clave, piedra angular de nuestro negocio: estrategia, logística y operativa.
+Speech_-001L=(null)
+Speech_0036L=Los servicios estratégicos de Displace incluyen planificación, investigación y análisis estratégicos, estudios de defensa, reorganización militar, y evaluación de amenazas.
+Speech_-001L=(null)
+Speech_0037L=En el apartado logístico, Displace suministra comunicaciones, transportes, servicios de personal, relaciones públicas, servicios de escolta y servicios de coordinación y mando.
+Speech_-001L=(null)
+Speech_0038L=En el frente operativo, Displace proporciona preparación para militares, policías, fuerzas especiales y de inteligencia, protección civil, desmilitarización, seguridad y misiones de paz. Además coordina y dirige operaciones de resolución de conflictos a todos los niveles.
+Speech_-001L=(null)
+Speech_0039L=La contratación de un servicio con Displace es un proceso que empieza con una presentación detallada de nuestras capacidades, y que comprende varias fases de evaluación y propuestas. Para más información, contacte con nosotros en www.displace.com.
+POPUPMESSAGE_0062=Consigue el algoritmo de acceso al servidor.
+Speech_0059L=Muy bien. Espere aquí. Voy a la otra sala a ultimar el papeleo, ¿de acuerdo?
+Speech_0040L=Usted está preocupado por los costes, Tom, por lo que puedan pensar los contribuyentes. Pero es un error pensar en esos términos. Las escaleras son mucho más baratas que los ascensores, y sin embargo, no son una máxima en la construcción de rascacielos. 
+
+[P_05_Displace01_DeactivationTimer]
+
+[P_05_Displace01_DHackSequence]
+POPUPMESSAGE_0032=Consigue el algoritmo de acceso al servidor.
+Speech_-001L=(null)
+Speech_0007L=Sam, si esperas a que se esté quieto, a lo mejor consigues hackear su portátil.
+Speech_0008L=Lo intento, Grim.
+Speech_-001L=(null)
+Speech_0009L=Has perdido tu oportunidad. Síguele. A lo mejor encuentras otra ocasión.
+Speech_0010L=De acuerdo.
+Speech_-001L=(null)
+Speech_0011L=Maldita sea, otra oportunidad perdida.
+Speech_0012L=Grim, no es tan fácil como parece.
+Speech_-001L=(null)
+Speech_0015L=Supongo que así también vale.
+Speech_0016L=La sutileza es para los que no tienen prisa.
+POPUPMESSAGE_0033=Consigue el algoritmo de acceso al servidor.
+POPUPMESSAGE_0034=Consigue el algoritmo de acceso al servidor.
+Speech_0035L=-GRIMSDOTTIR- Dammit, Sam, that laptop had the server access algorithm on it... you'll need to see if he has the info backed up on another server.
+Speech_0022L=Sam, ese portátil tenía el algoritmo de acceso al servidor central de Displace. Hay que encontrar otra forma de acceder.
+Speech_0023L=¿Sugerencias?
+Speech_0026L=Puede que ese ejecutivo haya sincronizado el portátil con algún otro servidor.
+Speech_0027L=Echaré un vistazo.
+Note_0029L=El algoritmo de acceso al servidor central está en un servidor local del área de entrenamiento.
+Speech_-001L=(null)
+Speech_0030L=Sam, ese portátil tenía el algoritmo de acceso al servidor. Averigua si su dueño copió la información en otro servidor.
+Note_0031L=El algoritmo de acceso al servidor central está en un servidor local del área de entrenamiento.
+
+[P_05_Displace01_DHackSuccess]
+POPUPMESSAGE_0012=Accede al servidor central en la sala del servidor.
+Speech_0014L=-GRIMSDOTTIR- Good work Sam, now you'll be able to access the central server on the first floor.
+Speech_0001L=Bien hecho, Sam. Ahora podrás acceder al servidor central del primer piso.
+Speech_0002L=Me encanta la tecnología inalámbrica.
+Speech_0003L=Bienvenido a la era Wi-Fi.
+Speech_0004L=Ya, es que yo soy de la generación Hi-Fi.
+Speech_0005L=¿Eso no fue antes de Cristo?
+Speech_0006L=Grrrr. Un día de estos me voy a enfadar... 
+Speech_-001L=(null)
+Speech_0011L=Bien hecho, Sam. Ahora podrás acceder al servidor central del primer piso.
+POPUPMESSAGE_0013=Accede al servidor central en la sala del servidor.
+Speech_-001L=(null)
+Speech_0007L=Ya tenemos el algoritmo de acceso. Ahora puedes entrar en el servidor central del primer piso.
+Speech_0008L=Lo encontraré.
+Note_0010L=El código del teclado entre la sala de reuniones y el vestíbulo es 8136.
+
+[P_05_Displace01_Elevators]
+Note_0010L=Con el suministro eléctrico restaurado, los ascensores del vestíbulo vuelven a funcionar.
+
+[P_05_Displace01_Emitters]
+
+[P_05_Displace01_ExecKO]
+
+[P_05_Displace01_ExecPolAlarm]
+
+[P_05_Displace01_ExecPostSearch]
+
+[P_05_Displace01_ExecPreSearch]
+
+[P_05_Displace01_InterroLobbyGuardA]
+Note_0021L=Hay un botiquín cerca de la sala del servidor.
+Speech_-001L=(null)
+Speech_0003L=Cuéntame algo útil y no te haré daño.
+Speech_0004L=He apostado por Fancy Nancy en la tercera carrera de mañana.
+Speech_0005L=Venga, sabes hacerlo mejor...
+Speech_0006L=Ah... uh... ¡Un botiquín! Hay botiquines en el servicio, cerca del laboratorio de I+D.
+Speech_0007L=¿Un botiquín? Gracias.
+Speech_-001L=(null)
+Speech_0010L=¿Cómo hago funcionar los ascensores?
+Speech_0011L=¿Los ascensores? Son un desastre desde el apagón. Ve al cuarto de contadores, junto al servidor principal, y mueve los interruptores.
+Speech_0012L=Los interruptores...
+Speech_0013L=Tienes que atravesar el área de I+D. El código de la puerta es 2109.
+Speech_0014L=Gracias. Muy amable.
+Speech_0015L=De... de nada.
+Note_0022L=El código de la sala del servidor es 2109.
+Speech_0016L=Por favor, no me hagas daño.
+Speech_0018L=Ten compasión...
+Note_0019L=El código de la sala del servidor es 2109.
+Note_0020L=Hay un botiquín cerca de la sala del servidor.
+
+[P_05_Displace01_InterroLobbyGuardB]
+Speech_-001L=(null)
+Speech_0003L=¿Cuánta gente tenéis en el edificio?
+Speech_0004L=No... no estoy seguro... Tal vez unos treinta...
+Speech_0005L=¿Tal vez? ¿Cuántos van armados?
+Speech_0006L=No lo sé muy bien. Tal vez veinte, o tal vez más.
+Speech_0007L=Son demasiados 'tal vez'.
+Speech_0008L=No se me da bien calcular.
+Speech_0009L=¿Qué tal se te da recibir golpes en el cráneo y quedar inconsciente unas cuantas horas?
+Speech_0012L=Por favor, no sé nada más.
+Speech_0014L=Me vas a hacer daño, ¿verdad?
+
+[P_05_Displace01_InterroNYC]
+Speech_-001L=(null)
+Speech_0001L=¿El Ayuntamiento va a contratar a Displace para proteger Manhattan?
+Speech_0002L=¡Ah! Dios mío... Eh, sí...
+Speech_0003L=Como fuerza paramilitar, Displace es buena. Pero usted ignora en lo que se está metiendo.
+Speech_0004L=¿Qué quiere decir?
+Speech_0005L=¿Se acuerda de la Mafia?
+Speech_0006L=Sí, me han contado historias horribles.
+Speech_0007L=Imagínese que la ciudad no está en deuda con una pandilla de matones italianos, sino con un ejército de psicópatas armados. Y leales al mejor postor.
+Speech_0008L=No suena nada bien.
+Speech_0009L=No fueron los bárbaros quienes destruyeron Roma, sino los legionarios traidores que llamaron a los bárbaros.
+Speech_0010L=Me está asustando.
+Speech_0011L=Lárguese mientras pueda.
+Speech_0013L=Estoy aterrado.
+Speech_0015L=Por favor, sólo soy un funcionario, no tengo poder.
+
+[P_05_Displace01_InterroOfficeExec]
+Speech_-001L=(null)
+Speech_0001L=Quiero el algoritmo de acceso al servidor.
+Speech_0004L=Eh... No puedo...
+Speech_0005L=¿Cómo que no puedes?
+Speech_0006L=El algoritmo tiene miles de caracteres. Está codificado en mi portátil, y también en un servidor cerca del vestíbulo.
+Speech_0007L=¿Cómo puedo entrar?
+Speech_0008L=El código del vestíbulo es 8136.
+Speech_0009L=Gracias.
+Note_0049L=El código del teclado entre la sala de reuniones y el vestíbulo es 8136.
+Speech_-001L=(null)
+Speech_0010L=¿Adónde vas?
+Speech_0011L=¡Ah! Yo... iba al centro de operaciones.
+Speech_0012L=¿Qué hay en la sala de conferencias?
+Speech_0013L=Un servidor. Lo sincronizo con el portátil para conseguir el algoritmo de acceso al servidor principal.
+Speech_0014L=Interesante.
+Speech_-001L=(null)
+Speech_0015L=Qué despacho más coqueto...
+Speech_0016L=¿Quién es usted?
+Speech_0017L=Alguien a quien debes tener miedo. Dame el algoritmo de acceso al servidor.
+Speech_0020L=No puedo hacerlo.
+Speech_0021L=¿Cómo que no puedes?
+Speech_0022L=El algoritmo tiene miles de caracteres. Está codificado en mi portátil, y también en un servidor de la sala de conferencias, al otro lado del vestíbulo.
+Speech_0023L=Gracias.
+Speech_-001L=(null)
+Speech_0024L=¿Dónde está el servidor principal?
+Speech_0027L=Ah... uh... Ala oeste, piso de abajo, al lado de los laboratorios de I+D... Pero necesitará el algoritmo de acceso al servidor.
+Speech_0028L=Llegas con retraso, socio.
+Speech_-001L=(null)
+Speech_0030L=Tienes pinta de ejecutivo. ¿A qué te dedicas?
+Speech_0031L=Soy Director de Desarrollo Comercial para Norteamérica.
+Speech_0034L=Vaya. ¿Cuánto te pagan por eso?
+Speech_0035L=El sueldo es el chocolate del loro. Soy accionista de tres minas de oro en Túnez. En teoría, soy multimillonario.
+Speech_0038L=Creo que me equivoqué de profesión.
+Speech_0039L=Puedo presentarle al Vicepresidente de Desarrollo Interno.
+Speech_0040L=Claro. ¿Dónde está su despacho?
+Speech_0041L=Último piso, como los demás ejecutivos.
+Speech_0042L=¿Y también el despacho de Nedich?
+Speech_0043L=¿Mi-Milan? Sí.
+Speech_0044L=Gracias.
+Speech_0045L=Por favor, no me haga daño...
+Speech_0047L=No me mate. Sólo soy un ejecutivo.
+Note_0048L=El código del teclado entre la sala de reuniones y el vestíbulo es 8136.
+
+[P_05_Displace01_InterroOfficeLounge]
+Speech_-001L=(null)
+Speech_0003L=¿Natural o mezcla?
+Speech_0004L=¿Cómo?
+Speech_0005L=La máquina de café. ¿Natural o descafeinado?
+Speech_0006L=Eh... No estoy seguro...
+Speech_0007L=Entonces dime algo útil cuanto antes.
+Speech_0008L=Para salir necesita el código de la puerta. Es 8136.
+Note_0016L=El código del teclado entre la sala de reuniones y el vestíbulo es 8136.
+Speech_0009L=Eso servirá.
+Speech_0010L=¿No quiere también leche y azúcar?
+Speech_0012L=Me da miedo el dolor.
+Speech_0013L=Vamos, vamos...
+Note_0014L=El código del teclado entre la sala de reuniones y el vestíbulo es 8136.
+
+[P_05_Displace01_InterroRDLounge]
+Speech_-001L=(null)
+Speech_0001L=¿Cómo funciona este juguetito?
+Speech_0004L=Eh... Miedo inducido por infrasonidos.
+Speech_0005L=¿Y funciona?
+Speech_0006L=Los resultados de las pruebas preliminares están en mi portátil. Diagramas... características...
+Speech_0009L=¿Cómo se utiliza?
+Speech_0010L=Estamos desarrollando un equipo de emisión colectiva, para disturbios. Pero el prototipo es individual.
+Speech_0011L=Muy apropiado.
+Note_0016L=Las investigaciones sobre armas ultrasónicas de Displace están en el ordenador de I+D.
+Speech_0012L=...mejora la conductividad de la piel...
+Speech_0014L=...los latidos fluctúan...
+Note_0015L=Las investigaciones sobre armas ultrasónicas de Displace están en el ordenador de I+D.
+
+[P_05_Displace01_InterroRoof]
+Speech_-001L=(null)
+Speech_0001L=¿Le pasa algo al aire acondicionado?
+Speech_0002L=¡Ah! ¿Quién... quién eres tú?
+Speech_0003L=Digamos que soy Harry el Tortuga...
+Speech_0004L=¿Quién?
+Speech_0005L=Un ingeniero de calefacción armado y con mal genio que quiere que le hables del sistema de aire acondicionado...
+Speech_0006L=No funciona muy bien desde el apagón. 
+Speech_0007L=Parar ese ventilador grande no debe ser muy difícil, ¿no?
+Speech_0008L=No lo sé. ¿Por qué quieres hacerlo?
+Speech_0009L=La emoción, la aventura.
+Speech_0010L=Entiendo.
+Note_0014L=El ventilador de la azotea puede desactivarse desde un interruptor.
+Speech_0011L=Haz lo que quieras con el ventilador, pero no me mates.
+Speech_0013L=No olvides rellenar el impreso 6, párrafo 27 bis.
+
+[P_05_Displace01_InterroSecGuard]
+Speech_-001L=(null)
+Speech_0001L=Ya sé que esta situación es embarazosa. Dime lo que quiero saber y fingiremos que esto nunca ha sucedido.
+Speech_0002L=De acuerdo. ¿Qué quieres saber?
+Speech_0005L=¿Cómo se entra a la sala del servidor principal?
+Speech_0006L=No estoy seguro. Creo que se ataja por I+D.
+Speech_0007L=Gracias.
+Speech_0008L=Diría 'ha sido un placer', pero...
+Speech_0009L=No, será mejor que no lo digas.
+Speech_-001L=(null)
+Speech_0012L=¿Cómo se entra a la sala del servidor principal?
+Speech_0013L=Por aquí no se puede pasar. Las puertas no funcionan.
+Speech_0014L=¿Hay otro camino?
+Speech_0015L=Creo que en el área de I+D se puede ir por los conductos del aire hasta la sala del servidor.
+Speech_0019L=Gracias.
+Speech_0016L=No se te ocurra hacer lo que estás pensando.
+Speech_0018L=Por favor, te he ayudado...
+
+[P_05_Displace01_InterroServElevator]
+Speech_-001L=(null)
+Speech_0001L=¿Qué estás haciendo?
+Speech_0008L=Estoy devolviendo la electricidad al ascensor central.
+Speech_0009L=Cuando funcione el ascensor, ¿podré subir hasta la planta de arriba?
+Speech_0010L=Sí.
+Speech_0011L=Entonces relájate. Yo me encargo del ascensor.
+Speech_0015L=Lo que tú digas.
+Speech_0012L=No me mates, por favor.
+Speech_0013L=Para que funcione el ascensor hay que dar al interruptor.
+
+[P_05_Displace01_InterroServerTech]
+Speech_-001L=(null)
+Speech_0003L=He tenido un problema con tu servidor.
+Speech_0004L=¡Por favor, no me mates!
+Speech_0005L=Han desviado los archivos que buscaba a otro ordenador.
+Speech_0006L=Aquí tiene que haber una copia.
+Speech_0007L=No. Sólo están en el ordenador de Milan Nedich.
+Speech_0008L=¿Milan? Es Vicepresidente de Seguridad. Su despacho está en la última planta.
+Speech_0009L=¿No te resulta extraño que esconda archivos?
+Speech_0010L=Supongo que sí.
+Speech_0014L=No sé nada más.
+Speech_0015L=Por favor, no me mates.
+
+[P_05_Displace01_InterroVIPExec]
+Speech_-001L=(null)
+Speech_0001L=Bonito traje. ¿Italiano?
+Speech_0002L=Oh, no... Eh, sí... Es italiano. De seda, un Andretti...
+Speech_0003L=¿Quién es Andretti?
+Speech_0004L=¿Andretti? El famoso diseñador de trajes masculinos.
+Speech_0005L=No me gusta vestir de etiqueta.
+Speech_0006L=Usted es una especie de espía...
+Speech_0007L=Pero de los de verdad, no de los que llevan frac. Un espía que te llenará el traje de sangre si no le das la información...
+Speech_0008L=No, por favor, no me manches el traje...
+Speech_0009L=Dime el código de la puerta.
+Speech_0010L=El despacho del gerente... 2609
+Note_0016L=El código de la oficina del director es 2609.
+Speech_0013L=Si me mancho el traje, mi mujer me mata.
+Speech_0014L=No me lo arrugue, por favor.
+Note_0015L=El código de la oficina del director es 2609.
+
+[P_05_Displace01_InterroVIPSol]
+Speech_-001L=(null)
+Speech_0001L=Te tengo.
+Speech_0002L=¿Qué demonios haces tú aquí?
+Speech_0003L=Cuéntame algo útil y me esfumo.
+Speech_0004L=Olvídalo. No pienso decirte nada.
+Speech_0005L=¿Ah, no? Estamos en el piso 60.
+Speech_0006L=¿Qué quieres decir?
+Speech_0009L=Dicen que te desmayas antes de llegar al suelo, pero es mentira: lo ves acercarse hasta el último segundo.
+Speech_0010L=No serías capaz...
+Speech_0011L=¿Quieres que te lo demuestre?
+Speech_0012L=El código de las oficinas de los ejecutivos es 2346.
+Note_0017L=El código de la puerta del despacho de reuniones del presidente es 2346.
+Speech_0013L=Tengo pánico a las alturas...
+Speech_0015L=No le diré a nadie que estás aquí.
+Note_0016L=El código de la puerta del despacho de reuniones del presidente es 2346.
+
+[P_05_Displace01_Lambert]
+POPUPMESSAGE_0081=Consigue el algoritmo de acceso al servidor.
+Speech_0089L=-GRIMSDOTTIR- Sam, you need the access codes form the Executive's laptop. See if you can tap into it wirelessly.
+Speech_0017L=Fisher, ese ejecutivo tal vez guarde en el portátil el algoritmo de acceso diario al servidor central de Displace.
+Speech_0018L=Lambert fue muy estricto: nada de matar.
+Speech_0019L=Si te acercas lo suficiente puedes hackear su portátil.
+Speech_0020L=Lo intentaré.
+Note_0069L=El algoritmo de acceso al servidor central está en el portátil del directivo.
+Note_0082L=Las ventanas electrocromáticas pueden volverse opacas o transparentes con el PO.
+Speech_0090L=-REDDING- The windows are made with electrochromic glass. Specifications on your OPSAT.
+Speech_0021L=Guau.
+Speech_0022L=Qué cosa más rara.
+Speech_0023L=Eso es una ventana electrocromática. Una pequeña carga eléctrica cambia la opacidad de unos cristales microscópicos incrustados en el cristal.
+Speech_0024L=Ajá.
+Speech_0025L=A lo mejor puedes cambiar el estado de las ventanas con el Potenciador Óptico. Voy a cargar las características en tu ENSAT.
+Speech_0026L=Gracias, Will.
+Note_0083L=Las ventanas electrocromáticas pueden volverse opacas o transparentes con el PO.
+Speech_-001L=(null)
+Speech_0078L=Esas ventanas son de cristal electrocromático. Las características están en tu ENSAT.
+Speech_0091L=-REDDING- Milan Nedich. VP Protection Operations...Displace International.
+Speech_0027L=Milan Nedich. Vicepresidente de Seguridad, Displace International.
+Speech_0028L=¿Era el encargado de proteger a Morgenholt en Perú?
+Speech_0029L=Sí, y ahora se encarga de Zherkezhi... Increíble, está limpio del todo. Alguien debe de haber borrado sus datos.
+Speech_0032L=Sea quien sea, está jugando a dos bandas. Hay que informar a Shetland.
+Speech_0033L=Deja a Shetland. No podemos arriesgar la operación por intereses privados.
+Speech_0034L=Entonces averiguaré qué se oculta detrás de ese vacío de datos.
+Speech_-001L=(null)
+Speech_0080L=Milan Nedich. Vicepresidente de Seguridad... Displace International.
+Note_0084L=Tal vez accedas a la sala del servidor central desde el sistema de ventilación de I+D.
+Speech_0087L=-GRIMSDOTTIR- It looks like some employees managed to get stuck between the double doors leaving to the server room. You'll have to find another way in there.
+Speech_0035L=Hay un problema. Dos empleados han quedado bloqueados entre las puertas que llevan a la sala del servidor.
+Speech_0038L=Va a ser complicado pasar por ahí.
+Speech_0039L=Sí, pero quizás haya otra salida. Parece que esta parte del edificio tiene unos conductos de ventilación para disipación de calor. Puedes llegar hasta allí si atraviesas la sección de I+D.
+Speech_0040L=Lo intentaré.
+Speech_-001L=(null)
+Speech_0074L=Dos empleados han quedado atrapados en la doble puerta que conduce a la sala del servidor. Tienes que hallar otra forma de entrar.
+Note_0085L=Tal vez accedas a la sala del servidor central desde el sistema de ventilación de I+D.
+Speech_0088L=-GRIMSDOTTIR- Check for a ventilation system. You might be able to find a way through.
+Speech_0001L=Debe haber una forma de llegar a la sala del servidor desde ahí.
+Speech_0002L=La galería de tiro tendrá algún sistema de ventilación para despejar el humo, y probablemente enlace con el aire acondicionado de la sala del servidor.
+Speech_0003L=Bien pensado.
+Note_0086L=Tal vez accedas a la sala del servidor central desde el sistema de ventilación de I+D.
+Speech_-001L=(null)
+Speech_0076L=Busca el sistema de ventilación. Tal vez te sirva para llegar allí.
+Speech_-001L=(null)
+Speech_0004L=Eh... Siento interrumpir, pero...
+Speech_0005L=Ya veo.
+Speech_0006L=Ha vuelto la corriente.
+Speech_0007L=Ya lo sé, Grim.
+Speech_0008L=Tienes compañía. Deberías...
+Speech_0009L=¡Ya lo sé!
+Speech_-001L=(null)
+Speech_0010L=Eh... Siento interrumpir, pero...
+Speech_0011L=Y dijo: 'Hágase la luz.'
+Speech_0012L=Los neoyorquinos se van a poner muy contentos.
+Speech_0013L=¿Seguro que todos?
+Speech_0014L=Bueno, los dos tipos atrapados entre las puertas no parecen tan contentos.
+Speech_0015L=Es que ellos aún siguen a oscuras.
+Speech_0016L=Cierto.
+Speech_-001L=(null)
+Speech_0041L=Sam, para subir a los pisos superiores tienes que restablecer la corriente de los ascensores de Displace.
+Speech_0042L=De acuerdo.
+Speech_-001L=(null)
+Speech_0043L=Sam, escóndete.
+Speech_0046L=¿Y cómo? El ascensor es de cristal.
+Speech_0047L=Pues alguien está bajando en el otro ascensor de cristal.
+Speech_0048L=Genial, qué bien.
+Note_0073L=El código de acceso a la salida de incendios es 3485.
+Speech_-001L=(null)
+Speech_0050L=Fisher, creo que nos enfrentamos a una conspiración orquestada para provocar una crisis mundial. Zherkezhi es uno de los mayores expertos en Guerra Informática del mundo; y Displace es una organización paramilitar con un armamento que supera al de muchos países. Hay que averiguar si es una coincidencia, o si alguien en Displace está tramando algo gordo. Pero recuerda que el Departamento de Estado tiene contratos firmados con Displace. Puesto que hay intereses políticos, debes hacer un trabajo limpio. Sólo reconocimiento. Nada de bajas.
+Speech_-001L=(null)
+Speech_0051L=Las oficinas de Displace están en Manhattan, en los tres últimos pisos de la torre del Centro Hantz. Al parecer, han hecho una gran inversión en infraestructuras para mantener plena capacidad operativa en caso de que se produzca un atentado terrorista.
+Speech_-001L=(null)
+Speech_0052L=El satélite confirma los datos de Grim. Displace está funcionando a plena capacidad. Es posible que hayan ofrecido al Ayuntamiento de Nueva York servicios de protección y policiales para complementar a la Guardia Nacional. Están bien preparados y son oportunistas, pero no creo que haya nada más. Como inversor, quiero creer que están limpios, pero si el jefe quiere que los investiguemos, eso es lo que vamos a hacer.
+Speech_-001L=(null)
+Speech_0055L=Es una misión de reconocimiento. Indaga si Displace y Zherkezhi trabajan juntos, pero no mates a nadie.
+Speech_-001L=(null)
+Speech_0056L=Sam, para subir a los pisos superiores tienes que restablecer la corriente de los ascensores de Displace.
+Speech_-001L=(null)
+Speech_0061L=Necesitas los códigos de acceso del portátil. Intenta entrar en él con una conexión inalámbrica.
+Speech_-001L=(null)
+Speech_0067L=Cuando llevamos 48 horas de apagón, los estados de Nueva York, Nueva Jersey, Connecticut, Massachusetts y Pennsylvania han autorizado el despliegue de la Guardia Nacional para mantener el orden ante los brotes de violencia.
+Speech_0068L=Esta mañana, el USS Walsh ha zarpado de Pearl Harbor, Hawai, en su travesía hacia el Mar Amarillo. El Walsh ha sido escoltado por su nave gemela durante cincuenta millas. Se espera que llegue al Mar Amarillo en un par de días y que asuma el mando  del Grupo de Portaaviones Reagan.
+Note_0070L=Tal vez accedas a la sala del servidor central desde el sistema de ventilación de I+D.
+Note_0071L=Tal vez accedas a la sala del servidor central desde el sistema de ventilación de I+D.
+Note_0072L=Las ventanas electrocromáticas pueden volverse opacas o transparentes con el PO.
+Note_0075L=Tal vez accedas a la sala del servidor central desde el sistema de ventilación de I+D.
+Note_0077L=Tal vez accedas a la sala del servidor central desde el sistema de ventilación de I+D.
+Note_0079L=Las ventanas electrocromáticas pueden volverse opacas o transparentes con el PO.
+
+[P_05_Displace01_LobbyCameras]
+
+[P_05_Displace01_LobbyChairLoop]
+
+[P_05_Displace01_LobbyEvent]
+
+[P_05_Displace01_LobbyGFConvo]
+POPUPMESSAGE_0008=Consigue el algoritmo de acceso al servidor.
+Speech_-001L=(null)
+Speech_0008L=-NYCCiv_Tom- So what did you wanna show me?
+Speech_0002L=En el vestíbulo del Empire State puede ver cuatro obras de latón. Piezas de Art Deco. Cada una representa una de las cuatro máximas en la construcción de rascacielos.
+Speech_0003L=¿Máximas? ¿Se refiere a ingeniería, finanzas, propiedades?
+Speech_0004L=No, no, no. Maquinaria. Hormigón. Decoración. Y ascensores. Ascensores como éste de aquí.
+Speech_0005L=Lo siento, no le comprendo...
+Speech_0006L=Verá, cada día, cinco millones de ejecutivos neoyorquinos suben y bajan en ascensores. Ascensores sin los cuales no podrían hacer su trabajo.
+Speech_0007L=¿Y...?
+Speech_0001L=¿Y bien? ¿Qué iba a enseñarme?
+
+[P_05_Displace01_LobbyMezzConvo]
+POPUPMESSAGE_0009=Consigue el algoritmo de acceso al servidor.
+Speech_-001L=(null)
+Speech_0008L=¿Y bien? ¿Qué iba a enseñarme?
+Speech_0002L=En el vestíbulo del Empire State puede ver cuatro obras de latón. Piezas de Art Deco. Cada una representa una de las cuatro máximas en la construcción de rascacielos.
+Speech_0003L=¿Máximas? ¿Se refiere a ingeniería, finanzas, propiedades?
+Speech_0004L=No, no, no. Maquinaria. Hormigón. Decoración. Y ascensores. Ascensores como éste de aquí.
+Speech_0005L=Lo siento, no le comprendo...
+Speech_0006L=Verá, cada día, cinco millones de ejecutivos neoyorquinos suben y bajan en ascensores. Ascensores sin los cuales no podrían hacer su trabajo.
+Speech_0007L=¿Y...?
+POPUPMESSAGE_0010=Consigue el algoritmo de acceso al servidor.
+Speech_0001L=¿Y bien? ¿Qué iba a enseñarme?
+
+[P_05_Displace01_LobbySecGuard]
+
+[P_05_Displace01_LobbyWindow]
+POPUPMESSAGE_0005=Consigue el algoritmo de acceso al servidor.
+Speech_-001L=(null)
+Speech_0004L=Antes de seguir, fíjese en estas ventanas.
+Speech_0002L=Me gustan. Habrá que ponerlas en el Ayuntamiento.
+Speech_0003L=Mándeme un correo electrónico. Le haré un descuento.
+Speech_0001L=Antes de seguir, fíjese en estas ventanas.
+
+[P_05_Displace01_MemorableMoment]
+
+[P_05_Displace01_NoKill]
+Speech_-001L=(null)
+Speech_0001L=Te dije que no quería muertos, Fisher. Se acabó. Misión cancelada.
+
+[P_05_Displace01_Objectives]
+Objective_0001=DESCONECTANDO...
+Objective_0095=Displace no debe descubrir que estamos llevando a cabo una investigación secreta sobre sus actividades. Si matas a alguno en tu misión, ésta fracasará.
+Objective_0038=Consigue el algoritmo de acceso al servidor.
+Objective_0096=Consigue el algoritmo de acceso al servidor central hackeando el portátil del ejecutivo en la sala de reuniones, o comprobando si hay algún backup del área de entrenamiento.
+Objective_0039=Accede al servidor central en la sala del servidor.
+Objective_0097=Entra en al servidor central para ver si Displace es cómplice de Zherkezhi en sus posibles delitos. Busca la forma de colarte a través del área de I+D.
+POPUPMESSAGE_0113=No mates a nadie.
+Speech_0121L=-LAMBERT- Fisher, this is  a recon mission. Find out if Displace and Zherkezhi are working together and do not kill anyone.
+Speech_0013L=Fisher, hay que averiguar si Displace y Zherkezhi trabajan juntos.
+Speech_0043L=Pero mientras tanto, hay que mantenerlo en secreto.
+Speech_0044L=No mates a nadie o cancelaré la misión. El Pentágono tiene contratos con Displace por todo el mundo. El Presidente no debe enterarse de lo que estamos haciendo.
+Objective_0082=Instala un programa de rastreo en los servidores de Displace.
+Objective_0098=Grimsdottir podrá controlar las actividades de Displace si instalas algún software de rastreo en los servidores secundarios de las divisiones de Displace.
+Speech_0122L=-GRIMSDOTTIR- Sam, it would be a big help if you could tap the servers in each of Displace's divisions with a little program I whipped up and put on your OPSAT.
+Speech_0016L=Cada sección de Displace parece tener su propio servidor. He cargado un programa en tu ENSAT para que puedas entrar en sus redes por la puerta trasera.
+Speech_0048L=¿Quieres que lo instale en el servidor de cada sección?
+Speech_0049L=Te estaría muy agradecida.
+Speech_0050L=Como deseéis, princesa...
+Speech_-001L=(null)
+Speech_0110L=Sam, me vendría muy bien si hackearas los servidores de todas las secciones de Displace con un programa que he cargado en tu ENSAT.
+Objective_0011=Descubre quién está a cargo de la seguridad de Zherkezhi.
+Objective_0099=Busca en los servidores de Displace algún dato sobre el programa de protección para Zherkezhi y quién es su responsable.
+Objective_0008=Sal por el punto de extracción principal.
+Objective_0100=Para la extracción, sube a la azotea por las escaleras de incendio, en la zona sur de la planta alta.
+POPUPMESSAGE_0114=Sal hacia el punto de extracción principal.
+Objective_0094=Busca información que relacione a Displace con Zherkezhi.
+Objective_0101=El usuario 'mnedich' ha borrado ficheros sobre la protección de Zherkezhi que había en el servidor central. Verifica si queda algo en el ordenador de su oficina, en la planta alta.
+Objective_0125=Descubre quién es en realidad Milan Nedich.
+Objective_0126=Los archivos de Third Echelon no tienen nada sobre Milan Nedich, el vicepresidente de los servicios de protección de Displace. Hay que averiguar su verdadero nombre.
+Note_0127L=El micrófono láser es parte de tu VE (Visor electrónico).
+POPUPMESSAGE_0115=Busca información que relacione a Displace con Zherkezhi.
+Speech_-001L=(null)
+Speech_0054L=Han desviado los datos que necesitamos del servidor. El nombre de registro es M. Nedich.
+Speech_-001L=(null)
+Speech_0020L=¿Milan Nedich?
+Speech_0057L=Ese nombre aparece en un muchos expedientes, pero no tenemos nada firme.
+Speech_0119L=-LAMBERT- Hmm... the data appears to have been moved to the terminal of Mnedich...Displace VP of Protection Operations... we'll need access to his computer in the Upper Offices.
+Speech_0058L=¿M. Nedich? ¿Quién es?
+Speech_0059L=Aquí hay algo. Parece que es el Vicepresidente de seguridad de Displace.
+Speech_0060L=¿Fue él quien protegió a Zherkezhi y Morgenholt? O es un incompetente, o un corrupto.
+Speech_0061L=En Echelon no hay nada sobre él. Es como si lo hubieran borrado.
+Speech_-001L=(null)
+Speech_0062L=Puede ser un seudónimo. Intentaré averiguar su identidad.
+Speech_0063L=Sea como sea, tenemos que acceder a su ordenador. Su despacho debe estar en los pisos de arriba.
+Objective_0107=Busca información que relacione a Displace con Zherkezhi.
+Objective_0108=El usuario 'mnedich' ha borrado ficheros sobre la protección de Zherkezhi que había en el servidor central. Verifica si queda algo en el ordenador de su oficina, en la planta alta.
+POPUPMESSAGE_0116=Busca información que relacione a Displace con Zherkezhi.
+Speech_-001L=(null)
+Speech_0109L=Los datos han sido desviados a la terminal de M. Nedich. Vicepresidente de Seguridad de Displace. Hay que acceder a su ordenador. Está en las oficinas de arriba.
+Speech_0120L=(null)
+Speech_0064L=Hokkaido.
+Speech_0067L=¿Hokkaido? ¿Eso no es como la Alaska del Japón?
+Speech_0068L=Al parecer, Milan Nedich ha trasladado allí a Zherkezhi, en secreto.
+Speech_0069L=Definitivamente,  tenemos que hablar con Shetland.
+Speech_0070L=Eso que lo solucione el Departamento de Estado. Tú te vas a Hokkaido. Vamos a mandar un helicóptero para sacarte de la azotea
+Speech_-001L=(null)
+Speech_0106L=Milan Nedich ha trasladado a Zherkezhi en secreto a Hokkaido, en Japón. Vamos a enviar un helicóptero para sacarte de la azotea.
+Speech_0123L=-REDDING- Milan Nowak... that's Nedich's real name. Turns out he's the Barber of Bosnia. Suspected war criminal from the Bosnian conflict.
+Speech_0073L=Muy bien. El verdadero nombre de Nedich es... cielos... Milos Nowak...
+Speech_0074L=¿Milos Nowak? ¿Quién es ése?
+Speech_0077L=El Peluquero de Bosnia. Acusado de arrancar el cuero cabelludo a los prisioneros en la Guerra de Bosnia.
+Speech_0078L=¿Reclamado por La Haya?
+Speech_0079L=Sí.
+Speech_0080L=Me juego cien pavos a que no llega al juicio.
+Speech_0081L=Creo que mi dinero está más seguro en la Bolsa.
+Speech_-001L=(null)
+Speech_0112L=El verdadero nombre de Nedich es Milos Nowak. Llamado el Peluquero de Bosnia. Acusado de crímenes de guerra.
+Objective_0092=Consigue las especificaciones técnicas del generador de ultrasonidos.
+Objective_0103=La división de I+D de Displace tiene un prototipo de munición no letal que usa infrasonidos. Busca la hoja técnica.
+Objective_0093=Consigue los informes técnicos de las investigaciones de Displace sobre torretas.
+Objective_0104=La división de I+D de Displace desarrolla un programa de investigación de armas en trípode. Busca las especificaciones de esas torretas.
+Speech_-001L=(null)
+Speech_0083L=Buen trabajo. Ése era el primer servidor. Si consigues instalar el programa en los demás, podré controlar lo que hacen en cualquier momento.
+Speech_0084L=Veré qué puedo hacer.
+Speech_-001L=(null)
+Speech_0085L=Buen trabajo, Sam. Instala el programa en el último servidor y seré la chica más feliz del mundo.
+Speech_0086L=Eres fácil de complacer.
+Speech_0087L=No siempre, Sam, no siempre.
+Speech_0124L=-GRIMSDOTTIR- Way to go Sam. Now I can peruse Displace's divisional files at my leisure.
+Speech_0088L=Gracias, Sam. Ése era el último. Estoy deseando husmear en los trapos sucios de Displace.
+Speech_0089L=¡Anda, ahora que hablas de trapos...!
+Speech_0090L=¿Qué pasa?
+Speech_0091L=Que olvidé tender la ropa.
+Speech_-001L=(null)
+Speech_0111L=Lárgate, Sam. Ya puedo curiosear en los archivos de Displace a mi antojo.
+Note_0105L=El ventilador de la azotea puede desactivarse desde un interruptor.
+Objective_0072=Descubre quién es en realidad Milan Nedich.
+Objective_0102=Los archivos de Third Echelon no tienen nada sobre Milan Nedich, el vicepresidente de los servicios de protección de Displace. Hay que averiguar su verdadero nombre.
+Objective_0128=Sal por el punto de extracción principal.
+Objective_0131=Sal por el punto de extracción principal.
+Objective_0132=Para la extracción, sube a la azotea por las escaleras de incendio, en la zona sur de la planta alta.
+Objective_0129=Para la extracción, sube a la azotea por las escaleras de incendio, en la zona sur de la planta alta.
+POPUPMESSAGE_0130=Sal por el punto de extracción principal.
+POPUPMESSAGE_0133=Sal por el punto de extracción principal.
+
+[P_05_Displace01_OfficeEvents]
+Speech_-001L=(null)
+Speech_0001L=Sí, para garantizar la seguridad a ese nivel puede recurrirse a la Guardia Nacional, pero reconozca que se trata de una organización enorme y engorrosa.
+Speech_0002L=Pero conviene que se note su presencia.
+Speech_0020L=Al contrario. La gente quiere seguridad y necesita seguridad, pero sin percibirla. Los hombres armados les asustan. Desplegar a la Guardia Nacional por todos los rincones mantendrá el orden, pero ¿a qué precio?
+Speech_0021L=De eso se trata, de precios. Lo que la gente tiene en cuenta es que la Guardia Nacional es barata. Tengo que responder antes los contribuyentes, y lo último que quiero es otro escándalo contable.\n
+Speech_0022L=Ya veo
+Speech_0023L=¿Qué?
+Speech_0024L=Venga. Quiero enseñarle algo.
+
+[P_05_Displace01_OfficeLoungeLoop]
+
+[P_05_Displace01_OfficeLoungeRadio]
+
+[P_05_Displace01_OfficeOpsConvo]
+POPUPMESSAGE_0008=Consigue el algoritmo de acceso al servidor.
+Speech_-001L=(null)
+Speech_0007L=Hola, Mike. Te he traído a Tom.
+Speech_0002L=Jules, Tom... Estamos listos para empezar con la presentación.
+Speech_0003L=Olvídate de la presentación, Mike. Tom está convencido, ¿verdad, Tom?
+Speech_0004L=Eh... Bueno, más o menos.
+Speech_-001L=(null)
+Speech_0005L=Muy bien. Espere aquí. Voy a la otra sala a ultimar el papeleo, ¿de acuerdo?
+Speech_0006L=De acuerdo.
+Speech_0001L=Hola, Mike. Te he traído a Tom.
+
+[P_05_Displace01_OfficeProjector]
+Speech_0001L=Ventanas electrocromáticas: su ventana hacia el futuro.
+Speech_0002L=La tecnología de ventanas electrocromáticas de Dinavisión está en la vanguardia de la investigación sobre nuevas energías y materiales.
+Speech_0003L=Nuestras ventanas ahorran energía y constituyen un elemento arquitectónico de una belleza única para su hogar o su oficina.
+Speech_0004L=¿Cómo funciona esta asombrosa tecnología?
+Speech_0005L=Sencillo. Se trata de una lámina de óxido de tungsteno emparedada entre dos hojas de cristal. Cuando se aplica una corriente eléctrica al óxido de tungsteno, éste sufre una alteración química y pasa de estado transparente a opaco, o viceversa.
+Speech_0006L=El estado de las ventanas puede controlarse mediante interruptores ordinarios. O, usando la exclusiva tecnología de conducción dérmica Transglaze, puede cambiarse localmente el estado de la ventana son el simple contacto de un dedo. Sea cual sea el estado de la ventana, no necesita energía de mantenimiento, lo que supone un ahorro de veinticuatro horas al día.
+Speech_0007L=Llame a Dinavisión, y nosotros evaluaremos su hogar y su oficina para equiparlos con una ventana electrocromática. Usted no sólo se beneficiará de una reducción en el consumo eléctrico, sino que podrá recibir una subvención del gobierno por ahorro responsable de energía. Llame ahora, y le regalaremos la tecnología Dermis Conductora Transglaze.
+
+[P_05_Displace01_OpsRandomLoop]
+
+[P_05_Displace01_OpsWorkLoop]
+
+[P_05_Displace01_RDDerekRandom]
+
+[P_05_Displace01_RDEvents]
+Speech_-001L=(null)
+Speech_0019L=Es un trabajo muy cómodo, eso seguro.
+Speech_0020L=Me han dicho que el tipo es insoportable.
+Speech_0021L=No está aquí. Se ha ido de la ciudad.
+Speech_0022L=¿Y sólo hay que vigilar sus cosas?
+Speech_0023L=Sí. Beberse su mueble bar, divertirse con los videojuegos. Tiene el último Príncipe de Persia.
+Speech_0024L=Creo que es alucinante.
+Speech_0025L=Va a ser el Juego del Año, seguro.
+Speech_0026L=-DisSol_B- Can't wait to play it.
+Speech_0004L=Mira esto: es un generador de infrasonidos.
+Speech_0005L=Qué interesante. ¿Para qué sirve?
+Speech_0006L=Sabes que el miedo y la ansiedad provocan respuestas fisiológicas.
+Speech_0007L=¿Y bien?
+Speech_0008L=Las vibraciones infrasónicas provocan esas mismas respuestas. Así que, si usas infrasonidos para inducir la respuesta del miedo, provocas ansiedad real en el sujeto.
+Speech_0011L=Ya entiendo... Haces que el cuerpo reaccione como si estuviera asustado, y consigues que alguien se asuste de verdad.
+Speech_0012L=Exacto. Es invertir la causa-efecto, como con el perro de Paulov.
+Speech_0017L=¡Guau! Vamos a hacernos ricos.
+Speech_0018L=Yo ya soy rico... Pero ahora voy a ser mega-rico.
+
+[P_05_Displace01_RDTechConvo]
+Speech_-001L=(null)
+Speech_0001L=¿Qué vas a hacer durante el puente?
+Speech_0002L=¡Anda, el 4 de julio! ¡Se me había olvidado!
+Speech_0003L=¿Cómo se te puede olvidar eso?
+Speech_0004L=Ya sabes, con estos turnos tan raros, ya ni siquiera sé en qué día vivo.
+Speech_0005L=Ya... Te entiendo. Anne-Marie y yo pensamos irnos a Maine, alojarnos en un pequeño hotel rural, ponernos morados de langosta...
+Speech_0006L=¿En Maine ya tienen electricidad?
+Speech_0007L=Bah, ¿y para qué la queremos?
+Speech_0008L=Je je, ya sé a qué te refieres.
+
+[P_05_Displace01_RDTurret]
+
+[P_05_Displace01_RDVaclavRandom]
+
+[P_05_Displace01_RoofEvents]
+Speech_-001L=(null)
+Speech_0002L=Marco me ha dicho que te pregunte cuándo vas a terminar de arreglar el aire acondicionado.
+Speech_0008L=No sé. Dentro de un rato.
+Speech_0009L=Marco dice que te des prisa, que el aire está muy cargado.
+Speech_0010L=Me importa un bledo lo que diga Marco. No lo conozco.
+Speech_0011L=Se lo diré de tu parte.
+Speech_0012L=Me da igual.
+Speech_0013L=Te vas a meter en un lío.
+Speech_0014L=Seguro.
+
+[P_05_Displace01_RoofSolRandom]
+
+[P_05_Displace01_RoofTech]
+
+[P_05_Displace01_RoofVentilation]
+
+[P_05_Displace01_SecurityEvents]
+Speech_-001L=(null)
+Speech_0009L=Aguanta. Creo que lo tengo.
+Speech_0010L=De prisa, me estoy cansando.
+Speech_0011L=Voy a conectar este cable aquí y entoncesss...
+Speech_0012L=¿Qué?
+Speech_0013L=Entonces... mierda.
+Speech_0016L=Estoy harto. Voy a dar la alarma.
+Speech_0017L=Espera un momento.
+Speech_0018L=Llevo esperando más de una hora.
+Speech_-001L=(null)
+Speech_0019L=Esta vez me voy a asegurar. A ver, la toma de tierra... Está todo listo.
+Speech_0022L=Tú sí que vas a estar listo como no abras la puerta.
+Speech_0023L=A ver... Esto lo conecto aquí... Ahora esto otro y... ¡Bingo!
+Speech_0024L=Con que Bingo, ¿eh?
+Speech_0025L=No ha sido culpa mía. Todo es por el maldito apagón.
+Speech_-001L=(null)
+Speech_0026L=Bueno, ya era hora.
+Speech_0027L=Ya te dije que era culpa del apagón, no mía.
+Speech_0032L=Lo que tú digas. De todas formas, hay que darse prisa.
+Speech_0033L=Yo comprobaré el servidor para asegurarme de que no se ha fundido nada al volver la corriente.
+Speech_0034L=Si necesitas algo, dame una voz.
+Speech_0035L=De acuerdo.
+
+[P_05_Displace01_ServerCamera]
+
+[P_05_Displace01_ServerRandom]
+
+[P_05_Displace01_SRC]
+Speech_-001L=(null)
+Speech_0001L=Es un trabajo muy cómodo, eso seguro.
+Speech_0004L=Me han dicho que el tipo es insoportable.
+Speech_0005L=No está aquí. Se ha ido de la ciudad.
+Speech_0006L=¿Y sólo hay que vigilar sus cosas?
+Speech_0007L=Sí. Beberse su mueble bar, divertirse con los videojuegos. Tiene el último Príncipe de Persia.
+Speech_0010L=Creo que es alucinante.
+Speech_0011L=Va a ser el Juego del Año, seguro.
+Speech_0012L=A ver si lo pruebo.
+
+[P_05_Displace01_VIPCEO]
+
+[P_05_Displace01_VIPEvents]
+Speech_-001L=(null)
+Speech_0001L=No me fío de Milan. Me han contado cosas espeluznantes de él.
+Speech_0051L=Sí. El mes pasado se emborrachó con unos compañeros en Estambul, y salió del bar buscando camorra. Lo encontraron a la mañana siguiente, cubierto de sangre.
+Speech_0060L=¿Qué?
+Speech_0061L=Stan cree que mató a alguien. Al día siguiente leyó en el periódico que la policía turca había encontrado a un individuo despedazado a un par de manzanas del bar.
+Speech_0054L=Aggg.
+Speech_0055L=Si quieres, podemos entrar en el ordenador que tiene en la oficina, a ver si encontramos algo.
+Speech_0057L=El código de esa área es 2346, pero el de la oficina no lo sé.
+Speech_0058L=Si me entero de cuál es, te vienes conmigo.
+Speech_0059L=De acuerdo.
+Note_0066L=El código del despacho de reuniones del presidente es 2346.
+
+[P_05_Displace01_VIPLaserMic]
+Speech_-001L=(null)
+Speech_0001L=Siento avisarle tan tarde, pero tenemos que asignar más hombres a Zherkezhi y hemos pensado en usted.
+Speech_0002L=¿Zherkezhi? ¿No es el chalado del ático?
+Speech_0003L=Sí, pero es mejor no llamar chalados a los clientes. Hay que vigilar su ático. Milos Nowak ha... esto...
+Speech_0004L=¿Quién?
+Speech_0005L=Milan Nedich. Siempre me lío con los nombres eslavos. Zherkezhi no está, así que no tenemos que cuidar a ningún VIP, sólo vigilar el inmueble.
+Speech_0006L=Muy bien. Parece sencillo.
+Speech_0007L=Bueno, hasta ahora ha ido como la seda. Cobrará el complemento por escoltar a un VIP, y sin complicarse la vida.
+Speech_0008L=Lo capto.
+Speech_0009L=Bien. Mañana preséntese a las trece cero cero.
+Speech_0010L=Seré puntual.
+
+[P_05_Displace01_VIPLoungeChair]
+

@@ -1,0 +1,580 @@
+[P_11_KokuboSosho_AlarmCheck]
+POPUPMESSAGE_0001=Alarm Stage Reduced - Enemies Standing Down - Removing Helmets
+POPUPMESSAGE_0002=Alarm Stage Reduced - Enemies Standing Down - Removing Body Armor
+POPUPMESSAGE_0003=Alarm Stage Reduced - Enemies Standing Down
+
+[P_11_KokuboSosho_BasementGuards]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - Watch where you're point that thing.
+Speech_0002L=SOLDIER - Ah... relax... it's non-lethal anyway.
+Speech_0003L=SOLDIER - Yeah? You ever been hit by one of those?
+Speech_0004L=SOLDIER - No...
+Speech_0005L=SOLDIER - Well... Mamuro has... and I don't want to end up like him.
+Speech_0006L=SOLDIER - Really?
+Speech_0007L=SOLDIER - Hunh?
+Speech_0008L=SOLDIER - See. It made him stupid.
+Speech_0009L=SOLDIER - Mamoru... did you get shot with one of these?
+Speech_0010L=SOLDIER - Uh...
+Speech_0011L=SOLDIER - I told you... dumb as a sack of rice.
+Speech_0012L=SOLDIER - Huh..huh... sack of rice... huh.
+
+[P_11_KokuboSosho_BathroomGuard]
+
+[P_11_KokuboSosho_Captured]
+
+[P_11_KokuboSosho_CapturedDialog]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - It looks like he's starting to regain consciousness...
+Speech_0002L=COLONEL - Good...
+Speech_-001L=(null)
+Speech_0003L=SOLDIER - ...the Colonel would like to talk to you...
+Speech_0004L=COLONEL - Again...
+Speech_0005L=SOLDIER - Come on, American! Talk!
+Speech_-001L=(null)
+Speech_0006L=COLONEL - ...how you got in here? You'll need to tell me something before I can begin to negotiate on your behalf... Sergeant.
+Speech_0007L=COLONEL - Give him a little... extra, Sergeant...
+Speech_0008L=SOLDIER - Yes sir.
+Speech_0009L=SOLDIER - Come on, American. Make it easy on yourself. You do not want to know the other option...
+Speech_0010L=SOLDIER - I don't think he's going to talk, sir.
+Speech_0011L=COLONEL - I guess we'll have to do it the hard way. Dismissed.
+Speech_0012L=SOLDIER - Yes sir.
+Speech_-001L=(null)
+Speech_0013L=COLONEL - Eighty-four kilograms... let's see...
+Speech_-001L=(null)
+Speech_0014L=COLONEL - Yes... this will make you talk...
+Speech_-001L=(null)
+Speech_0015L=COLONEL - We'll find out what you know.
+Speech_0016L=SOLDIER - It looks like he's starting to regain consciousness...
+Speech_0017L=COLONEL - Good...
+Speech_0018L=SOLDIER - ...have hit him pretty hard...
+Speech_0019L=COLONEL - Give him a minute... he'll come around.
+Speech_0020L=COLONEL - ...hear me? Hello my friend? Are you there? Ah... he's not so tough...
+Speech_0021L=COLONEL - How long does this typically take?
+Speech_0022L=SOLDIER - Normally only a few minutes... but with an American...
+Speech_0023L=COLONEL - I thought they were supposed to be stronger...
+Speech_0024L=SOLDIER - Too much red meat... it might take longer than we thought.
+Speech_0025L=COLONEL - Go inspect his equipment again. I'll wait here until he revives.
+Speech_0026L=SOLDIER - Yes sir.
+Speech_0027L=COLONEL - I wonder how he got in here?
+Speech_0028L=COLONEL - Maybe he's a spy who's been stationed here all along?
+Speech_0029L=COLONEL - Maybe he's not even American...
+
+[P_11_KokuboSosho_Communications]
+Speech_0126L=LAMBERT - State Department has lost contact with all of the US Officers who work at the Kokubo Sosho with the Japanese Self Defense Force. It looks like the SDF have taken them prisoner and they're refusing to answer our calls. In typical fashion, the Japanese are circling their wagons... either they're afraid to admit they've lost control of Otomo, or they're actually sanctioning him. If that's the case we'll have to come clean with North Korea, which will spark a massive war in Asia. If not... we need to find out what our officers know and figure out what to do about Otomo before North Korea finds out what's going on.
+Speech_0127L=GRIMSDOTTIR - Sam, even if the Japanese government does not sanction him, Otomo still clearly has the capacity to strike. If he is still in control of the Information arm of the SDF, you'll need to deal with him very carefully. There is no telling what kind of havoc he could unleash.
+Speech_0128L=REDDING - Last contact we had with any US personnel in the Kokubo Sosho was a fragment of a phonecall from Major Harper, a logistics advisor to G-SDF. Form the sounds of the call, the room he was in was raided by Japanese troops and he was taken prisoner. It doesn't sound like anyone has been killed... and if there is any hope of maintaining peaceful relations with the Japanese, you're going to have to keep it that way.
+Speech_0184L=LAMBERT - Find the officers, but don't kill anyone, or I abort the mission immediately.
+Speech_0001L=LAMBERT - Fisher, I can't stress this enough... if one Japanese soldier dies, we risk World War Three. Any fatalities and I abort the mission immediately.
+Speech_0002L=FISHER - I understand.
+Speech_0005L=LAMBERT - Locate our officers and find out what the hell is going on there.
+Speech_0006L=FISHER - I'll find them.
+POPUPMESSAGE_0183=Contact the detained American Officers.
+Speech_-001L=(null)
+Speech_0131L=LAMBERT - Find the officers, but don't kill anyone, or I abort the mission immediately.
+Note_0160L=The basement access has just been unlocked.
+Speech_0185L=LAMBERT - Fisher you need to record everything that happens in Japanese War Room in the sub levels under the main floor.
+Speech_0007L=LAMBERT - Sam, we need to record everything that happens in that meeting so we can present it to the Joint Chiefs.
+Speech_0008L=FISHER - Where is the War Room?
+Speech_0009L=LAMBERT - In the sub-level beneath the main floor.
+Speech_0010L=FISHER - It would speed things up if you let me remove some of the threats.
+Speech_0011L=LAMBERT - Forget it Fisher. Until we know who the enemy is, there is no enemy. No enemy means no kills. Deal with it.
+Speech_-001L=(null)
+Speech_0132L=LAMBERT - Fisher you need to record everything that happens in Japanese War Room in the sub levels under the main floor.
+Note_0162L=The SDF soldiers in the basement area are using non-lethal weaponry.
+Speech_0186L=REDDING - Sam, it looks like these guards are carrying non-lethal ammo. Don't let them tag you... if you're taken prisoner... I don't even want to think about it.
+Speech_0012L=REDDING - Fisher, from the looks of it these guards are LTL equipped.
+Speech_0013L=FISHER - Less-Than-Lethal? Why?
+Speech_0014L=REDDING - There's only one reason I can think of that they'd issue them to combat troops...  they'll want to interrogate anyone they catch.
+Speech_0017L=FISHER - Well, I'm not the talkative type.
+Speech_-001L=(null)
+Speech_0157L=REDDING - Sam, it looks like these guards are carrying non-lethal ammo. Don't let them tag you... if you're taken prisoner... I don't even want to think about it.
+Speech_0187L=LAMBERT - You just downloaded the orders for the I-SDF strike team that went after Shetland. This confirms Otomo's involvement... but we still need to discover if his actions are sanctioned by the government.
+Speech_0076L=LAMBERT - Just as we suspected...
+Speech_0077L=FISHER - That's a copy of the orders for the strike team sent to the Bath House.
+Speech_0083L=LAMBERT - Yeah. Kaneda was working directly for Otomo... it confirms Otomo's involvement with Shetland and the Masse enabled attacks... but we still need to discover if his actions are sanctioned by the government.
+Speech_-001L=(null)
+Speech_0133L=LAMBERT - You just downloaded the orders for the I-SDF strike team that went after Shetland. This confirms Otomo's involvement... but we still need to discover if his actions are sanctioned by the government.
+POPUPMESSAGE_0166=Record the meeting in the War Room.
+Speech_0188L=LAMBERT - That double isolated room in the center of the corridors is the War Room, Sam. You'll need to find a way to record their meeting.
+Speech_0027L=LAMBERT - Fisher, GPS shows you're nearing the War Room. Intelligence says it's a tempest-hardened cube... the only way you'll be able to record what's going on in there is to find some way inside.
+Speech_0030L=FISHER - Tempest hardening might keep out electronic intruders, but I'm betting the room isn't air tight.
+Speech_0084L=LAMBERT - Probably not.
+Speech_-001L=(null)
+Speech_0134L=LAMBERT - That double isolated room in the center of the corridors is the War Room, Sam. You'll need to find a way to record their meeting.
+Speech_0189L=GRIMSDOTTIR - Sam, you should be able to laser mic the War Room from the vent overlooking it.
+Speech_0108L=GRIMSDOTTIR - Sam, I've got some details on the building's infrastructure. This vent should come out directly over the War Room.
+Speech_0109L=FISHER - I'll try and laser mic the meeting from there.
+Speech_0110L=GRIMSDOTTIR - Good. We'll let you know when we have enough to make the Joint Chiefs happy.
+Speech_-001L=(null)
+Speech_0156L=GRIMSDOTTIR - Sam, you should be able to laser mic the War Room from the vent overlooking it.
+Speech_-001L=(null)
+Speech_0031L=LAMBERT - Good god Fisher... that confirms it. Otomo has been manipulating the Japanese government the entire time.
+Speech_0032L=FISHER - At least they're not sanctioning his actions... What's the next step? How do we stop Otomo?
+Speech_0033L=LAMBERT - If we're lucky we might not have to...
+Speech_0085L=FISHER - What do you mean?
+Speech_0086L=LAMBERT - Grim...
+Speech_0034L=GRIMSDOTTIR - I'm worried about that General, Fisher... he's been awfully quiet working on his laptop... access it from here... let's see what he's planning.
+POPUPMESSAGE_0167=Access the G-SDF General's laptop.
+Speech_0089L=FISHER - Will do.
+Speech_-001L=(null)
+Speech_0135L=LAMBERT - Otomo has been manipulating the Japanese government. We need to know what's next.
+Speech_0136L=GRIMSDOTTIR - The General in the War Room is up to something... access his laptop from the vent overlooking the room.
+POPUPMESSAGE_0178=Access the G-SDF General's laptop.
+Note_0161L=The ISDF elevator is now accessible.
+Speech_0190L=LAMBERT - Otomo is going to force launch North Korean ballistic missiles at Japan. We need to destroy his severs in the Command Center at the bottom of the elevator.
+Speech_0035L=LAMBERT - Good lord! Otomo is going to launch a North Korean missile at his own country!
+Speech_0038L=FISHER - What's the time frame?
+Speech_0039L=LAMBERT - Could be hours, could be minutes. Get down there and destroy his servers.
+POPUPMESSAGE_0168=Cripple Otomo's I-SDF servers.
+Speech_0040L=FISHER - What about extraction?
+Speech_0114L=LAMBERT - If you can't take out those servers before Otomo forces a launch there won't be any reason to extract...
+Speech_0115L=FISHER - And if I do take out the servers?
+Speech_0116L=LAMBERT - We'll make that part up as we go.
+Speech_0117L=FISHER - That's half a plan if I've ever heard one...
+Speech_-001L=(null)
+Speech_0137L=LAMBERT - Otomo is going to force launch North Korean ballistic missiles at Japan. We need to destroy his severs in the Command Center at the bottom of the elevator.
+POPUPMESSAGE_0179=Cripple Otomo's I-SDF servers.
+Speech_0191L=LAMBERT - Fisher... if you're sure you're okay... continue the mission as planned... but be careful... the base is on alert.
+Speech_0090L=LAMBERT - Come in Fisher! Come in!
+Speech_0091L=FISHER - I'm... I'm okay Lambert... Non-lethal round... they were planning on interrogating me...
+Speech_0094L=LAMBERT - They couldn't have had time to... you were only gone for a couple of minutes...
+Speech_0095L=FISHER - Good... where were we?
+Note_0194L=Enemies have fortified their positions
+POPUPMESSAGE_0173=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Speech_0096L=LAMBERT - Well, the whole facility is on alert, are you sure you're okay to continue the mission?
+Speech_0097L=FISHER - Now that you mention it, maybe I could use a week on the beach, instead.
+Speech_0118L=LAMBERT - You'll have it... as soon as we find out what's happening in the War Room.
+Speech_0119L=FISHER - I'm on my way.
+Speech_0120L=LAMBERT - You'll have it... as soon as you're finished in the Command Center.
+Speech_0121L=FISHER - I'm on my way.
+Speech_-001L=(null)
+Speech_0152L=LAMBERT - Fisher... if you're sure you're okay... continue the mission as planned... but be careful... the base is on alert.
+Speech_-001L=(null)
+Speech_0052L=LAMBERT - I just got off the horn with the Joint Chiefs... I'm lifting the non-lethal mission parameter. Fifth Freedom with everyone except Otomo.
+Speech_0053L=FISHER - You're kidding me...
+Speech_0054L=LAMBERT - We need to capture him alive. His profile is pretty clear. He won't lie to a war crimes tribunal in face of the evidence. It would offend his sense of honor.
+POPUPMESSAGE_0169=Capture Otomo alive.
+Speech_0055L=FISHER - You need him to take responsibility so the rest of Japan is off the hook with North Korea...
+Speech_0056L=LAMBERT - Exactly. If Otomo dies... we're right back at square one. Bring him in breathing.
+Speech_-001L=(null)
+Speech_0138L=LAMBERT - Fisher, the Joint Chiefs need Otomo alive at any cost. Fifth Freedom with everyone but him. Your non-lethal parameter is lifted.
+POPUPMESSAGE_0180=Capture Otomo alive.
+Speech_-001L=(null)
+Speech_0103L=LAMBERT - Fisher! North Korea just contacted NORAD and the President... they report that they've lost control of a launch facility! They can't abort and they're not sure they can destroy the missile on time...
+Speech_0104L=FISHER - How long?
+Speech_0105L=LAMBERT - They say three minutes until it's away!
+Speech_0106L=FISHER - I think I can reach the server in time.
+Speech_0107L=LAMBERT - Hurry up!
+POPUPMESSAGE_0182=Cripple Otomo's I-SDF servers.
+Speech_0139L=LAMBERT - They say two and a half minutes until it's away!
+Speech_0140L=LAMBERT - They say two minutes until it's away!
+Speech_0141L=LAMBERT - They say ninety seconds until it's away!
+POPUPMESSAGE_0170=Cripple Otomo's I-SDF servers.
+Speech_-001L=(null)
+Speech_0142L=LAMBERT - They say sixty seconds until it's away!
+POPUPMESSAGE_0171=Cripple Otomo's I-SDF servers.
+Speech_-001L=(null)
+Speech_0165L=LAMBERT - Hurry up!
+Speech_0143L=LAMBERT - They say thirty seconds until it's away!
+Speech_0192L=LAMBERT - Well done, now get to Otomo.
+Speech_0063L=LAMBERT - Thank god Fisher! That aborted the launch.
+Speech_0064L=FISHER - Yeah... but I think it woke up the neighbors...
+Speech_0065L=LAMBERT - Get through them, Fisher, then bring in Otomo alive.
+POPUPMESSAGE_0172=Capture Otomo alive.
+Speech_0066L=FISHER - My pleasure.
+Speech_-001L=(null)
+Speech_0144L=LAMBERT - Well done, now get to Otomo.
+POPUPMESSAGE_0181=Capture Otomo alive.
+Speech_-001L=(null)
+Speech_0102L=LAMBERT - My god Fisher... the missile is away. The time for spying is over. We're at war.
+Speech_-001L=(null)
+Speech_0153L=LAMBERT - Good thinking, Fisher.
+Speech_0154L=FISHER - Any line in on what's going on in this place can only help.
+Speech_0155L=LAMBERT - Absolutely.
+Speech_-001L=(null)
+Speech_0067L=LAMBERT - Now what?
+Speech_0068L=FISHER - I think someone is taking himself a bit too seriously...
+Speech_0069L=LAMBERT - We can't afford to let him die, Fisher! Get in there and stabilize him... fast!
+Speech_-001L=(null)
+Speech_0145L=LAMBERT - Otomo just tried to commit seppuku Get in there and stabilize him, fast.
+Speech_-001L=(null)
+Speech_0070L=LAMBERT - Good work, Fisher, he's stable... but we still have to get him out of there... You're going to have to blast your way out.
+Speech_0098L=FISHER - We're over a hundred feet underwater!
+Speech_0099L=LAMBERT - You're not pressurized Fisher... it will be a shock... but you won't get the bends...
+Speech_0100L=FISHER - Next time... you're going on the mission and I'm making up the crazy plan.
+Speech_-001L=(null)
+Speech_0146L=LAMBERT - Otomo should survive. Blast your way out and we'll pick you up from the surface.
+POPUPMESSAGE_0174=Alarm Stage One
+Speech_-001L=(null)
+Speech_0147L=LAMBERT - Be more careful, Fisher, this mission couldn't be more sensitive.
+POPUPMESSAGE_0175=Alarm Stage Two - Enemies Equipping Body Armor
+Note_0195L=Enemies are wearing body armor
+Speech_-001L=(null)
+Speech_0148L=LAMBERT - That's two alarms, Sam... why not just tell everyone you're there.
+POPUPMESSAGE_0176=Alarm Stage Three - Enemies Equipping Helmets
+Note_0196L=Enemies are wearing helmets
+Speech_-001L=(null)
+Speech_0149L=LAMBERT - Dammit Fisher! You're going to rekindle this war single-handedly if you're not more careful!
+Speech_0158L=LAMBERT - Dammit Fisher... be careful with the alarms.
+POPUPMESSAGE_0177=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0197L=Enemies have fortified their positions
+Speech_0193L=LAMBERT - Fisher, the base is on alert.
+Speech_0080L=LAMBERT - Oh god, the whole facility is on alerted...
+Speech_0081L=FISHER - Does my mission change?
+Speech_0082L=LAMBERT - Your objectives stay the same Sam... you're our only chance.
+Speech_-001L=(null)
+Speech_0151L=LAMBERT - Fisher, the base is on alert.
+Speech_-001L=(null)
+Speech_0122L=LAMBERT - Dammit Sam! I told you to save him!
+Speech_0123L=FISHER - He was dead already...
+Speech_0124L=LAMBERT - There was still time to get him medical attention... now we're at war with Korea for sure. Mission Over!
+Speech_-001L=(null)
+Speech_0125L=LAMBERT - Dammit Sam! We needed intelligence from those boys... now we'll never know what's going on. Get out of there. Mission Over!
+Speech_-001L=(null)
+Speech_0113L=LAMBERT - Dammit, Sam! Not only did I say no fatalities... but that was one of our own officers! Mission Over!
+Speech_-001L=(null)
+Speech_0073L=LAMBERT - God dammit, Fisher!? Can't you follow orders?
+Speech_0074L=FISHER - Lambert... I...
+Speech_0075L=LAMBERT - That's it Fisher... Mission Over!
+
+[P_11_KokuboSosho_EliteLastRush]
+
+[P_11_KokuboSosho_GSDFAttacks]
+Speech_-001L=(null)
+Speech_0023L=(null)
+
+[P_11_KokuboSosho_InterroBasement]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Nice toy. What kind of ammo does it use?
+Speech_0004L=SOLDIER - How about you let me go and I'll show you?
+Speech_0005L=FISHER - Don't get smart...
+Speech_0006L=SOLDIER - Aaarghh... okay... it's... some kind of shock round... electric...
+Speech_0007L=FISHER - Interesting... you have any extra?
+Speech_0008L=SOLDIER - It's not like you can shake me and make my ammo fall on the floor to pick up...
+Speech_0009L=FISHER - You're awfully flippant for someone with a knife to his throat...
+Speech_0010L=SOLDIER - Aghh... okay... I think they keep some extras in the store room.
+Note_0016L=Sticky shocker rounds can be found in the store room.
+Speech_0013L=SOLDIER - Please don't kill me... you said yourself, I'm smart...
+Speech_0014L=SOLDIER - Could you not hold the knife so close please...
+
+[P_11_KokuboSosho_InterroCapturers]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Bad news, Colonel.
+Speech_0002L=COLONEL - Ah! How did you get free?
+Speech_0005L=FISHER - Listen, I'm not feeling too good right now... under any other circumstance, I'd jump at the chance to cut you a second smile...
+Speech_0006L=COLONEL - Please, don't kill me American...
+Speech_0014L=FISHER - I have orders not to...  but I can still hurt you pretty bad if I feel like it. How many more men do you have down here?
+Speech_0010L=COLONEL - I didn't call any more reinforcements... the Captain needed more men downstairs... no one was expecting you.
+Speech_0016L=FISHER - So it's just your buddy outside the door?
+Speech_0017L=COLONEL - Yeah...
+Speech_0012L=COLONEL - I was careless...
+Speech_0013L=COLONEL - A minute more and I'd have started with the leeches...
+
+[P_11_KokuboSosho_InterroFirstTunnel]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Excuse me... I need directions...
+Speech_0002L=SOLDIER - Wh - ah! Ok...
+Speech_0003L=FISHER - I'm the good guy who's here to save the world.
+Speech_0004L=SOLDIER - I... I thought I was the good guy...
+Speech_0005L=FISHER - No, no. You're on the team with the super-secret underground base. I'm the guy breaking into the base. That makes me the good guy. Now tell me how I get in.
+Speech_0006L=SOLDIER - There's a ladder in the electrical room... you can probably find a way in from there... into the bathrooms...
+Note_0016L=There is a way to reach the bathrooms from the tunnel's electrical room.
+Speech_0013L=SOLDIER - I once saw a cat around the cables over there...
+Speech_0014L=SOLDIER - Did you try the doorbell on the front door?
+
+[P_11_KokuboSosho_InterroHostagers]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Why are you holding these men?
+Speech_0002L=SOLDIER - Wha? Who?
+Speech_0003L=FISHER - Answer the question.
+Speech_0004L=SOLDIER - Those are my orders...
+Speech_0005L=FISHER - Whose orders?
+Speech_0006L=SOLDIER - Wh... what? The General...
+Speech_0007L=FISHER - General? Don't you mean Admiral?
+Speech_0008L=SOLDIER- What do you mean?
+Speech_0025L=FISHER - Your orders? Do they come from Admiral Otomo, or not?
+Speech_0026L=SOLDIER - No.
+Speech_0010L=SOLDIER - They're not hostages... we're just... detaining them.
+Speech_0011L=SOLDIER - We have orders not to shoot them... just hold them here...
+Speech_-001L=(null)
+Speech_0012L=FISHER - I need information.
+Speech_0013L=SOLDIER - You'll get nothing form me.
+Speech_0014L=FISHER - Wrong.
+Speech_0015L=SOLDIER - Agh...
+Speech_0016L=FISHER - Where's the War Room?
+Speech_0017L=SOLDIER - In the sub-levels. The sealed door from the lobby...
+Speech_0018L=FISHER - How do I open the sealed door?
+Speech_0019L=SOLDIER - It should be open... a Captain came by to hand pick some men for a mission?
+Speech_0023L=FISHER - What mission?
+Speech_0024L=SOLDIER - I have no idea... he didn't want me...
+Speech_0020L=SOLDIER - It's my first day...
+Speech_0021L=SOLDIER - I didn't hurt them... please go easy on me...
+
+[P_11_KokuboSosho_InterroISDF]
+Speech_-001L=(null)
+Speech_0003L=FISHER - Where's Otomo?
+Speech_0004L=SOLDIER - Secured in his office... you'll never get to him...
+Speech_0005L=FISHER - Fine... where's his server...
+Speech_0006L=SOLDIER - Just there... but it's too late... he's initiated the launch...
+Speech_0007L=FISHER - There's no way to stop it?
+Speech_0008L=SOLDIER - Not without destroying the servers...
+Speech_0024L=FISHER - Well... fortunately, I don't have a problem with that.
+Speech_0009L=SOLDIER - It doesn't matter... you'll die down here.
+Speech_0010L=SOLDIER - You'll never defeat the Admiral.
+Speech_-001L=(null)
+Speech_0012L=FISHER - Tell me how to get into Otomo's office.
+Speech_0013L=SOLDIER - Never!
+Speech_0014L=FISHER - I have orders to take him alive... but it's a different story for you...
+Speech_0015L=SOLDIER - Please! no!
+Speech_0016L=FISHER - You're getting closer and closer to dead...
+Speech_0017L=SOLDIER - Under the floors... I think there's a way. But Otomo will never surrender...
+Note_0025L=There may be a way to reach Otomo's office under the floors.
+Speech_0018L=FISHER -We'll see about that.
+Speech_0021L=SOLDIER - This shall be your tomb American...
+Speech_0023L=SOLDIER - Admiral Otomo will never be taken alive...
+
+[P_11_KokuboSosho_InterroMainLobby]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Nice building.
+Speech_0002L=SOLDIER - Wha! Who?
+Speech_0003L=FISHER - I'm going to suggest they hire your designer to do some work on the Pentagon.
+Speech_0004L=SOLDIER - What do you want...
+Speech_0005L=FISHER - A news update, what's happening here tonight?
+Speech_0006L=SOLDIER - What? I know nothing!
+Speech_0007L=FISHER - You probably know more than you think... just talk.
+Speech_0008L=SOLDIER - Uh... some men have been moved around... guarding inside. A Captain was here earlier mustering volunteers... not sure what for.
+Speech_0009L=SOLDIER - Some suits and officials came in for an emergency meeting.
+Speech_0011L=SOLDIER - I should have stayed home tonight, it was karaoke night...
+
+[P_11_KokuboSosho_InterroServers]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Tight security you have down here...
+Speech_0002L=SOLDIER - Not tight enough apparently...
+Speech_0003L=FISHER - Tell me something that'll help me get around here more easily...
+Speech_0006L=SOLDIER - Okay, okay... we recently set up some IR cameras...
+Note_0015L=There are IR cameras set up in the server room.
+Speech_0007L=FISHER - Yeah...
+Speech_0008L=SOLDIER - There's IR sensors too, around the war room...
+Note_0016L=Laser sensors are active around the War Room.
+Speech_0009L=FISHER - Is that so? Anything else?
+Speech_0010L=SOLDIER - I'm not sure what kind of security they may have down in the lower sub-levels though...
+Speech_0012L=SOLDIER - I thought I'd be safer working with computers...
+Speech_0013L=SOLDIER - You're hurting me...
+
+[P_11_KokuboSosho_InterroWarRoom]
+Speech_-001L=(null)
+Speech_0003L=FISHER - How do I get into the War Room?
+Speech_0004L=SOLDIER - They seal the door from the inside... unless you have an industrial laser...
+Speech_0005L=FISHER - I hope for your sake you have a better idea...
+Speech_0006L=SOLDIER - Arrghh... god... please... wait... there... there's an air vent over the room... maybe you can see in from there.
+Speech_0007L=FISHER - I'll have a look. You wait here.
+Speech_0008L=SOLDIER - Oh... okay.
+Speech_0012L=SOLDIER - Who are you anyway?
+Speech_0013L=SOLDIER - Are you Korean?
+Speech_-001L=(null)
+Speech_0014L=FISHER - Stay still and you won't get hurt.
+Speech_0015L=SOLDIER - Deal.
+Speech_0016L=FISHER - I need to get to the I-SDF Command Center...
+Speech_0017L=SOLDIER - The elevator just outside of here... you can't miss it...
+Speech_0018L=FISHER - Wanna come with me? I'd like a guide...
+Speech_0019L=SOLDIER - Are you crazy... they have elite troops down there... a lot scarier than you!
+Speech_0022L=SOLDIER - Good luck if you're going down there.
+Speech_0024L=SOLDIER - It goes pretty deep too...
+
+[P_11_KokuboSosho_LobbyConversatio]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - Working late?
+Speech_0002L=SOLDIER - Working? Are you kidding? This job is a joke.
+Speech_0003L=SOLDIER - What are you talking about? We're here to defend--
+Speech_0004L=SOLDIER - Defend the Kokubo Sosho? Yeah... right. That's like defending the CIA building or something...
+Speech_0005L=SOLDIER - What do you mean?
+Speech_0006L=SOLDIER - Well, it's not like anybody's crazy enough to bust in here... this is the easiest job in the world.
+
+[P_11_KokuboSosho_Missile]
+
+[P_11_KokuboSosho_NoKill]
+
+[P_11_KokuboSosho_Objectives]
+Objective_0007=Contact the detained American Officers.
+Objective_0022=American Officers stationed at the Kokubo Sosho have been detained by the SDF in the Press Room on the top floor over the main lobby. Contact them for information.
+Objective_0005=Do not kill anyone.
+Objective_0023=Relations with Japan are at the breaking point. Killing anyone will result in Mission Failure.
+POPUPMESSAGE_0031=Do not kill anyone.
+POPUPMESSAGE_0034=Contact the detained American Officers.
+POPUPMESSAGE_0035=Gain Access to the War Room.
+Objective_0008=Find out who gave the I-SDF assault team their orders.
+Objective_0024=Cover up any loose ends and discover who was in command of the I-SDF team that met with Shetland in the bathhouse.
+POPUPMESSAGE_0036=Record the meeting in the War Room.
+Objective_0009=Record the meeting in the War Room.
+Objective_0025=The heads of the Self Defense Force are holding an emergency meeting in the War Room on the lower level. Record the meeting with your laser mic.
+Objective_0037=Gain Access to the War Room.
+Objective_0038=The sealed doors to the Kokubo Sosho War Room can be unlocked from the main server room in the lower level.
+POPUPMESSAGE_0032=Gain Access to the War Room.
+Objective_0010=Access the G-SDF General's laptop.
+Objective_0026=Use your EEV to access the laptop of the General in the War Room from the overlooking vent.
+Objective_0011=Cripple Otomo's I-SDF servers.
+Objective_0027=Get to the I-SDF command center in the sub-levels and destroy Otomo's servers before it is too late.
+Objective_0017=Capture Otomo alive.
+Objective_0028=Fifth Freedom. The non-lethal restriction is lifted for anyone except Admiral Otomo, who must be captured alive if there is any hope to stabilize the region.
+Objective_0020=Exfiltrate to the only available extraction point.
+Objective_0029=The only possible extraction is through the wall of Otomo's office and into Tokyo bay. Use a charge to blast through the wall and get Otomo to the surface for medical attention.
+POPUPMESSAGE_0033=Exfiltrate to the only available extraction point.
+Objective_0021=Access the I-SDF servers.
+Objective_0030=(null)
+
+[P_11_KokuboSosho_ODell]
+
+[P_11_KokuboSosho_OfficersTalk]
+Speech_-001L=(null)
+Speech_0002L=SOLDIER - You stay in this room and keep quiet!
+Speech_0003L=OFFICER - We didn't say anything.
+Speech_0004L=SOLDIER - Keep it that way. I have orders not to shoot you, but I have orders not to let you escape... let's not find out which order is more important.
+Speech_0011L=OFFICER - We're not soldiers... we're just... desk jockey's... we're perfectly comfortable here.
+Speech_0012L=SOLDIER - And no going to the bathroom!
+Speech_0013L=OFFICER - Okay... fine... we can hold it... we'll be right here.
+Speech_0014L=SOLDIER - Yes! You will!
+
+[P_11_KokuboSosho_Otomo]
+Speech_-001L=(null)
+Speech_0002L=FISHER - Give it up Admiral. It's over.
+Speech_0004L=FISHER - You say tomato.
+
+[P_11_KokuboSosho_SamGenerics]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0006L=(null)
+Speech_-001L=(null)
+Speech_0007L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_11_KokuboSosho_Security]
+Note_0002L=The keycode to the server room is 1945.
+Note_0005L=The central servers will sink into the floor in case of alarm.
+Note_0004L=The server room retinal scanner will cause the servers to resurface.
+Note_0003L=There is a medical kit in the basement bathroom.
+Note_0006L=There is a medical kit near the main lobby bathrooms.
+
+[P_11_KokuboSosho_SRCfirst]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - Did you hear the news? The rescue was successful...
+Speech_0002L=SOLDIER - You're kidding me?
+Speech_0003L=SOLDIER - No. That Chinese guy... he space walked over, tethered his capsule to the station, then brought back the other two astronauts one at a time.
+Speech_0004L=SOLDIER - Wow... that's amazing...
+Speech_0005L=SOLDIER - I'll say...
+Speech_0006L=SOLDIER - So... what went wrong this time?
+Speech_0007L=SOLDIER - Nothing. Nothing went wrong. Reentry went off without a hitch. They recovered the capsule form the ocean about an hour ago... the astronauts are a bit dehydrated... but that's it.
+Speech_0008L=SOLDIER - Huh. So that's the end of the story...
+Speech_0009L=SOLDIER - That's the end of the story.
+Speech_0010L=SOLDIER - Go Taikonauts.
+
+[P_11_KokuboSosho_SRCsecond]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - I'm getting hungry.
+Speech_0002L=SOLDIER - Me too... go tell Elie... we should order some dinner in for the guys who are working late.
+Speech_0003L=SOLDIER - Can't.
+Speech_0004L=SOLDIER - Why not?
+Speech_0005L=SOLDIER - They transferred him. We're on our own.
+Speech_0006L=SOLDIER - They transferred Elie? What are they thinking?
+Speech_0007L=SOLDIER - Thinking? Ha! What are you talking about? Thinking... no one around here thinks... pffft...
+
+[P_11_KokuboSosho_SRCthird]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - Do you have any idea what's going on around here?
+Speech_0002L=SOLDIER - What do you mean?
+Speech_0003L=SOLDIER - I mean... there's been a lot of strange things happening in the last few hours?
+Speech_0004L=SOLDIER - What... you mean taking the Americans prisoner... the suits rushing in for an emergency meeting... the Captain coming through and hand-picking an assault team... rumors of an infiltration... Admiral Otomo simply dropping off the face of the earth while the rest of the world hurtles toward the apocalypse...
+Speech_0005L=SOLDIER - Yeah... what's going on with all of that?
+Speech_0006L=SOLDIER - I try not to ask questions.
+
+[P_11_KokuboSosho_USOfficers]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Psst...
+Speech_0002L=OFFICER - Wh? Hey... you... you're American!
+Speech_0003L=FISHER - Maybe... but I'm not here to rescue you.
+Speech_0004L=OFFICER - That's okay. We're not really hostages anyway.
+Speech_0005L=FISHER - What's going on?
+Speech_0006L=OFFICER - Not too sure. SDF rounded up all the US personnel and locked us up. We saw some Generals and Ministers being brought in earlier.
+Speech_0007L=FISHER - Where did they go?
+Speech_0016L=OFFICER - Into the  War Room in the sub level.
+Speech_0017L=FISHER - Hmm... the doors to the lower levels are sealed.
+Speech_0018L=OFFICER - A Captain was just up here looking for combat ready volunteers to go down there... maybe the doors are open now?
+Speech_0019L=FISHER - Perfect timing. Somebody will come for you later.
+Speech_-001L=(null)
+Speech_0008L=FISHER - Alright guys... what's going on here?
+Speech_0009L=OFFICER - Thank god, an American. Ready to go when you are.
+Speech_0010L=FISHER - Slow down... I'm not your baby sitter. Tell me what you know and maybe someone will come get you later.
+Speech_0011L=OFFICER - Uh... well, SDF rounded up all the US personnel and locked us up. We saw some Generals and Ministers being brought in earlier.
+Speech_0012L=FISHER - Where did they go?
+Speech_0013L=OFFICER - Into the  War Room in the sub level.
+Speech_0014L=FISHER - Hmm... the doors to the lower levels are sealed.
+Speech_0015L=OFFICER - A Captain was just up here looking for combat ready volunteers to go down there... maybe the doors are open now?
+Speech_0020L=FISHER - Thanks for the tip.
+
+[P_11_KokuboSosho_WaitsBotan]
+
+[P_11_KokuboSosho_WaitsHaru]
+
+[P_11_KokuboSosho_WaitsHiroshi]
+
+[P_11_KokuboSosho_WaitsJason]
+
+[P_11_KokuboSosho_WaitsKanata]
+
+[P_11_KokuboSosho_WaitsMamoru]
+
+[P_11_KokuboSosho_WaitsMasakazu]
+
+[P_11_KokuboSosho_WaitsRaidon]
+
+[P_11_KokuboSosho_WaitsSebastien]
+
+[P_11_KokuboSosho_WaitsShigekazu]
+
+[P_11_KokuboSosho_WaitsTetsuo]
+
+[P_11_KokuboSosho_WaitsYasashiku]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_11_KokuboSosho_WaitsYukata]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_11_KokuboSosho_Wallminers]
+
+[P_11_KokuboSosho_WarRoomEvent]
+Speech_-001L=(null)
+Speech_0020L=BUREAUCRAT - We cannot... but if he has control... where does that leave us... political suicide... we've already taken the Americans.
+Speech_-001L=(null)
+Speech_0021L=BUREAUCRAT - What is he thinking... no alternative... he'll die first, I'm sure...
+Speech_-001L=(null)
+Speech_0022L=TECHNICIAN - The line is secure... yes... we're ready to connect... I can patch him through... yes...
+Speech_-001L=(null)
+Speech_0001L=TECHNICIAN - Sir. Here's Admiral Otomo...
+Speech_0002L=BUREAUCRAT - Admiral... what is the meaning of this?
+Speech_0031L=BUREAUCRAT - This is... this is impossible... even if we repeal the Constitution the Emperor would never--
+Speech_0016L=BUREAUCRAT - Ninety... the people will never allow it.
+Speech_0018L=TECHNICIAN - That's it... he cut the signal.
+Speech_0019L=BUREAUCRAT - My God!
+Speech_-001L=(null)
+Speech_0023L=BUREAUCRAT - My god... we're doomed... we can't do that... we can't tell the Americans... it cannot fail... he's lost his mind...
+Speech_-001L=(null)
+Speech_0024L=BUREAUCRAT - What do we do? What are our options? Can we retake the Command Center? What if it fails? Do we have another choice?
+Speech_-001L=(null)
+Speech_0025L=TECHNICIAN - Trying to reconnect... Ops this is central... we have your feed... the General is almost ready...
+Speech_-001L=(null)
+Speech_0026L=TECHNICIAN - The Admiral again, sir.
+Speech_0027L=BUREAUCRAT - Admiral... we...
+Speech_-001L=(null)
+Speech_0029L=BUREAUCRAT - My god... we're doomed... we can't do that... we can't tell the Americans... it cannot fail... he's lost his mind...
+Speech_-001L=(null)
+Speech_0030L=BUREAUCRAT - What do we do? What are our options? Do we have another choice? Seventy-two hours? How do we contact the Emperor?
+

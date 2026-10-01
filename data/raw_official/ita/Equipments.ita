@@ -1,0 +1,248 @@
+[CATEGORIES]
+Category[0]=SCONOSCIUTO
+Category[1]=PERMANENTE
+Category[2]=ARMA PRINCIPALE
+Category[3]=DISPOSITIVI
+Category[4]=OGGETTI
+
+[FN2000]
+Name=SC-20K
+NameShort=SC-20K
+Description=Prototipo modulare da assalto SC-20K\n\nProiettili camiciati da 5,56x45mm in caricatori da 30 colpi in configurazione bull-pup.\n\nMirino reflex 1,5x e silenziatore, possibilità di moduli aggiuntivi.\n\nGrilletto binario per fuoco automatico o semi-automatico.\n\nLa porta di scarico supporta l'uso ambidestro.
+HowToUseMe=
+
+[FN2000AMMO]
+Name=Caricatore per SC-20K
+NameShort=Caricatore SC-20K
+Description=Caricatore per SC-20K
+HowToUseMe=
+
+[FN7]
+Name=Pistola SC
+NameShort=Pistola SC
+Description=Prototipo di pistola SC\n\nProiettili camiciati da 5,7x28mm in caricatori da 20 colpi con silenziatore integrato.\n\nImpugnatura adatta all'uso ambidestro.\n\nPrototipo di OCP montato sotto la canna.\n\nL'OCP genera differenze di potenziale elettrico nel bersaglio, \n\ne la scarica elettrica provoca interferenze nei circuiti.\n\nIl generatore si ricarica col tempo.
+HowToUseMe=
+
+[FN7AMMO]
+Name=Caricatore per pistola da 5,7mm
+NameShort=Caricatore pistola 5.7mm
+Description=Caricatore per pistola da 5,7mm
+HowToUseMe=
+
+[SCOPE]
+Name=Modulo per tiro prec. da 20mm
+NameShort=FUC. DI PREC.
+Description=Modulo da 20mm per il prototipo SC-20K\n\nProiettili APDS anti-materiali da 20mm ad altissima capacità di penetrazione per bersagli corazzati o annidati.\n\nMirino di precisione a due stadi.\n\nRinculo elevato. Trattenere il fiato per una mira corretta. Non permette l'uso di un silenziatore.
+HowToUseMe=
+
+[FOREGRIP]
+Name=Impugnatura
+NameShort=IMPUGNAT.
+Description=Impugnatura anteriore per il prototipo SC-20K.\n\nFornisce una maggiore stabilità alla piattaforma di fuoco e un rinculo controllato.\n\nAumenta il numero di colpi sul bersaglio durante il fuoco prolungato.
+HowToUseMe=
+
+[LAUNCHER]
+Name=Lanciatore 
+NameShort=LANCIATORE
+Description=Modulo lanciatore per SC-20K.\n\nNormale lanciatore a gas da 40mm, può sparare una serie di dispositivi non letali da 40mm.\n\nÈ silenzioso.
+HowToUseMe=
+
+[SHOTGUN]
+Name=Modulo doppietta
+NameShort=MOD. DOPP.
+Description=Modulo doppietta per SC-20K.\n\nCalibro 12 triplo zero offre un'eccellente potenza di sbarramento a corto raggio.\n\nPermette di sparare a doppia canna assieme all'SC-20K per il combattimento su più distanze.
+HowToUseMe=
+
+[GUNBAREL]
+Name=CANNA DI FUCILE
+NameShort=GUNBAREL
+Description=Modulo CANNA DI FUCILE
+HowToUseMe=
+
+[GUNGRIP]
+Name=IMPUGNATURA
+NameShort=IMPUGNATURA
+Description=Modulo IMPUGNATURA
+HowToUseMe=
+
+[GUNSCOPE]
+Name=MIRINO
+NameShort=Mirino
+Description=Modulo MIRINO
+HowToUseMe=
+
+[SHOTGUNAMMO]
+Name=Munizioni per modulo doppietta
+NameShort=Munizioni doppietta
+Description=Munizioni per modulo doppietta
+HowToUseMe=
+
+[SCOPEAMMO]
+Name=Munizioni per modulo di precisione
+NameShort=Munizioni di precisione
+Description=Munizioni per modulo di precisione
+HowToUseMe=
+
+
+[AK47]
+Name=AK-47
+NameShort=AK 47
+Description=L'AK-47 incamera colpi da 7,62x39, ha particolari in legno e calcio fisso.
+HowToUseMe=
+
+[BERETTA]
+Name=Beretta 92FS
+NameShort=Beretta 92FS
+Description=Pistola
+HowToUseMe=
+
+[C4]
+Name=C4
+NameShort=C4
+Description=C4
+HowToUseMe=
+
+[FLARE]
+Name=Razzo luminoso
+NameShort=Razzo lum. chimico
+Description=Un razzo che emette luce e calore.
+HowToUseMe=
+
+[CHEMICALFLARE]
+Name=Razzo luminoso chimico
+NameShort=Razzo lum. chimico
+Description=Un razzo chimico a rottura che illumina gli ambienti bui.
+HowToUseMe=
+
+[DISPOSABLEPICK]
+Name=Grimaldello usa e getta
+NameShort=Grimaldello monouso
+Description=
+
+[FLASHGRENADE]
+Name=Granata flash
+NameShort=Granata flash
+Description=Granata flash non-letale serie SC-82\n\nL'esplosione acceca, assorda e stordisce.\n\nLa distanza di sicurezza è di circa 8m.
+HowToUseMe=
+
+[FLASHLIGNT]
+Name=Torcia
+NameShort=Torcia
+Description=Torcia elettrica
+HowToUseMe=
+
+[FRAGGRENADE]
+Name=Granata a fram.
+NameShort=Frammentazione
+Description=Granata a frammentazione serie SC-60\n\nSfera di metallo di 5,5cm costruita attorno a una carica ad alto potenziale esplosivo.\n\nL'esplosione scaglia frammenti in una zona circolare, ed è letale entro i 2m.
+HowToUseMe=
+
+[REVIVESYRINGE]
+Name=Siringa adrenalina
+NameShort=Siringa adrenalina
+Description=Dose di adrenalina sperimentale SC\n\nIniettata nel torace di una persona priva di sensi aumenta la probabilità di sopravvivere alle ferite.
+HowToUseMe=
+
+[GAZGRENADE]
+Name=Lacrimogeno
+NameShort=Lacrimogeno
+Description=Granata lacrimogena non-letale serie SC-40\n\nEmette una nube di gas lacrimogeno per mettere fuori combattimento bersagli non protetti.\n\nDa usare con cautela. Il gas può provocare danni all'apparato respiratorio.
+HowToUseMe=
+
+[LASERMIC]
+Name=Microfono laser
+NameShort=Microfono laser
+Description=
+HowToUseMe=
+
+[LIQUIDNITROGEN]
+Name=Azoto liquido
+NameShort=Nitrogeno liquido
+Description=
+HowToUseMe=
+
+[LOCKPICK]
+Name=Grimaldello
+NameShort=Grimaldello
+Description=
+HowToUseMe=
+
+[M18SMOKEGRENADE]
+Name=Fumogeno colorato M18
+NameShort=Fum. colorato M18
+Description=
+HowToUseMe=
+
+[MEDKIT]
+Name=Kit medico
+NameShort=Kit medico
+Description=
+HowToUseMe=
+
+[OPTICCABLE]
+Name=Cavo ottico
+NameShort=Cavo ottico
+Description=
+HowToUseMe=
+
+[RINGAIRFOILROUND]
+Name=PROIET. GOMMA
+NameShort=PROIET. GOMMA
+Description=Proiettile lanciabile da 40mm a impatto duro non penetrante\n\nLa forza dell'impatto provoca lo svenimento del bersaglio.\n\nÈ silenzioso.
+HowToUseMe=
+
+[SMOKEGRENADE]
+Name=Fumogeno
+NameShort=Fumogeno
+Description=Fumogeno serie SC-81\n\nEmette una nube di gas che oscura la visuale ma non crea problemi alla respirazione.\n\nServe a fornire una copertura durante il passaggio in campo aperto.
+HowToUseMe=
+
+[STICKYCAMERA]
+Name=Microcamera
+NameShort=Microcamera
+Description=Telecamera di sorveglianza lanciabile da 40mm con trasmissione in diretta senza fili all'OPSAT\n\nVisuale termica, magnetica e notturna, con funzioni di movimento e zoom.\n\nEmissione di rumore o di gas per uso non-letale.\n\nLa telecamera può venire recuperata se il contenitore del gas non è stato aperto.\n\nÈ possibile riagganciarsi al segnale senza fili entro la distanza corretta.
+HowToUseMe=
+
+[STICKYSHOCKER]
+Name=Proiettile elettr.
+NameShort=Proiettile elettr.
+Description=Proiettile adesivo lanciabile da 40mm ad alto voltaggio e basso amperaggio.\n\nLa scarica elettrica mette il bersaglio fuori combattimento al contatto. La scarica è conducibile in acqua.
+HowToUseMe=
+
+
+[INFRAREDSTRESSGEN]
+Name=Generatore di tensione
+NameShort=Generatore di tens.
+Description=Generatore di tensione
+HowToUseMe=
+
+[WALLMINE]
+Name=Mina da muro
+NameShort=Mina da muro
+Description=Mina adesiva ad alto potenziale esplosivo sensibile al movimento, letale entro i 3m. Può essere disattivata quando la luce verde è accesa.
+HowToUseMe=
+
+[TARGETBEACON]
+Name=Segnalatore
+NameShort=Segnalatore
+Description=
+HowToUseMe=
+
+[UMP]
+Name=UMP
+NameShort=UMP
+Description=Mitraglietta UMP
+HowToUseMe=
+
+[UZI]
+Name=Uzi
+NameShort=Uzi
+Description=Mitraglietta
+HowToUseMe=
+
+[CRYOBLOODVIAL]
+Name=Fiala di sangue congelato
+NameShort=Sangue congela.
+Description=Sangue congela.
+HowToUseMe=Sangue congela.
+

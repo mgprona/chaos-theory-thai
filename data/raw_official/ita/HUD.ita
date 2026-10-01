@@ -1,0 +1,146 @@
+[CRYOTANK]
+BloodTypeA=Componente protocollo antivirale 1 = Siero di sangue tipo A.
+BloodTypeB=Componente protocollo antivirale 1 = Siero di sangue tipo B.
+BloodTypeO=Componente protocollo antivirale 1 = Siero di sangue tipo 0.
+FormulaPlayerA=Protocollo antivirale utente 1 = 
+FormulaPlayerB=Protocollo antivirale utente 2 = 
+CryoColorBlue=D Blu
+CryoColorRed=B Rosso
+CryoColorViolet=C Viola
+CryoColorGreen=A Verde
+CryoColorYellow=E Giallo
+CryoColorAqua=F Acqua
+CryoColorError=ERRORE
+
+[Transmission]
+PickUp=raccolto
+NoPickUp=Non puoi prendere più 
+SatchelFind=preso dalla borsa
+BodyFound=È stato trovato un corpo... Livello di allarme aumentato
+ComputerPickUp=Data stick prelevato dal computer
+DoorLock=Porta chiusa
+DoorJam=Serratura bloccata
+DoorPick=Porta forzata
+ElevatorPower=Ascensore spento
+MedKitNotUsed=Salute al massimo
+MedKitUsed=Salute recuperata usando il medikit
+
+[Interaction]
+Exit=Torna alla partita...
+Abort=Annulla
+Alarm=Usa l'allarme
+Bomb=Disinnesca la bomba
+C4=Piazza il C4
+CallElevator=Chiama ascensore
+ChargePlace=Piazza la carica
+ChargeDetonate=Fai saltare la carica
+Computer=Usa il computer
+ComputerBoot=Accendi il computer
+ComputerShut=Spegni il computer
+Crane=Usa la gru
+Cryo=Usa la vasca crio.
+CryoComm=Comunica istruzioni
+Cuffs=Prendi le manette
+Defuse=Disinnesca
+DoorOpen=Apri la porta
+DoorStealth=Apri piano la porta
+DoorBash=Sfonda la porta
+DoorBreak=Rompi la serratura
+DoorClose=Chiudi la porta
+DoorPick=Forza la serratura
+DoorOptic=Cavo ottico
+DoorSlideOpen=Apri a scorrimento
+DoorSlideClose=CHIUSARA A SCIVOLO
+Elevator=Usa l'ascensore
+Extraction=Estrazione
+GeneratorSwitch=Usa l'interruttore
+GeneratorPierce=Fora
+HotWire=Bypassa il circuito
+KeyPad=Usa il tastierino
+KeyPadHack=Forza il tastierino
+MedKit=Usa il kit medico
+Mic=Disattiva il microfono
+Missile=Disattiva il missile
+Morgenhault=Libera Morgenholt
+NpcZone0=Afferra
+NpcZone1=Afferra il personaggio
+NpcZone2=Interroga
+NpcZone3=Parla con
+NpcZone4=...
+NpcZone5=Inoltra comunicazioni
+NpcZone6=Corpo
+Otomo=Salva Otomo
+Pickup=Prendi
+Pierce=Fora
+Pump=Attiva le pompe
+Rappel=Scala il muro
+RetSafe=Usa la cassaforte retinica
+RetScan=Usa lo scanner retinico
+RetScanHack=Forza scanner retinico
+SearchCabinet=Esamina
+TapPhone=Metti spia sulla linea
+TelemetricPlace=Metti ricevit. telemet.
+TelemetricPick=Forza la serratura
+Trap=Apri la botola
+TrapPick=Forza la botola
+TrapOptic=Cavo ottico
+TurretActDeact=Attiva/disattiva
+TurretHack=Sabota la torretta
+TurretIFFOn=Accendi I.F.F.
+TurretIFFOff=Spegni I.F.F.
+Switch=Accendi/spegni
+Turret=Interagisci con la torretta
+WallMine=Disinnesca la mina
+Window=Apri a scorrimento
+BugPhone=Metti una spia
+BlowCandle=Spegni la candela
+Grabequipment=Prendi le attrezzature
+Detach=Scollega
+PlaceTracker=Piazza una spia
+TurnValve=Gira la valvola
+GrabontoRope=Afferra la corda
+EnterCrawlSpace=Entra strisciando
+ExitFront=Uscita anteriore
+ExitBack=Uscita posteriore
+Hackwire=TELECAM. SOTTO CONTR.
+ClimbUp=Sali
+CutMaterial=Taglia il materiale
+TakeAntidote=Prendi l'antidoto
+Initrappelling=Inizia la scalata
+Completerappelling=Completa la scalata
+InitHangover=Inizia la presa
+CompleteHangover=COMPLETA LA PRESA
+InitClimbShoulder=Inizia l'appoggio
+CompleteClimbShoulder=Completa l'appoggio
+Initlongjump=Inizia il salto lungo
+Completelongjump=COMPLETA IL SALTO LUNGO
+ShareView=ACCETTA COND. VISUALE
+AltComm=Azione sincronizzata
+CoopShare=Condividi attrezzatura
+CoopRevive=Rianima il giocatore
+TurretIFF=Attiva/disattiva l'IFF
+
+[GameplayObject]
+DefaultObject=Oggetto
+AmmoF2000=Muniz. da 5,56mm
+AmmoFn7=Muniz. da 5,7mm
+AmmoShotgun=Colpi
+AmmoSniper=Munizioni 20mm
+Briefcase=Valigetta
+DataStick=Unità dati
+Satchel=Borsa
+KeypadDoorCode=Codice della porta:
+
+[Computer]
+TypeEmail=Email
+TypeFile=File
+TypeImage=Immagine
+TypeMusic=Suono
+TypeControl=Telecamera
+TypeTrigger=Accesso
+TypeObjective=Obiettivo
+EmailFrom=Da: 
+EmailTo=A: 
+EmailDate=Data: 
+EmailSubject=Oggetto: 
+

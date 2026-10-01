@@ -1,0 +1,200 @@
+[P_02_Seoulthree_backalleyconv]
+Speech_-001L=(null)
+Speech_0001L=NKCol_Sun- Incompetence! Incompetence! Your orders were to maintain an overwatch while the Special Forces lead Jong away. 
+Speech_0002L=NKSol_Bo- Sorry sir!
+Speech_0003L=NKCol_Sun- Sorry is not good enough. Tactically, we looked like fools. You think they will not report our incompetence to their superiors?!
+Speech_0009L=NKSol_Bo- It was my mistake, sir.
+Speech_0010L=NKCol_Sun- Yes. But they don't know that. Your mistake is now my mistake! You may have cost me a promotion!
+Speech_0011L=NKSol_Bo- Sir I--
+Speech_0012L=NKCol_Sun- Enough... I have had it with your idiocy!
+Speech_0004L=NKCol_Sun- Dong!
+Speech_0005L=NKSol_Dong- Yes sir!
+Speech_0006L=NKCol_Sun- What just happened here?
+Speech_0007L=NKSol_Dong- You executed a traitor for deserting his post, sir!
+Speech_0008L=NKCol_Sun- I knew I could count on you Dong. If I don't get demoted for this, I'll make sure to put in a commendation for you.
+Speech_0013L=NKSol_Dong- Thank you Sir.
+
+[P_02_Seoulthree_backalleyinterro]
+Speech_-001L=(null)
+Speech_0005L=NKCol_Sun- Damn! Ok... I surrender... You're special forces, you're probably after our special forces... we covered their escape from the hotel with some guy named Jong. I don't know where they took him, but they went down the alley past the fence.
+
+[P_02_SeoulThree_check_mis_suc]
+
+[P_02_Seoulthree_cybercafe]
+
+[P_02_Seoulthree_cybercafe_conv]
+Speech_-001L=(null)
+Speech_0001L=NKSol_Jin- Has he calmed down yet?
+Speech_0002L=NKSol_Ming- Seems like it.
+Speech_0003L=NKSol_Jin- How long are we supposed to baby sit him for?
+Speech_0004L=NKSol_Ming- Those special forces guys said that another team will come pick him up at dawn... once the fighting calms down for the day.
+Speech_0005L=NKSol_Jin- Dawn?
+Speech_0006L=NKSol_Ming- Hopefully he'll just sleep until then.
+
+[P_02_Seoulthree_fake_Jong]
+
+[P_02_Seoulthree_fake_jong_interro]
+Speech_-001L=(null)
+Speech_0002L=NKSol_Yong- I won't tell you anything. Leave me alone. You can beat me all you want.
+Speech_0005L=NKSol_Yong- Okay! Okay! Please! I knew I shouldn't have agreed to this. I'm not Jong! I'm not Jong! They came and took him... I don't know where. They gave me five hundred thousand Won to pretend I'm him... but I don't want to die... please!
+
+[P_02_Seoulthree_fishmarket]
+
+[P_02_Seoulthree_goals_activ]
+Objective_0001=Capture Jong Pom-chu
+Objective_0013=Intelligence indicates that Jong is staying in a small hotel, not far from the insertion point. Jong must be captured alive.
+POPUPMESSAGE_0042=Capture Jong Pom-chu
+Note_0036L=Jong must remain alive
+Note_0037L=Gunfire may not be directed at you. There is a war going on.
+Note_0038L=You can disable a turret using the jammer
+Objective_0002=Interrogate the North Korean Officer to find out where Jong is
+Objective_0014=Jong has been relocated by North Korean Special Forces. Locate and interrogate an Officer to find out where theyve taken Jong.
+Objective_0040=Find out where Jong is.
+Objective_0041=Jong has been moved from the Hotel. Find out where he was taken.
+POPUPMESSAGE_0043=Find out where Jong is.
+Objective_0050=Interrogate the North Korean Officer to find out where Jong is
+Objective_0051=Jong has been relocated by North Korean Special Forces. Locate and interrogate an Officer to find out where theyve taken Jong.
+Objective_0052=Find out where Jong is.
+Objective_0053=Jong has been moved from the Hotel. Find out where he was taken.
+POPUPMESSAGE_0054=Find out where Jong is.
+Objective_0006=Destroy the two Chun-Ma Anti-Aircraft systems
+Objective_0017=The North Koreans have two Chun-Ma Anti-Aircraft systems set-up. They are interfering with other operations and must be destroyed.
+POPUPMESSAGE_0044=Destroy the two Chun-Ma Anti-Aircraft systems
+Note_0039L=Disable the tanks by climbing on one anothers shoulders
+Objective_0055=Interrogate the North Korean Officer to find out where Jong is
+Objective_0056=Jong has been relocated by North Korean Special Forces. Locate and interrogate an Officer to find out where theyve taken Jong.
+Objective_0008=Get to the cyber café where Jong is being protected.
+Objective_0018=North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.
+POPUPMESSAGE_0045=Get to the cyber café where Jong is being protected.
+Objective_0009=Get to extraction with Jong
+Objective_0019=Take Jong to the truck outside the cyber café to extract him to safety. 
+POPUPMESSAGE_0046=Get to extraction with Jong
+Objective_0057=Get to the cyber café where Jong is being protected.
+Objective_0058=North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.
+Note_0021L=Jong will escape by boat
+Objective_0022=Sabotage the engine on Jongs boat
+Objective_0023=Jong's emergency escape plan is to take the boat docked in the fish market.
+Objective_0010=Sabotage Jong's escape boat.
+Objective_0020=Jong's emergency escape plan is to take the boat docked in the fish market.
+Note_0012L=The code for the backdoor is 7649
+Note_0025L=A medical kit can be found in the bathroom of the hotel
+Note_0027L=There are guards on the balconies of the temple
+Note_0029L=There is an old sewer connection between the front and rear of the temple.
+Note_0030L=You can use the roof tops of the fish market to move unnoticed
+Note_0031L=There is ammunition in the small fish store
+Note_0034L=You can find smoke grenades in the back of the extraction truck
+Note_0047L=The North Koreans have a Chun-Ma Anti-Aircraft system set-up. It is interfering with other operations and must be destroyed.
+Note_0048L=Destroy the Chun-Ma Anti-Aircraft system.
+POPUPMESSAGE_0049=Destroy the Chun-Ma Anti-Aircraft system.
+
+[P_02_Seoulthree_hotel]
+
+[P_02_Seoulthree_hotelconv]
+Speech_-001L=(null)
+Speech_0001L=NKSol_Chen- Damn! It's dangerous out there!
+Speech_0002L=NKSol_Feng- It's a war... what do you expect?
+Speech_0003L=NKSol_Chen- Look, hurry up and get this place secured so you can patrol with me... I don't want to get killed out there.
+Speech_0004L=NKSol_Feng- We're doing everything we can...see the turret is up.
+Speech_0005L=NKSol_Chen- Good. Li. What about power?
+Speech_0006L=NKSol_Li- The whole grid is down. We have no control over it, but it could come back anytime.
+Speech_0007L=NKSol_Chen- Alright. Well, make sure the rooms are clear so at least we know the inside of the building is safe.
+
+[P_02_Seoulthree_Jong]
+
+[P_02_Seoulthree_Jong_crazy]
+Speech_-001L=(null)
+Speech_0001L=Jong- I can't believe this. I'm going to die for sure.
+Speech_-001L=(null)
+Speech_0002L=Jong- I wish they would get me out of here. Ha! I wish anybody would get me out of here.
+Speech_-001L=(null)
+Speech_0003L=Jong- How much longer will I have to wait?
+Speech_-001L=(null)
+Speech_0004L=Jong- This is driving me crazy!
+Speech_-001L=(null)
+Speech_0005L=Jong- Why would they relocate me... it's not like the Americans know anything.
+Speech_-001L=(null)
+Speech_0006L=Jong- I just hope that someone doesn't bomb this building by mistake.
+
+[P_02_Seoulthree_Jongcheck]
+
+[P_02_Seoulthree_Jonginterro]
+Speech_-001L=(null)
+Speech_0001L=Jong- Oh... you... you mean you're not going to kill me? Oh thank god... just get me out of here then... I don't care where. I'll tell your superiors everything.
+Speech_0004L=Jong- Oh no, no please, don't kill me. I know secrets about North Korea's chemical and biological weapons programs. It's too complex to talk about it here... we don't have time. Get me out of here. I'll tell your superiors everything.
+
+[P_02_Seoulthree_Lambertcomms]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Your mission is to capture Jong Pom-chu alive. Word is he's holed up in a hotel just up the street. We'll figure out an exit scenario for all of you once you get you hands on him.
+Speech_-001L=(null)
+Speech_0011L=Lambert- What are you doing? It turns out Jong has been relocated. That guy was a double. You're lucky you didn't just kill the person you're supposed to capture. See if you can interrogate an officer nearby to find out where Jong is.
+Speech_-001L=(null)
+Speech_0012L=Lambert- From the sounds of it, Jong has already been moved. Let's hope the NKA hasn't already smuggled him out. Find an officer and interrogate him for information.
+Speech_-001L=(null)
+Speech_0004L=Lambert- Damn. If Jong has been relocated by NKA Special Forces, he might already be gone. I'll see if I can dig up any more information.
+Speech_-001L=(null)
+Speech_0005L=Lambert- Reagan Carrier group is filing a barnyard full of flight req's. It looks like intensive bombing of your area is about to commence in preparation for fly-overs. If you spot any AA, make sure to take it.
+Speech_-001L=(null)
+Speech_0040L=Lambert- Bad news. Another plane from Reagan Carrier Group is inbound over your sector.
+Speech_0041L=Lambert- You have to take out those anti-air emplacements in the next five minutes.
+Speech_-001L=(null)
+Speech_0042L=Lambert- You have to take out those anti-air emplacements in the next four minutes.
+Speech_-001L=(null)
+Speech_0043L=Lambert- You have to take out those anti-air emplacements in the next three minutes.
+Speech_-001L=(null)
+Speech_0044L=Lambert- You have to take out those anti-air emplacements in the next two minutes.
+Speech_-001L=(null)
+Speech_0045L=Lambert- You have to take out those anti-air emplacements in the next sixty seconds.
+Speech_-001L=(null)
+Speech_0046L=Lambert- My god... you're too late... they just shot down another aircraft... mission over!
+Speech_-001L=(null)
+Speech_0038L=Lambert- Set explosives on the AA and take them both out.
+Speech_-001L=(null)
+Speech_0039L=Lambert- Good work. That takes care of the AA... but watch yourselves... looks like you have some reinforcements incoming.
+Speech_-001L=(null)
+Speech_0014L=Lambert- Sit tight you two. I have another asset on the ground, he's just gotten hold of the guys who relocated Jong.
+Speech_0015L=AgentOne- Patch us in.
+Speech_0016L=Lambert- Alright, Fisher, go ahead...
+Speech_0017L=Fisher- I've got someone who wants to talk to you...
+Speech_0018L=AgentOne- Roger... ask him where they took Jong.
+Speech_0019L=Fisher- Where did you take Jong?
+Speech_0020L=NKElite_Soo- I... I don't know what you're talking about...
+Speech_0021L=Fisher- He's not answering... should I kill him?
+Speech_0022L=AgentOne- Negative! Negative!
+Speech_0023L=Fisher- Alright... they say I should kill you, so--
+Speech_0024L=NKElite_Soo- Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.
+Speech_0025L=Fisher- Is that what you needed to know guys?
+Speech_0026L=AgentOne- Ah... affirmative... thanks a lot, sir. We owe you one.
+Speech_0027L=Fisher- Welcome to the team.
+Speech_0028L=AgentOne- Did he say 'Fisher'?
+Speech_0029L=AgentTwo- Must be his call-sign...
+Speech_0030L=AgentOne- You think there are other Splinter Cells?
+Speech_0031L=AgentTwo- Nah... we're the first.
+Speech_0032L=Lambert- Cut the chit-chat you two. Get to the cyber café... fast.
+Speech_-001L=(null)
+Speech_0047L=Lambert- It looks like Jong has a boat down there in case he needs to make an emergency escape. Might be a good idea to cut off his exit scenario.
+Speech_-001L=(null)
+Speech_0033L=Lambert- Jong is somewhere in this café. Remember, we need him alive. Once you have him, bring him down to the truck out front and we'll extract you.
+Speech_-001L=(null)
+Speech_0037L=Lambert- Good job. Get Jong to the truck and we'll get you out of there.
+Speech_-001L=(null)
+Speech_0035L=Lambert- Jong is getting away! Don't let him escape in his boat!
+Speech_-001L=(null)
+Speech_0036L=Lambert- Jong is trying to get to his boat. Good thing you disabled it. Go grab him from the docks and bring him back to the truck.
+Speech_-001L=(null)
+Speech_0034L=Lambert- My God! What are you thinking?! I told you we needed Jong alive! Neither of you will ever qualify as Splinter Cell operatives! Mission Over!
+
+[P_02_Seoulthree_tankcompound]
+
+[P_02_Seoulthree_templefront]
+Speech_-001L=(null)
+Speech_0001L=NKSol_Shing- I don't think we can fix it.
+Speech_0002L=NKSol_Chul- Well then what are we going to do?
+Speech_0003L=NKSol_Shing- Look it's not important. We're in position. It doesn't matter if we're mobile. As long as the radar is operational, we're fine.
+Speech_0004L=NKSol_Chul- What if we get orders to roll out?
+Speech_0005L=NKSol_Shing- Then we report the damage and we wait for the engineering team to come get us.
+
+[P_02_Seoulthree_templefront_interro]
+Speech_-001L=(null)
+Speech_0001L=NKSol_Shing- Oh god... please... you don't need to kill me... our tank is stuck here anyway... please... I don't know anymore...
+Speech_0002L=NKSol_Shing- Okay... okay... there's more. The tanks can still fire. The only way to disable them is to take out the radar dish, that way they can't track their targets.
+

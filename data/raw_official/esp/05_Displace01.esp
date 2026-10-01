@@ -1,0 +1,62 @@
+[GENERAL]
+MapName=DISPLACE
+Briefing=TODO
+Briefing_LAMBERT=Fisher, creo que nos enfrentamos a una conspiración orquestada para provocar una crisis mundial. Zherkezhi es uno de los mayores expertos en Guerra Informática del mundo; y Displace es una organización paramilitar con un armamento que supera al de muchos países. Hay que averiguar si es una coincidencia, o si alguien en Displace está tramando algo gordo. Pero recuerda que el Departamento de Estado tiene contratos firmados con Displace. Puesto que hay intereses políticos, debes hacer un trabajo limpio. Sólo reconocimiento. Nada de bajas.
+Briefing_GRIMSDOTTIR=Las oficinas de Displace están en Manhattan, en los tres últimos pisos de la torre del Centro Hantz. Al parecer, han hecho una gran inversión en infraestructuras para mantener plena capacidad operativa en caso de que se produzca un atentado terrorista.
+Briefing_REDDING=El satélite confirma los datos de Grim. Displace está funcionando a plena capacidad. Es posible que hayan ofrecido al Ayuntamiento de Nueva York servicios de protección y policiales para complementar a la Guardia Nacional. Están bien preparados y son oportunistas, pero no creo que haya nada más. Como inversor, quiero creer que están limpios, pero si el jefe quiere que los investiguemos, eso es lo que vamos a hacer.
+
+[Interaction]
+IntUseAlgorithm=Usar algoritmo
+IntExtract=Extracción
+
+[Computer]
+CompUploadTracer=Cargar rastreador
+CompObjective=Objetivo
+CompPowerSystemEvaluation=Evaluación sistema eléctrico
+CompEmail=Email
+CompVIPDetailReport=Informe detalles VIP
+CompMeetRoomCode=Código sala reuniones
+CompTurretPerformanceReport=Informe rendimiento armas
+CompWNMNewsWire=Boletín noticias WNM
+CompProtectionDetailBackup=Copia detalles de protección
+CompNews=Noticias
+CompSynchAccessAlgorithm=Algoritmo acceso sincrónico
+CompFiredoorkeycode=Código puerta incendio
+CompHokkaidoMeet=Reunión Hokkaido
+CompCameraAccess=Acceder cámaras
+CompAccess=Acceder
+CompInfraSoundSpecSheet=Especificaciones infrasonido
+CompServerAccessAlgorithm=Algoritmo acceso servidor
+CompLobbyAreaDoorcodes=Código puertas vestíbulo
+
+
+[Email]
+EmailPowerEvalBody=Hemos terminado las pruebas técnicas de nuestros generadores. Esperamos restricciones de electricidad en todo el edificio y hemos mejorado la protección ante subidas de tensión en toda la red. Cuando la ciudad recupere la normalidad, todos los sistemas volverán a funcionar.
+EmailPowerEvalDate=Sábado 30 de junio de 2007
+EmailPowerEvalFrom=Mantenimiento Centro Hantz
+EmailPowerEvalSubject=Evaluación del sistema eléctrico
+EmailPowerEvalTo=Displace_Todos
+
+EmailMeetRoomCodeBody=Mat, tengo el código de la sala de reuniones VIP. Es el 2346. Habla con los chicos a ver quién sabe el código de la oficina. Será mejor que no lo sepa Milan, tengo un mal presentimiento sobre ese tipo.
+EmailMeetRoomCodeDate=Viernes, 29 de junio de 2007
+EmailMeetRoomCodeFrom=Gilley
+EmailMeetRoomCodeSubject=Código de la sala de reuniones
+EmailMeetRoomCodeTo=Matthew
+
+EmailWNMLotteryBody=El magnate de la industria del acero en Pensilvania, Brody Masterson Woods III, ha sido el único ganador de la Lotería Primitiva para Tontos, con un premio de 1.100 millones de dólares, el mayor bote en la historia de Estados Unidos. Brody ya contaba con un patrimonio de 68.400 millones de dólares.
+EmailWNMLotteryDate=Jueves, 28 de junio de 2007
+EmailWNMLotteryFrom=Boletín de noticias de la WNM
+EmailWNMLotterySubject=Mutimillonario gana en la lotería
+EmailWNMLotteryTo=Suscriptor
+
+EmailWNMMasonBody=El Secretario de Defensa Frank Mason ha afirmado que la Guardia Nacional "está atada de pies y manos". Con miles de efectivos de este cuerpo cubriendo al ejército regular en once países extranjeros, las recientes situaciones de emergencia en cinco estados han "mermado seriamente la capacidad de la Guardia Nacional para defender al pueblo".
+EmailWNMMasonDate=Viernes, 29 de junio de 2007
+EmailWNMMasonFrom=Boletín de noticias de la WNM
+EmailWNMMasonSubject=Mason: "La Guardia Nacional no puede"
+EmailWNMMasonTo=Suscriptor
+
+EmailLobbyCodeBody=Julian, para la visita de Tom he cambiado los códigos de las puertas entre la sala de operaciones y el vestíbulo principal. El nuevo código es 8136. Es el mismo para las dos.
+EmailLobbyCodeDate=Sábado 30 de junio de 2007
+EmailLobbyCodeFrom=Gordon
+EmailLobbyCodeSubject=Código de puertas del vestíbulo
+EmailLobbyCodeTo=Julian

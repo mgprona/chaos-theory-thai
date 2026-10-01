@@ -1,0 +1,20 @@
+
+[GENERAL]
+Briefing_LAMBERT=LAMBERT - A few minutes ago, Third Echelon intercepted an encrypted communication between Jin Soo and the UN Headquarters in Manhattan. Something dirty is going on. We absolutely have to find out what. Prepare yourselves to infiltrate one of the most protected buildings in the world. Do not forget that UN Headquarters is international territory. Lethal force is not allowed and I’ll abort the mission as soon as I hear a general alarm. - THIS COMPUTER SOFTWARE PRODUCT IS AN AUDIOVISUAL WORK OF FICTION.  ANY RESEMBLANCE TO ACTUAL EVENTS OR ANY REAL PERSONS, LIVING OR DEAD, IS PURELY COINCIDENTAL.  FURTHER, THE UNITED NATIONS OR ANY OTHER INTERNATIONAL ORGANIZATION HAS NOT APPROVED, ENDORSED OR AUTHORIZED THE USE OF THEIR NAMES OR LOGOS OR THE PRODUCT ITSELF.
+MapName=UN HEADQUARTERS
+[Computer]
+CompBombPlan=Bombing Plan
+CompMetalDetector=Disable Metal Detector
+CompSecurityDoor=Open Security Control Room Entrance
+CompServiceDoor=Unlock Service Doors
+[Email]
+EmailJinBody=I sent you a precise plan about where to place the bomb. Be sure that the bomb blows during tonight’s assembly.
+EmailJinDate=31/10/2005
+EmailJinFrom=Jin Soo
+EmailJinSubject=Plan
+EmailJinTo=Kim Pak-tu
+EmailNewsBody=Tonight, at the UN Peacekeeping Annual Assembly in New York City, UN Secretary will speak about the Korean peninsula's peaceful future.
+EmailNewsDate=31/10/2005
+EmailNewsFrom=WNM News Wire
+EmailNewsSubject=UN Secretary speaking at UN Peacekeeping Annual Assembly
+EmailNewsTo=Subscriber

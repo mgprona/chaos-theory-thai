@@ -1,0 +1,16 @@
+[GENERAL]
+MapName=NEW YORK
+Briefing_LAMBERT=Oberst Kim, der ehemalige kommandierende Offizier des Raketenbunkers, hatte hinsichtlich der Entscheidung zur Beendigung des Krieges und zum Rückzug aus Seoul eine Meinungsverschiedenheit mit der NKA. Er nahm einige mit biologischen Waffen bestückte Gefechtsköpfe an sich und verschwand. Vor sechs Stunden tauchte er mit einer kleinen Armee aus Abtrünnigen der NKA in New York auf und besetzte dort die Grand Central Station. Wir kennen seine Beweggründe nicht, aber das Profil, das wir über ihn erstellt haben, sagt aus, dass er nicht dumm ist. Wir haben es hier mit einer größeren Sache zu tun. Verhindert, dass Kim oder irgendeiner seiner Männer einen biologischen Alptraum entfesselt, und findet heraus, was Kim wirklich vorhat.
+Briefing=AUFGABE
+
+[Interaction]
+
+[Email]
+EmailDiffusalBody=Sie brauchen zwei Männer, um eine Bombe im Notfall zu entschärfen. Die beiden müssen den aktiven Draht zur selben Zeit durchtrennen. Dieser Vorgang muss zweimal durchgeführt werden. Beim ersten Mal kommt es zur Deaktivierung der Laserverbindung, und unser zweites Sicherheitssystem wird eingeschaltet... Ich weiSS, das ist ein bisschen kompliziert, aber es soll hier ja schlieSSlich kein Unberufener reinschneien und unsere Bomben deaktivieren, oder?... Ach, das hätte ich fast vergessen, das aktive Kabel bleibt nicht lang aktiv... VG
+EmailDiffusalDate=18.Oktober 2007
+EmailDiffusalFrom=Oberst Kim
+EmailDiffusalSubject=Bombenentschärfung
+EmailDiffusalTo=Chu
+
+[Computer]
+Schematics=Baupläne

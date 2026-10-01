@@ -1,0 +1,56 @@
+[GENERAL]
+MapName=KOKUBO SOSHO
+Briefing=AUFGABE
+Briefing_LAMBERT=Das Verteidigungsministerium hat den Kontakt zu allen US-Offizieren verloren, die im Kokubo Sosho mit der japanischen Armee zusammenarbeiten. Offenbar wurden sie von den Japanern gefangen genommen. Die Japaner reagieren auf keine unserer Anfragen ... entweder scheuen sie sich zuzugeben, dass sie die Kontrolle über Otomo verloren haben, oder sie hängen mit ihm in der ganzen Sache drin. Wenn dies der Fall sein sollte, müssen wir Korea davon in Kenntnis setzen. Dann wäre ein grosser Krieg in Asien unvermeidlich ... Sollte allerdings Otomo allein hinter all dem stecken, müssen wir herausfinden, was unsere Offiziere wissen und einen Weg finden, mit ihm fertig zu werden, bevor Nordkorea herausfindet, was dort vor sich geht.
+Briefing_GRIMSDOTTIR=Sam, auch wenn die japanische Regierung seine Handlungen nicht billigen sollte, besitzt Otomo immer noch genügend Kapazitäten, um einen Angriff durchzuführen. Sollte er den Informationszweig der japanischen Armee noch unter Kontrolle haben, musst du äußerst vorsichtig mit ihm umgehen. Wer weiss, welches Chaos dieser Kerl entfesseln könnte.
+Briefing_REDDING=Unser letzter Kontakt, den wir mit dem amerikanischen Personal im Kokubo Sosho hatten, bestand aus einem abgebrochenen Telefongespräch mit Major Harper, einem der Logistikberater. Es hörte sich so an, als hätten japanische Soldaten den Raum, in dem er sich befand, gestürmt und ihn gefangen genommen. Dabei ist allem Anschein nach niemand getötet worden ... Wenn wir verhindern wollen, dass die ganze Geschichte weiter eskaliert, wirst du dafür sorgen müssen, dass das auch so bleibt.
+
+[Interaction]
+IntSwitchObject=Objekt umschalten
+
+[Computer]
+CompUnlockWarRoomDoors=Türen des Operationszentrums entsperren
+CompISDFBathhouseReport=ISDF-Badehausbericht
+CompGSDFLiveFeed=Livedaten der GSDF anzapfen
+CompDownloadISDFdata=ISDF-Daten herunterladen
+CompPressRoom=Presseraum
+CompMainDesk=Empfangsschreibtisch
+CompBasement=Keller
+CompTunnel=Tunnel
+CompServerRoom=Serverraum
+CompAccess=Zugriff
+CompObjective=Einsatzziel
+CompCamera=Kamera
+CompWNMOnlineService=WNM-Online-Service
+CompNews=Nachrichten
+
+[Email]
+EmailAmmoBody=Ich zeige dir heute Abend unsere neue Munition. Sag einfach Bescheid, wann du Zeit hast. Wenn ich nicht im Lager bin, findest du mich bei den Servern. Der Code ist 1945. Bis später.
+EmailAmmoDate=11. Juli 2007
+EmailAmmoFrom=Shoji
+EmailAmmoSubject=Die Munition für die nicht-tödlichen Waffen ist da. ;)
+EmailAmmoTo=Shigekazu
+
+EmailMedkitBody=Hinweis an das gesamte Personal. Nehmen Sie im Notfall sofort Verbindung mit Ihrem Sanitäter auf, oder benutzen Sie die neuen Erste-Hilfe-Schränke in der Nähe der Waschräume im Erdgeschoss und im ersten Untergeschoss.
+EmailMedkitDate=11. Juli 2007
+EmailMedkitFrom=Sanitätsabteilung Sondereinheit
+EmailMedkitSubject=Neue Erste-Hilfe-Schränke verfügbar
+EmailMedkitTo=Kokubo_Alle
+
+EmailProtocolBody=Erinnerung. Das neue Sicherheitsprotokoll ist jetzt aktiv. Bei Alarm werden die Server im Boden versenkt, damit kein Zugriff darauf möglich ist. Wir haben Botan und Ihnen den Zugriff auf den Retina-Scanner ermöglicht, damit Sie die Server wieder hochfahren können.
+EmailProtocolDate=11. Juli 2007
+EmailProtocolFrom=Yukio
+EmailProtocolSubject=Sicherheit im Serverraum
+EmailProtocolTo=Haru
+
+EmailWNMaBody=Der viermalige Golfweltmeister Lawson Woodrow Burns ist gestern einem Herzinfarkt erlegen. Burns war 99 Jahre alt.
+EmailWNMaDate=11. Juli 2007
+EmailWNMaFrom=WNM-Eilmeldung
+EmailWNMaSubject=Golflegende stirbt mit 99
+EmailWNMaTo=Abonnent
+
+EmailWNMbBody=Unabhängigen Schätzungen zufolge haben die Nordkoreaner bis zu siebentausend Soldaten in den viertägigen Gefechten verloren.
+EmailWNMbDate=11. Juli 2007
+EmailWNMbFrom=WNM-Eilmeldung
+EmailWNMbSubject=Hohe Verluste in Korea
+EmailWNMbTo=Abonnent

@@ -1,0 +1,144 @@
+[CRYOTANK]
+BloodTypeA=Anti-viral protocol Component One = Blood Serum Type A.
+BloodTypeB=Anti-viral protocol Component One = Blood Serum Type B.
+BloodTypeO=Anti-viral protocol Component One = Blood Serum Type O.
+FormulaPlayerA=Anti-viral protocol User A = 
+FormulaPlayerB=Anti-viral protocol User B = 
+CryoColorBlue=D Blue
+CryoColorRed=B Red
+CryoColorViolet=C Violet
+CryoColorGreen=A Green
+CryoColorYellow=E Yellow
+CryoColorAqua=F Aqua
+CryoColorError=ERROR
+
+[Transmission]
+PickUp= picked up
+NoPickUp=You are carrying too many 
+SatchelFind= recovered from satchel
+BodyFound=A Body was found...Alarm stage increased
+ComputerPickUp=Data stick picked up from computer
+DoorLock=Door locked
+DoorJam=Lock jammed
+DoorPick=Door picked
+ElevatorPower=Elevator not powered
+MedKitNotUsed=Already at full health
+MedKitUsed=Medkit used. Recovering health points
+
+[Interaction]
+Exit=Back to game...
+Abort=Abort
+Alarm=Use alarm
+Bomb=Defuse bomb
+C4=Place C4
+CallElevator=Call Elevator
+ChargePlace=Place Charge
+ChargeDetonate=Detonate Charge
+Computer=Use Computer
+ComputerBoot=Boot Computer
+ComputerShut=Shutdown Computer
+Crane=Use Crane
+Cryo=Use Cryo Tank
+CryoComm=Crane instructions
+Cuffs=Pick Cuffs
+Defuse=Defuse
+DoorOpen=Open door
+DoorStealth=Open Door Stealth
+DoorBash=Bash Door
+DoorBreak=Break Lock
+DoorClose=Close Door
+DoorPick=Pick Lock
+DoorOptic=Optic Cable
+DoorSlideOpen=Slide Open
+DoorSlideClose=Slide Closed
+Elevator=Use Elevator
+Extraction=Extraction
+GeneratorSwitch=Switch
+GeneratorPierce=Pierce
+HotWire=Bypass Circuit
+KeyPad=Use KeyPad
+KeyPadHack=Hack Keypad
+MedKit=Use MedKit
+Mic=Disable Mic
+Missile=Deactivate Missile
+Morgenhault=Free Morgenholt
+NpcZone0=Grab
+NpcZone1=Grab character
+NpcZone2=Interrogate
+NpcZone3=Talk to
+NpcZone4=...
+NpcZone5=FWD comm
+NpcZone6=body
+Otomo=Save Otomo
+Pickup=Pickup
+Pierce=Pierce
+Pump=Activate Pumps
+Rappel=Rappel on wall
+RetSafe=Use retinal safe
+RetScan=Use Retinal Scanner
+RetScanHack=Hack Retinal Scanner
+SearchCabinet=Search Cabinet
+TapPhone=Tap Phone Line
+TelemetricPlace=Place Telemetric Pick
+TelemetricPick=Pick Lock
+Trap=Open Trap
+TrapPick=Pick Trap
+TrapOptic=Optic Cable
+TurretActDeact=Activate/Deactivate
+TurretHack=Hack Turret
+TurretIFFOn=Toggle On I.F.F.
+TurretIFFOff=Toggle Off I.F.F.
+Switch=Switch object
+Turret=Interact with Turret
+WallMine=Disable Wallmine
+Window=Slide Open
+BugPhone=Bug Phone
+BlowCandle=Blow Candle
+Grabequipment=Grab equipment
+Detach=Detach
+PlaceTracker=Place Tracker
+TurnValve=Turn Valve
+GrabontoRope=Grab Onto Rope
+EnterCrawlSpace=Enter Crawl Space
+ExitFront=Exit Front
+ExitBack=Exit Back
+Hackwire=Tap Camera
+ClimbUp=Climb Up
+CutMaterial=Cut Material
+TakeAntidote=Take Antidote
+Initrappelling=Init rappelling
+Completerappelling=Complete rappelling
+InitHangover=Init Hangover
+CompleteHangover=Complete Hangover
+InitClimbShoulder=Init Climb Shoulder
+CompleteClimbShoulder=Complete Climb On
+Initlongjump=Init long jump
+Completelongjump=Complete long jump
+ShareView=Accept View Sharing
+AltComm=Sync Action
+CoopShare=Share Equip.
+CoopRevive=Heal Teammate
+
+[GameplayObject]
+DefaultObject=Object
+AmmoF2000=5.56mm Ammo
+AmmoFn7=5.7mm Ammo
+AmmoShotgun=Shells
+AmmoSniper=20mm Ammo
+Briefcase=Briefcase
+DataStick=Data stick
+Satchel=Satchel
+KeypadDoorCode=Door code:
+
+[Computer]
+TypeEmail=Email
+TypeFile=File
+TypeImage=Image
+TypeMusic=Sound
+TypeControl=Camera
+TypeTrigger=Access
+TypeObjective=Objective
+EmailFrom=From: 
+EmailTo=To: 
+EmailDate=Date: 
+EmailSubject=Subject: 

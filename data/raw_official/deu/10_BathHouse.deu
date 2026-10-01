@@ -1,0 +1,40 @@
+[GENERAL]
+MapName=BADEHAUS
+Briefing_LAMBERT=Echelon hat Doug Shetland vor sechs Stunden in Tokio aufgespürt. Er verfügt über ein Fahrzeug und er benutzt drahtlose Datenverbindungen. Den Daten zufolge, die wir bislang entschlüsseln konnten, steht er kurz davor, das Geschäft mit seinen japanischen Kontaktleuten über die Bühne zu bringen. Allem Anschein nach hat er mit ihnen ein Treffen in einem Badehaus in der Stadtmitte arrangiert. Wir müssen unbedingt herausfinden, mit wem sich Shetland trifft, und wir müssen alles uns Mögliche unternehmen, damit er sein Geschäft nicht erfolgreich abschließen kann.
+Briefing_GRIMSDOTTIR=Wir wissen mittlerweile, dass der Angriff, der die Walsh versenkte, über Seoul ausgelöst wurde ... Seinen Ursprung hatte er allerdings in Japan. Shetland scheint irgendwie in die ganze Sache verwickelt zu sein. Meine Verbindungen zu Displace belegen eindeutig, dass er von diesem Krieg profitiert. Um Shetlands Operationen zu beenden und weitere Eskalationen zu vermeiden, müssen wir herausfinden, wer seine Geschäftspartner sind, und verhindern, dass sie weiterhin Gebrauch von Zherkezhis Algorithmen machen können.
+Briefing_REDDING=Fisher, das Badehaus, in dem das Treffen stattfinden soll, ist ein öffentlich zugänglicher Ort. Neben Zivilisten wirst du da wahrscheinlich auch auf eine Wagenladung voller Schläger stoßen. Tokio wimmelt plötzlich nur so von Shetlands Leuten, und diese Jungs scheinen alle auf dem Weg zum Treffen zu sein. Frances Coen hat die letzten Monate in Asien verbracht. Sie hat ein paar interessante Verbindungen zwischen den Besitzern des Badehauses und einem japanischen Verbrechersyndikat namens Roter Nishin aufdecken können ... gut möglich, dass diese Typen Shetlands Partner sind.
+Briefing=AUFGABE
+
+[Computer]
+CompAccessCamPublicBathsA=Sicherheitskamera A - Öffentliche Bäder
+CompAccessCamPublicBathsB=Sicherheitskamera B - Öffentliche Bäder
+CompAccessCamPrivateBathsA=Sicherheitskamera A - Private Bäder
+CompAccessCamPrivateBathsB=Sicherheitskamera B - Private Bäder
+CompAccessCamPrivateRooms=Sicherheitskamera in den Privaträumen
+CompDisableCameraSystem=Kamerasystem deaktivieren
+CompISDFOrdersReport=Befehlsbericht der ISDF
+
+[Email]
+EmailMercuryFishBody=Forscher aus New Brunswick in Kanada veröffentlichten heute die Ergebnisse einer zehnjährigen Studie über die Verseuchung der Fischbestände mit Schwermetallen. Die Resultate seien "äuSSerst beunruhigend", sagte Dr. Jules Bortlien, "doch im Endeffekt irrelevant, da es gar keine Thunfische mehr gibt."
+EmailMercuryFishDate=10. Juli 2007
+EmailMercuryFishFrom=WNM-Eilmeldung
+EmailMercuryFishSubject=Noch mehr Quecksilber in Thunfischen
+EmailMercuryFishTo=Abonnent
+
+EmailMeetingReservationBody=Haru... Ich hoffe, ihr seid nicht sauer auf mich. Klar, ihr seid die Roten Nishin und dürft unsere Einrichtungen immer nutzen. Ich sorge dafür, dass unsere Ehrengäste euch nicht stören werden.
+EmailMeetingReservationDate=10. Juli 2007
+EmailMeetingReservationFrom=Yakuo
+EmailMeetingReservationSubject=Reservierung
+EmailMeetingReservationTo=Haru
+
+EmailUSSWalshBody=Die Leichen von 141 Besatzungsmitgliedern der USS Walsh sind heute in den Vereinigten Staaten eingetroffen. Die Toten sollen feierlich beigesetzt werden.
+EmailUSSWalshDate=10. Juli 2007
+EmailUSSWalshFrom=WNM-Eilmeldung 
+EmailUSSWalshSubject=Die Leichen der Seeleute der  Walsh kehren nach Hause zurück
+EmailUSSWalshTo=Abonnent
+
+EmailChaosTheoryBody=Sir, ich habe die gewünschten Algorithmen und Programme installiert. Damit die Sicherheit der Operation gewährleistet bleibt, müssen nur die Aufgaben und Unteraufgaben sowie die Anzahl der Teams, die Ausführungszeit und der Ort eingegeben werden. Der Algorithmus berechnet dann den Einsatzplan und nimmt im Bedarfsfall Kontakt mit Ihren Männern auf.
+EmailChaosTheoryDate=10. Juli 2007
+EmailChaosTheoryFrom=Karol
+EmailChaosTheorySubject=Chaostheorie
+EmailChaosTheoryTo=Shetland

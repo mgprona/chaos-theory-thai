@@ -1,0 +1,169 @@
+[MESSAGEBOX]
+DefaultAccept=OK
+DefaultCancel=CANCEL
+Yes=YES
+No=NO
+
+[SAVELOAD]
+SaveMsg=SAVING GAME...
+SaveInfo=YOU CAN SAVE OR LOAD YOUR GAME AT ANY TIME FROM THE PAUSE MENU
+SaveWarning=PLEASE DON'T TURN OFF YOUR XBOX CONSOLE.
+LoadMsg=LOADING...
+LoadGameMsg=LOADING GAME...
+CachingShaders=CACHING SM 3.0 SHADERS...
+CachingShaders2=CACHING SM 2.0 SHADERS...
+
+[CONTROLLER]
+ControllerLostTitle=CONTROLLER DISCONNECTED
+ControllerLostMsg=PLEASE RECONNECT THE CONTROLLER TO PORT [ %i ] AND PRESS START TO CONTINUE
+RemoteControllerLostMsg=TEAMMATE CONTROLLER HAS BEEN DISCONNECTED. WAITING FOR YOUR TEAMMATE
+ControllerTitle=CONTROLLER
+ControllerChoiceMsg=PLEASE CHOOSE ANOTHER CONTROLLER AND PRESS START TO CONTINUE
+
+[NAVIGATION]
+MsgBox_A=SELECT
+MsgBox_B=CANCEL
+MsgBoxYes_A=YES
+MsgBoxNo_B=NO
+
+POPUP_A=SELECT
+POPUP_B=BACK
+
+Common_A=SELECT
+Common_B=BACK
+
+Main_A=SELECT
+
+MatchList_A=JOIN
+MatchList_B=BACK
+MatchList_Y=CREATE
+MatchList_X=REFRESH
+
+CreateMatch_A=SELECT
+CreateMatch_B=BACK
+
+Lobby_A=SELECT
+Lobby_B=QUIT
+Lobby_X=READY
+LobbySetup_A=CHANGE
+
+Profile_A=SELECT
+Profile_B=BACK
+Profile_X=DELETE
+Profile_Y=CREATE
+
+VKeyboard_A=SELECT
+VKeyboard_B=BACK
+VKeyboard_X=DELETE
+VKeyboard_Y=SWITCH
+VKeyboardNumbers_Y=NUMBERS
+VKeyboardLetters_Y=LETTERS
+
+
+StickyCamera_X=NOISE
+StickyCamera_Y=GAS
+StickyCamera_B=OUT
+StickyCamera_LT=PREVIOUS
+StickyCamera_RT=NEXT
+StickyCamera_DL=NIGHT
+StickyCamera_DR=HEAT
+StickyCamera_AL=ZOOM
+
+OpticCable_DL=NIGHT
+OpticCable_DR=HEAT
+OpticCable_DU=EMF
+
+OpsatMenu_A=SELECT
+OpsatMenu_B=BACK
+
+OpsatMenuMap_A=HIDE
+OpsatMenuMap_LT=PREVIOUS
+OpsatMenuMap_RT=NEXT
+OpsatMenuMap_AL=ZOOM
+OpsatMenuMap_AR=CAMERA
+
+
+EEV_A=SELECT
+EEV_DL=NIGHT
+EEV_DR=HEAT
+EEV_AR_clic=OUT
+EEV_AL_clic=ZOOM
+
+
+Authentication_A=SELECT
+Authentication_B=BACK
+
+Friends_A=SELECT
+Friends_B=BACK
+Friends_Y=ADD
+
+RecentPlayers_A=SELECT
+RecentPlayers_B=BACK
+
+OnlineMain_X=SIGN OUT
+OnlineMain_B=BACK
+OnlineMain_A=SELECT
+
+OptiMatch_B=BACK
+OptiMatch_A=SELECT
+
+QuickMatch_Y=CREATE
+QuickMatch_X=REFRESH
+QuickMatch_B=BACK
+QuickMatch_A=JOIN
+
+MissionReview_A=CONTINUE
+MissionReview_B=BACK
+MissionReview_Y=RESTART
+MissionReview_X=QUIT
+MissionReviewFinish_A=END
+
+
+CreateMsg_A=SELECT
+CreateMsg_B=BACK
+CreateMsg_Y=PLAY
+Inbox_X=DELETE
+Inbox_A=READ
+Inbox_B=BACK
+ReadMsg_X=DELETE
+ReadMsg_Y=PLAY
+ReadMsg_A=SELECT
+ReadMsg_B=BACK
+VoiceRecorder_A=SELECT
+VoiceRecorder_B=BACK
+VoiceRecorder_X=DELETE
+
+LoadOut_A=CONTINUE
+LoadOut_B=BRIEFING
+LoadOut_Y=INFO
+LoadOutSel_A=INFO
+LoadOutSel_X=REMOVE
+LoadOutSel_Y=ADD
+LoadOutSel_B=BACK
+
+LoadGame_A=LOAD
+LoadGame_B=BACK
+
+SaveGame_A=SAVE
+SaveGame_B=BACK
+
+Hacking_A=ACCEPT
+Hacking_B=ABORT
+Hacking_X=LOCK
+Hacking_AL=SELECT
+
+
+UserOffline=NOT SIGNED IN
+UserLoginPassword=NOT SIGNED IN : PASSCODE NEEDED
+UserLoginSuccess=SIGNED IN : %s
+UserLoginFail=SIGN-IN FAILED
+
+Missile_A=CUT
+Missile_B=BACK
+CryoTank_A=MIX
+CryoTank_B=EXIT
+Crane_AL=SELECT
+Crane_RT=MOVE DOWN
+Crane_LT=MOVE UP
+Bomb_A=CUT
+Bomb_B=EXIT

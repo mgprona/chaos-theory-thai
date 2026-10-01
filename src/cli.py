@@ -206,6 +206,16 @@ def cmd_backup(args: argparse.Namespace) -> None:
                 shutil.copy2(f, dst)
         print("Font backups created in backups/Fonts/")
 
+    # 3. Backup any existing loose localization files
+    existing_loc = game_dir / "Data" / "System" / "Localization"
+    if existing_loc.exists():
+        loose_backup = backup_dir / "loose" / "Data" / "System" / "Localization"
+        loose_backup.mkdir(parents=True, exist_ok=True)
+        for f in existing_loc.glob("*.int"):
+            dst = loose_backup / f.name
+            if not dst.exists():
+                shutil.copy2(f, dst)
+
 
 def cmd_install(args: argparse.Namespace) -> None:
     print("=" * 60)
@@ -218,27 +228,50 @@ def cmd_install(args: argparse.Namespace) -> None:
     # Ensure backups exist first
     cmd_backup(args)
 
-    # 1. Install UMD
+    installed_anything = False
+
+    # 1. Install UMD (if built)
     dist_umd = dist_dir / "System" / "dynamic-pc.umd"
     if dist_umd.exists():
         target_umd = game_dir / config.get("umd_subpath", r"System\dynamic-pc.umd")
         print(f"Installing {dist_umd} -> {target_umd}...")
         shutil.copy2(dist_umd, target_umd)
         print("UMD installed successfully!")
+        installed_anything = True
     else:
-        print(f"Note: dist UMD not found at {dist_umd}. Run 'build-umd' first.")
+        print(f"Note: dist UMD not found at {dist_umd} (using loose file mode or run 'build-umd').")
 
-    # 2. Install PCX Fonts
+    # 2. Install loose localization files (if compiled)
+    dist_loose = dist_dir / "loose"
+    if dist_loose.exists():
+        loose_files = list(dist_loose.rglob("*.int"))
+        if loose_files:
+            print(f"Installing {len(loose_files)} loose localization files to game directory...")
+            for lf in loose_files:
+                rel = lf.relative_to(dist_loose)
+                dst = game_dir / rel
+                dst.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copy2(lf, dst)
+            print(f"Loose localization files installed into {game_dir}!")
+            installed_anything = True
+
+    # 3. Install PCX Fonts
     dist_fonts = dist_dir / "Data" / "Textures" / "Font"
     if dist_fonts.exists():
         target_font_dir = game_dir / config.get("font_subpath", r"Data\Textures\Font")
+        target_font_dir.mkdir(parents=True, exist_ok=True)
+        font_count = 0
         for pcx in dist_fonts.glob("*.pcx"):
             dst = target_font_dir / pcx.name
-            print(f"Installing font: {pcx.name} -> {dst}")
             shutil.copy2(pcx, dst)
-        print("Fonts installed successfully!")
+            font_count += 1
+        print(f"Installed {font_count} PCX fonts into {target_font_dir}!")
+        installed_anything = True
 
-    print("\nMod installation completed!")
+    if not installed_anything:
+        print("Warning: No compiled mod files found in dist/. Run 'compile' or 'build-all' first.")
+    else:
+        print("\nMod installation completed successfully!")
 
 
 def main():

@@ -1,0 +1,179 @@
+[P_04_GCS_AlarmCheck]
+POPUPMESSAGE_0001=Alarm Stage One
+POPUPMESSAGE_0003=Alarm Stage Two - Enemies Equipping Body Armor
+Note_0007L=Enemies are wearing body armor
+POPUPMESSAGE_0004=Alarm Stage Three - Enemies Equipping Helmets
+Note_0008L=Enemies are wearing helmets
+POPUPMESSAGE_0005=Alarm Stage Four: Enemies Fortifying Positions
+Note_0009L=Enemies have fortified their positions
+
+[P_04_GCS_BatroomSoldier]
+
+[P_04_GCS_BombChecks]
+
+[P_04_GCS_ChuBodyGuard]
+
+[P_04_GCS_Communications]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - From what we can tell, Kim has men all over the area. You'll need to cover some ground to get to the station itself.
+Speech_-001L=(null)
+Speech_0002L=LAMBERT - My god... they aren't fooling around. It looks like they've rigged the subway tunnels under the station with bombs. You'll need to disarm them all before going eavesdropping on that phone call.
+Note_0048L=To disable a bomb, both Agents must simultaneously cut the active wire.
+Speech_-001L=(null)
+Speech_0003L=LAMBERT - Good work... that file has a complete schematic for the bombs. Take a look at it before you touch anything so you know what you're working with.
+Speech_-001L=(null)
+Speech_0004L=LAMBERT - Good job. That's the first bomb taken care of.
+Speech_-001L=(null)
+Speech_0017L=LAMBERT - Good work... that's two bombs down.
+Speech_-001L=(null)
+Speech_0005L=LAMBERT - Good work you two. That's all of the bombs. Now hurry up and get up into the station, we need to find out what Kim is up to.
+Speech_-001L=(null)
+Speech_0042L=LAMBERT - Don't get too far ahead of yourselves. You need to go back and disarm those bombs before Kim takes out all of Train Station.
+POPUPMESSAGE_0046=Deactivate the bombs under Train Station.
+Speech_-001L=(null)
+Speech_0043L=LAMBERT - I'm betting the second bomb is somewhere around these turbines... find it and disarm it.
+Speech_-001L=(null)
+Speech_0029L=LAMBERT - Slow down. Get back into the old maintenance area and disarm that bomb.
+Speech_-001L=(null)
+Speech_0030L=LAMBERT - Slow down. Head back into the turbine room and find that second bomb.
+POPUPMESSAGE_0047=Bug the telephone in Train Station Hall before Chu reaches it.
+Speech_-001L=(null)
+Speech_0006L=LAMBERT - Good. Chu will be receiving a call from the payphone in the center of the station. You need to bug that phone without being detected, or Chu will panic, and we're finished. Don't get detected.
+Speech_-001L=(null)
+Speech_0036L=LAMBERT - Dammit! Chu detected you... that mission is over!
+Speech_-001L=(null)
+Speech_0011L=LAMBERT - Good job. Now lay low and listen while Chu makes his call. Don't get detected until we know what's going on.
+Speech_-001L=(null)
+Speech_0007L=LAMBERT - Good lord. You need to get that anti-virus and take care of Kim's man. Follow Chu to the locker room and get the virus from the locker.
+Speech_-001L=(null)
+Speech_0032L=LAMBERT - Good thinking. Now you have the locker number and the code. Go and get that anti-virus.
+Speech_-001L=(null)
+Speech_0038L=LAMBERT - Goddammit, what are you thinking?! Chu was our only chance... now we'll never stop Kim.
+Speech_-001L=(null)
+Speech_0044L=LAMBERT - Damn! Bugging that phone was our only chance to overhear Chu and Kim's conversation... I'm aborting the mission!
+Speech_-001L=(null)
+Speech_0033L=LAMBERT - Do not enter that bathroom without taking the anti-virus... you'll become infected and we'll have to abort the mission.
+Speech_-001L=(null)
+Speech_0034L=LAMBERT - Good job. Now one of you will need to inject himself with the anti-virus to enter the bathroom and take out Kim's infected man.
+Speech_-001L=(null)
+Speech_0045L=LAMBERT - Are you crazy?! I'm aborting the mission and calling in CDC to quarantine the building before all of New York is wiped out by that plague.
+Speech_-001L=(null)
+Speech_0010L=LAMBERT - Damn... we're too late. They've already managed to get a subway car rolling. No time to get down to the platform. Jump on the roof of the train, hurry!
+Speech_-001L=(null)
+Speech_0015L=LAMBERT - Good job. Whatever virus he had won't last long once his body temperature falls off. The room should be safe. Now get down to the lower platform and stop Kim's men from escaping with the rest of the virus. 
+
+[P_04_GCS_ConvCellPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=CHU - Are all the bombs set?
+Speech_0002L=SOLDIER - Just one more to go sir.
+Speech_0003L=CHU - Well hurry up... and be careful. Those things are sensitive. I don't want this place coming down while I'm in it.
+Speech_0004L=SOLDIER - Yes sir.
+Speech_0005L=CHU - Hello? Colonel. Yes. The bombs will be set in a few minutes. Yes. I understand. A public phone? Yes sir. The one in the center of the main station? Yes sir. I'll be there.
+
+[P_04_GCS_ConvEnding]
+Speech_-001L=(null)
+Speech_0001L=WEN - How come we're the last ones to evacuate?
+Speech_0002L=YUAN - Someone has to be last.
+Speech_0003L=WEN - Yeah, but these bombs... now poor Ming has the virus... I'm getting a bit nervous.
+Speech_0004L=YUAN - Yeah... well, everybody dies sooner or later.
+Speech_0005L=WEN - Sure. But I don't want it to be today.
+Speech_-001L=(null)
+Speech_0007L=WEN - How many guys are they sending ahead?
+Speech_0008L=YUAN - Lots. Maybe thirty.
+Speech_0009L=WEN - Where are they going?
+Speech_0010L=YUAN - Chu's orders said not to ask. We'll find out when we get there.
+
+[P_04_GCS_ConvHydroTunnel]
+Speech_-001L=(null)
+Speech_0001L=CHIN - Hey, careful with that. You know what that thing is for right?
+Speech_0002L=PONG - Yeah. It's some kind of bomb.
+Speech_0003L=CHIN - Some kind of bomb? If that thing explodes, all of forty-second avenue between 5th and Lex will come down on our heads.
+Speech_0004L=PONG - Uh... oh...
+Speech_0005L=CHIN - Yeah... it's not some kind of bomb, it's that kind of bomb.
+Speech_0006L=PONG - Okay... I'll... ulp... I.ll be more careful.
+Speech_0007L=CHIN - Good idea.
+Speech_-001L=(null)
+Speech_0008L=CHIN - Is it active?
+Speech_0009L=PONG - I'm not sure. I always forget whether it's the blue wire or the yellow wire...
+Speech_0010L=CHIN - Well, I suggest you check the schematics on the laptop before you kill all of us.
+Speech_0011L=PONG - But the laptop is way over there...
+Speech_0012L=CHIN - You'll be all the way over there if that bomb goes off... and you'll be all the way up in Harlem and in Jersey at the same time you'll be in so many pieces.
+
+[P_04_GCS_ConvPubPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=CHU - Yes sir.
+Speech_0002L=UNKNOWN - There's been a slight change of plans.
+Speech_0003L=CHU - Of course. No plan is perfect. What's the problem?
+Speech_0004L=UNKNOWN - One of my men managed to infect himself. He was smart enough to get in a washroom and duct tape himself inside, but I don't want it spilling to the rest of the men.
+Speech_0005L=CHU - I see.
+Speech_0006L=UNKNOWN - The locker that contains your payment also contains a single dose of the anti-virus.
+Speech_0007L=CHU - So you want me to cure your man?
+Speech_0008L=UNKNOWN - No, it's far too late for that. Besides, you would die if you entered the room and didn't take the anti-virus yourself.
+Speech_0009L=CHU - So I'll need to take the anti-virus myself and kill your man to retrieve the rest of the virus samples.
+Speech_0010L=UNKNOWN - You're a smart man, Chu. I'll miss you. The locker number is 9201. The key code is your son's birthdate.
+Speech_0011L=CHU - Thank you Colonel. I won't fail you.
+
+[P_04_GCS_ConvSubway]
+Speech_-001L=(null)
+Speech_0001L=JIN - I have another question...
+Speech_0002L=JUNG - The answer is no.
+Speech_0003L=JIN - No... no... seriously... now that the train is gone, how are we supposed to get at that bomb up there if something goes wrong?
+Speech_0004L=JUNG - Maybe you didn't understand our orders... if something goes wrong, that bomb is supposed to explode.
+Speech_0005L=JIN - Oh... okay... hey... wait a minute... wouldn't that kill us?
+Speech_0006L=JUNG - Yes. That's why we're staying here... to make sure nothing goes wrong.
+
+[P_04_GCS_InterroChu]
+Speech_-001L=(null)
+Speech_0002L=CHU - Americans... ha, some renegade New York cop... you think this is an action movie... you think you'll beat information out of me... not a chance...
+Speech_0004L=CHU - Ahh! My god... you're not police! Please, don't kill me! I'll tell you everything. The locker code is my son's birth date 0315
+Note_0006L=The key code to open the locker is 0315
+
+[P_04_GCS_InterroDualChu]
+Speech_-001L=(null)
+Speech_0001L=Uhghgh... kkaaaa... achhchc... Ooo... help...
+Speech_-001L=(null)
+Speech_0003L=Ah... ugh... what... who is it? I... I can't see... my eyes... help me... so... uhghh... yyyhhghh... so sick... uhgh... it... it... it burns... help...Chu? Chu? Is that you? Ugghh... help... help me...
+
+[P_04_GCS_LockerAntidote]
+
+[P_04_GCS_MainHallChu]
+
+[P_04_GCS_MainHallGuards]
+
+[P_04_GCS_MetroTrain]
+
+[P_04_GCS_Objectives]
+Objective_0001=Figure out what Colonel Kims real agenda is.
+Objective_0008=Colonel Kim and his men have taken over Train Station, but have not yet issued any demands. Discover what their plans are and stop them.
+POPUPMESSAGE_0030=Figure out what Colonel Kims real agenda is.
+Objective_0002=Deactivate the bombs under Train Station.
+Objective_0009=Kims men have planted three bombs in the subway tunnels. The bombs are extremely powerful and could collapse several city blocks. The bombs must be disarmed.
+Objective_0003=Bug the telephone in Train Station Hall before Chu reaches it.
+Objective_0010=Chu, and agent of Kims, will be receiving a telephone call on a payphone in the main hall. Bug the telephone before the call comes in order to overhear the conversation.
+POPUPMESSAGE_0031=Deactivate the bombs under Train Station.
+Objective_0014=Get the antidote from the locker.
+Objective_0015=Chu is going to recover a sample of the antidote from a locker. Discover which locker and neutralize Chu before he uses the antidote himself.
+Objective_0042=Eliminate the contaminated soldier in the bathroom.
+Objective_0043=Use the antidote to enter the washroom without becoming infected, then eliminate the infected soldier.
+Objective_0044=Follow Chu to the locker.
+Objective_0045=Follow Chu to the locker.
+POPUPMESSAGE_0032=Get the antidote from the locker.
+Objective_0046=Secure the chemical toxin in possession of the infected soldier.
+Objective_0047=Secure the chemical toxin in possession of the infected soldier.
+POPUPMESSAGE_0048=Eliminate the contaminated soldier in the bathroom.
+Objective_0018=Stop Kims men from leaving with the rest of the toxin.
+Objective_0019=Get to the subway platform and stop the rest of Kims men from escaping before its too late.
+Objective_0006=Jump on the subway car to follow it to its destination.
+Objective_0013=It is too late to stop Kims men from escaping. Jump down onto the roof of the passing subway car and follow them to their next destination.
+POPUPMESSAGE_0034=Jump on the subway car to follow it to its destination.
+Objective_0022=Recover schematics for the bombs.
+Objective_0023=Recover schematics for the bombs.
+POPUPMESSAGE_0035=Deactivate the bombs under Train Station.
+POPUPMESSAGE_0036=Get the antidote and toxin from the locker.
+POPUPMESSAGE_0037=Eliminate the contaminated soldier in the bathroom.
+
+[P_04_GCS_ShootLaptop]
+
+[P_04_GCS_Timer]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Don't get too far ahead of yourselves. You need to go back and disarm those bombs before Kim takes out all of Train Station.

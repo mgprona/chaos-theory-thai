@@ -1,0 +1,16 @@
+[GENERAL]
+MapName=NEW YORK
+Briefing_LAMBERT=Le colonel Kim, l'ancien responsable du bunker à missiles, a eu un violent désaccord avec sa hiérarchie quand celle-ci a décidé de se retirer de Séoul et de mettre un terme à la guerre. Il a alors disparu, en emportant avec lui plusieurs ogives contenant des armes biologiques. Il y a six heures de cela, il a refait surface à la tête d'une petite armée de déserteurs nord-coréens. Il se trouve désormais à New York, où il a pris le contrôle de la gare centrale. Nous ignorons ce qu'il projette, mais nous savons qu'il n'est pas suicidaire. Tout cela cache quelque chose. Empêchez-le d'utiliser ses armes chimiques et découvrez ce qu'il mijote.
+Briefing=A FAIRE
+
+[Interaction]
+
+[Email]
+EmailDiffusalBody=Deux hommes sont nécessaires pour désamorcer une bombe en situation d'urgence. Ils doivent couper simultanément le fil par lequel passe le courant, et il faut le faire à deux reprises, car la première coupe le laser mais lance le second système de sécurité. La manoeuvre est délicate, je sais, mais nous ne voudrions pas qu'un apprenti héros parvienne à les désamorcer. Oh, j'oubliais... le fil par lequel passe le courant change en permanence, alors, faites attention...
+EmailDiffusalDate=18/10/2007
+EmailDiffusalFrom=Colonel Kim
+EmailDiffusalSubject=Désamorçage des bombes
+EmailDiffusalTo=Chu
+
+[Computer]
+Schematics=Schéma

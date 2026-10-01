@@ -1,0 +1,613 @@
+[P_03_Bank_AfterSprinkler]
+
+[P_03_Bank_AlarmCheck]
+POPUPMESSAGE_0001=Alarm Stage Reduced - Enemies Standing Down - Removing Helmets
+POPUPMESSAGE_0002=Alarm Stage Reduced - Enemies Standing Down - Removing Body Armor
+POPUPMESSAGE_0003=Alarm Stage Reduced - Enemies Standing Down
+
+[P_03_Bank_Communications]
+Speech_0207L=LAMBERT - Fisher, the arms that Lacerda had were purchased by someone using a Panamanian offshore bank as proxy. I want to take a peek inside their records... unfortunately, it's not as simple as that. This op can't look like a US intelligence gig, so to cover it up you'll need to crack the bank's vault and lift some bearer bonds - property of the French Government.
+Speech_0208L=GRIMSDOTTIR - I hit the Bank's server's last night, but I didn't find much. All their work stations run drivers for plug and play hard-drives. I'm guessing they secure them physically every night.  Crazy world we live in where electronic intrusion is more of a threat than physical intrusion... Anyway, they probably store the drives in the main vault meaning they're not going to be easy to get a hold of.
+Speech_0209L=REDDING - First, the good news. You've been in this bank before. You were part of a CIA raiding team that went in in '89 looking for some of Noriega's drug money. Most of the intelligence we have on the bank actually comes from your team. The bad news is that we have a lot of physical security. Lasers, motion sensors, locked doors, cameras, the whole lot, and none of it was there in '89... We've also contacted a... uh... specialist... to help crack the vault. You better talk to him.
+Speech_0210L=TURTLE - Look... I don't know who you are, or why I'm helping you other than that it's better than staring at the ceiling in my cell. I hear you have to face a Mason Wells 88. Well, it ain't a one man job... but they tell me you can do the work of five men. Fine I says. I had your mate Willy make a little deposit for you. You'll be needing some things from a safety box in the little vault that we can use to crack the main one.
+Speech_0211L=PARTRIDGE - We'll continue on our course for the Yellow Sea and send you back by helicopter to Panama City. I have no authorization to act inside Panamanian borders, so you'll be operating covertly out of the Embassy. You and your partner will be on your own in Panama.
+Speech_0252L=O'DELL - Chinese Ambassador to the United States, Long Dan, was recalled to China today for an emergency meeting with government officials regarding ongoing problems between Korea and Japan. Long Dan is expected to renew his efforts to bring Korean, US and Japanese delegates to the bargaining table.
+Speech_0253L=O'DELL - In sports... pitcher Akira Watanabe arrived in New York yesterday for his first practice with his new team. After a full day of evaluations, head pitching coach Mathieu Ferland stated that Watanabe was, quote, easily the best baseball pitcher ever...
+POPUPMESSAGE_0265=Alarm Stage One
+Speech_-001L=(null)
+Speech_0224L=LAMBERT - Fisher... watch the alarms... this is a bank robbery after all.
+POPUPMESSAGE_0266=Alarm Stage Two - Enemies Equipping Body Armor
+Speech_-001L=(null)
+Speech_0225L=LAMBERT - I'm serious Sam... too many alarms and you'll have the whole Panamanian Army after you.
+POPUPMESSAGE_0267=Alarm Stage Three - Enemies Equipping Helmets
+Speech_-001L=(null)
+Speech_0226L=LAMBERT - Fisher... I'm not kidding around. One more alarm and you'll be in big trouble.
+Speech_-001L=(null)
+Speech_0227L=LAMBERT - Dammit, Sam. They called a general alarm... you're going to have to battle your way through now. Complete your primary objectives and get out of there!
+Speech_0272L=GRIMSDOTTIR - Sam, I've added some info about the bank to your OPSAT.
+Speech_0027L=GRIMSDOTTIR - Fisher, I just synched your OPSAT with intelligence on the bank that you and your team gathered back in '89.
+Speech_0028L=FISHER - Ah the memories...
+Speech_0029L=GRIMSDOTTIR - Yeah... judging from your report... sounds like it was quite a vacation...
+Speech_0030L=FISHER - It was actually. I spent most of the rest of that year sleeping in a ditch on the road between Baghdad and Kuwait.
+Speech_0031L=GRIMSDOTTIR - Oh. Well... if it's any consolation, I had a bad year that year too.
+Speech_0032L=FISHER - What? You weren't working for the government during the Gulf War...
+Speech_0033L=GRIMSDOTTIR - No. I was in Tenth Grade...
+Speech_0034L=FISHER - Oh. Right. Yuck.
+Speech_0228L=GRIMSDOTTIR - Sam, I've added some info about the bank to your OPSAT.
+Speech_0273L=GRIMSDOTTIR - Sam, you'll need to disable a junction box on the roof to switch off the magnetic locks on the rooftop windows.
+Speech_0111L=GRIMSDOTTIR - Fisher, I've got a copy of a work order here that the bank filed with their insurance company. It says the dome windows over the lobby are magnetically locked. See if you can find a breaker or junction box up here and power down the locks.
+Speech_0114L=FISHER - Right.
+Speech_-001L=(null)
+Speech_0229L=GRIMSDOTTIR - Sam, you'll need to disable a junction box on the roof to switch off the magnetic locks on the rooftop windows.
+Speech_0274L=GRIMSDOTTIR - Lasers just came on line in the lobby Sam.
+Speech_0115L=GRIMSDOTTIR - Good work Sam, that shut down the magnetic locks on the windows... hey... wait a minute... power spike. The lobby... it looks like a laser grid just came on line...
+Note_0254L=Laser sensors are active in the lobby and upstairs hallways.
+Speech_0118L=FISHER - Lasers? Lasers are so...
+Speech_0119L=GRIMSDOTTIR - Nineties... ?
+Speech_0120L=FISHER - I was going to say seventies... can you please stop making me feel old.
+Speech_0121L=GRIMSDOTTIR - Got bad news for you Sam... you are old.
+Speech_-001L=(null)
+Speech_0230L=GRIMSDOTTIR - Lasers just came on line in the lobby Sam.
+Note_0259L=Laser sensors are active in the lobby and upstairs hallways.
+Speech_0275L=TURTLE - I got the serial number. Now you need to tap the authorization locks in the security office, the President's Office and the Treasurer's Office.
+Speech_0050L=LAMBERT - Fisher, here's our advisor. He'll walk you through the steps that will get you into that vault... be patient with him...
+Speech_0053L=FISHER - Oh... he's one of those...
+Speech_0054L=TURTLE - Right! Hello? Is this thing on then?
+Speech_0057L=FISHER - It's on. I'm here. Have you been briefed?
+Speech_0060L=TURTLE - Whatever. Listen... this is a Mason Wells 88. Each one is unique. You wanna get a peek up this girls skirt, first thing you'll need to do is authorize an opening.
+Speech_0256L=FISHER - How do I do that?
+Speech_0257L=TURTLE - The Bank President and the Treasurer will each have an authorization lock in their office. There'll be another one in the security office. You'll need to disable all three.
+Speech_0258L=FISHER - Ok.
+Speech_0061L=FISHER - Where do I find that?
+Speech_0062L=TURTLE - Under the main lobby floor, there should be a vent system over the vault. I'm guessing you'll be able to scan the barcode from in there.
+Speech_0065L=FISHER - Gotcha.
+Speech_0237L=TURTLE - Right... we need to sneak a peak at the vault's serial number. It's etched as a barcode on the vault casing. You'll be able to read it from the vent system under the lobby floor.
+Speech_-001L=(null)
+Speech_0246L=LAMBERT - Don't get ahead of yourself, Fisher. You need to scan the serial number for the vault before you'll have any chance of getting inside it.
+Speech_0247L=FISHER - Alright... I'll head back.
+Speech_0248L=LAMBERT - Sam, get the serial number for the vault before you proceed.
+Speech_-001L=(null)
+Speech_0066L=TURTLE - There you are... that's yer serial number. 091772 series. That means she's a four step tango. First thing you'll need to do is authorize an opening.
+Speech_0071L=FISHER - How do I do that?
+Speech_0072L=TURTLE - The Bank President and the Treasurer will each have an authorization lock in their office. There'll be another one in the security office. You'll need to disable all three.
+Speech_0073L=FISHER - Ok.
+Speech_-001L=(null)
+Speech_0238L=TURTLE - I got the serial number. Now you need to tap the authorization locks in the security office, the President's Office and the Treasurer's Office.
+Note_0260L=Guards patrolling laser grids have beacons that disable the grid locally.
+Speech_0276L=GRIMSDOTTIR - Stick close to the patrolling guard and you can avoid the lasers.
+Speech_0122L=GRIMSDOTTIR - Looks like more lasers ahead Sam. This whole places is singing with photons...
+Speech_0123L=FISHER - There's a guard who seems to be walking around here with no problems...
+Speech_0124L=GRIMSDOTTIR - Maybe he has some kind of beacon... get close and you can stay in his electronic shadow...
+Speech_-001L=(null)
+Speech_0231L=GRIMSDOTTIR - Stick close to the patrolling guard and you can avoid the lasers.
+Speech_-001L=(null)
+Speech_0074L=TURTLE - That's the President's authorization. Two more to go.
+Speech_-001L=(null)
+Speech_0075L=TURTLE - That's the Treasurer's authorization. Two more to go.
+Speech_-001L=(null)
+Speech_0076L=TURTLE - That's the security authorization. Two more to go.
+Speech_-001L=(null)
+Speech_0077L=TURTLE - That's two down. Now just authorize from the President's office.
+Speech_-001L=(null)
+Speech_0078L=TURTLE - That's two down. Now just authorize from the Treasurer's office.
+Speech_-001L=(null)
+Speech_0079L=TURTLE - That's two down. Now just authorize from the security office.
+Speech_0277L=TURTLE - Authorization is done. Head to the vault. There is some equipment for you in a safety deposit box.
+Speech_0080L=TURTLE - Right... that's authorization done. The outer cage to vault should be opening as we speak.
+Speech_0081L=FISHER - Great.
+Speech_0083L=TURTLE - Just inside the cage there's a small vault full of safety deposit boxes. You're mate dropped off some kit for you in one of them.
+Speech_0084L=FISHER - Alright... I'll let you know when I'm there.
+Speech_-001L=(null)
+Speech_0239L=TURTLE - Authorization is done. Head to the vault. There is some equipment for you in a safety deposit box.
+Speech_0278L=REDDING - The gear you need is in safety deposit box 1024.
+Speech_0085L=REDDING - Sam, it's Will...
+Speech_0086L=FISHER - Turtle said one of these boxes had some equipment in it?
+Speech_0087L=REDDING - Chest level, right hand side. Number 1024.
+Speech_-001L=(null)
+Speech_0234L=REDDING - The gear you need is in safety deposit box 1024.
+Speech_0279L=TURTLE - Take the new kit and get to the main vault.
+Speech_0088L=TURTLE - Careful with that gear.
+Speech_0089L=FISHER - What is all this stuff?
+Speech_0090L=TURTLE - The charges are for the vault and the other do-hickey is a telemetric lock pick.
+Speech_0091L=FISHER - A telemetric lock pick?
+Speech_0092L=TURTLE - Head down to the main vault... we'll walk you through it there.
+Speech_-001L=(null)
+Speech_0240L=TURTLE - Take the new kit and get to the main vault.
+Speech_0280L=TURTLE - To pick two locks simultaneously you need to use the telemetric pick. Place the male end in one lock and the female in the other. Pick the female end and your movements will be replicated in the male end.
+Speech_0095L=TURTLE - Alright, next you need to pop both of these locks at the same time.
+Speech_0096L=FISHER - That's what the telemetric pick is for.
+Speech_0097L=TURTLE - Exactly, it reads your movements in one lock and mimics them in the other lock, real-time.
+Speech_0098L=FISHER - You guys use some cool toys.
+Speech_-001L=(null)
+Speech_0241L=TURTLE - To pick two locks simultaneously you need to use the telemetric pick. Place the male end in one lock and the female in the other. Pick the female end and your movements will be replicated in the male end.
+Speech_0281L=TURTLE - Right, now once you got the feel for each pin, you have to wait a second for the telemetric pick to synch up. Once it beeps you can pick the pin and move to the next one. Don't try and pick a pin before you're in synch, or you'll have to restart.
+Speech_0249L=TURTLE - Right, now once you got the feel for each pin, you have to wait a second for the telemetric pick to synch up. Once it beeps you can pick the pin and move to the next one. Don't try and pick a pin before you're in synch, or you'll have to restart.
+Speech_0250L=FISHER - Right.
+Speech_-001L=(null)
+Speech_0251L=TURTLE - Right, now once you got the feel for each pin, you have to wait a second for the telemetric pick to synch up. Once it beeps you can pick the pin and move to the next one. Don't try and pick a pin before you're in synch, or you'll have to restart.
+Speech_0282L=TURTLE - Alright, now place the charges over the main pins and blow 'em.
+Speech_0103L=TURTLE - Alright, now place the charges over the main pins. Once they're all in place... well, I'm sure you can figure it out.
+Speech_-001L=(null)
+Speech_0242L=TURTLE - Alright, now place the charges over the main pins and blow 'em.
+Speech_0283L=LAMBERT - Great work. Sam, get in there and find those harddrives.
+Speech_0106L=TURTLE - And... open sesame...
+Speech_0107L=FISHER - Lambert... we're in.
+Speech_0108L=LAMBERT - Great work. Sam, get in there and find those harddrives.
+Speech_-001L=(null)
+Speech_0243L=LAMBERT - Great work. Sam, get in there and find those harddrives.
+Speech_0284L=LAMBERT - That's the first of the eight mails uploaded, Fisher. Seven to go.
+Speech_0002L=LAMBERT - That's a relief. Our installer seems to be compatible with their local OS.
+Speech_0003L=FISHER - That's it? Just plug and play...
+Speech_0004L=LAMBERT - That's the idea. No fuss. Get all eight of those forged mails uploaded.
+Speech_0005L=FISHER - Make the robbery look like an inside job...
+Speech_0082L=LAMBERT - Exactly.
+Speech_-001L=(null)
+Speech_0212L=LAMBERT - That's the first of the eight mails uploaded, Fisher. Seven to go.
+Speech_-001L=(null)
+Speech_0006L=LAMBERT - That's half of the forged mails Sam. Four more to go.
+Speech_0007L=FISHER - Thanks... I've always found it hard to count past 3...
+Speech_0008L=LAMBERT - No need to be smarmy Sam...
+Speech_-001L=(null)
+Speech_0009L=LAMBERT - Great work Fisher, one more forged mail and we're covered.
+Speech_0010L=FISHER - Doin' my best.
+Speech_0285L=LAMBERT - Great work Sam, that's all the forged emails.
+Speech_0011L=LAMBERT - Great work Fisher. Now any investigation into the robbery will only point back at the investigators...
+Speech_0012L=FISHER - So the Panamanian government will end up sending some innocent banker to prison?
+Speech_0013L=LAMBERT - Innocent if you don't count providing arms to revolutionaries...
+Speech_0014L=FISHER - Oh... right... I forgot... bankers: evil.
+Speech_-001L=(null)
+Speech_0213L=LAMBERT - Great work Sam, that's all the forged emails.
+Speech_0286L=LAMBERT - Damn it Fisher. You destroyed one of the computers that we needed to upload a mail to. Consider your opportunity objectives aborted.
+Speech_0017L=LAMBERT - Damn... That computer was one of the ones we needed to plant a forged email on.
+Speech_0018L=FISHER - Oh... I guess that scraps my opportunity objective?
+Speech_0019L=LAMBERT - Unfortunately.
+Speech_-001L=(null)
+Speech_0214L=LAMBERT - Damn it Fisher. You destroyed one of the computers that we needed to upload a mail to. Consider your opportunity objectives aborted.
+Speech_0287L=LAMBERT - Good job Fisher, now the whole mission will look like a robbery.
+Speech_0023L=LAMBERT - Good job Fisher... now the whole mission will look like a robbery... they'll never know why we were here.
+Speech_0024L=FISHER - Lambert... now that I'm holding fifty million bucks... I think we need to talk about that raise again...
+Speech_0025L=LAMBERT - Hm... twenty-five cents an hour and not a penny more.
+Speech_0026L=FISHER - Deal.
+Speech_-001L=(null)
+Speech_0215L=LAMBERT - Good job Fisher, now the whole mission will look like a robbery.
+Speech_0288L=GRIMSDOTTIR - Sam, the emails relating to Lacerda are all purged but some fragments indicate that they came from someone named Dvorak. They were all encrypted using a 512 bit key, which is extremely sophisticated and classified.
+Speech_0036L=GRIMSDOTTIR - I have fragments of a message here from someone named 'Dvorak'. Echelon doesn't have a file on him... Wait... that's weird.
+Speech_0043L=FISHER - What?
+Speech_0044L=GRIMSDOTTIR - The deleted messages. They're five-twelve encrypted... I haven't seen five-twelve since Phillip Masse.
+Speech_0045L=FISHER - I killed Masse outside Severomorsk.
+Speech_0046L=GRIMSDOTTIR - I remember. And it's confirmed... so this is someone with access to some seriously classified information...
+Speech_0047L=FISHER - Who?
+Speech_0048L=GRIMSDOTTIR - I'm not sure... I'll get back to you.
+Speech_-001L=(null)
+Speech_0232L=GRIMSDOTTIR - Sam, the emails relating to Lacerda are all purged but some fragments indicate that they came from someone named Dvorak. They were all encrypted using a 512 bit key, which is extremely sophisticated and classified.
+Speech_0167L=FISHER - Zherkezhi?
+Speech_0168L=GRIMSDOTTIR - That's a frightening possibility.
+Speech_-001L=(null)
+Speech_0233L=GRIMSDOTTIR - Sam, the emails relating to Lacerda are all purged but some fragments indicate that they came from someone named Dvorak. They were all encrypted using a 512 bit key, which is something that Morgenholt and Zherkezhi had access to...
+Speech_0289L=REDDING - Sam, you need to complete your primary objectives before we can extract you.
+Speech_0205L=REDDING - Sam, you need to complete your primary objectives before we can extract you.
+Speech_0206L=FISHER - Gotcha.
+Speech_-001L=(null)
+Speech_0235L=REDDING - Sam, you need to complete your primary objectives before we can extract you.
+POPUPMESSAGE_0268=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Speech_0290L=LAMBERT - Alright Fisher... this whole mission is a mess. Complete your primary objectives and extract from the nearest possible point.
+Speech_0169L=LAMBERT - Alright Fisher... this whole mission is a mess. Complete your primary objectives and extract from the nearest possible point.
+Speech_0170L=FISHER - Yes sir.
+Speech_-001L=(null)
+Speech_0221L=LAMBERT - Alright Fisher... this whole mission is a mess. Complete your primary objectives and extract from the nearest possible point.
+POPUPMESSAGE_0269=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Speech_0291L=LAMBERT - Looks like they just turned up the heat Fisher. Your objectives are complete... get to the closest extraction point.
+Speech_0171L=LAMBERT - Looks like they just turned up the heat Fisher. Your objectives are complete... get to the closest extraction point.
+Speech_0172L=FISHER - Yes sir.
+Speech_-001L=(null)
+Speech_0222L=LAMBERT - Looks like they just turned up the heat Fisher. Your objectives are complete... get to the closest extraction point.
+Speech_0292L=LAMBERT - Alright Fisher, we'll extract you as planned from the same location you were inserted.
+Speech_0176L=LAMBERT - Alright Fisher, we'll extract you as planned from the same location you were inserted.
+Speech_0177L=FISHER - Over the wall from the front courtyard?
+Speech_0178L=LAMBERT - That's right. Redding will be waiting for you nearby.
+Speech_0179L=FISHER - On my way.
+Speech_-001L=(null)
+Speech_0219L=LAMBERT - Alright Fisher, we'll extract you as planned from the same location you were inserted.
+Speech_0293L=LAMBERT - Alright Fisher, that's all we need. Time to make yourself scarce. Go to the closest extraction point.
+Speech_0180L=LAMBERT - Alright Fisher, that's all we need. Time to make yourself scarce. Go to the closest extraction point.
+Speech_0181L=FISHER - On my way.
+Speech_-001L=(null)
+Speech_0220L=LAMBERT - Alright Fisher, that's all we need. Time to make yourself scarce. Go to the closest extraction point.
+Speech_0294L=LAMBERT - The archives you looked at detailed account transactions from a man named Zherkezhi. He's a big time computational theorist... I hope he's not involved in this mess.
+Speech_0150L=LAMBERT - Oh no... Zherkezhi... that's exactly what I didn't want to see...
+Speech_0153L=FISHER - Zherkezhi... is that some kind of dried meat?
+Speech_0154L=LAMBERT - He's probably the best computational theorist in the world... he worked with Morgenholt on Project Watson... word is he's gone off his nut...
+Speech_0155L=FISHER - Sounds like bad-guy material to me...
+Speech_-001L=(null)
+Speech_0216L=LAMBERT - The archives you looked at detailed account transactions from a man named Zherkezhi. He's a big time computational theorist... I hope he's not involved in this mess.
+Speech_-001L=(null)
+Speech_0158L=LAMBERT - Oh no... Zherkezhi... that's exactly what I didn't want to see...
+Speech_0159L=FISHER - Zherkezhi? Grimsdottir mentioned him in relation to this Dvorak...
+Speech_0162L=LAMBERT - Well, whoever this Dvorak is, I pray he hasn't gotten hold of Zherkezhi.
+Speech_0163L=FISHER - Why... who is he?
+Speech_0164L=LAMBERT - He's probably the best computational theorist in the world... he worked with Morgenholt on Project Watson... word is he's gone off his nut...
+Speech_0165L=FISHER - Sounds like bad-guy material to me...
+Speech_0217L=LAMBERT - Those archives seem to confirm Grimsdottir's theory... Zherkezhi is somehow connected to this Dvorak person...
+Speech_0295L=LAMBERT - Well that's about as messy as it gets. Complete your objectives and get out of there Fisher.
+Speech_0182L=FISHER - Oops.
+Speech_0183L=LAMBERT - Damn! What happened?
+Speech_0187L=GRIMSDOTTIR - Lasers inside the vault door!
+Speech_0189L=TURTLE - What?! How was I supposed to know?
+Speech_0190L=LAMBERT - Cut the chatter people. Fisher... you've dealt with the armed response... complete your objectives.
+Speech_0191L=FISHER - You got it.
+Speech_0296L=GRIMSDOTTIR - Armed response inbound. Complete your objectives and get outta there Sam.
+Speech_0261L=FISHER - Oops.
+Speech_0262L=LAMBERT - Damn! What happened?
+Speech_0192L=GRIMSDOTTIR - Lasers inside the vault door! The whole Bank is alert. Army incoming!
+POPUPMESSAGE_0270=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Speech_0194L=TURTLE - Forget this... I'm outta here...
+Speech_0195L=LAMBERT - Cut the chatter people. Nothing we can do about it now. Fisher, grab that data and get outta there.
+Speech_0196L=FISHER - You got it.
+Speech_0297L=LAMBERT - Well that's about as messy as it gets. Complete your objectives and get out of there Fisher.
+Speech_0197L=LAMBERT - Fisher... I can't believe you came this far to get spotted by a camera.
+Speech_0198L=FISHER - Not much I can do about it now.
+Speech_0199L=LAMBERT - Well, you've already dealt with the armed response... just complete your objectives and get out of there.
+Speech_0200L=FISHER - You got it.
+Speech_0298L=GRIMSDOTTIR - Armed response inbound. Complete your objectives and get outta there Sam.
+Speech_0263L=LAMBERT - Fisher... I can't believe you came this far to get spotted by a camera.
+Speech_0264L=FISHER - Not much I can do about it now.
+Speech_0201L=GRIMSDOTTIR - Fisher, the whole Bank is alert. Army incoming!
+POPUPMESSAGE_0271=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Speech_0203L=LAMBERT - Cut the chatter people. Fisher, grab that data and get outta there.
+Speech_0204L=FISHER - You got it.
+Speech_-001L=(null)
+Speech_0244L=GRIMSDOTTIR - Armed response inbound. Complete your objectives and get outta there Sam.
+Speech_-001L=(null)
+Speech_0245L=LAMBERT - Well that's about as messy as it gets. Complete your objectives and get out of there Fisher.
+Speech_-001L=(null)
+Speech_0173L=REDDING - Alright Fisher, see if you can find a weak spot to blast your way out of here.
+Speech_0174L=FISHER - I remember this place... there are some bricked up sections here that lead into the tunnels Noriega used to smuggle his drug money out of the country...
+Speech_0175L=REDDING - The tunnels are probably still there... you know what to do...
+Speech_0236L=REDDING - Fisher, see if you can find a weak spot to blast your way out of here.
+Speech_0299L=LAMBERT - Good job Fisher, we just ID'd Lacerda's Panamanian contact.
+Speech_0144L=LAMBERT - It looks like Lacerda's Panamanian contact is Senor Segundo Ruiz de Medeiros. Vice President of Panama Canal Administration.
+Speech_0145L=FISHER - Is that where I'm going next?
+Speech_0146L=LAMBERT - No... Lacerda's side dealings are a whole 'nother can of worms... I'll send someone else down that trail...
+Speech_0147L=FISHER - Someone else?
+Speech_0148L=LAMBERT - Do I detect a bit of jealousy Sam?
+Speech_0149L=FISHER - I'll get over it...
+Speech_-001L=(null)
+Speech_0218L=LAMBERT - Good job Fisher, we just ID'd Lacerda's Panamanian contact.
+Speech_-001L=(null)
+Speech_0223L=LAMBERT - Good thinking Fisher, now even if you're caught on camera, they won't be able to ID you.
+
+[P_03_Bank_ConvBooth]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - I'm telling you, it was a rat.
+Speech_0004L=SOLDIER - No chance! it was way too big to be a rat. Maybe it was a monkey... or... or a bear...
+Speech_0005L=SOLDIER - Ha! A bear! You're crazy... I know that vent is pretty big... but bears are huge... and a bear would have destroyed the Treasurer's office anyway...
+Speech_0006L=SOLDIER - ...well ...maybe it was a little bear... you know... one of those cute little ones...
+Speech_0007L=SOLDIER - We don't even have bears in Panama...
+Speech_0008L=SOLDIER - Maybe it escaped from the zoo...
+Speech_0009L=SOLDIER - You're an imbecile...
+Speech_0010L=SOLDIER - It was too big to be a rat...
+
+[P_03_Bank_ConvGarden]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - Hey Emilio! did you see these new motion sensing lights?!
+Note_0012L=There are motion sensors linked to lights in the garden.
+Speech_0004L=SOLDIER - No... what do they do?
+Speech_0005L=SOLDIER - When they detect movement, the light turns on.
+Speech_0006L=SOLDIER - Wow... that's... that's amazing...
+Speech_0007L=SOLDIER - Like magic.
+Speech_0008L=SOLDIER - I think I'm going to get one of those for my garage... imagine that... you pull up in your car at night and the driveway lights up automatically...
+Speech_0009L=SOLDIER - Ha! You're crazy! This is high tech stuff Emilio... it probably costs thousands of dollars...
+Speech_0010L=SOLDIER - Hm... yeah... you're probably right... I could never afford it.
+
+[P_03_Bank_GardenSensors]
+
+[P_03_Bank_InterroBalcony]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Evenin'
+Speech_0002L=SOLDIER - Ah... how did you... ahhh...
+Speech_0003L=FISHER - I'll ask the questions... what are you doing up here...
+Speech_0004L=SOLDIER - I heard the alarm... I came down from the roof...
+Speech_0005L=FISHER - How did you get down?
+Speech_0006L=SOLDIER - The others on the roof... they lowered me down so I could watch the back doors...
+Speech_0007L=FISHER - How many on the roof?
+Speech_0008L=SOLDIER - Just two others...
+Speech_0009L=FISHER - Is there any way back up?
+Speech_0010L=SOLDIER - No.  They needed the rope to rappel on the other side...
+Speech_0012L=SOLDIER - I promise, I'll tell no one...
+Speech_0013L=SOLDIER - Please... I complete my service in six weeks...
+
+[P_03_Bank_InterroCamera]
+Speech_-001L=(null)
+Speech_0007L=FISHER - Shhh
+Speech_0008L=COLONEL - Oh god... no...
+Speech_0009L=FISHER - Are there any other ways in or out of this room that you might want to tell me about?
+Speech_0010L=COLONEL - Uh... um... birds...
+Speech_0011L=FISHER - Birds? What do you mean birds?
+Speech_0012L=COLONEL - The vents above the fan... I think they must lead outside... I can hear birds nesting in them...
+Note_0019L=There is a vent that connects to the security room from the outside.
+Speech_0013L=FISHER - Well that is useful information...
+Speech_0014L=COLONEL - Does that mean I get to live?
+Speech_0015L=FISHER - Let me think about it...
+Speech_0016L=COLONEL - I told you about the vent... please don't hurt me.
+Speech_0018L=COLONEL - I don't know anything else.
+
+[P_03_Bank_InterroGarden]
+Speech_-001L=(null)
+Speech_0005L=FISHER - Tell me something about your security systems...
+Speech_0006L=SOLDIER - I just work outside... I don't go inside... but we have motion sensors out here... newly installed.
+Speech_0007L=FISHER - Motions sensors?
+Speech_0010L=SOLDIER - Yeah... they just turn on lights...
+Note_0017L=There are motion sensors linked to lights in the garden.
+Speech_0011L=FISHER - Oh... no alarms? Just lights... like for your garage?
+Speech_0012L=SOLDIER - Not for my garage... are you kidding... those things are expensive... high tech...
+Speech_0013L=FISHER - Uh... yeah... whatever...
+Speech_0014L=SOLDIER - I swear, the motion sensors aren't connected to alarms.
+Speech_0016L=SOLDIER - Don't kill me, I beg you.
+
+[P_03_Bank_InterroKeypad]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Hello Paco...
+Speech_0002L=TECHNICIAN - Oh, no a robber! Please... don't hurt Paco...
+Speech_0005L=FISHER - Tell me the keycode...
+Speech_0008L=TECHNICIAN - This door is broken... and Paco can't fix it... I got to call the security company to come have a look...
+Speech_0009L=FISHER - Is there another way in?
+Speech_0010L=TECHNICIAN - Maybe if you're a mouse... heh heh... you want Paco to call the security company for you?
+Speech_0011L=FISHER - No... that's alright... I'll find another way in.
+Speech_0013L=TECHNICIAN - You want me to call the guy to fix it, just say so.
+Speech_0014L=TECHNICIAN - These things break all the time...
+Speech_-001L=(null)
+Speech_0015L=FISHER - Hello Paco...
+Speech_0016L=TECHNICIAN - Ah... who are you? What do you want?
+Speech_0017L=FISHER - I wanted to thank you for fixing the keypad on that door.
+Speech_0018L=TECHNICIAN - Hey, hey, that's Paco... always doing the dirty work...
+Speech_0019L=FISHER - You wanna tell me the door code now?
+Speech_0020L=TECHNICIAN - Sure, why not... it's 8645 you want me to write it down?
+Note_0025L=The door code to the Treasurer's office is 8645.
+Speech_0021L=FISHER - No, that's okay...
+Speech_0022L=TECHNICIAN - 8645, I told you already...
+Speech_0023L=TECHNICIAN - Paco doesn't give his numbers out to just anyone...
+
+[P_03_Bank_InterroLobby]
+Speech_-001L=(null)
+Speech_0015L=FISHER - I didn't disturb your rest did I?
+Speech_0016L=SOLDIER - Ahhh!
+Speech_0017L=FISHER - Shhh... I'm here to rob this place...
+Speech_0018L=SOLDIER - The teller's drawers... each one maintains an overnight float of... of a thousand balboas...
+Speech_0019L=FISHER - I'm not interested in petty cash...
+Speech_0020L=SOLDIER - You'll never crack the main vault... it's impregnable...
+Speech_0021L=FISHER - Then you won't mind if I try...
+Speech_0022L=SOLDIER - N... no... of course... you're the boss... whatever you say...
+Speech_0023L=FISHER - What can you do to help me?
+Speech_0024L=SOLDIER - The retinal scanner here... I can unlock it...
+Speech_0025L=FISHER - That's very kind of you...
+Speech_0026L=SOLDIER - I wish you luck with the vault...
+Speech_0027L=SOLDIER - The gold is heavy... you won't be able to carry much.
+
+[P_03_Bank_InterroMainDesk]
+Speech_-001L=(null)
+Speech_0005L=FISHER - How many men on duty tonight?
+Speech_0006L=SOLDIER - Madre de Dios...
+Speech_0007L=FISHER - Answer the question...
+Speech_0008L=SOLDIER - How many? You mean, including me?
+Speech_0009L=FISHER - Of course including you... unless you think I should remove you from the equation...
+Speech_0010L=SOLDIER - No... no, no... that's fine... I think... I think there are twenty of us...
+Note_0019L=There are around twenty guards on duty in the bank.
+Speech_0011L=FISHER - You think?
+Speech_0012L=SOLDIER - That's counting the guards outside and on the rooftop, as well as the technicians, and the guards who are on call in case of emergency...
+Speech_0013L=FISHER - And is that including you or not?
+Speech_0014L=SOLDIER - Yes... yes... that is definitely including me...
+Speech_0016L=SOLDIER - That's everyone, I'm sure...
+Speech_0017L=SOLDIER - Paolo phoned in sick, we're normally twenty-one.
+
+[P_03_Bank_InterroOutside]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Alright I don't know who you are, but this is private property...
+Speech_0004L=SOLDIER - What are you talking about... I've been working here for two years...
+Speech_0005L=FISHER - Prove it.
+Speech_0006L=SOLDIER - Prove it? Uh... okay... well... the keycode to the back doors... it's... hey... wait a minute... you're trying to trick me... you're the one who's not supposed to be here...
+Speech_0009L=FISHER - Alright, you caught me... I surrender... oh... wait... instead, how about you tell me the key code anyway and I won't be forced to hurt you...
+Speech_0010L=SOLDIER - Oh. Well... since you put it that way... the code is 3901.
+Note_0015L=The key code to the bank's back doors is 3901.
+Speech_0011L=FISHER - Thanks.
+Speech_0012L=SOLDIER - You almost tricked me, but I'm too smart.
+Speech_0013L=SOLDIER - I'm not afraid of you... uurghhh... okay... I am afraid! I am!
+
+[P_03_Bank_InterroReception]
+Speech_-001L=(null)
+Speech_0001L=FISHER - That's a neat trick you do with those lasers...
+Speech_0002L=SOLDIER - Que? Wha... uh... the grids... they detect some kind of signal emitted by a transmitter stitched into my uniform.
+Speech_0005L=FISHER - Gimme the transmitter...
+Speech_0006L=SOLDIER - I don't know where it is... I swear... it's just stitched in the uniform somewhere...
+Speech_0007L=FISHER - Hmm... that's bad news for you, because I still need to get past the lasers... and since I don't want to undress you... that means I have to take your body...
+Speech_0010L=SOLDIER - M... my body? You... you mean my unconscious body I hope...?
+Speech_0011L=FISHER - Either way works for me...
+Speech_0012L=SOLDIER - Please... you don't need to kill me...
+Speech_0013L=SOLDIER - You have been better off just to follow me... now you have to drag me with you...
+
+[P_03_Bank_InterroSecurity]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Bad news...
+Speech_0002L=SOLDIER - Ah! Hahaha... ok... very funny Tajo... hey... ow!
+Speech_0003L=FISHER - I'm not Tajo.
+Speech_0004L=SOLDIER - I... wh.. oh... oh no...
+Speech_0005L=FISHER - Stay calm. Tell me something interesting...
+Speech_0018L=SOLDIER - The security cameras. The system is centralized... there's a main camera room... you can access the cameras from there...
+Speech_0019L=FISHER - Where?
+Speech_0020L=SOLDIER - Second floor.
+Note_0026L=The camera system is accessible from the second floor security room.
+Speech_0021L=SOLDIER - I can't think of anything else.
+Speech_0022L=SOLDIER - I told you about the camera room.
+
+[P_03_Bank_LobbySecurity]
+Note_0001L=The door code to the main security room is 2306.
+Note_0004L=The door code to both security booths on the first floor is 3624.
+Note_0003L=There is a medical kit in first floor bathroom.
+
+[P_03_Bank_Objectives]
+Objective_0033=Recover additional safecracking equipment from the small vault
+Objective_0034=Additional equipment necessary for cracking the main vault was left in a safety deposit box by Redding earlier today. Recover it from the small vault.
+Objective_0035=Use the telemetric lock pick to bypass the double lock.
+Objective_0036=The telemetric lock pick must be used to bypass the double lock for the main vault.
+Objective_0037=Plant the releasing charge on the main vault door.
+Objective_0038=The releasing charge must be placed on the main vault wheel to disable the magnetic time lock and allow the vault to open.
+Objective_0039=Enter the Bank.
+Objective_0040=Gain entry to the Bank via the rooftops, or through the front entrance.
+POPUPMESSAGE_0047=Enter the Bank.
+Objective_0001=Determine who MCAS Bank purchased the arms for.
+Objective_0018=MCAS Bank brokered the deal for Lacerda's weapons. Determine who contracted them to do this. This information is stored on their separate server in the main vault.
+Objective_0002=Steal $50,000,000 in French Governmental Bearer Bonds.
+Objective_0019=In order to make the vault penetration look like a simple theft, steal the fifty million dollars worth of French Government Bonds that are stored in the fireproof vault cabinet.
+Objective_0010=Find the name of Lacerda's Panamanian contact.
+Objective_0021=In addition to those shipping and receiving the weapons, someone must also have helped Lacerda get them past new security inspection protocols at the Panama Canal. Find out who.
+POPUPMESSAGE_0049=Steal $50,000,000 in French Governmental Bearer Bonds.
+Objective_0052=Exfiltrate to the primary extraction point.
+Objective_0053=Exfiltrate over the outer wall from the front of the Bank where you entered.
+Objective_0041=Exfiltrate to the primary extraction point.
+Objective_0042=Exfiltrate over the outer wall from the front of the Bank where you entered.
+POPUPMESSAGE_0046=Find the name of Lacerda's Panamanian contact.
+POPUPMESSAGE_0050=Authorize the vault access from three officers' panels.
+POPUPMESSAGE_0051=Exfiltrate to the primary extraction point.
+Objective_0043=Exfiltrate to the primary extraction point.
+Objective_0044=Exfiltrate over the outer wall from the front of the Bank where you entered.
+POPUPMESSAGE_0045=Exfiltrate to the primary extraction point.
+Objective_0013=Authorize the vault access from three officers' panels.
+Objective_0023=Vault access must be authorized from the President's Office, the Main Security Office and the Treasurer's Office. It does not matter in which order the access is authorized.
+POPUPMESSAGE_0048=Authorize the vault access from three officers' panels.
+POPUPMESSAGE_0054=The EEV can be used to hack Objects from a distance - but it's harder.
+Objective_0004=Look for any suspicious transaction records.
+Objective_0024=Search hard-copy files in the offices of MCAS Bank Officials for evidence of further suspicious dealings relating to the Morgenholt kidnapping.
+Objective_0008=Plant a series of false emails to make it look like an inside job.
+Objective_0025=Grimsdottir has provided a series of emails to plant on MCAS Bank computers. These will draw attention away from the operation and make the robbery look like an inside job.
+Objective_0017=Delete the camera archives for the bank.
+Objective_0030=(null)
+
+[P_03_Bank_PresOffLaserMic]
+Speech_-001L=(null)
+Speech_0005L=SOLDIER - Well, what else can I do?! You want me to check if the President left the air conditioning on in his office, I kind of actually have to enter the office? Of course I used the door code. Of course. What do you mean insecure? No one is listening! You're paranoid. What? Don't say the door code? 3490! 3490! 3490! 3490! There I said it! I said the code! What are you going to do about it... oh... oh... yeah... ooooh... I'm terrified. Idiot.
+Note_0024L=The door code to the President's office is 3490.
+Speech_-001L=(null)
+Speech_0002L=COLONEL - Hmm... who is that dashing new guard on the monitor there?
+Speech_0006L=SOLDIER - That's Hermano Sampas, sir. Sector Twenty-One G.
+Speech_0007L=COLONEL - Sampas eh... I like the way he moves. He has rhythm... passion...
+Speech_0008L=SOLDIER - Yes sir.
+Speech_0009L=COLONEL - A guard like that... he can guard my money any day. See to it that he is granted full access to the lounge area for his break time...
+Speech_0010L=SOLDIER - Yes sir.
+Speech_0011L=COLONEL - And Salvador...
+Speech_0012L=SOLDIER - Yes sir?
+Speech_0013L=COLONEL - Find out if he knows how to dance...
+Speech_0014L=SOLDIER - Yes sir.
+Speech_-001L=(null)
+Speech_0015L=SOLDIER - Ahh... not the fan again...
+Speech_0017L=COLONEL - Stupid piece of junk... how come the air conditioning in the President's office never fails, but our fan breaks every night?
+Speech_0018L=SOLDIER - He's the President and we're just security guards. Might as well have Noriega back...
+Speech_0020L=COLONEL - Always the poor who suffer for the rich.
+Speech_0021L=SOLDIER - Tell me about it... well... anyway... we better fix it...
+Speech_0022L=COLONEL - No way. I ain't getting my hands dirty. Call that loser Paco up here and make him do it.
+Speech_0023L=SOLDIER - Good idea.
+
+[P_03_Bank_Projector]
+
+[P_03_Bank_ReceptionPatrol]
+
+[P_03_Bank_RepairKeypad]
+Speech_-001L=(null)
+Speech_0008L=TECHNICIAN - Fix this Paco... Fix that Paco... This is broken. The other is dirty. Always slaving away for you, cleaning up after you. Always taking care of you so you can do you work. Oh... don't worry... if you break it... Paco... Paco will fix it. Like Paco has nothing better to do than to fix every stupid little thing that breaks. Hm. No what was that code again... 8645... there we go... now what else can Paco fix for you...
+Note_0007L=The door code to the Treasurer's office is 8645.
+Speech_0009L=TECHNICIAN - ...so Paco says, 'okay, you want Paco to fix the door, Paco will fix the door' ...but the joke is on you now... because Paco is gonna change the code... hmmm... how about 8645...
+Speech_0006L=TECHNICIAN - Fix this Paco... Fix that Paco... This is broken. The other is dirty. Always slaving away for you, cleaning up after you. Always taking care of you so you can do you work. Oh... don't worry... if you break it... Paco... Paco will fix it. Like Paco has nothing better to do than to fix every stupid little thing that breaks. Hm. No what was that code again... 8645... there we go... now what else can Paco fix for you...
+
+[P_03_Bank_SamGenerics]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+
+[P_03_Bank_SecurityPostA]
+
+[P_03_Bank_SecurityPostB]
+Speech_-001L=(null)
+Speech_0003L=SOLDIER - So, you know how the other night I was covering Colon's shift right?
+Speech_0004L=SOLDIER - Yes...
+Speech_0005L=SOLDIER - Well, I'm patrolling past the janitor room and I hear something... I look inside and I hear singing...
+Speech_0006L=SOLDIER - Singing? From where?
+Speech_0007L=SOLDIER - Well that's the thing... I search the room, but I can't find anything... but I definitely hear singing... and later, I'm over on this side and I hear Rodrigo singing the same song...
+Speech_0012L=SOLDIER - So it was Rodrigo in the janitor room?
+Speech_0013L=SOLDIER - No... there was no one there. But you know the vent in the janitor room? I think that vent connects to this side... to the men's bathroom... I think that's how I heard Rodrigo...
+Speech_0014L=SOLDIER - You mean Rodrigo sings while he's going to the bathroom? Eeuuww.
+
+[P_03_Bank_SRCfirst]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - Hey... I was just thinking something...
+Speech_0002L=SOLDIER - What's that?
+Speech_0003L=SOLDIER - Did you ever notice that this bank doesn't have any bank machines?
+Speech_0004L=SOLDIER - Of course...
+Speech_0005L=SOLDIER - Why do you think that is?
+Speech_0006L=SOLDIER - Because they don't want people to hack the bank machines.
+Speech_0007L=SOLDIER - Hack a bank machine? Who ever heard of that?!
+Speech_0008L=SOLDIER - It's not the realism that's the problem... it's just that it introduces a whole resource economy that we don't want to deal with...
+Speech_0009L=SOLDIER - Oh... oh... I see your point.
+
+[P_03_Bank_SRCsecond]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - Ugh, these uniforms are so uncomfortable.
+Speech_0009L=SOLDIER - Oh... that's one of new American made ones.
+Speech_0010L=SOLDIER - So that's good... they're not made by second rate laborers bidding to low ball each other on a Panamanian Army service contract.
+Speech_0011L=SOLDIER - Oh, make no mistake... the quality of these uinforms is exemplary... they'll never wear out...
+Speech_0012L=SOLDIER - So?
+Speech_0013L=SOLDIER - Well, they're about five degrees hotter, they weight about eight ounces more, they don't breath at all, and their itchy.
+Speech_0014L=SOLDIER - Well it doesn't sound like a very good business move to me... why would the Americans do that?
+Speech_0015L=SOLDIER - From a business perspective it's a terrible move... but let me ask you this...
+Speech_0016L=SOLDIER - What?
+Speech_0017L=SOLDIER - Hypothetically speaking... if you had to invade Panama... would you rather fight an Army with disposable, second rate uniforms, or an army who was overburdened, overheated, itchy and couldn't move well?
+Speech_0018L=SOLDIER - Oh... I didn't think of it that way...
+Speech_0019L=SOLDIER - No... no... neither did our generals when they pocketed a juicy US contract for ever-lasting uniforms... there are many ways to wage war my friend...
+
+[P_03_Bank_SRCultimate]
+Speech_-001L=(null)
+Speech_0001L=SOLDIER - Did you hear the latest news? The Americans just announced that they have a problem with the rescue shuttle.
+Speech_0006L=SOLDIER - What kind of problem?
+Speech_0007L=SOLDIER - Some kind of malfunction in one of the rocket assemblies... the parts required will take weeks to manufacture.
+Speech_0008L=SOLDIER - I thought they said the astronauts only had a few days of life support...
+Speech_0009L=SOLDIER - That's what they said.
+Speech_0010L=SOLDIER - So... so what... they're just going to die up there...
+Speech_0011L=SOLDIER - That's what it look like...
+Speech_0012L=SOLDIER - That's horrible.
+Speech_0013L=SOLDIER - I'll say.
+
+[P_03_Bank_VaultAccess]
+
+[P_03_Bank_VaultMainDoor]
+POPUPMESSAGE_0001=Determine who MCAS Bank purchased the arms for.
+
+[P_03_Bank_WaitsAdolpho]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_03_Bank_WaitsColon]
+
+[P_03_Bank_WaitsFonda]
+
+[P_03_Bank_WaitsHermano]
+
+[P_03_Bank_WaitsIiago]
+
+[P_03_Bank_WaitsMontegu]
+
+[P_03_Bank_WaitsPaco]
+
+[P_03_Bank_WaitsRamon]
+
+[P_03_Bank_WaitsRodrigo]
+Speech_-001L=(null)
+Speech_0002L=(null)
+
+[P_03_Bank_WaitsSalvador]
+
+[P_03_Bank_WaitsTajo]
+

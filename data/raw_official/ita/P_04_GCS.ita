@@ -1,0 +1,192 @@
+[P_04_GCS_AlarmCheck]
+POPUPMESSAGE_0001=Allarme di primo livello
+POPUPMESSAGE_0003=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+Note_0007L=I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.
+POPUPMESSAGE_0004=Allarme di terzo livello - I nemici indossano l'elmetto
+Note_0008L=I NEMICI INDOSSANO L'ELMETTO.
+POPUPMESSAGE_0005=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0009L=I NEMICI HANNO CREATO DELLE DIFESE.
+
+[P_04_GCS_BatroomSoldier]
+
+[P_04_GCS_BombChecks]
+
+[P_04_GCS_ChuBodyGuard]
+
+[P_04_GCS_Communications]
+Speech_-001L=(null)
+Speech_0001L=A quanto ci risulta, Kim ha uomini in tutta l'area. Dovrete coprire una certa distanza per arrivare all'edificio della stazione vero e proprio.
+Speech_-001L=(null)
+Speech_0002L=Mio Dio... non scherzano. Sembra che abbiano riempito di bombe i tunnel della metropolitana sotto la stazione. Dovrete disinnescarle tutte prima di origliare quella telefonata.
+Note_0048L=Per disinnescare la bomba, entrambi gli agenti devono tagliare il cavo nello stesso momento.
+Speech_-001L=(null)
+Speech_0003L=Ottimo lavoro... quel file contiene gli schemi completi delle bombe. Dategli un'occhiata prima di toccare qualunque cosa, così saprete con cosa avete a che fare.
+Speech_-001L=(null)
+Speech_0004L=Splendido. La prima bomba è stata disattivata.
+Speech_-001L=(null)
+Speech_0017L=Ben fatto... e sono due.
+Speech_-001L=(null)
+Speech_0005L=Ottimo lavoro, tutti e due. Avete disinnescato tutte le bombe. Ora sbrigatevi a entrare nella stazione, dobbiamo scoprire cosa sta architettando Kim.
+Speech_-001L=(null)
+Speech_0042L=Non fatevi trascinare dall'entusiasmo. Dovete tornare indietro e disinnescare quelle bombe prima che Kim faccia saltare tutta la Grand Central.
+POPUPMESSAGE_0046=Disattiva le bombe sotto alla Stazione Ferroviaria.
+Speech_-001L=(null)
+Speech_0043L=Scommetto che la seconda bomba si trova vicino a queste turbine.. trovatela e disinnescatela.
+Speech_-001L=(null)
+Speech_0029L=Fermi. Tornate nella vecchia area di manutenzione e disinnescate quella bomba.
+Speech_-001L=(null)
+Speech_0030L=Piano. Tornate nella sala turbine e trovate la seconda bomba.
+POPUPMESSAGE_0047=Installa una cimice nel telefono della Hall della Stazione Ferroviaria prima che Chu lo raggiunga.
+Speech_-001L=(null)
+Speech_0006L=Bene. Chu riceverà una telefonata dal telefono a gettoni in mezzo alla stazione. Dovete mettere una cimice in quel telefono senza essere individuati o Chu andrà nel panico e saremo finiti. Non fatevi individuare.
+Speech_-001L=(null)
+Speech_0036L=Dannazione! Chu vi ha individuato... la missione è finita!
+Speech_-001L=(null)
+Speech_0011L=Ottimo lavoro. Ora restate nascosti ed ascoltate la telefonata di Chu. Non fatevi individuare fino a quando non scopriamo cosa succede.
+Speech_-001L=(null)
+Speech_0007L=Buon Dio. Dovete prendere quell'antidoto e occuparvi dell'uomo di Kim. Seguite Chu fino allo spogliatoio e prendete l'antidoto dall'armadietto.
+Speech_-001L=(null)
+Speech_0032L=Buona idea. Ora avete il numero dell'armadietto e il codice. Andate a prendere quell'antidoto.
+Speech_-001L=(null)
+Speech_0038L=Maledizione, cosa vi passa per la testa? Chu era la nostra unica possibilità... adesso non riusciremo a fermare Kim.
+Speech_-001L=(null)
+Speech_0044L=Dannazione! Mettere una cimice in quel telefono era l'unico modo di ascoltare la conversazione tra Chu e Kim... annullo la missione!
+Speech_-001L=(null)
+Speech_0033L=Non entrate in quel bagno senza prendere l'antidoto... Vi infettereste e dovremmo terminare la missione.
+Speech_-001L=(null)
+Speech_0034L=Ben fatto. Ora uno di voi dovrà iniettarsi l'antidoto per entrare nel bagno ed eliminare l'uomo di Kim, che è infetto.
+Speech_-001L=(null)
+Speech_0045L=Ma siete impazziti?! Annullo la missione e chiamo il CDC per mettere in quarantena l'edificio prima che tutta New York venga spazzata via da quella malattia.
+Speech_-001L=(null)
+Speech_0010L=Maledizione... siamo arrivati troppo tardi. Sono già riusciti a far partire un vagone. Non c'è tempo di arrivare alla pensilina. Saltate sul tetto del treno, svelti!
+Speech_-001L=(null)
+Speech_0015L=Ottimo lavoro. Qualunque virus fosse, non resisterà a lungo quando la sua temperatura corporea inizierà a scendere. La stanza dovrebbe essere sicura. Adesso scendete alla pensilina inferiore e impedite agli uomini di Kim di fuggire con il resto del virus. 
+Note_0039L=Per disinnescare la bomba, entrambi gli agenti devono tagliare il cavo nello stesso momento.
+Speech_0014L=Dannazione! Mettere una cimice in quel telefono era l'unico modo di ascoltare la conversazione tra Chu e Kim... annullo la missione!
+
+[P_04_GCS_ConvCellPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=Le bombe sono tutte sistemate?
+Speech_0002L=Ne resta solo una, signore.
+Speech_0003L=Beh, sbrigatevi... e state attenti. Quegli affari sono sensibili, non voglio che questo posto mi crolli in testa.
+Speech_0004L=Sissignore.
+Speech_0005L=Pronto? Colonnello. Sì. Le bombe verranno attivate tra qualche istante. Sì, capisco. Un telefono pubblico? Sissignore. Quello in mezzo alla stazione centrale? Sissignore. Sarò là.
+
+[P_04_GCS_ConvEnding]
+Speech_-001L=(null)
+Speech_0001L=Perchè siamo gli ultimi ad evacuare?
+Speech_0002L=Qualcuno deve pur essere l'ultimo.
+Speech_0003L=Sì, ma queste bombe... adesso che il povero Ming ha il virus sto diventando un po' nervoso.
+Speech_0004L=Già... Beh, prima o poi moriamo tutti.
+Speech_0005L=Senz'altro. Ma preferirei che non fosse oggi.
+Speech_-001L=(null)
+Speech_0007L=Quanti ne mandano avanti?
+Speech_0008L=Molti. Forse trenta.
+Speech_0009L=Dove vanno?
+Speech_0010L=Gli ordini di Chu erano di non chiedere nulla. Lo scopriremo quando ci arriveremo.
+
+[P_04_GCS_ConvHydroTunnel]
+Speech_-001L=(null)
+Speech_0001L=Ehi, stai attento! Sai cos'è quella, vero?
+Speech_0002L=Sì. È una specie di bomba.
+Speech_0003L=Una specie di bomba? Se quel coso esplode, ci casca in testa tutta la 42esima Avenue tra la Quinta e Lexington.
+Speech_0004L=Oh... oh...
+Speech_0005L=Proprio così... non è una specie di bomba, è quel genere di bomba.
+Speech_0006L=Okay... Io... gulp... starò più attento.
+Speech_0007L=Ottima idea.
+Speech_-001L=(null)
+Speech_0008L=Ma è attiva?
+Speech_0009L=Non sono sicuro. Mi dimentico sempre se è il filo blu o quello giallo...
+Speech_0010L=Forse è meglio se controlli gli schemi sul computer prima di ammazzarci tutti.
+Speech_0011L=Ma il computer è laggiù...
+Speech_0012L=Sarai laggiù anche tu se quella bomba esplode... E sarai anche in tutta Harlem e nel New Jersey allo stesso tempo.
+
+[P_04_GCS_ConvPubPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=Signore.
+Speech_0002L=C'è stato un piccolo cambiamento di programma.
+Speech_0003L=Ma certo. Nessun piano è perfetto. Qual è il problema?
+Speech_0004L=Uno dei miei uomini è stato contagiato. È stato abbastanza furbo da entrare in un bagno e si è sigillato dentro, ma non voglio che il contagio si estenda al resto degli uomini.
+Speech_0005L=Capisco.
+Speech_0006L=L'armadietto che contiene il tuo pagamento contiene anche una dose di antidoto. Una sola.
+Speech_0007L=Volete che curi il vostro uomo?
+Speech_0008L=No, per lui è troppo tardi. Inoltre, se entri in quella stanza muori se non hai preso tu stesso l'antidoto.
+Speech_0009L=Allora prendo io l'antidoto, uccido il vostro uomo e prendo il resto dei campioni di virus.
+Speech_0010L=Chu, sei in gamba. Mi mancherai. Il numero dell'armadietto è 9201. Il codice della chiave è la data di nascita di tuo figlio.
+Speech_0011L=Grazie, Colonnello. Non la deluderò.
+
+[P_04_GCS_ConvSubway]
+Speech_-001L=(null)
+Speech_0001L=Ho un'altra domanda...
+Speech_0002L=La risposta è no.
+Speech_0003L=No... no... seriamente... adesso che il treno se ne è andato, come arriviamo a quella bomba lassù se qualcosa va storto?
+Speech_0004L=Forse non hai capito gli ordini... se qualcosa va storto, quella bomba esploderà.
+Speech_0005L=Oh... okay... ehi, ma aspetta un attimo... non ci ucciderà?
+Speech_0006L=Certamente. Ecco perchè siamo qui: per assicurarci che niente vada storto.
+
+[P_04_GCS_InterroChu]
+Speech_-001L=(null)
+Speech_0002L=Americani... puah, un poliziotto rinnegato di New York... credi che questo sia un film d'azione... credi che potrai torturarmi per avere le informazioni... Non mi caverai nulla...
+Speech_0004L=Ahh! Mio dio... non siete della polizia! Vi prego, non uccidetemi! Vi dirò tutto. Il codice dell'armadietto è la data di nascita di mio figlio, 0315
+Note_0006L=Il codice per aprire l'armadietto è 0315.
+
+[P_04_GCS_InterroDualChu]
+Speech_-001L=(null)
+Speech_0001L=Uhghgh... kkaaaa... achhchc... Ooo... aiuto...
+Speech_-001L=(null)
+Speech_0003L=Ah...ugh... cosa... chi c'è? Io... non ci vedo... i miei occhi... aiutatemi... allora... uhghh...yyyhhghh... sto male... uhgh... ahi... ahi... brucia... aiuto... Chu? Chu? Sei tu? Ugghh... aiuto... aiutami...
+
+[P_04_GCS_LockerAntidote]
+
+[P_04_GCS_MainHallChu]
+
+[P_04_GCS_MainHallGuards]
+
+[P_04_GCS_MetroTrain]
+
+[P_04_GCS_Objectives]
+Objective_0001=Scopri qual è il vero intento del Colonnello Kim.
+Objective_0008=Il Colonnello Kim e i suoi uomini hanno in mano la Stazione, ma non hanno ancora avanzato richieste. Scopri quali sono i loro piani e fermali.
+POPUPMESSAGE_0030=Scopri i veri piani del Colonnello Kim.
+Objective_0002=Disinnesca le bombe sotto la Stazione Centrale.
+Objective_0009=Gli uomini di Kim hanno piazzato tre bombe nei tunnel della metropolitana. Le bombe sono estremamente potenti e potrebbero far collassare diversi isolati della città. Devi disinnescare le bombe.
+Objective_0003=Metti la cimice nel telefono della Stazione Centrale prima che ci arrivi Chu.
+Objective_0010=Chu, uno degli agenti di Kim, riceverà una chiamata in un telefono a gettoni nell'atrio. Metti una cimice nel telefono prima che arrivi la chiamata per poter ascoltare la conversazione.
+POPUPMESSAGE_0031=Disattiva le bombe sotto alla Stazione Ferroviaria.
+Objective_0014=Prendi l'antidoto dall'armadietto.
+Objective_0015=Chu sta per recuperare un campione di antidoto da un armadietto. Scopri di quale armadietto si tratta e neutralizza Chu prima che usi l'antidoto.
+Objective_0042=Elimina il soldato contaminato nel bagno.
+Objective_0043=Usa l'antidoto per entrare nel bagno senza infettarti, poi elimina il soldato infetto.
+Objective_0044=Segui Chu per arrivare all'armadietto.
+Objective_0045=Segui Chu per arrivare all'armadietto.
+POPUPMESSAGE_0032=Prendi l'antidoto dall'armadietto
+Objective_0046=Metti al sicuro la tossina chimica in possesso del soldato infetto.
+Objective_0047=Metti al sicuro la tossina chimica in possesso del soldato infetto.
+POPUPMESSAGE_0048=Elimina il soldato contaminato nel bagno.
+Objective_0018=Impedisci agli uomini di Kim di andarsene con il resto della tossina.
+Objective_0019=Vai al binario della metropolitana e ferma il resto degli uomini di Kim prima che sia troppo tardi.
+Objective_0006=Salta sulla carrozza della metropolitana per arrivare alla sua destinazione.
+Objective_0013=È troppo tardi per fermare la fuga degli uomini di Kim. Salta sul tetto della carrozza in corsa e seguili fino alla loro destinazione.
+POPUPMESSAGE_0034=Salta sulla carrozza della metropolitana per seguirla fino alla sua destinazione.
+Objective_0022=Recupera gli schemi delle bombe.
+Objective_0023=Recupera gli schemi delle bombe.
+POPUPMESSAGE_0035=Disattiva le bombe sotto alla Stazione Ferroviaria.
+POPUPMESSAGE_0036=Prendi l'antidoto dall'armadietto
+POPUPMESSAGE_0037=Elimina il soldato contaminato nel bagno.
+Objective_0024=Segui Chu per arrivare all'armadietto.
+Objective_0025=(null)
+Objective_0026=Metti al sicuro la tossina chimica in possesso del soldato infetto.
+Objective_0027=Metti al sicuro il campione di bio-arma in possesso del soldato infetto nel bagno.
+Objective_0028=Elimina il soldato contaminato nel bagno.
+Objective_0029=Usa l'antidoto per entrare nel bagno senza infettarti, poi elimina il soldato infetto.
+POPUPMESSAGE_0033=Elimina il soldato contaminato nel bagno.
+
+[P_04_GCS_ShootLaptop]
+
+[P_04_GCS_Timer]
+Speech_-001L=(null)
+Speech_0001L=Non fatevi trascinare dall'entusiasmo. Dovete tornare indietro e disinnescare quelle bombe prima che Kim faccia saltare tutta la Grand Central.
+
+[P_04_GCS_Objective]
+Objective_0038=Metti al sicuro la tossina chimica in possesso del soldato infetto.
+Objective_0039=Metti al sicuro il campione di bio-arma in possesso del soldato infetto nel bagno.

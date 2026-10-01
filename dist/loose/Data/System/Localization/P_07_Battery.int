@@ -1,0 +1,769 @@
+[P_07_Battery_Barks]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_07_Battery_Briefings]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Fisher, I know you think the shortest distance to solving this problem is to go after Shetland, and you might be right. Unfortunately, the diplomatic situation surrounding the Walsh incident is not softening. We are less than twenty-four hours from open war on the Korean Peninsula. We've located the battery that launched the missile against the Walsh. If there is any credence to the North Korean claim that the launch was unintentional, we need to prove it...and fast.
+Speech_0002L=GRIMSDOTTIR - I've been reverse engineering the data you recovered from Zherkezhi's computer in New York. Zherkezhi's algorithm is an advanced extrapolation of the Masse kernels made infinitely more complex by recursion through Dvorak. I think that if you can access the BIOS memory of the missile launchers at the battery, I should be able to ID a fingerprint that the algorithm would have left on the system.
+Speech_0003L=REDDING - You'll be doing a HALO insertion into a forest two clicks east of the battery. You'll enter the battery's secure perimeter and infiltrate via the vehicle entrance. The battery itself has been around since World War Two, but intelligence and satellite imaging shows its been retrofitted several times since then. We have some limited mapping data... we don't know what you'll find.
+Speech_0004L=MASON - Since the destruction of the Walsh, USS Ronald Reagan has assumed C and C duties for the Battle Group in the Yellow Sea. Our fleet is on Red Alert. In case of war, we are prepared to conduct precision sorties against high-value targets aimed at reducing North Korean coastal defenses for insertion behind their advancing front. If intelligence indicates that the Koreans are picking a fight, then it's a fight they'll get. Anyone in that battery when the whistle blows better find himself a tin hat and a bible.
+Speech_0005L=OTOMO - Japanese I-SDF has been instrumental in determining that the missile that sank the Walsh was indeed fired from this battery.  You have the complete support of all branches of the Japanese Self Defense Force in order to determine the rationale for this insane move by the Korean aggressors. We do not have the capability to strike the facility directly, but I-SDF will use any means at our disposal to interfere with their capabilities in the event that our great American allies are forced to declare war.
+
+[P_07_Battery_CheckLives]
+
+[P_07_Battery_Checkpoints]
+
+[P_07_Battery_Communications]
+Speech_-001L=(null)
+Speech_0003L=LAMBERT - Fisher... it's starting to look like war is unavoidable. JCOS is asking all sources for current Division level intelligence.
+Speech_0004L=FISHER - So besides stopping World War Three, is there anything else I can do for you this evening?
+Speech_0005L=LAMBERT - The base commander should have up to date intel about NKA divisional strength down the Kaesong-Munsan approach.
+Speech_0006L=FISHER - I'll try to schedule an appointment with his secretary.
+POPUPMESSAGE_0245=Determine if the Koreans intentionally launched the missile.
+Speech_0099L=REDDING - Fisher, since everyone is asking everyone for intel, I'd love to have a few chips at the big table.
+Speech_0100L=FISHER - What can I get you, Will?
+Speech_0101L=REDDING - Looks like this battery has repair and maintenance capability for mechanized warfare support. Any shipping or repair logs you can recover would be a big help.
+Speech_0102L=FISHER - I'll find what I can.
+POPUPMESSAGE_0246=Recover the shipping and repair logs.
+Speech_-001L=(null)
+Speech_0103L=REDDING - Good work Fisher. Looks like they track shipping and repair through four separate departments.
+Speech_0104L=FISHER - Gotta love military bureaucracy.
+Speech_0105L=REDDING - See if you can get the logs from the other three.
+Speech_0106L=FISHER - Now serving number 67.
+Speech_-001L=(null)
+Speech_0107L=REDDING - Good work Sam. One more shipping log to go and we'll have an accurate picture of their mechanized capabilities in the region.
+Speech_0108L=FISHER - I'll find it.
+Speech_0247L=(null)
+Speech_0109L=REDDING - Good job, Sam. From the parts and transport requests, it looks like this facility is significantly more important than our latest estimates.
+Speech_0110L=FISHER - Well you know me... always where the action is.
+Speech_0235L=REDDING - Good work Sam... looks like you recovered the last of the logs.
+Speech_-001L=(null)
+Speech_0012L=LAMBERT - I see what you're thinking Fisher.
+Speech_0013L=FISHER - If they're just going to throw protocol to the wind and leave the warhead case unlocked...
+Speech_0014L=LAMBERT - Even detonating them won't destroy the battery.
+Speech_0015L=FISHER - No, but it will make an awful big mess.
+Speech_-001L=(null)
+Speech_0017L=LAMBERT - Good work, Fisher.
+Speech_0018L=FISHER - I'm uploading the arming sequence codes for Grim. Lambert, if worse comes to worst... and I'm still here.
+Speech_0021L=LAMBERT - You don't even need to say it, Sam.
+Speech_0221L=LAMBERT - Good thinking Fisher. Now if we have to, we can remote detonate those missiles and at least take the battery out of commission for a little while.
+Speech_-001L=(null)
+Speech_0022L=LAMBERT - Sweet Jesus Fisher... the NKA just committed... they're coming across the DMZ all along the thirty-eighth... we're at war.
+Speech_0023L=FISHER - Why? We just found proof they didn't launch the missile.
+Speech_0024L=LAMBERT - Good lord... speaking of missile launches... that battery just lit up like a smoker getting off an airplane...
+Speech_0027L=FISHER - They're not targeting our ships are they?
+Speech_0028L=LAMBERT - Active radar is up, and it looks like a launch is immanent. Fisher, I need you to abort that missile.
+Speech_0029L=FISHER - You got it boss.
+Note_0214L=War has broken out along the DMZ.
+POPUPMESSAGE_0238=Stop the missile launch.
+Speech_0224L=LAMBERT - Fisher... the NKA just spilled over into the DMZ... we're at war and it looks like that battery is about to launch more missiles. I need you to stop them.
+Note_0225L=War has broken out along the DMZ.
+Speech_-001L=(null)
+Speech_0060L=GRIMSDOTTIR - That seals it... the missile came from here, but they didn't launch it intentionally.
+Speech_0061L=FISHER - So, that's a good thing. We can avoid a war. 
+Speech_0062L=GRIMSDOTTIR - Problem is that someone launched the missile intentionally.
+Speech_0063L=FISHER - Isn't that someone Doug Shetland using Zherkezhi's algorithms?
+Speech_0064L=GRIMSDOTTIR - That seems likely, but I still need to see if there's a Dvorak fingerprint on the BIOS of the launcher that fired the missile.
+POPUPMESSAGE_0239=Tap the launcher BIOS to trace routing data for the Dvorak algorithm fragments.
+Speech_0226L=GRIMSDOTTIR - Sam, they didn't launch the missile intentionally. But we still need to see if we can find out who did, and where they did it from. Tap directly into the motherboard on the launcher that fired the missile.
+Speech_-001L=(null)
+Speech_0009L=LAMBERT - Good lord, Fisher... those numbers triple our best estimates...
+Speech_0010L=FISHER - Damn... I know a lot of guys in 2.I.D. Lambert...
+Speech_0011L=LAMBERT - They're good men... but I hope their life insurance policies are up to date.
+Speech_0220L=LAMBERT - Fisher, that's the intel we needed about the Kaesong-Munsan approach... but it's not good. If this thing blows up in our faces, we're in big trouble.
+Speech_-001L=(null)
+Speech_0054L=GRIMSDOTTIR - Why did you do that? That technician could have answered some important questions...
+Speech_0055L=FISHER - Like what?
+Speech_0056L=GRIMSDOTTIR - Like if they launched the missile intentionally. See if he has any logs or journals backed up in his office.
+Speech_0057L=FISHER - I'll take a peek.
+Note_0215L=Check the senior technician's computer for classified reports
+Speech_0227L=GRIMSDOTTIR - Sam, you'll need to see if the technician keeps copies of his report backed up somewhere.
+Note_0228L=Check the senior technician's computer for classified reports
+Speech_-001L=(null)
+Speech_0030L=LAMBERT - Black hell... you're too late...
+Speech_0031L=FISHER - The warhead won't arm until it's a few hundred meters from its target. If I can dig up the abort codes...
+Speech_0032L=LAMBERT - Good thinking. Check launch control directly under the platform.
+Speech_0033L=FISHER - I'm on my way.
+Speech_0127L=LAMBERT - Make it fast Fisher... flight time on that missile is four minutes.
+Speech_0128L=LAMBERT - Make it fast Fisher... flight time on that missile is three minutes.
+Speech_0126L=LAMBERT - Make it fast Fisher... flight time on that missile is two minutes.
+Speech_0129L=LAMBERT - Make it fast Fisher... flight time on that missile is ninety seconds.
+Speech_0130L=LAMBERT - Make it fast Fisher... flight time on that missile is sixty seconds.
+Speech_0131L=LAMBERT - Make it fast Fisher... flight time on that missile is thirty seconds.
+Note_0216L=Upload the abort codes from the computer under the East launcher.
+POPUPMESSAGE_0240=Acquire the missile abort codes.
+Speech_0222L=LAMBERT - You were too late to stop the launch, but you can abort the missile from launch control underneath the platform. Hurry.
+Note_0223L=Upload the abort codes from the computer under the East launcher.
+Speech_-001L=(null)
+Speech_0067L=GRIMSDOTTIR - Good work Sam, those are the abort codes.
+Speech_0068L=FISHER - I still need to bypass the override circuit on the launcher itself.
+Speech_0206L=FISHER - I still need to bypass the override circuit from the missile control room.
+Speech_0069L=GRIMSDOTTIR - Hurry... the missile is closing on the USS Ronald Reagan at top speed.
+Speech_0070L=FISHER - Um... hold on... did you just tell me I need to win one for the Gipper?
+Speech_0071L=GRIMSDOTTIR - Uh... dude... what does that even mean?
+Speech_0072L=FISHER - Uh... never mind... you're right Grim... I am old.
+Note_0217L=Download the abort codes to the console in the missile control room.
+POPUPMESSAGE_0241=Abort the missile.
+Speech_0229L=GRIMSDOTTIR - Now we have the abort codes, you need to bypass the override circuits from the missile control room.
+Note_0230L=Download the abort codes to the console in the missile control room.
+Speech_-001L=(null)
+Speech_0073L=GRIMSDOTTIR - Good job Sam... missile aborted.
+Speech_0074L=FISHER - That's it... it's dust?
+Speech_0075L=GRIMSDOTTIR - No, but the warhead can't arm. Even if it gets past the Reagan's phalanx it'll hit the hull and crumple like a beer can.
+Speech_0076L=FISHER - Crumpling beer cans? That's what sailors are best at, I guess.
+Speech_0077L=GRIMSDOTTIR - Very funny... you better hurry to the other launcher and tap the BIOS.
+Speech_0078L=FISHER - Yeah, yeah, on my way.
+Speech_0231L=GRIMSDOTTIR - Missile aborted. Get to the other launcher and tap the BIOS.
+Speech_0079L=GRIMSDOTTIR - Very funny... you need to make your way to extraction.
+Speech_0080L=FISHER - Right... on my way.
+POPUPMESSAGE_0242=Exfiltrate to any available extraction point.
+Speech_0232L=GRIMSDOTTIR - Missile aborted. Make your way to extraction.
+Speech_-001L=(null)
+Speech_0081L=GRIMSDOTTIR - Before you can tap into the BIOS, you'll need to open the casing.
+Speech_0082L=FISHER - I didn't bring my crowbar.
+Speech_0083L=GRIMSDOTTIR - Whatever... crowbars are for geeky video-game characters. Put the launcher into its maintenance position. There should be a switch in the control room directly beneath you.
+Speech_0236L=GRIMSDOTTIR - You'll need to open the casing on the motherboard from the control room beneath you.
+Speech_-001L=(null)
+Speech_0086L=GRIMSDOTTIR - Alright, that opened the casing on the launcher's components. You can access the motherboard on the launcher itself and recover any routing data from the BIOS.
+Speech_0233L=GRIMSDOTTIR - The casing is open. You can access the motherboard on the launcher itself and recover any routing data from the BIOS.
+Speech_-001L=(null)
+Speech_0087L=GRIMSDOTTIR - Good work Sam... I'm scanning the BIOS now... yep... that's a Dvorak fingerprint...
+Speech_0088L=FISHER - Where did it come from? Hokkaido? The Displace offices?
+Speech_0091L=GRIMSDOTTIR - Seoul.
+Speech_0092L=FISHER - What? As in South Korea? Are you telling me the US just got drawn into a war protecting the people that sank the Walsh...
+Note_0243L=War has broken out along the DMZ.
+Speech_0093L=GRIMSDOTTIR - I can't trace it back farther than Seoul...
+Speech_0094L=FISHER - Well, what do I do?
+Speech_0260L=LAMBERT - Sweet Jesus Fisher... the NKA just committed... they're coming across the DMZ all along the thirty-eighth... we're at war.
+Speech_0261L=FISHER - Why? We just found proof they didn't launch the missile.
+Speech_0262L=LAMBERT - Good lord... speaking of missile launches... that battery just lit up like a smoker getting off an airplane...
+Speech_0263L=FISHER - They're not targeting our ships are they?
+Speech_0264L=LAMBERT - Active radar is up, and it looks like a launch is immanent. Fisher, I need you to abort that missile.
+Speech_0265L=FISHER - You got it boss.
+POPUPMESSAGE_0266=Stop the missile launch.
+Speech_0097L=GRIMSDOTTIR - Jesus... well there's nothing you can do about it from there. Get to extraction.
+Speech_0244L=GRIMSDOTTIR - Another complication. Looks like the launch order came through Seoul... I hope we're at war with the right people. Abort the missile launch in the East battery and get out of there. 
+Speech_0267L=LAMBERT - Fisher... the NKA just spilled over into the DMZ... we're at war and it looks like that battery is about to launch more missiles. I need you to stop them.
+Note_0268L=War has broken out along the DMZ.
+Speech_-001L=(null)
+Speech_0034L=LAMBERT - Fisher... remember what Mason said about a tin hat and a bible?
+Speech_0035L=FISHER - You're kidding me...
+Speech_0036L=LAMBERT - We just received a target report from an F-15 attached to Reagan Battle Group. They responded to the missile launch with GBU-28's directed at your location.
+Speech_0037L=FISHER - A bunker buster?
+Speech_0038L=LAMBERT - Two bunker busters...
+Speech_0039L=FISHER - Hm... well my tin hat ain't gonna help, and I forgot my bible. What's the flight time?
+Speech_0040L=LAMBERT - We're just getting the signal now...
+Speech_0041L=LAMBERT - it's... my god... three minutes.
+Speech_0202L=LAMBERT - it's... my god... two and a half minutes.
+Speech_0203L=LAMBERT - it's... my god... two minutes.
+Speech_0204L=LAMBERT - it's... my god... ninety seconds...
+Speech_0205L=LAMBERT - it's... my god... one minute.
+Speech_0042L=FISHER - Gotta run.
+Speech_0111L=REDDING - Sam, I've got an exit scenario for you.
+Speech_0112L=FISHER - Aw... I was just starting to like it here...
+Speech_0113L=REDDING - Monitoring indicates that division is asking to move some coastal defense missiles south... there should be trucks leaving from the main garage.
+Speech_0114L=FISHER - I think hitchhiking is illegal in North Korea.
+Speech_0115L=REDDING - Then I'd recommend hiding under a tarp or strapping yourself to a chassis.
+Speech_0207L=REDDING - Exit scenario, Sam.
+Speech_0208L=FISHER - I'd love to hear it.
+Speech_0209L=REDDING - Back out the way you came in... don't let anyone stop you.
+Speech_0210L=REDDING - Back out the way you came in, or over the cliff from either launcher. Hurry.
+Speech_0098L=GRIMSDOTTIR - Jesus... well for now, we still need to stop them from launching another missile... get to the other launcher.
+Speech_-001L=(null)
+Speech_0043L=LAMBERT - Fisher...
+Speech_0044L=FISHER - I think I got turned around back there...
+Speech_0045L=LAMBERT - Sam... I...
+Speech_0046L=FISHER - Yeah... I know...
+Speech_0047L=LAMBERT - I can... I can try to patch you through to--
+Speech_0048L=FISHER - No. We haven't really been talking...
+Speech_0049L=LAMBERT - It's never too late to start.
+Speech_0050L=FISHER - Ha. I think we might have just found the exception to that rule...
+Speech_0051L=LAMBERT - Sam... I'm sorry... I--
+Speech_0052L=FISHER - Don't be. Mission complete, right.
+Speech_0053L=LAMBERT - Mission Complete
+Speech_-001L=(null)
+Speech_0116L=O'DELL - And... on the front lines, allied forces continue their round-the-clock vigil of North Korean activity. It has long been known that the North Korean invasion strategy aims at a rapid and devastating push for the South Korean Capitol of Seoul. If such an advance were successful any hope of a quick resolution to hostilities in the Asian subcontinent would be jeopardized.
+Speech_0118L=O'DELL - In other news... national home renovation and hardware supplier Handy Hardwood launched its official Support Our Troops campaign today. Customers are invited to come and fill out cards and letters of encouragement to our nations fighting men and women. For each card filled out, Handy Hardwood offers lumber and materials valued at ten dollars. Give our boys a hand, and they'll give you wood.
+Speech_0119L=O'DELL - We have reports coming in now from all along the DMZ of a massive North Korean advance. Fighting is on a reportedly unprecedented scale, with US and South Korean troops ...quote- laying down a tidal wave of fire ...unquote- against the juggernaut advance of the NKA.
+Speech_0120L=O'DELL - Field reports indicate that entire Divisions of NKA infantry and armor have overrun US and South Korean defenses, and have continued directly toward Seoul. Other sources report limited but successful rear echelon offensives by remnant allied troops who were left behind by the first echelon NKA advance whose sole objective seems to be to capture Seoul at any cost.
+Speech_-001L=(null)
+Speech_0181L=GEN SOLDIER - Reminder to all personnel. Food and water rationing in effect until further notice.
+Speech_0182L=GEN SOLDIER - Corporal Dak-po report to Receiving. Corporal Dak-po to Receiving.
+Speech_0183L=GEN SOLDIER - We are the fierce and loyal siblings of a great and indefatigable nation.
+Speech_0184L=GEN SOLDIER - Reminder to all enlisted personnel. Tomorrow is new toothbrush day.
+Speech_0185L=GEN SOLDIER - Reminder. No memos are to be posted on facility corkboards without approval from Warrant Officer Pok.
+Speech_0186L=GEN SOLDIER - Technician Lop-Pong report to loading bay four. Technician Lop-Pong to loading bay four.
+Speech_0187L=GEN SOLDIER - Remember, every bullet is manufactured with extra vengeance. Destroy the enemy hatefully.
+Speech_0188L=GEN SOLDIER - All personnel are reminded to return their dishes to the kitchen after meal time.
+Speech_0189L=GEN SOLDIER - Under rationing constraints, enlisted personnel ranked corporal or lower are reminded they may only shower on Monday and Thursday.
+Speech_-001L=(null)
+Speech_0190L=GEN SOLDIER - The missile is away.
+Speech_0191L=GEN SOLDIER - Time to target. Four minutes.
+Speech_0192L=GEN SOLDIER - Time to target. Three minutes.
+Speech_0193L=GEN SOLDIER - Time to target. Two minutes.
+Speech_0194L=GEN SOLDIER - Time to target. One minute.
+Speech_0196L=GEN SOLDIER - Time to target. Thirty seconds.
+Speech_0197L=GEN SOLDIER - Time to target. Twenty seconds.
+Speech_0198L=GEN SOLDIER - Time to target. Ten. Nine. Eight. Seven. Six. Five. Four. Three. Two. One.
+Speech_0199L=GEN SOLDIER - Impact. It's a hit!
+Speech_0200L=GEN SOLDIER - Time to target. Ten. Nine. Eight... ah... missile destroyed. Repeat... missile destroyed.
+Speech_0201L=GEN SOLDIER - Ah! Missile aborted! What?
+Speech_-001L=(null)
+Speech_0121L=LAMBERT - Fisher, that's the intel we needed about the Kaesong-Munsan approach... but it's not good. If this thing blows up in our faces, we're in big trouble.
+Speech_0122L=LAMBERT - Fisher, we're close to war. JCOS wants all sources to grab any intelligence they can get their fingers on. Ask the base commander what he knows about NKA's Divisional strength along the Kaesong-Munsan approach.
+Speech_0123L=LAMBERT - Good thinking Fisher. Now if we have to, we can remote detonate those missiles and at least take the battery out of commission for a little while.
+Speech_0124L=LAMBERT - You were too late to stop the launch, but you can abort the missile from launch control underneath the platform. Hurry.
+Speech_0125L=LAMBERT - Fisher... the NKA just spilled over into the DMZ... we're at war and it looks like that battery is about to launch more missiles. I need you to stop them.
+Speech_0132L=LAMBERT - Fisher, you have bunker busters incoming. Get out of there... fast.
+Speech_0133L=GRIMSDOTTIR - Sam, they didn't launch the missile intentionally. But we still need to see if we can find out who did, and where they did it from. Tap directly into the motherboard on the launcher that fired the missile.
+Speech_0134L=GRIMSDOTTIR - Sam, you'll need to see if the technician keeps copies of his report backed up somewhere.
+Speech_0135L=GRIMSDOTTIR - Now we have the abort codes, you need to bypass the override circuits from the missile control room.
+Speech_0218L=GRIMSDOTTIR - Now we have the abort codes, you need to bypass the override circuits on the launcher itself in order to abort the missile.
+Speech_0136L=GRIMSDOTTIR - Missile aborted. Get to the other launcher and tap the BIOS.
+Speech_0137L=GRIMSDOTTIR - Missile aborted. Make your way to extraction.
+Speech_0138L=GRIMSDOTTIR - Another complication. Looks like the launch order came through Seoul... I hope we're at war with the right people. Abort the missile launch in the East battery and get out of there. 
+Speech_0139L=GRIMSDOTTIR - Another complication. Looks like the launch order came through Seoul... I hope we're at war with the right people. Sam, get yourself out of there.
+Speech_0140L=GRIMSDOTTIR - The casing is open. You can access the motherboard on the launcher itself and recover any routing data from the BIOS.
+Speech_0141L=GRIMSDOTTIR - You'll need to open the casing on the motherboard from the control room beneath you.
+Speech_0142L=REDDING - Good work Sam... looks like you recovered the last of the logs.
+Speech_0143L=REDDING - Sam... it would be a big help if you could dig up and shipping and repair logs that they might have on the site.
+Speech_0211L=REDDING - Extraction is back out the front door, Sam.
+Speech_0212L=REDDING - Extraction is either back out the front door, or over the side of the cliff from either launcher.
+Speech_0213L=REDDING - Extraction will be by strapping yourself to the chassis of one of the trucks in the loading bay.
+Speech_-001L=(null)
+Speech_0144L=NKSOLD_A - The Russian cosmonaut just attempted a space walk to repair the exterior oxygen leak on the ISS.
+Speech_0145L=NKSOLD_B - They don't have gear for a spacewalk... what the heck we're they thinking?
+Speech_0146L=NKSOLD_A - I don't think they had much choice.
+Speech_0147L=NKSOLD_B - So what happened?
+Speech_0148L=NKSOLD_A - He slipped off into space.
+Speech_0149L=NKSOLD_B - What?
+Speech_0150L=NKSOLD_A - Yeah. He sang 'Slavsa Otechestvo nashe svobodnoye' for a while, then just turned off his radio and drifted out of sight.
+Speech_0151L=NKSOLD_B - Wow. I'm glad we're fighting Americans...
+Speech_0152L=NKSOLD_A - Why?
+Speech_0153L=NKSOLD_B - Because Russians are tough.
+Speech_-001L=(null)
+Speech_0154L=NKSOLD_C - I'm scared... what do we do when the Americans come?
+Speech_0155L=NKSOLD_D - I'll tell you... there's three things you don't want to forget when it all goes down.
+Speech_0156L=NKSOLD_C - What?
+Speech_0157L=NKSOLD_D - First...if you're inside when they come... get outside as fast as possible. They'll drop bunker busters. Anybody underground will die.
+Speech_0158L=NKSOLD_C - Okay... get outside... got it.
+Speech_0159L=NKSOLD_D - Second... if you're outside when they come, get inside as fast as possible. They'll be raining precision munitions on us... you'll be dead before you know you're being shot at.
+Speech_0160L=NKSOLD_C - Uh... okay... so... don't be outside and don't be inside.
+Speech_0161L=NKSOLD_D - Exactly... and the third thing...
+Speech_0162L=NKSOLD_C - What's the third thing?
+Speech_0163L=NKSOLD_D - When you die... try not to get blood on me... ha!
+Speech_-001L=(null)
+Speech_0164L=NKSOLD_E - Ow... these boots are killing me.
+Speech_0165L=NKSOLD_F - Yeah, I know what you mean. I got a new pair two months ago and my feet still hurt.
+Speech_0166L=NKSOLD_E - Did you figure out any way to break them in faster?
+Speech_0167L=NKSOLD_F - No. But I sure know what not to do. I heard one guy in Fourth Platoon a few years ago... he complained to the company medic... and they cut his foot off.
+Speech_0168L=NKSOLD_E - What?!
+Speech_0169L=NKSOLD_F - No one's complained about their boots since.
+Speech_0170L=NKSOLD_E - Oh... well... I'm not going to be the first.
+
+[P_07_Battery_CommunicationsAlert]
+Speech_-001L=(null)
+POPUPMESSAGE_0028=Alarm Stage One
+Speech_0001L=LAMBERT - Dammit Fisher, watch the alarms. We're on the very edge of World War Three.
+Speech_-001L=(null)
+POPUPMESSAGE_0029=Alarm Stage Two - Enemies Equipping Body Armor
+Note_0041L=Enemies are wearing body armor.
+Speech_0002L=LAMBERT -  Fisher! Keep it quiet. We don't need to give the North Koreans an excuse.
+Speech_-001L=(null)
+POPUPMESSAGE_0030=Alarm Stage Three - Enemies Equipping Helmets
+Note_0042L=Enemies are wearing helmets.
+Speech_0003L=LAMBERT -  Dammit Fisher, keep it under control. One more alarm and the whole base will be alerted!
+Speech_-001L=(null)
+POPUPMESSAGE_0031=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0043L=Enemies have fortified their position.
+Speech_0009L=LAMBERT - Dammit Fisher, you've really stirred up the hornets nest now. The whole base is on alert. Complete you primaries and get out of there!
+Speech_-001L=(null)
+POPUPMESSAGE_0032=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0044L=Enemies have fortified their position.
+Speech_0004L=LAMBERT - Dammit Fisher, you've really stirred up the hornets nest now. The whole base is on alert. Complete you primaries and get out of there!
+Speech_-001L=(null)
+POPUPMESSAGE_0033=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0045L=Enemies have fortified their position.
+Speech_0010L=LAMBERT - Dammit Fisher, you've really stirred up the hornets nest now. The whole base is on alert. Get out of there as fast as possible.
+Speech_-001L=(null)
+POPUPMESSAGE_0034=Alarm Stage One
+Speech_0005L=LAMBERT - If we weren't already at war, I'd be telling you to be more careful. 
+Speech_-001L=(null)
+POPUPMESSAGE_0035=Alarm Stage Two - Enemies Equipping Body Armor
+Note_0047L=Enemies are wearing body armor.
+Speech_0006L=LAMBERT - If we weren't already at war, I'd be telling you to be more careful. 
+Speech_-001L=(null)
+POPUPMESSAGE_0036=Alarm Stage Three - Enemies Equipping Helmets
+Note_0048L=Enemies are wearing helmets.
+Speech_0007L=LAMBERT -  Just because there's a war going on, that doesn't mean you can afford to be sloppy.
+Speech_-001L=(null)
+POPUPMESSAGE_0037=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0049L=Enemies have fortified their position.
+Speech_0008L=LAMBERT - Dammit, Fisher! You just put the whole base on alert... should I inform the Joint Chiefs that we're opening a second front in the war? Complete you primaries and get out of there!
+Speech_-001L=(null)
+POPUPMESSAGE_0038=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0050L=Enemies have fortified their position.
+Speech_0011L=LAMBERT - Dammit, Fisher! You just put the whole base on alert... should I inform the Joint Chiefs that we're opening a second front in the war? Complete you primaries and get out of there!
+Speech_-001L=(null)
+POPUPMESSAGE_0039=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+Note_0051L=Enemies have fortified their position.
+Speech_0012L=LAMBERT - Dammit, Fisher! You just put the whole base on alert... should I inform the Joint Chiefs that we're opening a second front in the war? Get out of there as fast as possible.
+POPUPMESSAGE_0025=Alarm Stage Reduced - Enemies Standing Down - Removing Helmets
+POPUPMESSAGE_0026=Alarm Stage Reduced - Enemies Standing Down - Removing Body Armor
+POPUPMESSAGE_0027=Alarm Stage Reduced - Enemies Standing Down
+
+[P_07_Battery_ConvoBatteryEast]
+Speech_-001L=(null)
+Speech_0001L=SEUNG - Track target. Primary. Carrier. Bearing 2-1-8. Range. 1-1-2-0 kilometers. Confirm.
+Speech_0002L=WEN - Primary target is on scope, all green. Set to track one through twelve.
+Speech_0003L=SEUNG - One through twelve. Confirmed.
+Speech_0004L=WEN - Engagement interface is online. Target tracking active.
+Speech_0005L=SEUNG - Check.
+Speech_0006L=WEN - Flight path and targeting computer showing all greens.
+Speech_0007L=SEUNG - Check.
+Speech_0008L=WEN - Fire circuit shows green.
+Speech_0009L=SEUNG - Check.
+Speech_0010L=WEN - Code lock circuit shows green.
+Speech_0011L=SEUNG - Check.
+Speech_0012L=WEN - Primary target tracking read-back, start.
+Speech_0013L=SEUNG - Ready for read-back.
+Speech_0014L=WEN - Primary Target. Carrier. Bearing 2-1-8. Range. 1-2-0 kilometers.
+Speech_0015L=SEUNG - Your read back is correct.
+Speech_0016L=WEN - Confirm Primary target acquired. Ready to fire.
+Speech_0017L=SEUNG - Stand by for fire order.
+Speech_0018L=WEN - Standing by to fire.
+Speech_0019L=SEUNG - Stand by to designate next target.
+Speech_0020L=WEN - Standing by to designate next target.
+Speech_-001L=(null)
+Speech_0021L=SEUNG - Track target. Primary. Destroyer. Bearing 2-1-8. Range. 1-1-2 kilometers. Confirm.
+Speech_0022L=WEN - Primary target is on scope, all green. Set to track one through twelve.
+Speech_0023L=SEUNG - One through twelve. Confirmed.
+Speech_0024L=WEN - Engagement interface is online. Target tracking active.
+Speech_0025L=SEUNG - Check.
+Speech_0026L=WEN - Flight path and targeting computer showing all greens.
+Speech_0027L=SEUNG - Check.
+Speech_0028L=WEN - Fire circuit shows green.
+Speech_0029L=SEUNG - Check.
+Speech_0030L=WEN - Code lock circuit shows green.
+Speech_0031L=SEUNG - Check.
+Speech_0032L=WEN - Primary target tracking read-back, start.
+Speech_0033L=SEUNG - Ready for read-back.
+Speech_0034L=WEN - Primary Target. Destroyer. Bearing 2-1-8. Range. 1-1-2 kilometers.
+Speech_0035L=SEUNG - Your read back is correct.
+Speech_0036L=WEN - Confirm Primary target acquired. Ready to fire.
+Speech_0037L=SEUNG - Stand by for fire order.
+Speech_0038L=WEN - Standing by to fire.
+Speech_0039L=SEUNG - Stand by to designate next target.
+Speech_0040L=WEN - Standing by to designate next target.
+Speech_-001L=(null)
+Speech_0041L=SEUNG - Track target. Primary. Cruiser. Bearing 2-1-9. Range. 1-1-6 kilometers. Confirm.
+Speech_0042L=WEN - Primary target is on scope, all green. Set to track one through twelve.
+Speech_0043L=SEUNG - One through twelve. Confirmed.
+Speech_0044L=WEN - Engagement interface is online. Target tracking active.
+Speech_0045L=SEUNG - Check.
+Speech_0046L=WEN - Flight path and targeting computer showing all greens.
+Speech_0047L=SEUNG - Check.
+Speech_0048L=WEN - Fire circuit shows green.
+Speech_0049L=SEUNG - Check.
+Speech_0050L=WEN - Code lock circuit shows green.
+Speech_0051L=SEUNG - Check.
+Speech_0052L=WEN - Primary target tracking read-back, start.
+Speech_0053L=SEUNG - Ready for read-back.
+Speech_0054L=WEN - Primary Target. Cruiser. Bearing 2-1-9. Range. 1-1-6 kilometers.
+Speech_0055L=SEUNG - Your read back is correct.
+Speech_0056L=WEN - Confirm Primary target acquired. Ready to fire.
+Speech_0057L=SEUNG - Stand by for fire order.
+Speech_0058L=WEN - Standing by to fire.
+Speech_0059L=SEUNG - Stand by to designate next target.
+Speech_0060L=WEN - Standing by to designate next target.
+Speech_-001L=(null)
+Speech_0061L=SEUNG - Track target. Primary. Cruiser. Bearing 2-1-7. Range. 1-1-6 kilometers. Confirm.
+Speech_0062L=WEN - Primary target is on scope, all green. Set to track one through twelve.
+Speech_0063L=SEUNG - One through twelve. Confirmed.
+Speech_0064L=WEN - Engagement interface is online. Target tracking active.
+Speech_0065L=SEUNG - Check.
+Speech_0066L=WEN - Flight path and targeting computer showing all greens.
+Speech_0067L=SEUNG - Check.
+Speech_0068L=WEN - Fire circuit shows green.
+Speech_0069L=SEUNG - Check.
+Speech_0070L=WEN - Code lock circuit shows green.
+Speech_0071L=SEUNG - Check.
+Speech_0072L=WEN - Primary target tracking read-back, start.
+Speech_0073L=SEUNG - Ready for read-back.
+Speech_0074L=WEN - Primary Target. Cruiser. Bearing 2-1-7. Range. 1-1-6 kilometers.
+Speech_0075L=SEUNG - Your read back is correct.
+Speech_0076L=WEN - Confirm Primary target acquired. Ready to fire.
+Speech_0077L=SEUNG - Stand by for fire order.
+Speech_0078L=WEN - Standing by to fire.
+Speech_0079L=SEUNG - Stand by to designate next target.
+Speech_0080L=WEN - Standing by to designate next target.
+
+[P_07_Battery_ConvoGarage]
+Speech_-001L=(null)
+Speech_0001L=HO - Hey, Feng... You said there were eight crates in the delivery... but I only see seven.
+Speech_0004L=FENG - What do you mean, seven?
+Speech_0005L=HO - As in one less than eight.
+Speech_0006L=FENG - Well the bill of lading said there were eight.
+Speech_0007L=HO - Did you count?
+Speech_0008L=FENG - Uh... well... not exactly...
+Speech_0009L=HO - Not exactly?  It's just not that hard to count eight giant crates... look... I'll double check... but if you screwed this up... I'm gonna have to report you.
+
+[P_07_Battery_ConvoMissileBay_01]
+Speech_-001L=(null)
+Speech_0001L=CHIN - Alright... Tercom. Database online...check. Terrain mapping active radar... check. Co-ordinate mapping subsystem... check. Co-ordinate cross-checker... check. Inertial displacement tracker... hmm... no that's right... check. Casing secure... check.
+Speech_-001L=(null)
+Speech_0004L=CHIN - Okay... IGS and GPS... Let's see... inertial gyroscope... check. Accelerometer... check. Barometric calibrator... check. GPS sequencer... check. Network receiver... check. Okay... good.
+Speech_-001L=(null)
+Speech_0005L=CHIN - And... Terminal Guidance... DSMAC... check. Image correlator... check. Active image mapper... check. Target tracking... check. Thermal imaging... check. Arming receiver... check. And fusing... check...
+Speech_-001L=(null)
+Speech_0006L=CHIN - bored... blah... blah...
+
+[P_07_Battery_ConvoWarehouse]
+Speech_-001L=(null)
+Speech_0001L=PING - Alright...well, that's our work done. Let the control room take over.
+Speech_0004L=PONG - Who's in the control room?
+Speech_0005L=PING - How should I know?
+Speech_0006L=PONG - So, what... we're just going to leave the missile hanging there.
+Speech_0007L=PING - Orders: deliver cargo to loading bay at facility 27-290. Nothing in there about working a bunch of cranes that we're not trained on.
+Speech_0008L=PONG - Fair enough.
+
+[P_07_Battery_Emitters]
+
+[P_07_Battery_GPlayBatteryEast]
+
+[P_07_Battery_GPlayBatteryEastHall]
+
+[P_07_Battery_GPlayBatteryWest]
+
+[P_07_Battery_GPlayBatteryWest_01]
+
+[P_07_Battery_GPlayBedroom]
+
+[P_07_Battery_GPlayCmdCenter]
+Speech_-001L=(null)
+Speech_0006L=YUAN - Sir, we... we have finished our preliminary inspection of the West Launcher.
+Speech_0001L=KWAN - And what is your report, Captain?
+Speech_0018L=YUAN - We ran every test we could, sir.
+Speech_0010L=KWAN - And?
+Speech_0011L=YUAN - And... well... there was no malfunction, sir.
+Speech_0012L=KWAN - No malfunction... hm... curious. There is an eighty-billion dollar warship on the bottom of the sea, sunk by a missile that left this battery. The world is less than twelve hours from a war that will kill millions of people... and you're telling me that there was no malfunction?
+Speech_0015L=YUAN - We checked everything, sir. I assure you...
+Speech_0016L=KWAN - Well, Captain, the only two people in this building who could authorize that launch without approval are you and I. I know I didn't do it...so if it wasn't a malfunction...
+Speech_-001L=(null)
+Speech_0004L=KWAN - I want you to run every test again, and then run whichever test the Captain forgot until you find out what the hell happened with my missile!
+Speech_0005L=SHEN - Sir! Yes Sir!
+Speech_0017L=KWAN - Get out of my sight...
+
+[P_07_Battery_GPlayCmdCenter_01]
+
+[P_07_Battery_GPlayCmdCenter_02]
+
+[P_07_Battery_GPlayCmdCenter_03]
+
+[P_07_Battery_GPlayCmdCenter_04]
+
+[P_07_Battery_GPlayGarage]
+
+[P_07_Battery_GPlayGarage_01]
+
+[P_07_Battery_GPlayGuardPost]
+
+[P_07_Battery_GPlayGuardPost_01]
+
+[P_07_Battery_GPlayMissileBay]
+Speech_-001L=(null)
+Speech_0001L=SOO - Aw...forget this... let's go get a coffee.
+Speech_0002L=DUCK - Good idea...
+Speech_0003L=DUCK - Wait... aren't you going to lock-up the warhead casing?
+Speech_0004L=SOO - Aw... forget that... the procedure takes ten minutes... we'll be back from our break before then.
+Speech_0005L=DUCK - But someone could activate the arming sequence...
+Speech_0006L=SOO - Ha! Ridiculous! Who would do that?
+Speech_0007L=DUCK - I don't know... but--
+Speech_0008L=SOO - And even if someone did... unless they could override the code locks...
+Speech_0009L=DUCK - I guess you're right.
+Speech_0010L=SOO - Of course I'm right. Now let's go get that coffee.
+Note_0011L=You can activate the arming sequence on uncased missiles.
+
+[P_07_Battery_GPlayMissileCtrl]
+
+[P_07_Battery_GPlayMissileCtrl_01]
+
+[P_07_Battery_GPlayMissileCtrl_02]
+
+[P_07_Battery_GPlayOffice]
+
+[P_07_Battery_GPlayOffice_01]
+
+[P_07_Battery_GPlayOffice_02]
+
+[P_07_Battery_GPlayOutpost]
+
+[P_07_Battery_GPlayTimer]
+
+[P_07_Battery_GPlayWarehouse]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_07_Battery_GPlayWarehouse_01]
+
+[P_07_Battery_InteractiveObjects]
+Note_0001L=Ammunition can be found in the warehouse.
+Note_0002L=There is a medical kit in the missile bay control room.
+
+[P_07_Battery_InteroBatteryEast]
+Speech_-001L=(null)
+Speech_0003L=FISHER - Don't bother struggling... it'll hurt more.
+Speech_0004L=YONG - Who are you...
+Speech_0005L=FISHER - I'm the guy who's going to abort that missile before it does any damage. You're the guy who's gonna tell me how.
+Speech_0006L=YONG - Y... you need to get the abort codes from the launch computer. Then... since you don't have authorization, you'll have to bypass the override circuit on the launcher itself.
+Speech_0007L=FISHER - Thanks... and if you shoot anymore missiles today, I'll come back and shoot you.
+Speech_0008L=YONG - I won't... I promise
+Speech_0016L=YONG - We won't do it again... I promise.
+Speech_0017L=YONG - Please... we're just following orders.
+
+[P_07_Battery_InteroBatteryWest]
+Speech_-001L=(null)
+Speech_0001L=FISHER - The missile that sank the Walsh... it came from here... didn't it?
+Speech_0002L=HWAN - Wha! Ah! Who?
+Speech_0003L=FISHER - Answer me! Did the missile come from this launcher?
+Speech_0004L=HWAN - Y...yes... but it wasn't our fault...
+Speech_0005L=FISHER - I gathered that... but my friends are still dead.
+Speech_0006L=HWAN - We... tried to stop it...
+Speech_0007L=FISHER - You didn't do a very good job.
+Speech_0008L=HWAN - Ugh... please... you're hurting me...
+Speech_0009L=FISHER - I know.
+Speech_0010L=HWAN - I'm... I'm sorry for your friends...
+Speech_0011L=FISHER - You apologize to them... here... let me introduce you.
+Speech_0012L=HWAN - No...ugh... please...
+Speech_0013L=HWAN - Please... stop...
+Speech_0014L=HWAN - I'm sorry...
+
+[P_07_Battery_InteroCmdCenter]
+Speech_-001L=(null)
+Speech_0001L=FISHER - You're boss is a pretty unhappy guy.
+Speech_0004L=SHEN - Pl... please... I am a coward...
+Speech_0005L=FISHER - That's apparent. Tell me something interesting and you have nothing to be afraid of.
+Speech_0006L=SHEN - You're American... no doubt here because of the missile that sank your ship...
+Speech_0007L=FISHER - Maybe.
+Speech_0008L=SHEN - It was launched from here... but we didn't control the launch... I have no idea how it happened. I have a theory that the BIOS of the launcher might contain an digital remnant of whatever attack corrupted our systems.
+Speech_0009L=FISHER - Thanks... that's what I wanted to know.
+Speech_0010L=SHEN - I am ashamed. Kill me.
+Speech_0011L=SHEN - I am a worthless cowardly lackey...
+
+[P_07_Battery_InteroCmdCenter_01]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Don't panic.
+Speech_0002L=JUNG - Fine.
+Speech_0003L=FISHER - You're well trained.
+Speech_0004L=JUNG - I am a loyal soldier of the North Korean Army.
+Speech_0005L=FISHER - Congratulations. Give me some intelligence or you'll be pushin' up daisies in a cemetery full of guys just like you.
+Speech_0006L=JUNG - I don't have any intelligence.
+Speech_0007L=FISHER - Heh heh... you just called yourself stupid.
+Speech_0008L=JUNG - I am not stupid. I am loyal.
+Speech_0009L=FISHER - Boy... you're worse than a jar head.
+Speech_0010L=JUNG - Do not compare me to a cowardly American marine!
+Speech_0011L=FISHER - Tell me something useful or we're finished here.
+Speech_0012L=JUNG - Death before dishonor.
+Speech_0013L=FISHER - Boy, you grunts are all the same...
+Speech_0014L=JUNG - Corporal. Jung Bo-Kwan
+Speech_0015L=JUNG - 825-775-867
+
+[P_07_Battery_InteroColonel]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Don't bother with the 'who are you' crap... we're too old for children's games.
+Speech_0002L=KWAN - Rrr. Fine. What do you want American?
+Speech_0003L=FISHER - This battery is on the logistics train down Kaesong-Munsan. What's the divisional strength?
+Speech_0004L=KWAN - Why should I tell you? You'll kill me anyway?
+Speech_0005L=FISHER - It's a game of position Colonel, and you've already lost. Do you need to condemn fifty thousand men as well?
+Speech_0006L=KWAN - They'll be your men, American, not mine.
+Speech_0007L=FISHER - They're not my men Colonel, and not yours either. They're just men. Husbands, fathers, sons. Same as you and I. Do they need to die for our mistakes?
+Speech_0008L=KWAN - We have 8-1 force ratios against your Second Infantry Division in armor, artillery and infantry down the length of the approach.
+Speech_0012L=FISHER - Eight to one?!
+Speech_0013L=KWAN - You cannot win. Kaesong-Munsan will be the breach point and Seoul will fall inside of 72 hours.
+Speech_0010L=KWAN - Old soldiers never die.
+Speech_0011L=KWAN - Fit to serve. Fit to rest.
+
+[P_07_Battery_InteroDorm_01]
+Speech_-001L=(null)
+Speech_0001L=FISHER - How's the cafeteria food?
+Speech_0004L=CHEN - My god... I knew it... the invasion has started... you've already got your army behind us...
+Speech_0005L=FISHER - Yeah. No reason not to cooperate.
+Speech_0006L=CHEN - I surrender.
+Speech_0007L=FISHER - Fine. How many men do you have in the battery?
+Speech_0008L=CHEN - We are only 40... you have us easily outnumbered.
+Speech_0009L=FISHER - We sure do... outnumbered and surrounded.
+Speech_0010L=CHEN - I know when I am beaten.
+Speech_0011L=CHEN - I am practical. Not cowardly.
+
+[P_07_Battery_InteroGarage]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Tell me something useful and I won't stuff your corpse inside one of these crates.
+Speech_0002L=FENG - The door code to get through the offices is 1879.
+Speech_0003L=FISHER - What... that's it? No resistance? No whining?
+Speech_0004L=FENG - You're the one with the knife.
+Speech_0005L=FISHER - Alright... well thanks for your time then.
+Note_0009L=The key code for the shipping area door is 1879.
+Speech_0006L=FENG - I told you, it's 1879.
+Speech_0007L=FENG - Let me give you my wallet too.
+
+[P_07_Battery_InteroLookout]
+Speech_-001L=(null)
+Speech_0001L=FISHER - You know any Elvis?
+Speech_0002L=JIN - Wh... how did you get here?
+Speech_0003L=FISHER - You're spoiling the mood. I'm not here for chit-chat...
+Speech_0004L=JIN - I'll shut up...
+Speech_0005L=FISHER - Anything of interest up here?
+Speech_0006L=JIN - We keep a repair log on the computer of there...
+Speech_0007L=FISHER - I like repair logs...
+Speech_0008L=JIN - Please... I'm just a scout...
+Speech_0009L=JIN - I'm not evil... don't kill me...
+Speech_0010L=JIN - I'm only here because I have good eyes.
+
+[P_07_Battery_InteroMissileBay]
+Note_0016L=An elevator connects the Command Center to the missile control room.
+Note_0017L=The Base Commander can be found in the Command Center.
+Speech_-001L=(null)
+Speech_0001L=FISHER - Keep quiet or  it's bad news...
+Speech_0002L=MANCHU - Oh...god... please... I'll co-operate.
+Speech_0003L=FISHER - Good... I'm looking for senior officers... a command center.
+Speech_0004L=MANCHU - There's an elevator just there... it leads up to the command center. The Base Commander should be up there.
+Speech_0005L=FISHER - Thanks
+Speech_-001L=(null)
+Speech_0006L=FISHER - I heard there is a launch in progress...
+Speech_0007L=MANCHU - Oh...god...
+Speech_0008L=FISHER - I don't have time for you to freak out... where is the missile being launched from?
+Speech_0009L=MANCHU - The East Battery... but you better hurry...
+Speech_0010L=FISHER - Thanks for the tip.
+Speech_0011L=MANCHU - Please... don't hurt me...
+Speech_0012L=MANCHU - I didn't do anything wrong...
+
+[P_07_Battery_InteroOffice]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Easy or hard?
+Speech_0004L=DAK - Uh... uh... easy?
+Speech_0005L=FISHER - Great... that works for me too. Tell me something I don't know, and then you can pretend you never saw me.
+Speech_0006L=DAK - Uh... the door code into the storage area...?
+Speech_0007L=FISHER - That would be wonderful.
+Speech_0008L=DAK - 5871.
+Speech_0009L=FISHER - You've been very helpful.
+Speech_0011L=DAK - You are mighty... I am weak...
+Speech_0012L=DAK - I hate my job...
+
+[P_07_Battery_InteroOffice_01]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Working late?
+Speech_0002L=BAE - Oh my god! An American Commando!
+Speech_0003L=FISHER - Shh...
+Speech_0004L=BAE - Please don't kill me... I love America! I love the U-S-A
+Speech_0005L=FISHER - Quiet--
+Speech_0006L=BAE - I love Britney... she's the best! Go Yankee's!
+Speech_0007L=FISHER - Hey... calm down--
+Speech_0008L=BAE - Chocolate ice cream...yaa! Ice cream. Hamburger's... mmm.
+Speech_0009L=FISHER - Listen, I --
+Speech_0010L=BAE - Nice home in the suburbs. Freedom and democracy!
+Speech_0011L=FISHER - Shut up and--
+Speech_0012L=BAE - Born to wild! Born to be free! Don't tread on me!
+Speech_0013L=FISHER - Oh forget it...
+Speech_0014L=BAE - God Bless America!
+Speech_0015L=BAE - Take me out to the ball game!
+Speech_0016L=BAE - Oh say can you see... by the dawn's early light...
+
+[P_07_Battery_InteroWarehouse]
+Note_0014L=Use the crane controls to move the missile and clear the path.
+Speech_-001L=(null)
+Speech_0001L=FISHER - Imagine I wanted to open these big doors...
+Speech_0002L=PING - My god... who are--
+Speech_0003L=FISHER - I'm the Key-Master. You are the Gate-Keeper. 
+Speech_0004L=PING - Oh... god... I... I don't know the code... we're not from this base... we just deliver the missile and wait for someone to sign...
+Speech_0005L=FISHER - Hm... so how am I going to get through?
+Speech_0006L=PING - You'll have to somehow climb through the shaft where the missile goes through...
+Speech_0007L=FISHER - Good idea.
+Speech_0008L=PING - A...anything to help...
+Note_0012L=The only way into the missile bay is through the missile loading shaft.
+Speech_0009L=PING - You'll probably have to move the missile first...
+Speech_0010L=PING - I think the crane controls are in the control room over the loading bay.
+Speech_0011L=PING - The controls are just over there... on the wall...
+
+[P_07_Battery_InteroWarehouse_01]
+Speech_-001L=(null)
+Speech_0001L=FISHER - What's in all the boxes?
+Speech_0002L=DONG - My god... no.
+Speech_0003L=FISHER - Yeah, yeah, shock and awe... just answer the question... what's in the boxes?
+Speech_0004L=DONG - I swear... I don't know... it's just my job to guard the room.
+Speech_0005L=FISHER - Fine... then tell me something you do know...
+Speech_0006L=DONG - There is a hatch in the corner... it leads to the sub floor under the loading dock...
+Speech_0007L=FISHER - Really?
+Speech_0008L=DONG - I don't know any more.
+Speech_0009L=DONG - Check the boxes for yourself I won't tell.
+
+[P_07_Battery_Objectives]
+Objective_0001=Determine if the Koreans intentionally launched the missile.
+Objective_0026=Despite North Korean claims, satellite shows conclusively that the missile that sank the Walsh came from this battery. Check the Command Center to determine if it was intentional.
+Objective_0006=Recover the shipping and repair logs.
+Objective_0027=Recovering low level intelligence about shipping and repair duties from four unsecured computers will give Echelon's Analysts a better picture of NKA capabilities in the region.
+Objective_0015=Tap the launcher BIOS for a fingerprint of Dvorak algorithm fragments.
+Objective_0028=If the launch was forced it's possible that a Dvorak 'fingerprint' can be found on the BIOS of the West Battery launcher. Open the casing on the launcher itself to check.
+Objective_0012=Tap the launcher BIOS for a fingerprint of Dvorak algorithm fragments.
+Objective_0029=If the launch was forced it's possible that a Dvorak 'fingerprint' can be found on the BIOS of the West Battery launcher. Open the casing on the launcher itself to check.
+Objective_0016=Stop the missile launch.
+Objective_0030=War has broken out, and North Korea has authorized attacks against US targets at sea. Try to prevent a missile launch from the East Battery launcher.
+Objective_0017=Acquire the missile abort codes.
+Objective_0031=The missile is away. Get the abort codes from the launch command beneath the East Battery Launcher.
+Objective_0018=Abort the missile.
+Objective_0032=Take the abort codes to the East Missile Bay and use them to bypass the missile fusing authorization check.
+Objective_0036=Stop the missile launch.
+Objective_0037=War has broken out, and North Korea has authorized attacks against US targets at sea. Try to prevent a missile launch from the East Battery launcher.
+Objective_0025=Determine North Koreas divisional strength down the Kaesong-Munsan approach.
+Objective_0033=(null)
+Objective_0024=Prime a missile in each of the missile bays.
+Objective_0034=(null)
+Objective_0019=Exfiltrate to any available extraction point.
+Objective_0035=Exfiltrate over the side of the cliff from either launcher.
+Speech_-001L=(null)
+Speech_0021L=CHUNG - Hey! Get this truck out of here! Command needs us to start loading out some missiles!
+Speech_0022L=CHUNG - Move it! Move! Hurry.
+Speech_0023L=CHUNG - Okay! Go! Go!
+
+[P_07_Battery_PopUps]
+POPUPMESSAGE_0001=Determine if the Koreans intentionally launched the missile.
+POPUPMESSAGE_0002=Stop the missile launch.
+POPUPMESSAGE_0003=Tap the launcher BIOS to trace routing data for the Dvorak algorithm fragments.
+POPUPMESSAGE_0004=Acquire the missile abort codes.
+POPUPMESSAGE_0005=Abort the missile.
+POPUPMESSAGE_0006=Exfiltrate to any available extraction point.
+POPUPMESSAGE_0007=1879
+
+[P_07_Battery_SamGenerics]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_07_Battery_StressLevel]
+
+[P_07_Battery_StressLevel_01]
+
+[P_07_Battery_StressLevel_02]
+
+[P_07_Battery_Timers]
+
+[P_07_Battery_TimersMissile]
+
+[P_07_Battery_VirtualAlertZones]
+
+[P_07_Battery_WaitMissileBay_01]

@@ -1,0 +1,71 @@
+[GENERAL]
+MapName=BANK
+Briefing=TODO
+Briefing_LAMBERT=LAMBERT - Fisher, the arms that Lacerda had were purchased by someone using a Panamanian offshore bank as proxy. I want to take a peek inside their records... unfortunately, it's not as simple as that. This op can't look like a US intelligence gig, so to cover it up you'll need to crack the bank's vault and lift some bearer bonds - property of the French Government.
+Briefing_GRIMSDOTTIR=GRIMSDOTTIR - I hit the Bank's server's last night, but I didn't find much. All their work stations run drivers for plug and play hard-drives. I'm guessing they secure them physically every night.  Crazy world we live in where electronic intrusion is more of a threat than physical intrusion... Anyway, they probably store the drives in the main vault meaning they're not going to be easy to get a hold of.
+Briefing_REDDING=REDDING - First, the good news. You've been in this bank before. You were part of a CIA raiding team that went in in '89 looking for some of Noriega's drug money. Most of the intelligence we have on the bank actually comes from your team. The bad news is that we have a lot of physical security. Lasers, motion sensors, locked doors, cameras, the whole lot, and none of it was there in '89... We've also contacted a... uh... specialist... to help crack the vault. You better talk to him.
+Briefing_PATRIDGE=PARTRIDGE - We'll continue on our course for the Yellow Sea and send you back by helicopter to Panama City. I have no authorization to act inside Panamanian borders, so you'll be operating covertly out of the Embassy. You and your partner will be on your own in Panama.
+Briefing_TURTLE=TURTLE - Look... I don't know who you are, or why I'm helping you other than that it's better than staring at the ceiling in my cell. I hear you have to face a Mason Wells 88. Well, it ain't a one man job... but they tell me you can do the work of five men. Fine I says. I had your mate Willy make a little deposit for you. You'll be needing some things from a safety box in the little vault that we can use to crack the main one.
+
+
+[Interaction]
+IntExfiltrateOverWall=Exfiltrate Over Wall
+IntOpenBox=Open Box
+IntEnableAccess=Enable Access
+IntOpenPanel=Open Panel
+
+[Computer]
+CompUploadFakeEmail=Upload Fake Email
+CompDeactivateLaserGrid=Deactivate Laser Grid
+CompPanamaCanalAdmFiles=Panama Canal Adm. Files
+CompMCASTransactionFiles=MCAS Transaction Files
+CompActivateSprinklers=Activate Sprinklers 
+CompTurnOffVaultLights=Turn Off Vault Lights
+CompOpenCage=Open Cage
+CompDeactivateFan=Deactivate Fan
+CompDeleteCameraArchives=Delete Camera Archives
+CompDisableCameraSystem=Disable Camera System
+CompAccess=Access
+CompObjective=Objective
+CompWNMOnlineService=WNM Online Service
+CompNews=News
+CompAudio=Audio
+CompReception=Reception
+CompFrontDoors=Front Doors
+CompBankSide=Bank Side
+CompSecurity=Security Booth
+CompBackDoors=Back Doors
+CompHall=Hallway
+CompLounge=Lounge
+CompSecretary=Secretary Office
+
+[Email]
+EmailMedkitsBody=Hey, Iiago... the new medkits are in. First class US surplus. If anybody has the runs, tell them there's some pills and stuff in the washroom.
+EmailMedkitsDate=June 28th, 2007
+EmailMedkitsFrom=Emilio
+EmailMedkitsSubject=New medkits
+EmailMedkitsTo=Iiago
+
+EmailDoorcodesBody=If you see Hermano or Tajo tonight, let them know they need to change their door code as soon as possible. Somehow, both security booths on the first floor ended up with the same code, 3624. What are the odds of that?
+EmailDoorcodesDate=June 28th, 2007
+EmailDoorcodesFrom=Montegu
+EmailDoorcodesSubject=Change door codes
+EmailDoorcodesTo=Iiago
+
+EmailSecurityBody=Correct. 2306 >>To confirm... tonight's code for the security room is 2306, right? >>Gaspar
+EmailSecurityDate=June 28th, 2007
+EmailSecurityFrom=Fonda
+EmailSecuritySubject=RE: Security Room Door Code
+EmailSecurityTo=Gaspar
+
+EmailWNMaBody=Long Dan, the Chinese Ambassador to the US, was recalled today for an emergency meeting in hopes of bringing US and Asian delegates to the bargaining table. 
+EmailWNMaDate=June 28th, 2007
+EmailWNMaFrom=WNM News Wire
+EmailWNMaSubject=Long Dan Recalled to China
+EmailWNMaTo=Subscriber
+
+EmailWNMbBody=President Bowers today pinned the Blue Ribbon on 'Talking Dog' the four year old Best of Show winner at the Middlemount Dog and Kennel Show in Tennessee.
+EmailWNMbDate=June 28th, 2007
+EmailWNMbFrom=WNM News Wire
+EmailWNMbSubject='Talking Dog' Wows President
+EmailWNMbTo=Subscriber

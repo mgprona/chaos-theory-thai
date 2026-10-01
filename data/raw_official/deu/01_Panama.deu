@@ -1,0 +1,34 @@
+[GENERAL]
+MapName=PANAMA
+Briefing_LAMBERT=Willkommen bei den Profis. Ich weiß, dass ihr beide euch noch in der Ausbildung befindet, aber es hat einen Zwischenfall gegeben und ihr seid die zurzeit einzig verfügbaren Einsatzkräfte. Vor kurzem haben wir in der MCAS-Bank von Panama Beweise sichergestellt, die darauf hinweisen, dass Vizepräsident Señor Segundo Ruiz de Medeiros Bestechungsgelder dafür angenommen hat, dass er Schiffe auf ihrem Weg durch die Kanalzone vor Inspektionen schützte. Wir müssen alle Unterlagen finden, die Señor de Medeiros über diese Vorgänge aufbewahrt haben könnte.
+Briefing=AUFGABE
+
+
+[Computer]
+CompAccessingTheArchives=Auf das Archiv zugreifen
+CompAccessingTheServer=Auf den Server zugreifen
+
+[Email]
+EmailSecSystemeBody=Keine Ahnung, welcher Volltrottel sich das ausgedacht hat, aber der Notschalter für die Deaktivierung des Lasernetzes befindet sich im Netz selber... Ohne High-Tech-Mikrowellenstrahlen kann ich das Ding nicht erreichen und muss hier warten, bis die Tagschicht anmarschiert... Super. Und was, wenn ich mal strullen muss?
+EmailSecSystemeDate=28. Juni 2007
+EmailSecSystemeFrom=Neron
+EmailSecSystemeSubject=Sicherheit in der Ausstellungshalle
+EmailSecSystemeTo=Jose
+
+EmailTempABody=Hi... Sorry, hab ich wohl falsch verstanden. Der Türcode für den Ausstellungsbereich ist 2341.
+EmailTempADate=28. Juni 2007
+EmailTempAFrom=Juan
+EmailTempASubject=AW: Türcode für den Serverraum
+EmailTempATo=Hermes
+
+EmailTempBBody=Hallo... Ich hab den Code für die Halle, von der aus wir in den Billardraum kommen... Und von da aus kommen wir in die Lounge mit dem GroSSbildfernseher... Hast du Bock, heute Abend das Spiel zu sehen? Der Türcode ist 1523.
+EmailTempBDate=28. Juni 2007
+EmailTempBFrom=Franco
+EmailTempBSubject=Spiel heute Abend
+EmailTempBTo=Julio
+
+EmailTempCBody=Juan... Ich WEISS, dass man 1534 eingeben muss, wenn man aus DEM Serverraum RAUS in die Ausstellungshalle will... Ich brauch aber den Türcode, um IN den Ausstellungsbereich zu kommen...
+EmailTempCDate=28. Juni 2007
+EmailTempCFrom=Hermes
+EmailTempCSubject=Türcode für den Serverraum
+EmailTempCTo=Juan

@@ -1,0 +1,71 @@
+[GENERAL]
+MapName=BANCO
+Briefing=TODO
+Briefing_LAMBERT=Fisher, Lacerda ha adquirido esas armas utilizando como intermediario a un banco de Panamá. Quiero echar un vistazo a sus registros, pero por desgracia no es tan fácil. No debe parecer una operación de los servicios secretos americanos, así que para encubrirla tendrás que romper la caja fuerte y llevarte algunos bonos... propiedad del Gobierno de Francia.
+Briefing_GRIMSDOTTIR=Anoche entré en el servidor del banco, pero no encontré gran cosa. Todos sus ordenadores tienen discos duros extraíbles. Supongo que los guardan cada noche. Ahora se protegen más contra los hackers que contra los ladrones. El caso es que deben guardar los discos en la cámara acorazada, así que no va a ser nada fácil acceder a ellos.
+Briefing_REDDING=Primero, las buenas noticias. Ya has estado en ese banco, cuando penetraste con un equipo de la CÍA buscando el dinero de Noriega. La mayoría de la información que tenemos sobre el banco procede de tu equipo. Ahora, las malas: la seguridad es excelente. Lásers, sensores de movimiento, puertas acorazadas, cámaras... En el 89 no había nada de eso. Hemos contactado también con un especialista para que te ayude a reventar la cámara. Habla con él.
+Briefing_PATRIDGE=Nosotros seguimos rumbo al Mar Amarillo, pero vamos a enviarte en helicóptero a Ciudad de Panamá. No tengo autorización para actuar dentro de Panamá, así que trabajarás sin que lo sepa la Embajada. Tú y tu socio os tendréis que arreglar por vuestra cuenta.
+Briefing_TURTLE=No sé por qué te ayudo, aunque cualquier cosa es mejor que estar en la trena. Creo que tienes que abrir una Mason Wells 88. No es tarea para un solo hombre, aunque me han dicho que eres capaz de hacer el trabajo de cinco. He hecho que tu socio Willy deposite unas cuantas cosas en una caja de seguridad de la cámara pequeña, a tu nombre. Las necesitarás para reventar la cámara principal.
+
+
+[Interaction]
+IntExfiltrateOverWall=Salir por la pared
+IntOpenBox=Abrir caja
+IntEnableAccess=Abrir acceso
+IntOpenPanel=Abrir panel
+
+[Computer]
+CompUploadFakeEmail=Cargar email falso
+CompDeactivateLaserGrid=Desactivar rejilla láser
+CompPanamaCanalAdmFiles=Ficheros Canal de Panamá
+CompMCASTransactionFiles=Ficheros transacciones MCAS
+CompActivateSprinklers=Activar aspersores 
+CompTurnOffVaultLights=Apagar luces de las cajas fuertes
+CompOpenCage=Abrir caja
+CompDeactivateFan=Desactivar ventilador
+CompDeleteCameraArchives=Borrar los archivos
+CompDisableCameraSystem=Desactivar sistema cámaras
+CompAccess=Acceder
+CompObjective=Objetivo
+CompWNMOnlineService=Servicio en línea WNM
+CompNews=Noticias
+CompAudio=Audio
+CompReception=Recepción
+CompFrontDoors=Puertas frontales
+CompBankSide=Lateral banco
+CompSecurity=Cabina de seguridad
+CompBackDoors=Puertas traseras
+CompHall=Pasillo
+CompLounge=Sala
+CompSecretary=Despacho secretaria
+
+[Email]
+EmailMedkitsBody=Oye, Iago, ya están los nuevos botiquines, son de primera calidad, americanos. Si alguno de los muchachos se encuentra mal, dile que hay pastillas y otras cosas en el lavabo.
+EmailMedkitsDate=28 de junio de 2007
+EmailMedkitsFrom=Emilio
+EmailMedkitsSubject=Nuevos botiquines
+EmailMedkitsTo=Iago
+
+EmailDoorcodesBody=Si ves a Hermano o a Tajo esta noche, diles que deben cambiar su código de la puerta en cuanto puedan. No sé qué pasó, pero las dos cabinas del primer piso tienen el mismo código, 3624. ¿Cómo carajo es posible?
+EmailDoorcodesDate=28 de junio de 2007
+EmailDoorcodesFrom=Montegu
+EmailDoorcodesSubject=Cambiar códigos de puertas
+EmailDoorcodesTo=Iago
+
+EmailSecurityBody=Bien. 2306>>Confirmación... el código de la sala de seguridad esta noche es 2306, ¿de acuerdo? >>Gaspar
+EmailSecurityDate=28 de junio de 2007
+EmailSecurityFrom=Fonda
+EmailSecuritySubject=RE: Código puerta sala de seguridad
+EmailSecurityTo=Gaspar
+
+EmailWNMaBody=Long Dan, el embajador chino en Estados Unidos, ha regresado a su país para asistir a una reunión urgente que intentará unir a los delegados estadounidense y asiático en una mesa de negociación. 
+EmailWNMaDate=28 de junio de 2007
+EmailWNMaFrom=Noticias de la WNM
+EmailWNMaSubject=Long Dan regresa a China
+EmailWNMaTo=Suscriptor
+
+EmailWNMbBody=El presidente Bowers ha otorgado el galardón azul al "Perro Hablador" de cuatro años ganador del gran premio en la exposición Perros y Mascotas de Middlemount, en Tennessee.
+EmailWNMbDate=28 de junio de 2007
+EmailWNMbFrom=Noticias de la WNM
+EmailWNMbSubject=Presidente condecora perro hablador
+EmailWNMbTo=Suscriptor

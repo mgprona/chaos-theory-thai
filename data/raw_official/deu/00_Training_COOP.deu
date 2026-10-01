@@ -1,0 +1,18 @@
+[GENERAL]
+MapName=KOOP-TRAINING
+Briefing_LAMBERT=ALS SPLITTERGRUPPEN IN DER AUSBILDUNG MÜSSEN SIE LERNEN, IHREM PARTNER ZU VERTRAUEN. JEDER MISSIONSERFOLG HÄNGT ALLEIN VON IHRER CLEVERNESS UND IHREM PARTNER AB. TEAMARBEIT WIRD VERLANGT, WENN EIN AGENT NICHT GENÜGT.
+Briefing=AUFGABE
+
+[Email]
+EmailShareEquipBody=Um den Befehl "Ausrüstung teilen" auszuführen, müssen Sie sich neben den anderen Agenten stellen und mit ihm interagieren (A). Der andere Agent schlieSSt die Aktion über eine Interaktion (A) ab. Danach wird das gewählte Objekt aus dem Inventar übertragen.
+EmailShareEquipDate=23/06/2007
+EmailShareEquipFrom=Dan
+EmailShareEquipSubject=Ausrüstung teilen
+EmailShareEquipTo=Seb
+
+
+[Computer]
+CompDeactivateLaserGrid=Lasernetz deaktivieren
+
+[Interaction]
+LCDScreen=Wiederholungs-Tipps

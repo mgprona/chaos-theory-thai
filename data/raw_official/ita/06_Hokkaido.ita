@@ -1,0 +1,11 @@
+[GENERAL]
+MapName=HOKKAIDO
+Briefing_LAMBERT=Fisher, se non lancio un osso allo Stato Maggiore saremo in guerra tra ventiquattro ore. Devi portarci Zherkezhi per un interrogatorio. Milan Nedich l'ha spostato a Hokkaido per proteggerlo. Non so se Shetland lo sappia o sia coinvolto, ma vorrei scoprirlo. Comunque vada, non lasciare che i tuoi sentimenti personali interferiscano.
+Briefing_GRIMSDOTTIR=Secondo me ci sono troppe coincidenze. Zherkezhi è l'unica persona vivente che avrebbe potuto organizzare l'affondamento della Walsh. Anche se fosse stata la Corea a lanciare il missile, avrebbero comunque avuto bisogno dell'aiuto di Zherkezhi per colpire la nave. E questa storia di Displace... so che non vuoi sentirlo... ma penso che Shetland sia coinvolto. Il rapimento di Morgenholt, la protezione di Zherkezhi... il trasferimento dopo il blackout... tutto puzza.
+Briefing_REDDING=Sembra che Displace abbia affittato tutta la tenuta. Un posto silenzioso e a bassa tecnologia. Non aspettarti server e sicurezza elettronica. Aspettati guardie sveglie che conoscono l'ambiente. Dovrai usare i metodi tradizionali... quelli che ti piacciono tanto.
+Briefing_OTOMO=L'I-SDF giapponese effettua un monitoraggio a basso livello delle attività di chiunque sia assunto da un'impresa militare privata, finché è in territorio nazionale. Ieri abbiamo scoperto che Displace ha affittato questa tenuta, e alcuni dei nostri agenti hanno installato dei microfoni. Purtroppo non eravamo adeguatamente preparati all'accresciuta importanza del luogo. I microfoni si possono individuare con strumenti standard. Non c'è bisogno di dire che sarebbe meglio se Displace non li trovasse.
+Briefing=INCARICO
+
+[Interaction]
+IntScanlicenseplate=Esamina la targa
+IntExtraction=Estrazione

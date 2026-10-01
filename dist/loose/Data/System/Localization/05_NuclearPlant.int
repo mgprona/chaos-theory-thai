@@ -1,0 +1,22 @@
+
+[GENERAL]
+Briefing_LAMBERT=LAMBERT - We arrived just in time to stop the biological attack at Grand Central Station. But it’s not time to relax yet. Colonel Kim fled and we do not know whether and where he could attack again. The only trace we have comes from the analysis of the bombs you defused. It revealed a connection with a Nuclear Power Plant in Yongbyon, North Korea. The 3 double-laser detonators used in the attack come from there. CIA suspected it was a cover for Military Research. Now we've got the evidence. Colonel Kim cannot have organized everything by himself. Someone at Yongbyon must have helped him. Find out how many detonators Kim got and who helped him.
+MapName=NUCLEAR PLANT
+[Interaction]
+IntExtraction=Extraction
+[Computer]
+CompArchiveServer=Open Central Archives’ Server
+CompBlueprints=Yongbyon Complex’s Blueprints
+CompFans=Stop Ventilation Fans
+CompSecurityDoors=Open security doors
+[Email]
+EmailControlRoomBody=Today, per received orders, I delivered 4 double-laser detonators to Colonel Kim Pak-tu. Please update the weapon prototype inventory. Wen Bae-su - Radiochemistry Laboratory Director - Yongbyon
+EmailControlRoomDate=10/10/2007
+EmailControlRoomFrom=Wen Bae-su
+EmailControlRoomSubject=Prototype inventory update
+EmailControlRoomTo=Central Archives
+EmailLabBody=Dear Director Wen, I’m very interested in the detonators you showed me the last time I came to Yongbyon. Deliver as many detonators as you can to Colonel Kim Pak-tu for a test mission. Best regards. Jin Soo - Research Department for External Intelligence - Cabinet General Intelligence Bureau
+EmailLabDate=08/10/2007
+EmailLabFrom=Jin Soo
+EmailLabSubject=Detonator prototypes
+EmailLabTo=Wen Bae-su

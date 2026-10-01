@@ -1,0 +1,203 @@
+[P_02_Seoulthree_backalleyconv]
+Speech_-001L=(null)
+Speech_0001L=Incompétent ! Sale bon à rien ! Vous deviez surveiller le secteur pendant que les forces spéciales emmenaient Jong. 
+Speech_0002L=Désolé.
+Speech_0003L=Vous croyez que ça suffit ? Nous avons eu l'air d'imbéciles ! Vous croyez qu'ils ne mentionneront pas notre erreur à leurs supérieurs ?
+Speech_0009L=C'est de ma faute, monsieur.
+Speech_0010L=Oui, mais ils l'ignorent tous. Pour eux, je serai le fautif. Vous m'avez coûté ma promotion.
+Speech_0011L=Monsieur...
+Speech_0012L=Assez ! J'en ai plus qu'assez de vous, soldat !
+Speech_0004L=Dong !
+Speech_0005L=Monsieur ?
+Speech_0006L=Qu'avez-vous donc vu ?
+Speech_0007L=Vous venez d'exécuter un traître et un lâche, colonel.
+Speech_0008L=Vous êtes un homme de confiance, Dong. Si je ne finis pas dégradé, je mettrai votre nom en avant pour une promotion.
+Speech_0013L=Merci bien.
+
+[P_02_Seoulthree_backalleyinterro]
+Speech_-001L=(null)
+Speech_0005L=Je me rends. Vous êtes des forces spéciales, alors, ce sont sûrement nos gars des forces spéciales qui vous intéressent. Nous avons couvert leur fuite pendant qu'ils quittaient l'hôtel avec un dingue appelé Jong. Ils ont pris l'allée située de l'autre côté de la clôture.
+
+[P_02_SeoulThree_check_mis_suc]
+
+[P_02_Seoulthree_cybercafe]
+
+[P_02_Seoulthree_cybercafe_conv]
+Speech_-001L=(null)
+Speech_0001L=Est-ce qu'il s'est calmé ?
+Speech_0002L=On dirait bien.
+Speech_0003L=Jusqu'à quand on va devoir s'occuper de lui ?
+Speech_0004L=Les gars des forces spéciales ont dit qu'une autre unité viendrait le chercher à l'aube, quand l'intensité des combats sera retombée.
+Speech_0005L=Hein ?
+Speech_0006L=Espérons qu'il dormira jusque-là...
+
+[P_02_Seoulthree_fake_Jong]
+
+[P_02_Seoulthree_fake_jong_interro]
+Speech_-001L=(null)
+Speech_0002L=Je ne vous dirai rien, alors, inutile de me frapper. Laissez-moi tranquille !
+Speech_0005L=Arrêtez, je vous en prie ! Oh, je savais que je n'aurais jamais dû accepter... je ne suis pas Jong ! Ils l'ont emporté je ne sais où et m'ont donné cinq cent mille wons pour que je me fasse passer pour lui. Mais je ne veux pas mourir !
+
+[P_02_Seoulthree_fishmarket]
+
+[P_02_Seoulthree_goals_activ]
+Objective_0001=Capturez Jong Pom-chu.
+Objective_0013=Les renseignements dont nous disposons indiquent que Jong se trouve dans un petit hôtel proche du point d'insertion. Prenez-le vivant.
+POPUPMESSAGE_0042=Capturez Jong Pom-Chu.
+Note_0036L=Vous devez garder Jong en vie.
+Note_0037L=Il est possible qu'on vous tire dessus. Vous êtes dans un pays en guerre, après tout.
+Note_0038L=Le brouilleur peut vous permettre de désactiver une tourelle.
+Objective_0002=Interrogez l'officier nord-coréen afin d'apprendre où se trouve Jong.
+Objective_0014=Jong a été déplacé par les forces spéciales nord-coréennes. Localisez et interrogez un officier afin de savoir où est Jong.
+Objective_0040=Découvrez où se trouve Jong.
+Objective_0041=Jong ne se trouve plus à l'hôtel ; il a été déplacé. Découvrez où.
+POPUPMESSAGE_0043=Découvrez où se trouve Jong.
+Objective_0050=Interrogez l'officier nord-coréen afin d'apprendre où se trouve Jong.
+Objective_0051=Jong a été déplacé par les forces spéciales nord-coréennes. Localisez et interrogez un officier afin de savoir où est Jong.
+Objective_0052=Découvrez où se trouve Jong.
+Objective_0053=Jong ne se trouve plus à l'hôtel ; il a été déplacé. Découvrez où.
+POPUPMESSAGE_0054=Découvrez où se trouve Jong.
+Objective_0006=Détruisez les deux batteries antiaériennes Chun-Ma.
+Objective_0017=Les Nord-Coréens ont installé deux batteries antiaériennes Chun-Ma qui interfèrent avec nos autres opérations. Détruisez-les.
+POPUPMESSAGE_0044=Détruisez les deux systèmes antiaériens Chun-Ma.
+Note_0039L=Mettez les chars hors de combat en montant sur les épaules l'un de l'autre.
+Objective_0055=Interrogez l'officier nord-coréen afin d'apprendre où se trouve Jong.
+Objective_0056=Jong a été déplacé par les forces spéciales nord-coréennes. Localisez et interrogez un officier afin de savoir où est Jong.
+Objective_0008=Allez au cybercafé où Jong est protégé.
+Objective_0018=Les forces spéciales nord-coréennes ont déplacé Jong en prévision de son extraction de Séoul. Rendez-vous au cybercafé et prenez-le vivant.
+POPUPMESSAGE_0045=Rendez-vous au cybercafé où Jong est protégé.
+Objective_0009=Rejoignez le point d'extraction avec Jong.
+Objective_0019=Conduisez Jong au camion situé à l'extérieur du cybercafé afin de l'emmener en sécurité. 
+POPUPMESSAGE_0046=Rejoignez le point d'extraction en compagnie de Jong.
+Objective_0057=Get to the cyber café where Jong is being protected.
+Objective_0058=North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.
+Note_0021L=Jong est censé s'enfuir par bateau.
+Objective_0022=Sabotez le moteur du bateau de Jong.
+Objective_0023=En cas d'urgence, Jong est censé s'enfuir grâce au bateau amarré au niveau du marché aux poissons.
+Objective_0010=Sabotez le bateau devant servir à la fuite de Jong.
+Objective_0020=(null)
+Note_0012L=Le code de la porte de derrière est le 7649.
+Note_0025L=Il y a une trousse de premiers soins dans la salle de bain de l'hôtel.
+Note_0027L=Il y a des gardes sur les balcons du temple.
+Note_0029L=Un vieil accès aux égouts relie l'avant et l'arrière du temple.
+Note_0030L=Vous pouvez passer par les toits du marché aux poissons pour ne pas vous faire repérer.
+Note_0031L=Il y a des munitions dans la boutique du marché aux poissons.
+Note_0034L=Vous pourrez trouver des grenades à l'arrière du camion d'extraction.
+Note_0047L=Les Nords-Coréens ont installé un système antiaérien Chun-Ma qui interfère avec nos autres opérations. Détruisez-le.
+Note_0048L=Détruisez le système antiaérien Chun-Ma.
+POPUPMESSAGE_0049=Détruisez le système antiaérien Chun-Ma.
+
+[P_02_Seoulthree_hotel]
+
+[P_02_Seoulthree_hotelconv]
+Speech_-001L=(null)
+Speech_0001L=Hé ! C'est dangereux, ici !
+Speech_0002L=On est en guerre... qu'est-ce que tu croyais ?
+Speech_0003L=Ecoute, finissez vos vérifications rapidement et venez patrouiller avec moi. Je ne veux pas me faire tuer !
+Speech_0004L=On fait le maximum. La tourelle est déjà branchée, tu vois...
+Speech_0005L=Bien. Et le courant, Li ?
+Speech_0006L=Tout le secteur a été coupé. Ça ne dépend pas de nous, mais ça pourrait revenir à tout moment.
+Speech_0007L=Bien. Vérifiez que toutes les pièces sont désertes. Il ne faudrait pas qu'il y ait quelqu'un dans le bâtiment...
+
+[P_02_Seoulthree_Jong]
+
+[P_02_Seoulthree_Jong_crazy]
+Speech_-001L=(null)
+Speech_0001L=Je le crois pas ! Je vais mourir, c'est sûr...
+Speech_-001L=(null)
+Speech_0002L=Si seulement ils me déplaçaient... eux ou quelqu'un d'autre, du moment qu'on me tire de là...
+Speech_-001L=(null)
+Speech_0003L=Je vais devoir attendre jusqu'à quand ?
+Speech_-001L=(null)
+Speech_0004L=Cette attente me rend fou...
+Speech_-001L=(null)
+Speech_0005L=Et pourquoi me déplacer, d'abord ? Ce n'est pas comme si les Américains savaient...
+Speech_-001L=(null)
+Speech_0006L=J'espère que cet immeuble ne sera pas bombardé par erreur...
+
+[P_02_Seoulthree_Jongcheck]
+
+[P_02_Seoulthree_Jonginterro]
+Speech_-001L=(null)
+Speech_0001L=Oh, vous voulez dire que vous n'avez pas l'intention de me tuer ? Dieu soit loué ! Emmenez-moi loin d'ici, alors. Je dirai tout à vos supérieurs, mais faites vite !
+Speech_0004L=Ne me tuez pas, je vous en prie ! Je connais tous les secrets du programme d'armes chimiques et bactériologiques nord-coréen. Il est trop complexe pour que je vous en parle ici, mais emmenez-moi avec vous et je dirai tout.
+
+[P_02_Seoulthree_Lambertcomms]
+Speech_-001L=(null)
+Speech_0001L=Votre mission consiste à prendre Jong Pom-chu vivant. Nous avons appris qu'il se trouvait dans un hôtel de cette rue. Nous verrons pour votre extraction une fois que vous l'aurez récupéré.
+Speech_-001L=(null)
+Speech_0011L=Qu'est-ce que vous faites ? Jong a été déplacé. Ce type était un agent double, heureusement, sans quoi vous auriez tué la personne que vous étiez censés capturer. Essayez d'interroger un officier pour savoir où se trouve Jong.
+Speech_-001L=(null)
+Speech_0012L=Apparemment, Jong a l'air d'avoir été déplacé. Espérons que les Nord-Coréens ne l'ont pas déjà fait sortir du pays. Trouvez un officier et interrogez-le.
+Speech_-001L=(null)
+Speech_0004L=Bon sang ! Si Jong a été déplacé par les Nord-Coréens, il a peut-être déjà quitté le pays. Je vais essayer d'en apprendre davantage...
+Speech_-001L=(null)
+Speech_0005L=L'escadre du Ronald Reagan prépare un bombardement intensif de votre secteur afin de faciliter le survol des appareils du porte-avions. Si vous voyez des batteries antiaériennes, détruisez-les.
+Speech_-001L=(null)
+Speech_0040L=Mauvaise nouvelle, un autre avion du Ronald Reagan se dirige vers votre secteur.
+Speech_0041L=Vous devez détruire ces batteries antiaériennes en moins de cinq minutes.
+Speech_-001L=(null)
+Speech_0042L=Vous devez détruire ces batteries antiaériennes en moins de quatre minutes.
+Speech_-001L=(null)
+Speech_0043L=Vous devez détruire ces batteries antiaériennes en moins de trois minutes.
+Speech_-001L=(null)
+Speech_0044L=Vous devez détruire ces batteries antiaériennes en moins de deux minutes.
+Speech_-001L=(null)
+Speech_0045L=Vous devez détruire ces batteries antiaériennes en moins de soixante secondes.
+Speech_-001L=(null)
+Speech_0046L=Mon dieu, vous n'avez pas réussi ! Notre avion a été abattu ! Mission terminée.
+Speech_-001L=(null)
+Speech_0038L=Placez des explosifs sur les deux batteries et détruisez-les.
+Speech_-001L=(null)
+Speech_0039L=Voilà pour ce qui est des batteries antiaériennes. Mais attention à vous, on dirait que les renforts arrivent.
+Speech_-001L=(null)
+Speech_0014L=Restez en place, tous les deux. Nous avons un autre agent sur place, et il tient les gars qui ont déplacé Jong.
+Speech_0015L=Passez-le nous.
+Speech_0016L=Bien, allez-y, Fisher.
+Speech_0017L=Il y a quelqu'un qui veut te parler...
+Speech_0018L=Bien, demandez-lui où ils ont emmené Jong.
+Speech_0019L=Où avez-vous emmené Jong ?
+Speech_0020L=Je... j'ignore de quoi vous parlez.
+Speech_0021L=Il refuse de répondre... je le tue ?
+Speech_0022L=Négatif ! Négatif !
+Speech_0023L=Bon, alors, ils veulent que je te tue...
+Speech_0024L=Attendez ! Jong... oui... il est dans un cybercafé proche du fleuve, à côté du marché aux poissons.
+Speech_0025L=C'est ce que vous vouliez savoir, les gars ?
+Speech_0026L=Affirmatif. Merci. A charge de revanche !
+Speech_0027L=Bienvenue au club...
+Speech_0028L=Il a bien dit Fisher ?
+Speech_0029L=Ça doit être son indicatif.
+Speech_0030L=Tu crois qu'il y a d'autres cellules ?
+Speech_0031L=Non, on est la première.
+Speech_0032L=Arrêtez un peu et allez au cybercafé, vous deux.
+Speech_-001L=(null)
+Speech_0047L=On dirait que Jong a un bateau, au cas où il lui serait nécessaire de filer rapidement. Ce serait une bonne idée de faire disparaître ses possibilités de fuite.
+Speech_-001L=(null)
+Speech_0033L=Jong se trouve dans ce cybercafé. N'oubliez pas qu'il nous le faut en vie. Quand vous l'aurez, amenez-le au camion garé devant l'établissement pour votre extraction.
+Speech_-001L=(null)
+Speech_0037L=Beau travail. Ramenez Jong au camion et nous vous tirerons de là.
+Speech_-001L=(null)
+Speech_0035L=Jong s'enfuit ! Ne le laissez pas prendre son bateau !
+Speech_-001L=(null)
+Speech_0036L=Jong essaye de rejoindre son bateau. Heureusement que vous vous en êtes occupés. Attrapez-le et ramenez-le au bateau.
+Speech_-001L=(null)
+Speech_0034L=Mais qu'est-ce que vous faites ? Je vous ai dit qu'il nous le fallait vivant ! Mission terminée ! Aucun d'entre vous ne rejoindra jamais une de nos cellules !
+Speech_0013L=C'est confirmé. Cet homme ne ment pas, Jong a bien été déplacé. Essayez d'interroger un officier pour savoir où il se trouve.
+Speech_0009L=J'ignore qui était ce type, mais ce n'était pas Jong. Essayez d'interroger un officier pour savoir où se trouve Jong.
+Speech_0010L=Bon sang, ce n'est pas Jong. Les Nord-Coréens ont dû le déplacer en laissant un sosie à sa place. Essayez d'interroger un officier pour savoir où se trouve Jong.
+
+[P_02_Seoulthree_tankcompound]
+
+[P_02_Seoulthree_templefront]
+Speech_-001L=(null)
+Speech_0001L=A mon avis, ce n'est pas réparable.
+Speech_0002L=Alors, qu'est-ce qu'on va faire ?
+Speech_0003L=Ce n'est pas important, OK ? On est en position, alors, même si on n'est pas mobiles, aucun souci tant que le radar est opérationnel.
+Speech_0004L=Et si on nous ordonne de bouger ?
+Speech_0005L=Dans ce cas, on mentionnera les dégâts et on attendra la venue des ingénieurs.
+
+[P_02_Seoulthree_templefront_interro]
+Speech_-001L=(null)
+Speech_0001L=Rien ne vous oblige à me tuer... notre char est coincé ici, de toute façon... je vous en prie, je ne sais rien d'autre...
+Speech_0002L=OK, OK, ce n'est pas tout... les chars peuvent encore tirer. Le seul moyen de les mettre hors de combat consiste à détruire leur système d'acquisition des cibles.
+

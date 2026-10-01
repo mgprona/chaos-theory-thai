@@ -1,0 +1,207 @@
+[Common]
+Loading=LOADING
+PressStart=PRESS START
+
+[01_lighthouse]
+Location=Punta Blanco lighthouse, outside Talara, Peru
+Date=Sat, June 23rd, 2007
+Time=23:08H
+Overview=Bruce Morgenholt has been kidnapped by a Peruvian separatist group known as the People's Voice. Morgenholt's knowledge of dangerous computer algorithms must not fall into the hands of the People's Voice or their leader, Hugo Lacerda.
+Tip0=Press and hold the Interact button. Select action in the Interaction Window. Release.
+Tip1=Press and hold the CTRL button to open Quick Inventory. Tap to switch weapons or attachments.
+Tip2=Alternate Fire button fires the OCP on the pistol to disable lights or cameras.
+Tip3=The Alternate Fire button fires the SC-20k attachment.
+Tip4=Fabric, like the sides of a tent, can be cut open with the knife.
+Tip5=Your Stealth Meter indicates how well lit you are.
+
+[02_cargoship]
+Location=Pacific Ocean, 90km Southwest of Panama Canal
+Date=Mon, June 25th, 2007
+Time=22:54H
+Overview=Hugo Lacerda managed to get away from the lighthouse aboard the Maria Narcissa before you could get to him. Board the ship, locate him, and make sure that he is never able to communicate what he may have learned from Morgenholt.
+Tip0=If you fail a Secondary Objective, you must complete it in a later mission.
+Tip1=Opportunity Objectives are optional, but failing them lowers Mission Rating.
+Tip2=The EEV scans objects and informs you of their properties.
+Tip3=Pressing the ALT Button with the SC-20k equipped switches attachments.
+Tip4=Shooting lights makes noise. The OCP is silent.
+Tip5=Your sound meter shows how loud you and the environment are.
+
+[03_bank]
+Location=MCAS Banco de Panama, Panama City, Panama
+Date=Thurs, June 28th, 2007
+Time=23:18H
+Overview=MCAS Banco de Panama has been implicated in Lacerda's arms smuggling operations and has been facilitating deals with Lacerda and his allies. It must be determined who paid MCAS Bank to organize Lacerda's payment for the Morgenholt kidnapping.
+Tip0=The EEV can be used to hack objects from a distance - but it’s harder. 
+Tip1=To pick a lock, use the directional keys to raise the pins.
+Tip2=Enemies will notice broken doors, windows, and lights.
+Tip3=In a high, narrow corridor, face a wall and Jump to perform a split jump.
+Tip4=Keypads and Retinal scanners can be hacked... failing sets off an alarm.
+Tip5=Guards who patrol laser grids wear beacons to disable the grid near them.
+
+[04_penthouse]
+Location=Manhattan Garment District, New York City, USA
+Date=Sat, June 30th, 2007
+Time=23:27H
+Overview=Zherkezhi, a former associate of Morgenholt, may be working with someone known as Dvorak to gather classified intelligence about weaponized algorithms known as the Masse Kernels. Determine who Dvorak is, and what his relationship is to Zherkezhi.
+Tip0=Listen to your advisors. Check for Notes in your OPSAT.
+Tip1=You can see the beam emitted from an IR camera in Night Vision.
+Tip2=Killing civilians or friendly troops will result in a 0% Mission Rating.
+Tip3=Bullets penetrate cover material, reducing damage and deflecting randomly.
+Tip4=Wall mines are motion sensitive and can be disabled when the light is green
+Tip5=Zip lines often connect tall buildings together from their upper floors.
+
+[05_displace01]
+Location=Offices of Displace Int. Midtown Manhattan, New York City, USA
+Date=Sun, July 1st, 2007
+Time=22:59H
+Overview=Displace International has been protecting Zherkezhi, who contracted Lacerda to kidnap Morgenholt. It must be determined if Displace is merely protecting Zherkezhi, or if they are also involved in the plot to acquire the Masse Kernels.
+Tip0=The Map in your OPSAT tells you the location of certain Objectives.
+Tip1=The OCP can toggle the state of Electrochromic Windows.
+Tip2=The OCP can cause machines to malfunction, creating masking sounds.
+Tip3=The Laser Mic is part of the EEV.
+Tip4=Objectives can sometimes be completed by overhearing conversations.
+Tip5=Four alarms will put the facility on Alert. Guards will barricade the area.
+
+[06_hokkaido]
+Location=Private retreat outside Sapporo, Hokkaido, Japan
+Date=Wed, July 4th, 2007
+Time=21:19H
+Overview=Displace has relocated Zherkezhi to Hokkaido, Japan. Evidence suggests that a faction within Displace may be acting without authorization. Kidnap Zherkezhi so Third Echelon can find out what he knows, and what Displace's involvement is.
+Tip0=Press the switch hand button to mirror firing position when behind cover.
+Tip1=Candles can be blown out... but guards will light them again.
+Tip2=Hidden microphones can be spotted with Thermal or EMF vision
+Tip3=The Sniper Attachment fires a 20mm APDS anti-materiel round.
+Tip4=All floor surfaces emit different sounds when walked on at different speeds.
+Tip5=When engaging multiple enemies, keep moving.
+
+[07_battery]
+Location=NKA Coastal Battery, outside Pupori, North Korea
+Date=Fri, July 6th, 2007
+Time=23:09H
+Overview=With Zherkezhi dead and the world on the brink of war, it must be determined if the North Koreans intentionally launched the missile that sank the USS Walsh, or if the launch was forced by a Masse enabled information warfare attack.
+Tip0=Some computers allow you to watch through security cameras.
+Tip1=Cameras can be temporarily disabled with the OCP.
+Tip2=Kicking open doors can knock out enemies on the other side.
+Tip3=Enemies will wait for a clear shot if you are holding someone in front of you.
+Tip4=Prevent enemies from flanking you by suppressing them with heavy fire.
+Tip5=Vents and sub floors can provide stealthy options for moving around.
+
+[08_seoulone]
+Location=Seoul, South Korea
+Date=Sun, July 8th, 2007
+Time=22:49H
+Overview=The attack that sank the Walsh could not be traced back further than the South Korean National Data Trunk. Drives must be recovered from the NDT before North Korean troops get them and use them to justify their invasion and occupation of South Korea.
+Tip0=Medical kits can be used multiple times.
+Tip1=Maximize cover by firing your weapon from the other shoulder.
+Tip2=Smoke grenades obscure enemy vision.
+Tip3=When engaging multiple enemies, keep moving.
+Tip4=Enemies will run from grenades. Use them to flush enemies from cover.
+Tip5=When in a combat zone, conserve ammunition and keep moving.
+
+[09_seoultwo]
+Location=Seoul, South Korea
+Date=Mon, July 9th, 2007
+Time=00:38H
+Overview=The data from the NDT was successfully transferred back to Third Echelon for analysis. Unfortunately, the plane that was rebroadcasting the information was shot down before it could be purged. That data must not fall into North Korean hands.
+Tip0=IFV’s – Infantry Fighting Vehicles – have tremendous firepower.
+Tip1=UAV’s – Unmanned Aerial Vehicles – have lights and guns.
+Tip2=Killing friendly troops will result in a 0% Mission Rating.
+Tip3=The Laser Designator is part of the EEV.
+Tip4=Soldiers on different sides of the conflict will attack each other on sight.
+Tip5=Watch out for snipers.
+
+[10_bathhouse]
+Location=Shinjuku District Bath House, Tokyo, Japan
+Date=Tues, July 10th, 2007
+Time=23:06H
+Overview=Douglas Shetland is in Tokyo and planning to meet with an unknown party to sell off the last of the information Displace gathered from Zherkezhi and Morgenholt. Shetland's partners must be identified, and Shetland must be stopped.
+Tip0=Sticky shockers fired into water puddles can knock out multiple guards.
+Tip1=Fog blocks visibility, but can be seen through in Thermal Vision.
+Tip2=Steam blocks visibility and interferes with Thermal Vision.
+Tip3=Enemies can see your reflection in mirrors.
+Tip4=Enemies can see your reflection in mirrors.
+Tip5=Prevent enemies from flanking you by suppressing them with heavy fire.
+
+[11_kokubososho]
+Location=Japanese Defence Ministry, on Tokyo Bay, Tokyo, Japan
+Date=Wed, July 11th, 2007
+Time=22:59H
+Overview=Admiral Otomo and the Japanese I-SDF are responsible for working with Douglas Shetland to push the Koreas and the United States into war. It must be determined if Otomo’s actions are sanctioned by the Japanese government, and Otomo must be stopped.
+Tip0=Watch out for turrets and other static defenses.
+Tip1=Watch out for turrets and other static defenses.
+Tip2=Kokubo Sosho biometrics scanners cannot be hacked.
+Tip3=Killing Japanese soldiers without permission will result in Mission Failure.
+Tip4=Enemies can see your reflection in mirrors.
+Tip5=You can see the beam emitted from an IR camera in Night Vision.
+
+[00_training_coop]
+Location=Third Echelon Training Facility, Fort Meade, Maryland, USA
+Date=unknown
+Time=unknown
+Overview=As Splinter Cells in training, you must learn to trust each other to complete your objectives. The only things standing between you and failure are your wits, and your partner. Learn to work together to accomplish missions that could not be completed by an individual Agent.
+Tip0=The coop button, is used to initiate and complete Co-op Moves.
+Tip1=Press and hold alternate fire with the pistol, the Jammer will temporarily disable devices.
+Tip2=If one Agent goes down, get to him, and Heal him with the interact button.
+Tip3=The Use/Equip Button readies your currently equipped item for use.
+Tip4=Press and hold the CTRL button to open Quick Inventory. Tap to switch weapons or attachments.
+Tip5=Press and hold the Interact button. Select action in the Interaction Window. Release.
+
+[01_panama]
+Location=Panama Canal Administration Building, Panama City, Panama
+Date=Fri, June 29th, 2007
+Time=22:50H
+Overview=Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.
+Tip0=Ventilation systems often provide useful shortcuts.
+Tip1=The coop button is used to initiate and complete Co-op Moves.
+Tip2=If you are undetected... try to keep it that way.
+Tip3=Useful information about your teammate is shown on your screen
+Tip4=Work together to reach areas high above, or below you.
+Tip5=Both agents OPSAT are updated when you receive new information.
+
+[02_seoulthree]
+Location=Seoul, South Korea
+Date=Sun, July 8th, 2007
+Time=22:30H
+Overview=Jong Pom-chu is a North Korean spy who may have knowledge about illegal biological weapons programs. He must be abducted from a hotel in Seoul before the invading North Korean Army is able to secure him and get him to safety.
+Tip0=Killing, setting off alarms and being detected reduces your Mission Rating.
+Tip1=Enemies may use flares or flashlights if they search in the dark.
+Tip2=Your sound meter shows how loud you and the environment are.
+Tip3=If one Agent goes down, get to him, and Heal him with the interact button.
+Tip4=Move the mouse to control the Tomoe Nage target.
+Tip5=Shooting lights makes noise. Using the Jammer is silent.
+
+[03_chembunker]
+Location=Chemical Weapons Bunker, outside Namp'o-si, North Korea
+Date=Wed, July 11th, 2007
+Time=22:44H
+Overview=Interrogation of Jong Pom-chu indicates that the DPRK may be maintaining a biological weapons lab in a missile bunker in North Korea. Infiltrate the lab and determine if there is an active bio-weapon program.
+Tip0=Wall mines are motion sensitive and can be disabled when the light is green.
+Tip1=Dual rappelling is the best move to reach upper or lower area 
+Tip2=Move the mouse to control the Tomoe Nage target.
+Tip3=Your sound meter shows how loud you and the environment are.
+Tip4=Fire button throws grenades straight. alternate fire is for skilled lobbing.
+Tip5=You can equip your pistol when hanging from a rope by Pressing use/equip button.
+
+[04_gcs]
+Location=Train Station, Manhattan, New York, USA
+Date=Fri, July 14th, 2007
+Time=05:24H
+Overview=Colonel Kim and his men have taken control of Train Station. It is likely that Kim has biological weapons taken from the bunker and may be planning to use them. Infiltrate the station, eliminate Colonel Kim, and recover the bio-weapons.
+Tip0=If one Agent goes down, get to him, and Heal him with the interact button.
+Tip1=The coop button is used to initiate and complete Co-op Moves.
+Tip2=You can equip your pistol when hanging from a rope by Pressing use/equip button.
+Tip3=You must work together in order to complete a mission. 
+Tip4=To view the other Agent’s camera Select the Share View Interaction.
+Tip5=If you are undetected... try to keep it that way.
+
+[05_NuclearPlant]
+Location=Nuclear Power Plant, Yongbyon, North Korea
+Date=Fri, July 14th, 2007
+Time=05:24H
+Overview=The detonators used in the New York attack come from a Nuclear Power Plant in Yongbyon, North Korea. Colonel Kim cannot have organized everything by himself. Someone must have helped him. Find out how many detonators Kim got and who helped him.
+
+[07_UNhq]
+Location=UN Headquarters, Midtown Manhattan, New York City, USA
+Date=Fri, July 14th, 2007
+Time=05:24H
+Overview=Third Echelon intercepted an encrypted communication between Jin Soo and the UN Headquarters. Infiltrate the building and find out what’s going on. Lethal force is not allowed.

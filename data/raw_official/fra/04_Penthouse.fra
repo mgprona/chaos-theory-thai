@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=PENTHOUSE
+Briefing_LAMBERT=Bruce Morgenholt et Abrahim Zherkezhi étaient partenaires dans le cadre du Projet Watson, le comité de l'ONU qui a travaillé sur les noyaux de Masse. Ce sont eux qui ont découvert le cryptage en mode 512 bits, celui-là même qui était utilisé pour les messages que vous avez récupérés à la banque. Si ce soi-disant "Dvorak" a réussi à se procurer les algorithmes de Masse, nous allons en baver !
+Briefing_GRIMSDOTTIR=J'essaye de m'infiltrer dans le réseau privé de Zherkezhi depuis que nous l'avons relié à cette histoire. La sécurité informatique, ça me connaît, et je m'attendais à ce que celle de Zherkezhi soit optimale, mais à ce point, c'est de la démence ! Ce n'est pas que son réseau soit impénétrable ou même invisible, mais j'ai l'impression de chasser une ombre dans une pièce noire... ça me rend dingue ! 
+Briefing_REDDING=La situation se dégrade à New York. La coupure d'électricité dure depuis 24 heures et personne ne sait quand le courant sera rétabli. Les rapports sporadiques font état de troubles à Manhattan, mais tout cela reste contenu. Apparemment, la Garde nationale devrait être déployée dans l'heure qui vient. Ton point d'insertion sera une allée proche de l'objectif. Attention à ne pas faire de mal aux civils ! 
+Briefing=A FAIRE
+
+[Interaction]
+IntRetrieveOutputs=Récupérer les données
+IntStartMainServer=Lancer le serveur
+IntExtraction=Extraction
+
+[Computer]
+CompPenthouseArchitecturalPlans=Plan d'architecture du penthouse
+
+[Email]
+EmailTransactionBody=Señor Dvorak, selon vos instructions du 24 juin 2007, le transfert et les règlements ont été effectués. Toutes les transactions ont par la suite été effacées, toute trace papier étant passée au broyeur, comme convenu.
+EmailTransactionDate=29/06/2007
+EmailTransactionFrom=MCAS Banco de Panama
+EmailTransactionSubject=Transaction effectuée
+EmailTransactionTo=Dvorak 
+
+EmailNewsBody=En raison de la récente coupure d'électricité, les serveurs de WNM Actualités ne fonctionnent plus. Nous espérons apporter une solution rapide à ce problème et nous nous excusons pour le désagrément qu'il pourrait vous causer. 
+EmailNewsDate=29/06/2007
+EmailNewsFrom=WNM Actualités
+EmailNewsSubject=Message automatique
+EmailNewsTo=Abonné 
+
+EmailDisplaceBody=Je comprends. Ce n'est jamais facile de demander à des soldats professionnels de se transformer en vigiles. Je vais faire en sorte de raccourcir les rotations afin que personne ne reste ici trop longtemps. Gerald commencera plus tard dans la semaine.
+EmailDisplaceDate=30/06/2007
+EmailDisplaceFrom=Planning de Displace
+EmailDisplaceSubject=Moral en baisse
+EmailDisplaceTo=George
+
+EmailDvorakBody=Echec de connexion noté. 29 juin 2007. Employé sous contrat. Pas d'intrusion. Lancement du protocole 14. Modification du code d'accès. 0280.
+EmailDvorakDate=30/06/2007
+EmailDvorakFrom=Dvorak 
+EmailDvorakSubject=Lancement du protocole 14
+EmailDvorakTo=Zherkezhi 

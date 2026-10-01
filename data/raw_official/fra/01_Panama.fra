@@ -1,0 +1,34 @@
+[GENERAL]
+MapName=PANAMA
+Briefing_LAMBERT=Bienvenue chez les professionnels ! Je sais que vous êtes encore à l'entraînement, mais nous avons besoin de quelqu'un et il n'y a que vous. Nous avons récemment reçu la preuve que le señor Segundo Ruiz de Medeiros, vice-président de la banque panaméenne MCAS, acceptait des pots-de-vin pour soustraire certains navires à l'inspection obligatoire à l'entrée du canal. Il nous faut ses registres, si jamais il en tient.
+Briefing=A FAIRE
+
+
+[Computer]
+CompAccessingTheArchives=Accéder aux archives
+CompAccessingTheServer=Accéder au serveur
+
+[Email]
+EmailSecSystemeBody=Je ne sais pas quel est l'idiot qui a eu cette idée de génie, mais le disjoncteur permettant de couper les lasers en cas d'urgence se trouve A L'INTERIEUR de la zone qu'ils quadrillent ! Autrement dit, si je n'ai pas sur moi un genre de rayon à micro-ondes pour griller le disjoncteur de loin, je suis coincé ici jusqu'à l'arrivée de l'équipe de jour... comment je fais, si j'ai envie d'aller pisser, hein ?
+EmailSecSystemeDate=28/06/2007
+EmailSecSystemeFrom=Neron
+EmailSecSystemeSubject=Sécurité de la salle d'expo
+EmailSecSystemeTo=Jose
+
+EmailTempABody=H... Pardon, j'ai mal compris. Le code de la porte de la salle d'exposition est le 2341.
+EmailTempADate=28/06/2007
+EmailTempAFrom=Juan
+EmailTempASubject=RE: Code de la salle du serveur
+EmailTempATo=Hermes
+
+EmailTempBBody=Hé ! J'ai le code du couloir, qui nous permettra d'entrer dans la salle de billard. Et, de là, on pourra accéder au salon pour regarder la télé grand écran. Ça te dit de voir le match, ce soir ? Le code de la porte est le 1523.
+EmailTempBDate=28/06/2007
+EmailTempBFrom=Franco
+EmailTempBSubject=Match de ce soir
+EmailTempBTo=Julio
+
+EmailTempCBody=Juan... Je sais bien que le code de la porte reliant la salle du serveur et la salle d'exposition est le 1534... Ce que je cherche, c'est celui qui permet d'ENTRER dans la salle d'expo...
+EmailTempCDate=28/06/2007
+EmailTempCFrom=Hermes
+EmailTempCSubject=Code de la salle du serveur
+EmailTempCTo=Juan

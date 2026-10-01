@@ -1,0 +1,43 @@
+
+[P_05_NuclearPlant_AlarmCheck]
+Note_0005L=Enemies are wearing body armor
+Note_0006L=Enemies are wearing helmets
+Note_0007L=Enemies have fortified their positions
+POPUPMESSAGE_0001=Alarm Stage One
+POPUPMESSAGE_0002=Alarm Stage Two
+POPUPMESSAGE_0003=Alarm Stage Three
+POPUPMESSAGE_0004=Alarm Stage Four - Full Alert - Enemies Fortifying Positions
+[P_05_NuclearPlant_LambertConv]
+Note_0009L=A security camera covers the stairs in the turbine area.
+Note_0010L=The door that leads to the Main Control Room is locked by a retinal scanner.
+Note_0012L=The Radiochemistry Laboratory's Server Room is locked by a retinal scanner.
+Speech_-001L=(null)
+Speech_0002L=LAMBERT - The security doors are blocked. There should be a computer around here to control them.
+Speech_0004L=LAMBERT - The turbine is just above your heads. Reach the stairs on the other side of this room.
+Speech_0005L=LAMBERT - Good. Now cross the turbine room and you'll be on the way to the control room.
+Speech_0007L=LAMBERT - From the blueprints it looks like you can reach the Lab's server from a trap-door in the ceiling.
+Speech_0008L=LAMBERT - Jin Soo? He is a CGIB officer. Well done. He could lead us to Kim. Now exit the Lab from the side door and we'll bring you home.
+Speech_0011L=LAMBERT - Today is not your lucky day. The elevator cannot be called from here. Find another way to reach the upper floor.
+Speech_0013L=LAMBERT - Stop kidding around! I told you to go upstairs. This is not the time to play with radioactive toys.
+Speech_0014L=LAMBERT - The security doors are blocked. There should be a computer around here to control them.
+[P_05_NuclearPlant_OBJ]
+Note_0024L=The Central Archives are in the Main Control Room.
+Note_0025L=The Main Control Room is close to the turbine area.
+Note_0026L=The Radiochemistry Laboratory is connected to the Power Plant by an external footbridge.
+Note_0027L=Lasers protect the corridor leading to the footbridge.
+Note_0028L=The primary extraction point is out of the Radiochemistry Laboratory's side door.
+Objective_0003=Discover if Kim can attack again
+Objective_0004=Kim placed 3 bombs in New York. You must discover how many bombs Colonel Kim got.
+Objective_0012=Exfiltrate to the primary extraction point
+Objective_0013=Reach the extraction zone out of the Radiochemistry Laboratory's side door.
+Objective_0015=Gather Yongbyon complex's blueprints
+Objective_0016=With the blueprints, Lambert can give you valuable advice about the complex.
+Objective_0020=Find out who helped Kim
+Objective_0021=Colonel Kim cannot have organized everything by himself. Someone must have helped him. Find out who.
+POPUPMESSAGE_0019=Exfiltrate to the primary extraction point
+POPUPMESSAGE_0022=Find out who helped Kim
+Speech_-001L=(null)
+Speech_0005L=LAMBERT - We do not have the blueprints of the complex. Infiltrate the building and locate the main control room. The intelligence we are looking for should be there.
+Speech_0008L=LAMBERT - God Dammit! Kim still has one bomb and he will surely attack again. We absolutely need to find out who helped Kim. Proceed to the Lab.
+Speech_0014L=LAMBERT - Jin Soo...he is a CGIB officer. He could lead us to Kim. Well done. Now exit the Lab from the side door and we'll bring you home.
+Speech_0023L=LAMBERT - We have the blueprints. Good. Now I can lead you to the control room. Go on to the turbine zone.

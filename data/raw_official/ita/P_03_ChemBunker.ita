@@ -1,0 +1,240 @@
+[P_03_Chemical_AlarmCheck]
+POPUPMESSAGE_0001=Allarme di primo livello
+POPUPMESSAGE_0002=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+Note_0003L=I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.
+POPUPMESSAGE_0004=Allarme di terzo livello - I nemici indossano l'elmetto
+Note_0005L=I NEMICI INDOSSANO L'ELMETTO.
+POPUPMESSAGE_0006=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0007L=I NEMICI HANNO CREATO DELLE DIFESE.
+
+[P_03_Chemical_Communications]
+Speech_-001L=(null)
+Speech_0001L=Ricordatevi che abbiamo un accordo di cessate il fuoco con la Corea del Nord durante la ritirata da Seul. Siate discreti, non vogliamo riaccendere il conflitto.
+Speech_-001L=(null)
+Speech_0002L=State calmi. È un lancio di prova, programmato molto prima dell'inizio della guerra. I coreani ci stanno solo ricordando che fanno sul serio. E a quanto pare quello è anche il modo migliore per farvi entrare nel bunker.
+POPUPMESSAGE_0015=Infiltrati nel bunker scendendo da uno dei silos.
+Speech_-001L=(null)
+Speech_0003L=Buon Dio. Questo sconvolge tutto. Devono avere in mente un agente virale specifico se stanno conducendo questi test termografici. Recuperate il protocollo virale dal laboratorio principale, così potremo analizzarlo.
+POPUPMESSAGE_0016=Recupera il protocollo virale dal laboratorio principale.
+Speech_-001L=(null)
+Speech_0004L=Quello è un protocollo per un'arma biologica virale. A quanto pare ci servirà un campione di siero da una delle scimmie per eseguire test sul virus e sull'antidoto.
+POPUPMESSAGE_0017=Prendi il siero di sangue di scimpanzè che serve per l'antidoto.
+Speech_-001L=(null)
+Speech_0011L=Ottima idea... Forse gli esperimenti che stanno eseguendo su queste scimmie sono parte del protocollo virale.
+Speech_-001L=(null)
+Speech_0013L=Quello è un protocollo per un'arma biologica virale. Prendete quel siero e provatelo contro l'antidoto immagazzinato nella loro camera criogenica.
+POPUPMESSAGE_0018=Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.
+Speech_-001L=(null)
+Speech_0005L=Bene. Ora prendete quel siero e provatelo contro l'antidoto immagazzinato nella loro camera criogenica.
+POPUPMESSAGE_0019=Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.
+Speech_-001L=(null)
+Speech_0006L=Dovrete seguire il protocollo per costruire un campione dell'antidoto.
+Speech_-001L=(null)
+Speech_0007L=Bene. Sembra che l'antidoto sia stabile. Ora salite in cima alla camera criogenica e uno di voi due recuperi il campione.
+Speech_-001L=(null)
+Speech_0008L=Ottimo lavoro. Se riusciamo a inviarlo al CDC, loro possono preparare un piano di reazione nel caso che quest'arma venga usata contro i nostri soldati. L'ultima cosa che vogliamo è un campione del virus sotto forma di arma. Dovete raggiungere il magazzino delle testate che avete attraversato prima e prendere un campione.
+Note_0022L=Un missile nel magazzino contiene il campione di virus che ti serve.
+POPUPMESSAGE_0020=Recupera un campione di virus da uno dei missili.
+Speech_-001L=(null)
+Speech_0009L=Ben fatto. Vi suggerisco di stare attenti con quella roba. Portatevi al molo di sotto e trovate un mezzo di trasporto. Vi recupereremo in mare aperto.
+POPUPMESSAGE_0021=Vai al punto di estrazione primario.
+Speech_-001L=(null)
+Speech_0010L=Buona idea. Se il CDC conosce la procedura usata per l'operazione, sarà molto più facile scoprire la natura esatta del virus.
+Speech_-001L=(null)
+Speech_0012L=Non possiamo venire a prendervi fino al completamento dei vostri obiettivi. Tornate dentro e finite la missione!
+Speech_-001L=(null)
+Speech_0014L=Dannazione. È proprio quello che ci mancava... un colonnello ribelle dotato di armi biologiche e pronto a usarle.
+
+[P_03_Chemical_Cryotank]
+
+[P_03_Chemical_CryoTankDown]
+
+[P_03_Chemical_CryoTankUp]
+
+[P_03_Chemical_FlickeringLight]
+
+[P_03_Chemical_HallwayTurret]
+
+[P_03_Chemical_InterroGuard]
+Speech_-001L=(null)
+Speech_0001L=Oh, no... dovete essere gli americani. Sapevo che un giorno sarebbe successo. Sentite, non uccidetemi... il codice per il laboratorio principale è 8416...
+Note_0003L=Il codice per aprire la porta di sicurezza nel laboratorio principale è 8416.
+Speech_0002L=Oh, no... dovete essere gli americani. Sapevo che un giorno sarebbe successo. Sentite, non uccidetemi... il codice per il laboratorio principale è 8416...
+
+[P_03_Chemical_InterroTech]
+Speech_-001L=(null)
+Speech_0001L=Oddio. Vi prego... no... Io sono solo uno scienziato. Mi occupo solo delle scimmie. Vi dirò tutto. Il codice per il mini-laboratorio è 5791... troverete là dentro quello che state cercando.
+Speech_0002L=Oh... per favore, non uccidetemi. Il codice per il mini-laboratorio è 5791 e il codice per il frigorifero all'interno è 1423. Per favore... Io non ho fatto niente di male.
+Note_0003L=Il codice del mini laboratorio è 5791.
+
+[P_03_Chemical_LocalizationTemp]
+Note_0001L=Il codice per l'armadietto refrigerato nel mini laboratorio è 8361.
+Note_0002L=Il codice per il mini laboratorio è 9015.
+Note_0003L=Il codice per la sala operatoria è 5439.
+Note_0004L=Il codice per aprire il laboratorio principale dalla porta di sicurezza è 2570.
+Note_0005L=Un missile nel magazzino contiene il campione di virus che ti serve.
+Note_0006L=Il codice per disattivare la testata del missile è 1961.
+Note_0007L=Componente Uno del protocollo anti-virale = Siero sanguigno tipo A.
+Note_0008L=Componente Uno del protocollo anti-virale = Siero sanguigno tipo B.
+Note_0009L=Componente Uno del protocollo anti-virale = Siero sanguigno tipo 0.
+Note_0010L=Sequenza protocollo - Utente Uno = 
+Note_0011L=Sequenza protocollo - Utente Due =
+Note_0012L=Blu
+Note_0013L=Rosso
+Note_0014L=Viola
+Note_0015L=Verde
+Note_0016L=Giallo
+Note_0017L=Azzurro
+Speech_-001L=(null)
+Speech_0018L=C'è carburante nello zodiac?
+Speech_0019L=Pieno e pronto a partire.
+Speech_0020L=Bene. Se gli americani scoprono questo posto, non permetteranno che il la nave col missile esca. Prenderemo lo zodiac e speriamo che non ci bombardino.
+Speech_0021L=Ottima idea. Sono con te.
+Speech_-001L=(null)
+Speech_0022L=Interrogato dall'agente speciale Jack Baxter, Jong Pom-chu ha confessato di essere conivolto nella consegna di certe ricerche segrete sulle armi biologiche ad agenti del CGIB. Il CGIB l'avrebbe quindi ricattato per fargli acquistare equipaggiamenti per la modifica dei virus, per i quali sono previste pesanti restrizioni. Pom-chu è riuscito a contrabbandare questi equipaggiamenti per conto del CGIB attraverso Panama. La nostra indagine ha rivelato che Jong negli ultimi mesi è stato in contatto con il governo nordcoreano, che sta usando le sue informazioni e il suo equipaggiamento per costruire armi biologiche in una serie di vecchi bunker vicino a Namp'o-si. La vostra missione è infiltrarvi nel complesso di bunker, identificare le armi chimiche o biologiche esistenti, e recuperare campioni degli agenti in sviluppo.
+Speech_-001L=(null)
+Speech_0023L=Long Dan, l'ambasciatore cinese negli Stati Uniti, è stato lodato per il suo sforzo diplomatico che ha portato a un cessate il fuoco nella Guerra di Corea. Mentre le forze americane, sudcoreane e nordcoreane devono gestire un difficile stallo in una Seul ancora occupata, i diplomatici tornano al tavolo delle trattative per una sessione di emergenza. 
+Speech_-001L=(null)
+Speech_0024L=Cambiamo argomento. 141 corpi recuperati dall'affondamento della Walsh sono arrivati oggi negli Stati Uniti in preparazione del funerale che inizierà dopodomani. È stato confermato che la Walsh è andata perduta con tutto l'equipaggio, portando il triste conto delle vittime a 283, tra uomini dell'equipaggio e ufficiali.
+POPUPMESSAGE_0026=Infiltrati nel bunker scendendo da uno dei silos.
+POPUPMESSAGE_0027=Recupera il protocollo virale dal laboratorio principale.
+POPUPMESSAGE_0028=Prendi il siero di sangue di scimpanzè che serve per l'antidoto.
+POPUPMESSAGE_0029=Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.
+POPUPMESSAGE_0030=Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.
+POPUPMESSAGE_0031=Recupera un campione di virus da uno dei missili.
+POPUPMESSAGE_0032=Vai al punto di estrazione primario.
+
+[P_03_Chemical_Main]
+
+[P_03_Chemical_MainLab]
+Note_0001L=Il codice della cella frigorifera del mini laboratorio è 1423.
+
+[P_03_Chemical_MainLabSleepGuard]
+
+[P_03_Chemical_MainLabTech01]
+
+[P_03_Chemical_MainLabTech02]
+
+[P_03_Chemical_MainLabTech02Timer]
+
+[P_03_Chemical_MiniLab]
+Note_0001L=Il codice della cella frigorifera del mini laboratorio è 1423.
+Note_0002L=Il codice della cella frigorifera del mini laboratorio è 1423.
+
+[P_03_Chemical_MiniLabChat01]
+Speech_-001L=(null)
+Speech_0001L=Oh... Java... sei così carina... piccola cucci cucci cucci...
+Speech_0002L=Aaak!
+Speech_0003L=Oh... Java.... Non avrai mica fame? Sei andata così bene di corpo... sì... oh... ma che carina... mmm... mango... ti piace il mango, no, piccolina?
+Speech_0004L=Aaak! Aaak! Aaak! Aaak!
+Speech_0005L=Brava bimba, Java... brava bimba...
+Speech_0006L=Aaak! Aaak!
+Speech_0007L=Oh... sei così intelligente, Java...
+Speech_0008L=Aaak! Aaak! Aaak!
+
+[P_03_Chemical_MissileBoat]
+
+[P_03_Chemical_MissileBoatChat01]
+Speech_-001L=(null)
+Speech_0008L=Is the zodiac all fueled up?
+Speech_0009L=Fueled and ready to go.
+Speech_0010L=Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.
+Speech_0011L=Good idea. I'm with you.
+
+[P_03_Chemical_MissileExplosion]
+
+[P_03_Chemical_MissileLaunch]
+Speech_0001L=T- meno venti secondi al lancio. Silo a posto, apertura portelli di lancio. Attendere.
+Speech_0002L=Portelli di lancio aperti. T meno venti secondi al lancio. Inizio sequenza di lancio.
+Speech_0003L=Pronti per il lancio di prova. Inizio accensione tra cinque...
+Speech_0004L=Quattro... Tre... Sganciamento connettori.
+Speech_0005L=Accensione motore principale.
+Speech_0006L=Partenza.
+Speech_0007L=Il veicolo è uscito dal silo. Tutte le luci sono verdi. Orologio missione azzerato.
+Speech_0008L=Buon viaggio.
+
+[P_03_Chemical_MissileRoom]
+Note_0001L=Il codice per disattivare la testata del missile è 1961.
+
+[P_03_Chemical_MissileRoomChat01]
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0024L=Allora, cosa dice?
+Speech_0025L=Caricamento... trentasette punto uno. Lancio... punta a trentasette punto sei. Volo... hmm... stiamo tra trentasette punto cinque quando inizia la convezione a bordo, fino a... trentasei punto quattro appena  prima del limite.
+Speech_0035L=Sotto il margine di errore di due gradi. Terminale?
+Speech_0036L=Normalizza perfettamente. Esattamente trentasette gradi.
+Speech_0037L=Temperatura corporea esatta.
+Speech_0038L=Mi dà una vita aerea di quattro ore e una percentuale di infezione del venti per cento su sedici ore.
+Speech_0039L=Direi che è un successo.
+Speech_0040L=Stai scherzando? Se ci fosse il premio Nobel per la ricerca bellica lo avremmo appena vinto.
+Speech_0041L=Forse avremo una lode dal Colonnello Kim.
+Speech_0042L=Non hai sentito le notizie? Il Colonnello è scomparso. Doveva fare rapporto al Generale Po, ma non si è mai presentato.
+Speech_0043L=Che cosa?!
+Speech_0044L=Ha accusato il Generale di inchinarsi ai burocrati cinesi tradendo la fiducia di cinquemila soldati leali.
+Speech_0045L=Beh... è abbastanza vero.
+Speech_0046L=Si dice che abbia preso le colture di virus e che minacci di trasformarle in armi per combattere la guerra da solo.
+Speech_0047L=Hm. Beh, la buona notizia è che questo bunker è resistente agli agenti biologici.
+Speech_0048L=Meglio così.
+Speech_0001L=Allora, cosa dice?
+Speech_0002L=Caricamento... trentasette punto uno. Lancio... punta a trentasette punto sei. Volo... hmm... stiamo tra trentasette punto cinque quando inizia la convezione a bordo, fino a... trentasei punto quattro appena  prima del limite.
+Speech_0003L=Sotto il margine di errore di due gradi. Terminale?
+Speech_0004L=Normalizza perfettamente. Esattamente trentasette gradi.
+Speech_0005L=Temperatura corporea esatta.
+Speech_0006L=Mi dà una vita aerea di quattro ore e una percentuale di infezione del venti per cento su sedici ore.
+Speech_0007L=Direi che è un successo.
+Speech_0008L=Stai scherzando? Se ci fosse il premio Nobel per la ricerca bellica lo avremmo appena vinto.
+Speech_0009L=Forse avremo una lode dal Colonnello Kim.
+Speech_0010L=Non hai sentito le notizie? Il Colonnello è scomparso. Doveva fare rapporto al Generale Po, ma non si è mai presentato.
+Speech_0011L=Che cosa?!
+Speech_0012L=Ha accusato il Generale di inchinarsi ai burocrati cinesi tradendo la fiducia di cinquemila soldati leali.
+Speech_0013L=Beh... è abbastanza vero.
+Speech_0014L=Si dice che abbia preso le colture di virus e che minacci di trasformarle in armi per combattere la guerra da solo.
+Speech_0015L=Hm. Beh, la buona notizia è che questo bunker è resistente agli agenti biologici.
+Speech_0016L=Meglio così.
+
+[P_03_Chemical_MissileRoomSleepG]
+
+[P_03_Chemical_Monkeys]
+
+[P_03_Chemical_MonkeyTechnician]
+
+[P_03_Chemical_Objectives]
+Objective_0033=Recupera la registrazione dell'autopsia sulla scimmia.
+Objective_0034=   
+Objective_0025=Infiltrati nel bunker scendendo da uno dei silos.
+Objective_0026=L'unico modo di infiltrarsi nel bunker è scendendo per uno dei tubi di lancio.
+Objective_0031=Recupera il protocollo virale dal laboratorio principale.
+Objective_0032=Devi recuperare dal laboratorio principale il protocollo per l'arma biologica nordcoreana per poter creare l'antidoto. 
+Objective_0009=Prendi il siero di sangue di scimpanzè che serve per l'antidoto.
+Objective_0017=Devi recuperare il siero di sangue di uno degli scimpanzè-cavia per poter creare un antidoto usando il protocollo.
+Objective_0010=Recupera un campione dell'antidoto dalla camera criogenica.
+Objective_0018=Devi creare un campione di antidoto usando il protocollo e prendendo del materiale dalla camera criogenica.
+Objective_0019=Recupera un campione di virus da uno dei missili.
+Objective_0020=Devi recuperare un campione del virus arma da una delle testate nel magazzino.
+Objective_0021=Vai al punto di estrazione primario.
+Objective_0022=Per l'estrazione usa lo Zodiac in fondo al molo della nave missili.
+Objective_0029=Vai al punto di estrazione primario.
+Objective_0030=Per l'estrazione usa lo Zodiac in fondo al molo della nave portamissili.
+Objective_0007=Scopri chi si occupa del progetto di ricerca sulle armi biochimiche
+Objective_0015=(null)
+Objective_0023=Recupera la registrazione dell'autopsia sulla scimmia.
+Objective_0024=(null)
+
+[P_03_Chemical_OperationRoom]
+
+[P_03_Chemical_OperationRoomComp]
+
+[P_03_Chemical_SiloElevatorControl]
+
+[P_03_Chemical_WarehouseChat]
+Speech_-001L=(null)
+Speech_0008L=Hai freddo?
+Speech_0009L=No. È freddo solo nella camera criogenica.
+Speech_0010L=Allra perchè ti battono i denti?
+Speech_0011L=Perchè ho paura delle armi biologiche che tengono dentro alla camera criogenica...
+Speech_0012L=Davvero? Ho sentito dire che sono abbastanza benigne.
+Speech_0013L=Se per "benigno" intendi dire che per sei ore il tuo sistema immunitario ti si rivolta contro, provoca la liquefazione dei tuoi organi interni ed emorragie esplosive di fluidi infetti da ogni buco del tuo corpo finchè non muori, allora sì, è come dici tu.
+Speech_0016L=Oh. Come non detto.
+
+[P_03_Chemical_Zodiac]
+

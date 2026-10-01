@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=FARO
+Briefing_LAMBERT=Fisher, un ingeniero americano llamado Bruce Morgenholt ha sido secuestrado por la "Voz del Pueblo", un grupo terrorista peruano. Su supuesto líder, Hugo Lacerda, es un fanático que predica la Guerra Informática como el único recurso realista para hacer la revolución en las sociedades modernas. Tienes que recuperar o destruir cualquier información que haya podido revelar Morgenholt y, si es factible, rescatarlo. En cuanto a Lacerda, acaba de entrar en nuestra lista de objetivos. Si se pone a tiro, acaba con él.
+Briefing_GRIMSDOTTIR=Aunque no solemos rescatar rehenes, Morgenholt pertenecía al Proyecto Watson, el comité de la ONU que estudiaba los trabajos de Phillip Masse después de Georgia. Se teme que su secuestro sea una coartada para sacarle información secreta sobre los kernels de Masse, pues Masse inventó algunos trucos que, en manos equivocadas, pueden causar daños irreparables. Debemos evitar que se difunda esa información, a cualquier precio.
+Briefing_REDDING=La zona del objetivo es un faro, junto a un fuerte español abandonado, y unas construcciones cercanas. No conocemos la posición exacta de Morgenholt, así que tendrás que averiguarla tú. La inserción será de noche, con una Zodiac, en la playa que hay al pie del fuerte. Las imágenes infrarrojas muestran que debajo del fuerte hay cuevas naturales y seminaturales que quizás te sirvan para infiltrarte.
+Briefing_PATRIDGE=El helicóptero te dejará con la Zodiac a unos kilómetros de la costa y tendrás apoyo logístico en el área. La extracción será en helicóptero, desde lo alto del faro.
+Briefing_SHETLAND=Displace International tiene un contrato con la empresa Wright-Pritchard para proteger a sus directivos en situaciones potencialmente hostiles. Hicimos una evaluación de su proyecto en Perú y aceptamos proteger a Morgenholt. Sus secuestradores sabían lo que hacían: no es el típico rapto de un turista. Cuando se lo llevaron, perdí a tres buenos agentes. Estoy preparando un plan de rescate que deben aprobar la familia y la Wright-Pritchard. Esto nos va a costar mucho dinero.
+Briefing=TODO
+Briefing_PARTRIDGE=El helicóptero te dejará con la Zodiac a unos kilómetros de la costa y tendrás apoyo logístico en el área. La extracción será en helicóptero, desde lo alto del faro.
+
+
+[Interaction]
+IntExfiltrate=Pedir extracción
+IntScanCrate=Escanear caja
+
+[Computer]
+CompEraseData=Borrar datos Morgenholt
+CompObjective=Objetivo
+CompNews=Noticias
+CompEmail=Email
+
+[Email]
+EmailISSBody=Se ha perdido el contacto con la Estación Espacial Internacional. Los científicos temen que haya sido alcanzada por un micrometeoro.
+EmailISSDate=23 jun. 07
+EmailISSFrom=Boletín de noticias de la WNM
+EmailISSSubject=Se pierde el contacto con la EEI
+EmailISSTo=Suscriptor
+
+EmailMorgenholtBody=El Gobierno peruano ha comunicado sus sospechas que el estadounidense Bruce Morgenholt ha sido secuestrado por una organización llamada La "Voz del Pueblo". Este grupo no ha reclamado la autoría del secuestro.
+EmailMorgenholtDate=23 jun. 07
+EmailMorgenholtFrom=Boletín de noticias de la WNM
+EmailMorgenholtSubject=La "Voz del Pueblo", sospechosa de secuestrar a Morgenholt
+EmailMorgenholtTo=Suscriptor
+
+EmailJimboBody=Hola, Jimbo. Al final me convenció Piedro y me fui de camping con sus colegas. Resulta que son una banda de revolucionarios medio organizados, aunque parecen inofensivos. Bueno, me acerqué por las cuevas de la zona y descubrí un tipo de hongo bioluminiscente. A lo mejor era un hongo normal, pero tenía una Photobacterium Phosphrium, no sé... Intentaré conseguirte una muestra.
+EmailJimboDate=23 jun. 07
+EmailJimboFrom=Alfonso
+EmailJimboSubject=PP
+EmailJimboTo=Jim

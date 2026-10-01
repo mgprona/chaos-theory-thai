@@ -1,0 +1,11 @@
+[GENERAL]
+MapName=SEOUL
+Briefing=A FAIRE
+
+[Computer]
+CompDisableRadar=Mettre le radar hors service
+CompUploadTap=Se connecter au réseau
+CompUAVData=Données drones
+
+[Interaction]
+IntScanPlane=Désigner l'avion

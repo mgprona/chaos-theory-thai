@@ -1,0 +1,62 @@
+[GENERAL]
+MapName=DISPLACE
+Briefing=AUFGABE
+Briefing_LAMBERT=Fisher, ich fürchte, dass wir es mit einer Verschwörung zu tun haben, deren Ziel es ist, die ganze Welt in eine Krise zu stürzen. Zherkezhi weiß vermutlich mehr über Information Warfare als jeder andere und Displace unterhält eine schlagkräftige Truppe, die an keinen Staat der Welt gebunden ist. Obendrein sind diese Jungs besser ausgerüstet als die meisten Regierungstruppen ... wir müssen schnellstens herausfinden, ob das ein Zufall ist, oder ob da jemand aus den Reihen von Displace zum großen Schlag ausholt. Zu allem Übel unterhält unser State Department einige äußerst wichtige Verträge mit Displace. Das gibt der ganzen Geschichte noch eine zusätzliche Brisanz. Auch wenn ich dein Leben nur ungern in Gefahr bringe. Diesmal gilt: Nur Aufklärung. Keine Toten.
+Briefing_GRIMSDOTTIR=Die Büros von Displace befinden sich in den obersten drei Etagen des Hantz Center Tower in Manhattan. Wenn man die jüngsten Investitionen in ihrer Infrastruktur betrachtet, weist alles darauf hin, dass sie großen Wert darauf legen, nach einem Terrorangriff noch handlungsfähig zu sein.
+Briefing_REDDING=Die Satellitenaufnahmen bestätigen Grims Daten. Displace läuft beinahe mit voller Kapazität. Es sieht aus, als würde ein Treffen mit dem Stadtrat von New York City stattfinden ... vermutlich geht es dabei um ein Angebot für die Unterstützung der Nationalgarde oder die Übernahme anderer Sicherungsaufgaben. Diese Kerle scheinen mir ganz schöne Opportunisten zu sein. Naja, wenn man mich fragt, ist der Laden sauber. Sollte unserer Chef anderer Meinung sein, werden wir ihn etwas genauer unter die Lupe nehmen.
+
+[Interaction]
+IntUseAlgorithm=Algorithmus verwenden
+IntExtract=Extrahieren
+
+[Computer]
+CompUploadTracer=Spionageprogramm hochladen
+CompObjective=Einsatzziel
+CompPowerSystemEvaluation=Prüfung der Stromversorgung
+CompEmail=E-Mail
+CompVIPDetailReport=VIP-Detailbericht
+CompMeetRoomCode=Code für den Meeting-Raum
+CompTurretPerformanceReport=Leistungsbericht über den Geschützturm
+CompWNMNewsWire=WNM-Eilmeldung
+CompProtectionDetailBackup=Backup des Sicherungsauftrags
+CompNews=Nachrichten
+CompSynchAccessAlgorithm=Algorithmus für den Synchronisierungszugriff
+CompFiredoorkeycode=Code für die Brandschutztür
+CompHokkaidoMeet=Hokkaido-Meeting
+CompCameraAccess=Kamerazugriff
+CompAccess=Zugriff
+CompInfraSoundSpecSheet=Spezifikationen der Infraschall-Waffe
+CompServerAccessAlgorithm=Algorithmus für den Serverzugriff
+CompLobbyAreaDoorcodes=Türcodes für den Lobbybereich
+
+
+[Email]
+EmailPowerEvalBody=Wir haben die technische Überprüfung unserer Generatoren abgeschlossen. Es wird eine Einschränkung der Stromversorgung im Gebäude erwartet. Um es zu schützen, haben wir den Überspannungsschutz erweitert. Sobald die Stadtwerke die Versorgung wiederherstellen, müssten alle Systeme unterbrechungsfrei anspringen.
+EmailPowerEvalDate=Samstag, 20. Juni 2007
+EmailPowerEvalFrom=Wartung Hantz-Center
+EmailPowerEvalSubject=Prüfung der Stromversorgung
+EmailPowerEvalTo=Alle Mitarbeiter von Displace
+
+EmailMeetRoomCodeBody=Matt... Ich hab den Code für den VIP-Meeting-Raum. 2346. Sprich mit ein paar von den Jungs und frag sie, ob sie den Bürocode kennen. Pass auf, dass Milan nichts davon mitbekommt. Der Typ ist mir nicht geheuer.
+EmailMeetRoomCodeDate=Freitag, 29. Juni 2007
+EmailMeetRoomCodeFrom=Gilley
+EmailMeetRoomCodeSubject=Code für Meeting-Raum
+EmailMeetRoomCodeTo=Matthew
+
+EmailWNMLotteryBody=Der bekannte Stahlbaron Brody Masterson-Woods III aus Pennsylvanien hat beim Stupid Ball den mit 1,1 Milliarden US-Dollar dotierten gröSSten Lotto-Jackpot aller Zeiten gewonnen. Der Gewinner verfügt bereits über ein Nettovermögen von 68,4 Milliarden Dollar.
+EmailWNMLotteryDate=Donnerstag, 28. Juni 2007
+EmailWNMLotteryFrom=WNM-Eilmeldung
+EmailWNMLotterySubject=Milliardär gewinnt eine Milliarde im Lotto
+EmailWNMLotteryTo=Abonnent
+
+EmailWNMMasonBody=Verteidigungsminister Frank Mason lieSS verlauten, dass die Nationalgarde eine "sehr dünne" Personaldecke habe. Da die Nationalgardisten die regulären US-Truppen in elf Ländern weltweit unterstützen müssen, hätten die jüngsten Notfalleinsätze in fünf Bundesstaaten eine "äuSSerst negative Auswirkung auf die innere Verteidigungsbereitschaft."
+EmailWNMMasonDate=Freitag, 29. Juni 2007
+EmailWNMMasonFrom=WNM-Eilmeldung
+EmailWNMMasonSubject=Mason: "Nationalgarde fast ohne Reserven"
+EmailWNMMasonTo=Abonnent
+
+EmailLobbyCodeBody=Julian... Wegen Toms Besuch habe ich die Türcodes zwischen dem Betriebsraum und der Hauptlobby geändert. Der neue Code lautet 8136. Er gilt für beide Türen.
+EmailLobbyCodeDate=Samstag, 20. Juni 2007
+EmailLobbyCodeFrom=Gordon
+EmailLobbyCodeSubject=Türcodes im Lobbybereich
+EmailLobbyCodeTo=Julian

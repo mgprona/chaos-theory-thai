@@ -1,0 +1,16 @@
+[GENERAL]
+MapName=NUEVA YORK
+Briefing_LAMBERT=El coronel Kim, antiguo jefe del búnker de misiles, ha tenido ciertas diferencias con el ejército norcoreano por su decisión de acabar la guerra y retirarse de Seúl. Ha robado unas ojivas con armamento biológico y ha desaparecido con ellas. Hace seis horas, ha reaparecido en Nueva York con un grupo de desertores norcoreanos y se ha apoderado de la Estación Central. No conocemos ni sus razones ni sus propósitos, pero sabemos por su perfil que no es ningún estúpido. Está tramando algo más importante. Evitad que Kim o sus hombres desencadenen esa pesadilla biológica y averiguad qué pretende.
+Briefing=TODO
+
+[Interaction]
+
+[Email]
+EmailDiffusalBody=Para desarmar la bomba en caso de emergencia son necesarios dos hombres, pues tienen que cortar el cable activo al mismo tiempo. Esta acción deberá hacerse dos veces; el primer corte desactiva el haz láser, pero pone en marcha nuestro segundo sistema de seguridad... Sé que parece complejo, pero no queremos que un fisgón pueda entrar y desactivar nuestras bombas, ¿verdad? Ah, lo olvidaba: el cable activo no está así durante mucho tiempo. Hay que tener cuidado.
+EmailDiffusalDate=18 de octubre de 2007
+EmailDiffusalFrom=Coronel Kim
+EmailDiffusalSubject=Desarmado de bomba
+EmailDiffusalTo=Chu
+
+[Computer]
+Schematics=Diagramas esquemáticos

@@ -1,0 +1,192 @@
+[P_04_GCS_AlarmCheck]
+POPUPMESSAGE_0001=Alarmstufe Eins
+POPUPMESSAGE_0003=Alarmstufe Zwei – Feinde legen Körperpanzer an
+Note_0007L=Die Gegner tragen eine Körperpanzerung.
+POPUPMESSAGE_0004=Alarmstufe Drei – Feinde setzen Helme auf
+Note_0008L=Die Gegner tragen Helme.
+POPUPMESSAGE_0005=Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein
+Note_0009L=Die Gegner haben ihre Stellungen befestigt.
+
+[P_04_GCS_BatroomSoldier]
+
+[P_04_GCS_BombChecks]
+
+[P_04_GCS_ChuBodyGuard]
+
+[P_04_GCS_Communications]
+Speech_-001L=(null)
+Speech_0001L=Wie es aussieht, hat Kim seine Männer über das gesamte Gebiet verteilt. Ihr werdet eine schöne Strecke zurücklegen müssen, um den Bahnhof zu erreichen.
+Speech_-001L=(null)
+Speech_0002L=Mein Gott ... die meinen es wirklich ernst. Es sieht so aus, als hätten sie in den U-Bahn-Tunneln unter dem Bahnhof Bomben gelegt. Ihr müsst alle Sprengladungen entschärfen, bevor ihr das Telefongespräch abhören geht.
+Note_0048L=Zum Deaktivieren müssen beide Agenten gleichzeitig das aktive Kabel durchtrennen.
+Speech_-001L=(null)
+Speech_0003L=Gute Arbeit ... in dieser Datei befindet sich der komplette Bauplan der Bomben. Seht ihn euch gut an, bevor ihr irgendetwas anfasst, nur so könnt ihr sicherstellen, dass ihr auch wisst, womit ihr es zu tun habt.
+Speech_-001L=(null)
+Speech_0004L=Gute Arbeit. Das war die erste Bombe.
+Speech_-001L=(null)
+Speech_0017L=Gute Arbeit ... damit wären zwei Bomben entschärft.
+Speech_-001L=(null)
+Speech_0005L=He, ihr beiden! Gute Arbeit. Das waren alle Bomben. Begebt Euch jetzt auf dem schnellsten Weg hoch in den Bahnhof. Wir müssen herausfinden, was Kim vorhat.
+Speech_-001L=(null)
+Speech_0042L=Ihr habt es wohl ein wenig zu eilig. Ihr müsst zurückgehen und diese Bomben entschärfen, bevor Kim die gesamte Grand Central Station in die Luft sprengt.
+POPUPMESSAGE_0046=Entschärfen Sie die Bomben unter dem Bahnhof.
+Speech_-001L=(null)
+Speech_0043L=Ich wette, dass sich die zweite Bombe irgendwo in der Nähe dieser Turbinen befindet ... findet und entschärft sie.
+Speech_-001L=(null)
+Speech_0029L=Langsam, Leute. Geht zurück in den alten Wartungsbereich und entschärft dort die Bombe.
+Speech_-001L=(null)
+Speech_0030L=Langsam. Kehrt zum Turbinenraum zurück und entschärft die zweite Bombe.
+POPUPMESSAGE_0047=Verwanzen Sie das Telefon in der Bahnhofshalle, bevor Chu es erreicht.
+Speech_-001L=(null)
+Speech_0006L=Gut. Chu wird einen Anruf an dem öffentlichen Fernsprecher in der Mitte des Bahnhofs entgegennehmen. Ihr müsst unentdeckt eine Wanze an dem Telefon anbringen, sonst gerät Chu in Panik und wir sind erledigt. Lasst euch nicht entdecken.
+Speech_-001L=(null)
+Speech_0036L=Verdammt! Chu hat euch entdeckt ... die Mission ist beendet!
+Speech_-001L=(null)
+Speech_0011L=Gut gemacht. Bleibt in Deckung und hört euch Chus Telefongespräch an. Lasst euch unter keinen Umständen entdecken, bevor wir wissen, was hier vor sich geht.
+Speech_-001L=(null)
+Speech_0007L=Oh, mein Gott. Ihr müsst dieses Antivirus holen und euch um Kims Mann kümmern. Folgt Chu in den Umkleideraum und nehmt das Virus aus dem Spind.
+Speech_-001L=(null)
+Speech_0032L=Gut gemacht. Jetzt habt ihr die Nummer des Spinds und den Code. Geht und holt das Anti-Virus.
+Speech_-001L=(null)
+Speech_0038L=Verdammt noch mal, was habt ihr euch dabei gedacht?! Chu war unsere einzige Chance ... jetzt werden wir Kim niemals aufhalten!
+Speech_-001L=(null)
+Speech_0044L=Verdammt! Das Anzapfen dieses Telefons war unsere einzige Möglichkeit, das Gespräch zwischen Chu und Kim abzuhören ... ich breche die Mission ab.
+Speech_-001L=(null)
+Speech_0033L=Betretet den Waschraum nicht, ohne zuvor das Anti-Virus injiziert zu haben ... ihr werdet sonst infiziert und wir müssen die Mission abbrechen.
+Speech_-001L=(null)
+Speech_0034L=Gute Arbeit. Jetzt muss sich einer von euch das Antivirus injizieren, um den Waschraum betreten zu können und Kims infizierten Mann auszuschalten.
+Speech_-001L=(null)
+Speech_0045L=Seid ihr wahnsinnig?! Ich breche die Mission ab und verständige das CDC, damit es das Gebäude unter Quarantäne setzt, bevor ganz New York von dieser Pest ausgelöscht wird.
+Speech_-001L=(null)
+Speech_0010L=Verdammt ... wir sind zu spät. Sie haben schon einen U-Bahn-Wagen in Bewegung gesetzt. Keine Zeit mehr, auf den Bahnsteig hinunterzugehen. Springt auf das Dach des Zuges, schnell!
+Speech_-001L=(null)
+Speech_0015L=Gute Arbeit. Was für ein Virus er auch immer in sich trug, sobald seine Körpertemperatur sinkt, wird er nicht mehr lange überleben. Dieser Raum müsste jetzt sicher sein. Geht jetzt auf den unteren Bahnsteig und verhindert, dass Kims Leute mit dem restlichen Virusstamm entkommen. 
+Note_0039L=Zum Deaktivieren müssen beide Agenten gleichzeitig das aktive Kabel durchtrennen.
+Speech_0014L=Verdammt! Das Anzapfen dieses Telefons war unsere einzige Möglichkeit, das Gespräch zwischen Chu und Kim abzuhören ... ich breche die Mission ab.
+
+[P_04_GCS_ConvCellPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=Sind alle Bomben an ihrem Platz?
+Speech_0002L=Nur noch eine übrig.
+Speech_0003L=Beeilt euch ... und seid vorsichtig. Diese Dinger sind empfindlich. Ich will nicht, dass der Laden hier einstürzt, solange ich mich noch in seinem Inneren befinde.
+Speech_0004L=Jawohl, Sir.
+Speech_0005L=Hallo? Oberst? Ja. Die Bomben werden in einigen Minuten an ihrem Platz sein. Ja. Ich verstehe. Ein öffentlicher Fernsprecher? Jawohl, Oberst. Der in der Mitte des Bahnhofs? Ja, ich werde dort sein.
+
+[P_04_GCS_ConvEnding]
+Speech_-001L=(null)
+Speech_0001L=Wie kommt es, dass wir als Letzte evakuiert werden?
+Speech_0002L=Irgendjemand muss der Letzte sein.
+Speech_0003L=Ja ... aber diese Bomben ... und jetzt hat der arme Ming auch noch den Virus ... ich werde langsam ein wenig nervös.
+Speech_0004L=Ja ... aber wir alle sterben früher oder später.
+Speech_0005L=Sicher. Aber ich will nicht, dass das heute passiert.
+Speech_-001L=(null)
+Speech_0007L=Wie viele Männer schicken sie voraus?
+Speech_0008L=Eine ganze Menge. Vielleicht dreißig.
+Speech_0009L=Wohin gehen sie?
+Speech_0010L=Chu hat befohlen, keine Fragen zu stellen. Wir werden es herausfinden, wenn wir dort ankommen.
+
+[P_04_GCS_ConvHydroTunnel]
+Speech_-001L=(null)
+Speech_0001L=He, vorsichtig damit. Du weißt, was das für ein Ding ist, richtig?
+Speech_0002L=Ja, irgend so eine Bombe.
+Speech_0003L=Irgend so eine Bombe? Wenn das Ding hoch geht, fällt uns die gesamte zweiundvierzigste Straße zwischen der Fünften und Lexington auf den Kopf.
+Speech_0004L=Ah ... oh ...
+Speech_0005L=Ja ... das ist nicht irgend so eine Bombe, das ist so eine Bombe.
+Speech_0006L=Okay ... ich werde ... (Schlucken) ... ich werde besser aufpassen.
+Speech_0007L=Gute Idee.
+Speech_-001L=(null)
+Speech_0008L=Ist sie aktiv?
+Speech_0009L=Bin nicht sicher. Ich vergesse immer, ob es der blaue oder der gelbe Draht ist.
+Speech_0010L=Nun, dann schlage ich vor, du schaust dir den Bauplan auf dem Laptop an, bevor du uns noch alle umbringst.
+Speech_0011L=Aber der Laptop ist da ganz hinten.
+Speech_0012L=Du wirst ganz schnell da hinten sein, wenn diese Bombe hochgeht ... und du wirst gleichzeitig noch in Harlem und Jersey sein, in so viele Stücke wird es dich zerreißen.
+
+[P_04_GCS_ConvPubPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=Ja, Oberst.
+Speech_0002L=Es gibt eine kleine Änderung in unserem Plan.
+Speech_0003L=Natürlich. Kein Plan ist perfekt. Gibt es ein Problem?
+Speech_0004L=Einer meiner Männer hat es fertig gebracht, sich selbst zu infizieren. Er war klug genug, in einen Waschraum zu gehen und sich dort zu isolieren, aber ich will nicht, dass sich das Virus auf meine übrigen Männer überträgt.
+Speech_0005L=Ich verstehe.
+Speech_0006L=Der Spind, in dem sich ihr Lohn befindet, enthält außerdem auch eine einzelne Dosis des Anti-Virus.
+Speech_0007L=Ich soll also ihren Mann heilen?
+Speech_0008L=Nein, dafür ist es schon längst zu spät. Außerdem würden sie sterben, wenn sie den Raum beträten, ohne selbst das Anti-Virus genommen zu haben.
+Speech_0009L=Ich muss also das Anti-Virus selbst nehmen und ihren Mann töten, um an die restlichen Virusproben zu kommen.
+Speech_0010L=Sie sind ein kluger Mann, Chu. Ich werde sie vermissen. Die Nummer des Spinds ist die 9201. Der Code ist der Geburtstag Ihres Sohnes.
+Speech_0011L=Vielen Dank, Oberst. Ich werde Sie nicht enttäuschen.
+
+[P_04_GCS_ConvSubway]
+Speech_-001L=(null)
+Speech_0001L=Ich habe noch eine Frage ...
+Speech_0002L=Die Antwort ist nein.
+Speech_0003L=Nein ... nein ... ernsthaft ... jetzt, da die Bahn weg ist, wie sollen wir an die Bombe da oben kommen, wenn irgendetwas schief geht?
+Speech_0004L=Vielleicht hast du die Befehle nicht richtig verstanden ... wenn irgendetwas schief geht ... soll diese Bombe explodieren.
+Speech_0005L=Oh ... okay ... he ... warte Moment mal ... würde uns das nicht umbringen?
+Speech_0006L=Ja. Deshalb bleiben wir ja hier ... um sicherzustellen, dass nichts schief geht.
+
+[P_04_GCS_InterroChu]
+Speech_-001L=(null)
+Speech_0002L=Amerikaner ... ha, so ein wild gewordener New Yorker Polizist ... du hältst das wohl für einen Actionfilm ... denkst, du könntest die Informationen aus mir herausprügeln ... keine Chance ...
+Speech_0004L=Ahh! Mein Gott ... Sie sind nicht von der Polizei! Bitte, töten Sie mich nicht! Ich werde Ihnen alles sagen. Der Code für den Spind lautet 0315.
+Note_0006L=Der Nummerncode für den Spind lautet 0315.
+
+[P_04_GCS_InterroDualChu]
+Speech_-001L=(null)
+Speech_0001L=Uhghgh... kkaaaa... achhchc... Ooo... Hilfe...
+Speech_-001L=(null)
+Speech_0003L=Ah ... ugh ... was ... wer ist da? Ich ... ich kann nichts sehen ... meine Augen ... helfen Sie mir ... so ... uhghh ... yyyhhghh ... so krank ... uhgh ... es ... es ... es brennt ... Hilfe ... Chu? Chu? Sind Sie das? Ugghh ... Hilfe ... helfen Sie mir ...
+
+[P_04_GCS_LockerAntidote]
+
+[P_04_GCS_MainHallChu]
+
+[P_04_GCS_MainHallGuards]
+
+[P_04_GCS_MetroTrain]
+
+[P_04_GCS_Objectives]
+Objective_0001=Finden Sie heraus, was Oberst Kim wirklich geplant hat.
+Objective_0008=Oberst Kim und seine Männer haben die Grand Central Station besetzt, aber noch keine Forderungen gestellt. Finden Sie heraus, was sie vorhaben, und halten Sie sie auf.
+POPUPMESSAGE_0030=Finden Sie heraus, was Oberst Kim wirklich geplant hat.
+Objective_0002=Deaktivieren Sie die Bomben unter der Grand Central Station.
+Objective_0009=Kims Männer haben drei Bomben in den U-Bahn-Tunneln gelegt. Diese Bomben verfügen über eine extrem hohe Sprengkraft und könnten zum Einsturz mehrerer Häuserblöcke führen. Die Bomben müssen entschärft werden.
+Objective_0003=Verwanzen Sie das Telefon in der Halle der Grand Central Station, bevor Chu es erreicht.
+Objective_0010=Chu, ein Agent von Kim, wird einen Anruf an einem öffentlichen Telefon in der Haupthalle entgegennehmen. Verwanzen Sie das Telefon vor dem Anruf, damit das Gespräch mitgehört werden kann.
+POPUPMESSAGE_0031=Entschärfen Sie die Bomben unter dem Bahnhof.
+Objective_0014=Besorgen Sie sich das Gift und das Gegenmittel aus dem Schrank.
+Objective_0015=Chu wird eine Probe des Gegengifts aus einem Schrank entnehmen. Finden Sie heraus, welcher Schrank das ist, und neutralisieren Sie Chu, bevor er das Gegenmittel selbst verwendet.
+Objective_0042=Eliminieren Sie den infizierten Soldaten in der Toilette.
+Objective_0043=Nehmen Sie das Gegengift ein, damit Sie den Waschraum betreten können, ohne sich zu infizieren, und eliminieren Sie dann den infizierten Soldaten.
+Objective_0044=Folgen Sie Chu zu dem Schrank.
+Objective_0045=Folgen Sie Chu zu dem Schrank.
+POPUPMESSAGE_0032=Holen Sie das Gegenmittel aus dem Schrank.
+Objective_0046=Stellen Sie das chemische Gift sicher.
+Objective_0047=Stellen Sie das chemische Gift sicher.
+POPUPMESSAGE_0048=Eliminieren Sie den infizierten Soldaten in der Toilette.
+Objective_0018=Hindern Sie Kims Männer daran, mit dem Rest des Gifts zu entkommen.
+Objective_0019=Begeben Sie sich auf den U-Bahn-Bahnsteig und hindern Sie Kims Männer an der Flucht, bevor es zu spät ist.
+Objective_0006=Springen Sie auf die U-Bahn und fahren Sie bis zur Endhaltestelle.
+Objective_0013=Es ist zu spät, um Kims Männer an der Flucht zu hindern. Springen Sie auf das Dach der vorbei fahrenden U-Bahn und folgen Sie ihnen zu ihrem nächsten Ziel.
+POPUPMESSAGE_0034=Springen Sie auf die U-Bahn und fahren Sie bis zur Endhaltestelle.
+Objective_0022=Finden Sie die Baupläne der Bomben.
+Objective_0023=Finden Sie die Baupläne der Bomben.
+POPUPMESSAGE_0035=Entschärfen Sie die Bomben unter dem Bahnhof.
+POPUPMESSAGE_0036=Holen Sie das Gegenmittel aus dem Schrank.
+POPUPMESSAGE_0037=Eliminieren Sie den infizierten Soldaten in der Toilette.
+Objective_0024=Folgen Sie Chu zu dem Schrank.
+Objective_0025=(null)
+Objective_0026=Stellen Sie das chemische Gift sicher.
+Objective_0027=Sichern Sie die Biowaffen-Probe, die der infizierte Soldat im Waschraum bei sich trägt.
+Objective_0028=Eliminieren Sie den infizierten Soldaten in der Toilette.
+Objective_0029=Nehmen Sie das Gegengift ein, damit Sie den Waschraum betreten können, ohne sich zu infizieren, und eliminieren Sie dann den infizierten Soldaten.
+POPUPMESSAGE_0033=Eliminieren Sie den infizierten Soldaten in der Toilette.
+
+[P_04_GCS_ShootLaptop]
+
+[P_04_GCS_Timer]
+Speech_-001L=(null)
+Speech_0001L=Ihr habt es wohl ein wenig zu eilig. Ihr müsst zurückgehen und diese Bomben entschärfen, bevor Kim die gesamte Grand Central Station in die Luft sprengt.
+
+[P_04_GCS_Objective]
+Objective_0038=Stellen Sie das chemische Gift sicher.
+Objective_0039=Sichern Sie die Biowaffen-Probe, die der infizierte Soldat im Waschraum bei sich trägt.

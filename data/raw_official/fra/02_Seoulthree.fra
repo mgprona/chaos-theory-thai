@@ -1,0 +1,21 @@
+[GENERAL]
+MapName=SEOUL
+Briefing_LAMBERT=Cette mission devrait être du gâteau. Jong Pom-chu est un chimiste sud-coréen que nous soupçonnons de travailler pour les services d'espionnage nord-coréens. Depuis peu, la CIA considère également qu'il est capable de fabriquer des armes chimiques ou biologiques. Si jamais ce que vous avez découvert à Panama s'avère exact et si Jong soudoie le señor de Medeiros pour faire passer des marchandises illégales par le canal, il y a de fortes chances pour que le Sud-Coréen possède le matériel allant avec. Allez à Séoul et capturez Jong avant que les Nord-Coréens ne le fassent.
+Briefing=A FAIRE
+
+[Computer]
+
+[Email]
+
+EmailescapeBody=En cas d'urgence, il est possible que Jong soit déplacé de nouveau, afin que les Américains ou les Sud-Coréens ne puissent pas le capturer. En cas de problème, un bateau est amarré au niveau du marché aux poissons. Dites à Jong qu'il peut s'en servir pour s'enfuir.
+Emailescapedate=07/07/2007
+Emailescapefrom=Sun
+Emailescapesubject=Plan B
+Emailescapeto=Pok
+
+
+EmailbackdoorBody=Le code de la porte arrière de l'hôtel est le 7649. Vérifiez bien qu'elle reste fermée en permanence.
+Emailbackdoordate=08/07/2007
+Emailbackdoorfrom=Ping
+EmailbackdoorSubject=Code de la porte de l'hôtel
+Emailbackdoorto=Cho

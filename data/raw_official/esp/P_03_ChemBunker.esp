@@ -1,0 +1,238 @@
+[P_03_Chemical_AlarmCheck]
+POPUPMESSAGE_0001=Alarma de nivel uno
+POPUPMESSAGE_0002=Alarma de nivel dos - El enemigo se coloca el chaleco.
+Note_0003L=Los enemigos llevan chalecos blindados.
+POPUPMESSAGE_0004=Alarma de nivel tres - El enemigo se coloca el casco.
+Note_0005L=Los enemigos llevan cascos.
+POPUPMESSAGE_0006=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+Note_0007L=Los enemigos han reforzado sus posiciones.
+
+[P_03_Chemical_Communications]
+Speech_-001L=(null)
+Speech_0001L=Recordad que hay un alto el fuego mientras los norcoreanos se retiran de Seúl obedeciendo exigencias aliadas. Actuad con discreción. No queremos reiniciar la guerra.
+Speech_-001L=(null)
+Speech_0002L=Calma. Es sólo una prueba. Estaba programada antes de que se iniciara la guerra. Es una forma de recordarnos que van en serio, pero también es una posible entrada al búnker.
+POPUPMESSAGE_0015=Infíltrate en el búnker, bajo los silos.
+Speech_-001L=(null)
+Speech_0003L=Esto lo explica todo. Deben estar pensando en un agente específico si realizan pruebas termográficas con cabezas explosivas. Conseguid el protocolo vírico del laboratorio principal para analizarlo.
+POPUPMESSAGE_0016=Recupera el protocolo vírico del laboratorio principal.
+Speech_-001L=(null)
+Speech_0004L=Es un protocolo para crear un arma biológica vírica. Creo que necesitaremos una muestra de sangre de mono para analizar tanto el virus como la vacuna.
+POPUPMESSAGE_0017=Consigue la sangre apropiada del chimpancé para la vacuna.
+Speech_-001L=(null)
+Speech_0011L=Bien pensado. Puede que los experimentos que están realizando con esos monos formen parte del protocolo vírico.
+Speech_-001L=(null)
+Speech_0013L=Es un protocolo para crear un arma biológica vírica. Probad la muestra de sangre con el antivirus que guardan en la cámara criogénica.
+POPUPMESSAGE_0018=Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.
+Speech_-001L=(null)
+Speech_0005L=Bien. Probad esa muestra de sangre con la vacuna que guardan en la cámara criogénica.
+POPUPMESSAGE_0019=Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.
+Speech_-001L=(null)
+Speech_0006L=Tenéis que seguir el protocolo para fabricar una muestra de la vacuna.
+Speech_-001L=(null)
+Speech_0007L=Bien. Parece que el antivirus es estable. Uno de vosotros tiene que subir a la criocámara para recuperar la muestra.
+Speech_-001L=(null)
+Speech_0008L=Llevaremos esto al Centro de Control de Epidemias para que desarrollen un plan de respuesta por si usan esta arma contra nuestras tropas. Necesito una cosa más: una muestra del propio virus en forma de arma. Para ello tenéis que entrar en la sala donde almacenan las ojivas. Antes habéis pasado por ella.
+Note_0022L=El misil del muelle de carga contiene una muestra del virus que necesitas.
+POPUPMESSAGE_0020=Consigue una muestra de virus de uno de los misiles.
+Speech_-001L=(null)
+Speech_0009L=Buen trabajo. Tened mucho cuidado con esa muestra. Bajad hasta el amarradero y conseguid algún medio de transporte. Os recogeremos en mar abierto.
+POPUPMESSAGE_0021=Ve al punto de extracción primario.
+Speech_-001L=(null)
+Speech_0010L=Bien. Si el Centro de Control de Epidemias puede ver el procedimiento que han utilizado, les será más fácil precisar la naturaleza del virus.
+Speech_-001L=(null)
+Speech_0012L=No podemos extraeros hasta que hayáis completado los objetivos. Tenéis que volver y terminar.
+Speech_-001L=(null)
+Speech_0014L=La peor noticia posible. Un coronel corrupto con armas biológicas y una agenda de malos contactos.
+
+[P_03_Chemical_Cryotank]
+
+[P_03_Chemical_CryoTankDown]
+
+[P_03_Chemical_CryoTankUp]
+
+[P_03_Chemical_FlickeringLight]
+
+[P_03_Chemical_HallwayTurret]
+
+[P_03_Chemical_InterroGuard]
+Speech_-001L=(null)
+Speech_0001L=Vosotros debéis ser los americanos. Sabía que esto acabaría ocurriendo. El código del laboratorio principal es 8416.
+Note_0003L=El código de las puertas de seguridad del laboratorio principal es 8416.
+Speech_0002L=Vosotros debéis ser los americanos. Sabía que esto acabaría ocurriendo. El código del laboratorio principal es 8416.
+
+[P_03_Chemical_InterroTech]
+Speech_-001L=(null)
+Speech_0001L=¡Por favor, no me matéis! Sólo soy un científico. Me encargo de los monos. Os lo contaré todo. El código del minilaboratorio es 5791. Allí encontraréis lo que buscáis.
+Speech_0002L=¡Por favor, no me matéis! ¡No he hecho nada malo! El código del minilaboratorio es 591, y el de la nevera que hay dentro es 1423.
+Note_0003L=El código del minilaboratorio es 5791.
+
+[P_03_Chemical_LocalizationTemp]
+Note_0001L=El código de la cámara refrigerada en el minilaboratorio es 8361.
+Note_0002L=El código del minilaboratorio es 9015.
+Note_0003L=El código de la sala de operaciones es 5439.
+Note_0004L=El código para abrir el laboratorio principal desde la puerta de seguridad es 2570.
+Note_0005L=El misil del muelle de carga contiene una muestra del virus que necesitas.
+Note_0006L=El código para desbloquear la cabeza del misil es 1961.
+Note_0007L=Compuesto uno del protocolo antivírico = Plasma sanguíneo tipo A.
+Note_0008L=Compuesto uno del protocolo antivírico = Plasma sanguíneo tipo B.
+Note_0009L=Compuesto uno del protocolo antivírico = Plasma sanguíneo tipo O.
+Note_0010L=Secuencia de protocolo - Usuario Uno = 
+Note_0011L=Secuencia de protocolo - Usuario Dos =
+Note_0012L=Azul
+Note_0013L=Rojo
+Note_0014L=Violeta
+Note_0015L=Verde
+Note_0016L=Amarillo
+Note_0017L=Agua
+Speech_-001L=(null)
+Speech_0018L=¿Tiene combustible la zodiac?
+Speech_0019L=Sí. Está preparada.
+Speech_0020L=Si los americanos descubren este lugar, no creo que dejen intacta la lancha lanzamisiles. Cogeremos la zodiac y con suerte escaparemos vivos.
+Speech_0021L=Estoy contigo. Buena idea.
+Speech_-001L=(null)
+Speech_0022L=Interrogado por el agente especial Jack Baxter, Jong Pom-chu ha confesado su participación en la venta de secretos de guerra biológica a agentes del CGIB. El CGIB le chantajeó después para que les suministrara material de bioingeniería vírica que Jong pasaba de incógnito a través de Panamá. Las investigaciones sobre las comunicaciones de Jong en los últimos meses demuestran que el gobierno norcoreano puede estar usando tanto su información como su material para fabricar armas biológicas en un viejo complejo de búnkers cerca de Namp'o-si. Vuestra misión es infiltraros en el complejo, identificar posibles armas químicas o biológicas y obtener muestras de los agentes utilizados.
+Speech_-001L=(null)
+Speech_0023L=Long Dan, embajador chino en Estados Unidos, ha recibido alabanzas por sus esfuerzos para conseguir un alto el fuego en la Guerra de Corea. Mientras las tropas contendientes mantienen un compás de espera en Seúl, los diplomáticos han vuelto a la mesa de negociaciones para una reunión de urgencia. 
+Speech_-001L=(null)
+Speech_0024L=Otras noticias. Los 141 cadáveres recuperados tras el hundimiento del Walsh han llegado hoy a los Estados Unidos. Los funerales de las víctimas se celebrarán pasado mañana. Se confirma que el USS Walsh se hundió con toda su dotación, lo que eleva la cifra de muertos a 283 hombres.
+POPUPMESSAGE_0026=Infíltrate en el búnker, bajo los silos.
+POPUPMESSAGE_0027=Recupera el protocolo vírico del laboratorio principal.
+POPUPMESSAGE_0028=Consigue la sangre apropiada del chimpancé para la vacuna.
+POPUPMESSAGE_0029=Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.
+POPUPMESSAGE_0030=Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.
+POPUPMESSAGE_0031=Consigue una muestra de virus de uno de los misiles.
+POPUPMESSAGE_0032=Ve al punto de extracción primario.
+
+[P_03_Chemical_Main]
+
+[P_03_Chemical_MainLab]
+Note_0001L=El código de la cámara refrigerada del minilaboratorio es 1423.
+
+[P_03_Chemical_MainLabSleepGuard]
+
+[P_03_Chemical_MainLabTech01]
+
+[P_03_Chemical_MainLabTech02]
+
+[P_03_Chemical_MainLabTech02Timer]
+
+[P_03_Chemical_MiniLab]
+Note_0001L=El código de la cámara refrigerada del minilaboratorio es 1423.
+Note_0002L=El código de la cámara refrigerada del minilaboratorio es 1423.
+
+[P_03_Chemical_MiniLabChat01]
+Speech_-001L=(null)
+Speech_0001L=Oh... Java... eres tan lista... Qué monita tan dulce y adorable...
+Speech_0002L=¡Aaak!
+Speech_0003L=¿No tienes hambre, Java? Te has portado muy bien, sí. Mira, por haber sido buena, un poco de mango. ¿A que te gusta el mango, tesoro?
+Speech_0004L=¡Aaak! ¡Aaak! ¡Aaak! ¡Aaak!
+Speech_0005L=Buena chica, Java. Buena chica.
+Speech_0006L=¡Aaak! ¡Aaak!
+Speech_0007L=¡Pero qué lista eres, Java!
+Speech_0008L=¡Aaak! ¡Aaak! ¡Aaak!
+
+[P_03_Chemical_MissileBoat]
+
+[P_03_Chemical_MissileBoatChat01]
+Speech_-001L=(null)
+Speech_0008L=Is the zodiac all fueled up?
+Speech_0009L=Fueled and ready to go.
+Speech_0010L=Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.
+Speech_0011L=Good idea. I'm with you.
+
+[P_03_Chemical_MissileExplosion]
+
+[P_03_Chemical_MissileLaunch]
+Speech_0001L=Veinte segundos para lanzamiento. Silo despejado. Abriendo compuertas.
+Speech_0002L=Compuertas abiertas. Veinte segundos para el lanzamiento. Inicio de la secuencia de lanzamiento.
+Speech_0003L=Listos para lanzamiento de prueba. Ignición en cinco segundos.
+Speech_0004L=Cuatro. Tres. Desacoplamiento.
+Speech_0005L=Ignición del motor principal.
+Speech_0006L=Despegue.
+Speech_0007L=El vehículo ha despegado del silo. Luces verdes. Tiempo de la misión, cero segundos.
+Speech_0008L=Es todo vuestro, Vuelo.
+
+[P_03_Chemical_MissileRoom]
+Note_0001L=El código para desbloquear la cabeza del misil es 1961.
+
+[P_03_Chemical_MissileRoomChat01]
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0024L=¿Qué dice?
+Speech_0025L=Carga... treinta y siete uno. Lanzamiento... sube a treinta y siete seis. En vuelo tenemos desde treinta y siete cinco cuando empieza la convección a bordo, hasta treinta y seis cuatro justo antes del límite.
+Speech_0035L=Se mantiene dentro de los dos grados permitidos. ¿El punto terminal?
+Speech_0036L=En el punto terminal se normaliza. Treinta y siete grados.
+Speech_0037L=Como el cuerpo humano.
+Speech_0038L=Vida media de cuatro horas, con una tasa de infección del veinte por ciento a las dieciséis horas.
+Speech_0039L=Es un todo un éxito.
+Speech_0040L=Es una pena que no haya Premio Nobel de armas biológicas. Lo habríamos ganado.
+Speech_0041L=Quizás el coronel Kim nos recomiende.
+Speech_0042L=¿No te has enterado? Ha desaparecido. Se presentó ante el general Po, y nadie lo ha vuelto a ver.
+Speech_0043L=¿Qué?
+Speech_0044L=Acusó al general de inclinarse ante la burocracia china a costa de cinco mil soldados leales.
+Speech_0045L=En eso tenía razón.
+Speech_0046L=Dicen que se ha apoderado de los cultivos víricos y que amenaza con utilizarlos para hacer la guerra él solo.
+Speech_0047L=Menos mal que el búnker está protegido contra agentes biológicos.
+Speech_0048L=Sí.
+Speech_0001L=¿Qué dice?
+Speech_0002L=Carga... treinta y siete uno. Lanzamiento... sube a treinta y siete seis. En vuelo tenemos desde treinta y siete cinco cuando empieza la convección a bordo, hasta treinta y seis cuatro justo antes del límite.
+Speech_0003L=Se mantiene dentro de los dos grados permitidos. ¿El punto terminal?
+Speech_0004L=En el punto terminal se normaliza. Treinta y siete grados.
+Speech_0005L=Como el cuerpo humano.
+Speech_0006L=Vida media de cuatro horas, con una tasa de infección del veinte por ciento a las dieciséis horas.
+Speech_0007L=Es un todo un éxito.
+Speech_0008L=Es una pena que no haya Premio Nobel de armas biológicas. Lo habríamos ganado.
+Speech_0009L=Quizás el coronel Kim nos recomiende.
+Speech_0010L=¿No te has enterado? Ha desaparecido. Se presentó ante el general Po, y nadie lo ha vuelto a ver.
+Speech_0011L=¿Qué?
+Speech_0012L=Acusó al general de inclinarse ante la burocracia china a costa de cinco mil soldados leales.
+Speech_0013L=En eso tenía razón.
+Speech_0014L=Dicen que se ha apoderado de los cultivos víricos y que amenaza con utilizarlos para hacer la guerra él solo.
+Speech_0015L=Menos mal que el búnker está protegido contra agentes biológicos.
+Speech_0016L=Sí.
+
+[P_03_Chemical_MissileRoomSleepG]
+
+[P_03_Chemical_Monkeys]
+
+[P_03_Chemical_MonkeyTechnician]
+
+[P_03_Chemical_Objectives]
+Objective_0033=Consigue la cinta de la autopsia del mono.
+Objective_0034=   
+Objective_0025=Infíltrate en el búnker, bajo los silos.
+Objective_0026=El único modo de infiltrarse en el búnker es por debajo de uno de los tubos de lanzamiento.
+Objective_0031=Recupera el protocolo vírico del laboratorio principal.
+Objective_0032=El protocolo del arma biológica norcoreana debe ser recuperado del laboratorio principal para que puedas preparar una vacuna.
+Objective_0009=Consigue la sangre apropiada del chimpancé para la vacuna.
+Objective_0017=Debes recoger plasma sanguíneo de un chimpancé para que puedas preparar una vacuna siguiendo el protocolo antivírico.
+Objective_0010=Recupera una muestra de la vacuna de la cámara criogénica.
+Objective_0018=Debes preparar una muestra de la vacuna contra el virus con el protocolo, y sacarla de la cámara criogénica.
+Objective_0019=Consigue una muestra de virus de uno de los misiles.
+Objective_0020=Debes recuperar una muestra del virus armamentístico colocado en las cabezas de misiles, en el almacén.
+Objective_0021=Ve al punto de extracción principal.
+Objective_0022=Ve a la zodiac, al final del muelle de la zona de misiles, para tu extracción.
+Objective_0029=Sal al punto de extracción principal.
+Objective_0030=Ve a la zodiac, al final del muelle de la zona de misiles, para tu extracción.
+Objective_0007=Descubre quién es el responsable del proyecto de investigación de armas biológicas.
+Objective_0023=Consigue la cinta de la autopsia del mono.
+
+[P_03_Chemical_OperationRoom]
+
+[P_03_Chemical_OperationRoomComp]
+
+[P_03_Chemical_SiloElevatorControl]
+
+[P_03_Chemical_WarehouseChat]
+Speech_-001L=(null)
+Speech_0008L=¿Tienes frío?
+Speech_0009L=No. Donde hace frío de verdad es en la criocámara.
+Speech_0010L=Pues te castañetean los dientes.
+Speech_0011L=Porque esas armas que hay en la cámara criogénica me dan pavor.
+Speech_0012L=¿Sí? Tenía entendido que eran humanitarias.
+Speech_0013L=No sé, no parece muy humanitario que en seis horas tu sistema inmunológico se rebele contra ti, que tus órganos internos se deshagan y que se produzcan hemorragias infecciosas por todos los orificios de tu cuerpo.
+Speech_0016L=No he dicho nada.
+
+[P_03_Chemical_Zodiac]
+

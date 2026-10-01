@@ -1,0 +1,223 @@
+[P_01_Panama_AlarmSystem]
+POPUPMESSAGE_0001=Allarme di primo livello
+POPUPMESSAGE_0002=Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile
+Note_0003L=I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.
+POPUPMESSAGE_0004=Allarme di terzo livello - I nemici indossano l'elmetto
+Note_0005L=I NEMICI INDOSSANO L'ELMETTO.
+POPUPMESSAGE_0006=Allarme di quarto livello - Allerta - I nemici stanno creando delle difese
+Note_0007L=I NEMICI HANNO CREATO DELLE DIFESE.
+
+[P_01_Panama_ArchiveRoom]
+
+[P_01_Panama_Communications]
+Speech_-001L=(null)
+Speech_0024L=Ascoltatemi bene. Per diventare Splinter Cell ufficiali... o meglio, non ufficiali, dovete imparare a non farvi notare. Il vostro primo obiettivo è ottenere informazioni dagli Archivi. In nessun caso dovrete uccidere il vice presidente de Medeiros.
+Speech_-001L=(null)
+Speech_0007L=Questo è l'Archivio. Il modo più semplice di entrare sarebbe usare lo stesso vice presidente su uno degli scanner. Qualunque altra persona presente nell'edificio andrà bene per l'altro scanner.
+Speech_-001L=(null)
+Speech_0008L=Beh, questo è l'Archivio, ma se il vice presidente è svenuto dovrete cercare di manomettere gli scanner.
+Speech_-001L=(null)
+Speech_0009L=Ecco l'Archivio. Usate il vice presidente su uno degli scanner. Qualunque altra persona presente nell'edificio andrà bene per l'altro.
+Speech_-001L=(null)
+Speech_0010L=Usate il vice presidente su uno degli scanner. Qualunque altra persona presente nell'edificio andrà bene per l'altro.
+Speech_-001L=(null)
+Speech_0011L=Dovete attivare entrambi gli scanner nello stesso momento.
+Speech_-001L=(null)
+Speech_0012L=Ottimo lavoro. Ora entrate nell'Archivio e vediamo cosa riusciamo a trovare.
+Speech_-001L=(null)
+Speech_0013L=Maledizione. Questi file non sono completi. L'Archivio è stato copiato nel Server Principale stamattina. Dovrete accedere a quello. Primo piano, dall'altra parte dell'edificio.
+Speech_-001L=(null)
+Speech_0025L=State deviando dall'obiettivo assegnato. Dovete accedere agli Archivi prima che possiamo pianificare la vostra prossima mossa.
+Speech_-001L=(null)
+Speech_0026L=Questa è una specie di porta d'emergenza antincendio. Non deviate dall'obiettivo assegnato. Andate all'Archivio.
+Speech_-001L=(null)
+Speech_0014L=Non sono buone notizie. Il Señor sta prendendo bustarelle da metà del... Mio Dio... Jong Pom-chu... è un nome che preferivo non leggere. Tornate al camion per l'estrazione, potrei avere un'altra missione per voi.
+Speech_-001L=(null)
+Speech_0015L=Maledizione! Vi avevo detto di non uccidere il vice presidente! Nessuno di voi due si qualificherà mai come Splinter Cell. Missione terminata!
+Speech_-001L=(null)
+Speech_0016L=Beh, adesso è troppo tardi, ma qualcuno con quel livello di accesso di solito vi è più utile quando è sveglio. Ricordatevelo la prossima volta.
+Speech_-001L=(null)
+Speech_0027L=Ma che fate? Ora non potrete servirvi di lui sugli scanner retinici dell'Archivio. Pessima mossa.
+Speech_-001L=(null)
+Speech_0017L=Prima che distruggiate tutto, ricordatevi che i sistemi informatici nemici sono preziose fonti di informazioni.
+Speech_-001L=(null)
+Speech_0021L=Benvenuti in serie A. So che siete entrambi ancora in addestramento, ma è successo qualcosa di grave e non abbiamo altro personale disponibile. Recentemente abbiamo saputo, tramite la MCAS Bank di Panama, che il vice presidente Señor Segundo Ruiz de Medeiros ha accettato bustarelle per permettere a certe navi di oltrepassare punti di ispezione nella zona del Canale. Dobbiamo trovare qualunque tipo di registrazione che il Señor de Medeiros ha conservato.
+Speech_-001L=(null)
+Speech_0022L=...cambiamo argomento... Il direttore dell'Agenzia Spaziale Nazionale Cinese Liu si è offerto pubblicamente di tentare il recupero degli astronauti bloccati sulla stazione spaziale internazionale, sostenendo che l'ASNC ha a disposizione un razzo Shenzhue che potrebbe essere rifornito e preparato per un lancio di emergenza entro settantadue ore... ancora non si è avuta risposta da parte delle autorità della NASA e dell'ESA.
+Speech_0023L=MCAS Banco de Panama ha sporto denuncia assicurativa oggi contro il furto di cinquanta milioni di dollari in titoli al portatore rubati ieri notte dal loro caveau. Pare che i titoli siano proprietà del governo francese. Continuano le indagini su questo furto e sui possibili autori. 
+Speech_0028L=Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.
+Speech_0006L=Ascoltatemi bene. Per diventare Splinter Cell ufficiali... o meglio, non ufficiali, dovete imparare a non farvi notare. Il vostro primo obiettivo è ottenere informazioni dagli Archivi. In nessun caso dovrete uccidere il vice presidente de Medeiros.
+
+[P_01_Panama_Courtyard]
+
+[P_01_Panama_LockerRoom]
+Speech_-001L=(null)
+Speech_0001L=E' il tuo primo turno di notte, eh?
+Speech_0002L=Già. C'è qualcosa che dovrei sapere?
+Speech_0003L=Ha. Come no. Attento al vice presidente. Sta diventando matto, credo.
+Speech_0004L=Buono a sapersi. Dov'è?
+Speech_0005L=Il suo ufficio è al piano di sotto, di fronte alla postazione di sicurezza del secondo piano.
+Speech_0006L=Sono io, o hai notato anche tu che il vicepresidente si comporta in modo strano?
+Speech_0007L=In che senso? Vuoi dire perchè ha installato i sensori di movimento nella sala riunioni e nella sala mostre?
+Speech_0008L=Esattamente. Non è da lui spendere soldi in sicurezza.
+Speech_0009L=Probabilmente ha scoperto che costa meno comprare un paio di sensori di movimento che pagare noi.
+Speech_0010L=Cos'è questa storia dei sensori di movimento?
+Speech_0011L=Ah, il vice presidente ne ha fatti installare alcuni... nella sala riunioni di fianco al suo ufficio... nella sala mostre... Dio sa dove altro.
+Speech_0012L=E come controlliamo là dentro?
+Speech_0013L=Cerchi qualcuno che te li disattivi prima di entrare.
+
+[P_01_Panama_Lounge]
+
+[P_01_Panama_MeetingRoom]
+Note_0004L=I registri recuperati alla MCAS Bank indicano che il vicepresidente Medeiros dell'Amministrazione del Canale di Panama ha accettato bustarelle per permettere a certe navi di ignorare l'ispezione. Echelon vorrebbe investigare meglio questa minaccia.
+Note_0005L=Il codice tra la stanza dei server e l'area mostre è 1534.
+Note_0006L=Il codice nella hall fuori dalla sala del biliardo è 1523.
+Note_0007L=Il codice all'interno dell'area mostre è 2341.
+Note_0008L=Il codice tra l'ufficio del vicepresidente e la sua galleria è 3245.
+Note_0009L=Il codice per l'ascensore privato del vicepresidente è 3298.
+Note_0010L=Disattiva la griglia di laser con il jammer.
+Note_0011L=Il codice tra l'ufficio del vicepresidente e la sua galleria è 3245.
+Note_0012L=Il codice per l'ascensore privato del vicepresidente è 3298.
+POPUPMESSAGE_0013=ACCEDERE AGLI ARCHIVI.
+POPUPMESSAGE_0014=Accedi al server principale
+POPUPMESSAGE_0015=Rientra al punto di estrazione primario.
+Note_0001L=Codice per la prima porta di sicurezza all'interno della sala mostre: 341.
+Note_0002L=Codice per l'altra porta di sicurezza all'interno della sala mostre: 736.
+
+[P_01_Panama_Objectives]
+Objective_0001=Accedi agli archivi
+Objective_0021=Accedi agli archivi dell'Ala Est, ultimo piano, per scoprire l'estensione della corruzione del vicepresidente Medeiros.
+Objective_0019=Accedi al server principale
+Objective_0022=I dati negli archivi sono parzialmente cancellati. Accedi ai backup sui server oltre la sala mostre al piano terra. 
+Objective_0020=Vai al punto di estrazione primario.
+Objective_0023=Ritorna al camion nel cortile esterno per l'estrazione.
+Objective_0024=Trova le informazioni sulle navi non controllate.
+Objective_0025=(null)
+
+[P_01_Panama_Outside]
+Speech_-001L=(null)
+Speech_0001L=Ah... piove. Che bello...
+Speech_0002L=Ma che, sei matto? C'è il monsone, là fuori... è terribile... sembra di stare sotto la doccia.
+Speech_0003L=Ecco perchè mi piace. Lava via la tua puzza. Haha.
+Speech_0004L=Ma stai zitto.
+Speech_0005L=Se ti piace così tanto, perchè non ti fai un giro?
+Speech_0006L=Non è la pioggia che mi preoccupa... sono i fulmini.
+Speech_0007L=Una ragione in più per cui dovrebbe essere il tuo turno, adesso.
+Speech_0008L=Sì. Ma quel che conta è che il più anziano sono io.
+Speech_0009L=Guarda, è bellissimo come fa brillare le superfici.
+Speech_0010L=Mi piace come tutte le superfici diventano... riflettenti.
+Speech_0011L=Sì, è bello davvero.
+
+[P_01_Panama_SecurityCheckPoint]
+
+[P_01_Panama_SecurityRoom01]
+Speech_-001L=(null)
+Speech_0002L=Cosa pensi stia succedendo al Señor de Medeiros di questi tempi?
+Speech_0003L=Cosa vuoi dire?
+Speech_0004L=Non hai notato che si comporta come un paranoico?
+Speech_0005L=Sarei paranoico anch'io se trattassi con la gente con cui tratta lui.
+Speech_0006L=Ho sentito dire che i suoi cani stanno male.
+Speech_0007L=Ah... Ecco perchè non sono in giro.
+Speech_0008L=Già.
+Speech_0009L=E probabilmente per questo motivo ha fatto installare quei sensori di movimento nella sala riunioni.
+Speech_0010L=Esatto.
+Speech_0011L=Non lo so. Non me ne importa neanche molto. È un idiota.
+Speech_0012L=Mah, in realtà non è neanche male... sembra solo un po' disturbato.
+Speech_0013L=Neanche male? Spende tutti i soldi in restauri, ingrandisce la sua collezione privata... e non aggiusta neanche il condizionatore sopra la tua testa.
+
+[P_01_Panama_SecurityRoom02]
+
+[P_01_Panama_ServerRoom]
+
+[P_01_Panama_SoccerGame]
+Speech_-001L=(null)
+Speech_0001L=Bene.. Benone. Okay... Via, passate in avanti! Hai visto quel passaggio?
+Speech_0002L=Oh guarda! Via! Via! 
+Speech_0003L=Vai! Vai!
+Speech_0004L=SIII!!!!
+Speech_0005L=SIII!!!!
+Speech_0006L=Bene, adesso portatela fuori.
+Speech_0007L=Tranquillo, tranquillo... andiamo... prendilo... No!
+Speech_0008L=Nonononononono!
+Speech_0009L=Attento! Arrgghhhh!
+Speech_0010L=Noooooooo!
+Speech_0011L=Credo che mi suiciderò.
+Speech_0012L=Ok... bene... sul lato...
+Speech_0013L=Ora di nuovo al centro... bene...
+Speech_0014L=Ehi! Fallo! Era fallo!!
+Speech_0015L=Andiamo! Arbitro! Ma sei cieco?
+Speech_0016L=Non ci credo... l'ha passata liscia!
+Speech_-001L=(null)
+Speech_0017L=Oh! Oh sì... passala... ok! No! No... al centravanti.
+Speech_0018L=Sì... ecco... sì... sì... andiamo... ooohhh...
+Speech_0019L=Ok... bene... bene... no... male! Male! Oh... fiuuu.
+Speech_0020L=Bene. Proprio così. Controllala. Okay. Bene.
+Speech_-001L=(null)
+Speech_0021L=Prendilo. Okay. Prendilo. Prendilo prendilo. Bene, oh no.
+Speech_0022L=Sulla fascia... sulla fascia... no! Ma che--
+Speech_0023L=Okay... buttala dentro. Sì... whoa... okay c'è mancato un pelo.
+Speech_0024L=Andiamo, ho messo cento balboa su questa partita!
+
+[P_01_PAnama_TalkingToSecurityChief]
+Speech_-001L=(null)
+Speech_0001L=Tutto a posto, tutto tranquillo. C'è solo la pioggia a tenerci compagnia.
+Speech_0002L=Che razza di notte. Calda. Umida. Pioggia torrenziale. Meno male che sono di turno dentro.
+Speech_0003L=Sarà lunga, stanotte. Sarà una noia.
+Speech_-001L=(null)
+Speech_0004L=Hm... sarà in pausa.
+
+[P_01_Panama_TheVP]
+Speech_-001L=(null)
+Speech_0006L=Cosa faccio adesso? Cosa faccio!
+Speech_-001L=(null)
+Speech_0007L=Devo calmarmi... non lo sa nessuno... non lo sa nessuno...
+Speech_-001L=(null)
+Speech_0008L=Ma quando è stata l'ultima notte che ho dormito...
+Speech_-001L=(null)
+Speech_0009L=Oh... Oddio... Sono morto... stavolta mi prendono di sicuro.
+Speech_-001L=(null)
+Speech_0010L=Cosa!? Ehi?! Oh... è solo il vento...
+Speech_-001L=(null)
+Speech_0011L=Dio, ho bisogno di un bicchierino... ma il medico dice che devo cercare di smettere.
+Speech_-001L=(null)
+Speech_0012L=Ecco che parlo da solo... e mi ripeto anche...
+Speech_-001L=(null)
+Speech_0013L=Ok. Tutto okay. Respiri profondi. Sto bene. Le guardie sono di pattuglia. Sensori di movimento. Tutto okay.
+Speech_-001L=(null)
+Speech_0014L=Devo calmarmi. Lavorare un po'...
+Speech_-001L=(null)
+Speech_0015L=Sto cominciando a perdere la testa... Non avrei mai dovuto lasciarmi coinvolgere.
+Speech_-001L=(null)
+Speech_0001L=Signore, è sua moglie sulla uno.
+Speech_0002L=Señor de Medeiros? Potrebbe prendere la chiamata sulla uno?
+Speech_0003L=Signore? È lì? Bene, prendo un altro un messaggio.
+Speech_0004L=Buongiorno. Qui è l'assistenza tecnica Rogelio. Controllate che il computer sia collegato alla rete elettrica e acceso prima di lasciare un messaggio. Grazie. 
+Speech_0005L=Haha... ah già. Ho controllato che fosse collegato... ma mi ero dimenticato di accenderlo. Adesso ho capito. Grazie.
+
+[P_01_Panama_ThirdFloorSecurity]
+Speech_-001L=(null)
+Speech_0001L=Questo lavoro è stupido. Sarei dovuto andare a lavorare nel negozio di cappelli con mio zio. Sono ventitrè anni che ha quel negozio, e ama ancora il suo lavoro.
+Speech_0002L=Fare cappelli Panama è una tradizione bella e nobile.
+Speech_0003L=Già. Non come camminare in tondo per dieci ore ogni notte.
+Speech_0004L=Tutto bene... di nuovo.
+Speech_0005L=Niente da segnalare?
+Speech_0006L=In realtà... uno dei muratori deve aver trascinato la cassetta degli attrezzi... C'è un graffietto sul pavimento in fondo alla hall. Pensi che dobbiamo fare rapporto?
+Speech_0007L=Non fare lo spiritoso.
+Speech_0008L=Ehi, Devante! Ho appena visto un gruppo di scassinatori armati introdursi nello spogliatoio là in fondo!
+Speech_0009L=Che cosa?!
+Speech_0010L=Scherzavo. Tutto a posto.
+Speech_0011L=Molto divertente.
+Speech_0012L=Cinque minuti di pausa?
+Speech_0013L=Di già? Hai fatto una pausa mezz'ora fa.
+Speech_0014L=Mezz'ora? Mi sembra un mese.
+
+[P_01_Panama_VPOffice]
+Speech_-001L=(null)
+Speech_0001L=Oh mio dio.. volete farmi del male? No, non voglio soffrire... vi prego... ah, va bene... vi dirò tutto. Il codice per la sala riunioni è 3245. Il codice per il mio ascensore è 3298, e il codice per il mio computer nell'archivio è 9728.
+Speech_0002L=Giuro che è tutto quel che so... Dovrete uccidermi.
+Speech_0003L=Vi ho dato tutti i codici... ora uccidetemi.
+Speech_-001L=(null)
+Speech_0004L=Oh, dio! Sapevo che sareste arrivati! Sentite, non so niente... Dovrete uccidermi. Vi prego... uccidetemi e levatemi quest'angoscia!
+Speech_0005L=Non parlerò... Voglio morire.
+Speech_0006L=Fatemi un favore e uccidetemi!
+

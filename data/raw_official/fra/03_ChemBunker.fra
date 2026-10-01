@@ -1,0 +1,44 @@
+[GENERAL]
+MapName=BUNKER DE BIOCHIMIE
+Briefing_LAMBERT=Interrogé par l'agent spécial Jack Baxter, Jong Pom-chu a avoué avoir pris part à la livraison de résultats de recherches ultra-secrètes sur les armes biologiques aux agents de la CGIB. La CGIB l'a ensuite fait chanter pour obtenir du matériel d'ingénierie virale, qu'il a livré en le faisant passer en fraude par le canal de Panama. L'enquête que nous avons menée sur Jong a permis de conclure que le gouvernement nord-coréen pourrait avoir l'intention d'utiliser les renseignements fournis par Jong pour fabriquer des armes biologiques dans un complexe de vieux bunkers proches de Namp'o-si. Votre mission consiste à vous infiltrer dans le complexe, à identifier les éventuelles armes chimiques ou biologiques présentes et à récupérer des échantillons des substances en cours de développement.
+Briefing=A FAIRE
+
+[Computer]
+CompDisableCameraSystem=Désactiver les caméras de surveillance
+
+[Email]
+EmailVirusProtocolBody=Nos recherches nous ont enfin permis de trouver un protocole d'antivirus efficace. Il faut un échantillon de sérum sanguin de singe et deux composés chimiques différents pour pouvoir le préparer. Je vous joins les ingrédients exacts dans le fichier attaché.
+EmailVirusProtocolDate=12/10/2007
+EmailVirusProtocolFrom=Pok
+EmailVirusProtocolSubject=Protocole d'antivirus
+EmailVirusProtocolTo=Kim
+
+EmailCryoTankBody=Au fait, j'ai oublié de préciser qu'il était nécessaire de mélanger simultanément les différents ingrédients en respectant l'ordre du protocole, ce qui implique qu'il faille le faire à deux. Attention, car cela peut être extrêmement dangereux.
+EmailCryoTankDate=12/10/2007
+EmailCryoTankFrom=Pok
+EmailCryoTankSubject=Mélange du protocole
+EmailCryoTankTo=Kim
+
+EmailWarheadBody=Il te faudra ouvrir l'ogive du missile pour pouvoir y placer l'échantillon. Le code de l'enveloppe est le 1961. Ne l'oublie pas, surtout, car ta vie en dépend.
+EmailWarheadDate=12/10/2007
+EmailWarheadFrom=Bae
+EmailWarheadSubject=Accès à l'ogive
+EmailWarheadTo=Kim
+
+EmailCountingMonkeyBody=Pok... Je sais que tu vas me croire dingue, mais j'ai l'impression que la petite Java sait compter ! Quand je lui montre des bananes, elle crie une fois par fruit ! C'est vraiment incroyable ! Je vais essayer de pousser l'expérience plus loin, mais j'aimerais bien que tu te livres à un test génétique de ton côté, afin de voir si nos expérimentations n'auraient pas eu des effets secondaires imprévus sur nos sujets. Tu trouveras un échantillon de son sang dans le frigo. Le code est le 1423.
+EmailCountingMonkeyDate=12/10/2007
+EmailCountingMonkeyFrom=Joo
+EmailCountingMonkeySubject=Un singe qui parle ?
+EmailCountingMonkeyTo=Pok
+
+EmailCraneBody=Hé, Kim, la grue a enfin été réparée ! Dès que son conducteur sera de retour, nous pourrons finir de charger les missiles armés. Je préfère ne pas m'en charger moi-même, je ne voudrais pas causer un accident... 
+EmailCraneDate=12/10/2007
+EmailCraneFrom=Kim
+EmailCraneSubject=La grue est de retour !
+EmailCraneTo=Bae
+
+EmailDisarmingWarheadsBody=Si jamais tu veux retirer la substance toxique de l'ogive, il te faudra commencer par enlever l'enveloppe du missile, puis par désactiver son mécanisme de sécurité, ce qui nécessite de couper les deux fils par lesquels passe le courant. Il est fortement recommandé de le faire à deux.
+EmailDisarmingWarheadsDate=12/10/2007
+EmailDisarmingWarheadsFrom=Bae
+EmailDisarmingWarheadsSubject=DÉSARMER L'OGIVE
+EmailDisarmingWarheadsTo=Kim

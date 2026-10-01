@@ -1,0 +1,14 @@
+[GENERAL]
+MapName=SEUL
+Briefing_LAMBERT=38 ore fa, l'esercito nordcoreano ha invaso la Corea del Sud. Da cinquant'anni a questa parte, il loro obiettivo è catturare Seul. Sembra che ci stiano riuscendo. Le forze americane e sudcoreane stanno tentando, mediante ritirate strategiche, di frammentare le singole divisioni nemiche in corridoi separati. Sei ore fa le prime divisioni hanno raggiunto Seul e stanno colpendo le strutture critiche. In cima alla lista c'è una stazione di telecomunicazioni a nord della città. Purtroppo, l'incursione informatica che ha causato l'affondamento della Walsh viene proprio da quella stazione. Se i nordcoreani riuscissero a mettere le mani sulla stazione, otterrebbero una giustificazione per l'invasione agli occhi del mondo. Dobbiamo ottenere quelle informazioni prima di loro.
+Briefing_GRIMSDOTTIR=Le incursioni informatiche che hanno lanciato il missile contro la Walsh sono passate da Seul. Non sono riuscita a tracciarle oltre la stazione di smistamento, e non sono nemmeno sicura che non siano effettivamente partite da lì. È possibile che la Corea del Sud ci abbia spinto a una guerra forzando il Nord ad attaccare gli Stati Uniti. Io ci proverei ad inserirmi, ma questa è una linea dati solida e sicura, e i danni causati dai combattimenti hanno già isolato quasi tutti i miei ingressi. Devi entrare e recuperare i dati manualmente, poi trasmetterli punto a punto per permetterci di esaminarli meglio.
+Briefing_REDDING=La CIA ha diverse basi sicure a Seul per facilitare l'inserimento di agenti e il recupero di possibili disertori. Di solito hanno l'aspetto di case normali. Sto pianificando il tuo inserimento in una di queste case prima che la 2a Divisione di Fanteria effettui un'altra ritirata. Quando sarai dentro i ragazzi si ritireranno e i nordcoreani supereranno la tua posizione, lasciandoti nella scia della forza principale ma davanti alle truppe di supporto. Disporrai di una piccola zona di sicurezza e ti suggerisco di non deviare dall'obiettivo assegnato. Non ti conviene scontrarti con un battaglione al completo.
+Briefing_MASSON=La Reagan è pronta a lanciare un EA-6B Prowler equipaggiato con un sistema ricevitore laser punto a punto. Il vostro uomo riceverà un trasmettitore speciale che individuerà l'aereo e trasmetterà i dati. Questo sistema è sicuro al 100%. Non c'è broadcast, quindi niente da intercettare... tantomeno da decifrare. Quando il vostro uomo sarà in posizione noi lanceremo l'aereo e riceveremo i dati... ma rimane un'operazione ad alto rischio... chiunque decidiate di mandarmi, meglio che sia all'altezza. Questi aerei valgono sessanta milioni di dollari...
+Briefing=INCARICO
+
+[Interaction]
+IntGetdrives=Prendi i dischi
+IntUseelevator=Usa l'ascensore
+
+[Computer]
+CompUploadTap=Carica intercettazioni

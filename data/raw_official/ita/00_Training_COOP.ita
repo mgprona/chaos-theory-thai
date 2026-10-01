@@ -1,0 +1,18 @@
+[GENERAL]
+MapName=ADDESTRAMENTO
+Briefing_LAMBERT=COME AGENTI SPLINTER CELL IN ADDESTRAMENTO, DOVETE IMPARARE A LAVORARE ASSIEME PER COMPLETARE GLI OBIETTIVI. SUL CAMPO, TRA VOI E IL FALLIMENTO AVRETE SOLO LA VOSTRA ASTUZIA E IL VOSTRO COMPAGNO. IMPARATE A FIDARVI E A LAVORARE ASSIEME PER COMPLETARE MISSIONI IMPOSSIBILI PER UN AGENTE ISOLATO.
+Briefing=INCARICO
+
+[Email]
+EmailShareEquipBody=Per avviare la manovra di Condivisione Equipaggiamento, stai vicino all'altro Agente e Interagisci (A). Per completare la manovra di Condivisione Equipaggiamento, l'altro Agente deve Interagire (A). La manovra verrà eseguita e verrà trasferito l'oggetto selezionato nell'inventario.
+EmailShareEquipDate=23/06/07
+EmailShareEquipFrom=Dan
+EmailShareEquipSubject=Condivisione Equipaggiamento
+EmailShareEquipTo=Seb
+
+
+[Computer]
+CompDeactivateLaserGrid=Disattiva la griglia laser
+
+[Interaction]
+LCDScreen=Limiti replay

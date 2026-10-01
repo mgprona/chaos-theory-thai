@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=ÁTICO
+Briefing_LAMBERT=Bruce Morgenholt y Abraham Zherkezhi estaban juntos en el Proyecto Watson, el comité de la ONU que estudiaba los kernels de Masse. Son los únicos que descubrieron el código Cinco-Doce, el mismo utilizado para encriptar los mensajes que recobraste en el banco MCAS. Si el tal 'Dvorak' ha conseguido los algoritmos de Masse, tenemos un problema muy grave.
+Briefing_GRIMSDOTTIR=Desde que descubrimos la relación de Zherkezhi con esta trama, he intentado penetrar en su red privada. He visto muchos sistemas de seguridad, pero éste es una locura. No es que el servidor de Zherkezhi sea impenetrable. Es que parece como buscar una sombra dentro de un agujero negro. ¡Me estoy volviendo loca! 
+Briefing_REDDING=Las cosas se están poniendo feas en Nueva York. El apagón dura ya 24 horas y no se sabe aún cuándo lo repararán. Tenemos informes de disturbios por todo Manhattan, aunque aún no ha corrido la sangre. Los de arriba nos han dicho que en una hora desplegarán a la Guardia Nacional. Tu punto de inserción es un callejón, detrás de un edificio contiguo al objetivo. Cuidado con los civiles. 
+Briefing=TODO
+
+[Interaction]
+IntRetrieveOutputs=Recuperar datos salida
+IntStartMainServer=Iniciar Servidor
+IntExtraction=Extracción
+
+[Computer]
+CompPenthouseArchitecturalPlans=Planos de obra del ático
+
+[Email]
+EmailTransactionBody=Señor Dvorak. Siguiendo sus instrucciones del 24 de junio de 2007, hemos procedido a realizar la transferencia y se han enviado los pagos. Todas las transacciones se han realizado de forma oculta y los registros impresos se han destruido y quemado, cumpliendo lo estipulado.
+EmailTransactionDate=29 de junio de 2007
+EmailTransactionFrom=Banco MCAS de Panamá
+EmailTransactionSubject=Transacción realizada
+EmailTransactionTo=Dvorak 
+
+EmailNewsBody=Debido al reciente apagón, los servidores del boletín de noticias de la WNM no funcionan de forma temporal. Esperamos resolver el problema en breve y les rogamos disculpas por la interrupción de nuestro servicio.
+EmailNewsDate=29 de junio de 2007
+EmailNewsFrom=Boletín de noticias de la WNM
+EmailNewsSubject=Mensaje automático
+EmailNewsTo=Suscriptor 
+
+EmailDisplaceBody=Entiendo... No es fácil encomendar a un soldado profesional y altamente cualificado una tarea rutinaria de guardia. Intentaré acelerar las rotaciones de personal para que ninguno permanezca aquí mucho tiempo. Pondré a Gerald en la rotación a final de esta semana, para empezar.
+EmailDisplaceDate=30 de junio de 2007
+EmailDisplaceFrom=Planificación Displace
+EmailDisplaceSubject=Dudas morales
+EmailDisplaceTo=George
+
+EmailDvorakBody=Fallo al entrar en el nodo solicitado. 29 de junio de 2007. Empleado con contrato. Ninguna intrusión. Iniciar protocolo de acción número 14. Notificación de código de acceso. Cambio. 0280.
+EmailDvorakDate=30 de junio de 2007
+EmailDvorakFrom=Dvorak 
+EmailDvorakSubject=Protocolo de acción 14
+EmailDvorakTo=Zherkezhi 

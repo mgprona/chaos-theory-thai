@@ -1,0 +1,48 @@
+[GENERAL]
+MapName=CARGUERO
+Briefing_LAMBERT=La información que has conseguido en Perú apunta a que Hugo Lacerda fue contratado por terceros para secuestrar e interrogar a Morgenholt. Le pagaron en armas, que ha utilizado para equipar a sus hombres y pagar deudas contraídas con otros grupos guerrilleros. Lacerda es un perdedor, pero gracias a Morgenholt tal vez haya descubierto información confidencial. La Maria Narcissa está en altamar, así que no tiene escapatoria. Aborda el barco, regístralo, averigua con quién ha tenido tratos Lacerda y asegúrate de que no divulgue lo que sabe. Tienes carta blanca para hacer lo que sea necesario..
+Briefing_GRIMSDOTTIR=Lo que Morgenholt sabía sobre los kernels de Masse, computación recursiva y algoritmos de armamento, es parecido a lo que sabía Oppenheimer sobre física atómica o Turing sobre ordenadores digitales. El Proyecto Mason sobre los Kernels de Masse será recordado junto con el Proyecto Manhattan como el avance científico que cambió la naturaleza de la guerra para siempre. Imagínate que el Che Guevara hubiera secuestrado e interrogado a Oppenheimer en 1959. Ahora nos encontramos en una situación similar.
+Briefing_REDDING=Vamos a llevar el helicóptero a cuarenta kilómetros del Maria Narcisa y a dejarte en el agua, interceptando su rumbo. Tendrás que abordarla por la proa sin que te detecten. Registra la nave y las bodegas. Averigua lo que puedas sobre los cargamentos de armas y descubre con quién trata Lacerda. El satélite muestra que hay una lancha a popa. Ése será tu recurso primario para la extracción. Si las cosas van mal, intentaremos rescatarte por mar.
+Briefing_PATRIDGE=El Walsh se mantendrá a una distancia tal que el Maria Narcissa esté siempre al alcance del helicóptero. Si algo va mal, te ayudaremos a escapar. Pero si todo va bien y huyes en la lancha del barco, te recogeremos cuando estés fuera de su vista.
+Briefing=TODO
+
+
+[Interaction]
+IntActivatePumps=Activar bombas
+IntReadbilloflading=Leer albarán
+IntExtraction=Extracción
+
+[Computer]
+CompTransitLedger=Registro de tránsito
+CompRoomassignment=Asignación de camarotes
+
+[Email]
+EmailFloodedBody=Hay un problema con el pantoque principal. Espero que el arreglo que hice sirva... Si se inunda otra vez un compartimento, intenta activar la bomba secundaria del castillo de proa.
+EmailFloodedDate=28 de junio de 2007
+EmailFloodedFrom=Gerardo
+EmailFloodedSubject=Inundación
+EmailFloodedTo=Ignacio
+
+EmailLacerdaBody=Llegaré al barco esta noche. Por favor, mantenga a sus apestosos marineros fuera de mi vista, no quiero que nadie me moleste.
+EmailLacerdaDate=28 de junio de 2007
+EmailLacerdaFrom=Hugo Lacerda 
+EmailLacerdaSubject=Llegada al barco
+EmailLacerdaTo=Capitán Diego
+
+EmailInfoBody=El cuerpo del ingeniero americano Bruce Morgenholt fue encontrado hoy en Perú. Aún se desconocen las causas de su muerte pero el Gobierno estadounidense ha pedido al ejército peruano una disculpa formal por su posible responsabilidad en un intento de rescate fallido. 
+EmailInfoDate=28  de junio de 2007
+EmailInfoFrom=Boletín de noticias de la WNM
+EmailInfoSubject=Morgenholt ha sido hallado en Perú.
+EmailInfoTo=Suscriptor
+
+EmailInfo2Body=Las Fuerzas de Autodefensa japonesas alegan una implicación norcoreana en la crisis bursátil nipona. Las FAD han dado a conocer sus investigaciones sobre los sucesos del día conocido como "Día del Oro Negro". El informe alega que desde China y Corea del Norte se lanzaron ataques informáticos para manipular los mercados mundiales y provocar el colapso económico de Japón. Si esto empeora, una simple chispa hará que saltemos en pedazos.
+EmailInfo2Date=28  de junio de 2007
+EmailInfo2From=Boletín de noticias de la WNM
+EmailInfo2Subject=Las FAD acusan a Corea del Norte de provocar la crisis económica
+EmailInfo2To=Suscriptor
+
+EmailEngineRoomBody=Estoy preocupado por las arandelas de sellado de las tuberías de gas. Ya hemos tenido algunos escapes sin importancia, pero como esto empeore, volaremos en pedazos.
+EmailEngineRoomDate=28 de junio de 2007
+EmailEngineRoomFrom=Pedro 
+EmailEngineRoomSubject=Sala de máquinas
+EmailEngineRoomTo=Cornelio

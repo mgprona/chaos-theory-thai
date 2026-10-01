@@ -1,0 +1,50 @@
+[GENERAL]
+MapName=BATERÍA
+Briefing=TODO
+Briefing_LAMBERT=Fisher, sé que opinas que la forma más rápida de resolver este problema es ir a por Shetland, y tal vez tengas razón. Por desgracia, la tensión diplomática provocada por el incidente del Walsh no ha dejado de crecer. Estamos a menos de veinticuatro horas de una guerra en la Península de Corea. Hemos localizado la batería que lanzó el misil contra el Walsh. Los norcoreanos siguen diciendo que fue un accidente. Si es verdad, hay que demostrarlo cuanto antes.
+Briefing_GRIMSDOTTIR=He estado analizando los datos del ordenador de Zherkezhi en Nueva York. El algoritmo de Zherkezhi es una extrapolación de los kernels de Masse, convertidos en algo infinitamente más complejo gracias a las iteraciones de Dvorak. Si consigues acceder a la BIOS de los lanzamisiles de esa batería, podré identificar la huella que el algoritmo debió dejar en el sistema.
+Briefing_REDDING=Te soltaremos en paracaídas en un bosque, dos kilómetros al este de la batería. Penetrarás en su perímetro de seguridad y te infiltrarás por la entrada de aire principal. La batería lleva allí desde la Segunda Guerra Mundial, pero el satélite indica que ha sido readaptada varias veces. Tenemos datos cartográficos, pero limitados. Ignoramos qué vas a encontrarte. 
+Briefing_MASSON=Desde la destrucción del Walsh, el USS Ronald Reagan ha asumido el mando del Grupo de Portaaviones del Mar Amarillo. Nuestra flota está en Alerta Roja. En caso de guerra, estamos preparados para lanzar ataques de precisión para castigar las defensas costeras norcoreanas y facilitar infiltraciones tras su frente. Si Inteligencia dice que los coreanos buscan una guerra, la tendrán. Todo aquel que esté en las baterías cuando suene la sirena hará bien en buscarse un casco y una Biblia.
+Briefing_OTOMO=La Inteligencia japonesa ha sido vital para determinar que el misil que hundió al Walsh fue disparado desde esta batería. Tendrán el apoyo sin reservas de todas las secciones de las Fuerzas de Autodefensa de Japón para esclarecer las razones de la infame agresión coreana. No tenemos capacidad para atacar directamente esa batería, pero utilizaremos todos nuestros medios para interferir en sus instalaciones en el caso de que nuestros aliados americanos tengan que declarar la guerra.
+
+[Interaction]
+IntExtract=Extrac. precipicio abajo
+
+[Computer]
+CompOutpostEntrance=Entrada puesto guardia
+CompWarehouse=Almacén 
+CompPlayMusic=Escuchar música aleatoria
+CompShippingLog=Buscar registros de embarque
+CompRepairLogs=Sacar registros de reparación
+CompHydraulicCrane=Grúa hidráulica
+CompLoadingBay=Muelle de carga
+CompMissileBayEntrance=Entrada plataforma misiles
+CompAccessCode=Controles código acceso
+CompForklift=Control elevador
+CompEastMissileBay=Plataforma misiles este
+CompWestMissileBay=Plataforma misiles oeste
+CompCommandCenter=Centro de mando
+CompEastBattery=Batería este
+CompWestBattery=Batería oeste
+CompUploadCodes=Códigos abortar lanzamiento
+CompUploadReport=Descargar informe técnico
+CompScanBios=Escanear BIOS de lanzadera
+
+[Email]
+EmailMunitionsBody=Feng, he echado un vistazo a la zona de municiones en el almacén y parece que has pedido cartuchos de calibre 5.56 OTAN. No creo que sea posible, pero aunque lo fuera no tenemos armas para esa munición. ¿Qué piensas hacer con ellas?
+EmailMunitionsDate=6 jul. 07
+EmailMunitionsFrom=Ho
+EmailMunitionsSubject=Entrega de munición errónea
+EmailMunitionsTo=Feng
+
+EmailBloodyBody=Bong, sé que tienes problemas respiratorios cuando estás mucho tiempo bajo tierra, así que he pedido otro botiquín y lo hemos puesto en la sala de control de la plataforma de misiles, por si lo necesitas.
+EmailBloodyDate=6 jul. 07
+EmailBloodyFrom=Chen
+EmailBloodySubject=Nariz sangrante
+EmailBloodyTo=Bong
+
+EmailUndeliverableBody=El mensaje enviado al suscriptor de este servidor ha sido bloqueado por el administrador.
+EmailUndeliverableDate=6 jul. 07
+EmailUndeliverableFrom=Administrador del sistema
+EmailUndeliverableSubject=Boletín de noticias de la WNM - Error
+EmailUndeliverableTo=Usuario

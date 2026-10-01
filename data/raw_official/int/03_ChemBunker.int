@@ -1,0 +1,43 @@
+[GENERAL]
+MapName=CHEMICAL BUNKER
+Briefing_LAMBERT=LAMBERT - Under interrogation by Special agent Jack Baxter, Jong Pom-chu confessed his involvement in delivering highly classified bio-weapon research to agents of the CGIB. CGIB then blackmailed him into acquire heavily regulated viral engineering equipment which he smuggled through Panama on their behalf. Our investigation of Jong’s reported telecommunications activities over the last few months makes it clear that the North Korean government may be using his intelligence and his equipment to manufacture biological weapons in a series of old bunkers near Namp’o-si. Your mission is infiltrate the bunker complex, identify any chemical or biological weapons, and recover samples of any agents being developed.
+
+[Computer]
+CompDisableCameraSystem=Disable Camera System
+
+[Email]
+EmailVirusProtocolBody=Our research has finally discovered a working protocol for the Anti-virus. You will need a sample of monkey blood serum and two different chemical compounds. The correct protocol ingredients are attached to this mail as Notes.
+EmailVirusProtocolDate=10/12/07
+EmailVirusProtocolFrom=Pok
+EmailVirusProtocolSubject=Anti-viral protocol
+EmailVirusProtocolTo=Kim
+
+EmailCryoTankBody=By the way, I forgot to mention you will need to simultaneously mix the different ingredients by respecting the protocol order. Obviously, two people will be required to complete that part of the task. Take care, this can be dangerous.
+EmailCryoTankDate=10/12/07
+EmailCryoTankFrom=Pok
+EmailCryoTankSubject=Mixing the protocol
+EmailCryoTankTo=Kim
+
+EmailWarheadBody=In order to insert the new sample into the delivery vehicle, you will need to open the warhead. The missile warhead casing code is 1961. Guard this code as though your life depends on it... because it does.
+EmailWarheadDate=10/12/07
+EmailWarheadFrom=Bae
+EmailWarheadSubject=Warhead Access
+EmailWarheadTo=Kim
+
+EmailCountingMonkeyBody=Pok... I know you're going to think I'm crazy, but little Java seems to be able to count! If I hold up bananas, she screeches once for each banana I'm holding! It's incredible! I'm going to investigate further. I also suggest you run a gene test to see if our tests might have had some as yet undetected recombinant effect. Her blood is in the fridge. Code 1423.
+EmailCountingMonkeyDate=10/12/07
+EmailCountingMonkeyFrom=Joo
+EmailCountingMonkeySubject=Talking Monkey?
+EmailCountingMonkeyTo=Pok
+
+EmailCraneBody=Hey Kim, they finally repaired the crane. As soon as the operator comes back, we will be able to complete the final loading of the armed missiles.  But I don't want to operate it myself, I don't want to cause an accident. 
+EmailCraneDate=10/12/07
+EmailCraneFrom=Kim
+EmailCraneSubject=Crane is back!
+EmailCraneTo=Bae
+
+EmailDisarmingWarheadsBody=Once you have the missile casing open, should you need to remove the toxin from the warhead, you will need to disable the safety mechanism. To do this, you must simultaneously cut the two hot wires. I would strongly recommend doing this with two people.
+EmailDisarmingWarheadsDate=10/12/07
+EmailDisarmingWarheadsFrom=Bae
+EmailDisarmingWarheadsSubject=Disarming the warheads
+EmailDisarmingWarheadsTo=Kim

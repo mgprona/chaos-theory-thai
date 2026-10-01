@@ -1,0 +1,11 @@
+[GENERAL]
+MapName=HOKKAIDO
+Briefing_LAMBERT=Fisher, wenn ich dem Generalstab nicht schleunigst neue Informationen liefern kann, dann wird es innerhalb der nächsten 24 Stunden Krieg geben. Du musst mir diesen Zherkezhi bringen, damit wir ihn verhören können. Milan Nedich hat den Kerl nach Hokkaido gebracht, um ihn vor jeglichem Zugriff zu schützen. Ich habe keine Ahnung, ob Shetland in die ganze Sache verwickelt ist, und ich wäre für jede neue Information dankbar. Hoffe, du reagierst nicht zu emotional auf die ganze Geschichte.
+Briefing_GRIMSDOTTIR=Für meinen Geschmack gibt es hier einfach zu viele Zufälle. Zherkezhi ist der Einzige, der für die Versenkung der Walsh verantwortlich gewesen sein kann. Selbst wenn die Rakete von den Koreanern abgefeuert wurde, muss es letztendlich Zherkezhi gewesen sein, der sie ins Ziel gelenkt hat. Ach ja, und da wäre auch noch die Geschichte mit Displace ... ich weiß, dass du das bestimmt nicht hören willst, aber... Shetland hat Dreck am Stecken. Die Entführung von Morgenholt und die Tatsache, dass er Zherkezhi beschützen läßt ... die Verlegung nach dem Stromausfall ... die Sache stinkt.
+Briefing_REDDING=Sieht aus, als hätte Displace sich da in einer schönen ruhigen Gegend eingemietet. Es gibt dort nur wenige technische Gerätschaften. Du wirst dich also auf die traditionelle Methode verlassen müssen ... persönlich und schön nah am Geschehen.
+Briefing_OTOMO=Der japanische Nachrichtendienst überwacht die Aktivitäten jeder Person im Dienste einer Sicherheitsfirma, solange sich diese im Land befindet. Wir haben gestern Kenntnis davon erhalten, dass Displace ein Anwesen angemietet hat, und es gelang einigen unserer Agenten, dort Mikrofone zu platzieren. Leider sind wir auf die neue Situation nicht optimal vorbereitet gewesen. Ich befürchte, dass unsere Mikrofone mit Standardmitteln zu lokalisieren sind. Ich brauche wohl nicht zu erwähnen, dass es das Beste wäre, wenn die Herrn von Displace unsere Mikrofone nicht finden.
+Briefing=AUFGABE
+
+[Interaction]
+IntScanlicenseplate=Nummernschild scann
+IntExtraction=Exfiltration

@@ -1,0 +1,248 @@
+[CATEGORIES]
+Category[0]=UNBEKANNT
+Category[1]=PERMANENT
+Category[2]=HAUPTWAFFE
+Category[3]=GERÄTE
+Category[4]=GEGENSTÄNDE
+
+[FN2000]
+Name=SC-20K
+NameShort=SC-20K
+Description=SC-20K Modularer Sturmgewehr-Prototyp\n\n5.56x45mm Stahlmantelprojektile in 30-Schuss-Magazin. Bullpup-Konfiguration.\n\nIntegriertes 1,5x Reflexvisier und Schalldämpfer. Vorbereitung für Erweiterungsmodule.\n\nAbzugsgruppe für halb- und vollautomatisches Feuer.\n\nHülsenauswurf eignet sich für Einsatz an der rechten oder linken Schulter.
+HowToUseMe=
+
+[FN2000AMMO]
+Name=SC-20K Magazin
+NameShort=Magazin für SC-20K
+Description=SC-20K Magazin
+HowToUseMe=
+
+[FN7]
+Name=SC Pistole
+NameShort=SC-Pistole
+Description=SC Pistolen-Prototyp.\n\n5,7x28mm Stahlmantelprojektile in 20-Schuss-Magazin. Integrierter Schalldämpfer\n\nKonfiguration für Links- und Rechtshänder\n\nOCP-Prototyp ist unter dem Lauf montiert.\n\nDas OCP erzeugt beim Aufprall auf das Ziel einen Potenzialabfall,\n\nder zu einem Kuzschluss und Interferenz führen kann.\n\nDer Kondensator lädt sich mit der Zeit selbst auf.
+HowToUseMe=
+
+[FN7AMMO]
+Name=5,7mm Pistolenmagazin
+NameShort=5,7-mm-Magazin für Pistole
+Description=5,7mm Pistolenmagazin
+HowToUseMe=
+
+[SCOPE]
+Name=20mm-Scharfschützen-Modul
+NameShort=SCHARFSCH.
+Description=SC-20K 20mm-Modulprototyp\n\n20mm-APDS-Anti-Materiel-Geschoss gegen gepanzerte oder befestigte Ziele.\n\nZweistufiges Scharfschützen-Zielfernrohr.\n\nExtremer RückstoSS. Für einen präzisen Schuss sollte man den Atem anhalten. Kein Schalldämpfer verfügbar.
+HowToUseMe=
+
+[FOREGRIP]
+Name=Griff-Modul
+NameShort=GRIFF
+Description=SC-20K Griff-Modulprototyp\n\nBietet verbesserte Stabilität und gröSSere Kontrolle des RückstoSSes.\n\nGeringere Streuung bei Dauerfeuer.
+HowToUseMe=
+
+[LAUNCHER]
+Name=Werfer-Modul 
+NameShort=WERFER
+Description=SC-20K Werfer-Modul\n\nStandard-40mm-Werfer, mit dem verschiedene nicht-tödliche Projektile verschossen werden können.\n\nLautlos.
+HowToUseMe=
+
+[SHOTGUN]
+Name=Schrot-Modul
+NameShort=SCHROT
+Description=SC-20K Schrotgewehr-Modul\n\nDie verwendete 12g Triple-0 Munition ist auf kurze Entfernung hochgradig durchschlagend.\n\nMit diesem Modul ist doppelläufiges Feuer möglich, so dass Ziele in unterschiedlichen Entfernungen bekämpft werden können.
+HowToUseMe=
+
+[GUNBAREL]
+Name=Lauf
+NameShort=GUNBAREL
+Description=Lauf-Modul
+HowToUseMe=
+
+[GUNGRIP]
+Name=Griff
+NameShort=GEWEHRGRIFF
+Description=Griff-Modul
+HowToUseMe=
+
+[GUNSCOPE]
+Name=Zielfernrohr
+NameShort=Gewehrzielfernrohr
+Description=ZF-Modul
+HowToUseMe=
+
+[SHOTGUNAMMO]
+Name=Schrotgewehr-Modul-Munition
+NameShort=Munitionshalterung für Schrotflinte
+Description=Schrotgewehr-Modul-Munition
+HowToUseMe=
+
+[SCOPEAMMO]
+Name=Scharfschützen-Modul-Munition
+NameShort=Munitionshalterung für Scharfschützen
+Description=Scharfschützen-Modul-Munition
+HowToUseMe=
+
+
+[AK47]
+Name=AK 47
+NameShort=AK 47
+Description=Das AK-47 verschieSSt 7,62x39 und besitzt einen Kolben aus Hartholz.
+HowToUseMe=
+
+[BERETTA]
+Name=Beretta 92FS
+NameShort=Beretta 92FS
+Description=Handfeuerwaffe
+HowToUseMe=
+
+[C4]
+Name=C4
+NameShort=C4
+Description=C4
+HowToUseMe=
+
+[FLARE]
+Name=Magnesium-Fackel
+NameShort=Magnesiumfackel
+Description=Eine Fackel, die sowohl Licht als auch Hitze absondert.
+HowToUseMe=
+
+[CHEMICALFLARE]
+Name=Knicklicht
+NameShort=Chemische Fackel
+Description=Ein chemisches Leuchtmittel, mit dem durch Aufknicken dunkle Umgebungen erhellt werden können.
+HowToUseMe=
+
+[DISPOSABLEPICK]
+Name=Einweg-Dietrich
+NameShort=Wegwerf-Dietrich
+Description=
+
+[FLASHGRENADE]
+Name=Blendgranate
+NameShort=Blendgranate
+Description=SC-82 nicht tödliche Blendgranate\n \nDie Explosion hat eine betäubende, vorübergehend blind und taub machende Wirkung.\n \nSicherheitsabstand beträgt ungefähr acht Meter.
+HowToUseMe=
+
+[FLASHLIGNT]
+Name=Taschenlampe
+NameShort=Taschenlampe
+Description=Polizei-Taschenlampe
+HowToUseMe=
+
+[FRAGGRENADE]
+Name=Splittergranate
+NameShort=Granate
+Description=SC-60 Splittergranate.\n \nEine ca. 5,5cm Stahlkugel umgibt eine hochexplosive Sprengladung und einen Zünder.\n \nDurch die Detonation werden Splitter in die Umgebung geschleudert, die in bis zu zwei Meter Abstand absolut tödlich sind.
+HowToUseMe=
+
+[REVIVESYRINGE]
+Name=Adrenalin-Spritze
+NameShort=Adrenalinspritze
+Description=SC Experimenteller Adrenalin-Booster\n \nIn den Körper einer verletzten Person injiziert, erhöht er die Überlebensrate bei den meisten Verletzungen.
+HowToUseMe=
+
+[GAZGRENADE]
+Name=Gasgranate
+NameShort=Gas
+Description=SC 40 Gasgranate\n \nSetzt eine Wolke aus CS-Gas frei, die ungeschützte Ziele auSSer Gefecht setzt.\n \nMit Vorsicht benutzen. Gas kann das Atemsystem schädigen.
+HowToUseMe=
+
+[LASERMIC]
+Name=Laser-Mikrofon
+NameShort=Lasermikro
+Description=
+HowToUseMe=
+
+[LIQUIDNITROGEN]
+Name=Flüssiger Stickstoff
+NameShort=Flüssiger Stickstoff
+Description=
+HowToUseMe=
+
+[LOCKPICK]
+Name=Dietrich
+NameShort=Dietrich
+Description=
+HowToUseMe=
+
+[M18SMOKEGRENADE]
+Name=M18 Nebelgranate
+NameShort=Farbiger Rauch M18
+Description=
+HowToUseMe=
+
+[MEDKIT]
+Name=Medi-Kit
+NameShort=Erste-Hilfe-Kasten
+Description=
+HowToUseMe=
+
+[OPTICCABLE]
+Name=Optisches Kabel
+NameShort=Optisches Kabel
+Description=
+HowToUseMe=
+
+[RINGAIRFOILROUND]
+Name=Ringflächen
+NameShort=Ringfläch-Gesch.
+Description=Projektil für 40mm-Werfer\n \nDer heftige Aufprall schlägt das Opfer bewuSStlos.\n \nLautlos.
+HowToUseMe=
+
+[SMOKEGRENADE]
+Name=Nebelgranate
+NameShort=Rauchgr.
+Description=SC 81 Nebelgranate\n\nSetzt eine Wolke aus sichtbehinderndem Gas frei, nicht gesundheitsschädlich beim Einatmen.\n \nSetzen Sie es ein, um sich auf offener Fläche Deckung zu verschaffen.
+HowToUseMe=
+
+[STICKYCAMERA]
+Name=Haftkamera
+NameShort=Haftkamera
+Description=40 mm lancierbare Überwachungskamera, die Sendet Bilder in Ist-Zeit an OPSAT.\n \nVerfügt über Thermal-, EMF-und Nachtsicht. Volle Schwenk- und Zoomfähigkeit.\n \nKann Geräusche erzeugen oder Gas für den nicht-tödlichen Einsatz absondern.\n \nKamera kann wieder aufgenommen werden, wenn der Gasbehälter nicht beschädigt wurde.\n \nKabellose Signalumleitung möglich, wenn innerhalb Reichweite.
+HowToUseMe=
+
+[STICKYSHOCKER]
+Name=Haft-Schocker
+NameShort=Haft-schock.
+Description=40mm-Werfer, der am Ziel haftet und einen starken StromstoSS abgibt.\n\nStromschlag setzt Ziel beim Treffer auSSer Gefecht. Ladung überträgt sich auch durch Wasser.
+HowToUseMe=
+
+
+[INFRAREDSTRESSGEN]
+Name=Stress-Generator
+NameShort=Stressgenerator
+Description=Stress-Generator
+HowToUseMe=
+
+[WALLMINE]
+Name=Haftmine
+NameShort=Haftmine
+Description=Hochexplosive Haftmine mit Bewegungszünder, tödlich in einem Umkreis von drei Metern. Kann manuell entschärft werden, während das grüne Licht blinkt.
+HowToUseMe=
+
+[TARGETBEACON]
+Name=Zielsender
+NameShort=Zielpeilsender
+Description=
+HowToUseMe=
+
+[UMP]
+Name=UMP
+NameShort=UMP
+Description=Leichte MP
+HowToUseMe=
+
+[UZI]
+Name=Uzi
+NameShort=Uzi
+Description=MP
+HowToUseMe=
+
+[CRYOBLOODVIAL]
+Name=Cryo Blut-Ampulle
+NameShort=Kryo-Blutpr.
+Description=Cryo bla
+HowToUseMe=Cryo bla
+

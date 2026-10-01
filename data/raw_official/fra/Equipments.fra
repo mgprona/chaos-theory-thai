@@ -1,0 +1,248 @@
+[CATEGORIES]
+Category[0]=INCONNU
+Category[1]=PERMANENT
+Category[2]=ARME PRINCIPALE
+Category[3]=GADGETS
+Category[4]=OBJETS
+
+[FN2000]
+Name=SC-20K
+NameShort=SC-20K
+Description=Fusil d'assaut modulaire SC-20K.\n\nBalles blindées 5.56x45mm par chargeurs de 30, configuration bull-pup (chargeur derrière la gâchette).\n\nViseur réflexe 1.5x et silencieux intégrés, possibilité d'accessoires.\n\nTir automatique ou semi-automatique.\n\nPort d'éjection prévu pour une utilisation ambidextre.
+HowToUseMe=
+
+[FN2000AMMO]
+Name=Chargeur de SC-20K
+NameShort=Chargeur de SC-20K
+Description=Chargeur de SC-20K
+HowToUseMe=
+
+[FN7]
+Name=Pistolet SC
+NameShort=Pistolet SC
+Description=Pistolet SC\n\nBalles blindées 5.7x28mm par chargeurs de 20, avec silencieux intégré.\n\nCrosse configurée pour un usage ambidextre.\n\nPrototype d'OCP monté sous le canon.\n\nl'OCP génère de violentes sautes de tensions au niveau de la cible.\n\nLa surcharge électrique provoque des interférences de circuit.\n\nLe condensateur se recharge au fil du temps.
+HowToUseMe=
+
+[FN7AMMO]
+Name=Chargeur de pistolet 5.7mm
+NameShort=Chargeur de pistolet 5.7 mm
+Description=Chargeur de pistolet 5.7mm
+HowToUseMe=
+
+[SCOPE]
+Name=Acc. Sniper 20mm
+NameShort=FUSIL PRÉCIS.
+Description=Accessoire pour SC-20K : canon de 20mm.\n\nBalles perforantes APDS anti-matériel 20 mm pour lutter contre les cibles blindées ou fixes.\n\nLunette de visée deux grossissements.\n\nImportant recul. Retenez votre souffle pour viser avec précision. Pas de silencieux possible.
+HowToUseMe=
+
+[FOREGRIP]
+Name=Accessoire Poignée
+NameShort=POIGNÉE AVT.
+Description=Accessoire pour SC-20K : poignée avant.\n\nAméliore la stabilité et permet de mieux contrôler le recul.\n\nAugmente le nombre de coups sur la cible en tir automatique.
+HowToUseMe=
+
+[LAUNCHER]
+Name=Accessoire Lanceur 
+NameShort=LANCEUR
+Description=Accessoire pour SC-20K : lanceur.\n\nLanceur standard tirant toute une série de projectiles de calibre 40mm.\n\nSilencieux.
+HowToUseMe=
+
+[SHOTGUN]
+Name=Acc. Fusil à pompe
+NameShort=FS. POMPE
+Description=Accessoire pour SC-20K : fusil à pompe.\n\nFusil à pompe de calibre 12, extrêmement puissant à bout portant.\n\nDeux canons pouvant être utilisés simultanément pour faucher plusieurs adversaires en même temps.
+HowToUseMe=
+
+[GUNBAREL]
+Name=CANON
+NameShort=GUNBAREL
+Description=Accessoire CANON
+HowToUseMe=
+
+[GUNGRIP]
+Name=POIGNEE
+NameShort=POIGNÉE
+Description=Accessoire POIGNEE
+HowToUseMe=
+
+[GUNSCOPE]
+Name=VISEUR
+NameShort=Lunette de visée
+Description=Accessoire VISEUR
+HowToUseMe=
+
+[SHOTGUNAMMO]
+Name=Munitions pour accessoire Fusil à pompe
+NameShort=Munitions de fusil à pompe
+Description=Munitions pour accessoire Fusil à pompe
+HowToUseMe=
+
+[SCOPEAMMO]
+Name=Munitions pour accessoire Sniper
+NameShort=Munitions de fusil de précision
+Description=Munitions pour accessoire Sniper
+HowToUseMe=
+
+
+[AK47]
+Name=AK 47
+NameShort=AK 47
+Description=L'AK-47 utilise des munitions 7.62x39. Sa crosse en bois est fixe.
+HowToUseMe=
+
+[BERETTA]
+Name=Beretta 92FS
+NameShort=Beretta 92FS
+Description=Pistolet
+HowToUseMe=
+
+[C4]
+Name=C4
+NameShort=C4
+Description=C4
+HowToUseMe=
+
+[FLARE]
+Name=Fusée éclairante
+NameShort=Fusée éclairante
+Description=Une fusée éclairante de modèle classique, qui émet de la chaleur et une vive lumière.
+HowToUseMe=
+
+[CHEMICALFLARE]
+Name=Fusée chimique
+NameShort=Fusée chimique
+Description=Fusée que l'on casse pour éclairer les zones particulièrement sombres.
+HowToUseMe=
+
+[DISPOSABLEPICK]
+Name=Pioche
+NameShort=Crochet jetable
+Description=
+
+[FLASHGRENADE]
+Name=Grenade av.
+NameShort=Grenade av.
+Description=Grenade aveuglante SC-82.\n\nSon explosion aveugle, assourdit et étourdit les victimes.\n\nZone d'effet : environ 8 m
+HowToUseMe=
+
+[FLASHLIGNT]
+Name=Lampe-torche
+NameShort=Lampe-torche
+Description=Lampe-torche de policier
+HowToUseMe=
+
+[FRAGGRENADE]
+Name=Grenade frag.
+NameShort=GRENADE FRAG.
+Description=Grenade à fragmentation SC-60.\n\nSphère en acier de 5.5 cm de diamètre, contenant une mèche et une charge hautement explosive.\n\nL'explosion projette des éclats partout à la ronde. Mortelle dans un rayon de 2 m.
+HowToUseMe=
+
+[REVIVESYRINGE]
+Name=Inj. Adrénaline
+NameShort=INJ. ADRÉNALINE
+Description=Seringue d'adrénaline expérimentale SC. \n\nInjectée dans le torse d'un mourant, permet une réanimation rapide dans la plupart des cas.
+HowToUseMe=
+
+[GAZGRENADE]
+Name=Grenade à gaz
+NameShort=Gaz
+Description=Grenade à gaz SC 40.\n\nLibère un nuage de gaz incapacitant CS, redoutable contre les cibles non protégées.\n\nAttention, ce gaz peut causer des dommages au système respiratoire
+HowToUseMe=
+
+[LASERMIC]
+Name=Micro-laser
+NameShort=Micro-laser
+Description=
+HowToUseMe=
+
+[LIQUIDNITROGEN]
+Name=Azote liquide
+NameShort=Azote liquide
+Description=
+HowToUseMe=
+
+[LOCKPICK]
+Name=Crochet de serrurier
+NameShort=Crochet
+Description=
+HowToUseMe=
+
+[M18SMOKEGRENADE]
+Name=Grenade fumigène teintée M18
+NameShort=Fumée colorée M18
+Description=
+HowToUseMe=
+
+[MEDKIT]
+Name=Trousse de premiers soins
+NameShort=Trousse de soins
+Description=
+HowToUseMe=
+
+[OPTICCABLE]
+Name=Câble optique
+NameShort=Câble optique
+Description=
+HowToUseMe=
+
+[RINGAIRFOILROUND]
+Name=Balle annulaire
+NameShort=Balle annulaire
+Description=Projectile 40mm à impact important, mais pouvoir de pénétration nul.\n\nLa violence de l'impact fait perdre connaissance à la cible.\n\nSilencieux.
+HowToUseMe=
+
+[SMOKEGRENADE]
+Name=Grenade fumigène
+NameShort=Fumigène
+Description=Grenade fumigène SC 81.\n\nLibère un nuage de gaz obscurcissant la vision mais inoffensif si on l'inhale.\n\nSert à se protéger en terrain dégagé.
+HowToUseMe=
+
+[STICKYCAMERA]
+Name=Caméra-glu
+NameShort=Caméra-glu
+Description=Caméra de surveillance 40mm, lançable et reliée à la montre-terminal en temps réel.\n\nVisions thermique, nocturne et électromagnétique, avec zoom et panoramique.\n\nPossibilité de faire du bruit pour faire diversion et de libérer du gaz CS pour se défendre.\n\nPeut être récupérée si la cartouche de gaz n'a pas été percée.\n\nRéacquisition du signal possible sans fil si toujours à portée.
+HowToUseMe=
+
+[STICKYSHOCKER]
+Name=Electrocuteur
+NameShort=Electrocuteur
+Description=Balle adhésive 40mm à haut voltage et faible ampérage.\n\nLa décharge électrique met la cible hors de combat. L'eau est conductrice d'électricité.
+HowToUseMe=
+
+
+[INFRAREDSTRESSGEN]
+Name=Générateur de stress
+NameShort=Générateur de stress
+Description=Générateur de stress
+HowToUseMe=
+
+[WALLMINE]
+Name=Mine murale
+NameShort=Mine murale
+Description=Mine adhésive à détecteur de mouvement, mortelle dans un rayon de 3 m. Peut être désamorcée manuellement tant que la diode verte clignote.
+HowToUseMe=
+
+[TARGETBEACON]
+Name=Emetteur
+NameShort=Localisateur de cible
+Description=
+HowToUseMe=
+
+[UMP]
+Name=UMP
+NameShort=Pistolet-mitrailleur
+Description=Mitrailleuse courte UMP
+HowToUseMe=
+
+[UZI]
+Name=Uzi
+NameShort=Uzi
+Description=PM
+HowToUseMe=
+
+[CRYOBLOODVIAL]
+Name=Fiole de sang Cryo
+NameShort=Fiole de sang
+Description=Cryo
+HowToUseMe=Cryo
+

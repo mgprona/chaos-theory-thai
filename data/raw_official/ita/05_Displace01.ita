@@ -1,0 +1,62 @@
+[GENERAL]
+MapName=DISPLACE
+Briefing=INCARICO
+Briefing_LAMBERT=Fisher, temo che ci troviamo davanti a un complotto per spingere il mondo verso una crisi colossale. Zherkezhi è forse il massimo esperto di guerra informatica del pianeta, e il fatto che Displace sia una forza armata sostanzialmente extra-territoriale e meglio equipaggiata di molti governi... dobbiamo scoprire se si tratta di una coincidenza o se qualcuno all'interno di Displace sta per fare una mossa importante, e in fretta. Detto questo, il Dipartimento di Stato ha diversi contratti in opera con Displace. È una questione politica. Odio dirti questo, ma ci serve un lavoro pulito. Solo ricognizione. Niente vittime.
+Briefing_GRIMSDOTTIR=Gli uffici di Displace sono sugli ultimi tre piani della Hantz Center Tower, nel centro di Manhattan. I movimenti finanziari recenti indicano che hanno investito pesantemente nell'infrastruttura locale per mantenere la piena capacità operativa anche in seguito a gravi eventi terroristici.
+Briefing_REDDING=Il satellite conferma i dati di Grim. Displace è attiva e funziona quasi a pieno regime. Sembra che stiano incontrando membri del consiglio comunale di New York... forse per fare un'offerta di protezione o per contrattare servizi di appoggio alla Guardia Nazionale. Sono opportunisti e preparati, non c'è dubbio, ma non mi aspettavo niente di diverso. Secondo me sono puliti, ma se il capo vuole dare un'occhiata più da vicino, allora lo faremo.
+
+[Interaction]
+IntUseAlgorithm=Usa l'algoritmo
+IntExtract=Estrai
+
+[Computer]
+CompUploadTracer=Carica tracciatore
+CompObjective=Obiettivo
+CompPowerSystemEvaluation=Valutazione generatori
+CompEmail=Email
+CompVIPDetailReport=Rapporto VIP
+CompMeetRoomCode=Codice sala riunioni
+CompTurretPerformanceReport=Rapporto prestazioni torretta
+CompWNMNewsWire=WNM News Wire
+CompProtectionDetailBackup=Backup protezione
+CompNews=Notizie
+CompSynchAccessAlgorithm=Algoritmo di accesso sincronizzato
+CompFiredoorkeycode=Codice porta antincendio
+CompHokkaidoMeet=Incontro Hokkaido
+CompCameraAccess=Accesso telecamera
+CompAccess=Accesso
+CompInfraSoundSpecSheet=Specifiche Infrasuoni
+CompServerAccessAlgorithm=Algoritmo di accesso ai server
+CompLobbyAreaDoorcodes=Codici lobby
+
+
+[Email]
+EmailPowerEvalBody=Abbiamo completato la valutazione tecnica dei nostri generatori in loco. Prevediamo di avere un limitato accesso alla corrente per l'intero edificio, e abbiamo potenziato la protezione dagli sbalzi. Quando la città riavrà la corrente tutti i sistemi dovrebbero ripartire senza interruzioni.
+EmailPowerEvalDate=Sabato 30 giugno 2007
+EmailPowerEvalFrom=Manutenzione Centro Hantz
+EmailPowerEvalSubject=Valutazione generatori
+EmailPowerEvalTo=Displace_Tutti
+
+EmailMeetRoomCodeBody=Matt... ho il codice della sala riunioni dei VIP. 2346. Parla coi ragazzi e vedi se loro sanno il codice dell'ufficio. Occhio a non farti scoprire da Milan. Non mi piace quel tizio.
+EmailMeetRoomCodeDate=Venerdì 29 giugno 2007
+EmailMeetRoomCodeFrom=Gilley
+EmailMeetRoomCodeSubject=Codice sala riunioni
+EmailMeetRoomCodeTo=Matthew
+
+EmailWNMLotteryBody=Brody Masterson-Woods III, magnate dell'acciaio della Pennsylvania, è stato proclamato oggi il vincitore dello Stupid Ball Lotto per 1,1 miliardi di dollari, il più alto monte premi nella storia degli Stati Uniti. La sua ricchezza ammonta già a 68,4 miliardi.
+EmailWNMLotteryDate=Giovedì 28 giugno 2007
+EmailWNMLotteryFrom=Notizie della WNM
+EmailWNMLotterySubject=Miliardario vince lotteria miliardaria
+EmailWNMLotteryTo=Iscritti
+
+EmailWNMMasonBody=Il Segretario alla Difesa Frank Mason ha dichiarato che la Guardia Nazionale "è veramente al limite". Attualmente la Guardia Nazionale rinforza le truppe regolari in undici paesi oltremare, e i recenti interventi di emergenza in cinque stati "limitano seriamente la sua possibilità di proteggere la popolazione."
+EmailWNMMasonDate=Venerdì 29 giugno 2007
+EmailWNMMasonFrom=Notizie della WNM
+EmailWNMMasonSubject=Mason: "La Guardia Nazionale è al limite"
+EmailWNMMasonTo=Iscritti
+
+EmailLobbyCodeBody=Julian... per la visita di Tom ho cambiato i codici tra la stanza delle operazioni e la lobby. Il nuovo codice è 8136, e vale su entrambe le porte.
+EmailLobbyCodeDate=Sabato 30 giugno 2007
+EmailLobbyCodeFrom=Gordon
+EmailLobbyCodeSubject=Codici area lobby
+EmailLobbyCodeTo=Julian

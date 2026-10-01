@@ -1,0 +1,146 @@
+[CRYOTANK]
+BloodTypeA=Componente Uno del protocolo antivírico = Suero sanguíneo tipo A.
+BloodTypeB=Componente Uno del protocolo antivírico = Suero sanguíneo tipo B.
+BloodTypeO=Componente Uno del protocolo antivírico = Suero sanguíneo tipo O.
+FormulaPlayerA=Usuario Uno del protocolo antivírico = 
+FormulaPlayerB=Usuario Dos del protocolo antivírico = 
+CryoColorBlue=D Azul
+CryoColorRed=B Rojo
+CryoColorViolet=C Violeta
+CryoColorGreen=A Verde
+CryoColorYellow=E Amarillo
+CryoColorAqua=F Agua
+CryoColorError=ERROR
+
+[Transmission]
+PickUp=recogido
+NoPickUp=No puedes llevar más  
+SatchelFind=recuperado de la mochila
+BodyFound=Han encontrado un cuerpo... Aumenta el nivel de alarma.
+ComputerPickUp=Tarjeta de memoria recogida del ordenador.
+DoorLock=Puerta bloqueada
+DoorJam=Cierre interferido
+DoorPick=Cerradura forzada
+ElevatorPower=Ascensor sin corriente
+MedKitNotUsed=Tienes el máximo de salud
+MedKitUsed=Botiquín usado. Recuperando puntos de salud...
+
+[Interaction]
+Exit=SEGUIR JUGANDO
+Abort=Abortar
+Alarm=Usar alarma
+Bomb=Desarmar bomba
+C4=Colocar C4
+CallElevator=Llamar al ascensor
+ChargePlace=Colocar carga
+ChargeDetonate=Detonar carga
+Computer=Usar ordenador
+ComputerBoot=Encender ordenador
+ComputerShut=Apagar ordenador
+Crane=Usar grúa
+Cryo=Usar criotanque
+CryoComm=COMUNICAR INSTRUC.
+Cuffs=Usar botones
+Defuse=Desarmar
+DoorOpen=Abrir puerta
+DoorStealth=Abrir con sigilo
+DoorBash=Romper puerta
+DoorBreak=Romper cierre
+DoorClose=Cerrar puerta
+DoorPick=Forzar cerradura
+DoorOptic=Cable óptico
+DoorSlideOpen=ABRIR PUERTA
+DoorSlideClose=CERRAR PUERTA
+Elevator=Usar ascensor
+Extraction=Extracción
+GeneratorSwitch=Interruptor
+GeneratorPierce=Perforar
+HotWire=Circuito auxiliar
+KeyPad=Usar teclado
+KeyPadHack=Hackear teclado
+MedKit=Usar botiquín
+Mic=Desactivar micrófono
+Missile=Desactivar misil
+Morgenhault=Liberar a Morgenholt
+NpcZone0=Agarrar
+NpcZone1=Sujetar al personaje
+NpcZone2=Interrogar
+NpcZone3=Hablar
+NpcZone4=...
+NpcZone5=Omitir Diálogo
+NpcZone6=cuerpo
+Otomo=Salvar a Otomo
+Pickup=Recoger
+Pierce=Perforar
+Pump=Activar bombas
+Rappel=rápel en la pared
+RetSafe=Usar sistema de retina
+RetScan=Usar escáner de retina
+RetScanHack=Hackear escáner retina
+SearchCabinet=Buscar en la vitrina
+TapPhone=Pinchar línea telefón.
+TelemetricPlace=Colocar recep. telem.
+TelemetricPick=Forzar cerradura
+Trap=Abrir trampilla
+TrapPick=Forzar trampilla
+TrapOptic=Cable óptico
+TurretActDeact=Activar/desactivar
+TurretHack=Hackear torreta
+TurretIFFOn=Desactivar CFA
+TurretIFFOff=Activar CFA
+Switch=Prender/Apagar
+Turret=Controlar torreta
+WallMine=Sacar mina de pared
+Window=ABRIR PUERTA
+BugPhone=Pinchar teléfono
+BlowCandle=Apagar vela
+Grabequipment=Coger equipamiento
+Detach=Desatar
+PlaceTracker=Colocar rastreador
+TurnValve=Girar válvula
+GrabontoRope=Agarrarse a la cuerda
+EnterCrawlSpace=Entrar a gatas
+ExitFront=Salir por delante
+ExitBack=Salir por atrás
+Hackwire=Interceptar cámara
+ClimbUp=Subir
+CutMaterial=Cortar material
+TakeAntidote=Tomar antídoto
+Initrappelling=Iniciar bajada en rápel
+Completerappelling=Compl. bajada en rápel
+InitHangover=Iniciar colgarse
+CompleteHangover=COMPLETAR COLGARSE
+InitClimbShoulder=Iniciar subir a hombros
+CompleteClimbShoulder=Comp. subir a hombros
+Initlongjump=Iniciar salto largo
+Completelongjump=COMPLETAR SALTO LARGO
+ShareView=Aceptar vista compart.
+AltComm=Acción sincronizada
+CoopShare=Compartir equipo
+CoopRevive=Reanimar compañero
+TurretIFF=Cambiar CFA
+
+[GameplayObject]
+DefaultObject=Objeto
+AmmoF2000=Munición 5.56
+AmmoFn7=Munición 5.7
+AmmoShotgun=Cartuchos
+AmmoSniper=Munición 20mm
+Briefcase=Maletín
+DataStick=Tarjeta memoria
+Satchel=Explosivos
+KeypadDoorCode=Código puerta:
+
+[Computer]
+TypeEmail=Email
+TypeFile=Archivo
+TypeImage=Imagen
+TypeMusic=Sonido
+TypeControl=Cámara
+TypeTrigger=Acceso
+TypeObjective=Objetivo
+EmailFrom=De: 
+EmailTo=A: 
+EmailDate=Fecha: 
+EmailSubject=Asunto: 
+

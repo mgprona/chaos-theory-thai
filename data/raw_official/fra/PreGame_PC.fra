@@ -1,0 +1,834 @@
+[Misc]
+PreviousMenu=RETOUR
+ExitGame=SORTIR
+CurrentProfile=PROFIL ACTUEL
+Delete=EFFACER
+Create=CREER
+Select=SELECTIONNER
+ConfirmExitTitle=QUITTER LA PARTIE
+ConfirmExitMsg=VOULEZ-VOUS VRAIMENT QUITTER ?
+
+[MenuGameType]
+Title=SELECTION DU MODE DE JEU
+SinglePlayer=SOLO
+Cooperative=COOP
+Adverserial=VERSUS
+Credits=CREDITS
+StartAdverserialTitle=LANCER VERSUS
+StartAdverserialMsg=CETTE INSTRUCTION LANCE L'APPLICATION VERSUS DE SPLINTER CELL
+ErrorDefaultProfileTitle=PROFIL NON VALABLE
+ErrorDefaultProfileMsg=LE PROFIL PAR DEFAUT EST ENDOMMAGE. VOULEZ-VOUS L'EFFACER ET EN CREER UN AUTRE ?
+
+[MenuSolo]
+Title=MENU PRINCIPAL
+Continue=CONTINUER
+NewGame=NOUVELLE PARTIE
+Loadgame=CHARGER PARTIE
+Settings=PARAMETRES
+ProfileManagement=GESTION DE PROFIL
+Extras=BONUS
+
+[MenuNewGame]
+Title=DIFFICULTE
+ErrorTitle=ERREUR DE CHARGEMENT
+ErrorMsg=ERREUR LORS DU LANCEMENT DE LA MISSION
+
+[MenuLoadGame]
+Title=CHARGER PARTIE
+Saves=SAUVEGARDES
+Missions=MISSION
+Load=CHARGER
+Level=NIVEAU
+Name=NOM 
+DateTime=DATE / HEURE
+DeleteSaveTitle=EFFACER LA SAUVEGARDE
+DeleteSaveMsg=VOULEZ-VOUS VRAIMENT EFFACER CETTE SAUVEGARDE ?
+LoadSaveMsg=VOULEZ-VOUS VRAIMENT CHARGER CETTE SAUVEGARDE ? DANS CE CAS, VOTRE PROGRESSION ACTUELLE SERA PERDUE.
+LoadMissionMsg=VOULEZ-VOUS VRAIMENT REJOUER CE NIVEAU EN MODE MISSION ?
+
+[MenuSaveGame]
+Title=SAUVEGARDER LA PARTIE
+WarningOverwriteExistingSaveGame=ATTENTION, VOUS VOUS APPRETEZ A ECRASER UNE SAUVEGARDE PRECEDENTE. VOULEZ-VOUS CONTINUER?
+WaringNoSaveGameName=DESOLE, AUCUN NOM DE SAUVEGARDE N'A ETE INDIQUE.
+
+[MenuProfileManagement]
+Title=PROFILS
+Rename=RENOMMER
+MsgBoxTitle=GESTION DE PROFIL
+AlwaysHaveProfileMsg=VOUS NE POUVEZ PAS EFFACER VOTRE UNIQUE PROFIL
+CantDeleteDefaultMsg=VOUS NE POUVEZ PAS EFFACER LE PROFIL PAR DEFAUT
+DeleteProfileFailedMsg=ECHEC D'EFFACEMENT DU PROFIL
+DeleteProfileMsg=VOULEZ-VOUS VRAIMENT EFFACER VOTRE PROFIL ET LA PROGRESSION QU'IL CONTIENT ?
+ProfileDamagedTitle=PROFIL ENDOMMAGE
+ProfileDamagedMsg=CE PROFIL SEMBLE ENDOMMAGE ET EST INUTILISABLE. SOUHAITEZ-VOUS L'EFFACER ?
+
+[MenuCreateProfile]
+Title=CREER PROFIL
+Instruction=ENTRER UN NOM DE PROFIL
+
+[MenuPause]
+Title=MENU DE PAUSE
+Savegame=SAUVEGARDER LA PARTIE
+Retry=RECOMMENCER LA MISSION
+Quit=MENU PRINCIPAL
+QuitLobby=ACCUEIL
+QuitMainTitle=QUITTER
+QuitMainMsg=VOULEZ-VOUS RETOURNER AU MENU PRINCIPAL ? DANS CE CAS, VOTRE PROGRESSION ACTUELLE SERA PERDUE.
+QuitLobbyMsg=VOULEZ-VOUS RETOURNER A L'ACCUEIL ? DANS CE CAS, VOTRE PROGRESSION ACTUELLE SERA PERDUE.
+RetryTitle=RECOMMENCER LA MISSION
+RetryMsg=VOULEZ-VOUS RECOMMENCER LA MISSION EN COURS ? DANS CE CAS, VOTRE PROGRESSION ACTUELLE SERA PERDUE.
+PressReady=APPUYEZ SUR PRET AVANT DE REPRENDRE LA PARTIE
+PlayerReady=%s EST PRET
+PlayerNotReady=%s N'EST PAS PRET
+ResumeGame=REPRENDRE LA PARTIE
+WaitHost=EN ATTENTE DE L'AUTRE JOUEUR
+WaitRemoteTitle=LE JOUEUR N'EST PAS PRET.
+WaitRemoteMsg=VEUILLEZ ATTENDRE QUE L'AUTRE JOUEUR SOIT PRET.
+
+[MenuGameOver]
+Title=PARTIE TERMINEE
+
+[MenuExtras]
+Title=BONUS
+BioAmonTobin=BIOGRAPHIE D'AMON TOBIN
+Soundtrack=BANDE ORIGINALE
+MovieTeaser=BANDE-ANNONCE
+Search=RECHERCHE
+Stress=STRESS
+Fight=COMBAT
+Exploration=EXPLORATION
+Exploration2=EXPLORATION 2
+
+
+[MenuBioAmon]
+Title=BIOGRAPHIE
+Bio1=Vers le milieu des années 1990, un Brésilien inconnu expatrié en Grande-Bretagne décida de troquer son harmonica pour un sampler et de prendre le nom d'un personnage de roman de Stephen King. L'album résultant, "Adventures in Foam" de Cujo (publié sous le label Ninebar puis, plus tard, par Ninja Tunes) marqua l'arrivée d'Amon Tobin dans le monde de la musique. En réalité, un autre projet avait vu le jour précédent, mais tout le monde sait bien qu'il ne faut pas l'évoquer. En faisant boire Amon, peut-être... mais non, même dans ces circonstances, il serait surprenant qu'il en parle. 
+Bio2=En entendant ce disque, les dirigeants de Ninja Tune le signèrent sous le nom de scène d'Amon Tobin, et il se mit très vite au travail sur son disque "Bricolage". C'était le temps du "trip-hop", où n'importe quel plaisantin équipé d'un sampler et d'une collection de disques Blue Note pouvait pondre sa pseudo-musique d'ambiance. Mais "Bricolage" était bien au-dessus du lot. Fusion de jazz et de rythmique, il utilisait également des éléments de bossa nova, de batucada et de jungle, mêlant le tout avec un sens de la composition bien supérieur à ce qui se faisait dans le milieu. Il comprenait même un morceau inspiré par la fois où Amon était allé soulager sa vessie sur le vélo de son voisin après s'être disputé avec lui (A Day in my Garden). Pas de doute, Ninja n'avais pas signé un gentil garçon bercé d'influences jazzy... 
+Bio3=Puis vint "Permutation". Bien qu'il s'agisse de la suite logique de "Bricolage" sur le plan stylistique, il montre également une influence bien plus sombre dans la musique d'Amon. En fait, il est possible de suivre la carrière de ce dernier en fonction de l'accessibilité de sa musique. A partir de ce disque, il est devenu impossible de considérer ses oeuvres comme un fond sonore. Cet album montre un très large répertoire, des hommages à la musique de film que sont "Like Regular Chickens" et "People Like Frank" aux breaks monstrueux de "Sordid" (de loin son morceau le plus connu), en passant par le shuffle de "Nightlife" et le très riche "Nova" (qui fut par la suite repris par Bebel Gilberto dans son premier album). 
+Bio4=Est-ce la nervosité due à l'approche du millénaire ? Quoi qu'il en soit, alors que nous faisions tous des réserves de nourriture en prévision de l'apocalypse, Amon, lui, canalisait toutes ses émotions dans son opus suivant, "Supermodified". Faisant comme si la race humaine était vouée à disparaître (ou pire encore, à tomber sous la coupe des singes) et, avec elle, les ordinateurs, il décida de partir en apothéose. Si l'on devait résumer sa carrière à quatre albums, on pourrait dire que celui-ci est la face 3 d'un double album de rock des années 1970, c'est-à-dire le moment d'expérimenter un peu et de préparer les fans à ce qui s'annonce. L'expérimentation est le credo de ce disque.
+Bio5=C'est à ce moment qu'Amon devint de plus en plus obsédé par les fréquences de basse qui ne s'entendent pas mais se ressentent, et où il commença à s'entourer de quelques collaborateurs (principalement Chris Morris de Brass Eye et Bleu Jam, et Quadraceptor, de Montréal). Sa période jazz/bossa nova avait vécu, pour laisser la place à des plages sonores sombres et électroniques. "Four Don Mantis" est déjà devenu un classique, Sergio Leone n'aurait pas renié "Deo", et "Get Your Snake On" est un hommage à l'une des fausses publicités les plus réussies sur Internet. 
+Bio6=En 2002, Amon décida d'aménager à Montréal. Il y avait déjà passé beaucoup de temps l'été, car c'est là que Ninja Tune a son QG nord-américain, mais jamais il ne s'y était encore rendu en hiver. C'est donc alors qu'il avait la chance et l'avantage de découvrir ce qu'est vraiment le froid qu'il commença à travailler dans son nouveau studio, armé d'un matériel neuf et de la carte d'un établissement de livraison de nourriture à domicile, la bible du gourmet ermite à Montréal, qu'il peaufina son "Out From Out Where". Quand Sun Ra écrivit la chanson "Out From Out Where", il faisait clairement référence à l'espace. Mais quand Amon s'appropria ce titre, cela donna un disque dont personne n'aurait pu dire exactement où il trouvait son origine.
+Bio7=C'était la conclusion logique de ce que les disques précédents laissaient entrevoir. Bien que cohérent, cet opus n'avait aucune source d'inspiration évidente. C'était juste du Amon Tobin, et ce dernier peut, sans doute plus que tout autre artiste, affirmer qu'il a un son qui lui est propre. Ce disque nous livra un Amon grand écran, entre le hip-hop de "Verbal", un "Hey Blondie" inspiré par Eli Wallach, l'électro-disco futuriste de "Cosmo Retro Intro Outro" et la terrifiante marche funèbre de "Proper Hoodidge". La tournée qui s'ensuivit permit à Amon de faire son entrée dans la série des mixes Solid Steel, grâce à un concert enregistré en Australie sur Final Scratch DJ et sorti en juin 2004.  
+Bio8=Début 2004, Ubisoft décida de demander à Amon de composer l'intégralité de la musique pour le troisième opus de sa célèbre franchise Splinter Cell. Vu qu'Amon n'avait jamais réussi à franchir le deuxième niveau de Splinter Cell 1, il se dit que c'était sans doute le meilleur moyen pour lui d'interagir avec le jeu. C'était aussi l'occasion d'expérimenter différentes méthodes de composition et de réaliser un de ses rêves d'adolescent (même si sa bande originale ne reflète en rien son amour pour Galaga, qui était pourtant un jeu fabuleux !).
+Bio9=De plus, le fait de composer une véritable bande originale lui a offert l'opportunité de faire dans l'excès sur le plan progressif, en incluant de longs arrangements de strings et d'interminables solos d'orgue Hammond à ses sons. Comparer cet opus à une musique de James Bond composée par Goblin, le virtuose italien, ne serait pas déplacé. L'amour des musiques de film a toujours été une influence majeure sur l'oeuvre d'Amon, et cela s’entend. Le jeu sortira en mars 2005, la bande originale étant pour sa part en vente depuis le mois de janvier. Une version DVD audio 5.1 sera publiée en même temps que le jeu, mettant ainsi Amon en première ligne des expériences sonores. Comme toujours.
+
+[MenuSoundtrack]
+Title=LISTE DES MORCEAUX
+Play=LECTURE
+UnlockedMusic=MORCEAUX DEVERROUILLES
+
+[MISSIONREVIEW]
+Overall=APERÇU
+Statistics=STATISTIQUES
+Objectives=OBJECTIFS
+Retry=REESSAYER
+NextMission=CONTINUER
+Continue=CONTINUER
+
+[LOADOUT]
+Accept=ACCEPTER
+
+[CoopCommon]
+MsgBoxHeaderOnline=COOP EN LIGNE
+MsgBoxHeaderLan=COOP LAN
+MainTitleOnline=COOP EN LIGNE
+MainTitleLan=COOP LAN
+PlayersCaption=JOUEURS
+FriendsCaption=AMIS
+QuickMatchCaption=PARTIE RAPIDE
+MatchNameCaption=NOM
+MatchModeCaption=MODE
+MatchMapCaption=MISSION
+MatchDifficultyCaption=DIFFICULTE :
+MatchSkillsCaption=COMPÉTENCES :
+MatchLanguageCaption=LANGUE :
+MatchVoiceCaption=VOIX UNIQUEMENT :
+MatchRankCaption=CLASSEMENT
+PingCaption=PING
+ModifyCaption=MODIFIER
+CreateCaption=CREER PARTIE
+JoinCaption=REJOINDRE PARTIE
+OptionsCaption=OPTIONS
+PlayNowCaption=JOUER MAINTENANT
+LobbyCaption=ACCUEIL
+AcceptCaption=ACCEPTER
+PatchCaption=PATCH
+CancelCaption=ANNULER
+OtherPlayerLeft=VOUS AVEZ ETE DECONNECTE CAR VOTRE COEQUIPIER EST PARTI.
+
+[AuthenticationMenu]
+LoginTitle=CONNEXION
+CreateTitle=CREER COMPTE
+ManageTitle=GERER COMPTE
+LoginProgressCaption=CONNEXION EN TANT QUE : %s
+CreateAccountProgressCaption=CREATION DU COMPTE : %s
+ModifyProgressCaption=MODIFICATION DU COMPTE : %s
+UserNameCaption=NOM D'UTILISATEUR
+PasswordCaption=MOT DE PASSE
+RememberPasswordCaption=GARDER LE MOT DE PASSE EN MEMOIRE
+AutomaticLoginCaption=CONNEXION AUTOMATIQUE
+RemoveCaption=SUPPRIMER
+LoginCaption=CONNEXION
+CreateAccountCaption=CREER
+ManageAccountCaption=GERER
+ModifyAccountCaption=MODIFIER
+ConfirmPasswordCaption=CONFIRMER MOT DE PASSE
+NewPasswordCaption=NOUVEAU MOT DE PASSE
+
+[MatchList]
+MatchListTitle=LISTE DES PARTIES
+FilterCaption=FILTRE
+RefreshCaption=RAFRAICHIR
+
+[ManageGame]
+ManageTitle=MODIFIER LA PARTIE
+
+[MatchOperation]
+SearchMsg=RECHERCHE EN COURS...
+QuickMatchSearchMsg=RECHERCHE...
+QuickMatchSearchMsgCancel=CLIQUEZ POUR ANNULER
+JoiningMsg=CONNEXION A LA PARTIE...
+CreatingMsg=CREATION DE PARTIE...
+CreateShortCaption=CREER
+JoinShortCaption=REJOINDRE
+JoinFailedMsg=IMPOSSIBLE DE REJOINDRE CETTE PARTIE
+JoinWrongTeammateMsg=IMPOSSIBLE DE REJOINDRE CETTE PARTIE. VOUS NE POSSEDEZ PAS LA PARTIE SAUVEGARDEE !
+
+[Match]
+HeaderAgents=AGENTS
+MatchInfoCaption=INFOS
+MatchLaunchCaption=LANCER
+MatchReadyCaption=PRET
+VoiceCaption=VOIX
+KickCaption=EXCLURE
+
+[FilterMenu]
+FilterTitle=FILTRE
+QuickMatchFilter=FILTRE DE PARTIE RAPIDE
+UseCaption=UTILISER
+
+[LobbyListMenu]
+LobbyListTitle=SELECTIONNER ACCUEIL
+HeaderLobby=NOM DE L'ACCUEIL
+HeaderPlayerCount=JOUEURS
+JoinLobbyCaption=REJOINDRE ACCUEIL
+
+[MainMenuCoop]
+MainMenuCoopTitle=COOP
+LanCaption=LAN
+OnlineCaption=EN LIGNE
+SettingsCaption=PARAMETRES
+
+[FriendsManagement]
+FriendsManagementTitle=GESTION DES AMIS
+HeaderIgnore=IGNORER
+HeaderPlayers=JOUEURS
+HeaderFriends=AMIS
+AddToIgnore=LISTE JOUEURS IGNORÉS
+RemoveFromIgnore=ENLEVER DE LA LISTE A IGNORER
+AddToFriend=AJOUTER A LA LISTE D'AMIS
+RemoveFromFriend=ENLEVER DE LA LISTE D'AMIS
+AddedToFriend=%s VOUS A AJOUTE A SA LISTE D'AMIS
+AddedToIgnore=%s VOUS A AJOUTE A SA LISTE DE JOUEURS A IGNORER
+RemovedFromIgnore=%s VOUS A SUPPRIME DE SA LISTE DE JOUEURS A IGNORER
+
+[FriendsMessage]
+ReplyCaption=REPONDRE
+ReturnCaption=RETOURNER
+IgnoreCaption=IGNORER
+AddToFriendCaption=AJOUTER AMI
+SendCaption=ENVOYER
+
+[CDKeyMenu]
+Title=CODE CD
+Prompt=VEUILLEZ ENTRER VOTRE CODE CD
+Instruction=(Ce numéro est indiqué sur votre manuel de jeu)
+
+[ESRB]
+Title=NOTE ESRB
+Notice=L'EXPERIENCE PROCUREE PAR LE JEU PEUT CHANGER QUAND VOUS JOUEZ EN LIGNE
+
+[OnlineTermsOfUse]
+Title=CONDITIONS D'UTILISATION
+OTU_HEADER1=CONDITIONS D'UTILISATION
+OTU_HEADER2=ACCEPTATION DES TERMES DU CONTRAT
+OTU1=Les conditions d'utilisation ci-dessous (« Conditions d'utilisation ») constituent les termes d'un accord juridique conclu par vous, d'une part, et Ubi Soft Entertainment S.A., Ubi Soft, Inc., Red Storm Entertainment, Inc., Blue Byte Logiciels, Inc. et Ubi.com S.A. (désignés ci-après collectivement par « Ubi »), d'autre part.
+OTU2=Le groupe web Ubi se compose de différents sites web, pages web et Logiciels (définis dans les présentes) qui appartiennent à Ubi et/ou sont contrôlés ou exploités par Ubi (collectivement, les « Sites »).
+OTU3=Les Sites vous sont proposés sous réserve de votre acceptation sans modification des termes, conditions et avis qui figurent dans les présentes et qui sont indiqués sur lesdits Sites. En accédant aux Sites, en naviguant sur les Sites et/ou en les utilisant, vous reconnaissez que vous avez lu et compris les présentes conditions et que vous acceptez d'être lié par ces dernières et de vous conformer à toutes les lois et réglementations applicables, y compris aux lois et réglementations américaines relatives au contrôle des exportations et réexportations. 
+OTU4=SI VOUS N'ACCEPTEZ PAS LES PRESENTES CONDITIONS, N'UTILISEZ AUCUN DE CES SITES.  
+OTU5=EN CLIQUANT SUR LE BOUTON « J'ACCEPTE », VOUS ACCEPTEZ LES MODALITES DES PRESENTES CONDITIONS D'UTILISATION. EN CLIQUANT SUR LE BOUTON « JE N'ACCEPTE PAS », VOUS DECLINEZ NOTRE OFFRE.
+OTU6=EN CAS DE NON-RESPECT DES PRESENTES CONDITIONS D'UTILISATION OU DE TOUT CODE DE CONDUITE, VOTRE COMPTE, AINSI QUE VOTRE DROIT D'UTILISER LES SITES PEUT ETRE ANNULE OU SUSPENDU SUR-LE-CHAMP ET SANS PREAVIS PAR UBI. SI VOTRE COMPTE EST SUSPENDU OU ANNULE, VOUS NE POURREZ PRETENDRE AU REMBOURSEMENT DES SOMMES VERSEES POUR UTILISER LES SITES ET VOUS PERDREZ LE BENEFICE DE L'INTEGRALITE DU TEMPS D'ACCES QUE VOUS N'AVEZ PAS UTILISE. VOUS DECLAREZ ET GARANTISSEZ QUE VOUS ETES AGE DE DIX-HUIT ANS MINIMUM OU QUE VOUS AVEZ OBTENU L'ACCORD EXPRES DE VOTRE PERE, MERE OU TUTEUR.
+OTU7=Vous pouvez devenir membre (« Membre ») d'Ubi en vous inscrivant sur le Site à l'adresse www.ubi.com. Pour devenir Membre, vous devez accepter l'ensemble des termes du Contrat d'adhésion ainsi que les présentes Conditions d'utilisation. Si vous avez des questions sur les présentes Conditions d'utilisation ou sur le Contrat d'adhésion, veuillez nous contacter à l'adresse http://support.ubi.com.
+OTU8=Chacun des Sites peut contenir des termes, codes de conduite ou consignes supplémentaires qui régissent leur utilisation, y compris, notamment, leurs caractéristiques particulières (salons de discussion et/ou tableaux d'affichage) et/ou leurs offres spéciales (loteries et concours). 
+OTU9=Dans le cas où l'un des termes, conditions ou avis figurant dans les présentes Conditions d'utilisation serait incompatible avec les termes, codes de conduite et/ou consignes d'un Site donné, les présentes Conditions d'utilisation feront foi. Cependant, en cas d'abonnement à un jeu, ce sont les conditions de service et d'utilisation de ce jeu qui feront foi.  
+OTU_HEADER3=COMPTE DE MEMBRE, MOT DE PASSE ET SECURITE
+OTU10=Si un Site ou un produit ou service proposé sur les Sites vous oblige à ouvrir un compte, vous devez vous soumettre à la procédure d'inscription en nous communiquant les informations exactes, à jour et complètes qui sont demandées dans le formulaire d'inscription. Vous choisirez ensuite un mot de passe et un nom d'utilisateur. C'est à vous et uniquement à vous qu'il appartient de préserver la confidentialité de votre mot de passe et de votre compte. En outre, vous êtes entièrement responsable de toutes les opérations qui seront effectuées sur votre compte. Vous convenez d'aviser Ubi immédiatement de toute utilisation non autorisée de votre compte ou de toute autre atteinte à la sécurité. Ubi ne saura être tenu responsable des pertes que vous pourriez subir du fait de l'utilisation, à votre insu ou non, de votre mot de passe ou de votre compte par un tiers. Toutefois, vous pouvez être tenu responsable des pertes subies par Ubi ou une autre partie du fait de l'utilisation par un tiers de votre compte ou de votre mot de passe.
+OTU_HEADER4=MODIFICATION DES PRESENTES CONDITIONS D'UTILISATION
+OTU11=Ubi se réserve le droit de modifier les termes, conditions et avis en vertu desquels les Sites Ubi sont proposés, y compris, notamment, les prix associés à l'utilisation des Sites ou aux produits qui y sont vendus. Il vous appartient de consulter régulièrement les Conditions d'utilisation ainsi que les autres termes qui sont indiqués sur chacun des Sites. En continuant à utiliser les Sites, vous signifiez votre acceptation desdits termes, conditions et avis. 
+OTU12=Les fonctions de communication fournies par Ubi, y compris, notamment, les forums, salons de discussion et tableaux d'affichage, sont des services fournis gratuitement aux Membres. En affichant des messages, en créant ou en modifiant une page d'accueil, en participant à des salons de discussion, en téléchargeant des fichiers vers le serveur des Sites, en communiquant des données, en transmettant des courriers électroniques ou en communiquant par quelque moyen que ce soit (individuellement ou collectivement, « Communications ») sur ou par les Sites, vous convenez d'être lié par les conditions suivantes.
+OTU13=• Toutes les Communications sont la responsabilité des personnes qui les affichent ou qui les transmettent. Ubi n'a aucune obligation de contrôler ou de surveiller les Communications et rejette expressément toute déclaration selon laquelle il les contrôlera ou les surveillera, mais se réserve le droit de les contrôler et de les surveiller s'il le souhaite.
+OTU14=• Ubi ne contrôle pas le contenu des Communications et ne garantit pas l'exactitude, l'intégrité ou la qualité des informations qu'elles contiennent.
+OTU15=• Le Membre ou l'utilisateur reconnaît qu'en utilisant les fonctions de communication fournies sur le Site, il peut être exposé à des Communications et à d'autres contenus qui sont choquants, indécents ou désobligeants. 
+OTU16=• Ubi ne saura en aucun cas être tenu responsable des erreurs ou omissions commises dans les Communications ni des pertes ou dommages de quelque nature que ce soit résultant de l'utilisation des informations contenues dans les fonctions de communication fournies sur le Site. 
+OTU17=• Si Ubi est informé, par un Membre ou un utilisateur, de Communications qui ne seraient pas conformes au présent Contrat, Ubi peut vérifier ces allégations et décider de bonne foi s'il convient ou non de retirer lesdites Communications ou d'en demander le retrait. 
+OTU18=• Ubi se réserve le droit d'expulser certains Membres et utilisateurs et de les empêcher d'accéder à nouveau aux Sites s'ils n'exécutent pas le présent Contrat ou enfreignent la loi. Ubi se réserve également le droit de retirer les Communications qui sont injurieuses, illégales, irrespectueuses ou perturbatrices. 
+OTU19=• Ubi se réserve le droit de communiquer des informations aux autorités compétentes en cas d'infraction à ses normes ou de tout acte illégal, si ces informations sont demandées par la justice, et/ou si Ubi le juge nécessaire et/ou adapté. 
+OTU20=• Ubi conserve le droit d'annuler l'adhésion d'un Membre ou d'un Invité qui enfreint le Code de Conduite ci-dessous.
+OTU_HEADER5=REGLES DE CONDUITE
+OTU21=Outre les limitations énoncées ci-dessus, vous enfreindrez les Conditions d'utilisation si, de l'avis d'Ubi, vous (ou les autres personnes qui utilisent votre compte) :
+OTU22=• harcelez, menacez, épiez un autre Membre ou Invité, le mettez dans l'embarras, le faites souffrir ou attirez l'attention sur lui contre son gré.
+OTU23=• envoyez, transmettez ou facilitez la distribution de contenus ou de Communications qui sont illégaux, nuisibles, injurieux, racistes, grossiers, sexuellement explicites, obscènes, diffamatoires, non autorisés, portant atteinte à la vie privée ou au droit à l'image, ou encore objectivement choquants.
+OTU24=• modifiez une partie des Sites et/ou des Logiciels sans l'accord écrit préalable d'Ubi.
+OTU25=• perturbez les conversations dans les salons de discussion ou dans les Logiciels qui comportent une fonction de discussion dans le but de déranger les autres utilisateurs ou envoyez du texte répétitif [flooding].
+OTU26=• usurpez l'identité de quelqu'un d'autre, tentez d'induire en erreur des utilisateurs en indiquant que vous êtes un représentant d'Ubi ou de l'un des partenaires ou filiales d'Ubi.
+OTU27=• tentez d'intercepter, de pirater, de décrypter des transmissions vers ou depuis les serveurs d'Ubi ou encore entrez en possession d'un mot de passe, d'une adresse postale, de numéros de cartes bancaires, de coordonnées bancaires ou d'autres informations privées d'un Membre ou de tout autre utilisateur des Sites.
+OTU28=• donnez de fausses informations ou dissimulez volontairement des informations qui sont demandées par les Sites ou les Logiciels.
+OTU29=• communiquez votre mot de passe du compte et/ou vendez ou cédez votre compte à un tiers.
+OTU30=• ne suivez pas les instructions du personnel habilité des Sites.
+OTU31=• téléchargez vers le serveur ou distribuez des logiciels ou du contenu qui ne vous appartiennent pas ou que vous n'êtes pas autorisé à distribuer gratuitement.
+OTU32=• favorisez ou encouragez des activités illégales, parmi lesquelles le hacking, le cracking ou la distribution de logiciels de contrefaçon.
+OTU33=• téléchargez vers le serveur des fichiers qui contiennent un virus ou des données corrompues.
+OTU34=• envoyez des Communications à des fins autres que la communication personnelle, transmettez des documents publicitaires ou promotionnels, des lettres en chaîne ou systèmes pyramidaux, ou encore utilisez nos Sites à des fins commerciales.
+OTU35=• utilisez de façon inappropriée l'assistance de jeu ou les boutons de réclamation ou adressez de faux signalements aux membres du personnel d'Ubi.
+OTU36=• ne respectez pas les conditions d'utilisation des outils de tiers ou des fournisseurs de services interactifs, le droit local, fédéral, international ou étranger, le cas échéant.
+OTU37=• falsifiez ou supprimez le nom des auteurs, les avis légaux ou autres avis nécessaires, les avis de propriété ou étiquettes indiquant l'origine ou la source des logiciels ou d'autres éléments contenus dans un fichier que vous envoyez sur le serveur.
+OTU38=• limitez ou empêchez l'utilisation par un autre Membre ou utilisateur des fonctions de communication des Sites.
+OTU39=• vendez ou distribuez, en dehors du jeu, un élément de ce dernier, y compris, notamment, les personnages, noms, armes, objets, techniques, devise virtuelle et autres caractéristiques du jeu.
+OTU40=Les noms des personnages que vous pouvez créer dans les Logiciels et sur les Sites sont soumis, en plus des politiques relatives aux noms des personnages qui s'appliquent spécifiquement aux jeux, aux mêmes règles et consignes que les autres formes de Communications en cours de jeu ou sur les Sites. Dans le cas où le nom d'un personnage n'est pas conforme à ces consignes, Ubi a le droit de suspendre et/ou de clôturer votre compte, à moins qu'il ne décide de modifier les noms des personnages qui ne sont pas conformes aux consignes. Si Ubi clôture votre compte ou modifie un nom parce qu'il est contraire à la politique relative aux noms des personnages, aucun remboursement ne sera effectué. Outre les règles générales mentionnées ci-dessus, les règles suivantes s'appliquent à tout nom défini par l'utilisateur dans le cadre du jeu.
+OTU41=En soumettant ou en envoyant des Communications, y compris, notamment, un nom de personnage, sur un Site, vous octroyez automatiquement à Ubi un droit et une licence mondiaux, perpétuels, irrévocables, sans redevance, pouvant donner lieu à des sous-licences, de reproduction, de modification, d'adaptation, de publication, de traduction, de création d'œuvres dérivées, de distribution, d'exécution et de présentation desdites Communications (en tout ou partie) dans le monde entier et/ou d'intégration à d'autres œuvres, quels que soient la forme, le support ou la technologie, connue ou inconnue à ce jour, employés. En outre, vous garantissez la renonciation à l'ensemble de ce qu'on appelle les « droits moraux » afférents au Contenu. Vous renoncez par les présentes à toute plainte contre Ubi résultant d'une atteinte prétendue ou avérée aux droits de propriété, aux droits à la protection de la vie privée et à l'image ainsi qu'aux droits d'attribution associés à ces Communications.
+OTU_HEADER6=COMPORTEMENT ILLEGAL
+OTU42=Tout comportement illégal d'un Membre dans le cadre de l'utilisation de l'un des Sites sera un motif de clôture de compte. Ubi coopérera pleinement avec les représentants de la loi à cet égard et intentera contre les contrevenants toutes les actions en justice prévues par la loi.
+OTU_HEADER7=INDEMNISATION
+OTU43=Vous convenez que vous serez personnellement responsable de votre utilisation des Sites et de toutes vos Communications et activités sur les Sites, y compris du contenu que vous y envoyez, et que vous indemniserez, défendrez et protégerez Ubi, et ses filiales, salariés, dirigeants et administrateurs respectifs, dans le cas où Ubi serait confronté à des plaintes, responsabilités, pertes, dommages et dépenses (dont des honoraires d'avocat raisonnables) du fait de votre utilisation ou prétendue utilisation des Sites, y compris de votre comportement, des Communications et/ou du contenu que vous envoyez sur les Sites et de toute inexécution des Conditions d'utilisation ou du Contrat de licence (défini dans les présentes). Ubi se réserve le droit d'assurer seul et à ses propres frais sa défense et d'exercer un contrôle exclusif sur toute autre affaire dont l'indemnisation vous incomberait. Dans tel cas, vous convenez de collaborer à la contestation par Ubi de la plainte.
+OTU_HEADER8=LOGICIELS ET CONTENU DISPONIBLES SUR LES SITES
+OTU44=A l'exclusion du contenu et/ou des logiciels qui peuvent être proposés par des Membres ou des utilisateurs au moyen d'un outil de communication, l'ensemble du contenu et des logiciels (« Logiciels ») (le cas échéant) qui peuvent être visualisés, utilisés pour le jeu et/ou téléchargés sur les Sites, est la propriété et l'œuvre protégée par copyright d'Ubi et/ou de ses fournisseurs, et bénéficie de la protection des lois sur les droits d'auteur et des dispositions des traités internationaux. L'utilisation que vous faites des Logiciels est régie par les termes du contrat de licence de l'utilisateur final, qui accompagne, le cas échéant, les Logiciels (« Contrat de licence »), ou est fourni avec eux. Vous n'êtes pas autorisé à installer ou à utiliser des Logiciels qui sont accompagnés d'un Contrat de licence ou en comportent un à moins que vous n'acceptiez au préalable les termes dudit Contrat de licence. Vous reconnaissez et convenez que vous n'acquérez aucuns droits de propriété en ce qui concerne les Sites et/ou les éléments des Logiciels, y compris, notamment, en ce qui concerne l'univers, les personnages, l'intrigue et les noms que vous pouvez créer dans le cadre de l'utilisation des Logiciels.
+OTU45=En ce qui concerne les Logiciels qui ne sont pas accompagnés d'un Contrat de licence, Ubi vous concède en tant qu'utilisateur, une licence personnelle, révocable et non cessible d'utilisation des Logiciels pour visualiser et utiliser le Site concerné conformément aux présentes Conditions d'utilisation, et à nulles autres fins, sous réserve que vous conserviez intacts tous les avis de copyright et de propriété. Toute reproduction ou redistribution du contenu et/ou des Logiciels est expressément interdite par la loi et peut donner lieu à de lourdes sanctions civiles et pénales. Toutes les actions en justice possibles seront intentées contre les contrevenants. SANS LIMITER LA DISPOSITION QUI PRECEDE, LE FAIT DE COPIER OU DE REPRODUIRE UN CONTENU OU DES LOGICIELS SUR UN AUTRE SERVEUR OU AILLEURS EN VUE DE LEUR REPRODUCTION OU REDISTRIBUTION EST EXPRESSEMENT INTERDIT. Vous reconnaissez que les Logiciels, ainsi que la documentation et/ou les informations techniques qui les accompagnent, sont soumis aux lois et règlements applicables des États-Unis en ce qui concerne le contrôle des exportations. Vous convenez donc de ne pas exporter ou réexporter les Logiciels, directement ou indirectement, vers des pays qui sont soumis à des restrictions des exportations par les États-Unis.
+OTU_HEADER9=DECLIN DE RESPONSABILITE
+OTU46=LES INFORMATIONS, LOGICIELS, PRODUITS ET SERVICES PRESENTS OU DISPONIBLES SUR LES SITES PEUVENT COMPORTER DES INEXACTITUDES OU DES COQUILLES. DES MODIFICATIONS SONT APPORTEES PERIODIQUEMENT AUX SITES ET AUX INFORMATIONS QU'ILS CONTIENNENT. UBI ET SES FOURNISSEURS RESPECTIFS PEUVENT APPORTER DES AMELIORATIONS ET/OU DES MODIFICATIONS AUX SITES A TOUT MOMENT. UBI ET/OU SES FOURNISSEURS RESPECTIFS NE FONT AUCUNE DECLARATION EN CE QUI CONCERNE L'ADEQUATION, LA DISPONIBILITE, LA RAPIDITE, L'ABSENCE DE VIRUS OU AUTRES COMPOSANTS NUISIBLES ET L'EXACTITUDE DES INFORMATIONS, LOGICIELS, PRODUITS, SERVICES, COMMUNICATIONS, CONTENUS ET GRAPHISMES ASSOCIES QUI FIGURENT SUR LES SITES A QUELQUE FIN QUE CE SOIT. L'ENSEMBLE DE CES INFORMATIONS, LOGICIELS, PRODUITS, SERVICES, COMMUNICATIONS, CONTENUS ET GRAPHISMES ASSOCIES EST FOURNI « TEL QUEL », SANS GARANTIE DE QUELQUE NATURE QUE CE SOIT. UBI ET/OU SES FOURNISSEURS RESPECTIFS REJETTENT PAR LES PRESENTES TOUTES LES GARANTIES ET CONDITIONS EN CE QUI CONCERNE CES INFORMATIONS, LOGICIELS, PRODUITS, SERVICES, COMMUNICATIONS, CONTENUS ET GRAPHISMES ASSOCIES, Y COMPRIS TOUTES LES GARANTIES ET CONDITIONS IMPLICITES DE QUALITE MARCHANDE, D'ADEQUATION A UN USAGE PARTICULIER, DE SAVOIR-FAIRE, DE PROPRIETE ET DE NON-CONTREFAÇON.
+OTU47=VOUS CONVENEZ SPECIFIQUEMENT QU'UBI NE SAURA ETRE TENU RESPONSABLE DE LA MODIFICATION OU DE L'ACCES NON AUTORISE A VOS TRANSMISSIONS, COMMUNICATIONS OU DONNEES, A TOUT ELEMENT OU TOUTES DONNEES ENVOYES OU REÇUS OU NON ENVOYES OU REÇUS, OU ENCORE A TOUTE TRANSACTION EFFECTUEE SUR L'UN DES SITES. VOUS CONVENEZ SPECIFIQUEMENT QU'UBI NE SAURA ETRE TENU RESPONSABLE DU CONTENU OU DU COMPORTEMENT MENAÇANT, DIFFAMATOIRE, OBSCENE, CHOQUANT OU ILLEGAL D'UN TIERS OU DE TOUTE ATTEINTE AUX DROITS D'UN TIERS, Y COMPRIS A SES DROITS DE PROPRIETE INTELLECTUELLE. VOUS CONVENEZ SPECIFIQUEMENT QU'UBI NE SAURA ETRE TENU RESPONSABLE DU CONTENU ENVOYE PAR ET/OU INCLUS DANS UN SITE PAR UN TIERS.
+OTU48=EN AUCUN CAS UBI ET/OU SES FOURNISSEURS NE SAURONT ETRE TENUS RESPONSABLES DES DOMMAGES DIRECTS, INDIRECTS, PUNITIFS, ACCESSOIRES, SPEFICIQUES OU CONSECUTIFS OU AUTRES DOMMAGES DE QUELQUE NATURE QUE CE SOIT - Y COMPRIS NOTAMMENT, DES DOMMAGES POUR PERTE DE JOUISSANCE, DE DONNEES OU POUR MANQUE A GAGNER -SURVENANT DANS LE CADRE OU A LA SUITE DE L'UTILISATION OU DU FONCTIONNEMENT DES SITES, DE RETARDS OU DE L'IMPOSSIBILITE D'UTILISER LES SITES OU LES SERVICES ASSOCIES, DE LA FOURNITURE OU DE L'INCAPACITE DE FOURNIR DES SERVICES OU DES INFORMATIONS, LOGICIELS, PRODUITS, SERVICES, COMMUNICATIONS, CONTENUS ET GRAPHISMES ASSOCIES OBTENUS SUR LES SITES, OU ENCORE RESULTANT DE L'UTILISATION DES SITES, QUE CE SOIT EN DROIT CONTRACTUEL, EN DROIT DE LA RESPONSABILITE CIVILE DELICTUELLE, DE LA NEGLIGENCE, RESPONSABILITE STRICTE OU AUTRE, MEME SI UBI OU SES FOURNISSEURS ONT ETE AVISES DE L'EVENTUALITE DE CES DOMMAGES. PARCE QUE CERTAINS ETATS/PAYS N'AUTORISENT PAS L'EXCLUSION OU LA LIMITATION DE RESPONSABILITE POUR LES DOMMAGES CONSECUTIFS OU ACCESSOIRES, IL EST POSSIBLE QUE LA LIMITATION CI-DESSUS NE S'APPLIQUE PAS A VOUS. SI VOUS N'ETES PAS SATISFAIT D'UNE PARTIE DES SITES, OU DE L'UNE DES PRESENTES CONDITIONS D'UTILISATION, LE SEUL RECOURS DONT VOUS DISPOSEZ EST D'ARRETER D'UTILISER LES SITES.
+OTU49=UBI NE GARANTIT PAS QUE VOUS NE SEREZ PAS CONFRONTE A UN COMPORTEMENT QUE VOUS POUVEZ ESTIMER INSULTANT, DEGRADANT, CHOQUANT, MENAÇANT, OBSCENE, DIFFAMATOIRE, DESOBLIGEANT OU MALVEILLANT DE LA PART D'AUTRES UTILISATEURS PENDANT QUE VOUS ETES SUR LES SITES OU QUE VOUS UTILISEZ LES LOGICIELS. SI UBI DECIDE DE NE PAS PRENDRE DE MESURES, PREND DES MESURES AVEC LESQUELLES VOUS N'ETES PAS D'ACCORD OU EST DANS L'INCAPACITE DE PRENDRE DES MESURES POUR QUELQUE RAISON QUE CE SOIT, UBI, SA SOCIETE MERE, SES FILIALES OU FOURNISSEURS NE SAURONT EN AUCUN CAS ETRE TENUS RESPONSABLES ENVERS VOUS OU UN TIERS DE DOMMAGES ACCESSOIRES OU CONSECUTIFS (QUELLE QU'EN SOIT LA CAUSE, Y COMPRIS LA NEGLIGENCE) ET/OU DE CHOC EMOTIONNEL ET/OU D'AUTRES DOMMAGES, SURVENUS DANS LE CADRE OU EN RAISON DE VOTRE COMPTE, DES LOGICIELS OU DU TEMPS QUE VOUS AVEZ PASSE A UTILISER LES LOGICIELS. DANS LES LIMITES PREVUES PAR LA LOI, NOTRE RESPONSABILITE ENVERS VOUS OU DES TIERS EST LIMITEE A (I) 100 USD OU (II) SI ELLE EST INFERIEURE A 100 USD, A LA SOMME QUE VOUS AVEZ PAYEE POUR UTILISER LE SITE.
+OTU_HEADER10=AUTRES LIMITATIONS
+OTU50=Vous reconnaissez qu'ubi.com se réserve le droit de désactiver les comptes qui restent inactifs pendant une période prolongée.
+OTU51=UBI.COM NE GARANTIT PAS QUE LE SERVICE SERA ININTERROMPU, RAPIDE, SUR ET SANS ERREUR.
+OTU52=ADRESSE DE CONTACT DU SERVICE : http://support.ubi.com.
+OTU_HEADER11=RESILIATION/RESTRICTION DE L'ACCES
+OTU53=Vous et Ubi avez le droit de résilier ou d'annuler votre adhésion ou un abonnement donné à tout moment. Vous comprenez et convenez que l'annulation de votre compte ou d'un abonnement donné constitue le seul droit et le seul recours dont vous disposez en cas de différend avec Ubi. On entend notamment par différend tout désaccord survenant dans le cadre ou à la suite de : (1) un terme du Contrat d'adhésion ou l'exécution ou l'application par Ubi des présentes Conditions d'utilisation ; (2) toute politique ou pratique d'Ubi, y compris la Politique relative à la protection de la vie privée, que vous pouvez consulter sur :
+OTU54=http://www.ubi.com/Info/PrivacyPolicy.htm
+OTU55=ou l'exécution ou l'application par Ubi de ces politiques ; (3) tout contenu ou Logiciel disponible sur les Sites ou toute modification du contenu fourni sur les Sites ; (4) votre capacité à accéder aux Sites et/ou à les utiliser ; ou (5) le montant ou le type des frais, surtaxes, taxes applicables, méthodes de facturation concernant les Sites, et/ou toute modification desdits frais, surtaxes, taxes applicables, méthodes de facturation. Vous pouvez annuler votre adhésion ou un abonnement donné en en avisant Ubi à l'adresse http://support.ubi.com. Ubi se réserve le droit de collecter les prix, surtaxes, ou frais engagés avant l'annulation de votre adhésion à Ubi ou de l'abonnement concerné. En outre, vous êtes redevable de toute somme due à des fournisseurs tiers ou à des fournisseurs de contenu avant l'annulation. En cas de résiliation, par vous ou par Ubi, de votre compte ou d'un abonnement, aucun remboursement, y compris pour les frais d'adhésion, ne sera effectué, aucun temps de connexion ou autre avoir ne vous sera crédité ou ne sera converti en argent ou autre forme de remboursement. Les membres Ubi actifs ne peuvent autoriser d'anciens Membres dont l'adhésion a été annulée par Ubi à utiliser leur Compte. Les Comptes en défaut, impayés ou posant un problème qui n'est pas résolu avec Ubi doivent être régularisés pour qu'Ubi puisse vous permettre de vous réinscrire ou d'utiliser à nouveau les Sites. Nonobstant toute disposition contraire des présentes Conditions d'utilisation, si Ubi décide d'annuler ou d'interrompre certains de ses services pour quelque raison que ce soit alors que vous avez payé d'avance certains services annulés, Ubi vous remboursera une partie du montant payé proportionnellement aux services non utilisés.
+OTU_HEADER12=PROPRIETE INTELLECTUELLE
+OTU56=Les Sites, y compris, notamment, l'ensemble des fonctions de communication, contiennent des éléments protégés par copyright, des marques de fabrique et d'autres informations exclusives y compris, notamment, du texte, des logiciels, des photographies, de la vidéo, des graphismes, de la musique et des sons. L'intégralité du contenu des Sites et de chaque section de ces derniers sont protégés par copyright en tant qu'œuvre collective en vertu des lois sur les droits d'auteur des États-Unis. Ubi possède des droits d'auteur en ce qui concerne la sélection, la coordination, l'arrangement et l'amélioration dudit contenu. Vous n'êtes pas autorisé à modifier, publier ou transmettre le contenu des Sites (y compris, notamment, le contenu qu'Ubi vous permet de télécharger sur votre ordinateur), à participer à son transfert ou à sa vente, à en créer des œuvres dérivées ou encore à l'exploiter de quelque façon que ce soit, sans l'autorisation expresse écrite d'Ubi et du propriétaire des droits d'auteur. En cas de copie, de redistribution ou de publication autorisée des éléments protégés par copyright, aucune modification ou suppression du nom des auteurs, des marques de fabrique, légendes ou avis de copyright ne sera effectuée. Vous reconnaissez que les fournisseurs de contenu d'Ubi et/ou tiers restent propriétaires des informations et éléments envoyés sur les Sites, et que vous n'acquérez aucun de ces droits de propriété en téléchargeant sur votre ordinateur des éléments protégés par copyright.
+OTU_HEADER13=PRIX, FACTURATION ET PERIODES D'ABONNEMENT GRATUIT
+OTU57=Vous pouvez être Membre des Sites sans payer à Ubi la participation à un jeu ou à une autre activité. Toutefois, Ubi a toute latitude pour demander le paiement de frais d'abonnement mensuels pour vous permettre d'accéder à certaines parties des Sites, de jouer à des jeux spécifiques et de participer aux activités associées des Sites. Vous devez être Membre d'Ubi et payer l'abonnement ou d'autres droits pour participer à ces activités. Si vous devez payer un abonnement pour accéder à une partie de notre Site ou jouer à un jeu donné, cette information sera envoyée sur le Site en question. Vous aurez la possibilité de vous abonner au jeu en nous fournissant un numéro de carte bancaire valide et d'autres informations pour la facturation. Le prix de l'abonnement en vigueur et les autres informations concernant la facturation seront tenus strictement confidentiels.
+OTU58=Quand vous souscrivez un abonnement pour jouer à certains jeux, il peut vous être demandé de lire et d'accepter un contrat de service ou d'adhésion spécifique à ce jeu, dont les termes peuvent être légèrement différents de ceux que vous trouvez ici. Votre abonnement à ce jeu, de même que son utilisation, sont soumis aux conditions spécifiques ci-dessous.
+OTU59=A. Paiement par carte bancaire.
+OTU60=Vous devez payer votre ou vos abonnements par carte bancaire. En communiquant les informations relatives à votre carte bancaire à Ubi, vous déclarez et garantissez que vous êtes l'utilisateur autorisé de la carte bancaire qui est utilisée pour payer les abonnements ou autres. A moins que vous ne nous fournissiez, avant l'expiration de votre abonnement, un avis écrit de résiliation, votre abonnement sera automatiquement reconduit pour la même durée. Vous convenez d'aviser dans les plus brefs délais Ubi de tout changement du numéro de votre carte bancaire, de sa date d'expiration et/ou de votre adresse de facturation, ainsi que de l'expiration ou de l'annulation, pour quelque motif que ce soit, de votre carte bancaire.
+OTU61=B. Facturation sur votre carte bancaire.
+OTU62=VOS FRAIS D'ABONNEMENT SONT PAYABLES D'AVANCE ET NON REMBOURSABLES EN TOUT OU PARTIE. Ubi se réserve le droit de modifier ses prix ou ses méthodes de facturation à tout moment et avisera les membres de ces modifications au moins trente (30) jours à l'avance. Toutes les modifications seront envoyées sur les Sites et il vous appartient de consulter la section réservée à la facturation des Sites pour être avisé en temps opportun de ces modifications. En continuant d'utiliser les Sites dans les trente (30) jours suivant la communication des modifications sur les Sites, vous indiquez que vous acceptez ces modifications. Si une modification vous paraît inacceptable, vous pouvez annuler votre adhésion ou un abonnement donné à tout moment, mais Ubi ne remboursera pas les transactions réalisées jusqu'à l'annulation de votre adhésion ou de votre abonnement, et conservera l'intégralité des frais d'abonnement déjà payés. Si votre utilisation des Sites est soumise à une taxe d'utilisation ou à une taxe sur les ventes, Ubi peut vous facturer ces taxes en plus de l'abonnement ou des autres prix indiqués dans la section facturation du Site.
+OTU63=En tant que titulaire du Compte, vous êtes redevable de toutes les transactions réalisées, taxes applicables comprises, et de tous les achats effectués par vous ou toute autre personne qui utilise votre compte, y compris les membres de votre famille ou vos amis. Ceci signifie que, à moins que les informations relatives à votre carte bancaire ou à votre compte ne soient obtenues illégalement ou de façon frauduleuse par une personne qui ne fait pas partie des personnes que vous avez autorisées à utiliser votre compte, vous serez redevable de tous les frais d'utilisation et des achats effectués sur votre compte.
+OTU64=C. Taxes 
+OTU65=Vous pouvez être tenu de déclarer dans votre revenu imposable la valeur des prix que vous avez gagnés. Pour que vous puissiez entrer en possession d'un prix, il vous sera demandé de fournir un numéro de sécurité sociale ou autre numéro d'identification fiscal valide et toute autre information raisonnablement demandée par Ubi. Ubi et/ou ceux de ses partenaires qui offrent un prix peuvent déclarer la valeur de ce prix aux services fiscaux fédéraux et/ou de l'État.
+OTU66=D. Périodes d'abonnement gratuit
+OTU67=En ce qui concerne certains jeux et activités proposés sur les Sites, nous pouvons offrir une période d'accès gratuit pour un abonnement. Si vous acceptez un abonnement qui comprend une période d'accès gratuit, nous commencerons à facturer sur votre compte, sauf mention contraire dans la description d'un abonnement, ce jeu ou cette activité à l'expiration de la période d'abonnement gratuit, à moins que vous ne résiliiez votre abonnement avant. Vous restez redevable des frais facturés par un fournisseur de service Internet, des frais de téléphone et autres frais de connexion engagés pour utiliser les Sites, même quand nous vous offrons une période d'abonnement gratuit.
+OTU_HEADER14=ZONE DE JEU EN LIGNE
+OTU68=Ubi se réserve le droit d'utiliser des codes numériques, identificateurs uniques mondiaux (guides), des cookies ou d'autres technologies afin d'identifier les ordinateurs qui accèdent aux Sites. Ces informations peuvent être examinées afin de développer des statistiques globales et anonymes sur l'utilisation des ordinateurs, qui peuvent être utilisées par les opérations d'Ubi ou par des tiers. Les technologies d'identification des ordinateurs peuvent également être utilisées pour faire exécuter les présentes Conditions d'utilisation. Pour en savoir plus sur ce sujet, veuillez consulter notre Politique relative à la protection de la vie privée.
+OTU_HEADER15=CONDITIONS GENERALES
+OTU69=Le présent contrat est régi par les lois de l'État de Californie (États-Unis). Par les présentes, vous consentez irrévocablement à la compétence exclusive des tribunaux du comté de San Francisco, Californie (États-Unis) pour tous les différends qui surviendraient dans le cadre ou à la suite de l'utilisation des Sites. Vous convenez qu'il n'existe entre vous et Ubi aucune joint venture, société, relation employeur-employé ou relation d'agence du fait du présent contrat ou de l'utilisation des Sites. Ubi se réserve le droit de communiquer des informations personnelles vous concernant ou concernant votre utilisation des Sites, y compris de leur contenu, sans votre autorisation préalable si Ubi pense de bonne foi que cela est nécessaire pour : (1) se conformer aux obligations légales ou effectuer une procédure légale ; (2) protéger et défendre les droits et les biens d'Ubi ou de ses filiales ; (3) faire appliquer les Conditions d'utilisation ; ou (4) protéger les intérêts de ses Membres ou d'autres personnes. L'exécution par Ubi du présent contrat est soumise aux lois et procédures légales existantes, et aucune disposition du présent contrat n'est contraire au droit d'Ubi d'accéder aux demandes ou exigences des pouvoirs publics ou des tribunaux ou des demandes et obligations d'exécuter la loi en ce qui concerne votre utilisation des Sites ou les informations qui vous sont communiquées ou qui sont rassemblées par Ubi en ce qui concerne ladite utilisation. Si l'une des dispositions du présent contrat est jugée invalide ou inexécutoire en vertu de la loi applicable, y compris, notamment, les déclins de garantie et les limites de responsabilités mentionnés ci-dessus, alors la disposition invalide ou non exécutoire sera réputée remplacée par une disposition valide et exécutoire dont l'objectif sera aussi proche que possible de celui de la disposition d'origine, et le reste du contrat restera en vigueur. Il peut vous être demandé d'accepter une version plus détaillée du présent contrat lorsque vous accédez aux Sites. Une version imprimée du présent contrat et de toute notification communiquée sous forme électronique sera admissible dans le cadre de procédures judiciaires ou administratives fondées sur le présent contrat ou relatives à ce dernier, de la même façon et sous réserve des mêmes conditions que les autres documents et archives professionnels produits à l'origine et conservés sur papier.
+OTU_HEADER16=AVIS DE COPYRIGHT ET DE MARQUE DE FABRIQUE
+OTU70=Pour l'intégralité des Sites : Copyright © 2001- 2003 Ubi Soft Entertainment et/ou ses fournisseurs, Adresse : 625 Third Street, San Francisco, California 94107 U.S.A. Tous droits réservés. 
+OTU71=MARQUES DE FABRIQUE. Ubi Soft Entertainment, Ubi Soft, ubi.com, Red Storm Entertainment, Blue Byte Software et/ou les autres produits mentionnés dans les présentes Conditions d'utilisation sont des marques de fabrique ou des marques déposées d'Ubi aux États-Unis ou dans d'autres pays. Les noms de sociétés et de produits qui apparaissent dans les présentes Conditions d'utilisation peuvent être des marques de fabrique appartenant à leurs propriétaires respectifs. Tous les droits qui ne sont pas expressément concédés dans les présentes sont réservés. 
+OTU72=VOUS RECONNAISSEZ QUE VOUS ACCEPTEZ LE PRESENT REGLEMENT ET QUE VOUS VOUS Y CONFORMEREZ.
+OTU73=VOUS CONVENEZ EN OUTRE QUE LE PRESENT REGLEMENT S'APPLIQUE A TOUTE PERSONNE QUE VOUS AUTORISEZ A UTILISER VOTRE COMPTE OU VOTRE NOM D'UTILISATEUR, ET QUE VOUS ETES PERSONNELLEMENT RESPONSABLE DES CONSEQUENCES (PARMI LESQUELLES LA CLOTURE DE VOTRE COMPTE) QUI POURRAIENT RESULTER DU NON-RESPECT, PAR CETTE PERSONNE, DU PRESENT REGLEMENT. VOUS CONVENEZ QUE VOUS AVEZ LU ATTENTIVEMENT ET QUE VOUS COMPRENEZ LES CONDITIONS ENONCEES DANS LES PRESENTES.
+
+[QuitMessage]
+QuitMessageForPatch=VOULEZ-VOUS QUITTER SPLINTER CELL: CHAOS THEORY ET LANCER LE PROCESSUS DE MISE A JOUR ?
+QuitMessageForVoiceConfig=SOUHAITEZ-VOUS QUITTER SPLINTER CELL: CHAOS THEORY ET LANCER L'ASSISTANT DE CONFIGURATION VOCALE ?
+
+[MenuSettings]
+Title=Paramètres
+Save=SAUVEGARDER
+Reset=PAR DÉFAUT
+Controls=COMMANDES
+Display=AFFICHAGE
+Sounds=AUDIO
+SaveBeforeQuitTitle=PARAMETRES MODIFIES
+SaveBeforeQuitMsg=VOS PARAMETRES ONT ETE MODIFIES. VOULEZ-VOUS LES SAUVEGARDER AVANT DE QUITTER ?
+VoiceVolume=VOLUME DES VOIX
+MusicVolume=VOLUME DE LA MUSIQUE
+AmbientVolume=VOLUME D'AMBIANCE
+SFXVolume=VOLUME DES BRUITAGES
+Advanced=AVANCE
+Brightness=LUMINOSITE
+Contrast=CONTRASTE
+Resolution=AFFICHER LA RESOLUTION
+Fullscreen=PLEIN ECRAN
+Windowmode=MODE FENETRE
+RefreshRate=TAUX DE RAFRAICHISSEMENT DU MONITEUR
+Shader=TYPE DE MODELE DE SHADER
+Antialiasing=ANTI-ALIAS
+TextureFiltering=FILTRAGE ANISOTROPIQUE
+ShadowQuality=RESOLUTION DES OMBRES
+TrilinearFiltering=FILTRAGE TRI-LINEAIRE
+SpecularLighting=ECLAIRAGE SPECULAIRE
+HiResTextures=TEXTURES DE HAUTE QUALITE
+ANISO 2X=ANISOTROPIQUE 2X
+ANISO 4X=ANISOTROPIQUE 4X
+ANISO 8X=ANISOTROPIQUE 8X
+ANISO 16X=ANISOTROPIQUE 16X
+AA 1X=ANTI-ALIAS 1X
+AA 2X=ANTI-ALIAS 2X
+AA 3X=ANTI-ALIAS 3X
+AA 4X=ANTI-ALIAS 4X
+AA 5X=ANTI-ALIAS 5X
+AA 6X=ANTI-ALIAS 6X
+AA 7X=ANTI-ALIAS 7X
+AA 8X=ANTI-ALIAS 8X
+AA 9X=ANTI-ALIAS 9X
+AA 10X=ANTI-ALIAS 10X
+AA 11X=ANTI-ALIAS 11X
+AA 12X=ANTI-ALIAS 12X
+AA 13X=ANTI-ALIAS 13X
+AA 14X=ANTI-ALIAS 14X
+AA 15X=ANTI-ALIAS 15X
+AA 16X=ANTI-ALIAS 16X
+LOW=FAIBLE
+MEDIUM=INTERMEDAIRE
+HIGH=ELEVE
+VERY HIGH=TRÈS HAUT
+NONE=AUCUN
+ENABLED=ACTIVE
+DISABLED=DESACTIVE
+OFF=NON
+ON=OUI
+YES=OUI
+NO=NON
+CANCEL=ANNULER
+SM 1.1=SHADER MODELE 1.1
+SM 2.0=SHADER MODELE 2.0
+SM 3.0=SHADER MODELE 3.0
+MouseSensitivity=SENSIBILITE DE LA SOURIS
+InvertMouse=INVERSION DE LA SOURIS
+PressAKey=APPUYEZ SUR UNE TOUCHE POUR MODIFIER L'ASSIGNATION ACTUELLE
+EscCancel=ECHAP POUR ANNULER
+Joystick=JOYSTICK
+UseJoystick=UTILISER LE JOYSTICK
+CurrentJoystick=JOYSTICK ACTUEL :
+HDRRendering=RENDU HDR
+HighQualityShadows=OMBRES DOUCES DE HAUTE QUALITE
+ParallaxMapping=ASSIGNATION PARALLAXE
+ToneMapping=ASSIGNATION DES TEINTES
+HighQualitySkin=PEAU DE HAUTE QUALITE
+ShaderOptions=OPTIONS DE SHADER
+AcceptShaderOptions=ACCEPTER
+JoyDefaultNotFoundTitle=CONFIGURATION PAR DEFAUT INTROUVABLE
+JoyDefaultNotFoundMsg=CE JEU NE FONCTIONNE PAS AVEC UN JOYSTICK. IMPOSSIBLE DE CHARGER LA CONFIGURATION PAR DEFAUT.
+HWShadowMapping=ASSIGNATION DES OMBRES MATERIELLES
+VerticalSync=SYNCHRO VERTICALE
+VoiceChatEnable=DISCUSSION VOCALE
+VoiceChatEnableUnAvail=DISCUSSION VOCALE (NON DISPONIBLE)
+VoiceChatErrorTitle=VOICE CHAT NON DISPONIBLE
+VoiceChatMsg=POUR ACTIVER L'OPTION COMMUNICATION VOCALE, VOUS DEVEZ CONFIGURER VOTRE MICRO GRACE A L'UTILITAIRE DE CONFIGURATION. QUITTEZ LA PARTIE ET OUVREZ L'UTILITAIRE DE CONFIGURATION DU DOSSIER DU MENU DEMARRER DE SPLINTER CELL CHAOS THEORY.
+VoiceConfig=SENSIBILITE DE L'ENVIRONNEMENT VOCAL
+OriginalVoices=UTILISER LES LANGUES NATALES
+ULTRA HIGH=ULTRA-ELEVE
+
+[Keys]
+Title_Move=DEPLACEMENT
+K_MoveForward=Avancer
+K_MoveBackward=Reculer
+K_StrafeLeft=Déplacement à gauche
+K_StrafeRight=Déplacement à droite
+K_Duck=S'accroupir/se relever
+K_DuckJoystick=S'accroupir/se relever/quitter l'interaction
+K_Accel=Zoom avant/accélérer
+K_Decell=Zoom arrière/décélérer
+k_BackToWall=Dos au mur/changer de main
+K_SwitchHandZoom=Dos au mur/changer de main/zoom avant/arrière
+
+Title_Actions=ACTIONS
+K_Fire=Tirer
+K_AltFire=Tir secondaire
+K_Scope=Utiliser/s'équiper
+K_Jump=Saut/saut écart
+K_Interaction=Interaction
+K_Reload=Recharger
+K_SwitchROF=Cadence de tir
+K_Whistle=Siffler
+K_ResetCamera=Réinitialiser la caméra
+K_Pause=Pause
+K_SwitchAttach=Changer d'accessoire
+K_InteractionReload=Interaction/recharger
+K_CoopWhistle=Siffler/action coopérative
+
+Title_Visions=MODES DE VISION
+K_Opsat=Opsat
+K_ZoomToggle=Vision EEV/zoom/sniper
+K_NightVision=Vision nocturne
+K_HeatVision=Vision thermique
+K_EEVVision=Vision EEV
+K_StickyCam=Vision par caméra-glu
+
+Title_Inventory=INVENTAIRE
+K_QuickInventory=Inventaire rapide
+K_FullInventory=Inventaire complet
+K_NextGadget=Arme suivante
+K_PrevGadget=Arme précédente
+K_QuickInventoryJoystick=Inventaire rapide/changer d'accessoire
+
+Title_Coop=COOP
+K_ShowChatIngame=Afficher discussion en cours de partie
+K_CoopAction=Action coopérative
+
+Title_System=SYSTEME
+K_PauseMenu=Menu de pause
+K_QuickSave=Sauvegarde rapide
+K_QuickLoad=Chargement rapide
+
+MENU=MENU
+CTRLOpsat=Montre-satellite
+CTRLPauseMenu=Menu de pause
+
+[Interactions]
+IK_None=Aucun
+IK_DPadUp=Flèche dir. haut
+IK_DPadDown=Flèche dir. bas
+IK_DPadLeft=Flèche dir. gauche
+IK_DPadRight=Flèche dir. droite
+IK_XButton4=BT 4 souris
+IK_XButton5=BT 5 souris
+//
+//Below Interactions were translated in Pandora
+//
+IK_LeftMouse=BT gauche souris
+IK_RightMouse=BT droite souris
+IK_Cancel=Annuler
+IK_MiddleMouse=BT central souris
+IK_Unknown05=Unknown05
+IK_Unknown06=Unknown06
+IK_Unknown07=Unknown07
+IK_Backspace=Retour
+IK_Tab=Tab
+IK_Unknown0A=Unknown0A
+IK_Unknown0B=Unknown0B
+IK_Unknown0C=Unknown0C
+IK_Enter=Entrée
+IK_Unknown0E=Unknown0E
+IK_Unknown0F=Unknown0F
+IK_Shift=Maj
+IK_Ctrl=Ctrl
+IK_Alt=Alt
+IK_Pause=Pause
+IK_CapsLock=Verr maj
+IK_Unknown15=Unknown15
+IK_Unknown16=Unknown16
+IK_Unknown17=Unknown17
+IK_Unknown18=Unknown18
+IK_Unknown19=Unknown19
+IK_Unknown1A=Unknown1A
+IK_Escape=Echap
+IK_Unknown1C=Unknown1C
+IK_Unknown1D=Unknown1D
+IK_Unknown1E=Unknown1E
+IK_Unknown1F=Unknown1F
+IK_Space=Barre espace
+IK_PageUp=Pg suiv
+IK_PageDown=Pg prec
+IK_End=Fin
+IK_Home=Origine
+IK_Left=Flèche gauche
+IK_Up=Flèche haut
+IK_Right=Flèche droite
+IK_Down=Flèche  bas
+IK_Select=Select
+IK_Print=Impression
+IK_Execute=Exécuter
+IK_PrintScrn=Impr écran
+IK_Insert=Inser
+IK_Delete=Suppr
+IK_Help=Aide
+IK_Unknown3A=Unknown3A
+IK_Unknown3B=Unknown3B
+IK_Unknown3C=Unknown3C
+IK_Unknown3D=Unknown3D
+IK_Unknown3E=Unknown3E
+IK_Unknown3F=Unknown3F
+IK_Unknown40=Unknown40
+IK_Unknown5B=Unknown5B
+IK_Unknown5C=Unknown5C
+IK_Unknown5D=Unknown5D
+IK_Unknown5E=Unknown5E
+IK_Unknown5F=Unknown5F
+IK_NumPad0=PN 0
+IK_NumPad1=PN 1
+IK_NumPad2=PN 2
+IK_NumPad3=PN 3
+IK_NumPad4=PN 4
+IK_NumPad5=PN 5
+IK_NumPad6=PN 6
+IK_NumPad7=PN 7
+IK_NumPad8=PN 8
+IK_NumPad9=PN 9
+IK_GreyStar=PN *
+IK_GreyPlus=PN +
+IK_Separator=Séparateur
+IK_GreyMinus=PN -
+IK_NumPadPeriod=PN .
+IK_GreySlash=PN /
+IK_Unknown88=Unknown88
+IK_Unknown89=Unknown89
+IK_Unknown8A=Unknown8A
+IK_Unknown8B=Unknown8B
+IK_Unknown8C=Unknown8C
+IK_Unknown8D=Unknown8D
+IK_Unknown8E=Unknown8E
+IK_Unknown8F=Unknown8F
+IK_NumLock=Verr num
+IK_ScrollLock=Arrêt défil
+IK_Unknown92=Unknown92
+IK_Unknown93=Unknown93
+IK_Unknown94=Unknown94
+IK_Unknown95=Unknown95
+IK_Unknown96=Unknown96
+IK_Unknown9B=Unknown9B
+IK_Unknown9C=Unknown9C
+IK_Unknown9D=Unknown9D
+IK_Unknown9E=Unknown9E
+IK_Unknown9F=Unknown9F
+IK_LShift=Maj gauche
+IK_RShift=Maj droit
+IK_LControl=Ctrl gauche
+IK_RControl=Ctrl droit
+IK_UnknownA4=UnknownA4
+IK_UnknownA5=UnknownA5
+IK_UnknownA6=UnknownA6
+IK_UnknownA7=UnknownA7
+IK_UnknownA8=UnknownA8
+IK_UnknownA9=UnknownA9
+IK_UnknownAA=UnknownAA
+IK_UnknownAB=UnknownAB
+IK_UnknownAC=UnknownAC
+IK_UnknownAD=UnknownAD
+IK_UnknownB0=UnknownB0
+IK_UnknownB1=UnknownB1
+IK_UnknownB2=UnknownB2
+IK_UnknownB3=UnknownB3
+IK_UnknownB4=UnknownB4
+IK_UnknownB5=UnknownB5
+IK_UnknownB6=UnknownB6
+IK_UnknownB7=UnknownB7
+IK_UnknownB8=UnknownB8
+IK_UnknownB9=UnknownB9
+IK_Semicolon=;
+IK_Equals==
+IK_Comma=,
+IK_Minus=-
+IK_Period=.
+IK_Slash=/
+IK_Tilde=~
+IK_UnknownC1=UnknownC1
+IK_UnknownC2=UnknownC2
+IK_UnknownC3=UnknownC3
+IK_UnknownC4=UnknownC4
+IK_UnknownC5=UnknownC5
+IK_UnknownC6=UnknownC6
+IK_UnknownC7=UnknownC7
+IK_Joy1=Joy 1
+IK_Joy2=Joy 2
+IK_Joy3=Joy 3
+IK_Joy4=Joy 4
+IK_Joy5=Joy 5
+IK_Joy6=Joy 6
+IK_Joy7=Joy 7
+IK_Joy8=Joy 8
+IK_Joy9=Joy 9
+IK_Joy10=Joy 10
+IK_Joy11=Joy 11
+IK_Joy12=Joy 12
+IK_Joy13=Joy 13
+IK_Joy14=Joy 14
+IK_Joy15=Joy 15
+IK_Joy16=Joy 16
+IK_UnknownD8=UnknownD8
+IK_UnknownD9=UnknownD9
+IK_UnknownDA=UnknownDA
+IK_LeftBracket={
+IK_Backslash=\
+IK_RightBracket=}
+IK_SingleQuote= ' 
+IK_UnknownDF=UnknownDF
+IK_JoyX=Axe X joy
+IK_JoyY=Axe Y joy
+IK_JoyZ=Axe Z joy
+IK_JoyR=Joy R
+IK_MouseX=Axe X souris
+IK_MouseY=Axe Y souris
+IK_MouseZ=Axe Z souris
+IK_MouseW=Molette souris
+IK_JoyU=Joy U
+IK_JoyV=Joy V
+IK_UnknownEA=UnknownEA
+IK_UnknownEB=UnknownEB
+IK_MouseWheelUp=Molette souris ht
+IK_MouseWheelDown=Molette souris bs
+IK_Unknown10E=Unknown10E
+IK_Unknown10F=Unknown10F
+IK_UnknownF0=UnknownF0
+IK_UnknownF1=UnknownF1
+IK_UnknownF2=UnknownF2
+IK_UnknownF3=UnknownF3
+IK_UnknownF4=UnknownF4
+IK_UnknownF5=UnknownF5
+IK_Attn=Attn
+IK_CrSel=CrSel
+IK_ExSel=ExSel
+IK_ErEof=ErEof
+IK_Play=Lecture
+IK_Zoom=Zoom
+IK_NoName=NoName
+IK_PA1=PA1
+IK_OEMClear=OEMClear
+IK_Unknown97=Unknown97
+IK_Unknown98=Unknown98
+IK_Unknown99=Unknown99
+IK_Unknown9A=Unknown9A
+IK_UnknownAE=UnknownAE
+IK_UnknownAF=UnknownAF
+
+[OPTIONSTITLE]
+VoiceOriginal=VERSION ORIGINALE
+
+[CDKEY]
+VerifyingCDKey=Vérification de la clé CD...
+RetryingCDKeyVerification=Nouvelle tentative de vérification de la clé CD...
+IncompleteCDKey=La clé CD que vous avez entrée est incomplète.
+InvalidCDKey=La clé CD que vous avez entrée n'est pas valable.
+CDKeyAlreayOnline=La clé CD que vous avez entrée est déjà utilisée par un autre joueur.
+CDkeyServerError=Le serveur de clés CD d'ubi.com a retourné une erreur. Veuillez réessayer.
+CDkeyServerTimeout=La connexion a expiré avant d'atteindre le serveur de clés CD d'ubi.com.
+
+[CHAT]
+ChatUnavailable=DISCUSSION ACTUELLEMENT INDISPONIBLE
+
+[AUTHENTICATION]
+ModifyAccountPasswordMismatch=LES MOTS DE PASSE QUE VOUS AVEZ ENTRES NE SONT PAS IDENTIQUES.
+CreateAccountNameExist=LE NOM DE COMPTE DEMANDE EXISTE DEJA.
+CreateAccountNameMalformed=LE NOM DE COMPTE DEMANDE N'EST PAS VALABLE. IL DOIT COMPRENDRE ENTRE 3 ET 15 CARACTERES, ET ETRE EXCLUSIVEMENT CONSTITUE DE LETTRES ET/OU DE CHIFFRES.
+CreateAccountNameForbidden=LE NOM DE COMPTE DEMANDE EST INTERDIT.
+CreateAccountNameReserved=LE NOM DE COMPTE DEMANDE A ETE RESERVE PAR LES MODERATEURS.
+CreateAccountPwdMalformed=LE MOT DE PASSE DEMANDE A ETE MAL FORMULE.
+CreateAccountPwdForbidden=LE MOT DE PASSE DEMANDE EST INTERDIT.
+CreateAccountDBFailed=CREATION DE COMPTE IMPOSSIBLE. LE SERVICE EST PEUT-ETRE HORS LIGNE.
+ModifyAccountInvalidCountry=LE CODE PAYS FOURNI N'EST PAS VALABLE.
+LoginAccountDBFailed=CONNEXION IMPOSSIBLE, IL SE PEUT QUE LE SERVEUR SOIT HORS LIGNE.
+LoginAccountInvalidPassword=MOT DE PASSE NON VALABLE.
+LoginAccountBannedAccount=COMPTE EXCLU.
+LoginAccountBlockedAccount=COMPTE BLOQUE.
+LoginAccountLockedAccount=COMPTE VERROUILLE.
+LoginAccountInvalidAccount=LE COMPTE DEMANDE N'EXISTE PAS.
+LoginAccountNotDisconnected=LE SERVEUR N'A PAS ENCORE DETECTE VOTRE DECONNEXION. VEUILLEZ REESSAYER D'ICI QUELQUES MINUTES.
+LoginAccountServiceNotAvailable=CONNEXION IMPOSSIBLE AU RESEAU DU SERVICE DE JEU. LE SERVICE N'EST PAS DISPONIBLE.
+LoginAccountInternalError=CONNEXION IMPOSSIBLE, UNE ERREUR INTERNE S'EST PRODUITE.
+ErrorRouterNotRegistered=VOUS N'ETES PAS INSCRIT. COMMENCEZ PAR CREER UN NOUVEAU COMPTE.
+ErrorRouterPasswordNotCorrect=VOTRE MOT DE PASSE EST INCORRECT.
+ErrorRouterNotDisconnected=LE RESEAU DU SERVICE DE JEU N'A PAS ENCORE DETECTE VOTRE DECONNEXION. VEUILLEZ REESSAYER D'ICI QUELQUES MINUTES.
+ErrorRouterFriendsNotAvailable=LE SERVEUR DES AMIS N'EST PAS DISPONIBLE.
+ErrorRouterNameAlreadyUsed=UN JOUEUR PORTANT LE MEME NOM QUE VOUS EST DEJA CONNECTE.
+ErrorRouterPlayerNotConnected=CE JOUEUR N'EST PAS ACTUELLEMENT CONNECTE AU SERVICE DE JEU.
+ErrorRouterPlayerNotRegistered=CE JOUEUR N'EST PAS ENREGISTRE AU SERVICE DE JEU.
+ErrorRouterPlayerConnected=LE NOM QUE VOUS AVEZ CHOISI EST DEJA UTILISE PAR UN AUTRE JOUEUR.
+ErrorRouterPlayerAlreadyRegistered=VOUS ETES DEJA ENREGISTRE.
+ErrorRouterClientVersionTooOld=LA VERSION DE SPLINTER CELL: CHAOS THEORY QUE VOUS UTILISEZ EST TROP VIEILLE. IL EST IMPOSSIBLE DE LA METTRE A JOUR.
+ErrorRouterClientIncompatible=CETTE VERSION DE SPLINTER CELL: CHAOS THEORY EST INCOMPATIBLE. VERIFIEZ S'IL EXISTE DES MISES A JOURS.
+ErrorRouterUnknownError=ERREUR INCONNUE DU SERVEUR D'AUTHENTIFICATION. VEUILLEZ REESAYER ULTERIEUREMENT.
+LogoffWarning=SOUHAITEZ-VOUS VOUS DECONNECTER DU SERVICE DE JEU ?
+
+[FRIENDSLIST]
+ErrorFriendsDatabaseFailed=UNE ERREUR DE BASE DE DONNEES S'EST PRODUITE, VEUILLEZ REESSAYER
+ErrorFriendsFriendsNotExist=LE JOUEUR N'EXISTE PAS
+ErrorFriendsNotInArena=LE JOUEUR N'EST PAS CONNECTE A UBI.COM
+ErrorFriendsNotOnline=LE JOUEUR N'EST PAS EN LIGNE
+ErrorFriendsNotInSession=LE JOUEUR NE PARTICIPE PAS A UNE PARTIE
+ErrorFriendsPlayerIgnore=LE JOUEUR A DECIDE DE VOUS IGNORER
+ErrorFriendsAlreadyConnected=DEJA CONNECTE AU SERVEUR DES AMIS
+ErrorFriendsNoMorePlayers=LE SERVEUR DES AMIS NE PEUT PAS ACCEPTER D'AUTRES JOUEURS
+ErrorFriendsNoPlayerScore=LE JOUEUR N'A PAS DE SCORE DANS LA BASE DE DONNEES     
+ErrorFriendsSearchPlayerFinished=LA RECHERCHE DE JOUEURS EST TERMINEE
+ErrorFriendsCoreOnline=LE JOUEUR NE PEUT PAS RECEVOIR DE MESSAGES POUR LE MOMENT
+ErrorFriendsInboxFull=LA BOITE A LETTRES DU JOUEUR EST PLEINE. AUCUN AUTRE MESSAGE NE SERA SAUVEGARDE
+ErrorFriendsUnknownError=ERREUR INCONNUE AU NIVEAU DU SERVEUR DES AMIS. VEUILLEZ REESSAYER
+
+
+
+[LOBBY]
+LobbyMsgJoiningBaseLobby=CONNEXION A L'ACCUEIL : %s
+LobbyErrorGroupNotExist=LE SERVEUR N'EXISTE PAS
+LobbyErrorGameNotAllowed=CETTE PARTIE NE PEUT PAS EFFECTUER CETTE OPERATION
+LobbyErrorSpectatorNotAllowed=AUCUN SPECTATEUR AUTORISE POUR CETTE PARTIE
+LobbyErrorNomorePlayerAllowed=LE NOMBRE DE JOUEURS MAXIMUM A ETE ATTEINT POUR CE SERVEUR
+LobbyErrorNoMoreSpectatorsAllowed=LE NOMBRE DE SPECTATEURS MAXIMUM A ETE ATTEINT POUR CE SERVEUR
+LobbyErrorNoMoreMembersAllowed=LE NOMBRE DE JOUEURS MAXIMUM A ETE ATTEINT POUR CET ACCUEIL
+LobbyErrorMemberNotRegistered=LE JOUEUR N'EST PAS INSCRIT
+LobbyErrorGameInProgress=LA PARTIE EST DEJA EN COURS
+LobbyErrorWrongGameVersion=VOTRE VERSION DU JEU N'EST PAS VALABLE POUR CE SERVEUR
+LobbyErrorPasswordNotCorrect=LE PASSEPORT EST INCORRECT
+LobbyErrorAlreadyInGroup=VOUS FAITES DEJA PARTIE DE CE GROUPE
+LobbyErrorNotMaster=VOUS NE POUVEZ PAS EFFECTUER CETTE OPERATION CAR CE N'EST PAS VOUS QUI AVEZ CREE CETTE SESSION
+LobbyErrorNotInGroup=VOUS NE FAITES PAS PARTIE DU GROUPE SPECIFIE
+LobbyErrorMinPlayerNotReach=LE NOMBRE DE JOUEURS MINIMUM N'A PAS ETE ATTEINT
+LobbyErrorConnectAddConnection=CONNEXION IMPOSSIBLE AVEC LE SERVEUR DE L'ACCUEIL. VEUILLEZ REESSAYER
+LobbyErrorConnectSendLogin=ECHEC D'ENVOI DU LOGIN AU SERVEUR DE L'ACCUEIL. VEUILLEZ REESSAYER
+LobbyErrorErrorLoginMessage=ECHEC DE CONNEXION AU SERVEUR DE L'ACCUEIL. VEUILLEZ REESSAYER
+LobbyErrorNoHostLobbyServer=LE SERVEUR D'ACCUEIL SPECIFIE N'EXISTE PAS
+LobbyErrorLobbyServerDisconnected=VOUS AVEZ ETE DECONNECTE DU SERVEUR DE L'ACCUEIL
+LobbyErrorInvalidGroupName=LE NOM DU SERVEUR N'EST PAS VALABLE OU EST DEJA UTILISE. VEUILLEZ EN CHOISIR UN AUTRE
+LobbyErrorInvalidGameType=LE TYPE DE PARTIE N'EST PAS VALABLE, VEUILLEZ EN ESSAYER UN AUTRE
+LobbyErrorNoMoreGameModule=IL N'Y A PLUS DE MODULES DE JEU DISPONIBLES
+LobbyErrorCreateNotAllowed=VOUS NE POUVEZ PAS CREER UN SERVEUR AU NIVEAU DE CET ACCUEIL
+LobbyErrorGroupClosed=LE SERVEUR EST FERME. VEUILLEZ EN ESSAYER UN AUTRE
+LobbyErrorWrongGroupType=LE TYPE DE SERVEUR N'EST PAS VALABLE, VEUILLEZ REESSAYER
+LobbyErrorMemberNotFound=LE JOUEUR SPECIFIE N'A PAS PU ETRE TROUVE. VEUILLEZ REESSAYER
+LobbyErrorMatchNotExist=LE MATCH SPECIFIE N'A PAS PU ETRE TROUVE. VEUILLEZ REESSAYER
+LobbyErrorMatchNotFinished=LE MATCH N'EST PAS ENCORE TERMINE, VEUILLEZ REESSAYER ULTERIEUREMENT
+LobbyErrorGameNotInitiated=LA PARTIE N'A PAS ENCORE COMMENCE
+LobbyErrorBeginAlreadyDone=LA PARTIE A DEJA COMMENCE
+LobbyErrorMatchAlreadyFinishedForYou=LE MATCH EST DEJA TERMINE
+LobbyErrorMatchScoreSubmissionFail=ECHEC D'ENVOI DU SCORE
+LobbyErrorMatchScoreSubmissionAlreadySent=SCORE DEJA ENVOYE A LA BASE DE DONNEES
+LobbyErrorMatchResultProcessNotFinished=LE CALCUL DES RESULTATS N'EST PAS ENCORE TERMINE
+LobbyErrorMemberBanned=VOUS AVEZ ETE EXCLU DE CE SERVEUR
+LobbyErrorPasseportFailed=VOTRE PASSEPORT N'EST PAS VALABLE
+LobbyErrorNotCreator=VOUS NE POUVEZ PAS EFFECTUER CETTE OPERATION CAR CE N'EST PAS VOUS QUI AVEZ CREE CETTE SESSION
+LobbyErrorGameNotFinished=LA PARTIE N'EST PAS ENCORE TERMINEE, VEUILLEZ REESSAYER ULTERIEUREMENT
+LobbyErrorPassportTimeOut=LE PASSEPORT DU JOUEUR N'EST PLUS VALABLE
+LobbyErrorPassportNotFound=LE PASSEPORT DU JOUEUR N'A PAS ETE TROUVE
+LobbyErrorGroupAlreadyExist=UN SERVEUR PORTANT CE NOM EXISTE DEJA. VEUILLEZ REESSAYER
+LobbyErrorUnknownLobbyError=ERREUR INCONNUE AU NIVEAU DU SERVEUR DE L'ACCUEIL. VEUILLEZ REESSAYER
+AllPlayersNotReady=VOTRE COEQUIPIER N'EST PAS ENCORE PRET.
+ErrorNoPlayerToKick=PAS DE JOUEUR A EXCLURE.
+LobbyPlayerBanned=VOUS AVEZ ETE EXCLU DU SERVEUR.
+ServerPasswordProtectionTitle=PROTECTION PAR MOT DE PASSE DU SERVEUR
+ServerPasswordEditCaption=ENTREZ VOTRE MOT DE PASSE POUR REJOINDRE CE SERVEUR
+
+
+
+[MessageWindow]
+DirectXInitFailure=Echec d'initialisation de DirectX
+DirectXMissingShaderModel=Votre carte graphique ne prend pas en charge les fonctionnalités requises pour faire fonctionner le jeu (shader model 1.1, disponible sur NVIDIA GeForce 3/ATI Radeon 8500 ou mieux). Veuillez contacter votre fournisseur de carte graphique pour de plus amples précisions.
+DirectXNo32BitDesktop=Réglez votre bureau sur 32 couleurs
+
+[Computer]
+Exit=SORTIR
+Close=FERMER
+
+[Loading]
+PressKey=APPUYEZ SUR UNE TOUCHE
+PressSpace=BARRE D'ESPACE POUR CONTINUER
+LoadingMsg=CHARGEMENT...
+LoadingDone=TERMINE
+
+[MenuTraining]
+TrainingKeyboardWarning=LES DIDACTICIELS SUIVANTS ONT ETE CREES AVEC LA CONFIGURATION DES TOUCHES PAR DEFAUT.
+
+[LOADSAVE]
+LoadGameErrorTitle=SAUVEGARDE ENDOMMAGEE
+LoadGameErrorMsg=CETTE SAUVEGARDE SEMBLE ENDOMMAGEE ET NE PEUT ETRE CHARGEE. SOUHAITEZ-VOUS L'EFFACER ?

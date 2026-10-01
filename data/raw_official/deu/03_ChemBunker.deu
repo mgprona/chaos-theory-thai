@@ -1,0 +1,44 @@
+[GENERAL]
+MapName=CHEMIEBUNKER
+Briefing_LAMBERT=Im Verhör durch Spezialagent Jack Baxter gestand Jong Pom-chu, streng geheime Forschungsergebnisse über Bio-Waffen an Agenten des nordkoreanischen Geheimdiensts weitergegeben zu haben. Der Geheimdienst erpresste ihn anschließend dazu, streng kontrollierte Ausrüstung zur Virusherstellung zu besorgen, die er für sie durch Panama schmuggelte. Unsere Überprüfung von Jongs Telekommunikations-Aktivitäten in den letzten Monaten weist darauf hin, dass die nordkoreanische Regierung sein Wissen und seine Ausrüstung für die Herstellung von Biowaffen in einer Reihe von alten Bunkern in der Nähe von Namp'o-si verwenden könnte. Eure Aufgabe ist es, in den Bunkerkomplex einzudringen, vorhandene chemische oder biologische Waffen zu identifizieren und Proben der dort entwickelten Erreger zu sammeln.
+Briefing=AUFGABE
+
+[Computer]
+CompDisableCameraSystem=Kamerasystem deaktivieren
+
+[Email]
+EmailVirusProtocolBody=Unsere Forschungsabteilung hat endlich ein funktionierendes Protokoll für den Antivirus entdeckt. Sie brauchen eine Serumprobe von den Affen und zwei unterschiedliche chemiische Komponenten. Die entsprechenden Protokollzutaten wurden an diese Mail angehängt.
+EmailVirusProtocolDate=12.Oktober 2007
+EmailVirusProtocolFrom=Pok
+EmailVirusProtocolSubject=Antivirus-Protokoll
+EmailVirusProtocolTo=Kim
+
+EmailCryoTankBody=Übringens: Die verschiedenen Bestandteile müssen entsprechend der vom Protokoll vorgegebenen Reihenfolge gemischt werden. Logischerweise sind dafür zwei Leute erforderlich. Vorsicht, die Sache ist nicht ganz ungefährlich.
+EmailCryoTankDate=12/10/2007
+EmailCryoTankFrom=Pok
+EmailCryoTankSubject=Nachtrag zum Protokoll
+EmailCryoTankTo=Kim
+
+EmailWarheadBody=Um die neue Probe in den Träger einzusetzen, musst du den Sprengkopf öffnen. Der Code für das Gehäuse ist 1961. Halte ihn streng geheim. Dein Leben hängt davon ab.
+EmailWarheadDate=12/10/2007
+EmailWarheadFrom=Bae
+EmailWarheadSubject=Zugang zum Sprengkopf
+EmailWarheadTo=Kim
+
+EmailCountingMonkeyBody=Pok, du denkst jetzt wahrscheinlich, ich wäre verrückt, aber die kleine Java kann zählen! Wenn ich ihr Bananen vor die Nase halte, kreischt sie einmal pro Frucht. Unglaublich! Ich seh mir das noch genauer an. Ich schlage ausserdem vor, dass du einen Gentest durchführst, um herauszufinden, ob unsere Experimente einen bisher unbekannten rekombinanten Effekt haben könnten. Ihr Blut ist im Kühlschrank. Der Code lautet 1423.
+EmailCountingMonkeyDate=12/10/2007
+EmailCountingMonkeyFrom=Joo
+EmailCountingMonkeySubject=Sprechender Affe?
+EmailCountingMonkeyTo=Pok
+
+EmailCraneBody=Hey Kim, sie haben endlich den Kran repariert. Sobald der Kranführer wieder da ist, können wir das Verladen der Raketen abschlieSSenj. Selber mache ich das nicht, ich will nicht Schuld an einem Unfall sein. 
+EmailCraneDate=12/10/2007
+EmailCraneFrom=Kim
+EmailCraneSubject=Der Kran funktioniert wieder
+EmailCraneTo=Bae
+
+EmailDisarmingWarheadsBody=Wenn du das Raketengehäuse geöffnet hast, musst du erst den Sicherheitsmechanismus deaktivieren, falls du das Gift aus dem Sprengkopf entfernen willst. Dazu schneidest du die beiden stromführenden Kabel gleichzeitig durch. Ich empfehle dir dringend, das zu zweit zu machen.
+EmailDisarmingWarheadsDate=12/10/2007
+EmailDisarmingWarheadsFrom=Bae
+EmailDisarmingWarheadsSubject=SPRENGKÖPFE DEAKTIVIEREN
+EmailDisarmingWarheadsTo=Kim

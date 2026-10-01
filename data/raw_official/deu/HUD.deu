@@ -1,0 +1,146 @@
+[CRYOTANK]
+BloodTypeA=Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe A
+BloodTypeB=Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe B
+BloodTypeO=Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe 0
+FormulaPlayerA=Antiviren-Protokoll Benutzer Eins = 
+FormulaPlayerB=Antiviren-Protokoll Benutzer Zwei = 
+CryoColorBlue=D Blau
+CryoColorRed=B Rot
+CryoColorViolet=C Violett
+CryoColorGreen=A Grün
+CryoColorYellow=E Gelb
+CryoColorAqua=F Aquamarin
+CryoColorError=FEHLER
+
+[Transmission]
+PickUp=Aufheben
+NoPickUp=Sie tragen zu viele 
+SatchelFind=vom Ranzen geborgen
+BodyFound=Körper gefunden ... Alarmstufe erhöht
+ComputerPickUp=Datenstick aus Computer entnommen
+DoorLock=Tür abgeschlossen
+DoorJam=Schloss verklemmt
+DoorPick=Türschloss geknackt
+ElevatorPower=Aufzug ist ohne Strom
+MedKitNotUsed=Lebensenergie voll
+MedKitUsed=Medi-Kit benutzt. Lebensenergie wird wieder aufgeladen
+
+[Interaction]
+Exit=Zurück zum Spiel...
+Abort=Abbrechen
+Alarm=Alarm benutzen
+Bomb=Bombe entschärfen
+C4=C4 platzieren
+CallElevator=Aufzug rufen
+ChargePlace=Sprengladg platzieren
+ChargeDetonate=Sprengladung zünden
+Computer=Computer benutzen
+ComputerBoot=Computer starten
+ComputerShut=Computer abschalten
+Crane=Kran benutzen
+Cryo=Cryo-Behälter benutz.
+CryoComm=Anweisungen durchgeb
+Cuffs=Handschellen knacken
+Defuse=Entschärfen
+DoorOpen=Tür öffnen
+DoorStealth=Tür leise öffnen
+DoorBash=Tür aufbrechen
+DoorBreak=Schloss aufbrechen
+DoorClose=Tür schlieSSen
+DoorPick=Schloss knacken
+DoorOptic=Optisches Kabel
+DoorSlideOpen=Aufschieben
+DoorSlideClose=LANGSAM SCHLIESSEN
+Elevator=Aufzug benutzen
+Extraction=Extraktionspunkt
+GeneratorSwitch=Umschalten
+GeneratorPierce=Durchstechen
+HotWire=Stromkreis überbrücken
+KeyPad=Codeschloss benutzen
+KeyPadHack=Codeschloss hacken
+MedKit=Medi-Kit benutzen
+Mic=Mikrofon deaktivieren
+Missile=Rakete deaktivieren
+Morgenhault=Morgenholt befreien
+NpcZone0=Überwältigen
+NpcZone1=Charakter überwältig
+NpcZone2=Verhören
+NpcZone3=Reden mit
+NpcZone4=...
+NpcZone5=FWD-Komm
+NpcZone6=Körper
+Otomo=Otomo retten
+Pickup=Aufheben
+Pierce=Durchstechen
+Pump=Pumpe aktivieren
+Rappel=An Wand abseilen
+RetSafe=Retina-Safe benutzen
+RetScan=Retina-Scan. benutzen
+RetScanHack=Retina-Scanner hacken
+SearchCabinet=Schrank durchsuchen
+TapPhone=Tel.-Leitung Anzapfen
+TelemetricPlace=Telmet-Empfgr platzier
+TelemetricPick=Schloss knacken
+Trap=FALLTÜRE ÖFFNEN
+TrapPick=Falle entschärfen
+TrapOptic=Optisches Kabel
+TurretActDeact=Aktivieren/Deaktivier
+TurretHack=Auto-Kanone hacken
+TurretIFFOn=IFF einschalten
+TurretIFFOff=IFF ausschalten
+Switch=Objekt wechseln
+Turret=Mit Geschützturm interagieren
+WallMine=Haftmine entschärfen
+Window=Aufschieben
+BugPhone=Telefon verwanzen
+BlowCandle=Kerze ausblasen
+Grabequipment=Ausrüstung nehmen
+Detach=Ablösen
+PlaceTracker=Peilsender platzieren
+TurnValve=Ventil drehen
+GrabontoRope=Seil ergreifen
+EnterCrawlSpace=In Kriechtunnel steigen
+ExitFront=Vorne herausgehen
+ExitBack=Hinten herausgehen
+Hackwire=Kamera anzapfen
+ClimbUp=Hochklettern
+CutMaterial=Material zerschneiden
+TakeAntidote=Gegengift nehmen
+Initrappelling=Abseilen einleiten
+Completerappelling=Abseilen
+InitHangover=Überhängen einleiten
+CompleteHangover=ÜBERHÄNGEN DURCHFÜHR
+InitClimbShoulder=Auf Schult. klet. einl.
+CompleteClimbShoulder=Auf Schultern klettern
+Initlongjump=Weiten Sprung einleiten
+Completelongjump=WEITEN SPRUNG DURCHFÜHREN
+ShareView=GETEILTE SICHT AKZEPT.
+AltComm=Synchro-Aktion
+CoopShare=Ausrüstung teilen
+CoopRevive=Spieler wieder beleben
+TurretIFF=IFF umschalten
+
+[GameplayObject]
+DefaultObject=Objekt
+AmmoF2000=5,56mm Munit.
+AmmoFn7=5,7mm Munit.
+AmmoShotgun=Granaten
+AmmoSniper=20-mm-Munition
+Briefcase=Aktenkoffer
+DataStick=Datastick
+Satchel=Tasche
+KeypadDoorCode=Türcode:
+
+[Computer]
+TypeEmail=E-Mail
+TypeFile=Datei
+TypeImage=Bild
+TypeMusic=Sound
+TypeControl=Kamera
+TypeTrigger=Zugang
+TypeObjective=Missionsziel
+EmailFrom=Von: 
+EmailTo=An: 
+EmailDate=Datum: 
+EmailSubject=Betreff: 
+

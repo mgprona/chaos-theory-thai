@@ -1,0 +1,500 @@
+[P_01_Lighthouse_CnvCaveGuards]
+Speech_-001L=(null)
+Speech_0001L=QUINTON: Hey!  Stefano... look here!
+Speech_0002L=STEFANO: What? What is it?
+Speech_0003L=QUINTON: There's some kind of caves back here... look...
+Speech_-001L=(null)
+Speech_0006L=STEFANO: Look... there's some kind of old bridge there...
+Speech_0021L=QUINTON: You know...  I heard that smugglers used to use these old caves...
+Speech_0022L=STEFANO: Smugglers?
+Speech_0023L=QUINTON: Yeah...they probably had all sorts of secret passages and tunnels down here. C'mon...
+Note_0031L=There may be secret passageways in the caves.
+Speech_-001L=(null)
+Speech_0011L=STEFANO: Whoa... careful
+Speech_0012L=QUINTON: It's safe... don't worry...
+Speech_-001L=(null)
+Speech_0024L=STEFANO: Where are you going?  Careful.  Maybe it's not safe...
+Speech_0025L=QUINTON: Don't be a fool.
+Speech_0026L=STEFANO: Old caves like this are dangerous... I'm not going any further.
+Speech_0027L=QUINTON: Fine... do what you like...
+Speech_-001L=(null)
+Speech_0028L=STEFANO: Alright...  well, I'm gonna head back...
+Speech_0029L=QUINTON: Ok.  I'm going to stay here... enjoy the view...
+Speech_-001L=(null)
+Speech_0032L=(null)
+Speech_-001L=(null)
+Speech_0033L=(null)
+Speech_-001L=(null)
+Speech_0034L=(null)
+
+[P_01_Lighthouse_CnvMariaNarcissa]
+POPUPMESSAGE_0017=Discover where the guerillas got their arms and equipment.
+Speech_-001L=(null)
+Speech_0001L=THOMAS: Evening Star to Maria Narcissa, come in. Evening Star to Maria Narcissa, come in.
+Speech_0002L=RADIO: Maria Narcissa here, go ahead Evening Star.
+Speech_0003L=THOMAS: Cargo received Maria Narcissa, it all checks out.
+Speech_0004L=THOMAS: Evening Star to Maria Narcissa, are you still there?
+Speech_0005L=RADIO: Go ahead Evening Star. Are you in trouble?
+Speech_0006L=THOMAS: No... everything seems to be fine... just some funny noises... we have your cargo. Everything is fine.
+Speech_0007L=THOMAS: Evening Star to Maria Narcissa, come in.
+Speech_0008L=RADIO: Go ahead Evening Star... we're hearing gunfire, is everything okay?
+Speech_0009L=THOMAS: We had an enemy on sight, but we lost him.
+Speech_0010L=RADIO: The army?
+Speech_0011L=THOMAS: Not sure... some of the others are tracking him down... it's all under control now.
+Speech_0012L=RADIO: You're sure?
+Speech_0013L=THOMAS: Yes. And we have your cargo.  Everything is fine now.
+Speech_0014L=RADIO: Roger that Evening Star, our crew is aboard, and we have cleared your beacon.
+Speech_0015L=THOMAS: Affirmative Maria.
+Speech_0016L=RADIO: Roger that. Maria Narcissa out.
+
+[P_01_Lighthouse_CnvMorgenholt]
+Speech_-001L=(null)
+Speech_0001L=EDUARDO: Don't you think he's had enough?
+Speech_-001L=(null)
+Speech_0002L=HORACIO: He's had enough when he stops talking. 
+Speech_-001L=(null)
+Speech_0003L=EDUARDO: Talking? Madre de Dios... he's hasn't been able to speak for an hour.
+Speech_-001L=(null)
+Speech_0004L=HORACIO: He could be faking it.
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0005L=EDUARDO: Jesus....
+Speech_-001L=(null)
+Speech_0006L=SAUL: Si.  I bet he's faking it.
+Speech_-001L=(null)
+Speech_0007L=EDUARDO: Faking it!? His tongue is a lump of coal... his brain is...
+Speech_-001L=(null)
+Speech_0008L=HORACIO: Enough!   Give me more juice Saul....
+Speech_-001L=(null)
+Speech_0009L=SAUL: It's already at the maximum.
+Speech_-001L=(null)
+Speech_0010L=HORACIO: What?
+Speech_-001L=(null)
+Speech_0011L=SAUL: Should I bring down another battery?
+Speech_-001L=(null)
+Speech_0012L=HORACIO: Heh heh...  what do you say Amigo?  You want another battery?  Hunh?  Hunh?  Wait a minute... he's...
+Speech_-001L=(null)
+Speech_0013L=SAUL: His ears.... they're smoking....
+Speech_-001L=(null)
+Speech_0014L=EDUARDO: I think I'm going to be ill....
+Speech_-001L=(null)
+Speech_0015L=SAUL: I think he's dead
+Speech_-001L=(null)
+Note_0022L=Morgenholt was tortured to death.
+Speech_0016L=HORACIO: Hmph.  Only one way to be sure...
+Speech_-001L=(null)
+Speech_0021L=SAUL: Euch... I'm going for a walk.
+Speech_-001L=(null)
+Speech_0023L=(null)
+Speech_0024L=(null)
+Speech_0017L=HORACIO: Heheheh... heh heh
+Speech_0018L=Uh huh... uh huh
+
+[P_01_Lighthouse_CnvNoLacerda]
+Speech_-001L=(null)
+Speech_0001L=GERARDO: Did the boat get away okay?
+Speech_0002L=IAGO: Si.  They've been gone for a while.
+Speech_0003L=GERARDO: How many men went with them?
+Speech_0004L=IAGO: Lacerda went.... and he took four others.
+Speech_0005L=GERARDO: Hm... you'll be able to keep your guard up with four less men?
+Speech_0006L=IAGO: No one will get by me, sir.
+
+[P_01_Lighthouse_CnvRainPatrol]
+Speech_-001L=(null)
+Speech_0001L=DIEGO: Ay...it's sure coming down now...
+Speech_0002L=IGNACIO: Si...well...you best get going then...
+Speech_0003L=DIEGO: What? It's your turn to patrol...
+Speech_0004L=IGNACIO: 'Turn' has nothing to do with it...it's about seniority.
+Speech_0005L=DIEGO: Seniority? What? What is this, a union or something?
+Speech_0006L=IGNACIO: Not yet... but once we topple the government, we'll form a union...so you best be on my good side now.
+Speech_0007L=DIEGO: ...euh...fine...
+Speech_0008L=DIEGO: ...ain't that always a way...eek out a living fighting for what you believe in and all you do is replace one oppressor for another...
+
+[P_01_Lighthouse_CnvWeather]
+Speech_-001L=(null)
+Speech_0001L=DIEGO: You look troubled...
+Speech_0002L=IGNACIO: Thunderstorms make me nervous...
+Speech_0003L=DIEGO: Why?
+Speech_0004L=IGNACIO: I was a boy in Grenada when the Americans invaded in '83. My father was in the army. When he realized we could not win, he led us into mountains with some of his men, and all of our families.
+Speech_0005L=DIEGO: And?
+Speech_0006L=IGNACIO: The Americans caught up with us one night in the middle of a thunderstorm... a thunderstorm like this one...
+Speech_0007L=DIEGO: What happened?
+Speech_0008L=IGNACIO: They struck in the dark... we never heard them... never saw them... they timed their fire with the thunder. The bodies dropped in the darkness. With each flash of lighting... there would be... more... corpses.
+Note_0014L=The sound of thunder can be used to hide noises.
+Speech_0009L=DIEGO: You survived... ?
+Speech_0010L=IGNACIO: They left the women and children... no... the Americans are not butchers... but since that night... I have always been afraid of the thunder...
+Speech_0011L=DIEGO: Well you're scaring me too...
+Speech_0012L=IGNACIO: I know... as I said...  they are not butchers... their weapon is fear... and fear does not spread among the dead...
+Speech_-001L=(null)
+Speech_0015L=(null)
+Speech_-001L=(null)
+Speech_0016L=(null)
+Speech_-001L=(null)
+Speech_0017L=(null)
+
+[P_01_Lighthouse_CnvWelderTech]
+Speech_-001L=(null)
+Speech_0001L=LEANDRO: Ay stupid gate!  Fix the gate.  Open the gate.  Close the gate.  Open the gate... well now the gate is broken.
+Speech_-001L=(null)
+Speech_0004L=LEANDRO: Who would put a gate here anyway? It's stupid...pointless.
+Speech_0005L=LEANDRO: Ay stupid gate!  Fix the gate.  Open the gate.  Close the gate.  Open the gate... well now the gate is broken.
+
+[P_01_Lighthouse_Communications]
+Note_0139L=Some guerillas may be using unusually modern guns.
+Speech_0127L=LAMBERT - That didn't sound like AK gunfire Fisher, see if these guerillas have any unusual equipment and where it might have come from.
+Speech_0007L=LAMBERT - I'm hearing gun fire down there Fisher....  is everything alright?
+Speech_0008L=FISHER - It's coming from up ahead, but, Lambert... when I think 'guerilla', I think 'Kalashnikov'.
+Speech_0011L=LAMBERT - What do you mean?
+Speech_0012L=FISHER - I've had enough AK's fired at me in my time to tell you that that wasn't one.
+Speech_0013L=LAMBERT - Alright. See if there is anything unusual going on with their equipment and keep us posted.
+Speech_0102L=LAMBERT - That didn't sound like AK gunfire Fisher, see if these guerillas have any unusual equipment and where it might have come from.
+Speech_0128L=LAMBERT - These guerillas have some high-tech gear Sam. See if you can scan the weapons crates with your EEV.
+Speech_0001L=LAMBERT - I think you're right about the equipment Sam.
+Speech_0002L=FISHER - Yeah... they've got themselves a little stockpile of high tech kit here.
+Speech_0003L=LAMBERT - Try and find out where they got it. See if those crates have SSCC barcodes on them and scan them with your EEV.
+Speech_0103L=LAMBERT - These guerillas have some high-tech gear Sam. See if you can scan the weapons crates with your EEV.
+Speech_-001L=(null)
+Speech_0014L=LAMBERT - The SSCC code is lot one of five.  See if you can find the other four.
+Speech_0015L=FISHER - I'll do my best.
+Speech_-001L=(null)
+Speech_0016L=LAMBERT - That's four of the five crates Sam.  Keep your eyes peeled for the last one.
+Speech_0129L=LAMBERT - That seemed to be the last of the crates Fisher. Good work.
+Speech_0018L=LAMBERT - Good work Fisher. If we can analyze the intelligence you gathered from those crates, we can make a lot of people's jobs a whole lot safer.
+Speech_0019L=FISHER - How come no one ever does things to make my job safer?
+Speech_0020L=LAMBERT - If you want me to hire some more analysts to interpret information for you, I can do that...
+Speech_0021L=FISHER - On second thought, the danger's not so bad.
+Speech_0104L=LAMBERT - That seemed to be the last of the crates Fisher. Good work.
+Speech_0130L=LAMBERT - Morgenholt's dead. There's nothing you could have done. Leave the body.
+Speech_0022L=LAMBERT - It doesn't sound too good down there, Fisher.
+Speech_0023L=FISHER - The sound isn't the problem... you should smell it...
+Speech_0024L=LAMBERT - You're sure he's dead?
+Speech_0025L=FISHER - Deader than Elvis.
+Speech_0026L=LAMBERT - Alright, leave the body. We still need to recover any traces of the interrogation. Grim will call you back.
+Speech_0105L=LAMBERT - Morgenholt's dead. There's nothing you could have done. Leave the body.
+Speech_-001L=(null)
+Speech_0027L=LAMBERT - Fisher... I said leave the body... we don't have the means to extract him...
+Speech_0028L=FISHER - Just because he's dead doesn't mean I need to leave him hanging here like a piece of meat.
+Speech_0029L=LAMBERT - Don't get too connected Fisher.  I need you to stay rational.
+Speech_0030L=FISHER - You can spare thirty seconds for some simple dignity.
+Speech_-001L=(null)
+Speech_0031L=LAMBERT - Sam!  What are you doing?
+Speech_0032L=FISHER - Making sure he's not suffering...
+Speech_0033L=LAMBERT - Well leaving NATO rounds in his body is not going look good... leave the evidence alone and get moving.
+Speech_0034L=FISHER - On my way.
+Note_0121L=Lacerda has left the area on a boat.
+Speech_0131L=LAMBERT - Sam, from everything we're seeing here it looks like Lacerda's already flown the coop. Scratch the objective. You don't need to worry about taking him out.
+Speech_0035L=LAMBERT - I think that confirms it, Fisher.
+Speech_0040L=FISHER - Yeah... seems like Lacerda's long gone.
+Speech_0041L=LAMBERT - We'll see if we can track him through Echelon... don't worry about him for now. We'll keep you posted.
+Note_0126L=Lacerda has left the area on a boat.
+Speech_-001L=(null)
+Speech_0106L=LAMBERT - Sam, from everything we're seeing here it looks like Lacerda's already flown the coop. Scratch the objective. You don't need to worry about taking him out.
+Note_0140L=The guerillas have not set up an alarm system.
+Speech_-001L=(null)
+Speech_0042L=LAMBERT - From the looks of it, these guerilla's have a pretty temporary set-up. Seems unlikely they'll have any kind of alarm system on location. 
+Speech_0107L=FISHER - Good.
+Note_0141L=Extraction is at the top of the lighthouse with the light off.
+Speech_-001L=(null)
+Speech_0045L=LAMBERT - Fisher, your primary objectives are complete. We can extract you whenever you're ready. You'll need to signal for a helicopter pick up from the top of the lighthouse... but make sure the light is out first.
+Speech_0108L=FISHER - Will do.
+Note_0142L=The information taken from Morgenholt is stored on a server somewhere.
+Speech_0132L=GRIMSDOTTIR - Sam, we need to wipe any information that tech might have transferred to a server.
+Speech_0046L=GRIMSDOTTIR - Sam, it's Grim. We need to make sure that whatever Morgenholt might have told them about Masse's algorithms never leaves this site.
+Speech_0047L=FISHER - Okay.
+Speech_0048L=GRIMSDOTTIR - I detected a wireless link coming from the technician who left the room before you entered.
+Speech_0049L=GRIMSDOTTIR:  The technician you just took out had a wireless connection running a few minutes ago.
+Speech_0050L=FISHER:  So I'll need to recover any data he might have uploaded to their servers?
+Speech_0051L=GRIMSDOTTIR - Exactly.
+Speech_0109L=GRIMSDOTTIR - Sam, we need to wipe any information that tech might have transferred to a server.
+Speech_-001L=(null)
+Speech_0052L=GRIMSDOTTIR - That computer is the one that the technician uploaded Morgenholt's information to.
+Speech_0053L=FISHER - What should I do?
+Speech_0054L=GRIMSDOTTIR - You'll have to access it and scrub the data.
+Speech_-001L=(null)
+Speech_0110L=GRIMSDOTTIR - That server is the one that the tech transferred the interrogation record to, you'll need to access it.
+Speech_0133L=GRIMSDOTTIR - That takes care of any copies that the technician might have made of Morgenholt's data.
+Speech_0063L=GRIMSDOTTIR - Good work Sam. That'll contain whatever information Morgenholt might have given them.
+Speech_0064L=FISHER - Won't they wonder what happened to it?
+Speech_0065L=GRIMSDOTTIR - It was easy enough to make your little intrusion look like a memory allocation error... don't worry... we give you the best tools.
+Speech_0111L=GRIMSDOTTIR - That takes care of any copies that the technician might have made of Morgenholt's data.
+Speech_0134L=GRIMSDOTTIR - The guerillas appear to be in contact with a cargo ship called the Maria Narcissa. We're tracking her now...we might need to send you there.
+Speech_0066L=GRIMSDOTTIR - Maria Narcissa...
+Speech_0067L=FISHER - You're not trying to set me up on another blind date I hope...
+Speech_0068L=GRIMSDOTTIR - The Maria Narcissa is a boat...
+Speech_0069L=FISHER - So was the last girl you set me up with...
+Speech_0070L=GRIMSDOTTIR - Fisher!
+Speech_0071L=FISHER - Sorry.
+Speech_0072L=GRIMSDOTTIR - The Maria Narcissa is a cargo ship... owned and operated by... Celestinia Inc.... Portuguese shipping company... registered in the Philippines... cross Pacific freight contracts... lots of details missing...
+Note_0124L=The arms were delivered from a cargo ship named the Maria Narcissa.
+Speech_0073L=FISHER - Sounds suspicious...
+Speech_0074L=GRIMSDOTTIR - Sounds like I'm setting you up for another date after all...
+Speech_0075L=FISHER - Can't wait to meet her.
+Speech_0112L=GRIMSDOTTIR - The guerillas appear to be in contact with a cargo ship called the Maria Narcissa. We're tracking her now...we might need to send you there.
+Speech_0135L=GRIMSDOTTIR - Fisher...you destroyed their comms, but we need to know who they've been communicating with. See if you can find their comm logs on file somewhere.
+Speech_0076L=GRIMSDOTTIR - Fisher... I think you just blasted their communications set-up.
+Speech_0077L=FISHER - Good...  now they can't call for help.
+Speech_0078L=GRIMSDOTTIR - True, but they also can't contact the smugglers who they've been dealing with. See if they keep a comm log on file somewhere.
+Speech_0081L=FISHER - Okay.  I'll look around here.
+Speech_0113L=GRIMSDOTTIR - Fisher...you destroyed their comms, but we need to know who they've been communicating with. See if you can find their comm logs on file somewhere.
+Speech_0136L=GRIMSDOTTIR - I think you just took out their radio operator. We need to know who they've been communicating with. See if you can find their comm logs on file somewhere.
+Speech_0082L=GRIMSDOTTIR - Damn... you just took out their radio operator.
+Speech_0083L=FISHER - He asked for it.
+Speech_0084L=GRIMSDOTTIR - Well it's gonna be a lot harder to find out where they're smuggling their arms in from. You'd better check their radio logs. They probably keep a hardcopy archived on file somewhere.
+Speech_0085L=FISHER - Okay. I'll look around here.
+Speech_0114L=GRIMSDOTTIR - I think you just took out their radio operator. We need to know who they've been communicating with. See if you can find their comm logs on file somewhere.
+
+Speech_0137L=GRIMSDOTTIR - Good thinking Fisher. Without any communications gear they won't be able to tell their other cells that they've been hit.
+Speech_0086L=GRIMSDOTTIR - Good thinking Fisher. Without any communications gear they won't be able to tell their other cells that they've been hit.
+Speech_0087L=FISHER - That's the idea.
+Speech_0088L=GRIMSDOTTIR - Always one step ahead...
+Speech_0089L=FISHER - The day I fall behind is the day I don't come home...
+Speech_0115L=GRIMSDOTTIR - Good thinking Fisher. Without any communications gear they won't be able to tell their other cells that they've been hit.
+Speech_0138L=GRIMSDOTTIR - Their radio and operator are down, but we need to know who they've been communicating with. See if you can find their comm logs on file somewhere.
+Speech_0090L=GRIMSDOTTIR - Whoa... that was extreme...
+Speech_0091L=FISHER - Radioman, and radio all at once...  I figured it was a good investment of resources...
+Speech_0092L=GRIMSDOTTIR - I think he was radioing the smugglers who delivered the arms.
+Speech_0093L=FISHER - Oh. Oops.
+Speech_0094L=GRIMSDOTTIR - Well, check if they have a comm log on file somewhere.
+Speech_0095L=FISHER - Okay. I'll look around here.
+Speech_0096L=GRIMSDOTTIR - And take it easy Fisher... you were less messy when you were younger.
+Speech_0097L=FISHER - The bad guys grew up... I had to adapt.
+Speech_0116L=GRIMSDOTTIR - Their radio and operator are down, but we need to know who they've been communicating with. See if you can find their comm logs on file somewhere.
+Speech_-001L=(null)
+Speech_0098L=GRIMSDOTTIR - Whoa... that was extreme...
+Speech_0099L=FISHER - Radioman, and radio all at once...  I figured it was a good investment of resources...
+Speech_0100L=GRIMSDOTTIR - Maybe so... but it was still messy...
+Speech_0101L=FISHER - The world's a messy place Grim.
+Speech_-001L=(null)
+Speech_0117L=GRIMSDOTTIR - Fisher, we don't have time to sort through files right now... see if you can find the info in a more practical form.
+
+[P_01_Lighthouse_DeathControl]
+
+[P_01_Lighthouse_IntCaptain]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Hi there, you look important.
+Speech_0002L=SEGUNDO - I am loyal.  You will get no information from me.
+Speech_0003L=FISHER - Really?  Hmmm...  it looks like you forgot to shave this morning.  Let me help you out a bit.
+Speech_0004L=SEGUNDO - Ha!  You can't...   Hey!  ...  What are you doing???  Okay!  Okay...  What do you want to know?
+Speech_0005L=FISHER - I'm looking for Lacerda.  He's been behaving very badly lately.
+Speech_0006L=SEGUNDO - Well you're wasting your time, American.  He left on a boat an hour ago.  He could be anywhere by now.
+Speech_0007L=FISHER - I guess I'll just have to follow him then.  Don't worry, he won't slip away.
+Speech_0008L=SEGUNDO - Have a nice swim.
+Speech_0009L=SEGUNDO - I hope the water is warm.
+Speech_-001L=(null)
+Speech_0010L=(null)
+Speech_-001L=(null)
+Speech_0011L=(null)
+Speech_-001L=(null)
+Speech_0012L=(null)
+
+[P_01_Lighthouse_IntCaveGuard]
+Speech_-001L=(null)
+Speech_0001L=FISHER: Didn't anyone ever tell you that spelunking is dangerous?
+Speech_0002L=GUARD: Oh no...you're going to kill me aren't you?
+Speech_0003L=FISHER: Only if you say the word 'monkey'.  Now tell me something I wanna know.
+Speech_0006L=GUARD: Uh...if you need ammunition or medical supplies...check around inside the keep...they have tons of stuff in there.
+Note_0015L=Medical supplies and ammunition are located in the keep.
+Speech_0007L=FISHER: Some of you guys are real helpful...why do you have to work for the bad guys?
+Speech_0008L=GUARD: You're the American oppressor...you're the bad guy...
+Speech_0009L=FISHER: Are you gonna say 'monkey'?
+Speech_0010L=GUARD: What? No....
+Speech_0011L=FISHER: Then this conversation is over.
+Speech_0012L=GUARD: Please don't kill me...please
+Speech_0014L=GUARD: That's all I know...I swear
+
+[P_01_Lighthouse_IntHighTechGun]
+Speech_-001L=(null)
+Speech_0001L=FISHER: Nice piece...where'd you get the gun?
+Speech_0002L=FELIX:  Oh god...I don't know...I really don't know...
+Speech_0003L=FISHER: That's bad news for you then...
+Speech_0004L=FELIX:  Ah! I'd tell you if I knew...I swear...please don't kill me...
+Speech_0005L=FISHER: Fine...if you don't know where the guns came from, then tell me something else that's useful...
+Speech_0006L=FELIX:  Uh...uh...Morgenholt! Morgenholt...you must be here for him... he's in the room just ahead... I think they're torturing him.
+Speech_0007L=FISHER: Torturing him, eh...thanks for the info.
+Note_0014L=Morgenholt is being tortured.
+Speech_0008L=FELIX:  N...n...no problem...
+Speech_0009L=FISHER: I hate to tell you this...but your news comes a little too late...
+Speech_0010L=FELIX:  Oh...oh...no...
+Speech_0012L=FELIX:  I don't deserve to die...
+Speech_0013L=FELIX:  I don't have any more information...I swear...
+
+[P_01_Lighthouse_IntRadioRoom]
+Speech_-001L=(null)
+Speech_0001L=FISHER: Who were you talking to?
+Speech_0002L=THOMAS:  What...who are you...
+Speech_0003L=FISHER: I'm the guy who's going to break your knees if you don't tell me who you were talking to.
+Speech_0004L=THOMAS:  Oh god...uh...it was Lacerda...Hugo Lacerda
+Speech_0005L=FISHER: Where is he?
+Speech_0006L=THOMAS:  He's aboard the ship...the Maria Narcissa...
+Speech_0007L=FISHER: Why?
+Speech_0008L=THOMAS:  Weapons...he is delivering the new weapons to the other cells....
+Speech_0009L=FISHER: If I find out you're lying I will come back for you.
+Speech_0010L=THOMAS:  Oh god...please....
+Speech_0011L=THOMAS:  I swear, Lacerda isn't here
+Speech_0012L=THOMAS:  I don't know anything else
+
+[P_01_Lighthouse_IntThunder]
+Speech_-001L=(null)
+Speech_0001L=FISHER: Boo.
+Speech_0002L=HECTOR: Ah...I knew you would come...
+Speech_0003L=FISHER: What?
+Speech_0004L=HECTOR: My whole life...my whole life I have been waiting for you to come in the thunder and the darkness and finish what you began...
+Speech_0005L=FISHER: What are you talking about?
+Speech_0006L=HECTOR: You are one of them...one of the Americans who killed my family...and now you've come back for me...
+Speech_0007L=FISHER: Uh...I don't think so...
+Speech_0008L=HECTOR: Do your worst...I have always known it would end this way...I am prepared to die...
+Speech_0009L=FISHER: You're freaking me out...
+Speech_0010L=HECTOR: Kill me...I long to see my family again...
+Speech_0011L=HECTOR: I'm coming father...
+Speech_0012L=HECTOR: I'm coming mother...
+
+[P_01_Lighthouse_IntTorture]
+Speech_-001L=(null)
+Speech_0017L=FISHER: Why did you torture Morgenholt?
+Speech_0018L=EDUARDO:  Ah! Uh... Lacerda... he wants algorithms...some kind of computer algorithm...
+Note_0028L=Morgenholt was tortured to find out information about Masse Kernels.
+Speech_0019L=FISHER: What does a second rate communist revolutionary want with a computer algorithm?
+Speech_0020L=EDUARDO:  I don't know...I don't even think Lacerda knows...I think someone might have hired us.
+Speech_0021L=FISHER: What makes you think that?
+Speech_0022L=EDUARDO:  I don't know...Lacerda...he's been making lots of deals...something's going on...I don't know what...
+Speech_0023L=FISHER: But you don't know who he's been talking to?
+Speech_0024L=EDUARDO:  N...no...
+Speech_0025L=FISHER: Then you're not much good to me anymore...
+Speech_0026L=EDUARDO:  I told you everything...please don't kill me.
+Speech_0027L=EDUARDO:  Have mercy...please...
+Speech_-001L=(null)
+Speech_0029L=(null)
+Speech_-001L=(null)
+Speech_0030L=(null)
+Speech_-001L=(null)
+Speech_0031L=(null)
+
+[P_01_Lighthouse_IntTortureGuard]
+Speech_-001L=(null)
+Speech_0001L=FISHER: I already don't like you. Don't make it worse for yourself.
+Speech_0002L=GUARD:  Who...who are you?
+Speech_0003L=FISHER: Shut up. Why did you torture Morgenholt?
+Speech_0004L=GUARD:  Lacerda told us to.
+Speech_0005L=FISHER: Why? What does he want to know?
+Speech_0006L=GUARD:  Math problems...programmer stuff...I don't get it.
+Speech_0007L=FISHER: You're just the stupid one who likes to hurt people?
+Speech_0008L=GUARD:  Ex...exactly.
+Speech_0009L=FISHER: Can you think of a reason why the world wouldn't be a better place without you?
+Speech_0010L=GUARD:  Uh....please...I...
+Speech_0011L=FISHER: I didn't think so.
+Speech_0016L=GUARD:  Please don't kill me...please
+Speech_0017L=GUARD:  Lacerda made us...
+
+[P_01_Lighthouse_IntWelderTech]
+Speech_-001L=(null)
+Speech_0001L=FISHER: Whatcha workin' on?
+Speech_0002L=LEANDRO: Ah! Oh god...who are you?
+Speech_0003L=FISHER: I'm already tired of that question. Why don't you just answer mine?
+Speech_0004L=LEANDRO: Uh...I'm...uh...trying to cut open this gate so I can get at the power cables inside...
+Speech_0005L=LEANDRO: Uh...I'm...uh...trying to tap this power cable from the lighthouse...
+Speech_0006L=LEANDRO: Uh...I'm...uh...going to head back to the server and check the power stability off the new line...
+Speech_0007L=FISHER: Why?
+Speech_0008L=LEANDRO: The power feeding the main server in the south west tower isn't stable... we need to protect the data.
+Speech_0009L=FISHER: Hm...I've got some bad news for you then...because I already took care of the data on your server...
+Speech_0010L=LEANDRO: Oh, no... Lacerda's going to kill me...
+Speech_0011L=FISHER: I think you should be more worried about me than Lacerda...
+Speech_0012L=FISHER: South west tower, hunh? Tell you what, I'll head back there and delete that data, and you won't have to worry about it...how's that sound?
+Speech_0013L=LEANDRO: Do I have a choice?
+Speech_0014L=FISHER: You could scream for help and force me to slit your throat...
+Speech_0015L=LEANDRO: I'll pass...
+Speech_0016L=LEANDRO: If you must... kill me quickly...
+Speech_0017L=LEANDRO: Don't let me suffer...
+
+[P_01_Lighthouse_KeepWaiting]
+
+[P_01_Lighthouse_Master]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Fisher, an American engineer named Bruce Morgenholt has been kidnapped by a Peruvian separatist group called the People's Voice. Their suspected leader, Hugo Lacerda, is a hard-core revolutionary preaching information warfare as the only realistic means to achieve revolution in modern society. We need to you get in there and recover or destroy any information Morgenholt may have been forced to divulge, and, if possible, rescue him. As for Lacerda... he's just been bumped to onto our target of opportunity list, so if you have a shot, take it.
+Speech_0002L=GRIMSDOTTIR - Hostage rescue isn't normally our bag, but Morgenholt was part of Project Watson, the UN Committee that studied Phillip Masse's handiwork after Georgia. Some people are worried that this kidnapping is just a cover-up and that Morgenholt is being interrogated for classified information about the Masse Kernels. Fact is that some of the tricks Masse came up with could be used to do a lot of damage. We need to contain that information at all costs.
+Speech_0003L=REDDING - The target area is a lighthouse attached to an abandoned Spanish Colonial era fortification and some nearby structures. We don't have an exact location on Morgenholt, so you'll have to find him yourself. Insertion will be at night by zodiac onto the beach beneath the fort itself. Extraction will be back to the zodiac, or, in an emergency, via any available means. Thermal imaging shows that there are some old natural and semi-natural caves under the fort, so you may be able to use those for infiltration.
+Speech_0004L=PARTRIDGE - Alright Fisher, the helicopter will drop you a few kilometers off shore in the Zodiac  you have one of my zodiacs and logistical support in and out of the target area. Extraction will be by helicopter from the top of the lighthouse
+Speech_0005L=SHETLAND - Displace International holds the contract with Wright-Pritchard Technologies to protect their VIP's in potentially hostile situations. We did a thorough threat evaluation for their project in Peru and we accepted the VIP detail on Morgenholt. The guys who came after him knew what they were doing. This was not a tourist grab. I lost three good men in the snatch, and I'm currently preparing a rescue plan for approval from Morgenholt's family and Wright-Pritchard. This is gonna cost Displace a lot of money.
+Speech_0006L=O'DELL - ...in other news...international rescue workers responding to Thursday's earthquake in northern Iran were fired upon following rumors that European agents were posing as aid workers in order to search the ruins of local government buildings destroyed in the quake ...
+Speech_0007L=O'DELL - ...contact was lost hours ago with the ISS following what is now being reported as a possible strike by a micrometeor. NASA officials are currently verifying that orbital debris from previous space missions was not responsible for the accident. No contact has yet been made with either the astronauts aboard the ISS or with the shuttle which is docked to the station...
+
+[P_01_Lighthouse_NPCControl]
+
+[P_01_Lighthouse_NPCControl2]
+
+[P_01_Lighthouse_Objectives]
+Objective_0024=Rescue Morgenholt
+Objective_0025=If possible, rescue Bruce Morgenholt from the guerillas. Do not compromise the mission for the rescue.
+Objective_0001=Recover or destroy information about the Masse Kernels
+Objective_0016=Any information the guerillas may have gotten from Morgenholt must be recovered or destroyed, and any copies of it must be erased from computers or servers.
+Objective_0005=Eliminate Hugo Lacerda
+Objective_0018=Hugo Lacerda has been elevated to Third Echelon's Target of Opportunity list. Take advantage of any possible opportunity to remove him from the list.
+POPUPMESSAGE_0026=Rescue Morgenholt
+Objective_0011=Discover where the guerillas got their arms and equipment.
+Objective_0019=The guerillas have seemingly received weapons from an unknown party, possibly as payment for the kidnapping of Morgenholt. Discover where the weapons came from.
+POPUPMESSAGE_0027=Discover where the guerillas got their arms and equipment.
+Objective_0008=Scan the SSCC Bar Code of the delivered crates.
+Objective_0020=Scan the weapons crates containing weapons delivered to Lacerda by checking them manually or by using your EEV.
+Objective_0010=Recover or destroy information about the Mass Kernels
+Objective_0013=Disable the guerilla's communications equipment.
+Objective_0021=(null)
+Objective_0014=Disable the guerilla's communications equipment.
+Objective_0022=(null)
+Objective_0033=Exfiltrate to the primary extraction point
+Objective_0034=Exfiltrate from the top of the lighthouse by clearing the upper platform and disabling the lighthouse light.
+POPUPMESSAGE_0029=Exfiltrate to the primary extraction point
+POPUPMESSAGE_0030=Recover or destroy information about the Masse Kernels
+POPUPMESSAGE_0035=The EEV scans objects and informs you of their properties.
+POPUPMESSAGE_0031=Scan the SSCC Bar Code of the delivered crates.
+POPUPMESSAGE_0032=Exfiltrate to the primary extraction point
+
+[P_01_Lighthouse_RadioPlay]
+
+[P_01_Lighthouse_SamProgress]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_01_Lighthouse_SRCAboutGirl]
+Speech_-001L=(null)
+Speech_0001L=So...uh...you 'member that little chiquita from the bar last Friday?
+Speech_0002L=The one with the tight t-shirt...how could I forget?
+Speech_0003L=She called me man! We gonna go have dinner. Gonna take her to Rick's man.
+Speech_0006L=Rick's? That place is expensive.
+Speech_0007L=Heh heh...nothin' too good for my baby...but uhhh...
+Speech_0008L=But what?
+Speech_0009L=You..uh...you think I can borrow some money 'til we get paid?
+
+[P_01_Lighthouse_SRCAstronauts]
+Speech_-001L=(null)
+Speech_0001L=Too bad it's overcast...
+Speech_0002L=Why?
+Speech_0003L=They say that we're at the right latitude to see the debris re-entering the atmosphere...
+Speech_0004L=Debris? What debris? What are you talking about?
+Speech_0005L=Madre de Dios, you didn't hear? The International Space Station...there's been an accident. They've lost radio contact, and they've confirmed that there's major damage. They expect a debris shower sometime this evening.
+Speech_0006L=Hmm...In pride...in reasoning pride our error lies...all quit their sphere and rush into the skies...
+Speech_0007L=Him, the Almighty power hurled headlong and flaming from the ethereal sky, who durst defy the omnipotent to arms...
+Speech_0008L=Ay...and I thought I was a dilettante...
+Speech_0009L=Education is the difference between a revolutionary and a terrorist....
+
+[P_01_Lighthouse_SRCSoccerPlayer]
+Speech_-001L=(null)
+Speech_0001L=Have you seen the newspapers?
+Speech_0002L=No? What is it?
+Speech_0003L=It's...it's...it's Hernandez.
+Speech_0004L=Hernandez?! No! He's injured?
+Speech_0005L=Worse...
+Speech_0006L=No!  Dead?!
+Speech_0007L=...worse...he's been traded to Melgar Football Club.
+Speech_0008L=Traded?! Never!! Impossible! I will not hear this!
+Speech_0009L=I swear it is the truth...
+Speech_0010L=If you are mistaken...I swear on the honor of my sister that I will cut off your head and use it as a bowling ball...
+Speech_0011L=It is true...check the papers...
+Speech_0012L=I'm going to kill myself.
+

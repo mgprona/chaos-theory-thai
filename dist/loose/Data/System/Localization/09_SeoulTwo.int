@@ -1,0 +1,11 @@
+[GENERAL]
+MapName=SEOUL
+Briefing=TODO
+
+[Computer]
+CompDisableRadar=Disable Radar
+CompUploadTap=Upload Tap
+CompUAVData=UAV Data
+
+[Interaction]
+IntScanPlane=Designate Plane

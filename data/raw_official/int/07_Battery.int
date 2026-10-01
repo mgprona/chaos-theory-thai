@@ -1,0 +1,50 @@
+[GENERAL]
+MapName=BATTERY
+Briefing=TODO
+Briefing_LAMBERT=LAMBERT - Fisher, I know you think the shortest distance to solving this problem is to go after Shetland, and you might be right. Unfortunately, the diplomatic situation surrounding the Walsh incident is not softening. We are less than twenty-four hours from open war on the Korean Peninsula. We've located the battery that launched the missile against the Walsh. If there is any credence to the North Korean claim that the launch was unintentional, we need to prove it...and fast.
+Briefing_GRIMSDOTTIR=GRIMSDOTTIR - I've been reverse engineering the data you recovered from Zherkezhi's computer in New York. Zherkezhi's algorithm is an advanced extrapolation of the Masse kernels made infinitely more complex by recursion through Dvorak. I think that if you can access the BIOS memory of the missile launchers at the battery, I should be able to ID a fingerprint that the algorithm would have left on the system.
+Briefing_REDDING=REDDING - You'll be doing a HALO insertion into a forest two clicks east of the battery. You'll enter the battery's secure perimeter and infiltrate via the main air shaft. The battery itself has been around since World War Two, but intelligence and satellite imaging shows its been retrofitted several times since then. We have some limited mapping data... we don't know what you'll find. 
+Briefing_MASSON=MASSON - Since the destruction of the Walsh, USS Ronald Reagan has assumed C and C duties for the Battle Group in the Yellow Sea. Our fleet is on Red Alert. In case of war, we are prepared to conduct precision sorties against high-value targets aimed at reducing North Korean coastal defenses for insertion behind their advancing front. If intelligence indicates that the Koreans are picking a fight, then it's a fight they'll get. Anyone in that battery when the whistle blows better find himself a tin hat and a bible.
+Briefing_OTOMO=OTOMO - Japanese I-SDF has been instrumental in determining that the missile that sank the Walsh was indeed fired from this battery.  You have the complete support of all branches of the Japanese Self Defense Force in order to determine the rationale for this insane move by the Korean aggressors. We do not have the capability to strike the facility directly, but I-SDF will use any means at our disposal to interfere with their capabilities in the event that our great American allies are forced to declare war.
+
+[Interaction]
+IntExtract=Extract Down Cliff
+
+[Computer]
+CompOutpostEntrance=Outpost Entrance
+CompWarehouse=Warehouse
+CompPlayMusic=Play Random Music
+CompShippingLog=Retreive Shipping Logs
+CompRepairLogs=Retreive Repair Logs
+CompHydraulicCrane=Hydraulic Crane
+CompLoadingBay=Loading Bay
+CompMissileBayEntrance=Missile Bay Entrance
+CompAccessCode=Abort Missile
+CompForklift=Forklift Control
+CompEastMissileBay=East Missile Bay
+CompWestMissileBay=West Missile Bay
+CompCommandCenter=Command Center
+CompEastBattery=East Battery
+CompWestBattery=West Battery
+CompUploadCodes=Download Abort Codes
+CompUploadReport=Download Technician's Report
+CompScanBios=Scan Launcher BIOS
+
+[Email]
+EmailMunitionsBody=Feng, I was looking through the small arms munitions delivery in the warehouse and it looks like you ordered NATO 5.56. I didn’t think that was possible... but regardless, we have no weapons that fire it. What are we going to do with it?
+EmailMunitionsDate=July 6, 2007
+EmailMunitionsFrom=Ho
+EmailMunitionsSubject=Munitions delivery error
+EmailMunitionsTo=Feng
+
+EmailBloodyBody=Bong, I know you have that problem with your nose when you’re underground for too long, so I ordered another medical kit and had it installed in the missile bay control room in case you need it.
+EmailBloodyDate=July 6, 2007
+EmailBloodyFrom=Chen
+EmailBloodySubject=bloody nose
+EmailBloodyTo=Bong
+
+EmailUndeliverableBody=The message sent to Subscriber at this server has been blocked by the Administrator.
+EmailUndeliverableDate=July 6, 2007
+EmailUndeliverableFrom=System Administrator
+EmailUndeliverableSubject=WNM News Wire - Undeliverable
+EmailUndeliverableTo=User

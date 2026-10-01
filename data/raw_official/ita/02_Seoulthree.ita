@@ -1,0 +1,21 @@
+[GENERAL]
+MapName=SEUL
+Briefing_LAMBERT=Questa missione dovrebbe essere una passeggiata. Jong Pom-chu è un chimico sudcoreano, sospettato di lavorare con l'agenzia di spionaggio nordocreana. La CIA recentemente l'ha indicato come capace di costruire armi chimiche e biologiche. Se quanto hai scoperto a Panama è vero, e Jong ha corrotto il Señor de Medeiros per portare un carico illegale attraverso la zona del Canale, probabilmente ha anche la necessaria strumentazione e gli ingredienti giusti. Dovete rapire Jong a Seul prima che le forze nordcoreane riescano a prenderlo e a portarlo fuori dal paese.
+Briefing=INCARICO
+
+[Computer]
+
+[Email]
+
+EmailescapeBody=In caso di emergenza potrebbe essere necessario trasferire Jong per evitare che venga catturato dagli americani o dai sudcoreani. Se qualcosa va storto c'è un'imbarcazione al mercato del pesce. Dì a Jong di usarla per scappare.
+Emailescapedate=7 luglio 2007
+Emailescapefrom=Sun
+Emailescapesubject=Piano di fuga
+Emailescapeto=Pok
+
+
+EmailbackdoorBody=Il codice per la porta sul retro dell'albergo è 7649. La porta deve essere protetta in ogni momento.
+Emailbackdoordate=8 luglio 2007
+Emailbackdoorfrom=Ping
+EmailbackdoorSubject=Codice della porta dell'albergo
+Emailbackdoorto=Cho

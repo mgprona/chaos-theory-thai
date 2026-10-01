@@ -1,0 +1,15 @@
+[GENERAL]
+MapName=TRAIN STATION
+Briefing_LAMBERT=LAMBERT - Colonel Kim, the former commanding officer of the missile bunker, had a disagreement with the NKA over their decision to end the war and withdraw from Seoul. He took a number of warheads containing biological weapons with him and disappeared. Six hours ago, he resurfaced with a small army of NKA defectors in New York, where he took control of Grand Central Station. We don’t know why, or what his agenda is, but our profile on him says he’s not stupid. Something bigger is going on here. Prevent Kim or any of his men from unleashing their biological nightmare-in-a-can and find out what Kim is really up to.
+
+[Interaction]
+
+[Email]
+EmailDiffusalBody=To disable a bomb in case of emergency, you'll need two men. The two men must simultaneously cut the active wire. This will deactivate the laser link and initiate the second security system. To disable this, they'll need to simultaneously cut a second active wire. The active wire changes from time to time, so be careful. I know it's tricky, but we don't want some lone wolf sneaking in here and disabling our bombs, do we...
+EmailDiffusalDate=October 18
+EmailDiffusalFrom=Ming
+EmailDiffusalSubject=Bomb Diffusal
+EmailDiffusalTo=Jun
+
+[Computer]
+Schematics=Schematics

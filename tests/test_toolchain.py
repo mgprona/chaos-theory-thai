@@ -7,6 +7,7 @@ import os
 import sys
 import unittest
 from pathlib import Path
+import numpy as np
 
 # Add project root to sys.path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -119,6 +120,51 @@ class TestPCXFont(unittest.TestCase):
 
         injected = pcx.inject_thai_glyphs(ttf_path)
         self.assertGreaterEqual(injected, 80)
+        self.assertEqual(len(pcx.glyphs), 224)
+
+    def test_txt_mission_thai_visibility_and_color(self):
+        """Verify txt_mission.pcx does not render black-on-black Thai text."""
+        template_path = PROJECT_ROOT / "data" / "raw_official" / "fonts" / "pcx" / "txt_mission.pcx"
+        if not template_path.exists():
+            self.skipTest("PCX font template not yet extracted")
+
+        pcx = PCXFont(template_path)
+        ttf_path = Path(r"C:\Windows\Fonts\tahoma.ttf")
+        if not ttf_path.exists():
+            self.skipTest("Tahoma font not found")
+
+        pcx.inject_thai_glyphs(ttf_path)
+        g_thai = pcx.get_glyph(161)  # Thai 'ก'
+        self.assertIsNotNone(g_thai)
+        self.assertGreaterEqual(g_thai.bbox[2], 6, "Thai cell must not be a 1-2px sliver")
+
+        # Check that pixels are drawn with bright white color (not index 0 or black index 169)
+        arr = np.array(g_thai.image)
+        non_zero = arr[arr > 0]
+        self.assertGreater(len(non_zero), 0, "Thai glyph must have non-zero pixels")
+        pal = pcx.palette
+        # At least some pixels should be index 254 (bright white)
+        self.assertIn(254, non_zero, "Thai glyph should contain white index 254 pixels")
+        max_idx = int(np.max(non_zero))
+        r, g, b = pal[max_idx * 3], pal[max_idx * 3 + 1], pal[max_idx * 3 + 2]
+        self.assertGreater(r + g + b, 500, f"Expected bright text color, got RGB({r},{g},{b})")
+
+    def test_all_fonts_no_narrow_thai_cells(self):
+        """Ensure no Thai character cell is narrower than 6 pixels across any PCX font."""
+        ttf_path = Path(r"C:\Windows\Fonts\tahoma.ttf")
+        if not ttf_path.exists():
+            self.skipTest("Tahoma font not found")
+
+        for pcx_name in ["txt_hud.pcx", "txt_mission.pcx", "txt_integration.pcx"]:
+            template_path = PROJECT_ROOT / "data" / "raw_official" / "fonts" / "pcx" / pcx_name
+            if not template_path.exists():
+                continue
+            pcx = PCXFont(template_path)
+            pcx.inject_thai_glyphs(ttf_path)
+            for code in range(161, 252):
+                g = pcx.get_glyph(code)
+                if g:
+                    self.assertGreaterEqual(g.bbox[2], 6, f"{pcx_name} code {code} cell width {g.bbox[2]} < 6")
 
 
 class TestTranslationsJSON(unittest.TestCase):
@@ -162,6 +208,17 @@ class TestCompiler(unittest.TestCase):
         self.assertEqual(len(assets), 52, f"Expected 52 compiled files, got {len(assets)}")
         self.assertIn(r"Data\System\Localization\01_Lighthouse.int", assets)
         self.assertIn(r"Data\System\Localization\P_01_Lighthouse.int", assets)
+
+    def test_translation_whitespace_preservation(self):
+        sample_ini = "[GENERAL]\r\nMapName=LIGHTHOUSE\r\n".encode("cp1252")
+        doc = IniDocument.from_bytes(sample_ini)
+        # Translation with intentional leading/trailing spaces
+        translations = {"GENERAL": {"MapName": " ประภาคาร "}}
+        doc.apply_translations(translations, fallback_to_english=True)
+        self.assertEqual(doc.sections["GENERAL"].get("MapName"), " ประภาคาร ")
+        serialized = doc.serialize(encoding="cp874")
+        lines = [line for line in serialized.decode("cp874").splitlines() if line]
+        self.assertEqual(lines, ["[GENERAL]", "MapName= ประภาคาร "])
 
 
 if __name__ == "__main__":

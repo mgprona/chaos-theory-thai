@@ -1,0 +1,834 @@
+[Misc]
+PreviousMenu=ZURÜCK
+ExitGame=VERLASSEN
+CurrentProfile=AKTUELLES PROFIL
+Delete=LÖSCHEN
+Create=ERSTELLEN
+Select=AUSWÄHLEN
+ConfirmExitTitle=SPIEL BEENDEN
+ConfirmExitMsg=MÖCHTEN SIE DAS SPIEL WIRKLICH BEENDEN?
+
+[MenuGameType]
+Title=SPIELMODUS
+SinglePlayer=SOLO
+Cooperative=TEAM
+Adverserial=GEGEN
+Credits=CREDITS
+StartAdverserialTitle=VERSUS STARTEN
+StartAdverserialMsg=STARTET DAS SPLINTER CELL VERSUS-PROGRAMM
+ErrorDefaultProfileTitle=STANDARDPROFIL UNGÜLTIG
+ErrorDefaultProfileMsg=DAS STANDARDPROFIL IST BESCHÄDIGT. MÖCHTEN SIE ES LÖSCHEN UND EIN NEUES ERSTELLEN?
+
+[MenuSolo]
+Title=HAUPTMENÜ
+Continue=FORTSETZEN
+NewGame=NEUES SPIEL
+Loadgame=SPIEL LADEN
+Settings=EINSTELLUNGEN
+ProfileManagement=PROFILVERWALTUNG
+Extras=EXTRAS
+
+[MenuNewGame]
+Title=SCHWIERIGKEIT
+ErrorTitle=LADEFEHLER
+ErrorMsg=FEHLER BEIM STARTEN DER MISSION
+
+[MenuLoadGame]
+Title=SPIEL LADEN
+Saves=SPIELSTÄNDE
+Missions=MISSIONEN
+Load=LADEN
+Level=LEVEL
+Name=NAME
+DateTime=DATUM / UHRZEIT
+DeleteSaveTitle=SPIELSTAND LÖSCHEN
+DeleteSaveMsg=DIESEN SPIELSTAND WIRKLICH LÖSCHEN?
+LoadSaveMsg=DIESEN SPIELSTAND WIRKLICH LADEN? IHR NICHT GESPEICHERTER FORTSCHRITT GEHT DABEI VERLOREN.
+LoadMissionMsg=DIESEN LEVEL WIRKLICH IM MISSIONSMODUS SPIELEN?
+
+[MenuSaveGame]
+Title=SPIEL SPEICHERN
+WarningOverwriteExistingSaveGame=WARNUNG: SIE SIND IM BEGRIFF EINEN SPIELSTAND ZU ÜBERSCHREIBEN. VORGANG FORTSETZEN?
+WaringNoSaveGameName=ES WURDE KEIN NAME FÜR DEN SPIELSTAND ANGEGEBEN.
+
+[MenuProfileManagement]
+Title=PROFILE
+Rename=UMBENENNEN
+MsgBoxTitle=PROFILVERWALTUNG
+AlwaysHaveProfileMsg=SIE KÖNNEN IHR EINZIGES PROFIL NICHT LÖSCHEN
+CantDeleteDefaultMsg=SIE KÖNNEN DAS STANDARDPROFIL NICHT LÖSCHEN
+DeleteProfileFailedMsg=PROFIL KONNTE NICHT GELÖSCHT WERDEN
+DeleteProfileMsg=DIESES PROFIL UND DEN DAFÜR GESPEICHERTEN FORTSCHRITT WIRKLICH LÖSCHEN?
+ProfileDamagedTitle=PROFIL FEHLERHAFT
+ProfileDamagedMsg=DIESES PROFIL SCHEINT BESCHÄDIGT ZU SEIN UND KANN NICHT VERWENDET WERDEN. PROFIL LÖSCHEN?
+
+[MenuCreateProfile]
+Title=PROFIL ERSTELLEN
+Instruction=PROFILNAMEN EINGEBEN
+
+[MenuPause]
+Title=PAUSE-MENÜ
+Savegame=SPIEL SPEICHERN
+Retry=MISSION NEU STARTEN
+Quit=HAUPTMENÜ
+QuitLobby=LOBBY
+QuitMainTitle=VERLASSEN
+QuitMainMsg=WIRKLICH ZUM HAUPTMENÜ ZURÜCKKEHREN? IHR NICHT GESPEICHERTER FORTSCHRITT GEHT DABEI VERLOREN.
+QuitLobbyMsg=WIRKLICH ZUR LOBBY ZURÜCKKEHREN? IHR NICHT GESPEICHERTER FORTSCHRITT GEHT DABEI VERLOREN.
+RetryTitle=MISSION NEU STARTEN
+RetryMsg=MISSION WIRKLICH NEU STARTEN? IHR NICHT GESPEICHERTER FORTSCHRITT GEHT DABEI VERLOREN.
+PressReady=WÄHLEN SIE 'BEREIT', EHE SIE ZUM SPIEL ZRÜCKKEHREN.
+PlayerReady=%s IST BEREIT
+PlayerNotReady=%s IST NICHT BEREIT
+ResumeGame=SPIELFORTSETZEN
+WaitHost=WARTE AUF ANDERE SPIELER
+WaitRemoteTitle=SPIELER NICHT BEREIT
+WaitRemoteMsg=BITTE WARTEN SIE, BIS DIE ANDEREN SPIELER BEREIT SIND.
+
+[MenuGameOver]
+Title=SPIEL ZU ENDE
+
+[MenuExtras]
+Title=EXTRAS
+BioAmonTobin=AMON TOBINS BIOGRAPHIE
+Soundtrack=SOUNDTRACK ABSPIELEN
+MovieTeaser=TRAILER
+Search=SUCHEN
+Stress=STRESS
+Fight=KAMPF
+Exploration=ERKUNDUNG
+Exploration2=ERKUNDUNG 2
+
+
+[MenuBioAmon]
+Title=BIOGRAPHIE
+Bio1=Irgendwann Mitte der 90er Jahre entschloss sich ein, in England lebender, Brasilianer dazu, seine Harmonika wegzulegen, sich einen Sampler zu schnappen und sich nach einem Roman von Stephen King zu benennen. Das daraus resultierende Album, Cujos 'Adventures In Foam' (zuerst erschienen bei Ninebar Records, später neu aufgelegt von Ninja Tune), stellte Amon Tobins Schritt in die Musikwelt dar. Eigentlich gibt es auch ein Projekt aus der Vor-Cujo-Zeit, aber darüber redet man besser nicht ... vielleicht wenn man Amon richtig betrunken macht ... nein, dann würde er es immer noch nicht spielen. 
+Bio2=Nachdem man die Platte gehört hatte, nahm man ihn bei Ninja Tune als Amon Tobin unter Vertrag und er begann sofort mit der Arbeit an seinem Debut 'Bricolage'. Es war die Zeit des 'Trip-Hop' für die elektronische Musik und jeder Clown mit einem Sampler und einer Sammlung 'Blue Note'-Platten konnte irgendwelche halbgare  Hintergrundmusik zusammenschustern. Aber 'Bricolage' war mehr als das. Einen Mischung aus Jazz und Beats wurde mit Bossa-Nova, Batucada und Jungle erweitert und mit einem Sinn für Songwriting ergänzt, der nichts mit der eben erwähnten Szene zu tun hatte. Einer der Songs darauf (A Day In My Garden) war von einem Vorfall inspiriert bei dem Amon auf das Fahrrad eines Nachbarn pinkelte, mit dem er sich vorher gestritten hatte ... Ninja hatte offensichtlich keinen netten, kleinen Jazzer unter Vertrag genommen. 
+Bio3=Als nächstes kam 'Permutation'. Stilistisch war es die logische Nachfolge zu ‘Bricolage', aber gleichzeitig die Musik auch deutlich finsterer. Eigentlich kann man Amons Karriere auch an seiner Eignung für Coffee-Shops und Dinner-Parties nachzeichnen ... und diese Platte markierte den Punkt, an dem sich seine Musik nicht mehr als Hintergrund eignete. Sie beschrieb einen großen Bogen: von Filmtributen 'Like Regular Chickens' und 'People Like Frank' zu den Monster-Breaks in 'Sordid' (möglicherweise sein größter Hit), über den karawanesken Shuffle of 'Nightlife' bis hin zum ultra-üppigen 'Nova', das später für Bebel Gilbertos 'Samba Da Bencao’ auf ihrem Debutalbum verwendet wurde.  
+Bio4=Und während alle in der Millennium-Panik Hamsterkäufe tätigten, konzentrierte sich Amon auf seinen nächsten Release 'Supermodified'. Für den Fall, dass das Ende der Menschheit gekommen sei und es nie wieder Computer geben würde (oder gar die Affen die Herrschaft an sich reißen würden), wollte er verdammt sein, wenn damit nicht fertig würde, bevor die Lichter ausgehen. Wenn Amons Karriere ein 4-LP-set ist, dann wäre sein 3. Werk passenderweise der 3. Teil eines 4-LP-Rockopus der 70: Die Grenzen verschieben sich, man fordert die Fans ein wenig heraus und bereitet sie auf das vor, was noch kommt. Die Platte war ein reines Soundexperiment.
+Bio5=Es markiert auch den Punkt, an dem Amon sich mehr und mehr unhörbaren, aber spürbaren, Bassfrequenzen widmete und auch anderen an seinen Stücken mitarbeiten ließ, z. B. Chris Morris von Brass Eye & Blue Jam und den Beatboxer Quadraceptor aus Montreal. Der Bossa-Nova/Jazz wurde zu Grabe getragen und ein neuer, finsterer Electronic Soundtrack wurde geboren. 'Four Ton Mantis' ist ein Klassiker,  'Deo' hätte Sergio Leone begeistert und 'Get Your Snack On' ist ein Tribut an eine der besten gefälschten Werbungen des Internets.  
+Bio6=2002 zog Amon nach Montreal. Da sich dort Ninja Tunes nordamerikanische Zentrale befand, verbrachte er viel Zeit damit, die Kultur zu studieren und die Sonne zu genießen, ohne daran zu denken, dass er noch nie im Winter dort gewesen war ... Und als er zum ersten Mal merkte, dass seine Haare in der Nase einfroren, begab er sich mit neuer Ausrüstung und einer Speisekarte von A La Carte Express (Montreals Bibel für Eingeschneite) ins Studio, um 'Out From Out Where' abzuschließen. Als Sun Ra den Song 'Out From Out There' schrieb, stand 'There' für den tiefen Weltraum. Als Amon seine Platte 'OUT From Out Where', bedeutet 'where' das Gleiche: ein Ort, den niemand so genau bestimmen konnte.
+Bio7=Es war die logische Folge dessen, was die vorherigen Platten angedeutet hatten. Es war eine kohäsive und eindringliche Platte, die aber keine offensichtlichen Referenzpunkte besaß. Es klang wie Amon Tobin und Amon kann tatsächlich behaupten (mehr als die meisten anderen Künstler), dass sein Sound als sein eigener identifizierbar ist. Es war Amon in Breitwand-Format: der extravagante Hip-Hop von 'Verbal', das von Eli Wallach inspirierte 'Hey Blondie', die Elektrodisco der Zukunft von 'Cosmo Retro Intro Outro' und der finstere Trauermarsch 'Proper Hoodidge'. Die Tour für dieses Album mündete in Amons Einstieg in die Solid Steel Mix Series, die in Australien auf dem Final Scratch DJ Set festgehalten und im Juni '04 festgehalten wurde.  
+Bio8=Anfang 2004 wendete sich Ubisoft an Amon, um ihn die gesamte Musik für den dritten Teil der erfolgreichen 'Splinter Cell'-Serie schreiben zu lassen. Da er bisher nicht in der Lage war, das 2. Level von Splinter Cell 1 zu lösen, sah er diesen Weg als eine einfache Lösung an, sich mit dem Spiel zu beschäftigen. Es Amons Chance mit verschiedenen Kompositionsarten zu experimentieren und sich einen Kindheitstraum zu erfüllen. Allerdings spiegelt der Soundtrack in keiner Weise seine Begeisterung für Galaga wieder ...
+Bio9=Die Komposition eines richtigen Soundtracks erlaubte ihm eine Reihe für ihn ungewöhnliche Dinge, z. B. der Einsatz von großen Streicherarrangements und Solos von Hammond-Orgeln, die er mit seinen Sounds verknüpfte. Seine Arbeit ähnelt erinnert ein wenig an den Italiener Goblin, wenn er für einen Bond-Film komponieren würde. Seine Liebe für Soundtracks war immer ein Einfluss für seine Arbeit und das zeigt sich auch hier. Das Spiel wird im März 2005 veröffentlich werden. Der Soundtrack wurde bereits im Januar 2005 von Ninja Tune veröffentlicht. Eine 5.1-DVD-Audio-Version wird parallel zum Spiel veröffentlicht und erneut beweisen, dass Amon zu den innovativsten Künstlern seiner Zeit gehört.
+
+[MenuSoundtrack]
+Title=MUSIKLISTE
+Play=SPIELEN
+UnlockedMusic=FREIGESCHALTETE MUSIK
+
+[MISSIONREVIEW]
+Overall=GESAMT
+Statistics=STATISTIK
+Objectives=MISSIONSZIELE
+Retry=NEU VERSUCHEN
+NextMission=FORTSETZEN
+Continue=FORTSETZEN
+
+[LOADOUT]
+Accept=ANNEHMEN
+
+[CoopCommon]
+MsgBoxHeaderOnline=TEAM ONLINE
+MsgBoxHeaderLan=TEAM LAN
+MainTitleOnline=TEAM ONLINE
+MainTitleLan=TEAM LAN
+PlayersCaption=SPIELER
+FriendsCaption=FREUNDE
+QuickMatchCaption=SCHNELLSPIEL
+MatchNameCaption=NAME
+MatchModeCaption=MODUS
+MatchMapCaption=MISSION
+MatchDifficultyCaption=SCHWIERIGKEIT:
+MatchSkillsCaption=FÄHIGKEITEN:
+MatchLanguageCaption=SPRACHE:
+MatchVoiceCaption=NUR SPRACHE:
+MatchRankCaption=RANG
+PingCaption=PING
+ModifyCaption=ÄNDERN
+CreateCaption=MATCH ERSTELLEN
+JoinCaption=MATCH BEITRETEN
+OptionsCaption=OPTIONEN
+PlayNowCaption=JETZT SPIELEN
+LobbyCaption=LOBBY
+AcceptCaption=ANNEHMEN
+PatchCaption=PATCH
+CancelCaption=ABBRUCH
+OtherPlayerLeft=IHRE VERBINDUNG WURDE GETRENNT, DA IHR TEAM-PARTNER DAS SPIEL VERLASSEN HAT.
+
+[AuthenticationMenu]
+LoginTitle=ANMELDUNG
+CreateTitle=KONTO ERSTELLEN
+ManageTitle=KONTO VERWALTEN
+LoginProgressCaption=ANMELDUNG VON: %s
+CreateAccountProgressCaption=ERSTELLE KONTO: %s
+ModifyProgressCaption=ÄNDERE KONTO: %s
+UserNameCaption=BENUTZERNAME
+PasswordCaption=PASSWORT
+RememberPasswordCaption=PASSWORT MERKEN
+AutomaticLoginCaption=AUTOMATISCHE ANMELDUNG
+RemoveCaption=ENTFERNEN
+LoginCaption=ANMELDEN
+CreateAccountCaption=ERSTELLEN
+ManageAccountCaption=VERWALTEN
+ModifyAccountCaption=ÄNDERN
+ConfirmPasswordCaption=PASSWORT BESTÄTIGEN
+NewPasswordCaption=NEUES PASSWORT
+
+[MatchList]
+MatchListTitle=MATCHLISTE
+FilterCaption=FILTER
+RefreshCaption=AKTUALISIEREN
+
+[ManageGame]
+ManageTitle=SPIEL ÄNDERN
+
+[MatchOperation]
+SearchMsg=SUCHE ...
+QuickMatchSearchMsg=SUCHE ...
+QuickMatchSearchMsgCancel=ABBRECHEN
+JoiningMsg=TRETE MATCH BEI ...
+CreatingMsg=ERSTELLE MATCH ...
+CreateShortCaption=ERSTELLEN
+JoinShortCaption=BEITRETEN
+JoinFailedMsg=DIESEM MATCH KANN NICHT BEIGETRETEN WERDEN
+JoinWrongTeammateMsg=DIESEM MATCH KANN NICHT BEIGETRETEN WERDEN. SIE HABEN NICHT DENSELBEN SPIELSTAND!
+
+[Match]
+HeaderAgents=AGENTEN
+MatchInfoCaption=INFOS
+MatchLaunchCaption=START
+MatchReadyCaption=BEREIT
+VoiceCaption=STIMME
+KickCaption=ENTFERNEN
+
+[FilterMenu]
+FilterTitle=FILTER
+QuickMatchFilter=SCHNELLSPIEL-FILTER
+UseCaption=ANWENDEN
+
+[LobbyListMenu]
+LobbyListTitle=LOBBY AUSWÄHLEN
+HeaderLobby=LOBBYNAME
+HeaderPlayerCount=SPIELER
+JoinLobbyCaption=LOBBY BEITRETEN
+
+[MainMenuCoop]
+MainMenuCoopTitle=TEAM
+LanCaption=LAN
+OnlineCaption=ONLINE
+SettingsCaption=EINSTELLUNGEN
+
+[FriendsManagement]
+FriendsManagementTitle=FREUNDE VERWALTEN
+HeaderIgnore=IGNORIEREN
+HeaderPlayers=SPIELER
+HeaderFriends=FREUNDE
+AddToIgnore=AUF IGNORIERLISTE SETZEN
+RemoveFromIgnore=AUS IGNORIERLISTE ENTFERNEN
+AddToFriend=IN FREUNDESLISTE AUFNEHMEN
+RemoveFromFriend=AUS FREUNDESLISTE ENTFERNEN
+AddedToFriend=SIE WURDEN IN %sS FREUNDESLISTE AUFGENOMMEN
+AddedToIgnore=SIE WURDEN AUF %sS IGNORIERLISTE GESETZT
+RemovedFromIgnore=SIE WURDEN VON %sS IGNORIERLISTE ENTFERNT
+
+[FriendsMessage]
+ReplyCaption=ANTWORTEN
+ReturnCaption=ZURÜCK
+IgnoreCaption=IGNORIEREN
+AddToFriendCaption=FREUND HINZUFÜGEN
+SendCaption=SENDEN
+
+[CDKeyMenu]
+Title=CD-KEY
+Prompt=BITTE GEBEN SIE IHREN CD-KEY EIN
+Instruction=(Die Nummer befindet sich auf der Umschlagvorderseite des Handbuchs)
+
+[ESRB]
+Title=ESRB-HINWEIS
+Notice=SPIELERFAHRUNG KANN BEI ONLINE-SPIELEN ABWEICHEN
+
+[OnlineTermsOfUse]
+Title=BENUTZUNGSBEDINGUNGEN
+OTU_HEADER1=BENUTZUNGSBEDINGUNGEN
+OTU_HEADER2=ZUSTIMMUNG ZU DEN VERTRAGSBEDINGUNGEN
+OTU1=Die folgenden Benutzungsbedingungen (“Benutzungsbedingungen”) stellen die Bedingungen eines rechtlichen Vertrags zwischen Ihnen zum einen und Ubi Soft Entertainment S.A., Ubi Soft, Inc., Red Storm Entertainment, Inc., Blue Byte Software, Inc. sowie Ubi.com S.A. (nachstehend gemeinsam "Ubi" genannt) zum anderen dar. 
+OTU2=Die Ubi Web-Gruppe umfasst mehrere Websites, Webseiten und Spiel (die in diesem Vertrag festgelegt sind), die Ubi gehören und/oder von Ubi kontrolliert und betrieben werden (nachstehend zusammen die „Sites“ genannt).
+OTU3=Die Sites werden Ihnen unter dem Vorbehalt angeboten, dass Sie den Bedingungen und Erklärungen, die in diesem Vertrag stehen und auf den genannten Sites angegeben werden, unverändert zustimmen. Mit dem Zugriff auf die Sites, dem Navigieren und/oder dem Nutzen der Sites erkennen Sie an, dass Sie diese Bedingungen gelesen und verstanden haben und erklären sich damit einverstanden, an diese Bedingungen gebunden zu sein, und alle geltenden Gesetze und Vorschriften einzuhalten, einschließlich der US-Export und Wiederexportkontrollgesetze und –vorschriften. 
+OTU4=NUTZEN SIE KEINE DIESER SITES, WENN SIE DIESEN BEDINGUNGEN NICHT ZUSTIMMEN.  
+OTU5=WENN SIE AUF DIE SCHALTFLÄCHE „AKZEPTIEREN“ KLICKEN, AKZEPTIEREN SIE DIE VERKAUFS- UND LIEFERBEDINGUNGEN, DIE IN DIESEN NUTZUNGSBEDINGUNGEN NIEDERGELEGT SIND. WENN SIE AUF DIE SCHALTFLÄCHE „ABLEHNEN“ KLICKEN, LEHNEN SIE UNSER ANGEBOT AB.
+OTU6=WENN SIE DIESE VERKAUFS- UND LIEFERBEDINGUNGEN ODER ANDERWEITIG IRGENDWELCHE VERHALTENSREGELN VERLETZEN, SO KANN IHR ACCOUNT UND IHR RECHT ZUR NUTZUNG DER SITES VON UBI NACH UBIS EIGENEM ERMESSEN UMGEHEND FRISTLOS AUFGEHOBEN ODER AUSGESETZT WERDEN. WENN IHR ACCOUNT AUFGEHOBEN ODER AUSGESETZT WIRD, SO HABEN SIE KEINERLEI ANSPRUCH AUF EINE RÜCKERSTATTUNG DER VON IHNEN FÜR DIE NUTZUNG DER SITES BEZAHLTEN BETRÄGE UND VERLIEREN IHRE GESAMTE NICHT GENUTZTE ZUGRIFFSZEIT. SIE ERKLÄREN UND GARANTIEREN, DASS SIE ENTWEDER MINDESTENS ACHTZEHN JAHR ALT SIND ODER VON IHREN ELTERN ODER IHREM VORMUND EINE AUSDRÜCKLICHE ERLAUBNIS ERHALTEN HABEN.
+OTU7=Sie können Mitglied („Mitglied“) von Ubi werden, indem Sie sich auf der Site unter www.ubi.com registrieren. Um als Mitglied aufgenommen zu werden, müssen Sie allen Bedingungen des Mitgliedsvertrags und dieses Benutzungsvertrags zustimmen. Bei Fragen zu diesen Benutzungsbedingungen oder zum Mitgliedsvertrag kontaktieren Sie uns bitte unter http://support.ubi.com.
+OTU8=Die Sites enthalten unter Umständen weitere Bedingungen, Verhaltensregeln oder Leitlinien für die Nutzung der einzelnen Sites, u.a. insbesondere besondere Charakteristika (z.B. Chat Rooms und/oder Schwarze Bretter) und/oder besondere Angebote (z.B. Lotterien und Preisrätsel). 
+OTU9=Sollte eine der Bedingungen und Hinweise in diesen Benutzungsbedingungen im Wiederspruch zu den zusätzlichen Bedingungen, Verhaltensregeln und/oder Leitlinien auf einer einzelnen Site stehen, dann gelten vorrangig diese Benutzungsbedingungen; bei einem Abonnement eines Spiels gelten vorrangig die besonderen Service- und Spielbedingungen für das Spiel.  
+OTU_HEADER3=MITGLIEDS-ACCOUNT, KENNWORT UND SICHERHEIT
+OTU10=Wenn eine bestimmte Site oder ein auf den Sites angebotenes Produkt bzw. angebotener Service es erforderlich macht, dass Sie einen Account eröffnen, müssen Sie sich registrieren und uns die aktuellen, vollständigen und genauen Angaben unterbreiten, die in dem entsprechenden Registrierformular verlangt werden. Dann müssen Sie ein Kennwort und einen Benutzernamen wählen. Sie allein sind für die Vertraulichkeit Ihres Kennworts und Accounts verantwortlich. Ferner sind Sie allein für sämtliche Vorgänge an Ihrem Account verantwortlich. Sie erklären, Ubi unverzüglich jeglichen unerlaubten Gebrauch Ihres Accounts oder jegliches andere Sicherheitsversagen zu melden. Ubi haftet nicht für jedweden Verlust, der Ihnen u.U. dadurch entsteht, dass jemand anders mit oder ohne Ihr Wissen Ihr Kennwort oder Ihren Account nutzt. Hingegen können Sie für Verluste haften, die Ubi bzw. einer anderen Partei durch die Nutzung Ihres Accounts oder Passworts durch einen Dritten entstehen. 
+OTU_HEADER4=ÄNDERUNG DIESER BENUTZUNGSBEDINGUNGEN
+OTU11=Ubi behält sich das Recht vor, die Bedingungen und Erklärungen, gemäß derer die Ubi Sites angeboten werden, zu ändern, einschließlich aber nicht ausschließlich der Preise, die mit der Nutzung der Sites oder der über die Sites verkauften Waren verbunden sind. Sie haben diese Benutzungsbedingungen und die weiteren Bedingungen, die auf den einzelnen Sites bekannt gegeben werden, regelmäßig einzusehen. Mit Ihrer fortlaufenden Nutzung der Sites stimmen Sie all diesen Bedingungen und Erklärungen zu. 
+OTU12=Die von Ubi angebotenen Mitteilungs-Features, einschließlich aber nicht ausschließlich der Foren, Chat Rooms und Schwarzen Bretter, können von den Mitgliedern kostenlos genutzt werden. Durch die Bekanntgabe von Mitteilungen, das Anlegen oder Ändern einer Home Page, das Chatten, den Upload von Dateien, die Eingabe von Daten, die Übertragung von E-Mails oder die Kommunikation jedweder Art an oder über die Sites stimmen Sie zu, an die folgenden Verkaufs- und Lieferbedingungen gebunden zu sein.
+OTU13=• Alle Mitteilungen unterliegen der alleinigen Verantwortung der Personen, die die Mitteilung öffentlich bekannt machen oder übertragen. Ubi ist nicht verpflichtet, die Mitteilungen zu überwachen oder zu kontrollieren und lehnt ausdrücklich jede Verantwortung für eine Erklärung ab, gemäß derer sie die Kommunikationen überwachen oder kontrollieren wird. Sie behält sich aber auch das Recht vor, sie nach ihrem eigenen Ermessen zu überwachen oder zu kontrollieren.
+OTU14=• Ubi kontrolliert nicht den Inhalt der Mitteilungen und garantiert nicht die Exaktheit, die Rechtschaffenheit oder Qualität der darin enthaltenen Informationen.
+OTU15=• Das Mitglied oder der Benutzer erklären sich damit einverstanden, durch die Nutzung der auf der Site angebotenen Kommunikations-Features u.U. Kenntnis von Mitteilungen und anderen Inhalten zu erlangen, die schockierend, anstößig oder zu beanstanden sind. 
+OTU16=• Ubi haftet in keinem Fall für Fehler oder Unterlassungen in irgendeiner Mitteilung oder für Verluste oder Schäden, die infolge der Nutzung von Informationen entstehen, die in den auf der Site angebotenen Kommunikations-Features enthalten sind. 
+OTU17=• Falls Ubi von einem Mitglied oder Nutzer über Mitteilungen unterrichtet wird, die angeblich diesem Vertrag zuwiderlaufen, so kann Ubi die Behauptungen untersuchen und nach Treu und Glauben nach eigenem Ermessen entscheiden, ob die Mitteilung entfernt werden soll oder nicht, bzw. ob deren Entfernung veranlasst werden soll oder nicht. 
+OTU18=• Ubi behält sich das Recht vor, Mitglieder und Nutzer auszuweisen und deren weiteren Zugriff auf die Sites zu verhindern, insofern die Mitglieder und Nutzer diesen Vertrag oder gesetzliche Bestimmungen verletzen. Ubi behält sich ferner das Recht vor, beleidigende, gesetzwidrige, respektlose oder störende Mitteilungen zu entfernen. 
+OTU19=• Ubi behält sich das Recht vor, bei einer Übertretung ihrer Standards oder jeglicher gesetzeswidrigen Tag Informationen an die entsprechenden Behörden weiterzuleiten, falls diese Informationen von der Justiz verlangt werden und/oder falls Ubi dies als notwendig und/oder angemessen erachtet. 
+OTU20=• Ubi hat weiterhin das Recht, die Mitgliedschaft eines Mitglieds oder Gasts aufzuheben, der die folgenden Verhaltensregeln verletzt.
+OTU_HEADER5=VERHALTENSREGELN
+OTU21=Zusätzlich zu den vorstehend genannten Punkten verletzen Sie die Benutzungsbedingungen, wenn Sie (oder andere, die Ihren Account benutzen) nach Ubis alleinigem Ermessen:
+OTU22=• ein anderes Mitglied oder einen Gast bedrängen, bedrohen, ausspionieren, ihn in Verlegenheit bringen, ihm Leid zufügen, ihn in Unbehagen versetzen oder ungewünscht Aufmerksamkeit auf ihn lenken.
+OTU23=• Gesetzeswidrige, nachteilige, beleidigende, rassen- oder ethniendiskriminierende, vulgäre, sexuell anzügliche, obszöne, verleumderische, nicht erlaubte, die persönliche Privatsphäre oder Öffentlichkeitsrechte verletzende oder objektiv schockierende Inhalte oder Kommunikationen bekannt machen, übertragen oder deren Verteilung fördern.
+OTU24=• Einen Teil der Sites und/oder Spiel ohne vorherige schriftliche Zustimmen von Ubi ändern.
+OTU25=• Den Chat-Fluss in Chat Rooms oder in Spiel, die Chat-Funktionen enthalten, stören, um so andere Nutzer zu stören oder sich wiederholende Texte senden (Flooding).
+OTU26=• Sich als eine andere Person ausgeben oder versuchen, Nutzer in die Irre zu führen, indem Sie angeben, dass Sie Ubi oder einen Partner oder Tochtergesellschaften von Ubi vertreten.
+OTU27=• Versuchen, Übertragungen von oder an Ubi-Server abzufangen, sich darin einzuhacken, sie zu entschlüsseln oder in Besitz eines Kennworts, einer Anschrift, einer Kreditkartennummer, Account-Information oder anderer privater Informationen eines Mitglieds oder anderen Nutzers auf den Sites zu gelangen.
+OTU28=• Falsche Informationen angeben oder absichtlich Informationen unter Verschluss halten, die von den Sites oder dem Spiel benötigt werden.
+OTU29=• Ihr Account-Kennwort jemandem mitteilen und /oder Ihren Account an jemanden verkaufen oder abtreten.
+OTU30=• Nicht den Anweisungen des dazu ermächtigten Personals auf den Sites Folge leisten.
+OTU31=• Spiel oder Inhalte uploaden oder vertreiben, die nicht Ihr Eigentum sind oder für deren kostenlosen Vertrieb Sie keine Genehmigung haben.
+OTU32=• Gesetzeswidrige Vorgänge einschließlich Hacken, Cracken oder den Vertrieb gefälschtes Spiel fördern oder erleichtern.
+OTU33=• Dateien uploaden, die einen Virus oder korrumpierte Daten enthalten.
+OTU34=• Mitteilungen zu anderen Zwecken als zur persönlichen Mitteilung senden oder Werbung, Promotionmaterial, Kettenbriefe, Pyramidensysteme übertragen oder eine gewerbliche Nutzung unserer Site vornehmen.
+OTU35=• Die Spielhilfe oder die Reklamations-Schaltflächen unsachgemäß nutzen oder dem Personal von Ubi Falschmeldungen machen.
+OTU36=• Die Benutzungsbedingungen von Tools dritter Parteien, interaktiver Service Provider, regionaler, lokaler, bundesweiter, fremder oder internationaler Gesetze verletzen, insofern diese anwendbar sind.
+OTU37=• Die Bezeichnung der Urheber, gesetzliche oder andere notwendige Hinweise, die Eigentümerhinweise oder Etiketten mit dem Ursprung oder der Herkunft des Spiels oder anderes Material, das in der von Ihnen upgeloadeten Datei vorhanden sind, fälschen oder löschen.
+OTU38=• Die Benutzung der Kommunikations-Features auf den Sites eines anderen Mitglieds oder Nutzers einschränken oder verhindern.
+OTU39=• Jegliches Teil des Spiels außerhalb des Spiels verkaufen oder vertreiben, einschließlich aber nicht ausschließlich der Personen, Namen, Waffen, Objekte, Techniken, virtuellen Währungen und sonstigen Merkmale des Spiels.
+OTU40=Die Personenbezeichnungen, die Sie u.U. in dem Spiel und auf den Sites erstellen, unterliegen neben den speziellen Personenbezeichnungspolitiken, die speziell für die Spiele gelten, denselben Vorschriften und Leitlinien wie andere In-Game- oder Site-Kommunikationsformen. Sollte ein Personenname nicht gemäß diesen Leitlinien lauten, so ist Ubi berechtigt, Ihren Account zu schließen oder vorübergehen zu sperren oder nach Ubis eigenen Ermessen die Namen der Personen, die nicht mit den Leitlinien übereinstimmen, zu ändern. Schließt Ubi einen Account oder ändert Ubi einen Namen wegen Verletzung einer Bezeichnungspolitik, so erfolgt keinerlei Rückerstattung. Zusätzlich zu den vorstehend genannten allgemeinen Regeln gelten für jedes benutzerdefinierte In-Spiel folgende Vorschriften.
+OTU41=Durch die Unterbreitung oder die Bekanntgabe von Mitteilungen auf einer Site, einschließlich aber nicht ausschließlich von Personennamen, gewähren Sie Ubi weltweit automatisch das gebührenlose, ewige, unwiderrufliche, nichtexklusive und lizenzierbare Recht und die Lizenz, derartige Mitteilungen (ganz oder teilweise) zu nutzen, zu vervielfältigen, zu ändern, zu bearbeiten, zu veröffentlichen, zu übersetzen, daraus abgeleitete Werke zu erstellen, zu vertreiben, auszuführen und darzustellen und/oder in irgendeiner Form in andere Werke, Medien, oder noch nicht bekannte oder spätere entwickelte Technologien einzubinden. Hiermit verzichten Sie auf jegliches Recht zur Inanspruchnahme von Ubi infolge einer angeblichen oder tatsächlichen Verletzung jeglicher Eigentumsrechte, Persönlichkeits- und Öffentlichkeitsrechte, Urheberpersönlichkeitsrechte und zuerkannten Rechte in Verbindung mit derartigen Mitteilungen.
+OTU_HEADER6=GESETZESWIDRIGES VERHALTEN
+OTU42=Gesetzeswidriges Verhalten bei der Nutzung einer der Sites ist ein Grund für das Schließen des Accounts eines Mitglieds. Ubi arbeitet diesbezüglich mit den Vollzugsbehörden zusammen und verfolgt derartige Übertretungen in vollem Maße strafrechtlich.
+OTU_HEADER7=ENTSCHÄDIGUNG
+OTU43=Sie erklären sich damit einverstanden, dass Sie persönlich für die Nutzung der Sites und für sämtliche Ihrer Mitteilungen und Vorgänge auf den Sites verantwortlich sind, u.a. für Ihre inhaltlichen Beiträge, und dass Sie Ubi, und deren entsprechende Tochtergesellschaften, Mitarbeiter, Führungskräfte und die Geschäftsleitung entschädigen, schützen und schadlos halten, falls Ubi sich Forderungen, Haftungsansprüchen, Verlusten, Schäden und Kosten aus der Nutzung oder angeblichen Nutzung der Sites gegenübersieht (inklusive angemessene Rechtsanwaltskosten), die u.a. durch Ihr Verhalten und jegliche Mitteilungen und/oder jeglichen Inhalt, den Sie als Beitrag zu den Sites liefern, und jeglicher Verletzung der Benutzungsbedingungen oder des Lizenzvertrags (wie nachstehend definiert) entstanden sind. Ubi behält sich das Recht vor, alleine und auf eigene Kosten ihre Verteidigung zu übernehmen und exklusiv alle anderen Angelegenheiten zu kontrollieren, für deren Entschädigung Sie aufzukommen haben. In einem derartigen Fall erklären Sie sich einverstanden, daran mitzuwirken, einen derartigen Klageanspruch zu bestreiten.
+OTU_HEADER8=ÜBER DIE SITES ERHÄLTLICHE SPIEL UND INHALTE
+OTU44=Jegliche Inhalte und Spiel („Spiel“), die gegebenenfalls zum Einsehen, Spielen und/oder Download in Verbindung mit den Sites bereitgestellt werden, sind mit Ausnahme der Inhalte und/oder Spiel, die u.U. von den Mitgliedern oder Nutzern über ein Kommunikations-Feature bereitgestellt werden, Eigentum und urheberrechtliche Werke von Ubi und/oder ihrer Lieferanten und sind durch die Urheberrechtsgesetze und Bestimmungen in internationalen Verträgen geschützt. Die Nutzung des Spiels unterliegt den Bestimmungen des Endverbraucher-Lizenz-Vertrags, der gegebenenfalls des Spiels beiliegt („Lizenzvertrag“) oder darin mitenthalten ist. Sie dürfen kein Spiel installieren oder nutzen, der ein Lizenzvertrag beiliegt oder in der ein Lizenzvertrag enthalten ist, wenn Sie nicht den Bedingungen des Lizenzvertrags zustimmen. Es gilt als vereinbart, dass Sie keine Eigentumsrechte für die Sites und/oder einen Teil des Spiels erwerben, einschließlich aber nicht ausschließlich des Universums, der Personen, der Handlung und der Namen, die von Ihnen beim Spielen mit dem Spiel erstellt werden.
+OTU45=Ubi gewährt Ihnen als Nutzer für jedes Spiel, der kein Lizenzvertrag beigelegt ist, eine unwiderrufliche, persönliche, nichtübertragbare Softwarenutzungslizenz für das Aufrufen und die Nutzung der entsprechenden Site gemäß diesen Benutzungsbedingungen und zu keinem anderen Zwecke, insofern Sie alle Urheber- und Eigentumshinweise unberührt lassen. Jegliche Vervielfältigung oder Weitergabe des Inhalts und/oder des Spiels ist gesetzlich ausdrücklich untersagt und kann schwere zivil- und strafrechtliche Ahndungen nach sich ziehen. Jede Verletzung dieser Bestimmungen wird in vollem Ausmaß geahndet. JEGLICHES KOPIEREN UND JEGLICHE NACHBILDUNG DES INHALTS ODER DES SPIELS AUF EINEM ANDEREN SERVER ODER ORT ZUR WEITEREN VERVIELFÄLTIGUNG ODER WEITERGABE IST OHNE EINSCHRÄNKUNG DER VORSTEHEND ANGEFÜHRTEN PUNKTE AUSDRÜCKLICH UNTERSAGT. Sie erklären sich damit einverstanden, dass das Spiel und etwaige beiliegende Unterlagen und/oder technische Informationen den geltenden Exportkontrollgesetzen und –bestimmungen der USA unterliegen. Sie stimmen zu, das Spiel nicht mittelbar oder unmittelbar in andere Länder zu exportieren oder reexportieren, die den Exportbeschränkungen der USA unterliegen.
+OTU_HEADER9=HAFTUNGSAUSSCHLUSS
+OTU46=DIE INFORMATIONEN, SPIEL, PRODUKTE UND SERVICES, DIE AUF DEN SITES ENTHALTEN ODER ÜBER DIE SITES ERHÄLTLICH SIND, KÖNNEN UNGENAUIGKEITEN ODER DRUCKFEHLER ENTHALTEN. AN DEN SITES UND DEN DARIN ENTHALTENEN INFORMATIONEN WERDEN REGELMÄSSIG ÄNDERUNGEN VORGENOMMEN. UBI UND IHRE ENTSPRECHENDEN LIEFERANTEN KÖNNEN JEDERZEIT AN DEN SITES ÄNDERUNGEN VORNEHMMEN. UBI UND/ODER DEREN ENTSPRECHENDE LIEFERANTEN MACHEN KEINE ANGABEN ÜBER DIE ANGEMESSENHEIT, ZUVERLÄSSIGKEIT, VERFÜGBARKEIT, TERMINTREUE, VIRUSFREIHEIT BZW. ANDERE SCHÄDIGENDE KOMPONENTEN SOWIE DIE GENAUIGKEIT DER INFORMATIONEN, SPIEL, PRODUKTE, SERVICEMITTEILUNGEN, INHALTE UND ENTSPRECHENDEN GRAFIKEN, DIE AUF DEN SITES ZU WELCHEM ZWECK AUCH IMMER ENTHALTEN SIND. ALLE DERARTIGEN INFORMATIONEN, PROGRAMME, PRODUKTE, SERVICES, MITTEILUNGEN, INHALTE UND ENTSPRECHENDEN GRAFIKEN WERDEN „AS IS“ BEREITGESTELLT, D.H. OHNE EINE GARANTIE JEDWEDER ART ABGESEHEN VON DEN GESETZLICH GEWÄHRLEISTUNGEN. UBI UND/ODER IHRE ENTSPRECHENDEN LIEFERANTEN VERZICHTEN  HIERMIT AUF ALLE GARANTIEN UND BEDINGUNGEN BEZÜGLICH DIESER INFORMATIONEN, SPIEL, PRODUKTE, SERVICES, MITTTEILUNGEN, INHALTE UND VERBUNDENEN GRAFIKEN, EINSCHLIESSLICH ALLER DAZUGEHÖRENDEN BEDINGUNGEN UND GARANTIEN ÜBER DIE MARKTGÄNGIGKEIT, DIE EIGNUNG FÜR EINEN BESTIMMTEN ZWECK, DAS KNOW-HOW, DAS EIGENTUM UND DIE NICHTFÄLSCHUNG.
+OTU47=SIE SIND INSBESONDERE DAMIT EINVERSTANDEN, DASS UBI NICHT FÜR DEN UNERLAUBTEN ZUGRIFF AUF BZW. DIE ÄNDERUNG IHRER MITTEILUNGSÜBERTRAGUNGEN ODER –DATEN, JEGLICHEN MATERIALS ODER JEGLICHER GESANDTER ODER EMPFANGENER DATEN, NICHT GESANDTER EMPFANGENER DATEN ODER SÄMTLICHE AUF EINER DER SITES VORGENOMMEN TRANSAKTIONEN HAFTET. SIE SIND INSBESONDERE DAMIT EINVERSTANDEN, DASS UBI NICHT FÜR BEDROHENDE, VERLEUMDERISCHE, OBSZÖNE, BELEIDIGENDE ODER GESETZESWIDRIGE INHALTE ODER VERHALTENSWEISEN EINER ANDEREN PARTEI ODER FÜR EINE VERLETZUNG VON RECHTEN EINES ANDEREN, U.A. RECHTE GEISTIGEN EIGENTUMS, VERANTWORTLICH IST ODER HAFTET. SIE SIND INSBESONDERE DAMIT EINVERSTANDEN, DASS UBI NICHT FÜR DIE BEI DER NUTZUNG EINER SITE UND/ODER AUF EINER SITE ENTHALTENE VON DRITTEN GESANDTE INHALTE VERANTWORTLICH IST.
+OTU48=IN KEINEM FALL HAFTEN UBI UND/ODER DEREN LIEFERANTEN FÜR JEGLICHE MITTELBAREN, UNMITTELBAREN, STRAFENDEN, NEBEN- ODER FOLGESCHÄDEN ODER SCHÄDEN JEDWEDER ART, EINSCHLIESSLICH, ABER NICHT AUSSCHLIESSLICH VON SCHÄDEN INFOLGE DES VERLUSTS DES GENUSSRECHTS, DES DATENVERLUSTS ODER GEWINNAUSFALLS, DIE DURCH DIE NUTZUNG ODER DEN BETRIEB DER SITES, DIE VERZÖGERTE ODER NICHT MÖGLICHE NUTZUNG DER SITES ODER DAMIT VERBUNDENEN SERVICES, DIE ERBRINGUNG ODER NICHTERBRINGUNG VON SERVICELEISTUNGEN ODER DIE LIEFERUNG BZW. NICHTLIEFERUNG JEGLICHER AUF DEN SITES ENTHALTENEN INFORMATIONEN, SPIEL, PRODUKTE, SERVICEMITTEILUNGEN, INHALTE UND DAMIT ZUSAMMENHÄNGENDEN GRAFIKEN, ENTSTEHEN ODER IN IRGENDEINER WEISE DAMIT VERBUNDEN SIND, ODER DIE SICH ANDERWEITIG AUS DER SITENUTZUNG ERGEBEN, GLEICH OB SIE AUF VERTRAGSRECHT, ZIVILRECHTLICHEM DELIKT, NACHLÄSSIGKEIT, UNBESCHRÄNKTER HAFTPFLICHT ODER ÄHNLICHEM BASIEREN, AUCH WENN UBI ODER EINER IHRER LIEFERANTEN ÜBER DIE MÖGLICHKEIT EINES SCHADENS BENACHRICHTIGT WURDE. DA IN MANCHEN BUNDESSTAATEN ODER GERICHTSBARKEITEN EIN HAFTUNGSAUSSCHLUSS BZW. EINE HAFTUNGSBEGRENZUNG UNZULÄSSIG SIND, TRIFFT DIE VORSTEHENDE HAFTUNGSBEGRENZUNG U.U. NICHT AUF SIE ZU. WENN SIE MIT EINEM TEIL ODER MIT IRGENDWELCHEN BENUTZUNGSBEDINGUNGEN DER SITES NICHT ZUFRIEDEN SIND, IST IHR EINZIGES EXKLUSIVES RECHTSMITTEL EINE EINSTELLUNG DER SITENUTZUNG.
+OTU49=UBI GIBT KEINE GEWÄHR, DASS SIE AUF DEN SITES ODER BEIM SPIELEN MIT DEM SPIEL NICHT VERHALTENSWEISEN ANDERER AUSGESETZT WERDEN, DIE SIE U.A. ALS BELEIDIGEND, DEGRADIEREND, SCHOCKIEREND, BEDROHEND, OBSZÖN, VERLEUMDERISCH, ABFÄLLIG ODER FEINDSELIG ERACHTEN. SOLLTE UBI BESCHLIESSEN, KEINE MASSNAHMEN ZU ERGREIFEN, EINE MASSNAHME ZU ERGREIFEN, MIT DER SIE NICHT EINVERSTANDEN SIND, ODER SOLLTE UBI AUS WELCHEM GRUND AUCH IMMER NICHT IMSTANDE SEIN, MASSNAHMEN ZU ERGREIFEN, SO HAFTEN UBI, DEREN MUTTERGESELLSCHAFT, TOCHTERGESELLSCHAFT ODER LIEFERANTEN KEINESFALLS IHNEN ODER JEDEM ANDEREN DRITTEN GEGENÜBER FÜR NEBEN- ODER FOLGESCHÄDEN (WIE AUCH IMMER DIESE ENTSTEHEN, EINSCHLIEßLICH AUS NACHLÄSSIGKEIT) UND/ODER SEELISCHE BELASTUNGEN UND/ODER WEITERE SCHÄDEN AUS ODER IN VERBINDUNG MIT IHREM ACCOUNT, DES SPIELS ODER DER BEIM SPIELEN MIT DEM SPLIEL AUFGEWANDTEN ZEIT. UNSERE HAFTUNG IHNEN ODER DRITTEN GEGENÜBER IST – ES SEI DENN, DIES IST GESETZLICH UNTERSAGT - AUF DEN NIEDRIGEREN DER BEIDEN FOLGENDEN BETRÄGE BEGRENZT: (i) DER BETRAG, DEN SIE FÜR DIE NUTZUNG DER SITE BEZAHLT HABEN ODER (ii) 100 USD.
+OTU_HEADER10=WEITERE HAFTUNGSBESCHRÄNKUNGEN
+OTU50=Sie stimmen zu, dass ubi.com sich das Recht vorbehält, über längere Zeit inaktive Accounts abzumelden.
+OTU51=UBI.COM GEWÄHRLEISTET NICHT DIE UNTERBRECHUNGSFREIHEIT, TERMINTREUE, SICHERHEIT ODER FEHLERFREIHEIT JEDWEDEN SERVICES.
+OTU52=SERVICE KONTAKT: http://support.ubi.com.
+OTU_HEADER11=KÜNDIGUNG/ZUGANGSBESCHRÄNKUNG
+OTU53=Sie oder Ubi haben jederzeit das Recht, Ihre Mitgliedschaft oder ein bestimmtes Abonnement aufzukündigen oder zu stornieren. Sie verstehen und erklären sich damit einverstanden, dass die Stornierung Ihres Accounts oder eines bestimmten Abonnements in einem Streitfall mit Ubi Ihr einziges Recht und Rechtsmittel darstellt. Dies umfasst auch (aber nicht ausschließlich) jeden Streit aus oder über: (1) irgendeine Bedingung des Mitgliedsvertrags oder Ubis Durchsetzung oder Anwendung dieser Benutzungsbedingungen; (2) jegliche Politik oder Praktik von Ubi, u.a. zum Datenschutz, die Sie nachschlagen können unter:
+OTU54=http://www.ubi.com/Info/PrivacyPolicy.htm
+OTU55=oder Ubis Durchsetzung oder Anwendung dieser Politiken, (3) jeden Inhalt oder Spiel, die über die Sites bereitgestellt werden oder jede inhaltliche Änderung durch die Sites; (4) Ihre Fähigkeit, die Sites aufzurufen oder sie zu nutzen; oder (5) die Höhe oder Art der Gebühren, Mehrkosten, geltenden Steuern, Rechnungsstellungsmethoden oder jegliche Änderungen an den Gebühren, anwendbaren Steuern, Mehrkosten oder Rechnungsstellungsmethoden in Verbindung mit den Sites. Sie können Ihre Mitgliedschaft oder ein bestimmtes Abonnement stornieren, indem Sie bei Ubi unter http://support.ubi.com eine Kündigung einreichen. Ubi behält sich das Recht zur Erhebung von Gebühren, zum Einzug von Mehrkosten oder Kosten vor, die entstehen, bevor Sie Ihre Ubi-Mitgliedschaft oder ein bestimmtes Abonnement stornieren. Ferner haben Sie für alle Kosten aufzukommen, die dritten Verkäufern oder Anbietern von Inhalten vor Ihrer Stornierung entstehen. Sollte Ihr Account oder ein bestimmtes Abonnement von Ihnen oder Ubi aufgekündigt werden, so erfolgt keine Rückerstattung, auch nicht von Mitgliedsgebühren; Ihnen werden weder die Onlinezeit noch andere Guthaben gutgeschrieben oder in Bargeld bzw. eine andere Form der Rückerstattung umgewandelt. Aktive Ubi Mitglieder gestatten es unter Umständen früheren Mitgliedern, deren Mitgliedschaften von Ubi gekündigt wurden, ihre Accounts zu benutzen. Jegliche verspätet oder nicht bezahlten Accounts oder Accounts, die mit Ubi ungelöste Problemen haben, müssen geregelt werden, bevor Ubi es Ihnen gestattet, sich erneut zu registrieren oder die Sites zu benutzen. Auch wenn in diesen Nutzungsbedingungen etwas Gegenteiliges festgelegt sein sollte, so hat Ubi, falls sie beschließt, aus irgendeinem Grund einige ihrer Services zu stornieren oder zu unterbrechen, die von Ihnen zu viel bezahlten Gebühren anteilig zurückzuerstatten, falls sie für einige dieser stornierten Services Vorauszahlungen geleistet haben.
+OTU_HEADER12=GEISTIGES EIGENTUM
+OTU56=Die Sites, einschließlich aber nicht ausschließlich sämtlicher Kommunikations-Features, enthalten urheberrechtliche Bestandteile, Warenzeichen und sonstige Eigentumsinformationen, insbesondere Text, Software, Fotos, Videos, Grafiken, Musik und Sounds; die gesamten Inhalte der Sites sowie all deren Zonen sind gemäß dem Urheberrecht der U.S. als kollektives Werk urheberrechtlich geschützt. Ubi hat das Urheberrecht auf die Auswahl, Koordinierung, Anordnung und Verbesserung derartiger Inhalte. Sie dürfen den Inhalt auf den Sites (u.a. insbesondere den Inhalt, den Ubi Ihnen zum Download bereitstellt) ohne vorherige schriftliche Genehmigung von Ubi und dem Besitzer des Urheberrechts weder ändern noch veröffentlichen, weitergeben, noch an dessen Verkauf oder Übertragung teilnehmen oder daraus abgeleitete Werke erstellen oder ihn auf irgendeine Art und Weise verwerten. Sollte das Kopieren, die Verbreitung oder Veröffentlichung urheberrechtlich geschützten Materials gestattet sein, so dürfen keine Änderungen oder Löschungen von Urheberbezeichnungen, Warenzeichen, Beschriftungen oder Urheberrechtshinweisen vorgenommen werden. Sie erkennen hiermit an, dass Ubi und/oder andere Anbieter von Inhalten Eigentümer des Materials bleiben, das auf den Sites bekannt gegeben wird und dass Sie durch den Download von urheberrechtlich geschütztem Material keines dieser Eigentumsrechte erwerben.
+OTU_HEADER13=KOSTEN, RECHNUNGSSTELLUNG UND ABOPROBEZEITEN
+OTU57=Sie können ein Mitglied der Sites sein, ohne dass Sie Ubi für die Teilnahme an einem Spiel oder einem anderen Vorgang bezahlen. Dennoch ist Ubi berechtigt, nach eigenem Ermessen monatliche Abogebühren für den Zugang zu bestimmten Zonen der Sites, für das Spielen bestimmter Premium-Spiele und die Teilnahme an damit verbundenen Aktivitäten auf den Sites zu erheben. Sie müssen ein Mitglied von Ubi sein und die Abogebühr oder andere Gebühren für die Teilnahme an diesen Aktivitäten entrichten. Wenn Sie eine Abogebühr für den Zugang zu einem Teil unserer Site oder für das Spielen eines bestimmten Spiels bezahlen müssen, so werden diese Informationen auf der entsprechenden Site bekannt gegeben. Sie haben die Möglichkeit, das Spiel zu abonnieren, indem Sie uns eine gültige Kreditkartennummer und Rechnungsinformationen angeben. Die jeweils geltenden Abogebühren und sonstigen Rechnungsinformationen werden streng vertraulich behandelt.
+OTU58=Wenn Sie ein Abonnement für das Spielen bestimmter Spiele beziehen, so müssen Sie u.U. speziell für ein bestimmtes Spiel einen Service- oder Mitgliedsvertrag lesen und darin einwilligen, bei dem die Bedingungen leicht von den Vertragsbedingungen abweichen, die Sie hier vorfinden. Ihr Abo für dieses Spiel und das Spielen dieses Spiels unterliegt speziellen Bedingungen.
+OTU59=A. Bezahlung per Kreditkarte.
+OTU60=Sie müssen zur Zahlung Ihres/r Abonnements eine Kreditkarte verwenden. Wenn Sie Ubi die Kreditkartenangaben machen, erklären und garantieren Sie, dass Sie der rechtmäßige Nutzer der Kreditkarte sind, die zum Bezahlen des Abos oder anderer Gebühren benutzt wird. Ihr Abonnement erneuert sich automatisch um denselben Zeitraum, es sei denn, Sie übermitteln uns vor dem Ablaufen Ihres Abonnement eine schriftliche Stornierung. Sie erklären sich damit einverstanden, Ubi jegliche Änderungen der Nummer und des Gültigkeitsdatums Ihrer Kreditkarte und/oder Ihrer Rechnungsanschrift unverzüglich mitzuteilen und Sie erklären sich einverstanden, Ubi umgehend zu verständigen, wenn Ihre Kreditkarte aus welchem Grund auch immer ausläuft oder storniert wird.
+OTU61=B. Belastung Ihrer Kreditkarte.
+OTU62=IHRE ABOGEBÜHREN SIND IM VORAUS ZAHLBAR UND WERDEN WEDER TEILWEISE NOCH GANZ RÜCKERSTATTET. Ubi behält sich das Recht vor, unsere Gebühren oder Rechnungsstellungsmethoden jederzeit zu ändern und Ubi hat jede derartige Änderung mindestens dreißig (30) Tage im voraus anzukündigen. Sämtliche Änderungen werden auf den Sites bekannt gemacht und Sie sind dafür verantwortlich, den Rechnungsabschnitt der Sites einzusehen, um rechtzeitig von derartigen Änderungen Kenntnis zu erlangen. Ihre fortlaufende Nutzung der Sites dreißig (30) Tage nach der öffentlichen Bekanntmachung der Änderungen auf den Sites bedeutet, dass Sie diese Änderungen akzeptieren. Wenn irgendeine Änderung für Sie nicht akzeptabel ist, so können Sie Ihre Mitgliedschaft oder ein bestimmtes Abonnement jederzeit aufkündigen, doch erstattet Ubi Ihnen keine Gebühren zurück, die Sie bereits vor der Kündigung Ihrer Mitgliedschaft oder Ihres Abonnements für Ihren Account entrichtet haben und überträgt auch nicht anteilsmäßig Gebühren auf andere Abonnements. Wenn Ihre Nutzung der Sites nutzungs- oder umsatzsteuerpflichtig ist, so kann Ubi Ihnen diese Steuern zuzüglich zum Abo oder den anderen im Rechnungsabschnitt veröffentlichten Gebühren in Rechnung stellen.
+OTU63=Als Inhaber des Accounts sind Sie für alle entstandenen Kosten, einschließlich der jeweils geltenden Steuern, und für alle Käufe verantwortlich, die von Ihnen oder jemandem, der Ihren Account benutzt, getätigt werden. Dies bedeutet, dass Sie für jede Nutzung und Käufe auf Ihrem Account verantwortlich sind, es sei denn Ihre Account- oder Kreditkarteninformationen werden widerrechtlich oder betrügerisch von jemand anderem als den von Ihnen zur Nutzung Ihres Accounts berechtigten Personen genutzt. 
+OTU64=C. Steuern  
+OTU65=Sie haben unter Umständen den Wert der Preise, die Sie erhalten, als zu versteuerndes Einkommen zu veranlagen. Um in den Besitz eines Preises zu kommen, müssen Sie eine gültige Sozialversicherungsnummer oder eine andere Steueridentifikationsnummer sowie jegliche andere von Ubi billigerweise verlangten Informationen angeben. Ubi und/oder Sponsoren, die einen besonderen Preis anbieten, können den Finanzämtern des Bundes oder der Bundesstaaten den Wert des Preises melden.
+OTU66=D. Aboprobezeit
+OTU67=Bei bestimmten Spielen und Aktivitäten, die über die Sites angeboten werden, können wir eine Zeit lang freien Zugang zu einem Abo anbieten. Wenn Sie ein Abo akzeptieren, das eine Zeit lang einen freien Zugang gewährt, wird Ihr Account für dieses Spiel oder diese Aktivität erst belastet, wenn die kostenlose Abozeit verstrichen ist, es sei denn, Sie stornieren das Abo vor dieser Zeit oder es sei denn, es ist in der entsprechenden Abo-Beschreibung etwas anderes vorgesehen. Sie sind immer für alle Internetzugangsanbieter-, Telefon- und sonstigen Verbindungskosten verantwortlich, die Ihnen bei der Nutzung der Sites entstehen, auch wenn wir eine Zeit lang einen freien Zugang zu einem Abo anbieten.
+OTU_HEADER14=ONLINE SPIELZONE
+OTU68=Ubi behält sich das Recht vor, Digitalcodes, globale einmal vergebene Identifier (Guides), Cookies oder andere Technologien zu nutzen, um speziell die Computer auszumachen, die die Sites abrufen. Diese Informationen können verfolgt werden, um anonyme Sammelstatistiken über den Computergebrauch zu entwickeln, die für Ubi-Vorgänge oder von Dritten genutzt werden können. Die Computer-Identifkations-Technologie kann auch für die Durchsetzung dieser Benutzungsbedingungen eingesetzt werden. Nähere Informationen zu diesem Thema entnehmen Sie bitte unserer Datenschutzpolitik.
+OTU_HEADER15=ALLGEMEINE GESCHÄFTSBEDINGUNGEN
+OTU69=Dieser Vertrag untersteht dem Recht des Bundesstaats Kalifornien, USA. Ausschließlicher Gerichtsstand für Streitigkeiten aus oder in Verbindung mit der Nutzung der Sites ist San Francisco County, Kalifornien, USA. Dem stimmen Sie hiermit unwiderruflich zu. Es wird vereinbart, dass zwischen Ihnen und Ubi kein Joint Venture, keine Partnerschaft, kein Angestellten- oder Agenturverhältnis aus diesem Vertrag oder der Nutzung der Sites besteht. Ubi behält sich das Recht vor, persönliche Informationen über Sie oder Ihre Nutzung der Sites, einschließlich derer Inhalte ohne vorherige Zustimmung weiterzugeben, falls Ubi Grund zur Annahme hat, dass dies erforderlich ist, um: gesetzlichen Bestimmungen nachzukommen oder mit rechtmäßigen Vorgehensweisen übereinzustimmen; (2) die Eigentumsrechte von Ubi oder ihrer verbundenen Unternehmen zu schützen und zu verteidigen, (3) die Benutzungsbedingungen durchzusetzen; oder (4) so zu handeln, um die Interessen ihrer Mitglieder oder Dritter zu wahren. Ubis Erfüllung dieses Vertrags unterliegt den bestehenden Gesetzen und rechtmäßigen Vorgehensweisen und nichts in diesem Vertrag beeinträchtigt Ubis Recht, Regierungs-, Gerichts- und Gesetzvollstreckungsaufforderungen oder –anforderungen in Bezug auf Ihre Nutzung der Sites oder Ubi eingereichte oder von Ubi eingeholte Informationen über diese Nutzung nachzukommen. Sollte dieser Vertrag aufgrund geltenden Rechts ganz oder teilweise unwirksam oder nicht vollstreckbar werden, einschließlich aber nicht ausschließlich des vorstehend aufgeführten Haftungsausschlusses und der Haftungsbeschränkungen, dann tritt an Stelle der unwirksamen bzw. nicht vollstreckbaren Bestimmung eine Bestimmung, die dem wirtschaftlichen Zweck der ursprünglichen Bestimmung am nächsten kommt. Die übrigen Bestimmungen bleiben davon unberührt. Sie müssen beim Anmelden auf den Sites u.U. einer ausführlicheren Fassung dieses Vertrags zustimmen. Eine Druckform dieses Vertrags und jeglicher Mitteilung in elektronischer Form (basierend auf oder in Zusammenhang mit diesem Vertrag) ist bei Gerichts- oder Behördenverfahren in gleichem Maße und zu denselben Bedingungen wie andere geschäftliche Unterlagen und Aufzeichnungen, die ursprünglich generiert und in Druckform aufbewahrt wurden, zulässig. 
+OTU_HEADER16=URHEBERRECHT UND WARENZEICHEN
+OTU70=Alle Inhalte der Sites sind: Copyright © 2001- 2003 Ubi Soft Entertainment und oder deren Lieferanten, Adresse: 625 Third Street, San Francisco, California 94107 U.S.A. Vorbehaltlich aller Rechte. 
+OTU71=WARENZEICHEN. Ubi Soft Entertainment, Ubi Soft, ubi.com, Red Storm Entertainment, Blue Byte Software und/oder andere in diesem Vertrag genannte Produkte sind entweder Warenzeichen oder eingetragene Warenzeichen von Ubi in den USA und anderen Ländern. Die Namen der in diesem Vertrag genannten tatsächlichen Unternehmen und Produkte können Warenzeichen der jeweiligen Eigentümer sein. Alle Rechte, die in diesem Vertrag nicht ausdrücklich garantiert sind, sind vorbehalten. 
+OTU72=SIE AKZEPTIEREN DIESE VORSCHRIFTEN UND WERDEN IHNEN FOLGE LEISTEN.
+OTU73=FERNER STIMMEN SIE ZU, DASS DIESE VORSCHRIFTEN FÜR JEDEN GELTEN, DEM SIE ES ERLAUBEN, IHREN ACCOUNT ODER IHREN BENUTZERNAMEN ZU NUTZEN UND DASS SIE PERSÖNLICH FÜR DIE ETWAIGEN FOLGEN VERANTWORTLICH SIND (U.A. SCHLIEßEN IHRES ACCCOUNTS), FALLS IRGENDEINE PERSON DIESE VORSCHRIFTEN NICHT BEACHTET. SIE STIMMEN ZU, DASS SIE DIE BEDINGUNGEN DIESES VERTRAGS SORGFÄLTIG GELESEN UND VERSTANDEN HABEN.
+
+[QuitMessage]
+QuitMessageForPatch=MÖCHTEN SIE SPLINTER CELL: CHAOS THEORY BEENDEN UND DEN UPDATEVORGANG STARTEN?
+QuitMessageForVoiceConfig=SPLINTER CELL CHAOS THEORY VERLASSEN UND ASSISTANT FÜR SPRACHKONFIGURATION STARTEN?
+
+[MenuSettings]
+Title=EINSTELLUNGEN
+Save=SPEICHERN
+Reset=STAND.
+Controls=STEUERUNG
+Display=ANZEIGE
+Sounds=SOUND
+SaveBeforeQuitTitle=EINSTELLUNGEN GEÄNDERT
+SaveBeforeQuitMsg=IHRE EINSTELLUNGEN WURDEN GEÄNDERT. MÖCHTEN SIE SIE VOR DEM BEENDEN SPEICHERN?
+VoiceVolume=SPRACHLAUTSTÄRKE
+MusicVolume=MUSIKLAUTSTÄRKE
+AmbientVolume=UMGEBUNGSLAUTSTÄRKE
+SFXVolume=EFFEKTLAUTSTÄRKE
+Advanced=ERWEITERT
+Brightness=HELLIGKEIT
+Contrast=KONTRAST
+Resolution=BILDSCHIRMAUFLÖSUNG
+Fullscreen=VOLLBILD
+Windowmode=FENSTERMODUS
+RefreshRate=BILDWIEDERHOLRATE
+Shader=SHADER MODEL-TYP
+Antialiasing=ANITALIASING
+TextureFiltering=ANISOTRPISCHE FILTERUNG
+ShadowQuality=SCHATTENQUALITÄT
+TrilinearFiltering=TRILINEARE FILTERUNG
+SpecularLighting=SPIEGELNDE BELEUCHTUNG
+HiResTextures=HIGH QUALITY TEXTUREN
+ANISO 2X=ANISOTROPISCH 2X
+ANISO 4X=ANISOTROPISCH 4X
+ANISO 8X=ANISOTROPISCH 8X
+ANISO 16X=ANISOTROPISCH 16X
+AA 1X=ANTIALIASING 1X
+AA 2X=ANTIALIASING 2X
+AA 3X=ANTIALIASING 3X
+AA 4X=ANTIALIASING 4X
+AA 5X=ANTIALIASING 5X
+AA 6X=ANTIALIASING 6X
+AA 7X=ANTIALIASING 7X
+AA 8X=ANTIALIASING 8X
+AA 9X=ANTIALIASING 9X
+AA 10X=ANTIALIASING 10X
+AA 11X=ANTIALIASING 11X
+AA 12X=ANTIALIASING 12X
+AA 13X=ANTIALIASING 13X
+AA 14X=ANTIALIASING 14X
+AA 15X=ANTIALIASING 15X
+AA 16X=ANTIALIASING 16X
+LOW=NIEDRIG
+MEDIUM=MITTEL
+HIGH=HOCH
+VERY HIGH=SEHR HOCH
+NONE=AUS
+ENABLED=AKTIVIERT
+DISABLED=DEAKTIVIERT
+OFF=AUS
+ON=EIN
+YES=JA
+NO=NEIN
+CANCEL=ABBRUCH
+SM 1.1=SHADER MODEL 1.1
+SM 2.0=SHADER MODEL 2.0
+SM 3.0=SHADER MODEL 3.0
+MouseSensitivity=MAUSEMPFINDLICHKEIT
+InvertMouse=MAUS UMKEHREN
+PressAKey=TASTE DRÜCKEN, UM DIE AKTUELLE ZUORDNUNG ZU ÄNDERN
+EscCancel=ABBRECHEN: ESCAPE
+Joystick=JOYSTICK
+UseJoystick=JOYSTICK BENUTZEN
+CurrentJoystick=AKTUELLER JOYSTICK:
+HDRRendering=HDR RENDERING
+HighQualityShadows=HIGH QUALITY SOFT SHADOWS
+ParallaxMapping=PARALLAX MAPPING
+ToneMapping=TONE MAPPING
+HighQualitySkin=HIGH QUALITY SKIN
+ShaderOptions=SHADER-OPTIONEN
+AcceptShaderOptions=ANNEHMEN
+JoyDefaultNotFoundTitle=STANDARD NICHT GEFUNDEN
+JoyDefaultNotFoundMsg=DIESER JOYSTICK WIRD NICHT VOM SPIEL UNTERSTÜTZT. STANDARDEINSTELLUNGEN KONNTEN NICHT GELADEN WERDEN
+HWShadowMapping=HARDWARE-SCHATTEN-MAPPING
+VerticalSync=V-SYNC
+VoiceChatEnable=SPRACH-CHAT
+VoiceChatEnableUnAvail=SPRACH-CHAT (NICHT VERFÜGBAR)
+VoiceChatErrorTitle=NICHT VERFÜGBAR
+VoiceChatMsg=UM DEN SPRACH-CHAT VERWENDEN ZU KÖNNEN, MÜSSEN SIE DAS MIKROFON MIT DEM KONFIGURATIONSPROGRAMM EINRICHTEN. VERLASSEN SIE DAZU DAS SPIEL UND STARTEN SIE ÜBER DIE VERKNÜPFUNG IM STARTMENÜ DAS KONFIGURATIONSPROGRAMM.
+VoiceConfig=UMGEBUNGSEMPFINDLICHKEIT SPRACHE
+OriginalVoices=ORIGINALSPRACHE
+ULTRA HIGH=ULTRAHOCH
+
+[Keys]
+Title_Move=BEWEGUNG
+K_MoveForward=Vorwärts bewegen
+K_MoveBackward=Rückwärts bewegen
+K_StrafeLeft=Nach links
+K_StrafeRight=Nach rechts
+K_Duck=Ducken / Aufstehen
+K_DuckJoystick=Ducken / Aufstehen / Interaktion beenden
+K_Accel=Heranzoomen / Schneller
+K_Decell=Herauszoomen / Langsamer
+k_BackToWall=An Wand lehnen / Hand wechseln
+K_SwitchHandZoom=An Wand lehnen / Hand wechseln / Zoom
+
+Title_Actions=AKTIONEN
+K_Fire=Feuern
+K_AltFire=Sekundärfeuer
+K_Scope=Benutzen / Ausrüsten
+K_Jump=Sprung / Spagat-Sprung
+K_Interaction=Interaktion
+K_Reload=Nachladen
+K_SwitchROF=Feuerrate
+K_Whistle=Pfeifen
+K_ResetCamera=Kamera zurücksetzen
+K_Pause=Pause
+K_SwitchAttach=Modul wechseln
+K_InteractionReload=Interaktion / Nachladen
+K_CoopWhistle=Pfeifen / Teamaktion
+
+Title_Visions=SICHTMODUS
+K_Opsat=Opsat
+K_ZoomToggle=EEV / Zoom / Scharfschütze
+K_NightVision=Nachtsicht
+K_HeatVision=Infrarotsicht
+K_EEVVision=EEV-Sicht
+K_StickyCam=Haftkamera-Sicht
+
+Title_Inventory=INVENTAR
+K_QuickInventory=Schnellinventar
+K_FullInventory=Komplettes Inventar
+K_NextGadget=Nächste Waffe
+K_PrevGadget=Vorherige Waffe
+K_QuickInventoryJoystick=Schnellinventar / Modul wechseln
+
+Title_Coop=TEAM
+K_ShowChatIngame=Chat im Spiel anzeigen
+K_CoopAction=Teamaktion
+
+Title_System=SYSTEM
+K_PauseMenu=Pause-Menü
+K_QuickSave=Schnellspeichern
+K_QuickLoad=Schnellladen
+
+MENU=MENÜ
+CTRLOpsat=Opsat
+CTRLPauseMenu=Pause-Menü
+
+[Interactions]
+IK_None=Keine
+IK_DPadUp=Steuerkreuz oben
+IK_DPadDown=Steuerkreuz unten
+IK_DPadLeft=Steuerkreuz links
+IK_DPadRight=Steuerkreuz rechts
+IK_XButton4=Maustaste 4
+IK_XButton5=Maustaste 5
+//
+//Below Interactions were translated in Pandora
+//
+IK_LeftMouse=L. Maustaste
+IK_RightMouse=R. Maustaste
+IK_Cancel=Cancel
+IK_MiddleMouse=M. Maustaste
+IK_Unknown05=Unknown05
+IK_Unknown06=Unknown06
+IK_Unknown07=Unknown07
+IK_Backspace=Backspace
+IK_Tab=Tab
+IK_Unknown0A=Unknown0A
+IK_Unknown0B=Unknown0B
+IK_Unknown0C=Unknown0C
+IK_Enter=Eingabe
+IK_Unknown0E=Unknown0E
+IK_Unknown0F=Unknown0F
+IK_Shift=Umsch.
+IK_Ctrl=Strg
+IK_Alt=Alt
+IK_Pause=Pause
+IK_CapsLock=Feststelltaste
+IK_Unknown15=Unknown15
+IK_Unknown16=Unknown16
+IK_Unknown17=Unknown17
+IK_Unknown18=Unknown18
+IK_Unknown19=Unknown19
+IK_Unknown1A=Unknown1A
+IK_Escape=Escape
+IK_Unknown1C=Unknown1C
+IK_Unknown1D=Unknown1D
+IK_Unknown1E=Unknown1E
+IK_Unknown1F=Unknown1F
+IK_Space=Leertaste
+IK_PageUp=Bild auf
+IK_PageDown=Bild ab
+IK_End=Ende
+IK_Home=Pos1
+IK_Left=Links
+IK_Up=Hoch
+IK_Right=Rechts
+IK_Down=Runter
+IK_Select=Auswahl
+IK_Print=Print
+IK_Execute=Execute
+IK_PrintScrn=Drucken
+IK_Insert=Einf
+IK_Delete=Entf
+IK_Help=Help
+IK_Unknown3A=Unknown3A
+IK_Unknown3B=Unknown3B
+IK_Unknown3C=Unknown3C
+IK_Unknown3D=Unknown3D
+IK_Unknown3E=Unknown3E
+IK_Unknown3F=Unknown3F
+IK_Unknown40=Unknown40
+IK_Unknown5B=Unknown5B
+IK_Unknown5C=Unknown5C
+IK_Unknown5D=Unknown5D
+IK_Unknown5E=Unknown5E
+IK_Unknown5F=Unknown5F
+IK_NumPad0=ZB 0
+IK_NumPad1=ZB 1
+IK_NumPad2=ZB 2
+IK_NumPad3=ZB 3
+IK_NumPad4=ZB 4
+IK_NumPad5=ZB 5
+IK_NumPad6=ZB 6
+IK_NumPad7=ZB 7
+IK_NumPad8=ZB 8
+IK_NumPad9=ZB 9
+IK_GreyStar=ZB *
+IK_GreyPlus=ZB +
+IK_Separator=Separator
+IK_GreyMinus=ZB -
+IK_NumPadPeriod=Num .
+IK_GreySlash=ZB /
+IK_Unknown88=Unknown88
+IK_Unknown89=Unknown89
+IK_Unknown8A=Unknown8A
+IK_Unknown8B=Unknown8B
+IK_Unknown8C=Unknown8C
+IK_Unknown8D=Unknown8D
+IK_Unknown8E=Unknown8E
+IK_Unknown8F=Unknown8F
+IK_NumLock=Numlock
+IK_ScrollLock=Rollen
+IK_Unknown92=Unknown92
+IK_Unknown93=Unknown93
+IK_Unknown94=Unknown94
+IK_Unknown95=Unknown95
+IK_Unknown96=Unknown96
+IK_Unknown9B=Unknown9B
+IK_Unknown9C=Unknown9C
+IK_Unknown9D=Unknown9D
+IK_Unknown9E=Unknown9E
+IK_Unknown9F=Unknown9F
+IK_LShift=Left Shift
+IK_RShift=Right Shift
+IK_LControl=Left Control
+IK_RControl=Right Control
+IK_UnknownA4=UnknownA4
+IK_UnknownA5=UnknownA5
+IK_UnknownA6=UnknownA6
+IK_UnknownA7=UnknownA7
+IK_UnknownA8=UnknownA8
+IK_UnknownA9=UnknownA9
+IK_UnknownAA=UnknownAA
+IK_UnknownAB=UnknownAB
+IK_UnknownAC=UnknownAC
+IK_UnknownAD=UnknownAD
+IK_UnknownB0=UnknownB0
+IK_UnknownB1=UnknownB1
+IK_UnknownB2=UnknownB2
+IK_UnknownB3=UnknownB3
+IK_UnknownB4=UnknownB4
+IK_UnknownB5=UnknownB5
+IK_UnknownB6=UnknownB6
+IK_UnknownB7=UnknownB7
+IK_UnknownB8=UnknownB8
+IK_UnknownB9=UnknownB9
+IK_Semicolon=;
+IK_Equals==
+IK_Comma=,
+IK_Minus=-
+IK_Period=.
+IK_Slash=/
+IK_Tilde=~
+IK_UnknownC1=UnknownC1
+IK_UnknownC2=UnknownC2
+IK_UnknownC3=UnknownC3
+IK_UnknownC4=UnknownC4
+IK_UnknownC5=UnknownC5
+IK_UnknownC6=UnknownC6
+IK_UnknownC7=UnknownC7
+IK_Joy1=Joy 1
+IK_Joy2=Joy 2
+IK_Joy3=Joy 3
+IK_Joy4=Joy 4
+IK_Joy5=Joy 5
+IK_Joy6=Joy 6
+IK_Joy7=Joy 7
+IK_Joy8=Joy 8
+IK_Joy9=Joy 9
+IK_Joy10=Joy 10
+IK_Joy11=Joy 11
+IK_Joy12=Joy 12
+IK_Joy13=Joy 13
+IK_Joy14=Joy 14
+IK_Joy15=Joy 15
+IK_Joy16=Joy 16
+IK_UnknownD8=UnknownD8
+IK_UnknownD9=UnknownD9
+IK_UnknownDA=UnknownDA
+IK_LeftBracket={
+IK_Backslash=\
+IK_RightBracket=}
+IK_SingleQuote= ' 
+IK_UnknownDF=UnknownDF
+IK_JoyX=Joy X Axis
+IK_JoyY=Joy Y Axis
+IK_JoyZ=Joy Z Axis
+IK_JoyR=Joy R
+IK_MouseX=Mouse X Axis
+IK_MouseY=Mouse Y Axis
+IK_MouseZ=Mouse Z Axis
+IK_MouseW=Mouse W
+IK_JoyU=Joy U
+IK_JoyV=Joy V
+IK_UnknownEA=UnknownEA
+IK_UnknownEB=UnknownEB
+IK_MouseWheelUp=Mausrad hoch
+IK_MouseWheelDown=Mausrad runter
+IK_Unknown10E=Unknown10E
+IK_Unknown10F=Unknown10F
+IK_UnknownF0=UnknownF0
+IK_UnknownF1=UnknownF1
+IK_UnknownF2=UnknownF2
+IK_UnknownF3=UnknownF3
+IK_UnknownF4=UnknownF4
+IK_UnknownF5=UnknownF5
+IK_Attn=Attn
+IK_CrSel=CrSel
+IK_ExSel=ExSel
+IK_ErEof=ErEof
+IK_Play=Play
+IK_Zoom=Zoom
+IK_NoName=NoName
+IK_PA1=PA1
+IK_OEMClear=OEMClear
+IK_Unknown97=Unknown97
+IK_Unknown98=Unknown98
+IK_Unknown99=Unknown99
+IK_Unknown9A=Unknown9A
+IK_UnknownAE=UnknownAE
+IK_UnknownAF=UnknownAF
+
+[OPTIONSTITLE]
+VoiceOriginal=ORIGINALVERSION
+
+[CDKEY]
+VerifyingCDKey=Verifiziere CD-Key ...
+RetryingCDKeyVerification=Versuche erneute CD-Key-Verifizierung ...
+IncompleteCDKey=Der eingegebene CD-Key ist unvollständig.
+InvalidCDKey=Der eingegebene CD-Key ist ungültig.
+CDKeyAlreayOnline=Der eingegebene CD-Key wird bereits von einem anderen Spieler verwendet.
+CDkeyServerError=Der CD-Key-Server auf Ubi.com hat einen Fehler gemeldet, bitte noch einmal versuchen.
+CDkeyServerTimeout=Zeitüberschreitung beim Verbindungsaufbau mit dem CD-Key-Server auf Ubi.com
+
+[CHAT]
+ChatUnavailable=CHAT MOMENTAN NICHT VERFÜGBAR
+
+[AUTHENTICATION]
+ModifyAccountPasswordMismatch=DIE EINGEGEBENEN PASSWÖRTER STIMMEN NICHT ÜBEREIN.
+CreateAccountNameExist=GEWÜNSCHTER KONTONAME IST BEREITS VORHANDEN.
+CreateAccountNameMalformed=GEWÜNSCHTER KONTONAME IST UNGÜLTIG. KONTONAME MUSS 3 BIS 15 ZEICHEN LANG SEIN UND AUS BUCHSTABEN UND ZIFFERN BESTEHEN.
+CreateAccountNameForbidden=GEWÜNSCHTER KONTONAME IST NICHT ERLAUBT.
+CreateAccountNameReserved=GEWÜNSCHTER KONTONAME IST DURCH MODERATOREN RESERVIERT.
+CreateAccountPwdMalformed=GEWÜNSCHTES PASSWORT WURDE FALSCH GEBILDET.
+CreateAccountPwdForbidden=GEWÜNSCHTES PASSWORT IST NICHT ERLAUBT.
+CreateAccountDBFailed=KONTO KANN NICHT ERSTELLT WERDEN, DIENST IST MÖGLICHERWEISE OFFLINE.
+ModifyAccountInvalidCountry=DER ANGEGEBENE LÄNDERCODE IST UNGÜLTIG.
+LoginAccountDBFailed=ANMELDUNG NICHT MÖGLICH, DIENST IST MÖGLICHERWEISE OFFLINE.
+LoginAccountInvalidPassword=UNGÜLTIGES PASSWORT.
+LoginAccountBannedAccount=KONTO IST GESPERRT.
+LoginAccountBlockedAccount=KONTO IST BLOCKIERT.
+LoginAccountLockedAccount=KONTO BLOCKIERT.
+LoginAccountInvalidAccount=DAS GEWÜNSCHTE KONTO IST NICHT VORHANDEN.
+LoginAccountNotDisconnected=DER SERVER HAT DIE TRENNUNG IHRER VERBINDUNG NOCH NICHT BEARBEITET. BITTE VERSUCHEN SIE ES SPÄTER NOCH EINMAL.
+LoginAccountServiceNotAvailable=VERBINDUNG MIT GAMESERVICE-NETZWERK NICHT MÖGLICH, DIENST IST NICHT VERFÜGBAR.
+LoginAccountInternalError=VERBINDUNG NICHT MÖGLICH, EIN INTERNER FEHLER IST AUFGETRETEN
+ErrorRouterNotRegistered=SIE SIND NICHT REGISTRIERT, ERSTELLEN SIE ERST EIN KONTO.
+ErrorRouterPasswordNotCorrect=IHR PASSWORT IST FALSCH.
+ErrorRouterNotDisconnected=DER SPIELSERVICE HAT DIE TRENNUNG IHRER VERBINDUNG NOCH NICHT BEARBEITET. BITTE VERSUCHEN SIE ES SPÄTER NOCH EINMAL.
+ErrorRouterFriendsNotAvailable=DER FREUNDE-SERVER IST NICHT VERFÜGBAR.
+ErrorRouterNameAlreadyUsed=EIN SPIELER MIT IHREM NAMEN IST BEREITS VERBUNDEN.
+ErrorRouterPlayerNotConnected=DIESER SPIELER IST MOMENTAN NICHT MIT DEM GAMESERVICE VERBUNDEN.
+ErrorRouterPlayerNotRegistered=DIESER SPIELER IST NICHT AUF DEM GAMESERVICE REGISTRIERT.
+ErrorRouterPlayerConnected=IHR AUSGEWÄHLTER NAME WIRD BEREITS VON EINEM ANDEREN SPIELER VERWENDET.
+ErrorRouterPlayerAlreadyRegistered=SIE SIND BEREITS REGISTRIERT.
+ErrorRouterClientVersionTooOld=DIE BENUTZTE VERSION VON SPLINTER CELL CHAOS THEORY IST VERALTET UND KANN NICHT AKTUALISIERT WERDEN.
+ErrorRouterClientIncompatible=DIESE VERSION VON SPLINTER CELL CHAOS THEORY IST NICHT KOMPATIBEL. BITTE SUCHEN SIE NACH UPDATES.
+ErrorRouterUnknownError=DER AUTHENTIFIZIERUNGSSERVER MELDET EINEN UNBEKANNTEN FEHLER. BITTE VERSUCHEN SIE ES SPÄTER NOCH EINMAL.
+LogoffWarning=WIRKLICH VERBINDUNG ZUM SPIEL-SERVICE TRENNEN?
+
+[FRIENDSLIST]
+ErrorFriendsDatabaseFailed=EIN DATENBANKFEHLER IST AUFGETRETEN, BITTE NOCH EINMAL VERSUCHEN
+ErrorFriendsFriendsNotExist=DER SPIELER IST NICHT VORHANDEN
+ErrorFriendsNotInArena=DER SPIELER IST NICHT MIT UBI.COM VERBUNDEN
+ErrorFriendsNotOnline=DER SPIELER IST NICHT ONLINE
+ErrorFriendsNotInSession=DER SPIELER IST NICHT IN EINEM SPIEL
+ErrorFriendsPlayerIgnore=DER SPIELER IGNORIERT SIE
+ErrorFriendsAlreadyConnected=SIE SIND BEREITS MIT DEM FREUNDE-SERVER VERBUNDEN
+ErrorFriendsNoMorePlayers=DER FREUNDE-SERVER KANN KEINE SPIELER MEHR AUFNEHMEN
+ErrorFriendsNoPlayerScore=DER SPIELER HAT KEIN ERGEBNIS IN DER DATENBANK     
+ErrorFriendsSearchPlayerFinished=DIE SPIELERSUCHE IST BEENDET
+ErrorFriendsCoreOnline=DER SPIELER KANN ZURZEIT KEINE NACHRICHTEN EMPFANGEN
+ErrorFriendsInboxFull=NACHRICHTENEINGANG DES SPIELERS IST VOLL. SPEICHERN WEITERER NACHRICHTEN NICHT MÖGLICH
+ErrorFriendsUnknownError=DER FREUNDE-SERVER MELDET EINEN UNBEKANNTEN FEHLER. BITTE NOCH EINMAL VERSUCHEN
+
+
+
+[LOBBY]
+LobbyMsgJoiningBaseLobby=VERBINDUNG MIT LOBBY: %s
+LobbyErrorGroupNotExist=DER SERVER IST NICHT VORHANDEN
+LobbyErrorGameNotAllowed=DAS SPIEL DARF DIESE OPERATION NICHT AUSFÜHREN
+LobbyErrorSpectatorNotAllowed=IN DIESEM SPIEL SIND KEINE ZUSCHAUER ZUGELASSEN
+LobbyErrorNomorePlayerAllowed=MAXIMALE SPIELERANZAHL FÜR DIESEN SERVER IST ERREICHT
+LobbyErrorNoMoreSpectatorsAllowed=MAXIMALE ZUSCHAUERANZAHL FÜR DIESEN SERVER IST ERREICHT
+LobbyErrorNoMoreMembersAllowed=MAXIMALE SPIELERANZAHL FÜR DIESE LOBBY IST ERREICHT
+LobbyErrorMemberNotRegistered=DER SPIELER IST NICHT REGISTRIERT
+LobbyErrorGameInProgress=DAS SPIEL LÄUFT BEREITS
+LobbyErrorWrongGameVersion=IHRE SPIELVERSION IST FÜR DIESEN SERVER NICHT GÜLTIG
+LobbyErrorPasswordNotCorrect=DAS PASSWORT IST NICHT KORREKT
+LobbyErrorAlreadyInGroup=SIE SIND BEREITS IN DIESER GRUPPE
+LobbyErrorNotMaster=SIE HABEN DIESE SITZUNG NICHT ERSTELLT UND KÖNNEN DIESE OPERATION NICHT AUSFÜHREN
+LobbyErrorNotInGroup=SIE SIND NICHT IN DER ANGEGEBENEN GRUPPE
+LobbyErrorMinPlayerNotReach=MINIMALE SPIELERANZAHL IST NOCH NICHT ERREICHT
+LobbyErrorConnectAddConnection=VERBINDUNG MIT LOBBY-SERVER NICHT MÖGLICH, BITTE NOCH EINMAL VERSUCHEN
+LobbyErrorConnectSendLogin=ANMELDUNG KONNTE NICHT AN LOBBY-SERVER GESENDET WERDEN, BITTE NOCH EINMAL VERSUCHEN
+LobbyErrorErrorLoginMessage=ANMELDUNG AUF LOBBY-SERVER FEHLGESCHLAGEN, BITTE NOCH EINMAL VERSUCHEN
+LobbyErrorNoHostLobbyServer=DER ANGEGEBENE LOBBY-SERVER IST NICHT VORHANDEN
+LobbyErrorLobbyServerDisconnected=VERBINDUNG MIT LOBBY-SERVER WURDE GETRENNT
+LobbyErrorInvalidGroupName=DER SERVERNAME IST UNGÜLTIG ODER BEREITS VORHANDEN, BITTE EINEN ANDEREN NAMEN AUSWÄHLEN
+LobbyErrorInvalidGameType=DER SPIELTYP IST UNGÜLTIG, BITTE NOCH EINMAL VERSUCHEN
+LobbyErrorNoMoreGameModule=KEINE WEITEREN SPIELMODULE VERFÜGBAR
+LobbyErrorCreateNotAllowed=SIE DÜRFEN IN DIESER LOBBY KEINEN SERVER ERSTELLEN
+LobbyErrorGroupClosed=DER SERVER IST GESCHLOSSEN, BITTE EINEN ANDEREN BENUTZEN
+LobbyErrorWrongGroupType=DER SERVERTYP IST UNGÜLTIG, BITTE NOCH EINMAL VERSUCHEN
+LobbyErrorMemberNotFound=DER ANGEGEBENE SPIELER KANN NICHT GEFUNDEN WERDEN
+LobbyErrorMatchNotExist=DAS ANGEGEBENE MATCH KANN NICHT GEFUNDEN WERDEN, BITTE NOCH EINMAL VERSUCHEN
+LobbyErrorMatchNotFinished=DAS MATCH IST NOCH NICHT ZU ENDE, BITTE SPÄTER NOCH EINMAL VERSUCHEN
+LobbyErrorGameNotInitiated=DAS SPIEL WURDE NOCH NICHT BEGONNEN
+LobbyErrorBeginAlreadyDone=DAS SPIEL HAT BEREITS BEGONNEN
+LobbyErrorMatchAlreadyFinishedForYou=DAS MATCH IST BEREITS BEENDET
+LobbyErrorMatchScoreSubmissionFail=FEHLER BEI DER ERGEBNISÜBERMITTLUNG
+LobbyErrorMatchScoreSubmissionAlreadySent=ERGEBNIS WURDE BEREITS AN DATENBANK ÜBERMITTELT
+LobbyErrorMatchResultProcessNotFinished=DIE ERGEBNISBERECHNUNG IST NOCH NICHT BEENDET
+LobbyErrorMemberBanned=SIE SIND VON DIESEM SERVER AUSGESCHLOSSEN
+LobbyErrorPasseportFailed=IHR PASS IST UNGÜLTIG
+LobbyErrorNotCreator=SIE HABEN DIESE SITZUNG NICHT ERSTELLT UND KÖNNEN DIESE OPERATION NICHT AUSFÜHREN
+LobbyErrorGameNotFinished=DAS SPIEL IST NOCH NICHT ZU ENDE, BITTE SPÄTER NOCH EINMAL VERSUCHEN
+LobbyErrorPassportTimeOut=SPIELERPASS ABGELAUFEN
+LobbyErrorPassportNotFound=SPIELERPASS WURDE NICHT GEFUNDEN
+LobbyErrorGroupAlreadyExist=ES GIBT BEREITS EINEN SERVER MIT DIESEM NAMEN. BITTE NOCH EINMAL VERSUCHEN
+LobbyErrorUnknownLobbyError=DER LOBBYSERVER MELDET EINEN UNBEKANNTEN FEHLER. BITTE NOCH EINMAL VERSUCHEN.
+AllPlayersNotReady=IHR PARTNER IST NICHT BEREIT
+ErrorNoPlayerToKick=KEIN SPIELER ZUM ENTFERNEN VORHANDEN
+LobbyPlayerBanned=SIE WURDEN VOM SERVER ENTFERNT
+ServerPasswordProtectionTitle=SERVER-PASSWORT
+ServerPasswordEditCaption=GEBEN SIE DAS PASSWORT FÜR DIESEN SERVER EIN
+
+
+
+[MessageWindow]
+DirectXInitFailure=DirectX-Initialisierungsfehler
+DirectXMissingShaderModel=Ihre Grafikkarte unterstützt nicht alle für dieses Spiele erforderliche Funktionen (Shader Model 1.1, ab NVIDIA GeForce 3/ATI Radeon 8500 oder höher). Bitte wenden Sie sich an den Hersteller Ihrer Grafikkarte, um weitere Informationen zu erhalten.
+DirectXNo32BitDesktop=Setzen Sie die Auflösung Ihres Desktops auf 32 Bit
+
+[Computer]
+Exit=ENDE
+Close=SCHLIESSEN
+
+[Loading]
+PressKey=TASTE DRÜCKEN
+PressSpace=LEERTASTE DRÜCKEN, UM FORTZUSETZEN
+LoadingMsg=LADE...
+LoadingDone=FERTIG
+
+[MenuTraining]
+TrainingKeyboardWarning=DIE FOLGENDEN EINFÜHRUNGEN WURDEN MIT DER STANDARD-TASTENBELEGUNG ERSTELLT.
+
+[LOADSAVE]
+LoadGameErrorTitle=SPIELSTAND FEHLERHAFT
+LoadGameErrorMsg=DIESER SPIELSTAND SCHEINT BESCHÄDIGT ZU SEIN UND KANN NICHT VERWENDET WERDEN. SPIELSTAND LÖSCHEN?

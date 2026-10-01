@@ -1,0 +1,11 @@
+[GENERAL]
+MapName=SEOUL
+Briefing=AUFGABE
+
+[Computer]
+CompDisableRadar=Radar deaktivieren
+CompUploadTap=Angezapfte Daten hochladen
+CompUAVData=Drohnen-Daten
+
+[Interaction]
+IntScanPlane=Flugzeug visieren

@@ -1,0 +1,346 @@
+[P_08_SeoulOne_Apartment_radio]
+
+[P_08_SeoulOne_BackTh_Elite]
+
+[P_08_SeoulOne_BackTh_Elite_Explo]
+
+[P_08_SeoulOne_Briefings_Texts]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Thirty-eight hours ago, the NKA committed to open war on the Korean Peninsula. We've known for fifty years that their objective would be to capture Seoul within seventy two hours. It appears they have a real shot at it. South Korean and US Forces are using orchestrated retrogrades to channel individual NKA divisions along discrete corridors. Six hours ago, the first of those divisions reached Seoul and is seeking to capture critical infrastructure. High on their list is a telecommunications switching station north of the city. Unfortunately, the IW attack that sank the Walsh came through this switching station. If the NKA gets their hands on that information, they'll be able to justify their invasion and possibly force the world to allow them to hold the country. We need to get that information before they do.
+Speech_-001L=(null)
+Speech_0002L=GRIMSDOTTIR - The information warfare attacks that launched the missile that sank the Walsh came through Seoul. I wasn't able to trace them back any further than the switching station, and I don't even know for sure that they didn't originate there. It's entirely possible that South Korea has manipulated us into war by forcing the North to attack the US. I would just try and hack my way in, but this is a fat, secure data pipe, and damage caused by the fighting has already isolated most of the entry ports. You need to get in there and recover the data manually, then broadcast it out point-to-point so we can take a closer look.
+Speech_-001L=(null)
+Speech_0003L=REDDING - CIA maintains several safe houses in Seoul to facilitate insertion of agents and recovery of possible defectors. Usually they are set up to look like ordinary residences. I'm currently working out a plan to have you forward-inserted into one of these safe houses before 2 I.D. performs another major retrograde. Once you're in, our boys will retreat, and the NKA front will overrun and bypass your location, leaving you in the wake of the main force, but still in advance of the support troops. You'll have a small zone of comfort and I would strongly advise you not to stray from you're A.O. You don't want to encounter a battalion sized force.
+Speech_-001L=(null)
+Speech_0004L=SECRETARY MASSON - USS Ronald Reagan is ready to launch an EA-6B Prowler rigged with a point-to-point laser receiver rig. Your man will be given a special transmitter that will track the plane and transmit the data. This comms set-up is 100 per cent secure. Nothing is broadcast, so nothing can be intercepted... never mind decrypted. Once your man is in position, we'll send in the plane and get the data... but this is still a highly risky operation... whatever you're promising me better be worth it. These planes are worth sixty-million dollars you know.
+
+[P_08_SeoulOne_Check_Elevator]
+
+[P_08_SeoulOne_Check_Elite]
+
+[P_08_SeoulOne_Conv_Elite_Map]
+Speech_-001L=(null)
+Speech_0001L=NKElite_Li - Look. Here. We were here and we crossed the line to the south, here. That puts us in--
+Speech_0002L=NKElite_Soo - No. We were in here... look. Then we crossed the line there.
+Speech_0003L=NKElite_Li - No, see that's where you're confused.
+Speech_0004L=NKElite_Soo - I know where we are. I was looking at the map while you were driving.
+Speech_0005L=NKElite_Li - Well, you weren't looking very closely were you?
+Speech_0006L=NKElite_Soo - Look, fine. You think you know where we are, you navigate. I'm gonna take a leak.
+Speech_0007L=NKElite_Li - Don't get lost.
+Speech_0008L=NKElite_Soo - Shove it.
+
+[P_08_SeoulOne_Conv_Garden_Tech]
+Speech_-001L=(null)
+Speech_0001L=NKTech_Ming - Are you on-line in there now?
+Speech_0002L=NKTech_Yong - Yes!
+Speech_0003L=NKTech_Ming - Alright... I'm going to initiate the tests.
+Speech_0004L=NKTech_Yong - Wait! Wait!
+Speech_-001L=(null)
+Speech_0005L=NKTech_Ming - What's the problem?
+Speech_0006L=NKTech_Yong - Well... I'm a little worried... won't we be a giant flashing light on someone's scope once we start the tests?
+Speech_0007L=NKTech_Ming - The Americans know where we are... if they haven't bombed us already, wither we've won this war, or they left us alive for a reason.
+Speech_0008L=NKTech_Yong - Wow. I feel safer already.
+Speech_0009L=NKTech_Ming - I'm going to start the tests.
+Speech_0010L=NKTech_Yong - Alright.
+
+[P_08_SeoulOne_Conv_NDT_C4]
+Speech_-001L=(null)
+Speech_0001L=NKSol_Bong - You think that's enough?
+Speech_0002L=NKSol_Feng - I don't know. You're the demolitions expert. You tell me.
+Speech_0003L=NKSol_Bong - Well, I guess it's enough.
+Speech_0004L=NKSol_Feng - You guess? What if it's too much?
+Speech_0005L=NKSol_Bong - Oh... I didn't even think of that...
+Speech_0006L=NKSol_Feng - Well... you idiot. If we destroy the stuff inside, then what's the point?!
+Speech_0007L=NKSol_Bong - No... no, I think it should be okay.
+Speech_0008L=NKSol_Feng - You think?
+Speech_0009L=NKSol_Bong - Yeah. It's fine. Let's do it. Let's blow it.
+Speech_0010L=NKSol_Feng - Well, let's take cover first.
+Speech_0011L=NKSol_Bong - Oh, yeah... good idea.
+Speech_-001L=(null)
+Speech_0012L=NKSol_Feng - Hey... there's a guy in there!
+Speech_0013L=NKSol_Bong - What?
+Speech_0014L=NKSol_Feng - Blow the door!
+Speech_0015L=NKSol_Bong - What? What if it kills him?
+Speech_0016L=NKSol_Feng - That's the point... blow it!
+Speech_0017L=NKSol_Bong - Alright! Take cover, quick.
+Speech_-001L=(null)
+Speech_0018L=NKSol_Feng - What's going on in there?
+Speech_0019L=NKSol_Bong - What? I didn't see anything.
+Speech_0020L=NKSol_Feng - Well... let's just blow the damn door and take a closer look.
+Speech_0021L=NKSol_Bong - Alright. Let's get behind cover.
+Speech_-001L=(null)
+Speech_0022L=NKSol_Feng - Blow the door!
+
+[P_08_SeoulOne_Conv_NDT_Elevator]
+Speech_-001L=(null)
+Speech_0001L=NKSol_Kwan - ...nice view up there though.
+Speech_0002L=NKSol_Sun - I'll say... there's something strangely... mesmerizing about anti-aircraft tracer fire lighting up the night sky.
+Speech_0003L=NKSol_Kwan - Beautiful.
+Speech_0004L=NKSol_Sun - Better than looking at boring old stars, that's for sure.
+Speech_0005L=NKSol_Kwan - Ack-ack... kind of a do-it-yourself constellation kit.
+Speech_0006L=NKSol_Sun - Yep. Well, I'm going to go check on Bong and Feng, see how it's coming with that door.
+Speech_0007L=NKSol_Kwan - They probably blew themselves up.
+Speech_0008L=NKSol_Sun - Ha...yeah... see ya later.
+Speech_0009L=NKSol_Kwan - Later.
+
+[P_08_SeoulOne_Emitters]
+
+[P_08_SeoulOne_HQcom]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Welcome to the three-block war, FISHER. The main advance has bypassed your position, but expect sporadic fighting among units separated from the main force.
+Speech_0002L=FISHER - Whose side am I on here?
+Speech_0003L=LAMBERT - Your own. You are not a legal combatant. Anyone who sees you will attack on sight... friend or foe.
+Speech_-001L=(null)
+Speech_0005L=LAMBERT - FISHER, anything you can do to assist in the war effort would earn me a few brownie points down on Pennsylvania Avenue.
+Speech_0006L=FISHER - I think I'll start with this annoying propaganda...
+Speech_-001L=(null)
+Speech_0007L=LAMBERT - Good thinking FISHER... shut down those propaganda broadcasts and our boys will be in better spirits.
+Speech_0008L=FISHER - Our boys? I'm just doing it because it's annoying.
+Speech_-001L=(null)
+Speech_0045L=LAMBERT - Good job, FISHER. Taking down their psy-ops will make everyone happier.
+Speech_-001L=(null)
+Speech_0046L=LAMBERT - Good job, Sam. There is only one more propaganda broadcast set-up in your area.
+Speech_0127L=(null)
+Speech_0047L=LAMBERT - Way to go, FISHER. That's the last of their propaganda stations in this area.
+Speech_0048L=FISHER - Thank god... I was starting to lose my mind.
+Speech_0128L=(null)
+Speech_0015L=LAMBERT - FISHER... critical update... I have other assets on the ground, not far from your position.
+Speech_0016L=FISHER - Another Splinter Cell?
+Speech_0051L=LAMBERT - Splinter Cells in training. They're on a black bag op, but their target was just relocated by NKA Special Forces.
+Speech_0052L=FISHER - So I need to bring in the target?
+Speech_0053L=LAMBERT - No. You need to interrogate one of those Special Forces to find out where they took him.
+Speech_0054L=FISHER - Okay.
+Speech_0055L=LAMBERT - Don't kill them before you talk to them or I'll pull you out.
+Speech_-001L=(null)
+Speech_0056L=FISHER - You want to tell me what's going on LAMBERT?
+Speech_0017L=LAMBERT - Sorry, FISHER... but you're getting too old for this kind of work.
+Speech_0057L=FISHER - Stop listening to Grim. If you go by her definition of old you'd need to issue diapers with every set of goggles.
+Speech_0058L=LAMBERT - If I listen to you much longer it'll be adult undergarments.
+Speech_0059L=FISHER - That was cruel.
+Speech_-001L=(null)
+Speech_0060L=LAMBERT - Dammit, Sam, you needed to interrogate one of those men. The mission is over.
+Speech_0129L=(null)
+Speech_0021L=LAMBERT - FISHER, don't bother to wait for the elevator, you need to grab the drives out of the NDT before you go to the roof to transmit.
+Speech_-001L=(null)
+Speech_0061L=LAMBERT - Next stop, top floor.
+Speech_0062L=FISHER - Once I transmit the data, I'm on to extraction?
+Speech_0063L=LAMBERT - That's the plan. If we can confirm the LZ is safe, we'll extract you directly from the rooftop.
+Speech_0064L=FISHER - And if it's not safe...
+Speech_-001L=(null)
+Speech_0065L=GRIMSDOTTIR - Sam, a Predator drone just spotted a Mobile Command Center in the area up ahead. See if you can tap it for intelligence.
+Speech_0066L=FISHER - You don't want me to take it out?
+Speech_0126L=GRIMSDOTTIR - No... we could have done that with the Predator.
+Speech_0130L=(null)
+Speech_0068L=GRIMSDOTTIR - Good job, Sam. With an inside line on the NKA's command network we should be able to funnel useful intelligence to the reg's.
+Speech_0069L=FISHER - Always happy to lend a hand.
+Speech_-001L=(null)
+Speech_0100L=GRIMSDOTTIR - FISHER, those are the main servers for the National Data Trunk every bit of data that moves through here gets tagged in transit.
+Speech_0101L=FISHER - It's smaller than I thought.
+Speech_0102L=GRIMSDOTTIR - And getting smaller every year. Listen, you need to recover the main drives so I can see if the attack that launched the missile came from somewhere else first.
+Speech_0131L=(null)
+Speech_0104L=GRIMSDOTTIR - Good. Now get that drive up to the roof and we'll transmit it to the EA-6B.
+Speech_0105L=FISHER - Why can't you just read it from here?
+Speech_0106L=GRIMSDOTTIR - It will take too long to guarantee a secure link, and if the DPRK intercepts it
+Speech_0107L=FISHER - Then this mission is a waste of time.
+Speech_0132L=(null)
+Speech_0108L=REDDING - Listen, there aren't any alarms to worry about, but anyone you encounter will probably already be alert.
+Speech_0109L=FISHER - I'll be careful.
+Speech_0110L=REDDING - You have a lot of ground to cover, Sam, watch out for booby-traps.
+Speech_0111L=FISHER - I memorized the Field Manual before you were even born, Will.
+
+[P_08_SeoulOne_HQCom_Summaries]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - FISHER, try and disable their propaganda broadcasts.
+Speech_-001L=(null)
+Speech_0002L=LAMBERT - Good work Sam. That's the last propaganda broadcast point.
+Speech_-001L=(null)
+Speech_0003L=LAMBERT - FISHER, you need to interrogate one of the Special Forces troops to find out where they left their passenger.
+Speech_-001L=(null)
+Speech_0004L=LAMBERT - FISHER, you need to grab the drives out of the NDT before you go to the roof to transmit.
+Speech_-001L=(null)
+Speech_0006L=GRIMSDOTTIR - Good job, Sam. With an inside line on the NKA's command network we should be able to funnel useful intelligence to the reg's.
+Speech_-001L=(null)
+Speech_0010L=GRIMSDOTTIR - Good work Sam. Take the drive up the roof so we can transmit the data to the EA-6B.
+Speech_-001L=(null)
+Speech_0011L=REDDING - There won't be any alarms to worry about... everyone is already alert... but keep your eyes peeled for booby-traps and mines.
+
+[P_08_SeoulOne_Interro_Elite]
+Speech_-001L=(null)
+Speech_0026L=FISHER - Stay quiet and you might live.
+Speech_0027L=NKElite_Soo - Wh! Who?
+Speech_0131L=FISHER - Shut it... LAMBERT... I've got one.
+Speech_0132L=LAMBERT - Good job FISHER, I'm going to patch you through direct... hold on.
+Speech_0029L=FISHER - Stay calm... this'll just take a sec.
+Speech_0030L=NKElite_Soo - Oh... okay...
+Speech_0133L=LAMBERT - Alright, FISHER, go ahead...
+Speech_0134L=FISHER - I've got someone who wants to talk to you...
+Speech_0135L=MP_One - Roger... ask him where they took Jong.
+Speech_0034L=FISHER - Where did you take Jong?
+Speech_0035L=NKElite_Soo - I... I don't know what you're talking about...
+Speech_0136L=FISHER - He's not answering... should I kill him?
+Speech_0137L=MP_One - Negative! Negative!
+Speech_0038L=FISHER - Alright... they say I should kill you, so--
+Speech_0039L=NKElite_Soo - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.
+Speech_0138L=FISHER - Is that what you needed to know guys?
+Speech_0139L=MP_One - Ah... affirmative... thanks a lot, sir. We owe you one.
+Speech_0140L=FISHER - Welcome to the team.
+Speech_-001L=(null)
+Speech_0141L=FISHER - Shut it... LAMBERT... I've got one.
+Speech_0142L=LAMBERT - Alright, FISHER, go ahead...
+Speech_0143L=FISHER - Where did you take Jong?
+Speech_0144L=NKElite_Soo - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.
+Speech_0129L=NKElit_Soo - Now what are you going to do?
+Speech_0130L=NKElit_Soo - I don't know anything else.
+Speech_-001L=(null)
+Speech_0145L=NKElit_Soo - Now what are you going to do?
+Speech_0146L=NKElit_Soo - Now what are you going to do?
+Speech_0147L=NKElit_Soo - I don't know anything else.
+
+[P_08_SeoulOne_Interro_Elite_Li]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Stay quiet and you might live.
+Speech_0002L=NKElite_Li - Wh! Who?
+Speech_0003L=FISHER - Shut it... LAMBERT... I've got one.
+Speech_0004L=LAMBERT - Good job FISHER, I'm going to patch you through direct... hold on.
+Speech_0005L=FISHER - Stay calm... this'll just take a sec.
+Speech_0006L=NKElite_Li - Oh... okay...
+Speech_0007L=LAMBERT - Alright, FISHER, go ahead...
+Speech_0008L=FISHER - I've got someone who wants to talk to you...
+Speech_0009L=MP_One - Roger... ask him where they took Jong.
+Speech_0010L=FISHER - Where did you take Jong?
+Speech_0011L=NKElite_Li - I... I don't know what you're talking about...
+Speech_0012L=FISHER - He's not answering... should I kill him?
+Speech_0013L=MP_One - Negative! Negative!
+Speech_0014L=FISHER - Alright... they say I should kill you, so--
+Speech_0015L=NKElite_Li - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.
+Speech_0016L=FISHER - Is that what you needed to know guys?
+Speech_0017L=MP_One - Ah... affirmative... thanks a lot, sir. We owe you one.
+Speech_0018L=FISHER - Welcome to the team.
+Speech_-001L=(null)
+Speech_0028L=FISHER - Shut it... LAMBERT... I've got one.
+Speech_0029L=LAMBERT - Alright, FISHER, go ahead...
+Speech_0030L=FISHER - Where did you take Jong?
+Speech_0031L=NKElite_Li - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.
+Speech_0023L=NKElit_Li - Now what are you going to do?
+Speech_0024L=NKElit_Li - I don't know anything else.
+Speech_-001L=(null)
+Speech_0025L=NKElit_Li - Now what are you going to do?
+Speech_0026L=NKElit_Li - Now what are you going to do?
+Speech_0027L=NKElit_Li - I don't know anything else.
+
+[P_08_SeoulOne_Interro_Garden_Sol]
+Speech_-001L=(null)
+Speech_0001L=FISHER - What's with the truck?
+Speech_0002L=NKSol_Chin - Oh... damn... It's a Mobile Command Center... for battlefield management.
+Speech_0003L=FISHER - It's tied into the NKA central networks?
+Speech_0004L=NKSol_Chin - Yeah...
+Speech_0005L=FISHER - I bet a curious guy could get a lot of useful intelligence out of one of those....
+Speech_0006L=NKSol_Chin - You didn't hear it from me.
+Speech_0008L=NKSol_Chin - We have orders to protect the MCC... but... I'm on a break.
+
+[P_08_SeoulOne_Interro_Garden_Tech]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Nice truck...
+Speech_0002L=NKTech_Ming - Ah... ulp... it's... it's not mine...
+Speech_0003L=FISHER - So you probably won't mind if I access it for a second?
+Speech_0004L=NKTech_Ming - Well... I won't mind as long as you don't kill me.
+Speech_0005L=FISHER - I'll think about it.
+Speech_0012L=NKTech_Ming - Please... I don't want to die for a stupid truck...
+Speech_0013L=NKTech_Ming - I'm just a stupid technician...
+
+[P_08_SeoulOne_Interro_NDT_C4_Sol]
+Speech_-001L=(null)
+Speech_0001L=FISHER - Shhh... quiet or I'll have to hurt you...
+Speech_0002L=NKSol_Bong - Oh, no.
+Speech_0003L=FISHER - What is your mission?
+Speech_0004L=NKSol_Bong - We're here to secure the structure and tap into the South Korean National Data Trunk.
+Speech_0005L=FISHER - What are you looking for?
+Speech_0006L=NKSol_Bong - As far as I know... nothing specific... but... since you're here... maybe we'd like to look for whatever you're looking for...
+Speech_0007L=FISHER - I guess I'll have to make sure no one knows you saw me.
+Speech_0008L=NKSol_Bong - Oh... god... please don't kill me.
+Speech_0009L=NKSol_Bong - I'll give you all my money... please.
+Speech_0010L=NKSol_Bong - I feel sick...
+
+[P_08_SeoulOne_MCC_work]
+
+[P_08_SeoulOne_NDT_C4]
+
+[P_08_SeoulOne_NDT_Elev_pre_post]
+
+[P_08_SeoulOne_NDT_Elevator]
+
+[P_08_SeoulOne_NDT_Sam_IN]
+
+[P_08_SeoulOne_NDT_Toilets]
+
+[P_08_SeoulOne_NK_Propaganda]
+Speech_0001L=Democratic Party Korean Sibling! Observe your American guardian flee as butter-fattened ducks steamed for the slaughter! Refuse their fraudulent escapists! Embrace us your truth one liberators!
+Speech_0002L=Our Democratic Party Army is your sibling Korean Army! The oppressor is your lazy American demon. Us and freedom, combine the life which is peaceful and eternal, united together forever!
+Speech_0003L=Korean Sibling! Our combined enemy is the lard-mongering American person. By the effort which combines us, we shall them repulse from our homeland! Give them gifts of humiliating defeat and death most miserable!
+Speech_0004L=American persons is the drunkard of the media deceits! Search your Northern part sibling and be opened and combine. The shackles of the pressure make we burn the West together in ten possibilities of the lock!
+
+[P_08_SeoulOne_NK_Snippets]
+Speech_0001L=O'DELL - Meanwhile, as the first horrifying numbers for this tragic conflict being to roll in, Americans are asking, 'How did this happen'. It's a question we'll ask of Secretary of Defense Frank Mason, tonight on WNM Flash when White House correspondent Montgomery Lewis sits down with the Secretary to talk about the war, the contracting scandal, and his alleged affair with Air Force Major Veronique Guilbault.
+Speech_0002L=O'DELL - In sports news, New York pitcher Akira Watanabe formally requested exemption from his contract with his new team. The world's highest paid baseball player has announced his intention to return to his country to join the Japanese Self Defense Force to - quote - help defend his people, his land, and his culture from the Korean aggressors.
+
+[P_08_SeoulOne_Objectives]
+Objective_0001=Locate and retrieve data drives from the NDT
+Objective_0016=The National Data Trunk surfaces at a switching station in central Seoul. Recover the drives from the station to discover if the attack on the Walsh originated in South Korea.
+Objective_0004=Stop the North Korean Propaganda Broadcasts
+Objective_0017=Disabling loud speakers broadcasting North Korean propaganda would dramatically improve the morale of allied troops.
+Objective_0011=Get to the rooftop to transfer the data to the EA-6B
+Objective_0018=Broadcast the data from the NDT drives from the roof of the building to an EA-6B using a point-to-point secure laser communication link to prevent data interception.
+Objective_0006=Interrogate a Special Forces agent to determine the location of Jong
+Objective_0019=Third Echelon operatives operating elsewhere in Seoul need you to interrogate nearby Special Forces. The mission will be aborted if they die before interrogation.
+Objective_0012=Exfiltrate to the primary extraction point
+Objective_0020=(null)
+Objective_0013=Exfiltrate to any available extraction point
+Objective_0021=(null)
+Objective_0015=Tap a Mobile Command Center
+Objective_0022=Enter and tap a North Korean MCC to give Third Echelon access to the North Korean command networks.
+
+[P_08_SeoulOne_Player_Notes]
+Note_0001L=The data drives are located in the switching room of the NDT building.
+Note_0002L=Watch out for innocent looking booby traps
+Note_0003L=Medical supplies are located in the washroom of the NDT building
+Note_0004L=The only way to the roof of the building is via the elevator
+Note_0005L=The key code for the switching room doors is 0815
+
+[P_08_SeoulOne_PopUp]
+POPUPMESSAGE_0001=Get to the rooftop to transfer the data to the EA-6B
+POPUPMESSAGE_0002=Tap a Mobile Command Center
+POPUPMESSAGE_0005=Locate and retrieve data drives from the NDT
+POPUPMESSAGE_0004=Interrogate a Special Forces agent to determine the location of Jong
+
+[P_08_SeoulOne_Radio]
+
+[P_08_SeoulOne_Sam_Generics]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+
+[P_08_SeoulOne_SRC_Astronauts]
+Speech_-001L=(null)
+Speech_0001L=NKSol_A - Did you hear?
+Speech_0002L=NKSol_B - What?
+Speech_0003L=NKSol_A - Our fierce and noble Chinese brothers have stood up to the American oppressors!
+Speech_0004L=NKSol_B - You mean... they have entered the war!?
+Speech_0005L=NKSol_A - Oh... no... not that...
+Speech_0006L=NKSol_B - What do you mean?
+Speech_0009L=NKSol_A - They are launching their rocket... they are sending a proud Taikonaut to rescue the astronauts on the ISS despite NASA's refusal to accept their generous offer.
+Speech_0007L=NKSol_B - Why would they want to help the Americans?
+Speech_0008L=NKSol_A - To prove their greatness! It takes strength to show mercy for your enemy! It is most humiliating to the American dogs!
+
+[P_08_SeoulOne_SRC_Seoul]
+Speech_-001L=(null)
+Speech_0001L=NKSol_E - You know what I can't figure out?
+Speech_0002L=NKSol_F - What?
+Speech_0003L=NKSol_E - Well, all the stuff they tell us about how the South Koreans are living in filth... eating dogs on the street... how they are lackeys and slaves to fat Americans...
+Speech_0004L=NKSol_F - Yes?
+Speech_0005L=NKSol_E - Well... take a look around...
+Speech_0006L=NKSol_F - What do you mean?
+Speech_0007L=NKSol_E - Well... even bombed to pieces... this place looks a lot nicer than where I live...
+Speech_0008L=NKSol_F - What you're saying is dangerously close to treason. They can hang you for that.
+Speech_0009L=NKSol_E - That's exactly what I mean.
+

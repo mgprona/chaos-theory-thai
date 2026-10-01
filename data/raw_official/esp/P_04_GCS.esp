@@ -1,0 +1,191 @@
+[P_04_GCS_AlarmCheck]
+POPUPMESSAGE_0001=Alarma de nivel uno
+POPUPMESSAGE_0003=Alarma de nivel dos - El enemigo se coloca el chaleco.
+Note_0007L=Los enemigos llevan chalecos blindados.
+POPUPMESSAGE_0004=Alarma de nivel tres - El enemigo se coloca el casco.
+Note_0008L=Los enemigos llevan cascos.
+POPUPMESSAGE_0005=Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.
+Note_0009L=Los enemigos han reforzado sus posiciones.
+
+[P_04_GCS_BatroomSoldier]
+
+[P_04_GCS_BombChecks]
+
+[P_04_GCS_ChuBodyGuard]
+
+[P_04_GCS_Communications]
+Speech_-001L=(null)
+Speech_0001L=Sabemos que Kim tiene hombres por toda la zona. Tendréis que cubrir cierta distancia para llegar a la propia estación.
+Speech_-001L=(null)
+Speech_0002L=Maldita sea, están jugando con nosotros. Al parecer han sembrado de bombas los túneles por debajo de la estación. Tenéis que desactivarlas antes de espiar esa llamada telefónica.
+Note_0048L=Para desarmar una bomba, ambos agentes deben cortar el cable al mismo tiempo.
+Speech_-001L=(null)
+Speech_0003L=Buen trabajo. Ese archivo contiene un diagrama completo de las bombas. Quiero que lo estudiéis bien antes de tocar nada.
+Speech_-001L=(null)
+Speech_0004L=Bien. Habéis desactivado la primera bomba.
+Speech_-001L=(null)
+Speech_0017L=Buen trabajo. Dos bombas menos.
+Speech_-001L=(null)
+Speech_0005L=Buen trabajo. Ahora que habéis desactivado las bombas, entrad en la estación. Quiero saber qué trama Kim.
+Speech_-001L=(null)
+Speech_0042L=No os apresuréis. Tenéis que retroceder y desactivar esas bombas para evitar que Kim vuele la Estación Central.
+POPUPMESSAGE_0046=Desactiva las bombas bajo la Estación Central.
+Speech_-001L=(null)
+Speech_0043L=La segunda bomba debe estar cerca de esas turbinas. Quiero que la busquéis y la desactivéis.
+Speech_-001L=(null)
+Speech_0029L=Sin prisas. Volved a la zona de mantenimiento y desactivad esa bomba.
+Speech_-001L=(null)
+Speech_0030L=Despacio. Volved a la sala de turbinas y buscad la segunda bomba.
+POPUPMESSAGE_0047=Pincha el teléfono del vestíbulo principal de la Estación Central antes de que llegue Chu.
+Speech_-001L=(null)
+Speech_0006L=Bien. Chu va a recibir una llamada en el teléfono público que hay en el centro de la estación. Tenéis que pinchar la llamada sin que os detecte, o huirá y tendremos problemas.
+Speech_-001L=(null)
+Speech_0036L=¡Chu os ha detectado! Misión cancelada.
+Speech_-001L=(null)
+Speech_0011L=Ahora quiero que os tumbéis y escuchéis la conversación. No os delatéis hasta que sepamos qué pasa.
+Speech_-001L=(null)
+Speech_0007L=Tenéis que conseguir esa vacuna y encargaros del esbirro de Kim. Seguid a Chu a las consignas y sacad el virus de la taquilla.
+Speech_-001L=(null)
+Speech_0032L=Bien pensado. Ahora tenéis el número y el código de la taquilla. Conseguid ese antivirus.
+Speech_-001L=(null)
+Speech_0038L=¿Pero qué habéis hecho? ¡Chu era nuestra única esperanza de detener a Kim!
+Speech_-001L=(null)
+Speech_0044L=¡Maldita sea! La única forma de espiar la conversación entre Chu y Kim era pinchar el teléfono. ¡Voy a cancelar la misión!
+Speech_-001L=(null)
+Speech_0033L=No entréis en esos servicios sin la vacuna. De lo contrario os infectaréis y tendré que cancelar la misión.
+Speech_-001L=(null)
+Speech_0034L=Buen trabajo. Ahora uno de los dos tiene que inocularse la vacuna, entrar al servicio y acabar con el hombre infectado.
+Speech_-001L=(null)
+Speech_0045L=¿Estás loco? Voy a cancelar la misión y a llamar al Centro de Epidemias para que pongan en cuarentena toda la estación.
+Speech_-001L=(null)
+Speech_0010L=Hemos llegado tarde. Se han apoderado de un tren. No hay tiempo para bajar a la plataforma. Saltad al techo del tren, rápido.
+Speech_-001L=(null)
+Speech_0015L=Buen trabajo. Cuando la temperatura de su cuerpo baje, el virus morirá. En ese lugar ya no hay peligro, así que bajad a la plataforma inferior e impedid que los hombres de Kim escapen con el resto del virus. 
+Note_0039L=Para desarmar una bomba, ambos agentes deben cortar el cable al mismo tiempo.
+Speech_0014L=¡Maldita sea! La única forma de espiar la conversación entre Chu y Kim era pinchar el teléfono. ¡Voy a cancelar la misión!
+
+[P_04_GCS_ConvCellPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=¿Están listas las bombas?
+Speech_0002L=Sólo falta una, señor.
+Speech_0003L=Tened cuidado. Esas cosas son muy sensibles. No quiero que este lugar vuele conmigo dentro.
+Speech_0004L=Sí, señor.
+Speech_0005L=¿Diga? Sí, coronel. Las bombas estarán listas en unos minutos. Sí, entiendo. ¿El teléfono público que está en medio de la estación? Sí, señor, allí estaré.
+
+[P_04_GCS_ConvEnding]
+Speech_-001L=(null)
+Speech_0001L=¿Por qué somos los últimos en evacuar?
+Speech_0002L=Alguien tiene que serlo.
+Speech_0003L=Sí, pero me estoy poniendo nervioso. Esas bombas, y el pobre Ming con el virus.
+Speech_0004L=Todo el mundo muere tarde o temprano.
+Speech_0005L=Pues yo prefiero morir tarde.
+Speech_-001L=(null)
+Speech_0007L=¿Cuántos hombres van a enviar?
+Speech_0008L=Creo que treinta.
+Speech_0009L=¿Adónde van?
+Speech_0010L=Chu ha dicho que no preguntemos. Lo sabremos al llegar.
+
+[P_04_GCS_ConvHydroTunnel]
+Speech_-001L=(null)
+Speech_0001L=Ten cuidado con eso. ¿Es que no sabes qué es?
+Speech_0002L=Sí. Una especie de bomba.
+Speech_0003L=¿Una especie de bomba? Si la hacea explotar, reducirás a cenizas toda la manzana entre la Calle 5 y Lex.
+Speech_0004L=Uh... oh...
+Speech_0005L=Sí. No es una especie de bomba. Es la bomba.
+Speech_0006L=Vale. Tendré mas cuidado.
+Speech_0007L=Eso espero.
+Speech_-001L=(null)
+Speech_0008L=¿Está activada?
+Speech_0009L=No estoy seguro. Siempre olvido si es el cable azul o el amarillo...
+Speech_0010L=Te sugiero que consultes el diagrama del portátil antes de matarnos.
+Speech_0011L=Es que lo tengo allí lejos...
+Speech_0012L=Te aseguro que tú vas a ir más lejos que tu portátil si si esa bomba explota. Van a llover pedacitos tuyos desde Harlem hasta Jersey.
+
+[P_04_GCS_ConvPubPhoneChu]
+Speech_-001L=(null)
+Speech_0001L=Sí, señor.
+Speech_0002L=Ha habido un ligero cambio de planes.
+Speech_0003L=No hay plan perfecto. ¿Cuál es el problema?
+Speech_0004L=Uno de mis hombres se ha infectado. Afortunadamente se ha encerrado en los servicios y ha usado cinta adhesiva para aislarse, pero no quiero que contamine al resto.
+Speech_0005L=Entiendo.
+Speech_0006L=Hay una dosis de antivirus en la taquilla donde tienes el dinero.
+Speech_0007L=¿Quiere que cure a ese hombre?
+Speech_0008L=No, es demasiado tarde. El antivirus es para que te lo inyectes antes de entrar. De lo contrario, morirás.
+Speech_0009L=Entonces debo ponerme el antivirus y matar al hombre para recuperar el resto de las muestras de virus.
+Speech_0010L=Eres inteligente, Chu. Te echaré de menos. La taquilla es la 9201, y el código es el cumpleaños de tu hijo.
+Speech_0011L=Gracias, coronel. No le fallaré.
+
+[P_04_GCS_ConvSubway]
+Speech_-001L=(null)
+Speech_0001L=Tengo otra pregunta.
+Speech_0002L=La respuesta es no.
+Speech_0003L=No, no. Va en serio. Ahora que el tren se ha ido, ¿cómo alcanzamos la bomba si surge algún problema?
+Speech_0004L=Creo que no has entendido las órdenes. Si surge algún problema, la bomba tiene que explotar.
+Speech_0005L=Pero... espera un momento. Si explota, moriremos.
+Speech_0006L=Sí. Por eso estamos aquí, para asegurarnos de no surja ningún problema.
+
+[P_04_GCS_InterroChu]
+Speech_-001L=(null)
+Speech_0002L=Cómo sois los americanos... Un vulgar policía de Nueva York que se cree un héroe. ¿Vas a sacarme la información a golpes, como en una película barata? ¡Ja!
+Speech_0004L=¡Aah! ¡Tú no eres de la policía! ¡No me mates! Te lo diré todo. El código de la taquilla es el cumpleaños de mi hijo, 0315.
+Note_0006L=El código para abrir la taquilla es 0315.
+
+[P_04_GCS_InterroDualChu]
+Speech_-001L=(null)
+Speech_0001L=Uhghgh... kkaaaa... achhchc... Ooo... ayuda...
+Speech_-001L=(null)
+Speech_0003L=Ah...ugh... qué... ¿quién es?... no veo... mis ojos... ayúdeme...  uhghh...yyyhhghh... me encuentro mal... uhgh... me... me quema por dentro... ¿Chu? ¿Chu? ¿Eres tú?  Ugghh... ayúdame, por favor...
+
+[P_04_GCS_LockerAntidote]
+
+[P_04_GCS_MainHallChu]
+
+[P_04_GCS_MainHallGuards]
+
+[P_04_GCS_MetroTrain]
+
+[P_04_GCS_Objectives]
+Objective_0001=Averigua cuáles son los planes del coronel Kim.
+Objective_0008=El coronel Kim y sus hombres se han apoderado de la Estación Central pero aún no han dado a conocer sus demandas. Descubre cuáles son sus planes y detenles.
+POPUPMESSAGE_0030=Averigua cuáles son los verdaderos planes de Chu.
+Objective_0002=Desactiva las bombas de la Estación Central.
+Objective_0009=Localiza y recupera los discos de datos del Centro Nacional de Datos.
+Objective_0003=Pincha el teléfono del vestíbulo de la Estación Central antes de que llegue Chu.
+Objective_0010=Chu, uno de los hombres de Kim, recibirá una llamada de teléfono en un teléfono público de la entrada principal. Pincha el teléfono antes de que se produzca la llamada para espiar la conversación.
+POPUPMESSAGE_0031=Desactiva las bombas bajo la Estación Central.
+Objective_0014=Consigue el antídoto de la taquilla.
+Objective_0015=Chu recogerá una muestra de la vacuna de una taquilla; descubre qué taquilla es y neutraliza a Chu antes de que pueda usar la muestra.
+Objective_0042=Elimina al soldado infectado del baño.
+Objective_0043=Usa la vacuna para entrar en el lavabo sin contagiarte y luego elimina al soldado infectado.
+Objective_0044=Sigue a Chu hasta la taquilla.
+Objective_0045=Sigue a Chu hasta la taquilla.
+POPUPMESSAGE_0032=Consigue el antídoto de la taquilla.
+Objective_0046=Asegura el agente biológico en manos del soldado infectado.
+Objective_0047=Asegura el agente biológico en manos del soldado infectado.
+POPUPMESSAGE_0048=Elimina al soldado infectado del baño.
+Objective_0018=No dejes que los hombres de Kim huyan con el resto del agente biológico.
+Objective_0019=Ve al andén del metro e impide que los hombres de Kim escapen*. Date prisa.
+Objective_0006=Salta sobre el vagón de metro para seguirle hasta su destino.
+Objective_0013=Es demasiado tarde para evitar que los hombres de Kim escapen. Salta sobre el techo del vagón de metro y síguele hasta la próxima parada.
+POPUPMESSAGE_0034=Sube al techo de un vagón del metro y síguele hasta su destino.
+Objective_0022=Recupera los esquemas de las bombas.
+Objective_0023=Recupera los esquemas de las bombas.
+POPUPMESSAGE_0035=Desactiva las bombas bajo la Estación Central.
+POPUPMESSAGE_0036=Consigue el antídoto de la taquilla.
+POPUPMESSAGE_0037=Elimina al soldado infectado del baño.
+Objective_0024=Sigue a Chu hasta la taquilla.
+Objective_0026=Asegura el agente biológico en manos del soldado infectado.
+Objective_0027=Asegura la muestra de arma biológica en manos del soldado infectado del baño.
+Objective_0028=Elimina al soldado infectado del baño.
+Objective_0029=Usa la vacuna para entrar en el lavabo sin contagiarte y luego elimina al soldado infectado.
+POPUPMESSAGE_0033=Elimina al soldado infectado del baño.
+
+[P_04_GCS_ShootLaptop]
+
+[P_04_GCS_Timer]
+Speech_-001L=(null)
+Speech_0001L=No os apresuréis. Tenéis que retroceder y desactivar esas bombas para evitar que Kim vuele la Estación Central.
+
+[P_04_GCS_Objective]
+Objective_0038=Asegura el agente biológico en manos del soldado infectado.
+Objective_0039=Asegura la muestra de arma biológica en manos del soldado infectado del baño.

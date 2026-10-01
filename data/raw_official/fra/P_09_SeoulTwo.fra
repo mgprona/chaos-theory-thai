@@ -1,0 +1,558 @@
+[P_09_SeoulTwo_Balcony]
+
+[P_09_SeoulTwo_Bombdrop]
+Speech_-001L=(null)
+Speech_0001L=Euh... Shing ?
+Speech_0002L=Oui, qu'est-ce que... (voir la bombe)  Ah !
+Speech_0003L=J'ai trouvé d'où vient ce bruit...
+Speech_0004L=Tu crois qu'elle va exploser ?
+Speech_0005L=J'en sais rien.
+Speech_0006L=Va voir.
+Speech_0007L=Fais-le, toi.
+Speech_0008L=OK.
+Speech_0009L=Doucement...
+Speech_0010L=A couvert !
+Speech_0011L=Je veux ma maman !
+Speech_0012L=On est toujours vivants...
+Speech_0013L=Du calme...
+Speech_0014L=Ecoute, transmettons les données au drone et fichons le camp avant qu'elle explose.
+Speech_0015L=Bonne idée.
+
+[P_09_SeoulTwo_Drone01]
+
+[P_09_SeoulTwo_Drone3]
+
+[P_09_SeoulTwo_E6fakefight]
+
+[P_09_SeoulTwo_Fin]
+Objective_0001=Sauvez les pilotes de l'EA-6B.
+Objective_0003=(null)
+Objective_0002=Mettez tous les chars d'assaut de modèle 86 hors de combat pour faciliter la lutte contre les Coréens du Nord.
+Objective_0004=(null)
+Objective_0007=Empêchez la diffusion des émissions de propagande nord-coréennes.
+Objective_0008=Mettre hors service les haut-parleurs qui diffusent la propagande nord-coréenne aurait un effet très bénéfique sur le moral des troupes alliées.
+Objective_0009=Localisez et récupérez le disque dur de la BDN.
+Objective_0010=La banque de données nationale sud-coréenne passe par une station de télécommunication du centre de Séoul. Récupérez le disque dur de la station, afin que nous sachions si l'attaque qui a coulé le Walsh a été lancée depuis la Corée du Sud.
+Objective_0011=Interrogez un homme des forces spéciales nord-coréennes afin d'apprendre où se trouve Jong.
+Objective_0012=Des agents d'Echelon 3 en mission dans Séoul pourraient avoir besoin que vous interrogiez des membres des forces spéciales nord-coréennes. La mission sera annulée si ceux-ci meurent avant que vous ayez pu leur tirer les vers du nez.
+Objective_0013=Montez sur le toit pour transmettre les données à l'EA-6B.
+Objective_0014=Transmettez les données contenues sur le disque dur de la BDN à l'EA-6B depuis le toit, en utilisant une émission laser point à point afin d'empêcher toute interception.
+Objective_0015=Connectez-vous à un poste de commandement mobile.
+Objective_0016=Connectez-vous au réseau de commandement nord-coréen par le biais d'un PCM afin qu'Echelon 3 puisse espionner l'ennemi.
+
+[P_09_SeoulTwo_GilRun]
+
+[P_09_SeoulTwo_HQcom]
+Speech_0002L=Je n'aime pas ça, Fisher, mais votre extraction est repoussée.
+Speech_0025L=Vu le prix des heures sup', vous avez du pot que je sois pas syndiqué...
+Speech_0020L=Nous avons perdu le contact avec l'EA-6B avant qu'il efface les données. Elles sont toujours dans l'épave.
+Speech_0021L=Il faut que j'y aille et que je les efface ?
+Speech_0023L=Avant que les Nord-Coréens ne mettent la main dessus, oui.
+Speech_-001L=(null)
+Speech_0047L=L'avion a été abattu avant de pouvoir effacer les données, Fisher. Allez à l'épave et assurez-vous que les Nord-Coréens n'aient rien à récupérer.
+Speech_-001L=(null)
+Speech_0182L=Des soldats nord-coréens sont en train d'installer des radars portables. Essaye de nous en débarrasser.
+Speech_-001L=(null)
+Speech_0183L=Ce serait utile si tu pouvais nous récupérer les caractéristiques techniques des nouveaux drones ennemis.
+Speech_0184L=Tu parles !
+Note_0168L=Les engins blindés peuvent être détruits en lançant une grenade par une trappe ouverte.
+
+
+Speech_-001L=(null)
+Speech_0073L=Nos rapports indiquent un plus grand nombre de blindés dans ton secteur.
+Speech_0074L=Génial !
+Speech_-001L=(null)
+Speech_0162L=Beau travail, Fisher. Tu as sérieusement freiné la progression des blindés ennemis.
+Speech_0081L=Beau travail, Fisher. Tu as sérieusement freiné la progression des blindés ennemis.
+Speech_0163L=Bon sang, Fisher... combien tu en as détruit, aujourd'hui ?
+Speech_0164L=J'ai arrêté de compter.
+Speech_0165L=Tu vas finir par te faire une division blindée ennemie à toi tout seul !
+Speech_0166L=Et je coûte moins cher qu'une bombe d'une tonne !
+Speech_0167L=Sauf si tu prends en compte le coût de ton assurance-vie. Elle nous ponctionne la moitié de notre budget !
+Speech_-001L=(null)
+Speech_0017L=Beau travail, Fisher. Nos instruments indiquent qu'il y en a au moins trois autres dans ton secteur.
+Speech_-001L=(null)
+Speech_0107L=C'est confirmé, il ne reste plus que deux radars portables dans ton secteur.
+Speech_-001L=(null)
+Speech_0109L=Plus qu'un, Fisher.
+Speech_0110L=Je l'aurai.
+Speech_-001L=(null)
+Speech_0018L=Bien joué, Fisher. Ton extraction sera bien plus simple sans ces maudits radars portables.
+Speech_0111L=Ah, bon ? Parce que vous avez l'intention de venir me chercher, un de ces jours ?
+Speech_-001L=(null)
+Speech_0114L=On dirait que tu as raté un des radars portables, et impossible de revenir en arrière, Fisher. Oublie cet objectif.
+Speech_-001L=(null)
+Speech_0112L=C'était le dernier, Fisher. Beau travail.
+Speech_0113L=Des soldats nord-coréens sont en train d'installer des radars portables. Essaye de nous en débarrasser.
+Speech_-001L=(null)
+Speech_0120L=Bien joué, Fisher. J'ai l'impression qu'il y a là toutes les caractéristiques techniques des drones ennemis.
+Speech_0123L=Ça pourrait permettre de tous les désactiver ?
+Speech_0124L=Non, hélas. Mais en faisant passer aux services compétents, d'ici quelques mois, je pense...
+Speech_0125L=Hmm... pas vraiment utile pour moi, quoi...
+Speech_0126L=Ce serait utile si tu pouvais nous récupérer les caractéristiques techniques des nouveaux drones ennemis.
+Speech_-001L=(null)
+Speech_0096L=Retournez au bâtiment, Fisher. Vous pourrez y désigner l'épave à l'aide de votre EEV.
+Speech_-001L=(null)
+Speech_0097L=Fisher, il faut désigner l'ép...
+Speech_0098L=Je ne vais pas en sauver un et pas l'autre...
+Speech_-001L=(null)
+Speech_0106L=Fisher, vous devez atteindre l'avion et récupérer les données avant votre extraction.
+Note_0161L=Les pilotes échapperont au bombardement s'ils sont dans la ruelle.
+Speech_-001L=(null)
+Speech_0129L=Fisher... si vous compromettez la mission pour ces hommes...
+Speech_0130L=Ne gaspillez pas votre salive, Lambert. Je connais mes ordres.
+Speech_-001L=(null)
+Speech_0133L=Oubliez-le Fisher, il est mort.
+Speech_-001L=(null)
+Speech_0134L=Beau travail, Fisher. Il devrait être suffisamment éloigné, ici. Désignez l'épave à l'aide de votre EEV depuis le toit.
+Speech_-001L=(null)
+Speech_0135L=Vous n'existez même pas, Fisher. Vous n'aurez pas de médaille.
+Speech_0136L=Ce ne sont pas les médailles qui me permettent de dormir.
+Speech_-001L=(null)
+Speech_0137L=Bon, les pilotes sont hors de danger. Détruisez-moi cet avion.
+Speech_0138L=Avec plaisir.
+POPUPMESSAGE_0171=Placez un mouchard sur un PC mobile.
+Speech_-001L=(null)
+Speech_0127L=Il y a un autre PC mobile droit devant, Fisher. C'est peut-être ta dernière chance de nous brancher sur leur réseau. 
+Speech_0128L=Ces drones Predator ne se reposent jamais, hein...
+Speech_-001L=(null)
+Speech_0115L=Beau travail, Fisher. Une autre connexion au réseau central ennemi est toujours bonne à prendre.
+Speech_-001L=(null)
+Speech_0011L=Bien joué. Cette connexion au réseau de commandement ennemi devrait nous permettre d'obtenir des renseignements cruciaux.
+Speech_0066L=Heureux d'avoir pu me rendre utile.
+POPUPMESSAGE_0172=Placez un mouchard sur un PC mobile.
+Speech_-001L=(null)
+Speech_0067L=Au risque d'abuser, Fisher, il faut vraiment que tu me branches à leur réseau par le biais de ce PC mobile.
+Speech_0068L=J'y retourne.
+Speech_0069L=Branche-moi sur le PC mobile pour qu'on puisse procéder à ton extraction.
+Speech_0070L=Beau travail, Fisher. Cette connexion au réseau de commandement ennemi devrait nous permettre d'obtenir des renseignements cruciaux.
+Speech_-001L=(null)
+Speech_0175L=Seigneur, Fisher ! Qu'est-ce que vous avez fait ?
+Speech_0176L=C'était un accident...
+Speech_0177L=Nous n'avons pas droit aux accidents. Regardez où vous tirez !
+Speech_-001L=(null)
+Speech_0178L=Bon sang, Fisher, c'est le second civil que vous tuez !
+Speech_0179L=Lambert, je...
+Speech_-001L=(null)
+Speech_0180L=Vous devriez pouvoir désigner les débris à l'aide de votre EEV depuis le toit de cette structure.
+Speech_0181L=D'accord.
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0185L=Dieu me pardonne... 
+Speech_0186L=F-117 en approche, Fisher. Restez en position.
+Speech_0187L=Compris. La cible est signalée.
+Speech_0188L=Bonjour, livreur de journaux, ici le postier. Signal bien reçu, ne bougez pas.
+Speech_0189L=Bien compris, postier.
+Speech_0147L=Et voilà, livreur de journaux. Le colis vient d'être livré.
+Speech_0148L=Confirmation. Je l'ai en visuel, postier.
+Speech_0149L=Bonne journée à vous. Postier, terminé. 
+Note_0152L=Pointez le laser sur l'EA-6B depuis l'échafaudage situé à l'extrémité de la rue.
+Note_0153L=Les pilotes échapperont au bombardement s'ils sont dans la ruelle.
+Note_0154L=Les engins blindés peuvent être détruits en lançant une grenade par une trappe ouverte.
+Speech_0028L=Quelle est la situation, Fisher ?
+Speech_0036L=L'avion est en miettes. Je ne crois pas pouvoir récupérer les données. Mais deux membres d'équipage ont réussi à s'extraire des débris.
+Speech_0037L=Si vous ne pouvez pas récupérer les données, il faut veiller à ce que personne d'autre ne le puisse. Mettez-vous à l'abri et désignez la cible pour que le Ronald Reagan la détruise.
+Speech_0038L=Laissez-moi d'abord mettre les pilotes à l'abri.
+Speech_0039L=Nous n'avons pas beaucoup de temps, Fisher. Les Nord-Coréens arrivent.
+Speech_0040L=Vous ne seriez pas en train de me dire d'abandonner nos hommes ?
+Speech_0041L=Je vous précise juste votre objectif. Je vous fais confiance pour le mener à bien.
+Speech_0049L=L'avion est en miettes. Je ne crois pas pouvoir récupérer les données.
+Speech_0050L=Si vous ne pouvez pas récupérer les données, il faut veiller à ce que personne d'autre ne le puisse. Mettez-vous à l'abri et désignez la cible pour que le Ronald Reagan la détruise.
+Speech_0051L=J'y vais.
+Speech_0150L=Vous devriez pouvoir désigner les débris à l'aide de votre EEV depuis le toit de cette structure.
+Speech_0151L=D'accord.
+Speech_0061L=L'avion est trop endommagé pour récupérer les données. Reculez et désignez la cible depuis le bâtiment voisin pour qu'il soit possible de la bombarder.
+Speech_0005L=On dirait que des soldats nord-coréens installent des radars portables. C'est peut-être eux qui ont repéré l'EA-6B.
+Speech_0006L=Tu veux que je m'en charge ?
+Speech_0075L=Pourquoi pas... même si c'est un peu tard...
+Speech_0116L=On dirait que le Nord se sert de cette guerre pour tester ses nouvelles technologies.
+Speech_0117L=Oui. Ce drone ne sera pas le dernier, j'imagine...
+Speech_0118L=Ce serait utile si tu pouvais nous récupérer ses caractéristiques techniques.
+Speech_0119L=Tu parles !
+Speech_0048L=Quelle est la situation, Fisher ?
+Speech_0076L=Bon sang, Fisher... combien tu en as détruit, aujourd'hui ?
+Speech_0077L=J'ai arrêté de compter.
+Speech_0078L=Tu vas finir par te faire une division blindée ennemie à toi tout seul !
+Speech_0079L=Et je coûte moins cher qu'une bombe d'une tonne !
+Speech_0080L=Sauf si tu prends en compte le coût de ton assurance-vie. Elle nous ponctionne la moitié de notre budget !
+Speech_0139L=F-117 en approche, Fisher. Restez en position.
+Speech_0140L=Compris. La cible est signalée.
+Speech_0141L=Bonjour, livreur de journaux, ici le postier. Signal bien reçu, ne bougez pas.
+Speech_0142L=Bien compris, postier.
+Speech_0143L=Euh... livreur de journaux, vous êtes où ?
+Speech_0144L=Qu'est-ce qui se passe, Fisher ? Signalez la cible !
+Speech_0145L=Une petite minute...
+Speech_0146L=OK, la cible est signalée.
+
+[P_09_SeoulTwo_IFV]
+
+[P_09_SeoulTwo_Imprison]
+Note_0017L=Le prisonnier sud-coréen pourra attaquer l'ennemi si vous le libérez.
+
+[P_09_SeoulTwo_Imprison_Com]
+Speech_-001L=(null)
+Speech_0001L=Bien. D'accord. 
+Speech_0002L=La ferme !
+Speech_0003L=Je me rends, ne me fais pas de mal.
+Speech_0006L=Tais-toi ! Tu es en état d'arrestation !
+Speech_0007L=OK.
+Speech_0010L=Tu es mon prisonnier !
+Speech_0011L=Je t'ai dit que je me rendais.
+Speech_0012L=OK. Ne bouge pas, surtout.
+Speech_0013L=OK.
+Speech_0014L=OK.
+Speech_0015L=Et maintenant, on fait quoi ?
+Speech_0016L=Aucune idée. Assieds-toi, je vais bien avoir une idée...
+
+[P_09_SeoulTwo_Interog_Bae]
+Speech_-001L=(null)
+Speech_0001L=Qu'est-ce que tu fais ici ?
+Speech_0002L=Oh, non ! Quelle déveine !
+Speech_0003L=Qu'est-ce que tu racontes ?
+Speech_0004L=J'étais là, tranquille, sans gêner personne, et boum ! 
+Speech_0005L=Qu'est-ce qui s'est passé ?
+Speech_0006L=Vous m'avez balancé une bombe dessus, bande de dingues !
+Speech_0007L=Une bombe ?
+Speech_0008L=Celle qui est à l'intérieur de la pièce ! Elle m'a raté d'un cheveu !
+Speech_0009L=Elle n'a pas explosé ?
+Speech_0010L=Non, mais quelle importance, de toute façon ? Vu que vous allez me tuer...
+Speech_0011L=Je savais que j'aurais mieux fait de rester au lit...
+Speech_0012L=Faites ce que vous voulez...
+
+[P_09_SeoulTwo_Interog_Bo]
+Speech_-001L=(null)
+Speech_0001L=Reste calme et tu vivras.
+Speech_0002L=Que... qui...
+Speech_0003L=Quelle est ton unité ?
+Speech_0004L=Je fais partie de la deuxième vague. On est là en renfort du premier bataillon, pour contrôler la zone.
+Speech_0005L=Des renforts ? Vous devez transporter de l'équipement, alors...
+Speech_0006L=Oui. Nous avons des munitions OTAN 5.56 x 45, des fois qu'on trouve des fusils américains.
+Speech_0009L=Je les ai déjà trouvées. Quoi d'autre ?
+Speech_0010L=C'est tout. La troisième vague sera mieux équipée que nous.
+Speech_0014L=Merci du conseil.
+Note_0015L=Il y a des munitions à côté du radar portable, sur le toit du bureau.
+Speech_0011L=C'est tout ce qu'on a, je le jure !
+Speech_0013L=Attention aux bombes...
+
+[P_09_SeoulTwo_Interog_Chen]
+Speech_-001L=(null)
+Speech_0001L=Qu'est-ce que tu fais là ?
+Speech_0002L=Dieu soit loué, vous êtes Américain !
+Speech_0003L=Je ne suis pas venu te sauver.
+Speech_0004L=S'il vous plaît... je veux vous aider...
+Speech_0005L=Contente-toi de me dire ce que tu sais.
+Speech_0006L=Le PC mobile, droit devant... il est protégé par une sorte de drone volant.
+Speech_0007L=Merci.
+Speech_0008L=Prenez garde... avant d'être capturé, j'ai demandé un tir de mortiers sur le PC mobile. Il pourrait se produire d'un instant à l'autre.
+Speech_0009L=Je ferai attention.
+Speech_0010L=Nous sommes frères d'armes.
+Speech_0011L=Je suis de votre côté.
+Speech_0012L=Il y a des tireurs embusqués dans le coin.
+
+[P_09_SeoulTwo_interog_chung]
+Speech_-001L=(null)
+Speech_0001L=Quelqu'un a pensé à appeler la dépanneuse ?
+Speech_0002L=Aïe ! Lâchez-moi, porc d'Américain !
+Speech_0003L=J'essaye de me rendre utile, c'est tout.
+Speech_0004L=Vous plaisantez au sujet de votre mode de vie capitaliste, mais vous vivez comme des rois sur le dis de mon peuple. Votre dépanneuse, vous pouvez vous la...
+Speech_0005L=Du calme, ou je t'assomme.
+Speech_0006L=Faites, si vous voulez.
+Speech_0007L=Les renseignements d'abord.
+Speech_0008L=Un véhicule blindé est en train de se mettre en position pour contrôler la rue suivante, ça vous va ? Ha ! J'espère qu'il vous tuera !
+Speech_0009L=Je ne t'aime pas.
+Speech_0010L=C'est mutuel.
+Speech_0011L=Peut-être, mais c'est moi qui ai le poignard...
+Speech_0012L=Je vous hais, sale porc !
+Speech_0013L=Vous avez du lait qui vous sort par les narines.
+
+[P_09_SeoulTwo_Interog_Ho]
+Speech_-001L=(null)
+Speech_0001L=Qu'est-ce que tu fais ici ?
+Speech_0002L=Ah ! Euh... je viens de déposer quelques gars pour qu'ils prennent le contrôle du secteur.
+Speech_0003L=Combien en tout ?
+Speech_0004L=Un tireur embusqué dans l'immeuble... un garde pour protéger le PC mobile, et un demi-peloton pour explorer les environs du crash...
+Speech_0005L=Quand est-ce qu'ils arriveront à l'avion ?
+Speech_0006L=Je ne sais pas au juste. Ils ont ordre d'attendre le renfort d'un blindé léger.
+Speech_0007L=Et lui, il arrivera quand ?
+Speech_0008L=D'un instant à l'autre, normalement.
+Speech_0010L=Je me rends.
+Speech_0011L=Je suis juste le chauffeur.
+
+[P_09_SeoulTwo_Interog_Jin]
+Speech_-001L=(null)
+Speech_0001L=Qu'est-ce que tu fais ici ?
+Speech_0002L=Ahhh ! Attendez, vous êtes Américain, et moi, Sud-Coréen ! On est alliés !
+Speech_0003L=Je le vois bien à ton uniforme, mais qu'est-ce que tu fais là ?
+Speech_0004L=Je suis éclaireur... mon unité me suit de près. 
+Speech_0005L=Vous êtes combien ?
+Speech_0006L=Quatre, plus moi. On a subi de lourdes pertes. Vous pouvez nous aider ?
+Speech_0007L=Je suis un peu trop pris, j'en ai peur.
+Speech_0008L=Qui êtes-vous ?
+Speech_0009L=Quelqu'un que vous n'avez jamais vu.
+Speech_0011L=Nous sommes alliés...
+Speech_0012L=Laissez-moi dire à mon unité que vous êtes dans notre camp.
+
+[P_09_SeoulTwo_Interog_Manchu]
+
+[P_09_SeoulTwo_Interog_Pong]
+Speech_-001L=(null)
+Speech_0001L=Chouette endroit que tu as là. Où est ton observateur ?
+Speech_0002L=Ahhh ! Euh... il... il est mort.
+Speech_0005L=Dis-moi quelque chose d'intéressant si tu ne veux pas le rejoindre.
+Speech_0006L=Euh... vous devez vous intéresser à l'avion qui s'est écrasé...
+Speech_0007L=Peut-être...
+Speech_0008L=De l'autre côté de l'immeuble... remontez la rue, prenez l'allée sur la gauche et passez par-dessus le mur...
+Speech_0009L=Merci, monsieur le guide.
+Speech_0010L=Faites attention, nous aussi, nous nous intéressons au crash...
+Speech_0012L=Je ne vous tirerai pas dessus, c'est promis.
+
+[P_09_SeoulTwo_Interog_Seung]
+Speech_-001L=(null)
+Speech_0001L=Joli camion.
+Speech_0002L=Prenez-le... les clés sont dans le pare-soleil.
+Speech_0003L=Ce ne serait pas très discret, de me déplacer en camion...
+Speech_0004L=Et de me tuer non plus.
+Speech_0005L=Alors, raconte-moi quelque chose d'utile...
+Speech_0006L=Un des tireurs embusqués a dit avoir vu deux des membres de l'équipage de l'avion allongés dans la rue.
+Speech_0007L=Et... ?
+Speech_0008L=Il pense qu'ils sont encore vivants...
+Speech_0009L=Vivants ?
+Speech_0010L=Oui. On lui a donné l'ordre de ne pas tirer, sans doute pour les capturer.
+Speech_0012L=La guerre, c'est affreux...
+Speech_0013L=Je ne fais de mal à personne, moi...
+
+[P_09_SeoulTwo_Interog_Shing]
+Note_0016L=Il y a une trousse de premiers soins à la cave du restaurant.
+Speech_-001L=(null)
+Speech_0001L=Bouh !
+Speech_0002L=Oh, non ! Pas de bruit, s'il vous plaît, ou la bombe risque d'exploser.
+Speech_0003L=Dis-moi ce que je veux savoir et je te laisserai la vie sauve.
+Speech_0004L=Tout ce que vous voudrez ! Je veux juste partir d'ici avant que...
+Speech_0005L=Vous avez des fournitures ou de l'équipement ?
+Speech_0006L=Je crois qu'il y a des fournitures médicales au sous-sol.
+Speech_0007L=Merci.
+Speech_0008L=Et l'unité de contrôle des drones se trouve dans la cuisine.
+Speech_0009L=Intéressant. Tu t'es montré très serviable.
+Speech_0010L=Cette bombe me fait très peur.
+Speech_0011L=Si elle explose, tu ne t'en apercevras même pas.
+Speech_0012L=Ne me laissez pas à côté de la bombe, s'il vous plaît.
+Speech_0013L=J'ai peur des explosions géantes.
+Note_0015L=Il y a une trousse de premiers soins à la cave du restaurant.
+
+[P_09_SeoulTwo_Interog_Yuan]
+Speech_-001L=(null)
+Speech_0001L=Chut... je ne te ferai pas de mal...
+Speech_0002L=La douleur ne me fait pas peur.
+Speech_0003L=Peut-être parce que vous n'avez pas vraiment fait connaissance...
+Speech_0004L=Ouille, mon poignet ! Aïe ! OK, OK !
+Speech_0005L=Parle-moi, je t'écoute...
+Speech_0006L=Je dois m'assurer que le toit est dégagé pendant que les copains installent le radar portable.
+Speech_0007L=Tu ne t'en tires pas très bien.
+Speech_0008L=Vous avez raison. Je peux reprendre mon travail ?
+Speech_0009L=C'est tout ce que je sais.
+Speech_0010L=Demandez à quelqu'un d'autre. Je suis juste un conscrit...
+
+[P_09_SeoulTwo_KillSK]
+
+[P_09_SeoulTwo_Laser]
+Note_0010L=Pointez le laser sur l'EA-6B depuis l'échafaudage situé à l'extrémité de la rue.
+Speech_-001L=(null)
+Speech_0011L=Quelle est la situation, Fisher ?
+Speech_0012L=L'avion est en miettes. Je ne crois pas pouvoir récupérer les données. Mais deux membres d'équipage ont réussi à s'extraire des débris.
+Speech_0013L=Si vous ne pouvez pas récupérer les données, il faut veiller à ce que personne d'autre ne le puisse. Mettez-vous à l'abri et désignez la cible pour que le Ronald Reagan la détruise.
+Speech_0024L=L'avion est trop endommagé pour récupérer les données. Reculez et désignez la cible depuis le bâtiment voisin pour qu'il soit possible de la bombarder.
+Speech_0014L=Laissez-moi d'abord mettre les pilotes à l'abri.
+Speech_0015L=Nous n'avons pas beaucoup de temps, Fisher. Les Nord-Coréens arrivent.
+Speech_0016L=Vous ne seriez pas en train de me dire d'abandonner nos hommes ?
+Speech_0017L=Je vous précise juste votre objectif. Je vous fais confiance pour le mener à bien.
+Speech_0018L=L'avion est trop endommagé pour récupérer les données. Reculez et désignez la cible depuis le bâtiment voisin pour qu'il soit possible de la bombarder.
+Note_0023L=Laser designate the EA-6B from atop the scaffold at the end of the street.
+Speech_-001L=(null)
+Speech_0019L=Quelle est la situation, Fisher ?
+Speech_0020L=L'avion est en miettes. Je ne crois pas pouvoir récupérer les données.
+Speech_0021L=Si vous ne pouvez pas récupérer les données, il faut veiller à ce que personne d'autre ne le puisse. Mettez-vous à l'abri et désignez la cible pour que le Ronald Reagan la détruise.
+Speech_0022L=J'y vais.
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0001L=Dieu me pardonne... 
+Speech_0002L=F-117 en approche, Fisher. Restez en position.
+Speech_0003L=Compris. La cible est signalée.
+Speech_0004L=Bonjour, livreur de journaux, ici le postier. Signal bien reçu, ne bougez pas.
+Speech_0005L=Bien compris, postier.
+Speech_-001L=(null)
+Speech_0006L=Euh... livreur de journaux, vous êtes où ?
+Speech_0007L=Qu'est-ce qui se passe, Fisher ? Signalez la cible !
+Speech_0008L=Une petite minute...
+Speech_-001L=(null)
+Speech_0009L=OK, la cible est signalée.
+
+[P_09_SeoulTwo_MarketTwo]
+Speech_-001L=(null)
+Speech_0001L=(null)
+
+[P_09_SeoulTwo_MasterController]
+Note_0028L=Ne tuez aucun soldat sud-coréen.
+Speech_-001L=(null)
+Speech_0001L=Alors que les premiers chiffres des pertes commencent à tomber, horriblement élevés, les Américains se demandent comment ce drame a pu se produire. C'est une question que nous poserons ce soir au Secrétaire de la Défense, Frank Mason. Notre correspondant à la Maison blanche, Montgomery Lewis, l'interrogera ce soir sur la guerre, le scandale des contrats et sa liaison présumée avec Véronique Guilbault, le major de l'US Air Force.
+Speech_0002L=Sports... Akira Watanabe, le nouveau batteur de l'équipe de New York, a demandé la résiliation de son contrat. Le joueur de baseball le mieux payé au monde a annoncé son intention de retourner chez lui afin de rejoindre l'armée japonaise pour, je cite, "défendre notre peuple, notre pays et notre culture contre l'agresseur coréen."
+Speech_-001L=(null)
+Speech_0003L=La fusée chinoise a été lancée !
+Speech_0004L=Quelle fusée ?
+Speech_0005L=Cette qui va aider les astronautes pris au piège.
+Speech_0006L=Quels astronautes ?
+Speech_0007L=Ceux de la station spatiale.
+Speech_0008L=Je ne suis pas au courant. Qu'est-ce qui s'est passé ?
+Speech_0009L=Comment ça, tu n'es pas au courant ? C'est la plus grosse info de la décennie !
+Speech_0010L=Tu as remarqué que c'est la guerre, ici ? Non ?
+Speech_0011L=Des guerres, il y en a tout le temps. Mais ça, c'est important...
+Speech_-001L=(null)
+Speech_0013L=La vache ! Qu'est-ce qu'elles brillent, tes bottes !
+Speech_0014L=Elles sont neuves.
+Speech_0015L=Quoi ? Comment tu as fait pour en avoir ?
+Speech_0016L=Je les ai prises sur un Américain mort.
+Speech_0017L=Hein ? Mais c'est affreux !
+Speech_0018L=Les miennes étaient toutes trouées et il aurait fallu que j'attende un an pour en avoir d'autres.
+Speech_0019L=Mais... prendre les bottes d'un mort... c'est le genre de truc qui porte la poisse, non ?
+Speech_0020L=Pour lui, certainement !
+Speech_-001L=(null)
+Speech_0026L=Venez me chercher, bande de pourris !
+Speech_0027L=Vous ne m'aurez jamais vivant !
+Speech_0025L=Dieu me pardonne...
+
+[P_09_SeoulTwo_MCC]
+
+[P_09_SeoulTwo_Mrkt1]
+
+[P_09_SeoulTwo_Mrkt1_com]
+Speech_-001L=(null)
+Speech_0001L=Zut !
+Speech_0002L=Véhicule de combat ! En arrière !
+Speech_-001L=(null)
+Speech_0003L=A couvert !
+Speech_0004L=Oh, mon dieu ! Wen !
+Speech_0005L=A couvert, bon sang !
+Speech_0006L=Bon sang !
+Speech_0007L=Prenez ça, sales communistes !
+Speech_0008L=Planque-toi !
+Speech_-001L=(null)
+Speech_0009L=Dans l'allée !
+Speech_0010L=A l'attaque !
+
+[P_09_SeoulTwo_Mrkt2_com]
+Speech_-001L=(null)
+Speech_0010L=Frères du parti démocratique coréen ! Voyez comment vos gardiens américains s'enfuient comme des oies engraissées en prévision du festin ! Rejetez-les et accueillez vos vrais libérateurs à bras ouverts !
+Speech_0017L=Qui peut bien écrire ces immondices ?
+Speech_-001L=(null)
+Speech_0011L=L'armée du Parti démocratique est également la vôtre ! Les oppresseurs sont les démons américains. Unissons-nous pour vivre durablement dans la paix et la liberté !
+Speech_0012L=C'est à vomir !
+Speech_-001L=(null)
+Speech_0014L=Frères coréens ! Les impérialistes américains sont nos ennemis communs ! Unissons-nous pour les chasser de notre beau pays ! Nous n'avons que deux cadeaux pour eux : une mort ignominieuse et la plus abjecte des défaites !
+Speech_0018L=Un ordinateur écrirait de meilleurs discours que ça !
+Speech_-001L=(null)
+Speech_0015L=Les Américains vous trompent à l'aide de leurs médias ! Unissez-vous à vos frères du Nord ! Le joug de l'oppresseur doit disparaître et l'Occident brûler dans les flammes pour que nous soyons enfin libérés !
+Speech_0016L=Et moi qui croyais que DJ était un beau métier...
+
+[P_09_SeoulTwo_NDTinterog]
+Speech_-001L=(null)
+Speech_0005L=Tu n'as pas l'intention de sauter, j'espère ?
+Speech_0006L=Ah ! Non.
+Speech_0007L=Alors, qu'est-ce que tu fabriques ici ?
+Speech_0008L=Il faut que je vérifie le RP, pour voir s'il a repéré l'avion qui nous a survolés.
+Speech_0009L=RP ?
+Speech_0010L=Oui, le radar portable.
+Speech_0011L=Je vais te dire... repose-toi, je m'en charge.
+Speech_0012L=Tout ce que vous voudrez... ne me faites pas de mal...
+Speech_0013L=J'ai le vertige...
+
+[P_09_SeoulTwo_NDTroof]
+
+[P_09_SeoulTwo_NKGuard]
+Speech_-001L=(null)
+Speech_0005L=Wow... your combat boots are really shiny.
+Speech_0006L=They're new.
+Speech_0007L=What? How did you get new combat boots?
+Speech_0008L=I took them off a dead American.
+Speech_0009L=What?! That's horrible.
+Speech_0010L=Mine were worn out... and the army wasn't due to issue me a new pair until next year.
+Speech_0011L=But... you took a dead mans boots... that must be bad luck or something...
+Speech_0012L=Bad luck for him, I guess.
+
+[P_09_SeoulTwo_NKGuard_StateCheck]
+Speech_-001L=(null)
+Speech_0001L=The Chinese rocket is away!
+Speech_0002L=What rocket?
+Speech_0003L=The one being sent to rescue the stranded astronauts.
+Speech_0004L=What stranded astronauts?
+Speech_0005L=The ones on the ISS...
+Speech_0006L=I haven't heard about that... what happened?
+Speech_0007L=What do you mean you haven't heard? It's the biggest news story of the decade...
+Speech_0008L=Have you not noticed that we are in the middle of a war?
+Speech_0009L=Wars happen all the time... this is important.
+
+[P_09_SeoulTwo_NKSoundEFX]
+
+[P_09_SeoulTwo_Objectives]
+POPUPMESSAGE_0086=Placez un mouchard sur un PC mobile.
+Objective_0066=Connectez-vous à un poste de commandement mobile.
+Objective_0067=Connectez-vous au réseau de commandement nord-coréen par le biais d'un PCM afin qu'Echelon 3 puisse espionner l'ennemi.
+Objective_0068=Localisez et récupérez le disque dur de la BDN.
+Objective_0069=La banque de données nationale sud-coréenne passe par une station de télécommunication du centre de Séoul. Récupérez le disque dur de la station, afin que nous sachions si l'attaque qui a coulé le Walsh a été lancée depuis la Corée du Sud.
+Objective_0070=Interrogez un homme des forces spéciales nord-coréennes afin d'apprendre où se trouve Jong.
+Objective_0071=Des agents d'Echelon 3 en mission dans Séoul pourraient avoir besoin que vous interrogiez des membres des forces spéciales nord-coréennes. La mission sera annulée si ceux-ci meurent avant que vous ayez pu leur tirer les vers du nez.
+Objective_0072=Montez sur le toit pour transmettre les données à l'EA-6B.
+Objective_0073=Transmettez les données contenues sur le disque dur de la BDN à l'EA-6B depuis le toit, en utilisant une émission laser point à point afin d'empêcher toute interception.
+Objective_0074=Connectez-vous à un poste de commandement mobile.
+Objective_0075=Connectez-vous au réseau de commandement nord-coréen par le biais d'un PCM afin qu'Echelon 3 puisse espionner l'ennemi.
+Objective_0082=Empêchez la diffusion des émissions de propagande nord-coréennes.
+Objective_0083=Mettre hors service les haut-parleurs qui diffusent la propagande nord-coréenne aurait un effet très bénéfique sur le moral des troupes alliées.
+Objective_0047=Rendez-vous à l'endroit où l'EA-6B s'est écrasé.
+Objective_0048=Dirigez-vous vers l'est depuis le toit du bâtiment de télécommunication pour localiser l'épave de l'EA-6B.
+Objective_0049=Mettez hors service les récepteurs radar portables.
+Objective_0050=Les Nord-Coréens utilisent des radars portables pour coordonner leurs mouvements au sol et suivre les cibles alliées. Mettez hors service tous ceux que vous trouverez.
+Objective_0084=Obtenez des informations sur les drones nord-coréens. 
+Objective_0085=La Corée du Nord utilise des drones qui étaient jusque-là tenus secrets et qui bénéficient d'une technologie extrêmement avancée. Essayez de récupérer leurs caractéristiques techniques pour Echelon 3.
+POPUPMESSAGE_0051=Allez à l'endroit où l'EA-6B s'est écrasé.
+POPUPMESSAGE_0053=Mettez les radars portables hors service.
+Objective_0018=Faites en sorte que les Nord-Coréens ne puissent pas récupérer les données contenues dans l'EA-6B.
+Objective_0025=Les données contenues dans l'EA-6B ne doivent en aucun cas tomber entre les mains des Nord-Coréens. Récupérez-les ou faites en sorte que personne ne puisse mettre la main dessus.
+POPUPMESSAGE_0054=Empêchez les Nord-Coréens de récupérer les données contenues par l'EA-6B.
+Objective_0035=Signalez l'épave de l'EA-6B afin qu'elle puisse être bombardée.
+Objective_0036=Les données contenues dans l'EA-6B ne sont pas récupérables. Prenez position au sommet de l'échafaudage qui se dresse à l'ouest de l'épave, et signalez celle-ci à l'aide d'un laser afin qu'elle puisse être bombardée.
+POPUPMESSAGE_0055=Désignez l'épave de l'EA-6B en vue de son bombardement.
+Objective_0020=Connectez-vous à un poste de commandement mobile.
+Objective_0022=Connectez-vous au réseau de commandement nord-coréen par le biais d'un PCM afin qu'Echelon 3 puisse espionner l'ennemi.
+Objective_0045=Obtenez des informations sur les drones nord-coréens.
+Objective_0046=La Corée du Nord utilise des drones qui étaient jusque-là tenus secrets et qui bénéficient d'une technologie extrêmement avancée. Essayez de récupérer leurs caractéristiques techniques pour Echelon 3.
+Objective_0080=Obtenez des informations sur les drones nord-coréens.
+Objective_0081=La Corée du Nord utilise des drones qui étaient jusque-là tenus secrets et qui bénéficient d'une technologie extrêmement avancée. Essayez de récupérer leurs caractéristiques techniques pour Echelon 3.
+POPUPMESSAGE_0079=Placez un mouchard sur un PC mobile.
+
+[P_09_SeoulTwo_Plane_Logic]
+POPUPMESSAGE_0001=Désignez l'épave de l'EA-6B en vue de son bombardement.
+
+[P_09_SeoulTwo_RoofCom]
+Speech_-001L=(null)
+Speech_0001L=C'est pas toi qui disais qu'on ne risquait rien, ici ?
+Speech_0002L=Ben si, et c'est vrai...
+Speech_0003L=Quoi ? L'immeuble vient juste d'être bombardé !
+Speech_0004L=Oh. Oui, les bombes constituent encore un danger, c'est vrai...
+Speech_0005L=Alors, de quoi est-ce qu'on est protégés, hein ?
+Speech_0006L=De l'infanterie. Ecoute, les bombes ne veulent tuer personne, OK ? Avec elles, c'est une simple question de statistique. Par contre, les fantassins sont dangereux. Je préfère largement les bombes.
+Speech_0007L=Tu me fiches la trouille.
+
+[P_09_SeoulTwo_SamGenerics]
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_09_SeoulTwo_SKAlley]
+
+[P_09_SeoulTwo_SKPrisoner]
+
+[P_09_SeoulTwo_SKSoundEFX]
+
+[P_09_SeoulTwo_Slaughter]
+
+[P_09_SeoulTwo_Switch]
+

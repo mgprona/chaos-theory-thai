@@ -1,0 +1,14 @@
+[GENERAL]
+MapName=SEÚL
+Briefing_LAMBERT=Hace treinta y ocho horas, el ejército norcoreano declaró la guerra en la Península de Corea. Su objetivo es conquistar Seúl en setenta y dos horas. Las fuerzas americanas y surcoreanas han ejecutado maniobras de retirada para llevar a las divisiones norcoreanas por rutas separadas. Hace seis horas, la primera de esas divisiones ha alcanzado Seúl, y ahora intenta apoderarse de infraestructuras vitales. La primera es un repetidor de telecomunicaciones al norte de la ciudad. Por desgracia, el ataque informático que hundió al Walsh se difundió a través de ese repetidor. Si el ejército norcoreano consigue esa información, tendrá un pretexto para justificar su invasión y obligar al resto del mundo a que acepte la ocupación de Corea del Sur. Tenemos que adelantarnos.
+Briefing_GRIMSDOTTIR=El ataque informático que disparó el misil contra el Walsh provenía de Seúl. No he conseguido rastrear su fuente más allá del repetidor, y ni siquiera estoy segura de que no se originara allí. No es descabellado pensar que se trate de una maniobra de Corea del Sur para obligarnos a entrar en guerra contra sus vecinos. He intentado hackear su sistema, pero se trata de un canal seguro, y los daños provocados por el combate han aislado la mayoría de los puertos de entrada. Tendrás que ir allí, recuperar los datos manualmente y después mandarlos por conexión directa para que podamos estudiarlos.
+Briefing_REDDING=La CÍA tiene varios refugios en Seúl que sirven para facilitar la entrada a sus agentes y esconder disidentes. Suelen camuflarlos como domicilios normales. Estoy preparando un plan para introducirte en uno de esos refugios antes de que se produzca otra retirada masiva de agentes dobles. Cuando estés dentro, nuestros hombres se retirarán, y el frente norcoreano sobrepasará tu posición. Eso te dejará detrás de la fuerza principal, pero por delante de las tropas de apoyo. Tendrás una pequeña zona de seguridad, así que te recomiendo que no salgas de ella si no quieres encontrarte con un batallón enemigo entero.
+Briefing_MASSON=El USS Ronald Reagan está preparado para enviar un Prowler EA-6B equipado con un receptor láser. A su hombre se le entregará un dispositivo que rastreará el avión y le transmitirá los datos. Se trata de una comunicación segura al cien por cien, que no puede ser interceptada, ni mucho menos decodificada. Cuando su hombre esté en posición, el avión despegará para recibir los datos. Con todo, es una operación muy arriesgada. Espero que no me decepcionen. Cada uno de esos aviones cuesta más de sesenta millones de dólares.
+Briefing=TODO
+
+[Interaction]
+IntGetdrives=Conseguir discos
+IntUseelevator=Usar ascensor
+
+[Computer]
+CompUploadTap=Cargar programa

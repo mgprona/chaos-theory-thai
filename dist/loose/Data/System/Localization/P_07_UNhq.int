@@ -1,0 +1,82 @@
+
+[P_07_UNhq_BloodMessage]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Dammit! Someone arrived before us. It must be Kim.  Stop him at any cost.
+[P_07_UNhq_Cameranetmessage]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - That's weird! Security cameras are off. Proceed to the security control room floor.
+[P_07_UNhq_DefeatKim]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Got him! Kim won't be a threat any longer. Good job.
+[P_07_UNhq_EleserviceMessage]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - I remind you that killing UN guards or civilians is not allowed. Moreover, if the general alarm sounds you will no longer be able to reach the bomb. Be invisible and silent like only a Splinter Cell can.
+[P_07_UNhq_ElevatorMessage]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - The security control room is on the other side of the floor. Once you get out of the elevator, follow the main corridor and you ll find it.
+[P_07_UNhq_InterogateKim]
+Speech_-001L=(null)
+Speech_0001L=(null)
+[P_07_UNhq_Missioncompleted]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - At last, this threat is over. Good job Splinter Cells.
+[P_07_UNhq_NOalarm]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - God Dammit! They called a general alarm. The mission is over.
+[P_07_UNhq_NOkill]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Sweet Jesus! what did you do ? The mission is aborted
+[P_07_UNhq_NOkill02]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Sweet Jesus! what did you do ? The mission is aborted
+[P_07_UNhq_NOkill03]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Sweet Jesus! what did you do ? The mission is aborted
+[P_07_UNhq_NOkill04]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Sweet Jesus! what did you do ? The mission is aborted
+[P_07_UNhq_Nokill05]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Sweet Jesus! what did you do ? The mission is aborted
+[P_07_UNhq_Objectives]
+Note_0026L=Lethal force on UN guards and civilians is not allowed
+Note_0027L=The mission will be aborted if a general alarm is called
+Note_0028L=Emergency doors can only be opened from the inside
+Note_0029L=The Security Control Room is on the 22nd floor
+Note_0034L=The ventilation system is on top of the General Assembly Hall
+Note_0035L=The General Assembly Hall is in the second building
+Note_0036L=The ground floor can be reached with a service elevator
+Objective_0007=Infiltrate the building
+Objective_0008=The service stairs lead to the top floor, but the emergency doors can only be opened from the inside. Find another way to get into the building.
+Objective_0012=Reach the Security Control Room
+Objective_0013=Security cameras are off. Use the elevator to reach the Security Control Room.
+Objective_0016=Stop Colonel Kim
+Objective_0017=Colonel Kim has taken control of the Security Control Room.
+Objective_0024=Recover the encrypted data sent by Jin Soo
+Objective_0025=Third Echelon intercepted an encrypted communication between Jin Soo and the UN Headquarters. Recover any data sent by Jin Soo.
+Objective_0032=Defuse the bomb before it blows
+Objective_0033=Kim placed a bomb in the General Assembly Hall ventilation system. Defuse it before the countdown is over.
+POPUPMESSAGE_0040=Reach the Security Control Room
+POPUPMESSAGE_0041=Stop Colonel Kim
+POPUPMESSAGE_0042=Defuse the bomb before it blows
+POPUPMESSAGE_0043=Infiltrate the building
+Speech_-001L=(null)
+Speech_0030L=LAMBERT - Here we are. Be ready for hostilities.
+Speech_0037L=LAMBERT - My God! Kim placed a bomb before we arrived. It's in the General Assembly Hall ventilation system. An important meeting is taking place there. Hurry! You must defuse the bomb before it blows.
+[P_07_UNhq_paralleltimer]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Time is running out! Only 5 minutes left. Hurry up!
+Speech_0002L=LAMBERT - Time is almost up. In 60 seconds it will be too late. Come on!
+Speech_0003L=LAMBERT - We have only 10 minutes before it blows.
+Speech_0006L=LAMBERT - Bad news. We have only 20 minutes before it blows.
+[P_07_UNhq_Startingmessage]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Welcome to the UN. Remember that lethal force is not allowed and I'll abort the mission if a general alarm sounds. Now, rappel down to the window washing platform and get into the building.
+[P_07_UNhq_Ventilationroomsg]
+Speech_-001L=(null)
+Speech_0001L=LAMBERT - Well done. That's half of the job. Now you have to reach the other side of the room. There's a passage but you must go back downstairs to find it.
+[P_07_UNhq_BaseAlert]
+POPUPMESSAGE_0002=Alarm Stage One
+POPUPMESSAGE_0003=Alarm Stage Two
+POPUPMESSAGE_0004=Alarm Stage Three
+POPUPMESSAGE_0005=Alarm Stage Four - Full Alert

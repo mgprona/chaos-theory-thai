@@ -1,0 +1,56 @@
+[GENERAL]
+MapName=KOKUBO SOSHO
+Briefing=INCARICO
+Briefing_LAMBERT=Il Dipartimento di Stato ha perso i contatti con tutti gli ufficiali statunitensi che lavorano al Kokubo Sosho con la Forza di Autodifesa Giapponese. Sembra che l'SDF li abbia fatti prigionieri, e non rispondono alle nostre chiamate. Come da tradizione, i giapponesi stanno mettendo i carri in cerchio... o non vogliono ammettere di aver perso il controllo di Otomo, oppure lo hanno autorizzato. In quel caso dovremo dirlo alla Corea del Nord, il che scatenerà una grande guerra in Asia. Altrimenti... dobbiamo scoprire cosa sanno i nostri ufficiali e capire cosa fare con Otomo prima che la Corea del Nord scopra cosa è successo.
+Briefing_GRIMSDOTTIR=Sam, anche se il governo giapponese non lo copre, Otomo ha ancora la capacità di colpire. Se ha ancora il controllo del ramo informatico dell'SDF, dovrai agire con grande attenzione. Non sappiamo che genere di caos potrebbe scatenare.
+Briefing_REDDING=L'ultimo contatto che abbiamo avuto col personale della Kokubo Sosho è un frammento di telefonata dal maggiore Harper, un consigliere logistico della G-SDF. Dal rumore di fondo abbiamo compreso che la stanza in cui si trovava è stata attaccata dalle truppe giapponesi e lui è stato fatto prigioniero. Sembra che nessuno sia stato ucciso... e, se vogliamo mantenere relazioni pacifiche coi giapponesi, sarà meglio continuare così.
+
+[Interaction]
+IntSwitchObject=Accendi/spegni
+
+[Computer]
+CompUnlockWarRoomDoors=Sblocca porte sala operativa
+CompISDFBathhouseReport=Rapporto bagni ISDF
+CompGSDFLiveFeed=Intercetta diretta GSDF
+CompDownloadISDFdata=Scarica dati ISDF
+CompPressRoom=Sala stampa
+CompMainDesk=Postazione reception
+CompBasement=Fondamenta
+CompTunnel=Tunnel
+CompServerRoom=Stanza dei server
+CompAccess=Accesso
+CompObjective=Obiettivo
+CompCamera=Telecamera
+CompWNMOnlineService=Servizio WNM Online
+CompNews=Notizie
+
+[Email]
+EmailAmmoBody=Ti mostro le nuove munizioni stasera, quando vuoi. Se non mi trovi nel magazzino vuol dire che sono sui server. Il codice è 1945. Ci sentiamo.
+EmailAmmoDate=11 luglio 2007
+EmailAmmoFrom=Shoji
+EmailAmmoSubject=Munizioni LTL arrivate ;)
+EmailAmmoTo=Shigekazu
+
+EmailMedkitBody=Avviso a tutto il personale SDF. In caso di emergenza non esitate a contattare il vostro addetto al soccorso o a usare i nuovi kit medici vicino ai bagni al piano terra o al sotto-livello uno.
+EmailMedkitDate=11 luglio 2007
+EmailMedkitFrom=Amministrazione sanitaria SDF
+EmailMedkitSubject=Nuovi kit medici disponibili
+EmailMedkitTo=Kokubo_Tutti
+
+EmailProtocolBody=Promemoria. È stato attivato il nuovo protocollo di sicurezza. Se scatta un allarme i server verranno spostati sotto il pavimento e nessuno potrà accedervi. Per riportarli in posizione abbiamo dato a te e a Botan l'accesso allo scanner retinico.
+EmailProtocolDate=11 luglio 2007
+EmailProtocolFrom=Yukio
+EmailProtocolSubject=Sicurezza della stanza dei server
+EmailProtocolTo=Haru
+
+EmailWNMaBody=Lawson Woodrow Burns, quattro volte campione della World Golf Association, è morto ieri per un attacco di cuore. Aveva 99 anni.
+EmailWNMaDate=11 luglio 2007
+EmailWNMaFrom=Notizie della WNM
+EmailWNMaSubject=Golfista leggendario muore a 99 anni
+EmailWNMaTo=Iscritti
+
+EmailWNMbBody=Le ultime stime degli osservatori indipendenti indicano perdite nordcoreane fino a settemila unità dopo quattro giorni di combattimento.
+EmailWNMbDate=11 luglio 2007
+EmailWNMbFrom=Notizie della WNM
+EmailWNMbSubject=Cifre sconvolgenti dal conflitto coreano
+EmailWNMbTo=Iscritti

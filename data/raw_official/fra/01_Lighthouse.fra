@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=PHARE
+Briefing_LAMBERT=Fisher, un ingénieur américain du nom de Bruce Morgenholt a été enlevé par un groupe séparatiste péruvien, la "Voix du Peuple". Le chef soupçonné de ce groupe, Hugo Lacerda, est un révolutionnaire extrémiste prêchant la guerre de l'information comme seul moyen de réussir une révolution dans notre monde moderne. Allez là-bas et récupérez ou détruisez les renseignements que Morgenholt a pu être obligé de divulguer. Si possible, libérez-le, lui aussi. Et Lacerda figure sur la liste de vos cibles d'opportunité. Si jamais vous avez la possibilité de l'abattre, n'hésitez pas.
+Briefing_GRIMSDOTTIR=En temps normal, le sauvetage des otages n'est pas notre spécialité, mais Morgenholt fait partie du Projet Watson, le comité américain qui a étudié les travaux de Philip Masse suite à la crise géorgienne. Certaines personnes s'inquiètent que cet enlèvement ait pour seul but d'interroger Morgenholt au sujet des noyaux de Masse. C'est vrai que les inventions de Masse peuvent causer de terribles dégâts, alors, à nous de veiller à ce que ces informations ne soient pas divulguées.
+Briefing_REDDING=L'objectif est un phare relié à un fort abandonné datant de la colonisation espagnole, ainsi qu'à quelques autres bâtiments. Nous ignorons l'endroit exact où se trouve Morgenholt, alors, à toi de le trouver. L'insertion se fera de nuit, par zodiac. Tu arriveras sur la plage, au pied du fort. L'imagerie thermique indique la présence de grottes, naturelles ou non, sous le fort. Tu pourras t'en servir pour t'infiltrer dans le bâtiment.
+Briefing_PATRIDGE=Bien, Fisher. L'hélicoptère va vous larguer à quelques kilomètres de la côte, avec le zodiac. Votre extraction se fera par hélicoptère au sommet du phare.
+Briefing_SHETLAND=Wright-Pritchard Technologies a passé contrat avec Displace International afin de protéger ses VIP en cas de problèmes. Nous avons mené l'enquête sur leur projet au Pérou et récupéré tout ce que nous avions sur Morgenholt. Les types qui l'ont attaqué savaient ce qu'ils faisaient. Ils n'étaient pas là pour enlever un touriste. J'ai perdu trois hommes dans cette affaire, et j'ai préparé un plan de secours qui attend l'approbation de Wright-Pritchard et de la famille de Morgenholt. Ça va coûter cher à Displace International.
+Briefing=A FAIRE
+Briefing_PARTRIDGE=Bien, Fisher. L'hélicoptère va vous larguer à quelques kilomètres de la côte, avec le zodiac. Votre extraction se fera par hélicoptère au sommet du phare.
+
+
+[Interaction]
+IntExfiltrate=Demander l'extraction
+IntScanCrate=Scanner la caisse
+
+[Computer]
+CompEraseData=Effacer les données de Morgenholt
+CompObjective=Objectif
+CompNews=Actualités
+CompEmail=E-mail
+
+[Email]
+EmailISSBody=Tout contact a été perdu avec la station spatiale internationale. Les techniciens redoutent qu'elle ait été frappée par une micrométéorite.
+EmailISSDate=23/06/2007
+EmailISSFrom=WNM Actualités
+EmailISSSubject=Contact perdu avec l'ISS
+EmailISSTo=Abonné
+
+EmailMorgenholtBody=Le gouvernement péruvien a fait part de ses soupçons selon lesquels Bruce Morgenholt, le ressortissant américain, aurait été enlevé par une organisation connue sous le nom de "Voix du Peuple". Ce groupe n'a pour l'heure fait aucune déclaration officielle.
+EmailMorgenholtDate=23/06/2007
+EmailMorgenholtFrom=WNM Actualités
+EmailMorgenholtSubject=La "Voix du Peuple" soupçonnée dans l'enlèvement de Morgenholt.
+EmailMorgenholtTo=Abonné
+
+EmailJimboBody=Salut, Jimbo ! Bon, finalement, j'ai accepté l'offre de Piedro et je suis allé camper avec lui et ses potes. Et tu sais quoi ? C'est des genres de révolutionnaires. Inoffensifs, je te rassure. Bref, j'ai inspecté les cavernes du coin, et j'ai vu des champignons microscopiques luminescents. A moins que l'effet ne soit dû à une bactérie qu'ils contiennent. Je ne sais pas au juste, mais je vais essayer de t'en ramener un échantillon. 
+EmailJimboDate=23/06/2007
+EmailJimboFrom=Alphonse
+EmailJimboSubject=Champignons
+EmailJimboTo=Jim

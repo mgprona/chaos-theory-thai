@@ -1,0 +1,21 @@
+[GENERAL]
+MapName=SEOUL
+Briefing_LAMBERT=Das hier müsste ein Spaziergang werden. Jong Pom-chu ist ein südkoreanischer Chemiker, der unter Verdacht steht, für den nordkoreanischen Geheimdienst zu arbeiten. Die CIA hat ihn kürzlich als eine Person mit der Fähigkeit zur Herstellung chemischer und biologischer Waffen eingestuft. Wenn das, was ihr in Panama herausgefunden habt, der Wahrheit entspricht, und Jong Senor de Medeiros bestochen hat, um illegale Fracht durch die Kanalzone zu schmuggeln, sind die Chancen groß, dass er auch die entsprechenden Werkzeuge und Chemikalien besitzt. Ihr müsst Jong aus Seoul entführen, bevor es Nordkorea gelingt, ihn außer Landes zu schmuggeln.
+Briefing=AUFGABE
+
+[Computer]
+
+[Email]
+
+EmailescapeBody=Im Notfall muss Jong wahrscheinlich wieder an einen anderen Ort gebracht werden, damit er nicht den Amerikanern oder Südkoreanern in die Hände fällt. Wenn was schief geht: Am Fischmarkt liegt ein Schiff vor Anker. Sag Jong, dass er damit flüchten kann.
+Emailescapedate=07. Juli 2007
+Emailescapefrom=Sun
+Emailescapesubject=Fluchtmöglichkeiten
+Emailescapeto=Pok
+
+
+EmailbackdoorBody=Der Türcode für den Hintereingang des Hotels lautet 7649. Die Tür muss jederzeit gesichert sein.
+Emailbackdoordate=08. Juli 2007
+Emailbackdoorfrom=Ping
+EmailbackdoorSubject=Code für Hoteltür
+Emailbackdoorto=Cho

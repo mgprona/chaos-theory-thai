@@ -1,0 +1,34 @@
+[GENERAL]
+MapName=PANAMA
+Briefing_LAMBERT=Benvenuti in serie A. So che siete entrambi ancora in addestramento, ma è successo qualcosa di grave e non abbiamo altro personale disponibile. Recentemente abbiamo saputo, tramite la MCAS Bank di Panama, che il vice presidente Señor Segundo Ruiz de Medeiros ha accettato bustarelle per permettere a certe navi di oltrepassare punti di ispezione nella zona del Canale. Dobbiamo trovare qualunque tipo di registrazione che il Señor de Medeiros ha conservato.
+Briefing=INCARICO
+
+
+[Computer]
+CompAccessingTheArchives=Accesso agli archivi
+CompAccessingTheServer=Accesso al server
+
+[Email]
+EmailSecSystemeBody=Non so chi sia l'idiota responsabile, ma l'interruttore per bloccare la griglia laser in caso di emergenza si trova ALL'INTERNO della griglia... a meno di avere un qualche raggio a microonde per agire sull'interruttore, sono bloccato qui fino al turno della mattina... e come faccio ad andare al cesso?
+EmailSecSystemeDate=28 giugno 2007
+EmailSecSystemeFrom=Neron
+EmailSecSystemeSubject=Sicurezza della sala mostra
+EmailSecSystemeTo=Jose
+
+EmailTempABody=H... Scusa, ho capito male. Il codice della porta per l'area esposizioni è 2341.
+EmailTempADate=28 giugno 2007
+EmailTempAFrom=Juan
+EmailTempASubject=RE: Codice: stanza server
+EmailTempATo=Hermes
+
+EmailTempBBody=Ehi... ho il codice per la sala che porta alla stanza del biliardo... e dalla stanza del biliardo possiamo entrare nel salone col megaschermo... vuoi guardare la partita stasera? Il codice è 1523.
+EmailTempBDate=28 giugno 2007
+EmailTempBFrom=Franco
+EmailTempBSubject=Partita di stasera
+EmailTempBTo=Julio
+
+EmailTempCBody=Juan... LO SO che il codice per USCIRE dalla stanza dei server verso la sala esposizioni è 1534... mi serve il codice per ENTRARE nella sala esposizioni...
+EmailTempCDate=28 giugno 2007
+EmailTempCFrom=Hermes
+EmailTempCSubject=Codice per stanza server
+EmailTempCTo=Juan

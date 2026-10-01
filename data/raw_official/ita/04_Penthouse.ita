@@ -1,0 +1,39 @@
+[GENERAL]
+MapName=ATTICO
+Briefing_LAMBERT=Bruce Morgenholt e Abrahim Zherkezhi lavoravano insieme nel Progetto Watson, il comitato delle Nazioni Unite che ha risolto i kernel di Masse. Sono loro che hanno scoperto la crittografia a 512 bit, la stessa usata nei messaggi che hai scoperto nella MCAS Bank. Se questo tale "Dvorak" è riuscito in qualche modo a mettere le mani sugli algoritmi di guerra informatica di Masse, siamo in un mare di guai.
+Briefing_GRIMSDOTTIR=Sto cercando di entrare nella rete privata di Zherkezhi sin da quando è risultato coinvolto in questa storia. So cosa significa una rete sicura, e mi aspettavo che Zherkezhi avesse il meglio, ma questo è incredibile. Il server di Zherkezhi non è solo impenetrabile o invisibile... è come... è come cercare un'ombra in una stanza completamente buia... mi sta facendo impazzire. 
+Briefing_REDDING=Le cose stanno peggiorando a New York. Sono passate 24 ore dal blackout e nessuno sa quando potrebbe finire. La tensione sta salendo in tutta Manhattan, ma non ha ancora iniziato a esplodere sul serio. Ai piani alti dicono che entro un'ora interverrà la Guardia Nazionale. Dovremo inserirti in un vicolo dietro a un edificio vicino all'obiettivo. Attento ai civili. 
+Briefing=INCARICO
+
+[Interaction]
+IntRetrieveOutputs=Recupera i risultati
+IntStartMainServer=Avvia server
+IntExtraction=Estrazione
+
+[Computer]
+CompPenthouseArchitecturalPlans=Piani architettonici dell'attico
+
+[Email]
+EmailTransactionBody=Señor Dvorak, come da vostre istruzioni in data 24 giugno 2007, abbiamo effettuato il trasferimento e i pagamenti. Tutte le transazioni sono state cancellate e i documenti stracciati e bruciati come permesso dal nostro statuto.
+EmailTransactionDate=29 giugno 2007
+EmailTransactionFrom=MCAS Banco de Panama
+EmailTransactionSubject=Transazione completata
+EmailTransactionTo=Dvorak 
+
+EmailNewsBody=A causa del recente black out, i server di Notizie della WNM sono temporaneamente spenti. Il problema dovrebbe risolversi presto, e ci scusiamo per l'interruzione nel servizio News Wire.
+EmailNewsDate=29 giugno 2007
+EmailNewsFrom=Notizie della WNM
+EmailNewsSubject=Messaggio automatico
+EmailNewsTo=Iscritti 
+
+EmailDisplaceBody=Capisco. Non è mai facile chiedere a soldati professionisti di svolgere normali incarichi di sorveglianza. Cercherò di aumentare il ritmo delle sostituzioni per evitare che nessuno rimanga bloccato lì troppo a lungo. Per iniziare metterò in rotazione Gerald nei prossimi giorni.
+EmailDisplaceDate=30 giugno 2007
+EmailDisplaceFrom=Pianificazione Displace
+EmailDisplaceSubject=Morale in discesa
+EmailDisplaceTo=George
+
+EmailDvorakBody=Riscontrato tentativo di collegamento fallito. 29 luglio 2007. Dipendente a contratto. Nessuna intrusione. Attivare flusso protocollo 14. Codice di accesso comunicato. Cambiare. 0280.
+EmailDvorakDate=30 giugno 2007
+EmailDvorakFrom=Dvorak 
+EmailDvorakSubject=Flusso protocollo 14 attivato
+EmailDvorakTo=Zherkezhi 

@@ -1,0 +1,56 @@
+[GENERAL]
+MapName=KOKUBO SOSHO
+Briefing=A FAIRE
+Briefing_LAMBERT=Le Département d'État a perdu le contact avec tous ses hommes travaillant avec l'I-SDF au Kokubo Sosho. On dirait que les Japonais les ont faits prisonniers. Ils refusent de répondre et font le cercle, comme toujours en cas de problème. Soit ils ont peur d'admettre qu'ils ne contrôlent plus Otomo, soit ils le protègent. Si tel est le cas, il va nous falloir nous expliquer avec la Corée du nord, ce qui déclenchera une guerre d'envergure en Asie. Et sinon, il faut savoir ce que nos homme ont découverts, et décider que faire d'Otomo avant que la Corée du Nord ne comprenne ce qu'il se passe vraiment.
+Briefing_GRIMSDOTTIR=Même s'il n'est pas soutenu, Otomo a encore la possibilité de frapper. Il a toujours le contrôle du service de renseignement de l'I-SDF, aussi va-t-il falloir faire très attention, Fisher. Impossible de savoir le genre de catastrophe qu'il peut encore déclencher.
+Briefing_REDDING=Le dernier contact que nous avons eu avec les agents américains du Kokubo Sosho est une conversation téléphonique écourtée avec le major Harper, conseiller en logistique auprès du G-SDF. L'endroit où il se trouvait a manifestement fait l'objet d'un raid des troupes Japonaises. Apparament personne n'est mort dans l'assaut, et il serait bon que tout le monde reste en vie pour établir de bonnes relations avec le Japon.
+
+[Interaction]
+IntSwitchObject=Allumer/Éteindre
+
+[Computer]
+CompUnlockWarRoomDoors=Déverrouiller la porte de la salle de guerre
+CompISDFBathhouseReport=Rapport de l'I-SDF sur le sauna
+CompGSDFLiveFeed=Pirater l'ordinateur portable du G-SDF
+CompDownloadISDFdata=Télécharger données I-SDF
+CompPressRoom=Salle de presse
+CompMainDesk=Réception
+CompBasement=Sous-sol
+CompTunnel=Tunnel
+CompServerRoom=Salle du serveur
+CompAccess=Accéder
+CompObjective=Objectif
+CompCamera=Caméra
+CompWNMOnlineService=WNM Actualités
+CompNews=Actualités
+
+[Email]
+EmailAmmoBody=Si tu as le temps ce soir, je te montrerai nos nouvelles munitions. Si je ne suis pas à la réserve, tu me trouveras dans la salle des serveurs. Le code de la porte est le 1945. A plus tard.
+EmailAmmoDate=11/07/2007
+EmailAmmoFrom=Shoji
+EmailAmmoSubject=Les nouvelles munitions sont arrivées  ;)
+EmailAmmoTo=Shigekazu
+
+EmailMedkitBody=Note à tout le personnel du SDF. En cas d'urgence, n'hésitez pas à contacter un infirmier ou à utiliser les nouvelles trousses de premiers soins disposées à côté des toilettes du rez-de-chaussée et du premier niveau inférieur.
+EmailMedkitDate=11/07/2007
+EmailMedkitFrom=Centre médical du SDF
+EmailMedkitSubject=Trousses de premiers soins
+EmailMedkitTo=Kokubo_Tous
+
+EmailProtocolBody=Rappel : le nouveau protocole de sécurité a été installé. En cas d'alerte, les serveurs disparaîtront dans le sol, afin que personne ne puisse y accéder. Pour que vous puissiez les en faire ressortir, les scanneurs rétiniens ont votre pupille en mémoire, à Botan et à vous.
+EmailProtocolDate=11/07/2007
+EmailProtocolFrom=Yukio
+EmailProtocolSubject=Sécurité de la salle des serveurs
+EmailProtocolTo=Haru
+
+EmailWNMaBody=Lawson Woodrow Burns, quatre fois champion du monde de golf, est mort hier d'une crise cardiaque. Il avait 99 ans.
+EmailWNMaDate=11/07/2007
+EmailWNMaFrom=WNM Actualités
+EmailWNMaSubject=Une légende du golf s'éteint à 99 ans
+EmailWNMaTo=Abonné
+
+EmailWNMbBody=Les estimations indépendantes donnent un total possible de sept cent mille pertes coréennes en quatre jours de combat.
+EmailWNMbDate=11/07/2007
+EmailWNMbFrom=WNM Actualités
+EmailWNMbSubject=Un nombre de morts hallucinant en Corée du Nord
+EmailWNMbTo=Abonné

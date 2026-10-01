@@ -1,0 +1,48 @@
+[GENERAL]
+MapName=CARGO
+Briefing_LAMBERT=Les renseignements que vous avez récupérés au Pérou laissent présager qu'Hugo Lacerda aurait été engagé par un tiers afin d'enlever et d'interroger Morgenholt. Il a été payé en armes, qu'il a utilisées pour équiper ses hommes et rembourser ses dettes à d'autres groupes de guérilla, Lacerda est un perdant... Mais peut-être qu'il a appris des choses de Morgenholt que personne ne doit savoir. Le Maria Narcissa est sorti au large, il n'y a donc plus aucune issue. Montez à bord, fouillez-la, trouvez avec qui il fait affaire et assurez-vous qu'il n'a aucune opportunité de dire ce qu'il sait. Cinquième Liberté.
+Briefing_GRIMSDOTTIR=Morgenholt connaissait les noyaux de Masse, algorithmes de calcul pour systèmes d'armes aussi importants que la contribution d'Oppenheimer sur l'atome, ou celle de Turing sur les ordinateurs numériques. Le Projet Watson, dans le cadre duquel les Etats-Unis effectuent des recherches sur les noyaux de Masse, entrera dans l'histoire au même titre que le Projet Manhattan, c'est-à-dire en tant que révolution fondamentale dans la nature de la guerre. Imagine ce qui se serait passé si Che Guevara avait capturé et interrogé Oppenheimer en 1959 et tu auras une bonne idée de la situation dans laquelle nous nous trouvons.
+Briefing_REDDING=L'hélicoptère va te larguer à une quarantaine de kilomètres devant le Maria Narcissa. Monte à son bord sans te faire repérer, puis fouille-le de fond en comble. Apprends-en autant que possible sur les livraisons d'armes et les alliés de Lacerda. L'imagerie satellite montre une chaloupe amarrée au Maria Narcissa. Ce sera ton point d'extraction primaire. Si ça tourne mal, on pourrait peut-être s'arranger pour te récupérer directement dans l'eau.
+Briefing_PATRIDGE=L'USS Walsh restera à tout moment à portée d'hélicoptère du Marcia Narcissa. En cas d'ennui, il devrait pouvoir participer à l'extraction. Si tout va bien, nous vous récupérerons dans la chaloupe dès que vous serez hors de vue du bateau.
+Briefing=A FAIRE
+
+
+[Interaction]
+IntActivatePumps=Activer les pompes
+IntReadbilloflading=Lire le bordereau
+IntExtraction=Extraction
+
+[Computer]
+CompTransitLedger=Documents de transit
+CompRoomassignment=Allocation des cabines
+
+[Email]
+EmailFloodedBody=Il y a un problème au niveau du fond de cale, mais je crois avoir trouvé la solution. Si jamais un des compartiments est de nouveau inondé, essaye d'activer la pompe auxiliaire du château avant.
+EmailFloodedDate=28/06/2007
+EmailFloodedFrom=Gerardo
+EmailFloodedSubject=Inondation
+EmailFloodedTo=Ignacio
+
+EmailLacerdaBody=J'arriverai à bord de votre bateau dans la nuit. Faites en sorte que vos voyous puants me laissent tranquille. Je ne veux pas être dérangé.
+EmailLacerdaDate=28/06/2007
+EmailLacerdaFrom=Hugo Lacerda 
+EmailLacerdaSubject=Arrivée
+EmailLacerdaTo=Commandant Diego
+
+EmailInfoBody=La dépouille de Bruce Morgenholt, le ressortissant américain, a été retrouvée au Pérou aujourd'hui. La cause du décès n'a pas encore été annoncée, mais le Département d'Etat américain a exigé des excuses de la part de l'armée péruvienne, pour le rôle qu'elle aurait pu jouer dans une opération de secours qui aurait mal tourné.
+EmailInfoDate=28/06/2007
+EmailInfoFrom=WNM Actualités
+EmailInfoSubject=Morgenholt retrouvé mort au Pérou.
+EmailInfoTo=Abonné
+
+EmailInfo2Body=L'I-SDF accuse la Corée du Nord d'être responsable du krach. L'I-SDF japonais a rendu publiques les conclusions de son enquête concernant les événements liés au "Jour de l'or noir". Selon ce document, la Corée du Nord et la Chine auraient manipulé les marchés financiers mondiaux afin de provoquer l'effondrement économique du Japon.
+EmailInfo2Date=28/06/2007
+EmailInfo2From=WNM Actualités
+EmailInfo2Subject=L'I-SDF accuse la Corée du Nord d'être responsable du krach
+EmailInfo2To=Abonné
+
+EmailEngineRoomBody=Je m'inquiète au sujet des joints des canalisations de gaz. Nous avons déjà eu plusieurs fuites et, en cas de problème, la moindre étincelle pourrait faire sauter ce rafiot pourri.
+EmailEngineRoomDate=28/06/2007
+EmailEngineRoomFrom=Pedro 
+EmailEngineRoomSubject=Salle des machines
+EmailEngineRoomTo=Cornelio

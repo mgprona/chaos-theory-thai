@@ -1,0 +1,721 @@
+[P_00_Training_Broadcast]
+Speech_0001L=Die peruanische Regierung hat die US-Behörden kürzlich davon in Kenntnis gesetzt, dass der amerikanische Computerspezialist Bruce Morgenholt von Rebellen gekidnappt wurde. Obwohl man noch keinen Kontakt zu den Entführern herstellen konnte, geht man schon jetzt davon aus, dass sie beträchtliche Lösegeldforderungen stellen werden.
+Speech_0002L=In Asien spitzt sich die politische Lage weiterhin zu. Wieder einmal kam es zu einen Zwischenfall, bei dem japanische Schiffe durch eine von Nordkorea verhängte Seeblockade aufgehalten wurden. Nach den jüngsten Vorfällen hat die japanische Regierung die USA um Hilfe gebeten. Ihr Ziel ist es, Nordkorea davon abzuhalten, in japanische Gewässer einzudringen.
+Speech_0003L=Neuigkeiten vom Baseball ... New York meldete heute, dass der vielversprechende japanische Pitcher Akira Watanabe unter Vertrag genommen wurde. Watanabe, der bereits seine vierte Saison in der japanischen Oberliga bestritten hat, konnte internationale Aufmerksamkeit erringen, nachdem er im letzten Jahr in drei Spielen den Battern nicht eine einzige Chance ließ.
+Speech_0004L=Offizielle Stellen in Peru haben verlauten lassen, dass der Leichnam des amerikanischen Computerspezialisten Bruce Morgenholt gefunden wurde. Zur Zeit ist noch nichts Näheres über seine Todesursache bekannt. Das amerikanische Außenministerium hat in der Zwischenzeit die peruanische Armee aufgefordert sich offiziell zu entschuldigen. In Regierungskreisen vermutet man, dass Morgenholt infolge eines schlecht koordinierten Befreiungsversuchs starb.
+Speech_0005L=In Japan hat Admiral Toshiro Otomo Geheimdienstinformationen öffentlich gemacht, die in Zusammenhang mit dem historischen Börsencrash stehen. Den Informationen zufolge versuchten die Regierungen von Nordkorea und China durch Manipulationen an den Weltmärkten und gezielte Desinformationskampagnen den Zusammenbruch der japanischen Wirtschaft herbeizuführen.
+Speech_0006L=US-Behörden und südamerikanische Regierungskreise haben den peruanischen Rebell Hugo Lacerda, Anführer einer revolutionären Bewegung namens 'Die Stimme des Volkes', als den Mann identifiziert, der für die Entführung und den Tod des Amerikaners Bruce Morgenholt verantwortlich war. Da der genaue Aufenthaltsort von Lacerda noch unbekannt ist, arbeiten die peruanische Armeeführung und die Vereinigten Staaten bei der Suche nach ihm eng zusammen.
+Speech_0007L=Der chinesische Botschafter in den Vereinigten Staaten, Long Dan, wurde heute für eine Krisensitzung mit Regierungsvertretern bezüglich der andauernden Spannungen zwischen Korea und Japan nach China zurückberufen. Man erwartet, dass Long Dan sich erneut bemühen wird, Delegierte aus Korea, den U.S.A. und Japan an den Verhandlungstisch zurückzubringen.
+Speech_0008L=Zum Sport ... Pitcher Akira Watanabe erschien gestern zum ersten Training mit seinem neuen Team in New York. Nach den ersten Trainingseinheiten sagte Trainer Mathieu Ferland, Watanabe sei vermutlich der beste Werfer aller Zeiten.
+Speech_0009L=Douglas Shetland, Präsident und Vorsitzender von Displace International hat bekannt gegeben, dass er den Hinterbliebenen von Bruce Morgenholt einen Betrag in Höhe von dessen Lebensversicherung zukommen lassen will. Morgenholt, der letzte Woche in Peru ums Leben kam, stand dort unter dem Schutz von Leibwächtern der Firma Displace International. Shetland erklärte, dass die Zahlung "in bester Absicht" erfolge, und dass es den Hinterbliebenen natürlich weiterhin frei stehe, von ihren rechtlichen Mitteln gegenüber Displace International Gebrauch zu machen.
+
+[P_00_Training_CnvCook_Sebastien]
+Speech_0001L=Hallo.
+Speech_0002L=Also hör'n Sie mal! Das ist meine Küche... hier bin ich der Captain. Niesen Sie mir nicht ins Essen und fassen Sie ja nichts an. Ich will schließlich nicht, dass hier jeder eine Lebensmittelvergiftung bekommt, bloß weil irgendein dahergelaufener Matrose sich nicht die Hände gewaschen hat.
+Speech_0003L=Äh, ich hab mir nicht die Hände gewaschen.
+Speech_0004L=Wenn ich Sie so ansehe überrascht mich das nicht. Was wollen Sie?
+Speech_0005L=Wollt' nur mal Hallo sagen.
+Speech_0006L=Hallo, wie geht es Ihnen?
+Speech_0007L=Wie heißen Sie?
+Speech_0008L=Sebastien. Gal-ar-neau... das ist Französisch. Cajun. Ich komme aus New Orleans. Aber alle nennen mich 'Chef'.
+Speech_0009L=Chef?
+Speech_0010L=Ja, das ist richtig. ... ich bin Küchenchef. Ich bin Saucier. Ich wurde als Saucier ausgebildet. Sollte 'nen berühmter Saucier werden. Ich sollte gerade nach Paris, dort gibt's 'ne berühmte Saucier-Schule. Aber dann hab ich mich zur Navy gemeldet.
+Speech_0011L=Warum?
+Speech_0012L=Der 11.9. Die Jungs haben sich alle freiwillig gemeldet. Da dachte ich mir, dass sie wenigstens ein gutes Essen im Magen haben sollten, wenn sie kämpfen.
+Speech_0013L=He ... hören Sie ... nun, als Chef de Cuisine... hört man so einiges ... Wenn Sie wissen, was ich meine.
+Speech_0014L=Ich weiß genau, was Sie meinen.
+Speech_0015L=Gut ... Hab gehört, dass vielleicht jemand nach Südamerika in den Dschungel geschickt wird. Na ja ... ich habe ein paar Mangos bestellt. Und was machen diese Vollidioten von der Navy? Sie schicken mir eine Kiste voller vertrockneter Kiwis! Diese Idioten haben einfach keine Ahnung!
+Speech_0016L=Sie wollen Mangos?
+Speech_0017L=Na ja ... Hehehe ... Wo Sie schon so nett fragen ... Sollten Sie eine finden ... würde ich das zu schätzen wissen.
+Speech_0018L=Mal sehen, was sich machen lässt.
+Speech_0019L=Das wäre magnifique. Äh, aber hüten Sie sich vor den Tigern.
+Speech_0020L=Sie bringen mir Mangos und ich schulde Ihnen was.
+Speech_0021L=Fragen Sie mich bloß nicht nach dem Roastbeef. Alles grau.
+Speech_0022L=Sie müssen der Koch sein.
+Speech_0023L=Nennen Sie mich Chef, wenn Sie mögen. Mein Name ist Sebastien Gal-ar-neau.
+Speech_0024L=FISHER - Nice to meet you Chef.
+Speech_0025L=Ist mir ein Vergnügen.
+Speech_0028L=Was gibt es denn heute?
+Speech_0029L=Nun ... wissen Sie ... ich dachte mir ... um diese Jahreszeit fahren doch einige Schiffe durch diese Gewässer. Nach Malaysia, Südamerika, in die exotischsten Häfen ... Und oft haben diese Schiffe die exotischsten Lebensmittel an Bord.
+Speech_0030L=Wirklich?
+Speech_0031L=Mögen Sie Meeresfrüchte, Sir?
+Speech_0032L=Ja, das tue ich.
+Speech_0033L=Ja, das tun Sie. Ja ... das... TUN ... SIE! Ich wusste es und ich will Ihnen eins sagen ... ich habe Meeresfrüchte ... alles kein Problem ... Aber um diese Meeresfrüchte zuzubereiten ... exotisch zuzubereiten ... brauche ich eine Kokosnuss.
+Speech_0036L=Eine Kokosnuss?
+Speech_0037L=Genau. "Chef" wäre außerordentlich dankbar, wenn er eine Kokosnuss bekäme.
+Speech_0038L=Ich halte die Augen offen.
+Speech_0034L=Mmm ... Mmm ... Ko-kos-NUSS.
+Speech_0035L=Ich frage mich, was ich am Vierten Juli kochen soll.
+Speech_0039L=Sie müssen der Koch sein.
+Speech_0040L=Nennen Sie mich ruhig Chef. Mein Name ist Sebastien Gal-ar-neau.
+Speech_0041L=Ist mir ein Vergnügen, Sie kennen zu lernen.
+Speech_0042L=Danke, gleichfalls.
+Speech_0043L=Was steht auf der Speisekarte?
+Speech_0044L=Das heutige Menü ist kein Problem ... Aber das Barbecue des Captains zur Feier des Vierten Juli muss langsam aber sicher mal vorbereitet werden.
+Speech_0045L=Was soll es denn da geben?
+Speech_0046L=Burger und Pommes natürlich ... Aber wo ich doch ein Cajun bin ... dachte ich noch an etwas anderes ... An etwas Raffiniertes von Zuhause.
+Speech_0047L=Etwas aus dem Süden?
+Speech_0048L=Nein ... Nein... Ich meine wirklich ALTE Rezepte.
+Speech_0049L=Ja und?
+Speech_0050L=Nun ... wissen Sie ... Die Cajuns stammen ursprünglich aus den am Meer gelegenen Provinzen Kanadas ... Es waren ursprünglich französische Siedler... Deshalb sind wir ja alle so versessen auf das Essen.
+Speech_0051L=Das wusste ich gar nicht.
+Speech_0054L=Ich habe da ein ganz besonderes Gericht im Sinn ... Eine alte Spezialität, die mein Großvater immer zubereitet hat. Das Problem ist nur, dass mir eine ganz bestimmte Zutat fehlt.
+Speech_0055L=Warum überrascht mich das jetzt nicht?
+Speech_0056L=Hehe. Wissen Sie, was ich brauche? Ich brauche Poutine-Käse ... aber den bekommt man hier nicht so einfach.
+Speech_0057L=Putin-Käse? Klingt ja irgendwie ekelig.
+Speech_0058L=Hihi ... Sie werden nie rausfinden, wie er schmeckt, wenn Sie keinen auftreiben können.
+Speech_0059L=Nun, mal sehen, was sich machen lässt.
+Speech_0060L=Gut, ich kümmere mich jetzt wieder um meine Kartoffeln.
+Speech_0052L=Ahh ... die werden dieses Essen lieben.
+Speech_0053L=Bodenständiges Essen aus der Heimat, für Seemänner, die unter Heimweh leiden.
+
+[P_00_Training_CnvOff_Falko]
+Speech_0001L=Lieutenant.
+Speech_0002L=Äh ... Der Aufenthalt auf der Brücke ist nur mit besonderer Genehmigung gestattet - Sir.
+Speech_0003L=Ich weiß. Ich würde Ihnen meine Genehmigung ja gerne zeigen, aber Sie sind leider nicht autorisiert sie zu sehen.
+Speech_0004L=Oh ... äh... ich...
+Speech_0005L=Ich bin ja gar nicht hier. Das ist also kein Problem.
+Speech_0006L=Gut. Ich habe Sie gar nicht gesehen.
+Speech_0007L=Wo finde ich Captain Partridge?
+Speech_0008L=Er ist in seinem Bereitschaftsraum. Direkt vor der Tür.
+Speech_0009L=Danke.
+Speech_0010L=Entschuldigen Sie mich. Achtung, Ruder auf 0-5 und halten.
+Speech_0011L=Schön Sie ... äh... nicht an Bord zu haben, Sir.
+Speech_0012L=FISHER - Lieutenant.
+Speech_0013L=FALKO - Sir.
+Speech_0014L=Wie lautet Ihr Vorname, Lieutenant, äh, Poiker?
+Speech_0015L=Falko.
+Speech_0016L=Ein deutscher Vorname, nicht wahr?
+Speech_0017L=Gut möglich, aber ich stamme aus Boone, Iowa.
+Speech_0020L=Oh ... ein guter Freund von mir stammt aus Boone.
+Speech_0021L=Vielleicht kenne ich ihn ... der Ort hat ja nur etwa 15000 Einwohner.
+Speech_0022L=Sein Name ist Douglas Shetland. War früher Fernspäher bei den Marines.
+Speech_0023L=Doug Shetland ... Hmm ... Ihn kenne ich nicht. Aber ich kenn seine Schwester. Ihr Kind geht in die selbe Schule wie meine Kinder.
+Speech_0024L=Heißt die Schwester ... äh ... Audrey?
+Speech_0025L=Ja, genau. Dieser Doug ... Ist, als ich noch klein war, weggezogen, um aufs College zu gehen ... Man erzählt sich alle möglichen Geschichten ... Ist das nicht der Kerl, der Footballstar, Kriegsheld und nachher sogar Millionär geworden ist?
+Speech_0026L=Ha ... ja, die Story kenn ich auch. Es gibt aber auch noch Leute, die sagen, er sei der am unwilligsten alternde Teufelskerl, den sie je gesehen haben.
+Speech_0027L=Haha ... Wenn Sie Ihn das nächste Mal sehen, grüßen Sie ihn von seinen Freunden aus Boone.
+Speech_0018L=Boone ist eine schöne Stadt.
+Speech_0019L=Ich wage gar nicht zu fragen, woher Sie und Doug Shetland sich kennen.
+Speech_0028L=FISHER - Lieutenant.
+Speech_0029L=FALKO - Sir.
+Speech_0030L=Mir ist aufgefallen, dass wir an Fahrt verloren haben.
+Speech_0031L=Ja, Sir. Wir haben soeben die Information bekommen, dass wir den Hubschrauber vielleicht wieder nach Panama zurückschicken müssen ... Wissen Sie denn nichts davon?
+Speech_0032L=Nein.
+Speech_0033L=Wir warten noch auf eine Bestätigung der Flugkontrolle. Es ist noch nicht sicher, ob wir hier nachtanken müssen oder nicht.
+Speech_0034L=Falls es bei ihren Treibstoffberechnungen helfen sollte, die Ladung wird aus zwei Personen und entsprechender Ausrüstung bestehen.
+Speech_0035L=Damit hatte ich auch kalkuliert, Sir.
+Speech_0042L=Das Auftanken in Panama ist sehr teuer.
+Speech_0043L=Ich sag Ihnen Bescheid, wenn sich die Flugkontrolle meldet.
+
+[P_00_Training_CnvOff_Hantz]
+Speech_0011L=Stan? Stan Fletcher? Julian. Erinnerst du dich an mich? Ich war Verbindungsoffizier in der türkischen Botsch...
+Speech_0012L=Ja ... Julian. Hör zu ... äh ... behalt das bitte für dich, in Ordnung?
+Speech_0013L=Ja ... oh ... Moment mal... warum hast du diese Sachen an ... du bist kein Übersetzer!
+Speech_0014L=Ich bin AUCH Übersetzer.
+Speech_0015L=Oh, Mann. Du ... du bist ... so eine Art ...
+Speech_0016L=Hör mal, Julian. Äh ... du hast mich nicht gesehen.
+Speech_0017L=Oh, gut. Ich ... Ja, du hast Recht. Ich war wohl die ganze Zeit über in meiner Kabine.
+Speech_0018L=Gut.
+Speech_0019L=Ich mache nur meinen Job und kümmere mich nur um meine Angelegenheiten.
+Speech_0020L=Bereich Sieben, alles in Ordnung.
+Speech_0002L=Läuft alles glatt, Lieutenant?
+Speech_0003L=Ja, Sir. Alles wunderbar ruhig.
+Speech_0004L=Ah, "wunderbar ruhig" habe ich es am liebsten.
+Speech_0005L=Wie Recht Sie da haben.
+Speech_0009L=Alles wunderbar ruhig. Genau wie wir es mögen.
+Speech_0010L=Steuermann, auf Kurs bleiben.
+Speech_0021L=Was treiben Sie heute so, Lieutenant?
+Speech_0022L=Bin schwer beschäftigt, Sir. Ich versuche genaue Wetterdaten für den Flug zu bekommen, aber der Sturm letzte Nacht hat für einiges Chaos gesorgt. Die Daten am Barometer zeigen ein heilloses Durcheinander an.
+Speech_0023L=Hmm ... Ich würde gerne mal wieder segeln.
+Speech_0024L=Warum, Sir? Das Wetter kann hier draußen einiges an Schwierigkeiten verursachen.
+Speech_0027L=In komplexen Systemen gibt es immer irgendwelche Schwierigkeiten ... Wenigstens handelt das Wetter nicht im Verborgenen.
+Speech_0028L=Manchmal bin ich mir da nicht so sicher.
+Speech_0029L=Haha. Wenn ich das nächste Mal in Japan einen Schmetterling sehe, erledige ich ihn für Sie.
+Speech_0030L=Das könnte vielleicht ganz hilfreich sein, Sir.
+Speech_0025L=Kritische Abhängigkeiten bei den Anfangsparametern. Oh, Mann.
+Speech_0026L=Wenn doch nur dieser Sturm nicht gewesen wäre. Dann wär jetzt alles anders.
+
+[P_00_Training_CnvPartridge]
+Speech_0001L=Du wolltest mich sehen?
+Speech_0002L=Oh ... Bei dir klingt das ja wie ein Befehl.
+Speech_0003L=Nein, so war das nicht gemeint. Es ist schön, mal wieder mit dir fahren zu können.
+Speech_0004L=Das ist es, mein Junge. Wie geht es dir, Fisher?
+Speech_0005L=Hmm ... Kann nicht behaupten, dass mein Leben langweilig wäre. Aber das ist ja meine eigene Schuld.
+Speech_0006L=Haha ... Ja ... Ich verstehe, mein Junge. Wie geht es Sarah? Sie ... sie muss doch bestimmt schon zwanzig Jahre alt sein, oder?
+Speech_0007L=Ja ... äh ... Sie ist vierundzwanzig? Oder etwa fünfundzwanzig?
+Speech_0008L=Hmm ... Da will wohl jemand lieber nicht über dieses Thema reden, was?
+Speech_0009L=Die letzten Jahre waren nicht wirklich schön für mich. Es gab viel zu tun.
+Speech_0010L=Mal wieder die Welt gerettet?
+Speech_0011L=Wenn du es so nennen willst.
+Speech_0012L=Enkel?
+Speech_0013L=Hmm ... Tja ... Keine Ahnung.
+Speech_0014L=Hmm. Warum schert es dich dann überhaupt, ob die Welt gerettet wird oder nicht, Sam?
+Speech_0015L=Das frage ich mich manchmal auch ... nun ... äh ... Vielleicht hast du Recht. Ich möchte lieber nicht darüber sprechen.
+Speech_0016L=Gut. Wenn du später doch reden willst - ich bin hier.
+Speech_0017L=O.K.
+Speech_0018L=Kannst du mir was über die Mission erzählen?
+Speech_0019L=Natürlich, du hast schließlich die entsprechende Sicherheitsfreigabe. Wir haben die Aufgabe, nordkoreanische und chinesische Netzwerke zu überwachen. Das Pentagon nimmt die Geschichte mit den Blockaden sehr ernst.
+Speech_0020L=Was ist mit aktiven 'Information Warfare'-Systemen? Daten-Störtechnologie und all den Sachen? Habe gehört, dass die Walsh die Technologie von Phillip Masse einsetzen kann.
+Speech_0021L=Die Masse-Kernels haben es uns ermöglicht, die Steuerung von in der Luft befindlichen Waffensystemen zu übernehmen und diese umzulenken. Wir wurden gebeten, unsere Aktivitäten in diesem Gebiet hier auszuweiten.
+Speech_0022L=Wenn also irgend so ein Schwachkopf damit beginnt Raketen abzufeuern, könnten wir die Dinger umlenken und sie ihm wieder auf den Kopf fallen lassen.
+Speech_0023L=Ein paar davon. Die Schätzungen belaufen sich auf 75% der Flugkörper. Ich würde sagen es sind nur 40.
+Speech_0024L=Soviel zum Thema "intelligente" Raketen.
+Speech_0025L=Nun, das würde ich nicht sagen. Eine Kugel ist halt einfach zu dumm um getäuscht zu werden ... Je intelligenter etwas wird ... desto leichter kann man es auch zum Narren halten.
+Speech_0026L=Kannst du mir noch etwas über Peru erzählen?
+Speech_0027L=Ich weiß wirklich nicht viel über diese Mission. Ich vermute man schickt dich los, um diesen Kerl zu retten, diesen ... äh ... Morgenholt, nicht wahr?
+Speech_0028L=Stimmt.
+Speech_0029L=Wenn man dich schickt, wird dieser Morgenholt bestimmt nicht das Wichtigste bei dieser Mission sein.
+Speech_0030L=Bilden die Masse-Kernels den Kern eurer IW-Systeme? 
+Speech_0031L=Ja.
+Speech_0032L=Morgenholt weiß mehr darüber, als uns lieb ist.
+
+
+Speech_0033L=Deine Aufgabe besteht also darin ihn ...
+
+
+Speech_0034L=Nein. Meine Mission besteht darin ihn zu retten. Sofern mir das möglich ist.
+
+
+Speech_0035L=Was ist, wenn du die Wahl zwischen seinem Leben und den Informationen hast?
+
+
+Speech_0036L=Niemand hat behauptet, dass es ein Kinderspiel sein würde.
+
+
+Speech_0065L=Du wirst schon das Richtige tun.
+
+
+Speech_0066L=Ich werde tun, was zu tun ist.
+
+
+
+
+Speech_0037L=Nun gut. Ich muss noch einige Daten auswerten. Wir sprechen uns später.
+Speech_0038L=Danke dafür, dass du hergekommen bist. Wenn du mich brauchst, ich bin hier.
+Speech_0039L=Die Maria Narcissa ...
+Speech_0040L=Ja ... Sie ist ein alter portugiesischer Pott, der jetzt unter philippinischer Flagge fährt.
+Speech_0041L=Sind wir nah dran?
+Speech_0042L=Nah genug, um ihre genaue Position zu kennen. Aber nicht so nah, dass die uns bemerken würden.
+Speech_0043L=FISHER - Good.
+Speech_0044L=Wie lang ist es eigentlich her, dass du das letzte Mal ein Schiff geentert hast?
+Speech_0045L=Nicht so lange, wie du vielleicht glaubst.
+Speech_0046L=Bist du sicher, dass du das schaffen wirst, Sam? Rostige Kähne wie dieser können sehr gefährlich sein.
+Speech_0047L=Du klingst ja fast wie mein Vater ... Ich komme schon klar.
+Speech_0048L=Na gut. Pass auf dich auf, mein Junge.
+Speech_0049L=FISHER - Yes sir.
+Speech_0050L=Wir sagen Bescheid, wenn der Hubschrauber bereit ist.
+Speech_0051L=Ich bin erst zufrieden, wenn du wieder heil an Bord bist.
+Speech_0053L=Hallo, Sam.
+Speech_0054L=Ich habe das Gerücht gehört, dass ich nach dieser Mission vielleicht nicht zurückkomme. Es kann eine Weile dauern, bis wir uns wiedersehen.
+Speech_0055L=Vielleicht sehen wir uns schneller wieder, als du es glaubst. Mann kann nie wissen.
+Speech_0056L=Auch wieder wahr ...
+Speech_0057L=War mir ein Vergnügen, dich an Bord zu haben, mein Sohn.
+Speech_0058L=Danke. Du hast wirklich ein großartiges Schiff.
+Speech_0059L=Du bist uns immer willkommen.
+Speech_0060L=Nun, ich mache mich besser auf den Weg.
+Speech_0061L=Grüß Sarah von mir, wenn du sie siehst.
+Speech_0063L=Vielleicht stoßen wir im Gelbem Meer wieder aufeinander.
+Speech_0064L=Wenn du zum Vierten Juli wieder hier bist, wartet eine besondere Überraschung auf dich.
+
+[P_00_Training_CnvRedding]
+Speech_0001L=Tja, das ist deine Kabine. Ich bin nebenan. Nicht gerade schön, aber das ist jetzt erst mal dein Zuhause.
+Speech_0002L=Wird schon gehen.
+Speech_0003L=Ich werde die Verbindung aufbauen. Captain Partridge möchte aber vor dem Briefing mit dir reden. Hatte keine Ahnung, dass ihr beiden Euch kennt. Davon stand gar nichts in deiner Akte. 
+Speech_0004L=Liegt vielleicht daran, dass die Hälfte meiner Akte voller Lügen steckt ...
+Speech_0005L=Und die andere Hälfte?
+Speech_0006L=Keine Ahnung ... die ist so geheim, dass die selbst mich da nicht reinsehen lassen.
+Speech_0007L=Hehe. Komm dann bitte, nachdem du mit Partridge gesprochen hast, wieder runter zum Briefing.
+Speech_0008L=Wo finde ich ihn?
+Speech_0009L=Er ist in seinem Bereitschaftsraum, neben der Kommandozentrale.
+Objective_0063=Talk to Captain Partridge in his Ready Room
+Objective_0066=Head up to the top of the ship and talk to Captain Partridge in his Ready Room located behind the ships Command Center.
+Speech_0010L=Sprich mit dem Captain, er ist in seinem Bereitschaftsraum.
+Speech_0011L=Wir fangen mit dem Briefing an, nachdem du mit dem Captain gesprochen hast.
+Speech_0012L=Bereit für das Briefing?
+Speech_0013L=Ja, bis auf eine Kleinigkeit ... der Adapter für deinen Laptop ist bei all unserem anderen Zeug.
+Speech_0014L=Und wo ist das?
+Speech_0015L=Vermutlich irgendwo auf dem Vorderdeck.
+Speech_0016L=Okay, ich geh und hol ihn.
+Speech_0017L=He, da sind auch noch andere Sachen von dir drin. Kannst dein Zeug gerne unter die Lupe nehmen. Vergewissere dich, dass alles funktioniert.
+Speech_0018L=Gute Idee.
+Objective_0064=Get the power adapter for your laptop from the forecastle.
+Objective_0067=Your laptop is out of juice. In order to plug into the ship, you will need to retrieve the power adapter from the forecastle, which is down the hall from your quarters.
+Speech_0019L=Hol den Adapter, dann können wir mit dem Briefing beginnen.
+Speech_0020L=Der Adapter ist in 'ner Kiste auf dem Vorderdeck.
+Speech_0021L=Ist das da der Adapter in deiner Tasche oder freust du dich einfach nur mich zu sehen?
+Speech_0022L=FISHER - Ready for the briefing?
+Speech_0023L=Die Daten sind unterwegs. Wirf einen Blick auf deinen Laptop und wir können anfangen.
+Speech_0024L=Was ist mit meinen Sachen? Der Marine auf dem Vorderdeck will nicht, dass ich das Zeug mitnehme.
+Speech_0025L=Tja, so sind die Regeln. Du wirst auf alles zugreifen können, was du für deine Mission brauchst. Leider ist aber noch nicht alles hier und das Schiff wird auch noch gecheckt ...
+Objective_0065=Get your mission briefing from Lambert.
+Objective_0068=Use your laptop to get a Mission Briefing from Lambert at Third Echelon in Virginia.
+Speech_0028L=Lambert kann dich jederzeitüber den Laptop in deiner Kabine briefen.
+Speech_0029L=Wenn du noch etwas trainieren möchtest oder dir das Schiff näher ansehen willst, nur zu.
+Speech_0030L=Sobald du die Mission angenommen hast, kann es losgehen.
+Speech_0031L=Lambert hat eine weitere Mission auf Lager. Wir können mit dem Briefing loslegen, sobald du bereit bist.
+Speech_0032L=Ich soll an Bord des Frachters gehen? Haben die es auf Hugo Lacerda abgesehen? 
+Speech_0033L=Ja ... Wir haben jede Menge Akten über diesen Kerl. Noch vor ein paar Jahren war er ein Niemand. 
+Speech_0034L=Gebt jemandem ein Schwert und schon wird er zum Soldaten. Gebt ihm einen Laptop und er wird ein König.
+Speech_0035L=Hmm. Lacerda mag zwar eine kleine Armee haben, aber König würde ich ihn noch nicht nennen.
+Speech_0037L=Ja. Das Außenministerium hat ein paar Jungs rübergeschickt. Habe gehört, dass Displace International Geld überweisen will. Die haben vermutlich Angst vor einem Prozess.
+Speech_0038L=Gut möglich. Doug mag ein gefühlskalter Kerl sein, aber er hat keine Angst davor, einzugestehen, dass er einen Fehler gemacht hat.
+Speech_0039L=Na ja, wenn man sich die Akten ansieht, bekommt man nicht gerade diesen Eindruck.
+Speech_0040L=Du darfst nicht vergessen, dass diese Akten von den Leuten stammen, die ihn loswerden wollen.
+Speech_0041L=Da hast du Recht.
+Speech_0044L=Gibt es neue Ausrüstung, die ich mir ansehen kann?
+Speech_0045L=Ja... Heute morgen ist was aus Miramar gekommen. Es ist auf dem Vorderdeck.
+Speech_0046L=Was ist es denn?
+Speech_0047L=Ist eine Überraschung.
+Speech_0048L=Wow, du weißt, wie sehr ich Überraschungen liebe.
+Speech_0042L=Sobald du bereit bist, können wir mit dem Briefing beginnen.
+Speech_0043L=Auf dem Vorderdeck ist neue Ausrüstung für dich. Nur für den Fall, dass du noch nicht dort gewesen sein solltest.
+Speech_0049L=Von mir aus kann es losgehen, sobald du bereit bist.
+Speech_0050L=Das Schiff hält einen Abstand von 200 Klicks zur Maria Narcissa.
+Speech_0053L=He, Sam. Lambert hat da eine Mission in Panama. Kann sein, dass wir doch nicht so lange auf dem Schiff bleiben, wie wir dachten.
+
+
+Speech_0054L=Was soll das heißen?
+
+
+Speech_0055L=Die Walsh soll so schnell wie möglich zum Reagan-Kampfverband stoßen. Vermutlich sind wir außerhalb der Hubschrauberreichweite, wenn die Mission zu Ende ist.
+
+
+Speech_0062L=Und wohin soll es gehen?
+
+
+Speech_0069L=REDDING - Not decided yet... but this Lacerda business...it's possible this whole mess is connected to what's going on in Asia. Anyway, we're good to go with the briefing anytime.
+
+
+
+
+Speech_0075L=Auf dem Vorderdeck befindet sich neue Ausrüstung für dich. Kannst sie dir gerne ansehen.
+
+
+Speech_0076L=Ich arbeite mit der Flugkontrolle gerade deine Reiseroute aus.
+
+
+Speech_0070L=In der Bank war ich vor zwanzig Jahren schon mal drin.
+Speech_0071L=Ja ... ich weiß. Ich versuche gerade mit Grimsdottir und der CIA an den alten Missionsbericht deiner Einsatzgruppe zu kommen. Er ist auf etwas gespeichert, dass sich "Mikrofiche" nennt. Wir arbeiten gerade daran, es in eine lesbare Form zu bekommen.
+Speech_0072L=Seid ihr damit fertig, bevor ich abhaue?
+Speech_0073L=Vermutlich nicht. Grimsdottir will dir aber das Wichtigste auf dein OPSAT übertragen, sobald sie fertig sind.
+Speech_0074L=FISHER - Good.
+Speech_0060L=Sobald du die Mission angenommen hast, machen sie den Hubschrauber klar.
+Speech_0061L=Keine Ahnung, ob wir noch mal herkommen. Du solltest dich schon mal verabschieden.
+Speech_0036L=Hat man Morgenholts Verwandte von den Vorgängen in Peru in Kenntnis gesetzt?
+
+[P_00_Training_CnvTech_Mathieu]
+Speech_0001L=Was treiben Sie da, Matrose?
+Speech_0002L=Äh ... nun ... ich richte ein Netzwerk ein, damit die Jungs darüber Computerspiele spielen können.
+Speech_0003L=Was?
+Speech_0004L=Einige der Jungs aus dem Nimitz-Verband haben erzählt, dass sie in den Pausenräumen ein Spiele-Netzwerk eingerichtet hatten. Das soll gut für die Moral und den Teamgeist sein. Sie sollten unserem Clan beitreten, Sir.
+Speech_0005L=Clan?
+Speech_0006L=Ja ... äh ... das ist so ... Wir sind eine Gruppe von Jungs, die alle im gleichen Team online sind und so ...
+Speech_0007L=Was spielt Ihr denn? Das mit den Asteroiden? 
+Speech_0008L=Nun ... äh ... Um genau zu sein spielen wir jede Menge Rainbow Six... Ghost Recon... So was in der Art halt.
+Speech_0009L=Hmm ... gut... Wenn Ihr dieses Spiel mit den Asteroiden am Laufen habt, dann sagt mir Bescheid. Darin war ich fast unschlagbar.
+Speech_0010L=Äh ... So so ... Klar, dann sagen wir Bescheid.
+Speech_0012L=Wenn ich das LAN fertig habe, muss ich die Systeme des Feuerleitstandes optimieren.
+Speech_0013L=Der Captain hat das mit dem Netzwerk erlaubt ... Er weiß, dass es gut für die Moral ist.
+Speech_0014L=FISHER - What are you working on there sailor?
+Speech_0015L=Ich führe kleinere Wartungsarbeiten an den Feuerleitsystemen durch, um die Abstimmung zu verfeinern, Sir.
+Speech_0016L=Wartungsarbeiten? Wir sind doch erst ein paar Tage auf See.
+Speech_0017L=Es gibt nichts, was sich nicht noch optimieren ließe, Sir.
+Speech_0018L=Was steht als nächstes auf Ihrer Liste?
+Speech_0019L=Danach habe ich frei, Sir. Ich wollte dann eigentlich eine E-Mail nach Hause schicken und zu den Jungs in die Messe gehen.
+Speech_0022L=FISHER - Carry on.
+Speech_0023L=Jawohl, Sir.
+Speech_0020L=Bald hab ich meinen freien Tag.
+Speech_0021L=Ich freue mich schon auf den Vierten Juli. Hab gehört, dass man eine große Party plant.
+Speech_0024L=Was machen Sie, Matrose?
+Speech_0025L=Nichts ... heute ist mein freier Tag.
+Speech_0026L=Sie Glückspilz. Ich habe Ihren Namen nicht verstanden.
+Speech_0027L=Berube, Sir. Elektrotechniker Zweiter Klasse.
+Speech_0028L=Schön Sie kennen zu lernen ... Äh ...
+Speech_0029L=Mathieu.
+Speech_0030L=Mathieu Berube? Hm ... Wie kommt es, dass alle an Bord französische Namen haben?
+Speech_0031L=Nun, wir wurden nach dem Entwicklerteam in Montreal benannt. Na ja, bis auf Captain Partridge. Im wahren Leben bin ich der Leveldesigner, der dieses ganze Schiff entworfen hat.
+Speech_0032L=Echt? Können Sie mir irgendwelche Geheimnisse verraten?
+Speech_0035L=Haha. Nun, das einzige Geheimnis sind die Rezepte, die Sie von Sebastien Galarneau bekommen können ...
+Speech_0036L=Sie meinen "Chef"?
+Speech_0037L=Ja ... Aber der ist im wirklichen Leben auch nur Leveldesigner.
+Objective_0043=Talk to Electronics Technician Second Class Berube.
+Objective_0045=(null)
+Speech_0038L=Sicher ... Sie müssen mit Sebastien Galarneau sprechen ... Chef wird Ihnen einige Rezepte freischalten, wenn Sie ihm die Zutaten bringen, die er braucht.
+Speech_0039L=Rezepte? Warum sollte ich Rezepte wollen?
+Speech_0040L=Wir wollten einfach mal etwas ins Spiel bringen, an dem auch Ihre Mutter Freude hätte.
+Speech_0041L=Äh ... Okay. Ihr seid schon irgendwie seltsam, aber danke für den Tipp.
+Objective_0044=Talk to Electronics Technician Second Class Berube.
+Objective_0046=(null)
+Speech_0033L=Es gibt jede Menge Sachen, die sich im Spiel freischalten lassen. Aber dafür brauchen Sie eine gute Missionsbewertung.
+Speech_0034L=Außerdem können Sie Sachen freischalten, wenn Sie Bonusmissionsziele erfüllen. Das Gespräch mit mir ist so ein Bonusmissionsziel.
+Speech_0042L=Warten Sie nur bis Sie die Poutine probiert haben ... Sie werden sie lieben.
+
+[P_00_Training_CnvUSSol_Jason]
+Speech_0016L=Sir!
+Speech_0017L=Wie heißen Sie, Marine?
+Speech_0018L=Corporal Arsenault, Sir.
+Speech_0019L=Das weiß ich, steht ja schließlich auf Ihrem Namensschild. Aber wie lautet Ihr Vorname?
+Speech_0020L=Jason, Sir.
+Speech_0021L=Wo kommen Sie her, Jason?
+Speech_0022L=Harlan, Kentucky, Sir.
+Speech_0023L=Harlan ... das liegt in der Nähe von Jonesville in Virginia, nicht wahr?
+Speech_0024L=Nur einen Steinwurf davon entfernt, Sir. Haben Sie Verwandte in Jonesville, Sir?
+Speech_0025L=Hmm ... das darf ich Ihnen leider nicht sagen.
+Speech_0026L=Schon okay, Sir. Verstehe ich. Ich sag Ihnen was ... wenn Sie das nächste Mal in Jonesville sind, dann fahren Sie mal in Richtung Harlan und machen Sie bei Tomlins Diner halt. Meine Schwester arbeitet dort. Sagen Sie ihr, dass der alte Eierkopf Sie geschickt hat, um mal den Rhabarberkuchen zu probieren. Sie wird sich dann um Sie kümmern.
+Speech_0027L=Klingt großartig. Danke für den Tipp.
+Speech_0028L=Gern geschehen, Sir.
+Speech_0029L=Das Vorderdeck liegt am Ende des Korridors.
+Speech_0030L=Wenn Sie den Captain suchen ... einfach weiter nach oben gehen.
+Speech_0002L=Ist mit Ihnen alles in Ordnung, Corporal? Sie sehen gar nicht gut aus.
+Speech_0003L=Nur ein bisschen ... öhh ... seekrank, Sir.
+Speech_0004L=Ah, da kenn ich ein kleines Geheimrezept.
+Speech_0005L=Bitte, verraten Sie es mir ...
+Speech_0006L=Die Fungizidcreme, die man Ihnen in die persönliche Ausrüstung gepackt hat. Schmieren Sie davon etwas auf Ihre Oberlippe.
+Speech_0007L=Was?
+Speech_0008L=Mit dem Zeug auf der Lippe werden Sie schon bald nicht mehr darüber nachdenken, wie sehr es auf diesem Schiff schaukelt. Und wenn Sie kotzen müssen ... na ja ... dann haben Sie das jedenfalls hinter sich.
+Speech_0009L=Das ... das ist ja ekelhaft.
+Speech_0010L=Na gut, es riecht nicht gerade wie Rhabarberkuchen ... aber es funktioniert.
+Speech_0011L=Okay, ich versuch es mal.
+Speech_0014L=Ich glaub', ich muss mich übergeben.
+Speech_0015L=Ich brauche frische Luft.
+Speech_0031L=FISHER - Marine.
+Speech_0032L=Sir.
+Speech_0033L=Alles O.K. heute?
+Speech_0034L=Ja, Sir. Ich glaube ich habe mich endlich an die Seefahrt gewöhnt. Ich fühle mich schon viel besser, Sir.
+Speech_0035L=Hmm. Könnte das vielleicht daran liegen, dass das Schiff Halt gemacht hat?
+Speech_0036L=Hat es das?
+Speech_0037L=Ja, das hat es.
+Speech_0038L=Oh! Oh, nein ...
+Speech_0041L=Und ich dachte, ich hätte es jetzt raus ...
+Speech_0042L=Was soll ich nur tun, wenn die Maschinen wieder angehen?
+
+[P_00_Training_CnvUSSol_Paul]
+Speech_0001L=Auf dem Vorderdeck haben wir einen Übungsparcours für Sie eingerichtet, Sir. Sie können dort Ihre Ausrüstung testen.
+Speech_0002L=Waffen sind hinter diesem Kontrollpunkt nicht mehr erlaubt, Sir. Sie müssen sie leider hier lassen.
+
+[P_00_Training_CnvUSSol_Phil]
+Speech_0001L=Sie haben da ein wirklich nettes Schiff, Marine.
+Speech_0002L=Es ist der Stolz der Flotte, Sir. Ich bin sehr glücklich, darauf dienen zu dürfen.
+Speech_0003L=Sind Sie bereit für die Schlacht, mein Junge?
+Speech_0004L=Semper Fi, Sir. Die Marines sind immer bereit.
+Speech_0005L=Es könnte da draußen ganz schön gefährlich werden. Die Lage spitzt sich zu.
+Speech_0006L=Niemand hat je etwas gefunden, dass für einen Marine zu gefährlich ist.
+Speech_0007L=Nun, dann woll'n wir mal hoffen, dass wir nicht die Ersten sind, die so etwas finden.
+Speech_0008L=Ich habe keine Angst, Sir.
+Speech_0009L=Semper Fi. Alles oder nichts.
+Speech_0010L=Einsatzbereit, Sir.
+Speech_0011L=FISHER - Marine.
+Speech_0012L=PHIL - Sir.
+Speech_0013L=Wie oft kontrollieren Sie Ihre Waffe, Marine?
+Speech_0014L=Kurze Überprüfung jede volle Stunde, Sir.
+Speech_0015L=Wo befindet sich der nächste Feuerlöscher, Marine?
+Speech_0016L=Feuerlöschstelle 44, Sir. Links hinter der Tür hinter Ihnen.
+Speech_0017L=Wie lautet Ihre Ausweichfrequenz, Marine?
+Speech_0018L=Bei allem Respekt, Sir. An Ihrer Uniform befinden sich keine Rangabzeichen. Ich kann Ihnen die Funkfrequenzen erst nennen, wenn Sie sich mir gegenüber legitimiert haben, Sir.
+Speech_0021L=Gut gemacht, Marine. Weiter machen.
+Speech_0022L=Sir, jawohl, Sir.
+Speech_0019L=Semper Fi. Alles oder nichts.
+Speech_0020L=Allzeit bereit, Sir.
+Speech_0023L=Marine.
+Speech_0024L=PHIL - Sir.
+Speech_0025L=Sie scheinen mir heute nicht so ausgelassen zu sein wie sonst. Sind Sie seekrank?
+Speech_0026L=Nein, Sir.
+Speech_0027L=Was ist es dann?
+Speech_0028L=Gar nichts, Sir.
+Speech_0029L=Hmm .... Gut. Sagen Sie mir sofort, was los ist. Das ist ein Befehl.
+Speech_0030L=Sir? Äh ... Sir ... Es ist nur ... jetzt ist bald der Vierte Juli, Sir.
+Speech_0031L=Oh, das ist mir auch bereits aufgefallen... der scheint einmal im Jahr genau um diese Zeit herum aufzutauchen. Und? Wo liegt das Problem?
+Speech_0032L=Es ist bloß ... äh... Es ist das erste Mal, dass ich am Vierten Juli nicht bei meiner Familie bin, Sir.
+Speech_0035L=Ihre Kameraden sind jetzt Ihre Familie, oder etwa nicht, mein Junge?
+Speech_0036L=Ja, Sir. Wenigstens sagt man uns das, Sir.
+Speech_0037L=Sie klingen nicht wirklich überzeugt.
+Speech_0038L=Semper Fi, Sir!
+Speech_0039L=Mann, hören Sie mal mit diesem Mist auf. Was glauben Sie denn?
+Speech_0040L=Ich tue sehr gerne meinen Dienst, Sir. Ich bin stolz darauf, dass ich hier sein darf. Aber ich vermisse meine richtige Familie.
+Speech_0041L=Gut. Der Tag, an dem Sie aufhören, Ihre Familie zu vermissen, ist der Tag, an dem es auch nicht mehr wichtig ist, dass Sie ein Marine sind.
+Speech_0042L=Jawohl, Sir.
+Speech_0043L=Weitermachen.
+Speech_0044L=Äh, Sir?
+Speech_0045L=Ja?
+Speech_0046L=Sind Sie ein Marine, Sir?
+Speech_0047L=Nein. Ich habe keine Familie mehr.
+Speech_0033L=Semper Fi. Alles oder nichts.
+Speech_0034L=Bereit für den Einsatz, Sir.
+
+[P_00_Training_Communications]
+Speech_0001L=O.K., Sam ... das Briefing kann gleich losgehen. Komm einfach runter, wenn du fertig bist.
+Speech_0002L=Bin schon unterwegs.
+Speech_0003L=Gut, Sam ... bring den Adapter wieder mit, damit wir deinen Laptop anschließen können.
+Speech_0004L=Und was, wenn ich noch keine Lust habe?
+Speech_0005L=Lass dir ruhig Zeit ... wir haben noch kein OK vom Generalstab. Lambert kann dich briefen, sobald du bereit bist.
+Speech_0006L=Alles klar ... Ich komme dann gleich.
+
+[P_00_Training_MasterController]
+
+[P_00_Training_Objectives]
+Objective_0004=Get your mission briefing from Lambert.
+Objective_0007=Use your laptop to get a Mission Briefing from Lambert at Third Echelon in Virginia.
+Objective_0005=Get your mission briefing from Lambert.
+Objective_0008=Use your laptop to get a Mission Briefing from Lambert at Third Echelon in Virginia.
+Objective_0014=Get the recipes from Sebastien the ships cook.
+Objective_0015=(null)
+Objective_0009=Get the recipes from Sebastien the ships cook.
+Objective_0010=(null)
+Note_0011L=Mango Salsa
+
+
+
+6 large ripe mangoes, diced
+
+1 medium spanish onion, minced
+
+6 cloves garlic finely chopped
+
+3 tablespoons dill weed
+
+1/4 cup honey
+
+1/2 cup apple cider vinegar
+
+4 tablespoons crushed black pepper
+
+6 red hot chili peppers finely chopped
+
+2 ripe pear peeled, diced
+
+1/2 red pepper, finely chopped
+
+1/2 square inch ginger, finely chopped
+
+juice from 1 lemon
+
+1 teaspoon lemon zest
+
+
+
+Put mangos and pear in pot on medium heat, add honey, lemon juice and vinegar heat for 15 minutes
+
+Add peppers, garlic, onion, spices then simmer let simmer for 30 minutes
+
+Cool and serve with white meats or fish.
+
+
+Note_0012L=Squid in Spicy Coconut Sauce
+
+
+
+1 kg squid - cleaned and chopped
+
+1/4 cup grated coconut
+
+1 square inch of ginger, finely chopped
+
+1 medium Spanish onion, chopped
+
+6 cloves of garlic, finely chopped
+
+1/2 teaspoon tumeric
+
+4-8 dried chilies chopped
+
+2 tablespoons coriander powder
+
+1 teaspoon cumin powder
+
+4 stalks lemongrass, chopped
+
+6-8 small lime leaves
+
+oil
+
+1/4 cup coconut milk
+
+lime juice
+
+
+
+Oil wok and heat. Fry garlic, ginger, onion and spices until fragrant. Add squid and cook quickly, then add coconut milk, lime juice, lemongrass and lime leaves. Cook until thick and serve.
+
+
+Note_0013L=Poutine Sebastien
+
+
+
+6 large russet potatoes
+
+3 cups canned chicken gravy
+
+1 tablespoon brown sugar
+
+1/2 can peas
+
+2 cups curd cheese
+
+4 strips fatty bacon
+
+
+
+Slice potatoes skin on and cook in vegetable oil until done. Absorb grease. Salt and pepper. Set aside. Chop bacon and put in hot oil.
+
+Dissolve sugar in heated gravy and add peas.
+
+When bacon is burnt, refry potato fries for 30 seconds, then resalt and pepper.
+
+Put curd cheese over fries and smother in gravy.
+
+
+
+[P_00_Training_OrdAnim]
+
+[P_00_Training_Popup]
+Note_0001L=To Talk to someone, Interact (A)
+Note_0002L=If you have multiple available Interactions, Press and Hold (A), select with the Left Thumbstick, then Release (A)
+Note_0003L=To get detailed information about moves and equipment, Interact (A) with these panels, scattered throughout the ship.
+Note_0004L=To mantle onto a low object, walk into it and Jump (Y)
+Note_0005L=Auto-mantling for low objects can be enabled in the Options Menu
+Note_0006L=To climb onto a higher object or ledge, walk toward it and Jump (Y). When hanging from the ledge, push Up on the Left Thumbstick to climb up.
+Note_0007L=To get on a pipe from the top, simply walk slowly into it.
+Note_0008L=Crouch (B) to duck under low objects. You are slower and quieter when crouched.
+Note_0009L=Between two narrow walls, perform the Split Jump by facing a wall and Pressing and Holding (Y)
+Note_0010L=To enter a narrow gap, simply walk into it.
+Note_0011L=To enter a vent or crawl space, simply Interact (A). Do the same to exit.
+Note_0012L=To climb a fence, ladder or pipe, simply walk into it.
+Note_0013L=Jump (Y) to get on a pipe or zipline.
+Note_0014L=To get off a pipe or zipline, Press (B) to release.
+Note_0015L=To bring your legs up on a pipe or zipline Press (Y) again.
+Note_0016L=To hang upside down from a pipe, Press (Y) again.
+Note_0017L=While hanging upside down, you can equip weapons and grab or attack guards,
+Note_0018L=To grab the pipe with your hands again, Press (B)
+Note_0152L=To pass a keypad locked door, you can either use the code, or hack it.
+Note_0153L=Failing to hack a keypad in an enemy facility would sound an alarm
+Note_0154L=Being detected by a camera in an enemy facility would sound an alarm
+Note_0019L=Camera Controls
+Note_0020L=The Right Thumbstick controls the Free Camera.
+Note_0021L=Camera control is analog. Pressing hard on the Right Thumbstick moves the camera more quickly.
+Note_0022L=Movement is relative to camera position.
+Note_0023L=Press (X) to ready selected weapon and the Camera moves to an Over the Shoulder view.
+Note_0024L=Move Camera and Weapon to the opposite shoulder by Clicking the Left Thumbstick
+Note_0025L=Basic Movement Controls
+Note_0026L=The Left Thumbstick controls Movement.
+Note_0027L=Movement speed is analog. Pressing hard on the Left Thumbstick moves Sam more quickly.
+Note_0028L=Movement is relative to camera position.
+Note_0029L=The faster you move, the more noise you make.
+Note_0030L=Press (B) to toggle Crouch. You are quieter and less visible when crouched.
+Note_0031L=Press (Y) to Jump
+Note_0032L=Press and hold (A) while near an Interactive object. Select the desired Interaction, and Release (A) to perform it.
+Note_0033L=To climb a ladder, pipe or fence, simply walk into it.
+Note_0034L=To grab a ledge, jump onto it. You can move side to side while hanging from a ledge. Push up to scale the ledge.
+Note_0035L=Press the Black Button to flatten against a wall.
+Note_0036L=Click the Right Thumbstick to flatten against a wall.
+Note_0037L=Advanced Movement Controls
+Note_0038L=To grab an overhead pipe or zipline, stand under it and press (Y) to Jump and grab it.
+Note_0039L=To bring your legs up on a pipe or zipline, press (Y) again.
+Note_0040L=To hang upside down from a pipe, press (Y) again.
+Note_0041L=Press (B) to get off a pipe or zipline.
+Note_0042L=Press (X) to equip your pistol from any position on an overhead pipe.
+Note_0043L=Push full down on the Left Thumbstick to slide down a pipe or ladder.
+Note_0044L=To perform a Split Jump, Press and hold (Y) in any appropriately sized corridor.
+Note_0045L=You can Enter or Exit small vents or crawl-spaces by Selecting Enter Vent in the Interaction Menu 
+Note_0046L=You can pass through narrow gaps simply by moving into them.
+Note_0053L=Game Options
+Note_0054L=Camera and Movement Axis for the Thumbsticks can be changed in the options menu.
+Note_0055L=Difficulty level can be selected in the Option Menu
+Note_0056L=Auto-mantling can be enabled in the Options Menu
+Note_0057L=Thumbstick Sensitivity can be adjusted in the Options Menu
+Note_0058L=Sound and Music Volume can be adjusted in the Options Menu
+Note_0059L=The HUD
+Note_0060L=The Health Bar is the top bar on the HUD.
+Note_0061L=The Stealth Meter is below the Health Bar. The Stealth Meter shows how well lit you are. Stick to the shadows to keep yourself hidden.
+Note_0062L=The Sound Meter is below the Stealth Meter. The slider shows the ambient noise in the area, and the meter tells how much noise you are making. If the noise you make is lower than the ambient, you cannot be heard.
+Note_0063L=The bottom box tells you which weapon you currently have selected as well as how much ammunition you have available for this weapon.
+Note_0064L=The OPSAT window in the top left provides real-time text displays for all communications with Third Echelon.
+Note_0065L=An Icon flashing above the Health Bar indicates that new Goals or Notes have been added to your OPSAT.
+Note_0066L=Your OPSAT can be opened with the Back Button to review your Goals and Notes as well as view the mini-map. The game does not pause while in the OPSAT.
+Note_0067L=To open the Quick Inventory, Press and hold the White Button. Select items using the Left Thumbstick or D-Pad. Release the White Button when you have made your selection.
+Note_0068L=The Objective Bar at the bottom of the screen lists outstanding Primary Objectives.
+Note_0069L=When the Communication Icon flashes above the Health bar, Press the Black Button to receive the Comm.
+Note_0070L=If you don't respond quickly to a Communication, a summary will be uploaded to your OPSAT
+Note_0155L=Press the Black Button to whistle and attract enemies to you.
+Note_0071L=Equipment
+Note_0072L=Detailed equipment descriptions can be found in your OPSAT
+Note_0073L=You always have your lock picks. They are used automatically if you select the Pick Lock Interaction on a locked door, window or hatch.
+Note_0074L=You always have your Optic Cable. It is used automatically if you select the Optic Cable Interaction on a swinging door or hatch.
+Note_0075L=You always have your knife. It is used automatically if you select an Interaction that requires it, or if you perform a lethal hand-to-hand attack with the Right Trigger.
+Note_0076L=You always have rope with you. Rope is deployed automatically if you perform a Rappel.
+Note_0077L=Night Vision can be toggled by pressing Left on the D-Pad. Night Vision does not work well in bright areas.
+Note_0078L=Thermal Vision can be toggled by pressing Right on the D-Pad. Thermal Vision does not work well in hot areas.
+Note_0079L=You can return to the view of any Sticky Camera by pressing Up on the D-Pad. If multiple cameras are active, you can cycle through them by pressing (X) and (Y).
+Note_0080L=The EEV Binoculars can be toggled by pressing Down on the D-Pad. 
+Note_0081L=You can Zoom in and out while in EEV view by clicking the Left Thumbstick
+Note_0082L=The EEV Binoculars can scan objects in the world and give you information about them.
+Note_0083L=The EEV Binoculars have a Wi-Fi enabled tap allowing you to access and hack computers and other devices from a distance.
+Note_0084L=The Laser Microphone and Laser Designator can be accessed from the EEV Binoculars.
+Note_0085L=Weapons
+Note_0086L=Detailed equipment descriptions can be found in your OPSAT
+Note_0087L=The SC-20k is a 5.56 x 45mm assault rifle with an integral silencer and a selection of attachments.
+Note_0088L=To ready the SC-20k, equip it in the Quick Inventory and Press (X) to shoulder the weapon.
+Note_0089L=Right trigger fires the rifle. Left trigger fires the attachment.
+Note_0090L=With the SC-20k shouldered, Press (Y) to switch to your other attachment.
+Note_0091L=The Foregrip Attachment for the SC-20k assists in automatic fire and helps your accuracy.
+Note_0092L=The Launcher Attachment for the SC-20k allows you to fire your launchable devices like Ring Airfoils, Sticky Shockers and Sticky Cameras.
+Note_0093L=The Shotgun Attachment for the SC-20k fires a deadly 12 gauge shotgun blast. It is very loud.
+Note_0094L=The Sniper Attachment for the SC-20k fires a 20mm ADPS round that can easily over-penetrate cover. This weapon is extremely lethal and very loud.
+Note_0095L=To activate Sniper zoom, Click the Right Thumbstick. While Zoomed, Click the Left Thumbstick to Zoom in and Out. Hold the Left Trigger to hold your breath and steady your aim. Right trigger fires.
+Note_0096L=The SC-20k itself cannot be fired while in Sniper Zoom.
+Note_0097L=To ready the Five-Seven pistol, equip it in the Quick Inventory and Press (X) to draw it.
+Note_0098L=Fire the Five-Seven pistol with the Right Trigger. The Five-Seven is very quiet.
+Note_0099L=The Left Trigger fires the OCP while the Five-Seven is drawn. The OCP causes electrical interference in many objects.
+Note_0100L=Use the OCP to temporarily disable lights and cameras. The OCP can also make mechanical objects malfunction, attracting the enemy and creating loud sounds to mask the noise you make.
+Note_0101L=To throw a grenade, equip it in the Quick Inventory, and Press (X) to ready it.
+Note_0102L=Right Trigger throws grenades straight. Left Trigger performs a skilled lob. The longer you hold the left trigger, the higher and farther you will lob it.
+Note_0103L=To plant wall mines, equip them in the Quick Inventory and pull the Right Trigger while facing a wall.
+Note_0104L=To use your knife, attack an enemy hand-to-hand with the Right Trigger. Knife attacks are lethal.
+Note_0105L=To fire a Sticky Shocker, Ring Airfoil, or Sticky Camera simply select one from the Quick Inventory while the Launcher Attachment is on your SC-20k. Fire with the Left Trigger. 
+Note_0106L=Sticky Shockers and Ring Airfoils are non-lethal.
+Note_0107L=Firing a Sticky Shocker into water will effect all enemies in the puddle. 
+Note_0108L=World Interactions
+Note_0109L=To turn a light on or off, Interact (A) with the switch.
+Note_0110L=Lights can be destroyed with bullets, or temporarily turned off with the OCP.
+Note_0111L=Guards will become mildly curious when they see lights flicker from the OCP.
+Note_0112L=Guards will search if they find broken lights.
+Note_0113L=Some lights will be linked to breaker boxes or generators.
+Note_0114L=Valves can release steam, turn water flow on or off, and make sound masking opportunities.
+Note_0115L=Doors can be opened normally, or stealthily for peeking.
+Note_0116L=Doors can be bashed open. This is noisy, but will knock out enemies on the other side if they are standing in front of the door.
+Note_0117L=Locked doors can be picked with the lock picks, or broken with the knife.
+Note_0118L=Picked locks do not alert guards. Broken locks do.
+Note_0119L=To pick a lock, slowly rotate the Left Thumbstick around the outer edge of its range until you see and hear the first pin begin to move. This means the Left Thumbstick is in the correct quadrant.
+Note_0120L=Keeping the Left Thumbstick in the correct quadrant, gently move the Thumbstick to release one of the pins in the lock. Repeat until all pins are released.
+Note_0121L=To access a computer Interact (A) with it to connect it to you OPSAT.
+Note_0122L=Access computer files through your OPSAT by selecting them and pressing (A)
+Note_0123L=To exit a computer, press Back or (B) Button.
+Note_0124L=Computers can be accessed from a distance using the wireless feature of the EEV.
+Note_0125L=To access secure files on computers or to bypass certain security devices, you may need to hack them.
+Note_0126L=To hack a computer, select Secure Access while in the computer interface.
+Note_0127L=To hack a computer, select Hack while in the computer interface.
+Note_0128L=To hack security devices, simply select the Hack option using Interact (A)
+Note_0129L=To hack something, you will need to find an open Port Address
+Note_0130L=When the hacking interface is open, one of the Port Addresses on the left side is the correct one. When you know which one it is, highlight it with the Left Thumbstick and Press (A)
+Note_0131L=While hacking, you will see fragments of Port Addresses being randomly tested. Correct fragments will highlight.
+Note_0132L=You can lock correct fragments by selecting them with the Left Thumbstick and using the Right Trigger.
+Note_0133L=You can lock correct fragments by selecting them with the Left Thumbstick and Pressing (X)
+Note_0134L=You can complete the hack by either selecting the correct Port Address from the left, or by locking all of the correct Port Address fragments. 
+Note_0135L=Failing a hack, or timing out, will sound an alarm.
+Note_0136L=Different security devices can be more or less difficult to hack.
+Note_0137L=Distance hacking using your wireless EEV, is more difficult than hacking the device directly.
+Note_0138L=Character Interactions
+Note_0139L=To perform a Non-Lethal Attack, simply pull the Left Trigger when in range of the enemy.
+Note_0140L=To perform a Lethal Attack, simply pull the Right Trigger when in range of the enemy. Lethal Attacks are noisier and reduce your Mission Rating.
+Note_0141L=To Grab an enemy, simply sneak up behind him and select the Grab Interaction by Pressing (A)
+Note_0142L=To Interrogate a Grabbed enemy, select the Interrogate Interaction by Pressing (A) while holding him.
+Note_0143L=When finished Interrogating, Right Trigger kills the enemy and Left Trigger knocks him out.
+Note_0144L=To force an enemy to co-operate, Grab him and drag him to a retinal scanner. Select the Use Retinal Scanner Interaction by Pressing (A)
+Note_0145L=While holding an enemy, Press (X) to equip your pistol and use him as a human shield.
+Note_0146L=Enemies may be reluctant to fire at you if you are holding one of them. If you ready your pistol, however, they will fire.
+Note_0147L=To carry a body, simply select the Pick-Up Body Interaction by Pressing (A)
+Note_0148L=To drop a body quietly, Press (A).
+Note_0149L=To drop a body quickly, simply Press (Y), or Press (X) to drop and equip your selected weapon. Dropping bodies is noisier than placing them.
+Note_0150L=Place bodies in the dark to prevent them being discovered.
+Note_0151L=To Talk to certain characters select the Talk Interaction by Pressing (A)
+

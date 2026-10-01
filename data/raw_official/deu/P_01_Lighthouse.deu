@@ -1,0 +1,510 @@
+[P_01_Lighthouse_CnvCaveGuards]
+Speech_-001L=(null)
+Speech_0001L=Hey! Stefano ... schau dir das an!
+Speech_0002L=Was? Was ist denn?
+Speech_0003L=Hier hinten sind irgendwelche Höhlen ... sieh mal ...
+Speech_-001L=(null)
+Speech_0006L=Guck mal ... da ist irgend so eine alte Brücke ...
+Speech_0021L=Weißt du, ich habe gehört, dass diese alten Höhlen von Schmugglern genutzt wurden.
+Speech_0022L=Schmuggler?
+Speech_0023L=Ja ... die hatten hier unten vielleicht alle möglichen Geheimwege und Tunnel. Komm schon.
+Note_0031L=In den Höhlen können sich Geheimgänge befinden.
+Speech_-001L=(null)
+Speech_0011L=Whoa ... vorsichtig.
+Speech_0012L=Es ist sicher ... keine Sorge ...
+Speech_-001L=(null)
+Speech_0024L=Wo gehst du hin? Pass auf. Vielleicht ist es nicht sicher.
+Speech_0025L=Sei kein Narr.
+Speech_0026L=Alte Höhlen wie diese sind gefährlich ... ich gehe keinen Schritt weiter.
+Speech_0027L=Schön ... mach, was du willst.
+Speech_-001L=(null)
+Speech_0028L=In Ordnung ... nun, ich werde dann mal zurückgehen.
+Speech_0029L=Okay. Ich werde hier bleiben ... genieße die Aussicht.
+Speech_-001L=(null)
+Speech_0032L=(null)
+Speech_-001L=(null)
+Speech_0033L=(null)
+Speech_-001L=(null)
+Speech_0034L=(null)
+
+[P_01_Lighthouse_CnvMariaNarcissa]
+POPUPMESSAGE_0017=Finden Sie heraus, woher die Guerillas ihre Waffen und Ausrüstung bekommen.
+Speech_-001L=(null)
+Speech_0001L=Evening Star an Maria Narcissa, bitte melden. Evening Star an Maria Narcissa, bitte melden.
+Speech_0002L=Hier Maria Narcissa, sprechen Sie, Evening Star.
+Speech_0003L=Fracht erhalten, Maria Narcissa, alles in Ordnung.
+Speech_0004L=Evening Star an Maria Narcissa, sind Sie noch da?
+Speech_0005L=Sprechen Sie, Evening Star. Gibt es bei Ihnen Probleme?
+Speech_0006L=Nein ... scheint alles in Ordnung zu sein ... nur ein paar seltsame Geräusche ... wir haben die Ladung. Alles bestens.
+Speech_0007L=Evening Star an Maria Narcissa, bitte melden.
+Speech_0008L=Sprechen Sie, Evening Star ... wir hören Schüsse, ist alles in Ordnung?
+Speech_0009L=Wir hatten einen Feind entdeckt, aber wir haben ihn verloren.
+Speech_0010L=Die Armee?
+Speech_0011L=Bin nicht sicher ... ein paar von den anderen sind auf der Suche nach ihm ... es ist jetzt alles unter Kontrolle.
+Speech_0012L=Sind Sie sicher?
+Speech_0013L=Ja. Und wir haben Ihre Fracht. Alles bestens.
+Speech_0014L=Verstanden, Evening Star, unsere Crew ist an Bord und wir haben den Leuchtturm passiert.
+Speech_0015L=Bestätigt, Maria.
+Speech_0016L=Verstanden, Maria Narcissa Ende.
+
+[P_01_Lighthouse_CnvMorgenholt]
+Speech_-001L=(null)
+Speech_0001L=Glaubst du nicht, dass er genug hat?
+Speech_-001L=(null)
+Speech_0002L=Er hat genug, wenn er aufhört zu reden. 
+Speech_-001L=(null)
+Speech_0003L=Reden? Madre de Dios ... er ist schon seit einer Stunde nicht mehr in der Lage zu sprechen.
+Speech_-001L=(null)
+Speech_0004L=Vielleicht tut er nur so.
+Speech_-001L=(null)
+Speech_-001L=(null)
+Speech_0005L=Jesus ...
+Speech_-001L=(null)
+Speech_0006L=Si. Ich wette, er tut nur so.
+Speech_-001L=(null)
+Speech_0007L=Tut nur so!? Seine Zunge ist ein Klumpen Kohle ... sein Gehirn ist ....
+Speech_-001L=(null)
+Speech_0008L=Genug! Gib mir mehr Saft, Saul ...
+Speech_-001L=(null)
+Speech_0009L=Es steht schon auf Maximum.
+Speech_-001L=(null)
+Speech_0010L=Was?
+Speech_-001L=(null)
+Speech_0011L=Soll ich eine neue Batterie herunterbringen?
+Speech_-001L=(null)
+Speech_0012L=He he ... was sagt du, mein Freund? Willst du eine neue Batterie? Häh? Hääh? Moment mal ... er ist ...
+Speech_-001L=(null)
+Speech_0013L=Seine Ohren ... da kommt Rauch raus ...
+Speech_-001L=(null)
+Speech_0014L=Ich glaube, mir wird schlecht.
+Speech_-001L=(null)
+Speech_0015L=Ich glaube, er ist tot.
+Speech_-001L=(null)
+Note_0022L=Morgenholt wurde zu Tode gefoltert.
+Speech_0016L=Hmpf. Gibt nur einen Weg, das herauszufinden ...
+Speech_-001L=(null)
+Speech_0021L=Urgs ... ich geh mal eben raus.
+Speech_-001L=(null)
+Speech_0023L=(null)
+Speech_0024L=(null)
+Speech_0017L=Heheheh...heh heh
+Speech_0018L=Uhhuh...uhhuh
+Speech_0019L=Aaaarrrrggghhhh
+
+[P_01_Lighthouse_CnvNoLacerda]
+Speech_-001L=(null)
+Speech_0001L=Ist das Boot gut weggekommen?
+Speech_0002L=Si. Sie sind schon eine ganze Weile weg.
+Speech_0003L=Wie viele Männer sind mitgegangen?
+Speech_0004L=Lacerda ... und er hat vier weitere mitgenommen.
+Speech_0005L=Hm ... wirst du mit vier Mann weniger noch für ausreichend Sicherheit sorgen können?
+Speech_0006L=An mir kommt keiner vorbei.
+
+[P_01_Lighthouse_CnvRainPatrol]
+Speech_-001L=(null)
+Speech_0001L=Ja ... nun kommt es so langsam richtig runter.
+Speech_0002L=Si ... nun ... dann gehst du am besten jetzt los ...
+Speech_0003L=Was? Du bist jetzt mit der Patrouille dran ...
+Speech_0004L=Dran sein hat nichts damit zu tun ... es ist eine Frage des Dienstalters.
+Speech_0005L=Dienstalter? Was? Was ist das hier, eine Gewerkschaft, oder was?
+Speech_0006L=Noch nicht ... aber sobald wir die Regierung gestürzt haben, werden wir eine Gewerkschaft gründen ... du solltest mich also nicht ärgern.
+Speech_0007L=... Uhmpf ... na schön ...
+Speech_0008L=... ist es nicht immer so ... dein ganzes Leben kämpfst du für das, an was du glaubst und alles, was du tust, ist einen Unterdrücker durch einen anderen zu ersetzen.
+
+[P_01_Lighthouse_CnvWeather]
+Speech_-001L=(null)
+Speech_0001L=Du siehst besorgt aus ...
+Speech_0002L=Gewitter machen mich nervös ...
+Speech_0003L=Warum?
+Speech_0004L=Ich war als Junge in Grenada, als die Amerikaner '83 einmarschierten. Mein Vater war in der Armee. Als ihm klar wurde, dass wir nicht gewinnen konnten, führte er uns in die Berge, mit einigen seiner Männer und mit unseren gesamten Familien.
+Speech_0005L=Und?
+Speech_0006L=Die Amerikaner holten uns eines Nachts ein, mitten in einem Gewitter ... ein Gewitter wie dieses ...
+Speech_0007L=Was geschah ...
+Speech_0008L=Sie schlugen im Dunkel zu ... wir konnten sie nicht hören ... nicht sehen ... sie stimmten ihren Beschuss mit dem Donner ab. Die toten Körper fielen in der Dunkelheit nieder. Mit jedem Blitzschlag ... gab es ... mehr ... Leichen.
+Note_0014L=Mit Donner lassen sich Geräusche überspielen.
+Speech_0009L=Du hast überlebt ...?
+Speech_0010L=Sie verschonten Frauen und Kinder ... nein ... die Amerikaner sind keine Schlächter ... aber seit dieser Nacht ... jagt mir Donner immerzu Angst ein.
+Speech_0011L=Jetzt machst du mir auch Angst ...
+Speech_0012L=Ich weiß ... wie ich sagte ... sie sind keine Schlächter ... ihre Waffe ist die Furcht ... und Furcht verbreitet sich nicht unter Toten ...
+Speech_-001L=(null)
+Speech_0015L=(null)
+Speech_-001L=(null)
+Speech_0016L=(null)
+Speech_-001L=(null)
+Speech_0017L=(null)
+
+[P_01_Lighthouse_CnvWelderTech]
+Speech_-001L=(null)
+Speech_0001L=Ah ... dämliches altes Tor ... wie soll ich mit diesem ganzen alten Mist hier alles am Laufen halten? Und wozu ist hier überhaupt ein Tor? Das ist dumm ... sinnlos.
+Speech_-001L=(null)
+Speech_0004L=LEANDRO: Who would put a gate here anyway? It's stupid...pointless.
+Speech_0005L=Ah, dämliches Tor! Repariere das Tor. Öffne das Tor. Schließe das Tor. Öffne das Tor ... nun, jetzt ist das Tor kaputt.
+
+[P_01_Lighthouse_Communications]
+Note_0139L=Einige Guerillas setzen ungewöhnlich moderne Waffen ein.
+Speech_0127L=Das hat sich nicht wie Feuer aus einem AK angehört, Fisher. Finde heraus, ob diese Guerillas außergewöhnliche Ausrüstung besitzen und woher sie sie haben könnten.
+Speech_0007L=Ich habe Schüsse gehört, Sam ... ist alles in Ordnung?
+Speech_0008L=Es kommt von weiter vorne, aber, Lambert ... wenn ich an ‘Guerillas’ denke, dann denke ich automatisch 'Kalashnikov'.
+Speech_0011L=Wie meinst du das?
+Speech_0012L=Auf mich sind schon genug AKs abgefeuert worden, um sagen zu können, dass das keins war.
+Speech_0013L=Verstanden. Versuche herauszufinden, ob es hinsichtlich der feindlichen Ausrüstung Auffälligkeiten gibt und halte uns auf dem Laufenden.
+Speech_0102L=Das hat sich nicht wie Feuer aus einem AK angehört, Fisher. Finde heraus, ob diese Guerillas außergewöhnliche Ausrüstung besitzen und woher sie sie haben könnten.
+Speech_0128L=Diese Guerillas besitzen echtes Hightech-Equipment, Sam. Schau mal, ob du die Waffenkisten mit deinem EEV scannen kannst.
+Speech_0001L=Ich glaube, du hattest Recht, was ihre Waffen anging, Sam.
+Speech_0002L=Ja ... die haben hier eine nette kleine Sammlung Hightech-Equipment.
+Speech_0003L=Du musst herausfinden, woher es stammt. Sieh nach, ob sich an den Kisten SSCC-Strichcodes befinden und scanne sie mit deinem EEV.
+Speech_0103L=Diese Guerillas besitzen echtes Hightech-Equipment, Sam. Schau mal, ob du die Waffenkisten mit deinem EEV scannen kannst.
+Speech_-001L=(null)
+Speech_0014L=Dem SSCC-Code zu Folge, handelt es sich um Kiste eins von fünf. Versuche die anderen vier zu finden.
+Speech_0015L=Ich tue mein Bestes.
+Speech_-001L=(null)
+Speech_0016L=Das sind vier von den fünf Kisten, Sam. Suche nach der letzten.
+Speech_0129L=Das scheint die letzte Kiste gewesen zu sein, Fisher, gute Arbeit.
+Speech_0018L=Gute Arbeit, Fisher. Wenn es uns gelingt, die Informationen, die du anhand dieser Kisten gesammelt hast, zu analysieren, können wir die Arbeit einer Menge Leute ein ganzes Stück sicherer machen.
+Speech_0019L=Wie kommt es, dass nie jemand etwas tut, um meine Arbeit sicherer zu machen?
+Speech_0020L=Wenn du willst, stelle ich noch ein paar Analysten ein, die dann mit dir zusammenarbeiten ...
+Speech_0021L=Wenn ich so drüber nachdenke ... finde ich Gefahr gar nicht so übel.
+Speech_0104L=Das scheint die letzte Kiste gewesen zu sein, Fisher, gute Arbeit.
+Speech_0130L=Morgenholt ist tot. Es gibt nichts, was du hättest tun können. Lass die Leiche zurück.
+Speech_0022L=Das hört sich nicht gut an, Fisher.
+Speech_0023L=Die Geräuschkulisse ist nicht das Problem... du solltest hier mal riechen...
+Speech_0024L=Bist du sicher, dass er tot ist?
+Speech_0025L=Toter als Elvis.
+Speech_0026L=OK, lass die Leiche zurück. Wir müssen versuchen, alle Informationen zu sichern, die bei den Verhören zu Tage gefördert wurden. Grim wird sich wieder bei dir melden.
+Speech_0105L=Morgenholt ist tot. Es gibt nichts, was du hättest tun können. Lass die Leiche zurück.
+Speech_-001L=(null)
+Speech_0027L=Fisher ... Ich sagte, du sollst die Leiche zurücklassen ... wir haben nicht die Möglichkeit, sie da herauszuholen.
+Speech_0028L=Nur, weil er tot ist, heißt das noch lange nicht, dass ich ihn hier wie ein Stück Fleisch hängen lassen muss.
+Speech_0029L=Verliere jetzt bloß nicht die Distanz zum Geschehen, Fisher. Du musst einen klaren Kopf behalten.
+Speech_0030L=Es wird uns doch wohl noch Zeit für ein wenig Würde bleiben.
+Speech_-001L=(null)
+Speech_0031L=Sam! Was tust du da?
+Speech_0032L=Ich stelle sicher, dass er nicht leidet.
+Speech_0033L=Es ist nicht gerade eine gute Idee, Spuren von NATO-Munition in seinem Körper zu hinterlassen... lass die Finger von ihm und setz dich in Bewegung.
+Speech_0034L=Schon unterwegs.
+Note_0121L=Lacerda hat den Bereich auf einem Schiff verlassen.
+Speech_0131L=Sam, es sieht so aus, als hätte sich Lacerda schon längst aus dem Staub gemacht. Dieses Einsatzziel hat sich vorerst erledigt.
+Speech_0035L=Ich wissen wir es wohl mit Sicherheit, Fisher.
+Speech_0040L=Ja ... scheint, als wäre Lacerda schon lange weg.
+Speech_0041L=Wir werden sehen, ob wir ihn durch Echelon aufspüren können ... mach dir um ihn keine Gedanken. Wir halten dich auf dem Laufenden.
+Note_0126L=Lacerda hat den Bereich auf einem Schiff verlassen.
+Speech_-001L=(null)
+Speech_0106L=Sam, es sieht so aus, als hätte sich Lacerda schon längst aus dem Staub gemacht. Dieses Einsatzziel hat sich vorerst erledigt.
+Note_0140L=Die Guerilleros haben kein Alarmsystem installiert.
+Speech_-001L=(null)
+Speech_0042L=Wie es aussieht, haben sich die Guerillas nur vorübergehend eingerichtet. Kaum wahrscheinlich, dass sie irgendeine Art von Alarmsystem installiert haben. 
+Speech_0107L=Gut.
+Note_0141L=Der Exfiltrationspunkt befindet sich oben auf dem Leuchtturm, der ausgeschaltet sein muss.
+Speech_-001L=(null)
+Speech_0045L=Fisher, du hast deine Primärziele erfüllt. Sobald du bereit bist, können wir dich da rausholen. Gib dem Helikopter von der Spitze des Leuchtturms aus das Signal... Sorge aber zuerst dafür, dass das Licht aus ist.
+Speech_0108L=Mach ich.
+Note_0142L=Die von Morgenholt preisgegebenen Informationen sind irgendwo auf einem Server gespeichert.
+Speech_0132L=Sam, wir müssen alle Informationen löschen, die dieser Techniker auf einen Server übertragen haben könnte.
+Speech_0046L=Sam, hier Grim. Wir müssen sicherstellen, dass, was auch immer Morgenholt ihnen über Masses Algorithmen verraten haben mag, diesen Ort niemals verlassen wird.
+Speech_0047L=OK.
+Speech_0048L=Ich habe einen HF-Funk-Link entdeckt, der von einem Techniker stammt, der den Raum kurz vor deinem Eintreffen verlassen hatte.
+Speech_0049L=Der Techniker, den du gerade erledigt hast, hatte vor einigen Minuten einen HF-Funk-Link etabliert.
+Speech_0050L=Ich soll also jegliche Daten sichern, die er vielleicht auf ihre Server hochgeladen haben könnte?
+Speech_0051L=Genau.
+Speech_0109L=Sam, wir müssen alle Informationen löschen, die dieser Techniker auf einen Server übertragen haben könnte.
+Speech_-001L=(null)
+Speech_0052L=Dies ist der Server, auf den der Techniker die Verhörprotokolle übertragen hat. Versuche darauf zuzugreifen.
+Speech_0053L=Was soll ich tun?
+Speech_0054L=Du musst darauf zugreifen und die Daten vernichten.
+Speech_-001L=(null)
+Speech_0110L=Dies ist der Server, auf den der Techniker die Verhörprotokolle übertragen hat. Versuche darauf zuzugreifen.
+Speech_0133L=Das erledigt alle Kopien, die der Techniker vielleicht von Morgenholts Daten angelegt haben mag.
+Speech_0063L=Gute Arbeit, das hat alles gelöscht, was Morgenholt ihnen verraten haben könnte.
+Speech_0064L=Werden sie sich nicht fragen, was damit geschehen ist?
+Speech_0065L=Es war kein Problem, deinen kleinen Eingriff wie einen gewöhnlichen Speicherfehler aussehen zu lassen ... keine Sorge ... wir geben dir nur die besten Werkzeuge in die Hand.
+Speech_0111L=Das erledigt alle Kopien, die der Techniker vielleicht von Morgenholts Daten angelegt haben mag.
+Speech_0134L=Die Guerillas scheinen mit einem Frachter namens Maria Narcissa in Kontakt zu stehen. Wir ermitteln gerade ihre Position ... vielleicht müssen wir dich dort hinschicken.
+Speech_0066L=Maria Narcissa ...
+Speech_0067L=Ich hoffe, ihr versucht nicht schon wieder ein Blind Date für mich zu arrangieren.
+Speech_0068L=Die Maria Narcissa ist ein häßlicher alter Kahn.
+Speech_0069L=Das war das Mädchen bei der letzten Verabredung auch.
+Speech_0070L=Fisher!
+Speech_0071L=Ja, schon gut. Entschuldigung.
+Speech_0072L=Die Maria Narcissa ist ein Frachter ... im Besitz von ... Celestina Inc. ... einer portugiesischen Transportfirma ... er ist... auf den Philippinen registriert ... transpazifische Frachtverträge ... eine Menge Details fehlen.
+Note_0124L=Die Waffen wurden von einem Frachter namens Maria Narcissa geliefert.
+Speech_0073L=Klingt verdächtig ...
+Speech_0074L=Klingt, als hätte ich doch wieder ein Blind Date ...
+Speech_0075L=Kann’s kaum erwarten, sie zu treffen.
+Speech_0112L=Die Guerillas scheinen mit einem Frachter namens Maria Narcissa in Kontakt zu stehen. Wir ermitteln gerade ihre Position ... vielleicht müssen wir dich dort hinschicken.
+Speech_0135L=Fisher ... du hast ihre Kommunikationsanlage zerstört, aber wir müssen wissen, mit wem sie gesprochen haben. Sieh zu, ob du ihr Funkprotokoll irgendwo finden kannst.
+Speech_0076L=Fisher ... Ich glaube, du hast gerade ihre Kommunikationsanlage in die Luft gejagt.
+Speech_0077L=Gut ... dann können sie nicht mehr um Hilfe rufen.
+Speech_0078L=Das stimmt, aber jetzt können sie auch nicht mehr mit den Schmugglern in Kontakt treten, mit denen sie Geschäfte machen. Versuche herauszufinden, ob’s irgendwo ein Funkprotokoll gibt.
+Speech_0081L=OK, ich werde mich hier mal umsehen
+Speech_0113L=Fisher ... du hast ihre Kommunikationsanlage zerstört, aber wir müssen wissen, mit wem sie gesprochen haben. Sieh zu, ob du ihr Funkprotokoll irgendwo finden kannst.
+Speech_0136L=Ich glaube, du hast gerade ihren Funker erledigt. Wir müssen wissen, mit wem sie gesprochen haben. Sieh zu, ob du ihr Funkprotokoll irgendwo finden kannst.
+Speech_0082L=Verdammt ... Du hast gerade ihren Funker getötet.
+Speech_0083L=Er hat so gewollt.
+Speech_0084L=Nun, jetzt wird es ziemlich schwer herauszufinden, woher die Waffen geschmuggelt wurden. Du solltest besser ihr Funkprotokoll überprüfen. Vielleicht bewahren sie irgendwo eine Datenkopie auf.
+Speech_0085L=OK, ich werde mich hier mal umsehen
+Speech_0114L=Ich glaube, du hast gerade ihren Funker erledigt. Wir müssen wissen, mit wem sie gesprochen haben. Sieh zu, ob du ihr Funkprotokoll irgendwo finden kannst.
+
+
+Speech_0137L=Gute Idee, Fisher. Ohne Kommunikationstechnik können sie den anderen Zellen nicht mitteilen, dass sie angegriffen wurden.
+Speech_0086L=Gute Idee, Fisher. Ohne Kommunikationstechnik können sie den anderen Zellen nicht mitteilen, dass sie angegriffen wurden.
+Speech_0087L=Das war der Gedanke dabei.
+Speech_0088L=Immer einen Schritt voraus.
+Speech_0089L=Der Tag, an dem ich zurückbleibe, ist der Tag, an dem ich nicht nach Hause komme.
+Speech_0115L=Gute Idee, Fisher. Ohne Kommunikationstechnik können sie den anderen Zellen nicht mitteilen, dass sie angegriffen wurden.
+Speech_0138L=Das Funkgerät und der Funker sind ausgeschaltet, aber wir müssen wissen, mit wem sie kommuniziert haben. Sieh nach, ob du ihr Funkprotokoll irgendwo finden kannst.
+Speech_0090L=Wow ... das war heftig.
+Speech_0091L=Funker und Funkgerät auf einen Schlag ... ich hielt das für eine gute Verwertung der Ressourcen.
+Speech_0092L=Ich glaube, er war gerade dabei, die Waffenschmuggler anzufunken.
+Speech_0093L=Oh. Upps.
+Speech_0094L=Egal, sieh nach, ob es irgendwo ein Funkprotokoll gibt.
+Speech_0095L=OK, ich werde mich hier mal umsehen
+Speech_0096L=Und halte dich zurück, Fisher ... als du jünger warst, hast du nicht so gewütet.
+Speech_0097L=Die bösen Jungs sind erwachsen geworden ... Ich musste mich anpassen.
+Speech_0116L=Das Funkgerät und der Funker sind ausgeschaltet, aber wir müssen wissen, mit wem sie kommuniziert haben. Sieh nach, ob du ihr Funkprotokoll irgendwo finden kannst.
+Speech_-001L=(null)
+Speech_0098L=Wow ... das war heftig ...
+Speech_0099L=Funker und Funkgerät auf einen Schlag ... ich hielt das für die bestmögliche Nutzung unserer Ressourcen.
+Speech_0100L=Mag sein ... aber es war nicht gerade die sauberste Lösung.
+Speech_0101L=Die Welt ist ein schmutziger Ort, Grim.
+Speech_-001L=(null)
+Speech_0117L=Fisher, wir haben jetzt nicht die Zeit, all diese Ordner zu durchsuchen ... versuche die Informationen in einer etwas handlicheren Form zu finden.
+Note_0120L=Einige Guerillas setzen ungewöhnlich moderne Waffen ein.
+Note_0122L=Die Guerillas haben kein Alarmsystem aufgebaut.
+Note_0123L=Der Exfiltrationspunkt befindet sich oben auf dem Leuchtturm, der ausgeschaltet sein muss.
+Note_0125L=Die von Morgenholt preisgegebenen Informationen sind irgendwo auf einem Server gespeichert.
+
+[P_01_Lighthouse_DeathControl]
+
+[P_01_Lighthouse_IntCaptain]
+Speech_-001L=(null)
+Speech_0001L=He da, du siehst wichtig aus.
+Speech_0002L=Ich bin loyal. Sie werden von mir keine Informationen erhalten.
+Speech_0003L=Wirklich? Hmmm ... sieht so aus, als hättest du heute Morgen vergessen, dich zu rasieren. Lass mich dir ein wenig helfen.
+Speech_0004L=Ha! Sie können nicht ... Hey! .... Was tun sie da??? Okay! Okay ... Was wollen Sie wissen?
+Speech_0005L=Ich suche nach Lacerda. Er hat sich in letzter Zeit sehr schlecht benommen.
+Speech_0006L=Nun, Sie verschwenden Ihre Zeit, Amerikaner. Er ist vor einer Stunde in einem Boot weggefahren. Er könnte jetzt überall sein.
+Speech_0007L=Dann werde ich ihm wohl einfach folgen müssen. Keine Sorge, er wird nicht entkommen.
+Speech_0008L=Viel Spaß beim Schwimmen.
+Speech_0009L=Ich hoffe, das Wasser ist warm.
+Speech_-001L=(null)
+Speech_0010L=(null)
+Speech_-001L=(null)
+Speech_0011L=(null)
+Speech_-001L=(null)
+Speech_0012L=(null)
+
+[P_01_Lighthouse_IntCaveGuard]
+Speech_-001L=(null)
+Speech_0001L=Hat dir keiner gesagt, dass es gefährlich ist, sich in Höhlen herumzutreiben?
+Speech_0002L=Oh nein ... Sie werden mich töten, nicht wahr?
+Speech_0003L=Nur wenn du das Wort 'Affe' aussprichst. Und jetzt sag mir etwas, das ich wissen will.
+Speech_0006L=Uh ... Munition oder Erste-Hilfe-Ausrüstung ... schauen Sie in der Festung nach ... die haben da drin Tonnen von dem Zeug.
+Note_0015L=Arznei, Verbandsmaterial und Munition befinden sich im Lager.
+Speech_0007L=Einige von euch Kerlen sind wirklich hilfsbereit ... warum müsst ihr für die Bösen arbeiten?
+Speech_0008L=Sie sind der amerikanische Unterdrücker ... Sie sind der Böse.
+Speech_0009L=Wirst du 'Affe' sagen?
+Speech_0010L=Was? Nein ...
+Speech_0011L=Dann ist dieses Gespräch beendet.
+Speech_0012L=Bitte töten sie mich nicht ... bitte
+Speech_0014L=Das ist alles, was ich weiß ... ich schwöre es.
+
+[P_01_Lighthouse_IntHighTechGun]
+Speech_-001L=(null)
+Speech_0001L=Nettes Teil ... wo hast du es her?
+Speech_0002L=Oh Gott ... keine Ahnung ... ich weiß wirklich nicht ...
+Speech_0003L=Das ist aber schlecht für dich ...
+Speech_0004L=Ah! Wenn ich es wüsste, würde ich es Ihnen sagen ... ich schwöre ... bitte töten Sie mich nicht!
+Speech_0005L=Na schön ... wenn du nicht weißt, woher die Waffen kommen, dann sag mir etwas Anderes, das mir von Nutzen ist.
+Speech_0006L=Uh ... uh ... Morgenholt! Morgenholt ... Sie müssen wegen ihm hier sein ... er befindet sich einen Raum weiter ... Ich glaube, sie foltern ihn.
+Speech_0007L=Foltern ihn, hm ... danke für die Information.
+Note_0014L=Morgenholt wird gefoltert.
+Speech_0008L=K ... k ... keine Ursache ...
+Speech_0009L=Ich sag's dir ja nur ungern ... aber diese Nachricht kommt ein wenig zu spät ...
+Speech_0010L=Oh ... oh ... nein ...
+Speech_0012L=Ich habe es nicht verdient, zu sterben.
+Speech_0013L=Ich habe keine weiteren Informationen ... ich schwöre es ...
+
+[P_01_Lighthouse_IntRadioRoom]
+Speech_-001L=(null)
+Speech_0001L=Mit wem hast du gesprochen?
+Speech_0002L=Was ... wer sind Sie?
+Speech_0003L=Ich bin der Kerl, der dir die Knie zertrümmert, wenn du mir nicht sagst, mit wem du gesprochen hast.
+Speech_0004L=Oh Gott ... uh ... es war Lacerda ... Hugo Lacerda.
+Speech_0005L=Wo ist er?
+Speech_0006L=Er ist an Bord des Schiffes ... der Maria Narcissa ...
+Speech_0007L=Warum?
+Speech_0008L=Waffen ... er liefert die neuen Waffen an die anderen Zellen.
+Speech_0009L=Wenn ich herausfinden sollte, dass du lügst, sehen wir uns wieder.
+Speech_0010L=Oh Gott ... bitte ...
+Speech_0011L=Ich schwöre, Lacerda ist nicht hier.
+Speech_0012L=Mehr weiß ich nicht.
+
+[P_01_Lighthouse_IntThunder]
+Speech_-001L=(null)
+Speech_0001L=Buh.
+Speech_0002L=Ah ... ich wusste, das Sie kommen würden ...
+Speech_0003L=Was?
+Speech_0004L=Mein ganzes Leben ... mein ganzes Leben habe ich auf den Moment gewartet, an dem Sie im Donner und der Dunkelheit kommen und zu Ende bringen würden, was Sie einst begonnen haben.
+Speech_0005L=Wovon sprichst du?
+Speech_0006L=Sie sind einer von ihnen ... einer von den Amerikanern, die meine Familie getötet haben ... und jetzt sind Sie zurückgekehrt, mich zu holen.
+Speech_0007L=Uh ... Ich glaube nicht ...
+Speech_0008L=Tun Sie, was Sie wollen ... ich habe immer gewusst, dass es so enden würde ... ich bin bereit zu sterben.
+Speech_0009L=Du bist mir unheimlich.
+Speech_0010L=Töten Sie mich, ich sehne mich danach, meine Familie wiederzusehen.
+Speech_0011L=Vater, ich komme ...
+Speech_0012L=Mutter, ich komme ...
+
+[P_01_Lighthouse_IntTorture]
+Speech_-001L=(null)
+Speech_0017L=Warum hast du Morgenholt gefoltert?
+Speech_0018L=Ah! Uh ... Lacerda ... er will Algorithmen ... irgend so einen Computer-Algorithmus ...
+Note_0028L=Morgenholt wurde gefoltert, damit er Informationen über Masse-Kernels preisgab.
+Speech_0019L=Was will ein zweitklassiger, kommunistischer Revolutionär mit einem Computer-Algorithmus?
+Speech_0020L=Das weiß ich nicht ... ich glaube, nicht einmal Lacerda selbst weiß das ... ich glaube, dass uns vielleicht jemand angeheuert hat.
+Speech_0021L=Wie kommst du darauf?
+Speech_0022L=Ich weiß nicht ... Lacerda ... er hat eine Menge Geschäfte gemacht ... irgendwas geht da vor ... ich weiß nur nicht was.
+Speech_0023L=Aber du weißt nicht, mit wem er gesprochen hat?
+Speech_0024L=N ... nein ...
+Speech_0025L=Dann bist du mir nicht länger von Nutzen.
+Speech_0026L=Ich habe Ihnen alles gesagt ... bitte töten Sie mich nicht.
+Speech_0027L=Seien Sie gnädig ... bitte ...
+Speech_-001L=(null)
+Speech_0029L=(null)
+Speech_-001L=(null)
+Speech_0030L=(null)
+Speech_-001L=(null)
+Speech_0031L=(null)
+
+[P_01_Lighthouse_IntTortureGuard]
+Speech_-001L=(null)
+Speech_0001L=Ich kann dich schon jetzt nicht leiden ... mach es nicht noch schlimmer für dich.
+Speech_0002L=Wer ... wer sind Sie?
+Speech_0003L=Halt die Klappe. Warum hast du Morgenholt gefoltert?
+Speech_0004L=Lacerda hat uns den Auftrag gegeben.
+Speech_0005L=Warum? Was will er wissen?
+Speech_0006L=Mathematik ... Programmierzeugs ... ich hab' keine Ahnung davon.
+Speech_0007L=Du bist einfach der tumbe Kerl, der den Leuten gerne weh tut?
+Speech_0008L=Ge ... genau.
+Speech_0009L=Fällt dir irgendein Grund ein, warum die Welt ohne dich kein besserer Ort wäre?
+Speech_0010L=Uh ... bitte ... Ich ...
+Speech_0011L=Hatte ich auch nicht erwartet.
+Speech_0016L=Bitte töten Sie mich nicht ... bitte.
+Speech_0017L=Lacerda hat uns gezwungen ...
+
+[P_01_Lighthouse_IntWelderTech]
+Speech_-001L=(null)
+Speech_0001L=Na, was machst du gerade?
+Speech_0002L=Ah! Oh Gott ... wer sind sie?
+Speech_0003L=Diese Frage wird langsam langweilig. Warum antwortest du nicht einfach auf meine?
+Speech_0004L=Uh ... Ich ... uh ... ich versuche dieses Tor aufzuschneiden, damit ich an die Stromkabel im Innern komme ...
+Speech_0005L=Uh ... Ich ... uh ... ich versuche dieses Stromkabel vom Leuchtturm anzuzapfen.
+Speech_0006L=Uh ... Ich ... uh ... ich gehe zurück zum Server und überprüfe die Stabilität der neuen Leitung.
+Speech_0007L=Warum?
+Speech_0008L=Die Energie für den Hauptserver im südwestlichen Turm ist nicht stabil ... wir müssen die Daten schützen.
+Speech_0009L=Hm ... ich habe schlechte Nachrichten für dich ... ich habe mich bereits um die Daten auf deinem Server gekümmert ...
+Speech_0010L=Oh, nein ... Lacerda wird mich umbringen ...
+Speech_0011L=Ich glaube, du solltest dir mehr Sorgen wegen mir machen, als wegen Lacerda ...
+Speech_0012L=Südwestlicher Turm, hm? Weißt du was, ich gehe dorthin zurück und vernichte die Daten, dann musst du dir deswegen keine Sorgen mehr machen ... wie hört sich das an?
+Speech_0013L=Habe ich eine Wahl?
+Speech_0014L=Du könntest um Hilfe rufen und mich zwingen, dich zu töten.
+Speech_0015L=Ich verzichte ...
+Speech_0016L=Wenn Sie es tun müssen ... töten Sie mich schnell ...
+Speech_0017L=Lassen Sie mich nicht leiden.
+
+[P_01_Lighthouse_KeepWaiting]
+
+[P_01_Lighthouse_Master]
+Speech_-001L=(null)
+Speech_0001L=Fisher, ein amerikanischer Ingenieur namens Bruce Morgenholt wurde von einer peruanischen Separatistengruppe entführt, die sich die 'Stimme des Volkes' nennt. Ihr mutmaßlicher Anführer, Hugo Lacerda, ist ein hartgesottener Revolutionär, der den Information Warfare als die einzig wirksame Methode zur Durchführung einer Revolution in der modernen Gesellschaft hÄlt und dies auch offen propagiert. Du musst dich dorthin begeben und jegliche Informationen, die man Morgenholt abgepresst haben könnte, sichern oder vernichten und den Mann, falls möglich, retten. Was Lacerda angeht ... er hat sich gerade auf unsere Liste möglicher Ziele befördert. Also, wenn sich die Gelegenheit bietet, nutze sie.
+Speech_0002L=Geiselrettung fällt normalerweise nicht in unseren Aufgabenbereich, aber Morgenholt gehörte dem Projekt Watson an, der UN-Kommission, die Phillip Masses Arbeit nach der Sache in Georgien untersuchte. Man fürchtet, dass diese Entführung nur der Verschleierung dient und man Morgenholt geheime Informationen über Masses Kernels erhalten will. Tatsache ist, dass einige der Spielereien, die sich Masse ausgedacht hat, eine Menge Schaden anrichten könnten. Wir müssen um jeden Preis verhindern, dass diese Informationen in fremde Hände gelangen.
+Speech_0003L=Das Zielgebiet ist ein Leuchtturm, der sich unmittelbar neben einer verlassenen Festungsanlage aus der spanischen Kolonialzeit befindet. Wir besitzen keine exakten Informationen über Morgenholts Aufenthaltsort, du musst ihn also selbst finden. Du wirst bei Nacht mit dem Zodiac an den Strand unterhalb der Festung fahren. Wärmebilder zeigen, dass sich unter der Anlage einige alte natürliche und halb-natürliche Höhlen befinden, vielleicht führt über diese ein Weg hinein.
+Speech_0004L=In Ordnung, Fisher, der Helikopter wird Sie einen Kilometer vor der Küste mit dem Zodiac absetzen. Die Extraktion erfolgt dann per Helikopter von der Spitze des Leuchtturms aus.
+Speech_0005L=Displace International unterhält mit Wright Pritchard Technologies einen Vertrag zum Schutze ihrer VIPs in potentiell GefÄhrlichen Situationen. Wir haben für das Projekt in Peru eine gründliche Lageanalyse durchgeführt und den Schutz Morgenholts übernommen. Die Kerle, die ihn entführt haben, wussten genau was sie taten, das war keine einfache Touristenentführung. Ich habe bei der Aktion drei gute Männer verloren und bereite gerade einen Rettungsplan vor, den ich nur noch durch Morgenholts Familie und Wright Pritchard absegnen lasssen muss. Diese Sache wird Displace eine Menge Geld kosten.
+Speech_0006L=... weitere Meldungen ... internationale Rettungskräfte im Einsatz nach dem Erdbeben im Iran am Donnerstag wurden entlassen, nachdem Gerüchte aufkamen, dass europäische Agenten unter dem Deckmantel des Hilfseinsatzes die Ruinen einheimischer Regierungsgebäude durchsuchten, die bei dem Beben zerstört worden waren ...
+Speech_0007L=... vor mehreren Stunden ging der Kontakt zur ISS verloren, infolge eines Ereignisses, das jetzt als möglicher Zusammenstoß mit einem Mikrometeor gemeldet wurde. Vertreter der NASA überprüfen zurzeit, dass kein orbitaler Abfall aus vorherigen Raummissionen für den Unfall verantwortlich ist. Bisher konnte weder zu den Astronauten an Bord, noch zu dem Shuttle, dass an der Station angedockt ist, Kontakt hergestellt werden.
+
+[P_01_Lighthouse_NPCControl]
+
+[P_01_Lighthouse_NPCControl2]
+
+[P_01_Lighthouse_Objectives]
+Objective_0024=Retten Sie Morgenholt.
+Objective_0025=Falls möglich, befreien Sie Bruce Morgenholt aus den Händen der Guerillas. Das Missionsziel hat jedoch absolute Priorität.
+Objective_0001=Stellen Sie die Informationen über die Masse-Kernels sicher, oder vernichten Sie sie.
+Objective_0016=Alle Informationen, die Morgenholt den Guerillas verraten hat, müssen sichergestellt oder vernichtet werden. Sind Kopien vorhanden, müssen diese von den Computern oder Servern gelöscht werden.
+Objective_0005=Eliminieren Sie Hugo Lacerda.
+Objective_0018=Hugo Lacerda wurde auf die Liste möglicher Ziele von Third Echelon gesetzt. Nutzen Sie jede sich bietende Gelegenheit, um ihn von der Liste zu entfernen.
+POPUPMESSAGE_0026=Retten Sie Morgenholt.
+Objective_0011=Finden Sie heraus, woher die Guerilleros ihre Waffen und Ausrüstung bekommen.
+Objective_0019=Die Guerillas haben anscheinend Waffen aus einer unbekannten Quelle erhalten. Möglicherweise handelt es sich um eine Belohnung für die Entführung von Morgenholt. Finden Sie heraus, woher die Waffen stammen.
+POPUPMESSAGE_0027=Finden Sie heraus, woher die Guerillas ihre Waffen und Ausrüstung bekommen.
+Objective_0008=Scannen Sie die SSCC-Strichcodes auf den gelieferten Kisten.
+Objective_0020=Durchsuchen Sie, manuell oder mit Ihrem EEV, alle Behälter, die an Lacerda gelieferte Waffen enthalten können..
+Objective_0010=Stellen Sie die Informationen über die Masse-Kernels sicher, oder vernichten Sie sie.
+Objective_0013=Schalten Sie die Kommunikations-einrichtungen der Guerillas aus.
+Objective_0021=(null)
+Objective_0014=Schalten Sie die Kommunikations-einrichtungen der Guerillas aus.
+Objective_0022=(null)
+Objective_0033=Begeben Sie sich zum primären Exfiltrationspunkt.
+Objective_0034=Das Operationsgebiet verlassen Sie vom Dach des Leuchtturms aus. Vorher müssen Sie die obere Plattform säubern und das Turmlicht ausschalten.
+POPUPMESSAGE_0029=Verlassen Sie das Einsatzgebiet über den primären Extraktionspunkt.
+POPUPMESSAGE_0030=Stellen Sie die Informationen über Masses Kernels sicher oder vernichten Sie sie.
+POPUPMESSAGE_0035=DER EEV SCANNT OBJEKTE UND INFORMIERT SIE ÜBER DEREN EIGENSCHAFTEN.
+POPUPMESSAGE_0031=Scannen Sie die SSCC-Strichcodes auf den gelieferten Kisten.
+POPUPMESSAGE_0032=Verlassen Sie das Einsatzgebiet über den primären Extraktionspunkt.
+Objective_0003=Retten Sie Morgenholt.
+Objective_0015=Begeben Sie sich zum primären Exfiltrationspunkt.
+Objective_0017=Falls möglich, befreien Sie Bruce Morgenholt aus den Händen der Guerillas. Das Missionsziel hat jedoch absolute Priorität.
+Objective_0023=Das Operationsgebiet verlassen Sie vom Dach des Leuchtturms aus. Vorher müssen Sie die obere Plattform säubern und das Turmlicht ausschalten.
+
+[P_01_Lighthouse_RadioPlay]
+
+[P_01_Lighthouse_SamProgress]
+Speech_-001L=(null)
+Speech_0001L=(null)
+Speech_-001L=(null)
+Speech_0002L=(null)
+Speech_-001L=(null)
+Speech_0003L=(null)
+Speech_-001L=(null)
+Speech_0004L=(null)
+Speech_-001L=(null)
+Speech_0005L=(null)
+
+[P_01_Lighthouse_SRCAboutGirl]
+Speech_-001L=(null)
+Speech_0001L=Also ... äh ... erinnerst du dich an die kleine Chiquita aus der Bar letzten Freitag?
+Speech_0002L=Die mit dem engen T-Shirt ... wie könnte ich die vergessen?
+Speech_0003L=Sie hat angerufen, Mann! Wir gehen zusammen essen. Werde sie ins Rick's ausführen, Mann.
+Speech_0006L=Rick's? Das ist 'n teurer Laden.
+Speech_0007L=He he ... für mein Baby ist nichts zu teuer ... aber äh ....
+Speech_0008L=Aber was?
+Speech_0009L=Meinst ... äh, meinst du, du könntest mir ein bisschen Geld borgen, bis wir unseren Lohn erhalten?
+
+[P_01_Lighthouse_SRCAstronauts]
+Speech_-001L=(null)
+Speech_0001L=Zu schade, dass es bewölkt ist.
+Speech_0002L=Warum?
+Speech_0003L=Es heißt, dass wir uns auf dem richtigen Breitengrad befinden, um zu sehen, wie die Trümmer in die Atmosphäre eintreten.
+Speech_0004L=Trümmer? Wovon redest du?
+Speech_0005L=Madre de Dios, hast du es nicht gehört? Die Internationale Raumstation ... es hat einen Unfall gegeben ... Sie haben Funkkontakt verloren und haben bestätigt, dass es ernsthafte Schäden gibt. Sie erwarten den Trümmerregen irgendwann heute Abend.
+Speech_0006L=Hmm... Im Stolz des Denkens unser Fehler liegt. Das Diesseits jeder flieht, 'gen Himmel fliegt.
+Speech_0007L=Denn der Allherrscher schleudert als Feuerbrand ihn häuptlings aus dem Himmel, der Allmacht in die Schranken durfte fordern ...
+Speech_0008L=Oh ... und ich dachte, ICH sei hier der Literaturfreund ...
+Speech_0009L=Bildung macht den Unterschied zwischen einem Revolutionär und einem Terroristen ...
+
+[P_01_Lighthouse_SRCSoccerPlayer]
+Speech_-001L=(null)
+Speech_0001L=Hast du die Zeitung gelesen?
+Speech_0002L=Nein, was gibt es denn?
+Speech_0003L=Es ... es ... es geht um Hernandez.
+Speech_0004L=Hernandez?! Nein! Ist er verletzt?
+Speech_0005L=Schlimmer ...
+Speech_0006L=Nein! Tot?!
+Speech_0007L=... schlimmer ... sie haben ihn an Atletico Melgar verkauft.
+Speech_0008L=Verkauft?! Niemals!! Unmöglich! Das glaube ich nicht!
+Speech_0009L=Ich schwöre, es ist die Wahrheit ...
+Speech_0010L=Wenn du dich irrst ... ich schwöre bei der Ehre meiner Schwester, dass ich dir den Kopf abschneiden und ihn als Bowlingkugel verwenden werde.
+Speech_0011L=Es ist wahr ... lies in der Zeitung nach ...
+Speech_0012L=Ich bringe mich um.
+

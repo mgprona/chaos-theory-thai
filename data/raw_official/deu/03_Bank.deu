@@ -1,0 +1,71 @@
+[GENERAL]
+MapName=BANK
+Briefing=AUFGABE
+Briefing_LAMBERT=Fisher, Lacerda hatte seine Waffen von jemandem erhalten, der den Kauf zur Tarnung über eine panamaische Bank abwickelt hat. Ich würde gerne einen Blick in ihre Bücher werfen ... Unglücklicherweise ist das nicht so einfach. Diese Operation darf nicht wie eine Aktion des US-Geheimdienstes aussehen. Daher musst du, um die ganze Geschichte zu verschleiern, den Tresorraum der Bank aufbrechen und einige Inhaberobligationen mitgehen lassen, die Eigentum der französischen Regierung sind.
+Briefing_GRIMSDOTTIR=Ich bin letzte Nacht in die Computer der Bank eingedrungen. Leider hab ich nicht viel herausfinden können. Alle Arbeitsplätze sind mit Wechselrahmen ausgerüstet. Ich vermute, dass die Daten jede Nacht physisch gesichert werden. Es ist schon eine verrückte Welt, in der man größere Angst vor Hackern als vor Einbrechern hat ... Na ja, wie dem auch sei, sie bewahren die Festplatten vermutlich im Haupttresor auf. Wir werden wahrscheinlich nicht so leicht an sie herankommen.
+Briefing_REDDING=Zuerst die gute Nachricht. Du warst schon einmal in dieser Bank. Du gehörtest damals zu einer Einsatzgruppe der CIA, die 1989 dort rein ging, um nach einem Teil von Noriegas Drogengeldern zu suchen. Ein Großteil der Informationen, die wir über die Bank haben, stammen von deinem damaligen Team. Die schlechte Nachricht bei der ganzen Sache, die Bank ist gut gesichert. Laser, Bewegungsmelder, verschlossene Türen, Kameras, das ganze Programm. Nichts dabei, das es bereits 1989 schon gab ... Wir haben außerdem einen ... na ja ... Spezialisten ... kontaktiert, der dir beim Öffnen des Tresorraums helfen wird. Du solltest dich mit dem Knaben unterhalten.
+Briefing_PATRIDGE=Wir setzen unseren Kurs ins Gelbe Meer fort und schicken dich mit dem Helikopter nach Panama Stadt. Innerhalb des panamaischen Hoheitsgebiets besitzen wir keinerlei Autorität, daher wirst du verdeckt, von der Botschaft aus, agieren. Du und dein Partner werden in Panama auf euch selbst gestellt sein.
+Briefing_TURTLE=Hören Sie ... ich weiß nicht, wer Sie sind, oder warum ich Ihnen helfe, außer dass das immer noch besser ist, als an die Decke meiner Zelle zu starren. Ich hörte, dass Sie es mit einem Mason Wells 88 zu tun bekommen werden. Nun, das ist kein Job für einen einzelnen Mann ... aber man sagt mir, dass Sie die Arbeit von fünf Männern erledigen können. Schön, sage ich. Ihr Freund Willy hat auf meine Anordnung hin in einem Schließfach ein paar nützliche Gegenstände für Sie hinterlegt. Das Schließfach befindet sich im kleinen Tresorraum.
+
+
+[Interaction]
+IntExfiltrateOverWall=Über Mauer exfiltrieren
+IntOpenBox=Kiste öffnen
+IntEnableAccess=Zugang ermöglichen
+IntOpenPanel=Schalttafel öffnen
+
+[Computer]
+CompUploadFakeEmail=Gefälschte E-Mail hochladen
+CompDeactivateLaserGrid=Lasernetz deaktivieren
+CompPanamaCanalAdmFiles=Verwaltungsakten zum Panamakanal
+CompMCASTransactionFiles=MCAS-Transaktionsdateien
+CompActivateSprinklers=Sprinkler aktivieren 
+CompTurnOffVaultLights=Tresorlicht ausschalten
+CompOpenCage=Käfig öffnen
+CompDeactivateFan=Ventilator deaktivieren
+CompDeleteCameraArchives=Kameraarchive löschen
+CompDisableCameraSystem=Kamerasystem deaktivieren
+CompAccess=Zugriff
+CompObjective=Einsatzziel
+CompWNMOnlineService=WNM-Online-Service
+CompNews=Nachrichten
+CompAudio=Audio
+CompReception=Empfang
+CompFrontDoors=Vordertüren
+CompBankSide=Bankseite
+CompSecurity=Sicherheitskabine
+CompBackDoors=Hintertüren
+CompHall=Korridor
+CompLounge=Lounge
+CompSecretary=Büro der Sekretärin
+
+[Email]
+EmailMedkitsBody=Hey, Iago... Die neuen Erste-Hilfe-Schränke sind da. Spitzenklasse, aus amerikanischen Armee-Beständen. Wenn einer Durchfall hat, im Waschraum sind Tabletten und alles, was man sonst noch so braucht.
+EmailMedkitsDate=28. Juni 2007
+EmailMedkitsFrom=Emilio
+EmailMedkitsSubject=Neue Erste-Hilfe-Schränke
+EmailMedkitsTo=Iiago
+
+EmailDoorcodesBody=Wenn du Hermano oder Tajo heute Abend siehst, sag ihnen, dass sie ihren Türcode so schnell wie möglich ändern sollen. Komisch, beide Sicherheitskabinen auf dem ersten Geschoss hatten denselben Code, und zwar 3624. Das kann eigentlich kein Zufall sein...
+EmailDoorcodesDate=28. Juni 2007
+EmailDoorcodesFrom=Montegu
+EmailDoorcodesSubject=Türcodes ändern
+EmailDoorcodesTo=Iiago
+
+EmailSecurityBody=Korrekt. 2306 >>Nur zur Bestätigung... Der Code für den Sicherheitsraum ist heute Abend 2306, oder? >>Gaspar
+EmailSecurityDate=28. Juni 2007
+EmailSecurityFrom=Fonda
+EmailSecuritySubject=AW: Türcode für den Sicherheitsraum
+EmailSecurityTo=Gaspar
+
+EmailWNMaBody=Der chinesische Botschafter in den Vereinigten Staaten, Long Dan, wurde heute zu einer Krisensitzung zurückberufen. Man erwartet, dass Long Dan sich erneut bemühen wird, die asiatischen und amerikanischen Delegierten an den Verhandlungstisch zurückzubringen. 
+EmailWNMaDate=28. Juni 2007
+EmailWNMaFrom=WNM-Eilmeldung
+EmailWNMaSubject=Long Dan nach China zurückberufen
+EmailWNMaTo=Abonnenten
+
+EmailWNMbBody=Präsident Bowers hat heute auf der Hundeschau in Middlemount (Tennessee) dem vier Jahre alten "Talking Dog" das blaue Band für den ersten Preis verliehen.
+EmailWNMbDate=28. Juni 2007
+EmailWNMbFrom=WNM-Eilmeldung
+EmailWNMbSubject=Präsident von Talking Dog fasziniert
+EmailWNMbTo=Abonnent
