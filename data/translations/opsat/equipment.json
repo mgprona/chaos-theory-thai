@@ -1,0 +1,1447 @@
+{
+  "_meta": {
+    "category": "opsat",
+    "name": "equipment",
+    "sources": [
+      "Equipments"
+    ],
+    "total_strings": 164
+  },
+  "sections": {
+    "CATEGORIES": {
+      "_source": "Equipments",
+      "Category[0]": {
+        "en": "UNKNOWN",
+        "fr": "INCONNU",
+        "de": "UNBEKANNT",
+        "es": "DESCONOCIDO",
+        "it": "SCONOSCIUTO",
+        "th": ""
+      },
+      "Category[1]": {
+        "en": "PERMANENT",
+        "fr": "PERMANENT",
+        "de": "PERMANENT",
+        "es": "PERMANENTE",
+        "it": "PERMANENTE",
+        "th": ""
+      },
+      "Category[2]": {
+        "en": "MAINGUN",
+        "fr": "ARME PRINCIPALE",
+        "de": "HAUPTWAFFE",
+        "es": "ARMA PRINCIPAL",
+        "it": "ARMA PRINCIPALE",
+        "th": ""
+      },
+      "Category[3]": {
+        "en": "GADGETS",
+        "fr": "GADGETS",
+        "de": "GERÄTE",
+        "es": "ACCESORIOS",
+        "it": "DISPOSITIVI",
+        "th": ""
+      },
+      "Category[4]": {
+        "en": "ITEMS",
+        "fr": "OBJETS",
+        "de": "GEGENSTÄNDE",
+        "es": "OBJETOS",
+        "it": "OGGETTI",
+        "th": ""
+      }
+    },
+    "FN2000": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "SC-20K",
+        "fr": "SC-20K",
+        "de": "SC-20K",
+        "es": "SC20K",
+        "it": "SC-20K",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "SC-20K",
+        "fr": "SC-20K",
+        "de": "SC-20K",
+        "es": "SC20K",
+        "it": "SC-20K",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-20k Prototype Modular Assault Weapon. 5.56x45mm jacketed cartridges in 30 round magazine with bull-pup configuration. Integral 1.5x reflex sight and silencer, mounts modular attachments. Binary trigger mechanism for auto or semi-auto fire. Ejection port supports ambidextrous operation.",
+        "fr": "Fusil d'assaut modulaire SC-20K.\\n\\nBalles blindées 5.56x45mm par chargeurs de 30, configuration bull-pup (chargeur derrière la gâchette).\\n\\nViseur réflexe 1.5x et silencieux intégrés, possibilité d'accessoires.\\n\\nTir automatique ou semi-automatique.\\n\\nPort d'éjection prévu pour une utilisation ambidextre.",
+        "de": "SC-20K Modularer Sturmgewehr-Prototyp\\n\\n5.56x45mm Stahlmantelprojektile in 30-Schuss-Magazin. Bullpup-Konfiguration.\\n\\nIntegriertes 1,5x Reflexvisier und Schalldämpfer. Vorbereitung für Erweiterungsmodule.\\n\\nAbzugsgruppe für halb- und vollautomatisches Feuer.\\n\\nHülsenauswurf eignet sich für Einsatz an der rechten oder linken Schulter.",
+        "es": "Prototipo de arma modular de asalto SC20K.\\n\\nCartuchos de 5.56x45 mm en cargadores de 30 unidades y configuración bull-pup.\\n\\nMira réflex de 1.5x con silenciador y accesorios modulares.\\n\\nMecanismo doble de disparo para automático o semiautomático.\\n\\nLa zona de expulsión está diseñada para uso ambidiestro.",
+        "it": "Prototipo modulare da assalto SC-20K\\n\\nProiettili camiciati da 5,56x45mm in caricatori da 30 colpi in configurazione bull-pup.\\n\\nMirino reflex 1,5x e silenziatore, possibilità di moduli aggiuntivi.\\n\\nGrilletto binario per fuoco automatico o semi-automatico.\\n\\nLa porta di scarico supporta l'uso ambidestro.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FN2000AMMO": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "SC-20K Ammo Clip",
+        "fr": "Chargeur de SC-20K",
+        "de": "SC-20K Magazin",
+        "es": "Munición SC20K",
+        "it": "Caricatore per SC-20K",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "SC-20K Ammo Clip",
+        "fr": "Chargeur de SC-20K",
+        "de": "Magazin für SC-20K",
+        "es": "Cargador SC20k",
+        "it": "Caricatore SC-20K",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-20K Ammo Clip",
+        "fr": "Chargeur de SC-20K",
+        "de": "SC-20K Magazin",
+        "es": "Munición SC20K",
+        "it": "Caricatore per SC-20K",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FN7": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "SC Pistol",
+        "fr": "Pistolet SC",
+        "de": "SC Pistole",
+        "es": "Pistola SC",
+        "it": "Pistola SC",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "SC Pistol",
+        "fr": "Pistolet SC",
+        "de": "SC-Pistole",
+        "es": "Pistola SC",
+        "it": "Pistola SC",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC Prototype Pistol. 5.7x28mm jacketed cartridges in 20 round magazine with integral silencer. Grip configured for ambidextrous use. Prototype OCP mounted under barrel. OCP causes electrical differential potential on target, electrical surge causes circuit interference. Capacitor recharges over time.",
+        "fr": "Pistolet SC\\n\\nBalles blindées 5.7x28mm par chargeurs de 20, avec silencieux intégré.\\n\\nCrosse configurée pour un usage ambidextre.\\n\\nPrototype d'OCP monté sous le canon.\\n\\nl'OCP génère de violentes sautes de tensions au niveau de la cible.\\n\\nLa surcharge électrique provoque des interférences de circuit.\\n\\nLe condensateur se recharge au fil du temps.",
+        "de": "SC Pistolen-Prototyp.\\n\\n5,7x28mm Stahlmantelprojektile in 20-Schuss-Magazin. Integrierter Schalldämpfer\\n\\nKonfiguration für Links- und Rechtshänder\\n\\nOCP-Prototyp ist unter dem Lauf montiert.\\n\\nDas OCP erzeugt beim Aufprall auf das Ziel einen Potenzialabfall,\\n\\nder zu einem Kuzschluss und Interferenz führen kann.\\n\\nDer Kondensator lädt sich mit der Zeit selbst auf.",
+        "es": "Protipo de pistola SC.\\n\\nCartuchos de 5.7x28 mm en cargadores de 20 balas. Silenciador integrado.\\n\\nEmpuñadura para uso ambidiestro.\\n\\nPrototipo PO montado bajo el cañón.\\n\\nPO es un dispositivo de distorsión eléctrica que causa interferencias.\\n\\nEl condensador necesita un tiempo para recarga.",
+        "it": "Prototipo di pistola SC\\n\\nProiettili camiciati da 5,7x28mm in caricatori da 20 colpi con silenziatore integrato.\\n\\nImpugnatura adatta all'uso ambidestro.\\n\\nPrototipo di OCP montato sotto la canna.\\n\\nL'OCP genera differenze di potenziale elettrico nel bersaglio, \\n\\ne la scarica elettrica provoca interferenze nei circuiti.\\n\\nIl generatore si ricarica col tempo.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FN7AMMO": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "5.7mm Pistol Ammo Clip",
+        "fr": "Chargeur de pistolet 5.7mm",
+        "de": "5,7mm Pistolenmagazin",
+        "es": "Munición 5.7 mm pistola",
+        "it": "Caricatore per pistola da 5,7mm",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "5.7mm Pistol Ammo Clip",
+        "fr": "Chargeur de pistolet 5.7 mm",
+        "de": "5,7-mm-Magazin für Pistole",
+        "es": "Cargador 5.7mm pistola",
+        "it": "Caricatore pistola 5.7mm",
+        "th": ""
+      },
+      "Description": {
+        "en": "5.7mm Pistol Ammo Clip",
+        "fr": "Chargeur de pistolet 5.7mm",
+        "de": "5,7mm Pistolenmagazin",
+        "es": "Munición 5.7 mm pistola",
+        "it": "Caricatore per pistola da 5,7mm",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "SCOPE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "20mm Sniper Attachment",
+        "fr": "Acc. Sniper 20mm",
+        "de": "20mm-Scharfschützen-Modul",
+        "es": "Acc. 20 mm francotirador",
+        "it": "Modulo per tiro prec. da 20mm",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Sniper",
+        "fr": "FUSIL PRÉCIS.",
+        "de": "SCHARFSCH.",
+        "es": "FRANCOTIR.",
+        "it": "FUC. DI PREC.",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-20k Prototype 20mm attachment. 20mm APDS anti-materiel super-penetrator round for armored or emplaced targets. Dual stage sniper scope. Recoil is extreme. Hold breath for accurate fire. Cannot be silenced.",
+        "fr": "Accessoire pour SC-20K : canon de 20mm.\\n\\nBalles perforantes APDS anti-matériel 20 mm pour lutter contre les cibles blindées ou fixes.\\n\\nLunette de visée deux grossissements.\\n\\nImportant recul. Retenez votre souffle pour viser avec précision. Pas de silencieux possible.",
+        "de": "SC-20K 20mm-Modulprototyp\\n\\n20mm-APDS-Anti-Materiel-Geschoss gegen gepanzerte oder befestigte Ziele.\\n\\nZweistufiges Scharfschützen-Zielfernrohr.\\n\\nExtremer RückstoSS. Für einen präzisen Schuss sollte man den Atem anhalten. Kein Schalldämpfer verfügbar.",
+        "es": "Accesorio prototipo 20 mm para SC20K.\\n\\nProyectil de 20 mm antimateria que penetra blindajes usando GHP (generadores de haces de partículas).\\n\\nMira de francotirador de doble posición.\\n\\nFuerte retroceso. Contén el aliento para un disparo más preciso. No hay silenciador.",
+        "it": "Modulo da 20mm per il prototipo SC-20K\\n\\nProiettili APDS anti-materiali da 20mm ad altissima capacità di penetrazione per bersagli corazzati o annidati.\\n\\nMirino di precisione a due stadi.\\n\\nRinculo elevato. Trattenere il fiato per una mira corretta. Non permette l'uso di un silenziatore.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FOREGRIP": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Foregrip Attachment",
+        "fr": "Accessoire Poignée",
+        "de": "Griff-Modul",
+        "es": "Acc. empuñadura frontal",
+        "it": "Impugnatura",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Foregrip",
+        "fr": "POIGNÉE AVT.",
+        "de": "GRIFF",
+        "es": "EMPUÑADURA",
+        "it": "IMPUGNAT.",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-20k Prototype Foregrip attachment. Provides increased stability to firing platform and controlled recoil. Improves rounds-on-target during sustained fire.",
+        "fr": "Accessoire pour SC-20K : poignée avant.\\n\\nAméliore la stabilité et permet de mieux contrôler le recul.\\n\\nAugmente le nombre de coups sur la cible en tir automatique.",
+        "de": "SC-20K Griff-Modulprototyp\\n\\nBietet verbesserte Stabilität und gröSSere Kontrolle des RückstoSSes.\\n\\nGeringere Streuung bei Dauerfeuer.",
+        "es": "Prototipo de empuñadura delantera del SC20K.\\n\\nProporciona mayor estabilidad al disparar y controla el retroceso.\\n\\nAumenta la tasa de efectividad en los disparos durante las ráfagas. ",
+        "it": "Impugnatura anteriore per il prototipo SC-20K.\\n\\nFornisce una maggiore stabilità alla piattaforma di fuoco e un rinculo controllato.\\n\\nAumenta il numero di colpi sul bersaglio durante il fuoco prolungato.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "LAUNCHER": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Launcher Attachment ",
+        "fr": "Accessoire Lanceur ",
+        "de": "Werfer-Modul ",
+        "es": "Accesorio lanzador ",
+        "it": "Lanciatore ",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Launcher",
+        "fr": "LANCEUR",
+        "de": "WERFER",
+        "es": "LANZADOR",
+        "it": "LANCIATORE",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-20k Launcher attachment. Standard 40mm gas operated launcher deploys a variety of Less-Than-Lethal 40mm devices. Silent operation.",
+        "fr": "Accessoire pour SC-20K : lanceur.\\n\\nLanceur standard tirant toute une série de projectiles de calibre 40mm.\\n\\nSilencieux.",
+        "de": "SC-20K Werfer-Modul\\n\\nStandard-40mm-Werfer, mit dem verschiedene nicht-tödliche Projektile verschossen werden können.\\n\\nLautlos.",
+        "es": "Accesorio lanzador del SC20K.\\n\\nLanzador estándar de 40 mm accionado por un mecanismo de gas. Muy silencioso.\\n\\nPermite lanzar distintos dispositivos de 40 mm no tan letales como las balas.",
+        "it": "Modulo lanciatore per SC-20K.\\n\\nNormale lanciatore a gas da 40mm, può sparare una serie di dispositivi non letali da 40mm.\\n\\nÈ silenzioso.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "SHOTGUN": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Shotgun Attachment",
+        "fr": "Acc. Fusil à pompe",
+        "de": "Schrot-Modul",
+        "es": "Accesorio escopeta",
+        "it": "Modulo doppietta",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Shotgun",
+        "fr": "FS. POMPE",
+        "de": "SCHROT",
+        "es": "ESCOPETA",
+        "it": "MOD. DOPP.",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-20k Shotgun attachment. 12 Guage Triple Ought loads offer exceptional stopping power at close range. Affords dual barrel firing in tandem with SC-20k for multi-range engagement.",
+        "fr": "Accessoire pour SC-20K : fusil à pompe.\\n\\nFusil à pompe de calibre 12, extrêmement puissant à bout portant.\\n\\nDeux canons pouvant être utilisés simultanément pour faucher plusieurs adversaires en même temps.",
+        "de": "SC-20K Schrotgewehr-Modul\\n\\nDie verwendete 12g Triple-0 Munition ist auf kurze Entfernung hochgradig durchschlagend.\\n\\nMit diesem Modul ist doppelläufiges Feuer möglich, so dass Ziele in unterschiedlichen Entfernungen bekämpft werden können.",
+        "es": "Accesorio de escopeta para el SC20K.\\n\\nCapacidad para doce cargas y excepcional potencia de retención a corta distancia.\\n\\nDisparo de doble cañón con el SC20K para diferentes situaciones y distancias.",
+        "it": "Modulo doppietta per SC-20K.\\n\\nCalibro 12 triplo zero offre un'eccellente potenza di sbarramento a corto raggio.\\n\\nPermette di sparare a doppia canna assieme all'SC-20K per il combattimento su più distanze.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "GUNBAREL": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "GUNBAREL",
+        "fr": "CANON",
+        "de": "Lauf",
+        "es": "CAÑÓN",
+        "it": "CANNA DI FUCILE",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "GUNBAREL",
+        "fr": "GUNBAREL",
+        "de": "GUNBAREL",
+        "es": "GUNBAREL",
+        "it": "GUNBAREL",
+        "th": ""
+      },
+      "Description": {
+        "en": "GUNBAREL attachment",
+        "fr": "Accessoire CANON",
+        "de": "Lauf-Modul",
+        "es": "Acceosrio de cañón.",
+        "it": "Modulo CANNA DI FUCILE",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "GUNGRIP": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "GUNGRIP",
+        "fr": "POIGNEE",
+        "de": "Griff",
+        "es": "SOPORTE",
+        "it": "IMPUGNATURA",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "GUNGRIP",
+        "fr": "POIGNÉE",
+        "de": "GEWEHRGRIFF",
+        "es": "EMPUÑADURA",
+        "it": "IMPUGNATURA",
+        "th": ""
+      },
+      "Description": {
+        "en": "GUNGRIP attachment",
+        "fr": "Accessoire POIGNEE",
+        "de": "Griff-Modul",
+        "es": "Accesorio de soporte.",
+        "it": "Modulo IMPUGNATURA",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "GUNSCOPE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "GUNSCOPE",
+        "fr": "VISEUR",
+        "de": "Zielfernrohr",
+        "es": "TELEOBJETIVO",
+        "it": "MIRINO",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "GUNSCOPE",
+        "fr": "Lunette de visée",
+        "de": "Gewehrzielfernrohr",
+        "es": "Mira telescópica",
+        "it": "Mirino",
+        "th": ""
+      },
+      "Description": {
+        "en": "GUNSCOPE attachment",
+        "fr": "Accessoire VISEUR",
+        "de": "ZF-Modul",
+        "es": "Accesorio de mira telescópica para fusil.",
+        "it": "Modulo MIRINO",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "SHOTGUNAMMO": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Shotgun attachment Ammo",
+        "fr": "Munitions pour accessoire Fusil à pompe",
+        "de": "Schrotgewehr-Modul-Munition",
+        "es": "Munición de escopeta",
+        "it": "Munizioni per modulo doppietta",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Shotgun attachment Ammo",
+        "fr": "Munitions de fusil à pompe",
+        "de": "Munitionshalterung für Schrotflinte",
+        "es": "Munición escopeta",
+        "it": "Munizioni doppietta",
+        "th": ""
+      },
+      "Description": {
+        "en": "Shotgun attachment Ammo",
+        "fr": "Munitions pour accessoire Fusil à pompe",
+        "de": "Schrotgewehr-Modul-Munition",
+        "es": "Munición para el accesorio de escopeta.",
+        "it": "Munizioni per modulo doppietta",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "SCOPEAMMO": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Sniper attachment Ammo",
+        "fr": "Munitions pour accessoire Sniper",
+        "de": "Scharfschützen-Modul-Munition",
+        "es": "Munición de francotirador",
+        "it": "Munizioni per modulo di precisione",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Sniper attachment Ammo",
+        "fr": "Munitions de fusil de précision",
+        "de": "Munitionshalterung für Scharfschützen",
+        "es": "Munición francotirador",
+        "it": "Munizioni di precisione",
+        "th": ""
+      },
+      "Description": {
+        "en": "Sniper attachment Ammo",
+        "fr": "Munitions pour accessoire Sniper",
+        "de": "Scharfschützen-Modul-Munition",
+        "es": "Munición para el accesorio francotirador.",
+        "it": "Munizioni per modulo di precisione",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "AK47": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "AK 47",
+        "fr": "AK 47",
+        "de": "AK 47",
+        "es": "AK 47",
+        "it": "AK-47",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "AK 47",
+        "fr": "AK 47",
+        "de": "AK 47",
+        "es": "AK47",
+        "it": "AK 47",
+        "th": ""
+      },
+      "Description": {
+        "en": "The AK-47 is chambered in 7.62x39 and features hardwood furniture with a fixed stock.",
+        "fr": "L'AK-47 utilise des munitions 7.62x39. Sa crosse en bois est fixe.",
+        "de": "Das AK-47 verschieSSt 7,62x39 und besitzt einen Kolben aus Hartholz.",
+        "es": "El famoso fusil AK-47 con cámara de 7.62x39 y carcasa con madera y culata fija.",
+        "it": "L'AK-47 incamera colpi da 7,62x39, ha particolari in legno e calcio fisso.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "BERETTA": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Beretta 92FS",
+        "fr": "Beretta 92FS",
+        "de": "Beretta 92FS",
+        "es": "Beretta 92FS",
+        "it": "Beretta 92FS",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Beretta 92FS",
+        "fr": "Beretta 92FS",
+        "de": "Beretta 92FS",
+        "es": "Beretta 92FS",
+        "it": "Beretta 92FS",
+        "th": ""
+      },
+      "Description": {
+        "en": "Hand Gun",
+        "fr": "Pistolet",
+        "de": "Handfeuerwaffe",
+        "es": "Una de las armas de mano más usadas en el mundo.",
+        "it": "Pistola",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "C4": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "C4",
+        "fr": "C4",
+        "de": "C4",
+        "es": "C4",
+        "it": "C4",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "C4",
+        "fr": "C4",
+        "de": "C4",
+        "es": "C4",
+        "it": "C4",
+        "th": ""
+      },
+      "Description": {
+        "en": "C4",
+        "fr": "C4",
+        "de": "C4",
+        "es": "Explosivo plástico C4.",
+        "it": "C4",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FLARE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Flare",
+        "fr": "Fusée éclairante",
+        "de": "Magnesium-Fackel",
+        "es": "Bengala",
+        "it": "Razzo luminoso",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Flare",
+        "fr": "Fusée éclairante",
+        "de": "Magnesiumfackel",
+        "es": "Bengala",
+        "it": "Razzo lum. chimico",
+        "th": ""
+      },
+      "Description": {
+        "en": "A standard flare that emits both light and heat.",
+        "fr": "Une fusée éclairante de modèle classique, qui émet de la chaleur et une vive lumière.",
+        "de": "Eine Fackel, die sowohl Licht als auch Hitze absondert.",
+        "es": "Bengala tradicional que emite luz y calor.",
+        "it": "Un razzo che emette luce e calore.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "CHEMICALFLARE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Chemical Flare",
+        "fr": "Fusée chimique",
+        "de": "Knicklicht",
+        "es": "Bengala química",
+        "it": "Razzo luminoso chimico",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Chemical Flare",
+        "fr": "Fusée chimique",
+        "de": "Chemische Fackel",
+        "es": "Bengala química",
+        "it": "Razzo lum. chimico",
+        "th": ""
+      },
+      "Description": {
+        "en": "A break-open chemical flare for illuminating dark environments.",
+        "fr": "Fusée que l'on casse pour éclairer les zones particulièrement sombres.",
+        "de": "Ein chemisches Leuchtmittel, mit dem durch Aufknicken dunkle Umgebungen erhellt werden können.",
+        "es": "Bengala química que se activa por rotura del cierre y desprende una luz intensa.",
+        "it": "Un razzo chimico a rottura che illumina gli ambienti bui.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "DISPOSABLEPICK": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Disposable Pick",
+        "fr": "Pioche",
+        "de": "Einweg-Dietrich",
+        "es": "Ganzúa deshechable",
+        "it": "Grimaldello usa e getta",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Disposable Pick",
+        "fr": "Crochet jetable",
+        "de": "Wegwerf-Dietrich",
+        "es": "Ganzúa deshechable",
+        "it": "Grimaldello monouso",
+        "th": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FLASHGRENADE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Flash Grenade",
+        "fr": "Grenade av.",
+        "de": "Blendgranate",
+        "es": "Granda Cegad.",
+        "it": "Granata flash",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Flashbang",
+        "fr": "Grenade av.",
+        "de": "Blendgranate",
+        "es": "Granda Cegad.",
+        "it": "Granata flash",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-82 Series non-lethal flashbang grenade. Explosion blinds, deafens and stuns. Safe distance, approximately 8m.",
+        "fr": "Grenade aveuglante SC-82.\\n\\nSon explosion aveugle, assourdit et étourdit les victimes.\\n\\nZone d'effet : environ 8 m",
+        "de": "SC-82 nicht tödliche Blendgranate\\n \\nDie Explosion hat eine betäubende, vorübergehend blind und taub machende Wirkung.\\n \\nSicherheitsabstand beträgt ungefähr acht Meter.",
+        "es": "Granada cegadora de la serie SC-82.\\n\\nEl fogonazo deja ciego, sordo y aturdido al enemigo.\\n\\nDistancia de seguridad, unos 8 metros.",
+        "it": "Granata flash non-letale serie SC-82\\n\\nL'esplosione acceca, assorda e stordisce.\\n\\nLa distanza di sicurezza è di circa 8m.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FLASHLIGNT": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Flashlight",
+        "fr": "Lampe-torche",
+        "de": "Taschenlampe",
+        "es": "Linterna",
+        "it": "Torcia",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Flashlight",
+        "fr": "Lampe-torche",
+        "de": "Taschenlampe",
+        "es": "Linterna",
+        "it": "Torcia",
+        "th": ""
+      },
+      "Description": {
+        "en": "Cop flashlight",
+        "fr": "Lampe-torche de policier",
+        "de": "Polizei-Taschenlampe",
+        "es": "Linterna estándar de policía.",
+        "it": "Torcia elettrica",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FRAGGRENADE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Frag Grenade",
+        "fr": "Grenade frag.",
+        "de": "Splittergranate",
+        "es": "Granada Frag",
+        "it": "Granata a fram.",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Frag",
+        "fr": "GRENADE FRAG.",
+        "de": "Granate",
+        "es": "Granada Frag",
+        "it": "Frammentazione",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-60 Series fragmentation grenade. 5.5cm steel sphere wrapped around comp B charge and high-explosive fuze. Explosion casts fragments in circular pattern, lethal to 2m.",
+        "fr": "Grenade à fragmentation SC-60.\\n\\nSphère en acier de 5.5 cm de diamètre, contenant une mèche et une charge hautement explosive.\\n\\nL'explosion projette des éclats partout à la ronde. Mortelle dans un rayon de 2 m.",
+        "de": "SC-60 Splittergranate.\\n \\nEine ca. 5,5cm Stahlkugel umgibt eine hochexplosive Sprengladung und einen Zünder.\\n \\nDurch die Detonation werden Splitter in die Umgebung geschleudert, die in bis zu zwei Meter Abstand absolut tödlich sind.",
+        "es": "Granada de fragmentación de tipo SC-60.\\n\\nUna esfera de acero de 5,5 cm que envuelve una mecha altamente explosiva y carga B comprimida.\\n\\nLa explosión lanza fragmentos letales en un radio circular de 2 metros.",
+        "it": "Granata a frammentazione serie SC-60\\n\\nSfera di metallo di 5,5cm costruita attorno a una carica ad alto potenziale esplosivo.\\n\\nL'esplosione scaglia frammenti in una zona circolare, ed è letale entro i 2m.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "REVIVESYRINGE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Adrenalin Syringe",
+        "fr": "Inj. Adrénaline",
+        "de": "Adrenalin-Spritze",
+        "es": "JERING. ADRENALINA",
+        "it": "Siringa adrenalina",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Adrenalin Syringe",
+        "fr": "INJ. ADRÉNALINE",
+        "de": "Adrenalinspritze",
+        "es": "Inyección adrenalina",
+        "it": "Siringa adrenalina",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC Experimental Adrenalin Boost. Injected into torso of incapacitated person increases survivability for most wounds.",
+        "fr": "Seringue d'adrénaline expérimentale SC. \\n\\nInjectée dans le torse d'un mourant, permet une réanimation rapide dans la plupart des cas.",
+        "de": "SC Experimenteller Adrenalin-Booster\\n \\nIn den Körper einer verletzten Person injiziert, erhöht er die Überlebensrate bei den meisten Verletzungen.",
+        "es": "Jeringuilla experimental de adrenalina.\\n\\nInyectada en el torso de un individuo aturdido o incapacitado, aumenta las posibilidades de supervivencia ante un gran número de heridas.",
+        "it": "Dose di adrenalina sperimentale SC\\n\\nIniettata nel torace di una persona priva di sensi aumenta la probabilità di sopravvivere alle ferite.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "GAZGRENADE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Gas Grenade",
+        "fr": "Grenade à gaz",
+        "de": "Gasgranate",
+        "es": "Granada gas",
+        "it": "Lacrimogeno",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Gas",
+        "fr": "Gaz",
+        "de": "Gas",
+        "es": "Gas",
+        "it": "Lacrimogeno",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-40 Series Less-Than-Lethal CS-Gas grenade. Releases a cloud of incapacitating CS gas for dispatching unprotected targets. Use with caution. Gas can cause damage to respiratory system.",
+        "fr": "Grenade à gaz SC 40.\\n\\nLibère un nuage de gaz incapacitant CS, redoutable contre les cibles non protégées.\\n\\nAttention, ce gaz peut causer des dommages au système respiratoire",
+        "de": "SC 40 Gasgranate\\n \\nSetzt eine Wolke aus CS-Gas frei, die ungeschützte Ziele auSSer Gefecht setzt.\\n \\nMit Vorsicht benutzen. Gas kann das Atemsystem schädigen.",
+        "es": "Granada de gas CS no letal de la serie SC 40. \\n\\nLibera una nube de gas CS que aturde al enemigo desprotegido.\\n\\nDebe usarse con cuidado; puede causar daños al sistema respiratorio.",
+        "it": "Granata lacrimogena non-letale serie SC-40\\n\\nEmette una nube di gas lacrimogeno per mettere fuori combattimento bersagli non protetti.\\n\\nDa usare con cautela. Il gas può provocare danni all'apparato respiratorio.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "LASERMIC": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Laser Mic",
+        "fr": "Micro-laser",
+        "de": "Laser-Mikrofon",
+        "es": "Micro láser",
+        "it": "Microfono laser",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Laser Mic",
+        "fr": "Micro-laser",
+        "de": "Lasermikro",
+        "es": "Micrófono láser",
+        "it": "Microfono laser",
+        "th": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "LIQUIDNITROGEN": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Liquid nitrogen",
+        "fr": "Azote liquide",
+        "de": "Flüssiger Stickstoff",
+        "es": "Nitrógeno líquido",
+        "it": "Azoto liquido",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Liquid nitrogen",
+        "fr": "Azote liquide",
+        "de": "Flüssiger Stickstoff",
+        "es": "Nitrógeno líquido",
+        "it": "Nitrogeno liquido",
+        "th": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "LOCKPICK": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Lock Pick",
+        "fr": "Crochet de serrurier",
+        "de": "Dietrich",
+        "es": "Ganzúa",
+        "it": "Grimaldello",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Lock Pick",
+        "fr": "Crochet",
+        "de": "Dietrich",
+        "es": "Ganzúa",
+        "it": "Grimaldello",
+        "th": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "M18SMOKEGRENADE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "M18 Colored Smoke Grenade",
+        "fr": "Grenade fumigène teintée M18",
+        "de": "M18 Nebelgranate",
+        "es": "Bote humo M18 color",
+        "it": "Fumogeno colorato M18",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "M18 Colored Smoke",
+        "fr": "Fumée colorée M18",
+        "de": "Farbiger Rauch M18",
+        "es": "Humo coloreado M18",
+        "it": "Fum. colorato M18",
+        "th": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "MEDKIT": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Medical Kit",
+        "fr": "Trousse de premiers soins",
+        "de": "Medi-Kit",
+        "es": "Botiquín",
+        "it": "Kit medico",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Medical Kit",
+        "fr": "Trousse de soins",
+        "de": "Erste-Hilfe-Kasten",
+        "es": "Botiquín",
+        "it": "Kit medico",
+        "th": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "OPTICCABLE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "OpticCable",
+        "fr": "Câble optique",
+        "de": "Optisches Kabel",
+        "es": "Cable óptico",
+        "it": "Cavo ottico",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "OpticCable",
+        "fr": "Câble optique",
+        "de": "Optisches Kabel",
+        "es": "Cable óptico",
+        "it": "Cavo ottico",
+        "th": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "RINGAIRFOILROUND": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Airfoil Round",
+        "fr": "Balle annulaire",
+        "de": "Ringflächen",
+        "es": "Proyectil NP",
+        "it": "PROIET. GOMMA",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Airfoil Round",
+        "fr": "Balle annulaire",
+        "de": "Ringfläch-Gesch.",
+        "es": "Proyectil NP",
+        "it": "PROIET. GOMMA",
+        "th": ""
+      },
+      "Description": {
+        "en": "40mm launchable high-impact, zero penetration round. Severe impacts can render targets unconscious. Silent operation.",
+        "fr": "Projectile 40mm à impact important, mais pouvoir de pénétration nul.\\n\\nLa violence de l'impact fait perdre connaissance à la cible.\\n\\nSilencieux.",
+        "de": "Projektil für 40mm-Werfer\\n \\nDer heftige Aufprall schlägt das Opfer bewuSStlos.\\n \\nLautlos.",
+        "es": "Proyectil no perforador de 40 mm, alto impacto e índice de penetración cero.\\n\\nDeja al objetivo inconsciente al impactar.\\n\\nNo emite ningún sonido.",
+        "it": "Proiettile lanciabile da 40mm a impatto duro non penetrante\\n\\nLa forza dell'impatto provoca lo svenimento del bersaglio.\\n\\nÈ silenzioso.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "SMOKEGRENADE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Smoke Grenade",
+        "fr": "Grenade fumigène",
+        "de": "Nebelgranate",
+        "es": "Bote de humo",
+        "it": "Fumogeno",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Smoke",
+        "fr": "Fumigène",
+        "de": "Rauchgr.",
+        "es": "Humo",
+        "it": "Fumogeno",
+        "th": ""
+      },
+      "Description": {
+        "en": "SC-81 Series Smoke Grenade. Releases a cloud of visibility obscuring smoke, harmless when inhaled. Use to provide visibility cover when crossing open ground.",
+        "fr": "Grenade fumigène SC 81.\\n\\nLibère un nuage de gaz obscurcissant la vision mais inoffensif si on l'inhale.\\n\\nSert à se protéger en terrain dégagé.",
+        "de": "SC 81 Nebelgranate\\n\\nSetzt eine Wolke aus sichtbehinderndem Gas frei, nicht gesundheitsschädlich beim Einatmen.\\n \\nSetzen Sie es ein, um sich auf offener Fläche Deckung zu verschaffen.",
+        "es": "Granada de humo de tipo SC 81.\\n\\nLibera una nube de humo espeso y oscuro que no daña los pulmones al ser inhalado.\\n\\nTe proporciona un paraguas de cobertura visual cuando atraviesas un espacio abierto.",
+        "it": "Fumogeno serie SC-81\\n\\nEmette una nube di gas che oscura la visuale ma non crea problemi alla respirazione.\\n\\nServe a fornire una copertura durante il passaggio in campo aperto.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "STICKYCAMERA": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Sticky Camera",
+        "fr": "Caméra-glu",
+        "de": "Haftkamera",
+        "es": "CÁM. SEGUIMIEN.",
+        "it": "Microcamera",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Sticky Camera",
+        "fr": "Caméra-glu",
+        "de": "Haftkamera",
+        "es": "CÁM. SEGUIMIEN.",
+        "it": "Microcamera",
+        "th": ""
+      },
+      "Description": {
+        "en": "40mm launchable surveillance camera with real-time live wireless feed to OPSAT. Full Thermal, EMF and Night Vision capability, with pan and zoom functionality. Noise making and CS-gas release functionality for Less-Than-Lethal utility. Cameras can be recovered if Gas canister has not been ruptured. Wireless signal reacquisition possible if within range.",
+        "fr": "Caméra de surveillance 40mm, lançable et reliée à la montre-terminal en temps réel.\\n\\nVisions thermique, nocturne et électromagnétique, avec zoom et panoramique.\\n\\nPossibilité de faire du bruit pour faire diversion et de libérer du gaz CS pour se défendre.\\n\\nPeut être récupérée si la cartouche de gaz n'a pas été percée.\\n\\nRéacquisition du signal possible sans fil si toujours à portée.",
+        "de": "40 mm lancierbare Überwachungskamera, die Sendet Bilder in Ist-Zeit an OPSAT.\\n \\nVerfügt über Thermal-, EMF-und Nachtsicht. Volle Schwenk- und Zoomfähigkeit.\\n \\nKann Geräusche erzeugen oder Gas für den nicht-tödlichen Einsatz absondern.\\n \\nKamera kann wieder aufgenommen werden, wenn der Gasbehälter nicht beschädigt wurde.\\n \\nKabellose Signalumleitung möglich, wenn innerhalb Reichweite.",
+        "es": "Cámara de seguimiento de 40 mm que se lanza a distancia y se adhiere al objetivo, desde el que envía imágenes al ENSAT en tiempo real y sin cables. \\n\\nLleva visión térmica, nocturna y de campo electromagnético, panorámica y zoom.\\n\\nPuede emitir sonido o gas CS para realizar ataques no letales. Si el depósito del gas no se ha roto se puede recuperar y reutilizar. \\n\\nLa señal que envía tiene un radio limitado.",
+        "it": "Telecamera di sorveglianza lanciabile da 40mm con trasmissione in diretta senza fili all'OPSAT\\n\\nVisuale termica, magnetica e notturna, con funzioni di movimento e zoom.\\n\\nEmissione di rumore o di gas per uso non-letale.\\n\\nLa telecamera può venire recuperata se il contenitore del gas non è stato aperto.\\n\\nÈ possibile riagganciarsi al segnale senza fili entro la distanza corretta.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "STICKYSHOCKER": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Sticky Shocker",
+        "fr": "Electrocuteur",
+        "de": "Haft-Schocker",
+        "es": "Dardo Tázer",
+        "it": "Proiettile elettr.",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Sticky Shocker",
+        "fr": "Electrocuteur",
+        "de": "Haft-schock.",
+        "es": "Dardo taser",
+        "it": "Proiettile elettr.",
+        "th": ""
+      },
+      "Description": {
+        "en": "40mm launchable high-voltage, low-amperage adhesive round. Electrical discharge incapacitates target on impact. Charge can be conducted through water.",
+        "fr": "Balle adhésive 40mm à haut voltage et faible ampérage.\\n\\nLa décharge électrique met la cible hors de combat. L'eau est conductrice d'électricité.",
+        "de": "40mm-Werfer, der am Ziel haftet und einen starken StromstoSS abgibt.\\n\\nStromschlag setzt Ziel beim Treffer auSSer Gefecht. Ladung überträgt sich auch durch Wasser.",
+        "es": "Munición de 40 mm que emite una descarga eléctrica de alto voltaje y bajo amperaje.\\n\\nMás que clavarse, se pega al enemigo y lanza una descarga al impactar. La descarga se transmite también por el agua.",
+        "it": "Proiettile adesivo lanciabile da 40mm ad alto voltaggio e basso amperaggio.\\n\\nLa scarica elettrica mette il bersaglio fuori combattimento al contatto. La scarica è conducibile in acqua.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "INFRAREDSTRESSGEN": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Stress Generator",
+        "fr": "Générateur de stress",
+        "de": "Stress-Generator",
+        "es": "Generador estrés",
+        "it": "Generatore di tensione",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Stress Generator",
+        "fr": "Générateur de stress",
+        "de": "Stressgenerator",
+        "es": "Generador estrés",
+        "it": "Generatore di tens.",
+        "th": ""
+      },
+      "Description": {
+        "en": "Stress Generator",
+        "fr": "Générateur de stress",
+        "de": "Stress-Generator",
+        "es": "Dispositivo generador de estrés.",
+        "it": "Generatore di tensione",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "WALLMINE": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Wall Mine",
+        "fr": "Mine murale",
+        "de": "Haftmine",
+        "es": "Mina de pared",
+        "it": "Mina da muro",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Wall Mine",
+        "fr": "Mine murale",
+        "de": "Haftmine",
+        "es": "Mina pared",
+        "it": "Mina da muro",
+        "th": ""
+      },
+      "Description": {
+        "en": "A motion sensitive high explosive adhesive mine, lethal to 3m. Can be disabled manually while green light is flashing.",
+        "fr": "Mine adhésive à détecteur de mouvement, mortelle dans un rayon de 3 m. Peut être désamorcée manuellement tant que la diode verte clignote.",
+        "de": "Hochexplosive Haftmine mit Bewegungszünder, tödlich in einem Umkreis von drei Metern. Kann manuell entschärft werden, während das grüne Licht blinkt.",
+        "es": "Mina de alto poder explosivo sensible al movimiento y letal en un radio de 3 m. Se puede desactivar manualmente mientras la luz verde parpadee.",
+        "it": "Mina adesiva ad alto potenziale esplosivo sensibile al movimento, letale entro i 3m. Può essere disattivata quando la luce verde è accesa.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "TARGETBEACON": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Target Beacon",
+        "fr": "Emetteur",
+        "de": "Zielsender",
+        "es": "Apuntar al faro",
+        "it": "Segnalatore",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Target Beacon",
+        "fr": "Localisateur de cible",
+        "de": "Zielpeilsender",
+        "es": "Guía de objetivo",
+        "it": "Segnalatore",
+        "th": ""
+      },
+      "Description": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "UMP": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "UMP",
+        "fr": "UMP",
+        "de": "UMP",
+        "es": "UMP",
+        "it": "UMP",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "UMP",
+        "fr": "Pistolet-mitrailleur",
+        "de": "UMP",
+        "es": "UMP",
+        "it": "UMP",
+        "th": ""
+      },
+      "Description": {
+        "en": "UMP Short Machine Gun",
+        "fr": "Mitrailleuse courte UMP",
+        "de": "Leichte MP",
+        "es": "UMP ametralladora corta",
+        "it": "Mitraglietta UMP",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "UZI": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Uzi",
+        "fr": "Uzi",
+        "de": "Uzi",
+        "es": "Uzi",
+        "it": "Uzi",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Uzi",
+        "fr": "Uzi",
+        "de": "Uzi",
+        "es": "Uzi",
+        "it": "Uzi",
+        "th": ""
+      },
+      "Description": {
+        "en": "SMG",
+        "fr": "PM",
+        "de": "MP",
+        "es": "AMC",
+        "it": "Mitraglietta",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "CRYOBLOODVIAL": {
+      "_source": "Equipments",
+      "Name": {
+        "en": "Cryo Blood Vial",
+        "fr": "Fiole de sang Cryo",
+        "de": "Cryo Blut-Ampulle",
+        "es": "Ampolla criogénica",
+        "it": "Fiala di sangue congelato",
+        "th": ""
+      },
+      "NameShort": {
+        "en": "Cryo Blood Vial",
+        "fr": "Fiole de sang",
+        "de": "Kryo-Blutpr.",
+        "es": "Ampolla crio.",
+        "it": "Sangue congela.",
+        "th": ""
+      },
+      "Description": {
+        "en": "Cryo bla",
+        "fr": "Cryo",
+        "de": "Cryo bla",
+        "es": "Crio",
+        "it": "Sangue congela.",
+        "th": ""
+      },
+      "HowToUseMe": {
+        "en": "Cryo bla",
+        "fr": "Cryo",
+        "de": "Cryo bla",
+        "es": "Crio",
+        "it": "Sangue congela.",
+        "th": ""
+      }
+    }
+  }
+}

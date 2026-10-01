@@ -1,0 +1,19 @@
+{
+  "game_dir": "D:\\SteamLibrary\\steamapps\\common\\Splintercell Chaos Theory",
+  "umd_subpath": "System\\dynamic-pc.umd",
+  "font_subpath": "Data\\Textures\\Font",
+  "raw_dir": "data/raw_official",
+  "translations_dir": "data/translations",
+  "fonts_dir": "data/fonts",
+  "dist_dir": "dist",
+  "backups_dir": "backups",
+  "target_language": "int",
+  "encoding": "cp874",
+  "supported_languages": {
+    "int": "en",
+    "fra": "fr",
+    "deu": "de",
+    "esp": "es",
+    "ita": "it"
+  }
+}

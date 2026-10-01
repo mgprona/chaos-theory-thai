@@ -1,0 +1,992 @@
+{
+  "_meta": {
+    "category": "opsat",
+    "name": "engine",
+    "sources": [
+      "Engine"
+    ],
+    "total_strings": 115
+  },
+  "sections": {
+    "Public": {
+      "_source": "Engine",
+      "Object": {
+        "en": "(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Preferences": {
+        "en": "(Caption=\"Advanced\",Parent=\"Advanced Options\")",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Errors": {
+      "_source": "Engine",
+      "NetOpen": {
+        "en": "Error opening file",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetWrite": {
+        "en": "Error writing to file",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetRefused": {
+        "en": "Server refused to send '%s'",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetClose": {
+        "en": "Error closing file",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetSize": {
+        "en": "File size mismatch",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetMove": {
+        "en": "Error moving file",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetInvalid": {
+        "en": "Received invalid file request",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NoDownload": {
+        "en": "Package '%s' is not downloadable",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DownloadFailed": {
+        "en": "Downloading package '%s' failed: %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "RequestDenied": {
+        "en": "Server requested file from pending level: Denied",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ConnectionFailed": {
+        "en": "Connection failed",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ChAllocate": {
+        "en": "Couldn't allocate channel",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetAlready": {
+        "en": "Already networking",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetListen": {
+        "en": "Listen failed: No linker context available",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LoadEntry": {
+        "en": "Can't load Entry: %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "InvalidUrl": {
+        "en": "Invalid URL: %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "InvalidLink": {
+        "en": "Invalid Link: %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "FailedBrowse": {
+        "en": "Failed to enter %s: %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Listen": {
+        "en": "Listen failed: %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "AbortToEntry": {
+        "en": "Failed; returning to Entry",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ServerOpen": {
+        "en": "Servers can't open network URLs",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ServerListen": {
+        "en": "Dedicated server can't listen: %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Pending": {
+        "en": "Pending connect to '%s' failed; %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LoadPlayerClass": {
+        "en": "Failed to load player class",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ServerOutdated": {
+        "en": "Server's version is outdated",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Progress": {
+      "_source": "Engine",
+      "CancelledConnect": {
+        "en": "Cancelled Connect Attempt",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "RunningNet": {
+        "en": "%s: %s (%i players)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetReceiving": {
+        "en": "Receiving '%s': %i/%i",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetReceiveOk": {
+        "en": "Successfully received '%s'",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetSend": {
+        "en": "Sending '%s'",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NetSending": {
+        "en": "Sending '%s': %i/%i",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Connecting": {
+        "en": "Connecting...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Listening": {
+        "en": "Listening for clients...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Loading": {
+        "en": "Loading",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Saving": {
+        "en": "Saving",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Paused": {
+        "en": "Paused by %s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ReceiveFile": {
+        "en": "Receiving '%s' (F10 Cancels)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ReceiveOptionalFile": {
+        "en": "Receiving optional file '%s' (Press F10 to Skip)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ReceiveSize": {
+        "en": "Size %iK, Complete %3.1f%%",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ConnectingText": {
+        "en": "Connecting (F10 Cancels):",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ConnectingURL": {
+        "en": "unreal://%s/%s",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Console": {
+      "_source": "Engine",
+      "ClassCaption": {
+        "en": "Standard Unreal Console",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LoadingMessage": {
+        "en": "LOADING",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "SavingMessage": {
+        "en": "SAVING",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ConnectingMessage": {
+        "en": "CONNECTING",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "PausedMessage": {
+        "en": "PAUSED",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "PrecachingMessage": {
+        "en": "PRECACHING",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ChatChannel": {
+        "en": "(CHAT) ",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "TeamChannel": {
+        "en": "(TEAM) ",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "General": {
+      "_source": "Engine",
+      "Upgrade": {
+        "en": "To enter this server, you need the latest free update to Unreal available from Epic's Web site:",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "UpgradeURL": {
+        "en": "http://www.unreal.com/upgrade",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "UpgradeQuestion": {
+        "en": "Do you want to launch your web browser and go to the upgrade page now?",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Version": {
+        "en": "Version %i",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Menu": {
+      "_source": "Engine",
+      "HelpMessage": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "MenuList": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LeftString": {
+        "en": "Left",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "RightString": {
+        "en": "Right",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "CenterString": {
+        "en": "Center",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "EnabledString": {
+        "en": "Enabled",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DisabledString": {
+        "en": "Disabled",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HelpMessage[1]": {
+        "en": "\"This menu has not yet been implemented.\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "YesString": {
+        "en": "yes",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NoString": {
+        "en": "no",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Inventory": {
+      "_source": "Engine",
+      "PickupMessage": {
+        "en": "Snagged an item",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "M_Activated": {
+        "en": "\" activated\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "M_Selected": {
+        "en": "\" selected\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "M_Deactivated": {
+        "en": "\" deactivated\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ItemArticle": {
+        "en": "a",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "WarpZoneInfo": {
+      "_source": "Engine",
+      "OtherSideURL": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "GameInfo": {
+      "_source": "Engine",
+      "SwitchLevelMessage": {
+        "en": "Switching Levels",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DefaultPlayerName": {
+        "en": "Player",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LeftMessage": {
+        "en": "\" left the game.\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "FailedSpawnMessage": {
+        "en": "Failed to spawn player actor",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "FailedPlaceMessage": {
+        "en": "Could not find starting spot (level might need a 'PlayerStart' actor)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NameChangedMessage": {
+        "en": "Name changed to ",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "EnteredMessage": {
+        "en": "\" entered the game.\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "GameName": {
+        "en": "\"Game\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "MaxedOutMessage": {
+        "en": "Server is already at capacity.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "WrongPassword": {
+        "en": "The password you entered is incorrect.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NeedPassword": {
+        "en": "You need to enter a password to join this game.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "FailedTeamMessage": {
+        "en": "Could not find team for player",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "LevelInfo": {
+      "_source": "Engine",
+      "Title": {
+        "en": "Untitled",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Weapon": {
+      "_source": "Engine",
+      "MessageNoAmmo": {
+        "en": "\" has no ammo.\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "PickupMessage": {
+        "en": "You got a weapon",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DeathMessage": {
+        "en": "%o was killed by %k's %w.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ItemName": {
+        "en": "Weapon",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DeathMessage[0]": {
+        "en": "%o was killed by %k's %w.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DeathMessage[1]": {
+        "en": "%o was killed by %k's %w.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DeathMessage[2]": {
+        "en": "%o was killed by %k's %w.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DeathMessage[3]": {
+        "en": "%o was killed by %k's %w.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Counter": {
+      "_source": "Engine",
+      "CountMessage": {
+        "en": "Only %i more to go...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "CompleteMessage": {
+        "en": "Completed!",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Ammo": {
+      "_source": "Engine",
+      "PickupMessage": {
+        "en": "You picked up some ammo.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Pickup": {
+      "_source": "Engine",
+      "ExpireMessage": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "SpecialEvent": {
+      "_source": "Engine",
+      "DamageString": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "DamageType": {
+      "_source": "Engine",
+      "Name": {
+        "en": "killed",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "AltName": {
+        "en": "killed",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "PlayerPawn": {
+      "_source": "Engine",
+      "QuickSaveString": {
+        "en": "Quick Saving",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NoPauseMessage": {
+        "en": "Game is not pauseable",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ViewingFrom": {
+        "en": "Now viewing from ",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "OwnCamera": {
+        "en": "own camera",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "FailedView": {
+        "en": "Failed to change view.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "CantChangeNameMsg": {
+        "en": "You can't change your name during a global logged game.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Pawn": {
+      "_source": "Engine",
+      "NameArticle": {
+        "en": "\" a \"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "Spectator": {
+      "_source": "Engine",
+      "MenuName": {
+        "en": "Spectator",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "ServerCommandlet": {
+      "_source": "Engine",
+      "HelpCmd": {
+        "en": "server",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HelpOneLiner": {
+        "en": "Network game server",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HelpUsage": {
+        "en": "server map.unr[?game=gametype] [-option...] [parm=value]...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HelpWebLink": {
+        "en": "http://unreal.epicgames.com/servertips.htm",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HelpParm[0]": {
+        "en": "Log",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HelpDesc[0]": {
+        "en": "Specify the log file to generate",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HelpParm[1]": {
+        "en": "AllAdmin",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "HelpDesc[1]": {
+        "en": "Give all players admin privelages",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    }
+  }
+}

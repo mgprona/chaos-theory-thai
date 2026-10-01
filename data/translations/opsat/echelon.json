@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "category": "opsat",
+    "name": "echelon",
+    "sources": [
+      "Echelon"
+    ],
+    "total_strings": 1
+  },
+  "sections": {
+    "Public": {
+      "_source": "Echelon",
+      "Object": {
+        "en": "(Name=Echelon.EchelonGameInfo,Class=Class,MetaClass=Engine.GameInfo)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    }
+  }
+}

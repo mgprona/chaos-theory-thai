@@ -1,0 +1,167 @@
+{
+  "_meta": {
+    "category": "ui",
+    "name": "credits",
+    "sources": [
+      "Credits"
+    ],
+    "total_strings": 19
+  },
+  "sections": {
+    "Credit": {
+      "_source": "Credits",
+      "T_Credit0": {
+        "en": "\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\nCREATIVE TEAM\\n \\nProducer\\n\\nMathieu Ferland\\n\\nGame Designer\\n\\n\\n\\nAudio Designer\\n\\n\\n\\nLead Programmers\\n\\n\\n\\n\\nProgrammers\\n\\nAlain Turcotte\\nJimmy Boulianne \\n\\n \\n\\n\\n\\n\\n \\n\\n\\nCollaborating Programmers\\n\\n\\n\\n \\n \\n\\nLead Level Designer / Lead Artist \\n\\n\\n\\nArtistic Director\\n\\n\\n\\nArtists 3D\\n\\n \\n \\n \\n \\n\\nThe Chinh Ngo \\n\\nInterface Designers\\n\\nnVéronique Guilbault\\n\\nLevel Designers\\n\\n\\n\\n\\n\\nMathieu Bérubé\\nSébastien Galarneau\\n \\n\\nLead Animator\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit1": {
+        "en": "Animator \\n\\n\\n\\nLead Character Artist \\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit2": {
+        "en": "STORY\\n \\nOriginal story/Story Editor\\n\\n\\n\\nWritten by\\n\\n\\n\\nIntro Cinematic & In-game cinematics: \\nWritten and directed by\\n\\n\\n\\nDialog by\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit3": {
+        "en": "QUALITY ASSURANCE \\n \\nQuality Control Studio Manager\\n\\nEric Tremblay\\n\\nQA Lead Tester – Single Player\\n\\n\\n\\nQA Testers – Single Player\\n\\n \\n\\nQA Lead Tester - Multiplayer\\n\\n \\n\\nQA Testers – Multi-Player\\n\\n\\n\\n\\n\\nData Manager\\n\\n\\n\\nLocalization project manager\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit4": {
+        "en": "Localization/Integration\\n\\n\\n\\nPlanning Coordinator\\n\\nAudrey Goyette\\n\\nMarketing Artist\\n\\nThomas Giroux\\n\\nMarketing Coordinator\\n\\n\\n\\nTechnical Advisor\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit5": {
+        "en": "CINEMATICS\\n \\nUBI SOFT TEAM\\n \\nIn-Game & Outro Cinematics\\n \\nStudio Director\\n\\n\\n\\nProducer\\n\\n\\n\\nLine Producer\\n\\n\\n\\nProject Coordinator\\n\\n\\n\\nAnimation Supervisor\\n\\n\\n\\nTechnical Director\\n\\n\\n\\nScene Lead\\n\\n\\n\\n\\nSpecial FX\\n\\n \\nAnimators\\n\\n\\n\\nCG Artists\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit6": {
+        "en": "BIG BANG TEAM\\n \\nCompositing coordinator\\n\\n\\n\\nFlame Artist\\n\\n\\n\\nRendering engineer \\n\\n\\n\\nIntro Cinematic\\n \\nWritten, Produced and Directed by \\n\\n \\nProducer/Editor \\n\\n\\n\\nExecutive Producer \\n\\n\\n\\nResearch \\n\\n\\n\\nStoryboard Artist\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit7": {
+        "en": "PSYOP TEAM \\n \\nExecutive Producer \\n\\n \\n\\nProducer \\n\\n \\n\\nAnimation Director \\n\\n \\n\\nArt Director \\n\\n \\n\\nFlame Artist \\n\\n \\n\\nAnimators \\n\\n \\n\\nTechnical Director \\n\\n \\n\\nOnline Editor \\n\\n \\n\\nProduction Assistants \\n\\n \\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit8": {
+        "en": "SOUND\\n \\nDirector of Sound Studio\\n\\n\\n\\nSound Technical & \\nArtistic Advisor / Lead Engineer \\n\\n\\n\\nRecording Engineers\\n\\n\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit9": {
+        "en": "MUSIC\\n \\nMusic Composed by  \\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit10": {
+        "en": "GUN SOUND FX CREATED BY DANETRACKS\\n \\nSupervising Sound Designer\\n\\n\\n\\nSound Designer\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit11": {
+        "en": "VOICES\\n \\nVoice director\\n\\n\\n\\nVoice editing\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit12": {
+        "en": "UBI SOFT MONTREAL\\n \\nPresident & CEO Ubi Soft Montreal\\n\\nMartin Tremblay\\n\\nVice President Continuous Improvement\\n\\n\\n\\nVice President Quality & Editorial\\n\\n\\n\\nProjects office\\n\\n\\n\\nCommunication Manager\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit13": {
+        "en": "TECHNOLOGY GROUP\\n \\nDirector of Technology\\n\\nNicolas Rioux\\n\\nSound Team \\n\\n \\n\\nTools Team \\n\\n \\n\\nPlaytest Coordinator\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit14": {
+        "en": "UBI SOFT INTERNATIONAL\\n \\nPresident & CEO Ubi Soft World\\n\\nYves Guillemot\\n\\nInternational Production Director \\n\\n\\n\\nInternational Content Director\\n\\n\\n\\nProject Closer\\n\\nChristophe Derennes\\n\\nEditorial Content Manager\\n\\n\\n\\nProject Monitoring Manager\\n\\n\\n\\nEditorial Coordination\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit15": {
+        "en": "MARKETING EMEA\\n \\nEMEA Marketing Director\\n\\n\\n\\nEMEA Senior Marketing \\nGroup Manager\\n\\n\\n\\nEMEA Senior Brand Manager\\n\\n\\n\\nEMEA Brand Manager\\n\\n\\n\\nLocal Brand Managers\\n\\n\\n\\nSpecial Thanks\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit16": {
+        "en": "MARKETING US\\n \\nVice-President of Marketing\\n\\n\\n\\nGroup Brand Manager\\n\\n\\n\\nBrand Managers\\n\\n\\n\\nAssociate Brand Manager\\n\\n\\n\\nPublic Relations\\n\\n\\n\\nCreative Services\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit17": {
+        "en": "MARKETING CANADA\\n \\nBrand Manager\\n\\n\\n\\nPublic Relations Representative\\n\\n\\n\\nMarketing Coordinator\\n\\n\\n\\n",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "T_Credit18": {
+        "en": "SPECIAL THANKS\\n \\nAssociate Producers\\n\\n\\n\\nTechnical Services\\n\\n\\n\\nMarketing Playtests Research\\n\\n\\n\\nOther Support\\n \\nRAD Video Tools – \\nBink Video (Trademark of RAD Game Tools)\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n\\n ",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    }
+  }
+}

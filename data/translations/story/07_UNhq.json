@@ -1,0 +1,561 @@
+{
+  "_meta": {
+    "category": "story",
+    "name": "07_UNhq",
+    "sources": [
+      "07_UNhq",
+      "P_07_UNhq"
+    ],
+    "total_strings": 61
+  },
+  "sections": {
+    "GENERAL": {
+      "_source": "07_UNhq",
+      "Briefing_LAMBERT": {
+        "en": "LAMBERT - A few minutes ago, Third Echelon intercepted an encrypted communication between Jin Soo and the UN Headquarters in Manhattan. Something dirty is going on. We absolutely have to find out what. Prepare yourselves to infiltrate one of the most protected buildings in the world. Do not forget that UN Headquarters is international territory. Lethal force is not allowed and I’ll abort the mission as soon as I hear a general alarm. - THIS COMPUTER SOFTWARE PRODUCT IS AN AUDIOVISUAL WORK OF FICTION.  ANY RESEMBLANCE TO ACTUAL EVENTS OR ANY REAL PERSONS, LIVING OR DEAD, IS PURELY COINCIDENTAL.  FURTHER, THE UNITED NATIONS OR ANY OTHER INTERNATIONAL ORGANIZATION HAS NOT APPROVED, ENDORSED OR AUTHORIZED THE USE OF THEIR NAMES OR LOGOS OR THE PRODUCT ITSELF.",
+        "fr": "LAMBERT - Il y a quelques minutes, Echelon 3 a intercepté une communication cryptée entre Jin Soo et le quartier général des Nations Unies, à Manhattan. Quelque chose de louche se prépare et il faut absolument découvrir quoi. Préparez-vous à vous infiltrer à l'intérieur de l'un des immeubles les mieux gardés au monde. N'oubliez pas que le Q.G. de l'O.N.U. est un territoire international. Défense absolue de tuer qui que ce soit, et je serai obligé d'annuler la mission si l'alerte générale est donnée. - CE PROGRAMME INFORMATIQUE EST UNE OEUVRE DE FICTION AUDIOVISUELLE. TOUTE RESSEMBLANCE AVEC DES PERSONNES OU DES ÉVÉNEMENTS EXISTANT OU AYANT EXISTÉ SERAIT PUREMENT FORTUITE. NI L'O.N.U. NI AUCUNE AUTRE ORGANISATION INTERNATIONALE N'APPROUVENT, NE CAUTIONNENT OU N'AUTORISENT L'USAGE DE LEUR NOM OU DE LEUR LOGO DANS CE PRODUIT.",
+        "de": "LAMBERT - Vor ein paar Minuten hat Third Echelon eine verschlüsselte Botschaft von Jin Soo an das UNO-Hauptquartier in Manhattan abgefangen. Da ist irgendeine krumme Sache im Gang. Wir müssen unbedingt herausfinden, was das ist. Bereite dich darauf vor, in eins der am besten gesicherten Gebäude der Welt einzudringen. Ganz wichtig: Das UNO-Hauptquartier ist internationales Territorium. Die Anwendung tödlicher Gewalt ist nicht erlaubt. Ich breche den Einsatz ab, sobald ein Grossalarm gegeben wird. - DIESES SOFTWAREPRODUKT IST EIN FIKTIVES AUDIOVISUELLES WERK. JEDE ÄHNLICHKEIT MIT AKTUELLEN EREIGNISSEN ODER REALEN PERSONEN, SEIEN DIESE TOT ODER LEBENDIG, IST REIN ZUFÄLLIG. DIE VEREINTEN NATIONEN HABEN DARÜBER HINAUS DIE VERWENDUNG IHRER NAMEN, LOGOS ODER DES PRODUKTS SELBST WEDER GENEHMIGT, GEBILLIGT NOCH AUTORISIERT.",
+        "es": "LAMBERT - Hace unos minutos, Third Echelon ha interceptado una comunicación encriptada entre Jin Soo y la oficina de las Naciones Unidas en Manhattan. Algo huele mal aquí, y tenemos que averiguar qué es. Preparaos para infiltraros en uno de los edificios más seguros del mundo. No olvidéis que la sede de las Naciones Unidas es territorio internacional, así que olvidaos de cualquier acción letal. Si oigo una alarma general abortaré la misión. - ESTE PRODUCTO DE SOFTWARE INFORMÁTICO ES UNA CREACIÓN AUDIOVISUAL DE FICCIÓN. CUALQUIER PARECIDO CON HECHOS O PERSONAS REALES, VIVAS O MUERTAS, ES PURA COINCIDENCIA. NI LAS NACIONES UNIDAS NI OTROS ORGANISMOS INTERNACIONALES HAN APROBADO, APOYADO O AUTORIZADO EL USO DE SUS NOMBRES O LOGOS EN EL PRODUCTO.",
+        "it": "Qualche minuto fa, Third Echelon ha intercettato una comunicazione crittografata tra Jin Soo e il quartier generale dell'ONU a Manhattan. C'è puzza di bruciato. Dobbiamo assolutamente scoprire cosa sta succedendo. Preparatevi all'infiltrazione in uno degli edifici più protetti del mondo. Non dimenticate che il quartier generale delle Nazioni Unite è territorio internazionale. Non è consentito l'uso di forza letale e la missione verrà annullata in caso di allarme generale. - QUESTO PRODOTTO SOFTWARE È UN'OPERA AUDIOVISIVA DI FANTASIA. QUALSIASI SOMIGLIANZA CON EVENTI REALI O PERSONE, VIVE O MORTE, È PURAMENTE CASUALE. INOLTRE, NÉ LE NAZIONI UNITE NÉ QUALSIASI ALTRA ORGANIZZAZIONE INTERNAZIONALE HANNO APPROVATO, SOSTENUTO O AUTORIZZATO L'USO DEI LORO NOMI E LOGHI NÉ IL PRODOTTO IN SÉ.",
+        "th": ""
+      },
+      "MapName": {
+        "en": "UN HEADQUARTERS",
+        "fr": "Q.G. DE L'O.N.U.",
+        "de": "UNO-HAUPTQUARTIER",
+        "es": "SEDE DE LA ONU",
+        "it": "QUARTIER GENERALE ONU",
+        "th": ""
+      }
+    },
+    "Computer": {
+      "_source": "07_UNhq",
+      "CompBombPlan": {
+        "en": "Bombing Plan",
+        "fr": "Plan de placement de la bombe",
+        "de": "Sprengsatz-Plan",
+        "es": "Plano de las bombas",
+        "it": "Piano bomba",
+        "th": ""
+      },
+      "CompMetalDetector": {
+        "en": "Disable Metal Detector",
+        "fr": "Désactiver le détecteur de métaux",
+        "de": "Metalldetektor deaktivieren",
+        "es": "Desactivar detector de metales",
+        "it": "Disattiva il metal detector",
+        "th": ""
+      },
+      "CompSecurityDoor": {
+        "en": "Open Security Control Room Entrance",
+        "fr": "Ouvrir la porte de la salle de contrôle",
+        "de": "Eingang zum Sicherheitskontrollraum öffnen",
+        "es": "Abrir la sala de control de seguridad",
+        "it": "Apri la sala della sicurezza",
+        "th": ""
+      },
+      "CompServiceDoor": {
+        "en": "Unlock Service Doors",
+        "fr": "Déverrouiller les portes de service",
+        "de": "Wartungstüren aufschließen",
+        "es": "Desbloquear las puertas de servicio",
+        "it": "Apri le porte di servizio",
+        "th": ""
+      }
+    },
+    "Email": {
+      "_source": "07_UNhq",
+      "EmailJinBody": {
+        "en": "I sent you a precise plan about where to place the bomb. Be sure that the bomb blows during tonight’s assembly.",
+        "fr": "Je vous ai envoyé un plan montrant précisément où placer la bombe. Veillez à ce qu'elle explose durant l'assemblée de ce soir.",
+        "de": "Ich habe Ihnen eine genaue Positionierungsanweisung für den Sprengsatz geschickt. Sorgen Sie dafür, dass er während der Versammlung am heutigen Abend hochgeht.",
+        "es": "He enviado un plano que detalla dónde colocar la bomba. Hay que asegurarse de que estalla durante la asamblea de esta noche.",
+        "it": "Ti ho inviato un piano preciso su dove piazzare la bomba. Assicurati che la bomba esploda durante la riunione di stasera.",
+        "th": ""
+      },
+      "EmailJinDate": {
+        "en": "31/10/2005",
+        "fr": "31/10/2005",
+        "de": "31.10.2005",
+        "es": "31/10/2005",
+        "it": "31/10/2005",
+        "th": ""
+      },
+      "EmailJinFrom": {
+        "en": "Jin Soo",
+        "fr": "Jin Soo",
+        "de": "Jin Soo",
+        "es": "Jin Soo",
+        "it": "Jin Soo",
+        "th": ""
+      },
+      "EmailJinSubject": {
+        "en": "Plan",
+        "fr": "Plan",
+        "de": "Plan",
+        "es": "Plano",
+        "it": "Piano",
+        "th": ""
+      },
+      "EmailJinTo": {
+        "en": "Kim Pak-tu",
+        "fr": "Kim Pak-tu",
+        "de": "Kim Pak-tu",
+        "es": "Kim Pak-tu",
+        "it": "Kim Pak-tu",
+        "th": ""
+      },
+      "EmailNewsBody": {
+        "en": "Tonight, at the UN Peacekeeping Annual Assembly in New York City, UN Secretary will speak about the Korean peninsula's peaceful future.",
+        "fr": "Ce soir, à l'assemblée annuelle de la paix de New York, le secrétaire général de l'O.N.U. s'exprimera au sujet de l'avenir pacifique de la péninsule coréenne.",
+        "de": "Heute Abend wird der UN-Generalsekretär auf der Jahresversammlung der Friedensmissionen in New York eine Rede zur Zukunft der koreanischen Halbinsel halten.",
+        "es": "Esta noche, en la Asamblea Anual por la Paz que se celebra en Nueva York, el secretario de la ONU hablará sobre el futuro de la península coreana.",
+        "it": "Stasera, durante l'Assemblea Annuale dell'ONU sulla Pace, il segretario delle Nazioni Unite parlerà del futuro pacifico della penisola coreana.",
+        "th": ""
+      },
+      "EmailNewsDate": {
+        "en": "31/10/2005",
+        "fr": "31/10/2005",
+        "de": "31.10.2005",
+        "es": "31/10/2005",
+        "it": "31/10/2005",
+        "th": ""
+      },
+      "EmailNewsFrom": {
+        "en": "WNM News Wire",
+        "fr": "WNM Actualités",
+        "de": "WNM-Eilmeldung",
+        "es": "Boletín de noticias de la WNM",
+        "it": "Notizie della WNM",
+        "th": ""
+      },
+      "EmailNewsSubject": {
+        "en": "UN Secretary speaking at UN Peacekeeping Annual Assembly",
+        "fr": "Le secrétaire général de l'O.N.U. s'exprimera à l'assemblée annuelle de la paix des Nations Unies",
+        "de": "UN-Generalsekretär spricht auf Jahresversammlung der Friedensmissionen",
+        "es": "El secretario de la ONU hablará en la Asamblea Anual por la Paz",
+        "it": "Discorso del segretario dell'ONU all'Assemblea Annuale sulla Pace",
+        "th": ""
+      },
+      "EmailNewsTo": {
+        "en": "Subscriber",
+        "fr": "Abonné",
+        "de": "Abonnent",
+        "es": "Suscriptor",
+        "it": "Iscritti",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_BloodMessage": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Dammit! Someone arrived before us. It must be Kim.  Stop him at any cost.",
+        "fr": "LAMBERT - Bon sang ! Quelqu'un est arrivé avant nous. Il doit s'agir de Kim. Arrêtez-le à tout prix !",
+        "de": "LAMBERT - Verdammt! Da ist uns jemand zuvor gekommen. Das muss Kim sein. Halte ihn um jeden Preis auf.",
+        "es": "LAMBERT - ¡Maldición! Alguien se nos ha adelantado, debe ser Kim. Detenedle a toda costa.",
+        "it": "LAMBERT - Dannazione! Qualcuno è arrivato prima di noi. Dev'essere stato Kim. Fermatelo ad ogni costo.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_Cameranetmessage": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - That's weird! Security cameras are off. Proceed to the security control room floor.",
+        "fr": "LAMBERT - C'est étrange, les caméras de surveillance ont été coupées. Rendez-vous à l'étage de la salle de contrôle de la sécurité.",
+        "de": "LAMBERT - Komisch! Die Sicherheitskameras sind ausgeschaltet. Gehe in das Stockwerk mit dem Sicherheitskontrollraum.",
+        "es": "LAMBERT - ¡Qué raro! Las cámaras de seguridad están desconectadas. Id a la planta de la sala de control.",
+        "it": "LAMBERT - Strano! Le telecamere a circuito chiuso sono spente. Andate al piano della sala della sicurezza.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_DefeatKim": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Got him! Kim won't be a threat any longer. Good job.",
+        "fr": "LAMBERT - Vous l'avez eu ! Kim ne menacera plus personne, désormais. Beau travail.",
+        "de": "LAMBERT - Erwischt! Kim wird niemanden mehr bedrohen. Gute Arbeit.",
+        "es": "LAMBERT - ¡Le tenemos! Kim ya no será una amenaza. ¡Buen trabajo, muchachos!",
+        "it": "LAMBERT - Preso! Kim non sarà più un pericolo. Bel lavoro.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_EleserviceMessage": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - I remind you that killing UN guards or civilians is not allowed. Moreover, if the general alarm sounds you will no longer be able to reach the bomb. Be invisible and silent like only a Splinter Cell can.",
+        "fr": "LAMBERT - Je vous rappelle qu'il vous est interdit de tuer des civils ou des gardes de l'O.N.U. De plus, si l'alerte générale est donnée, vous ne pourrez plus atteindre la bombe. Soyez invisibles et silencieux comme seuls nos meilleurs agents peuvent l'être.",
+        "de": "LAMBERT - Denke daran, dass du keine UNO-Wachen oder Zivilisten töten darfst. Außerdem kommst du nicht mehr an die Bombe, wenn der Großalarm losgeht. Sei so unsichtbar und lautlos, wie es nur ein Splinter Cell sein kann.",
+        "es": "LAMBERT - Os recuerdo que no podéis matar a civiles o guardias de la ONU. Es más, si salta la alarma general no podréis llegar hasta la bomba, así que sed sigilosos como sólo un splinter cell sabe ser.",
+        "it": "LAMBERT - Vi ricordo che uccidere le guardie dell'ONU o i civili non è permesso. Inoltre, se scatta l'allarme generale non potrete più raggiungere la bomba. Siate invisibili e silenziosi come solo gli Splinter Cell sanno essere.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_ElevatorMessage": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - The security control room is on the other side of the floor. Once you get out of the elevator, follow the main corridor and you ll find it.",
+        "fr": "LAMBERT - La salle de contrôle de la sécurité se trouve de l'autre côté de cette porte. Une fois sortis de l'ascenseur, suivez le couloir principal et vous tomberez dessus.",
+        "de": "LAMBERT - Der Sicherheitskontrollraum ist auf der anderen Seite des Stockwerks. Wenn du aus dem Aufzug kommst, folge dem Hauptkoridor. Dann wirst du ihn finden.",
+        "es": "LAMBERT - La sala de control de seguridad está al otro lado de la planta. Cuando salgáis del ascensor, id por el pasillo principal y la encontraréis.",
+        "it": "LAMBERT - La sala della sicurezza è dall'altra parte del piano. Quando uscite dall'ascensore seguite il corridoio principale e la troverete.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_Missioncompleted": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - At last, this threat is over. Good job Splinter Cells.",
+        "fr": "LAMBERT - La menace a enfin été éradiquée. Beau travail, les gars.",
+        "de": "LAMBERT - Endlich ist diese Bedrohung beseitigt. Gute Arbeit, Splinter Cells.",
+        "es": "LAMBERT - Por fin hemos acabado con la amenaza. Buen trabajo, splinter cells.",
+        "it": "LAMBERT - Finalmente questa minaccia è sconfitta. Bel lavoro, Splinter Cell.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_NOalarm": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - God Dammit! They called a general alarm. The mission is over.",
+        "fr": "LAMBERT - Bon sang ! L'alerte générale a été déclenchée ! La mission est terminée.",
+        "de": "LAMBERT - Verdammt noch mal! Der allgemeine Alarm wurde ausgelöst. Der Einsatz ist beendet.",
+        "es": "LAMBERT - ¡Maldita sea! ¡Han dado la alarma general! Se acabó la misión.",
+        "it": "LAMBERT - Dannazione! È l'allarme generale. Missione annullata.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_NOkill": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Sweet Jesus! what did you do ? The mission is aborted",
+        "fr": "LAMBERT - Seigneur ! Qu'avez-vous fait ? La mission est annulée.",
+        "de": "LAMBERT - Mein Gott! Was war das denn? Der Einsatz wird abgebrochen.",
+        "es": "LAMBERT - ¡Dios mío! ¿Pero qué habéis hecho? ¡La misión queda abortada!",
+        "it": "LAMBERT - Santo cielo! Cosa avete fatto? Missione annullata!",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_NOkill02": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Sweet Jesus! what did you do ? The mission is aborted",
+        "fr": "LAMBERT - Seigneur ! Qu'avez-vous fait ? La mission est annulée.",
+        "de": "LAMBERT - Mein Gott! Was war das denn? Der Einsatz wird abgebrochen.",
+        "es": "LAMBERT - ¡Dios mío! ¿Pero qué habéis hecho? ¡La misión queda abortada!",
+        "it": "LAMBERT - Santo cielo! Cosa avete fatto? Missione annullata!",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_NOkill03": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Sweet Jesus! what did you do ? The mission is aborted",
+        "fr": "LAMBERT - Seigneur ! Qu'avez-vous fait ? La mission est annulée.",
+        "de": "LAMBERT - Mein Gott! Was war das denn? Der Einsatz wird abgebrochen.",
+        "es": "LAMBERT - ¡Dios mío! ¿Pero qué habéis hecho? ¡La misión queda abortada!",
+        "it": "LAMBERT - Santo cielo! Cosa avete fatto? Missione annullata!",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_NOkill04": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Sweet Jesus! what did you do ? The mission is aborted",
+        "fr": "LAMBERT - Seigneur ! Qu'avez-vous fait ? La mission est annulée.",
+        "de": "LAMBERT - Mein Gott! Was war das denn? Der Einsatz wird abgebrochen.",
+        "es": "LAMBERT - ¡Dios mío! ¿Pero qué habéis hecho? ¡La misión queda abortada!",
+        "it": "LAMBERT - Santo cielo! Cosa avete fatto? Missione annullata!",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_Nokill05": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Sweet Jesus! what did you do ? The mission is aborted",
+        "fr": "LAMBERT - Seigneur ! Qu'avez-vous fait ? La mission est annulée.",
+        "de": "LAMBERT - Mein Gott! Was war das denn? Der Einsatz wird abgebrochen.",
+        "es": "LAMBERT - ¡Dios mío! ¿Pero qué habéis hecho? ¡La misión queda abortada!",
+        "it": "LAMBERT - Santo cielo! Cosa avete fatto? Missione annullata!",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_Objectives": {
+      "_source": "P_07_UNhq",
+      "Note_0026L": {
+        "en": "Lethal force on UN guards and civilians is not allowed",
+        "fr": "Défense de tuer les civils ou les gardes de l'O.N.U.",
+        "de": "Die Anwendung tödlicher Gewalt bei UNO-Wachen oder Zivilisten ist verboten.",
+        "es": "No está permitido el uso de fuerza letal contra personal de la ONU.",
+        "it": "È proibito usare la forza letale con guardie dell'ONU e civili.",
+        "th": ""
+      },
+      "Note_0027L": {
+        "en": "The mission will be aborted if a general alarm is called",
+        "fr": "La mission sera annulée si l'alerte générale est déclenchée",
+        "de": "Der Einsatz wird abgebrochen, wenn der allgemeine Alarm ausgelöst wird.",
+        "es": "La misión será abortada si suena la alarma general.",
+        "it": "La missione sarà annullata in caso di allarme generale.",
+        "th": ""
+      },
+      "Note_0028L": {
+        "en": "Emergency doors can only be opened from the inside",
+        "fr": "Les issues de secours ne s'ouvrent que de l'intérieur",
+        "de": "Die Notfalltüren lassen sich nur von innen öffnen.",
+        "es": "Las puertas de emergencia sólo se abren desde el interior.",
+        "it": "Le porte di emergenza si aprono solo dall'interno.",
+        "th": ""
+      },
+      "Note_0029L": {
+        "en": "The Security Control Room is on the 22nd floor",
+        "fr": "La salle de contrôle de la sécurité se trouve au 22e étage",
+        "de": "Der Sicherheitskontrollraum ist im 21. Stock.",
+        "es": "La sala de control de seguridad está en la planta 22.",
+        "it": "La sala della sicurezza è al ventiduesimo piano.",
+        "th": ""
+      },
+      "Note_0034L": {
+        "en": "The ventilation system is on top of the General Assembly Hall",
+        "fr": "Le système de ventilation se trouve au-dessus de la salle d'assemblée générale",
+        "de": "Das Lüftungssystem befindet sich über dem Raum für die Hauptversammlung.",
+        "es": "El sistema de ventilación está sobre la Sala de la Asamblea General.",
+        "it": "Il sistema di ventilazione è sopra la sala dell'Assemblea Generale.",
+        "th": ""
+      },
+      "Note_0035L": {
+        "en": "The General Assembly Hall is in the second building",
+        "fr": "La salle d'assemblée générale est située dans le second immeuble",
+        "de": "Der Raum für die Hauptversammlung ist im zweiten Gebäude.",
+        "es": "La Sala de la Asamblea General está en el segundo edificio.",
+        "it": "La sala dell'Assemblea Generale è nel secondo edificio.",
+        "th": ""
+      },
+      "Note_0036L": {
+        "en": "The ground floor can be reached with a service elevator",
+        "fr": "Un ascenseur de service permet d'accéder au rez-de-chaussée",
+        "de": "Das Erdgeschoss kann über einen Wartungsaufzug erreicht werden.",
+        "es": "La planta baja tiene un acceso a través de un ascensor de servicio.",
+        "it": "Il piano terra si può raggiungere con un ascensore di servizio.",
+        "th": ""
+      },
+      "Objective_0007": {
+        "en": "Infiltrate the building",
+        "fr": "Infiltrez-vous à l'intérieur de l'immeuble",
+        "de": "Dringen Sie in das Gebäude ein.",
+        "es": "Infiltraos en el edificio.",
+        "it": "Infiltrati nell'edificio.",
+        "th": ""
+      },
+      "Objective_0008": {
+        "en": "The service stairs lead to the top floor, but the emergency doors can only be opened from the inside. Find another way to get into the building.",
+        "fr": "L'escalier de service mène à l'étage supérieur, mais les issues de secours ne s'ouvrent que de l'intérieur. Trouvez un autre moyen de pénétrer à l'intérieur de l'immeuble.",
+        "de": "Die Wartungstreppe führt ins oberste Stockwerk, aber die Notfalltüren lassen sich nur von innen öffnen. Finden Sie einen anderen Weg in das Gebäude.",
+        "es": "Las escaleras de servicio llegan hasta la planta superior, pero las puertas de emergencia sólo se abren desde dentro. Buscad otra forma de entrar.",
+        "it": "Le scale di servizio portano all'ultimo piano, ma le porte di emergenza si aprono solo dall'interno. Trova un altro modo di entrare nell'edificio.",
+        "th": ""
+      },
+      "Objective_0012": {
+        "en": "Reach the Security Control Room",
+        "fr": "Accédez à la salle de contrôle de la sécurité",
+        "de": "Begeben Sie sich zum Sicherheits-kontrollraum.",
+        "es": "Id a la sala de control de seguridad.",
+        "it": "Raggiungi la sala della sicurezza",
+        "th": ""
+      },
+      "Objective_0013": {
+        "en": "Security cameras are off. Use the elevator to reach the Security Control Room.",
+        "fr": "Les caméras de surveillance ne fonctionnent plus. Prenez l'ascenseur pour accéder à la salle de contrôle de la sécurité.",
+        "de": "Die Sicherheitskameras sind ausgeschaltet. Mit dem Aufzug erreichen Sie den Sicherheitskontrollraum.",
+        "es": "Las cámaras de seguridad están desconectadas. Usad el ascensor para ir a la sala de control de seguridad.",
+        "it": "Le telecamere a circuito chiuso sono spente. Usa l'ascensore per raggiungere la sala della sicurezza.",
+        "th": ""
+      },
+      "Objective_0016": {
+        "en": "Stop Colonel Kim",
+        "fr": "Arrêtez le colonel Kim",
+        "de": "Halten Sie Oberst Kim auf.",
+        "es": "Detened al coronel Kim.",
+        "it": "Ferma il colonnello Kim",
+        "th": ""
+      },
+      "Objective_0017": {
+        "en": "Colonel Kim has taken control of the Security Control Room.",
+        "fr": "Le colonel Kim s'est rendu maître de la salle de contrôle de la sécurité.",
+        "de": "Oberst Kim hat den Sicherheitskontrollraum in seine Gewalt gebracht.",
+        "es": "El coronel Kim se ha hecho con el control de la sala de seguridad.",
+        "it": "Il colonnello Kim ha preso il controllo della sala della sicurezza.",
+        "th": ""
+      },
+      "Objective_0024": {
+        "en": "Recover the encrypted data sent by Jin Soo",
+        "fr": "Récupérez les données cryptées envoyées par Jin Soo",
+        "de": "Suchen Sie nach der verschlüsselten Botschaft von Jin Soo",
+        "es": "Recuperad los datos encriptados enviados por Jin Soo.",
+        "it": "Recupera i dati codificati inviati da Jin Soo",
+        "th": ""
+      },
+      "Objective_0025": {
+        "en": "Third Echelon intercepted an encrypted communication between Jin Soo and the UN Headquarters. Recover any data sent by Jin Soo.",
+        "fr": "Echelon 3 a intercepté une communication cryptée entre Jin Soo et le Q.G. de l'O.N.U. Récupérez les données envoyées par Jin Soo.",
+        "de": "Third Echelon hat eine verschlüsselte Botschaft von Jin Soo an das UNO-Hauptquartier abgefangen. Sichern Sie alle von Jin Soo gesendeten Daten.",
+        "es": "Third Echelon interceptó una comunicación encriptada entre Jin Soo y la sede de la ONU. Recuperad cualquier dato enviado por Soo.",
+        "it": "Third Echelon ha intercettato una comunicazione codificata tra Jin Soo e il quartier generale delle Nazioni Unite. Recupera i dati spediti da Jin Soo.",
+        "th": ""
+      },
+      "Objective_0032": {
+        "en": "Defuse the bomb before it blows",
+        "fr": "Désamorcez la bombe avant qu'elle n'explose",
+        "de": "Entschärfen Sie die Bombe, bevor sie detoniert.",
+        "es": "Desactivad la bomba antes de que estalle.",
+        "it": "Disinnesca la bomba prima che esploda",
+        "th": ""
+      },
+      "Objective_0033": {
+        "en": "Kim placed a bomb in the General Assembly Hall ventilation system. Defuse it before the countdown is over.",
+        "fr": "Kim a placé une bombe dans le système de ventilation de la salle d'assemblée générale. Désamorcez-la avant la fin du compte à rebours.",
+        "de": "Kim hat eine Bombe im Lüftungssystem der Halle versteckt, in der die Hauptversammlung stattfindet. Entschärfen Sie sie, bevor der Countdown abläuft.",
+        "es": "Kim ha puesto una bomba en el sistema de ventilación de la Sala de la Asamblea General. Desactivarla antes de que acabe la cuenta atrás.",
+        "it": "Kim ha piazzato una bomba nel sistema di ventilazione della sala dell'Assemblea Generale. Disinnescala prima che finisca il conto alla rovescia.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0040": {
+        "en": "Reach the Security Control Room",
+        "fr": "Accédez à la salle de contrôle de la sécurité",
+        "de": "Begeben Sie sich zum Sicherheitskontrollraum.",
+        "es": "Id a la sala de control de seguridad.",
+        "it": "Raggiungi la sala della sicurezza",
+        "th": ""
+      },
+      "POPUPMESSAGE_0041": {
+        "en": "Stop Colonel Kim",
+        "fr": "Arrêtez le colonel Kim",
+        "de": "Halten Sie Oberst Kim auf.",
+        "es": "Detened al coronel Kim.",
+        "it": "Ferma il colonnello Kim",
+        "th": ""
+      },
+      "POPUPMESSAGE_0042": {
+        "en": "Defuse the bomb before it blows",
+        "fr": "Désamorcez la bombe avant qu'elle n'explose",
+        "de": "Entschärfen Sie die Bombe vor der Detonation.",
+        "es": "Desactivar la bomba antes de que estalle.",
+        "it": "Disinnesca la bomba prima che esploda",
+        "th": ""
+      },
+      "POPUPMESSAGE_0043": {
+        "en": "Infiltrate the building",
+        "fr": "Infiltrez-vous à l'intérieur de l'immeuble",
+        "de": "Dringen Sie in das Gebäude ein.",
+        "es": "Infiltraos en el edificio.",
+        "it": "Infiltrati nell'edificio.",
+        "th": ""
+      },
+      "Speech_0030L": {
+        "en": "LAMBERT - Here we are. Be ready for hostilities.",
+        "fr": "LAMBERT - Nous y sommes. Soyez prêts au combat.",
+        "de": "LAMBERT - Los geht's. Es ist mit Feindseligkeiten zu rechnen.",
+        "es": "LAMBERT - Bien, hemos llegado. Listos para la pelea.",
+        "it": "LAMBERT - Ci siamo. Pronti alle ostilità.",
+        "th": ""
+      },
+      "Speech_0037L": {
+        "en": "LAMBERT - My God! Kim placed a bomb before we arrived. It's in the General Assembly Hall ventilation system. An important meeting is taking place there. Hurry! You must defuse the bomb before it blows.",
+        "fr": "LAMBERT - Seigneur ! Kim a placé une bombe avant notre arrivée. Elle se trouve dans le système de ventilation de la salle d'assemblée générale, où une importante réunion se déroule actuellement. Vite ! Il faut la désamorcer avant qu'elle n'explose!",
+        "de": "LAMBERT - Mein Gott! Kim hat eine Bombe gelegt, bevor wir angekommen sind. Sie befindet sich im Lüftungssystem der Halle, in der die UNO-Hauptversammlung stattfindet. Dieses Treffen ist von höchster Bedeutung. Beeilung! Die Bombe muss vor der Detonation entschärft werden.",
+        "es": "LAMBERT - ¡Cielos! Kim ha puesto una bomba antes de que llegáramos. Está en el sistema de ventilación de la sala de la Asamblea General, donde se celebra una importante reunión. Rápido, desactivadla.",
+        "it": "LAMBERT - Mio dio! Kim ha piazzato una bomba prima che arrivassimo. È nel sistema di ventilazione della sala dell'Assemblea Generale, dove si sta tenendo un'importante riunione. Presto! Dovete disinnescare la bomba prima che esploda.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_paralleltimer": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Time is running out! Only 5 minutes left. Hurry up!",
+        "fr": "LAMBERT - Faites vite, il ne reste plus que 5 minutes !",
+        "de": "LAMBERT - Die Zeit läuft uns davon! Nur noch 5 Minuten. Los, los!",
+        "es": "LAMBERT - ¡El tiempo corre! Sólo quedan 5 minutos, ¡daos prisa!",
+        "it": "LAMBERT - Il tempo sta finendo! Mancano solo 5 minuti. Presto!",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "LAMBERT - Time is almost up. In 60 seconds it will be too late. Come on!",
+        "fr": "LAMBERT - Dépêchez-vous, ou il sera trop tard ! Il ne reste plus que 60 secondes !",
+        "de": "LAMBERT - Die Zeit ist fast abgelaufen. In 60 Sekunden ist es zu spät! Schneller!",
+        "es": "LAMBERT - ¡El tiempo se agota! Un minuto y será demasiado tarde. ¡Deprisa!",
+        "it": "LAMBERT - Il tempo è quasi scaduto. Tra 60 secondi sarà troppo tardi. Avanti!",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "LAMBERT - We have only 10 minutes before it blows.",
+        "fr": "LAMBERT - La bombe doit exploser dans 10 minutes.",
+        "de": "LAMBERT - In 10 Minuten geht die Bombe hoch.",
+        "es": "LAMBERT - Nos quedan 10 minutos antes de que explote.",
+        "it": "LAMBERT - Mancano solo 10 minuti all'esplosione.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "LAMBERT - Bad news. We have only 20 minutes before it blows.",
+        "fr": "LAMBERT - Mauvaise nouvelle, la bombe doit exploser dans 20 minutes.",
+        "de": "LAMBERT - Schlechte Nachrichten. In 20 Minuten geht die Bombe hoch.",
+        "es": "LAMBERT - Malas noticias. Nos quedan 20 minutos antes de que explote.",
+        "it": "LAMBERT - Brutte notizie. Mancano solo 20 minuti all'esplosione.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_Startingmessage": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Welcome to the UN. Remember that lethal force is not allowed and I'll abort the mission if a general alarm sounds. Now, rappel down to the window washing platform and get into the building.",
+        "fr": "LAMBERT - Bienvenue à l'O.N.U. N'oubliez pas qu'il ne faut en aucun cas tuer qui que ce soit et que je devrai annuler la mission si l'alerte générale est donnée. Et maintenant, descendez en rappel jusqu'à la nacelle des laveurs de carreaux et entrez dans l'immeuble.",
+        "de": "LAMBERT - Willkommen bei der UNO. Denke daran, dass das Anwenden von tödlicher Gewalt untersagt ist. Ich breche den Einsatz ab, sobald ein Großalarm ausgelöst wird. Und jetzt lass dich an dem Fensterputzer-Aufzug runter und dringe in das Gebäude ein.",
+        "es": "LAMBERT - Bienvenidos a la ONU. Os recuerdo que no está permitido el uso de fuerza letal. Si suena una alarma general abortaré la mission. Ahora, descolgaos hasta el andamio del limpiaventanas y entrad en el edificio.",
+        "it": "LAMBERT - Benvenuti alle Nazioni Unite. Ricordate che l'uso della forza letale non è ammesso e che annullerò la missione in caso di allarme generale. Ora calatevi sulla piattaforma lavavetri ed entrate nell'edificio.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_Ventilationroomsg": {
+      "_source": "P_07_UNhq",
+      "Speech_0001L": {
+        "en": "LAMBERT - Well done. That's half of the job. Now you have to reach the other side of the room. There's a passage but you must go back downstairs to find it.",
+        "fr": "LAMBERT - Bien joué. Vous avez rempli la moitié de votre mission. Vous devez maintenant rejoindre l'autre côté de la pièce. Un passage y mène, mais il faut redescendre pour le trouver.",
+        "de": "LAMBERT - Gut gemacht. Das ist schon die halbe Miete. Und jetzt auf zur anderen Seite des Raums. Dort gibt es einen Durchgang, aber man muss nach unten, um ihn zu finden.",
+        "es": "LAMBERT - Bien, habéis hecho la mitad del trabajo. Ahora debéis llegar al otro lado de la sala. Hay un camino, pero tenéis que volver abajo para encontrarlo.",
+        "it": "LAMBERT - Ben fatto. Questa era metà del lavoro. Ora dovete andare dall'altra parte della stanza. C'è un passaggio, ma dovete ridiscendere per trovarlo.",
+        "th": ""
+      }
+    },
+    "P_07_UNhq_BaseAlert": {
+      "_source": "P_07_UNhq",
+      "POPUPMESSAGE_0002": {
+        "en": "Alarm Stage One",
+        "fr": "Niveau d'alerte 1",
+        "de": "Alarmstufe Eins",
+        "es": "Alarma de nivel uno",
+        "it": "Allarme di primo livello",
+        "th": ""
+      },
+      "POPUPMESSAGE_0003": {
+        "en": "Alarm Stage Two",
+        "fr": "Niveau d'alerte 2",
+        "de": "Alarmstufe Zwei",
+        "es": "Alarma de nivel dos",
+        "it": "Allarme di secondo livello",
+        "th": ""
+      },
+      "POPUPMESSAGE_0004": {
+        "en": "Alarm Stage Three",
+        "fr": "Niveau d'alerte 3",
+        "de": "Alarmstufe Drei",
+        "es": "Alarma de nivel tres",
+        "it": "Allarme di terzo livello",
+        "th": ""
+      },
+      "POPUPMESSAGE_0005": {
+        "en": "Alarm Stage Four - Full Alert",
+        "fr": "Niveau d'alerte 4 - alerte rouge",
+        "de": "Alarmstufe Vier – Grossalarm",
+        "es": "Alarma de nivel cuatro - Alerta general",
+        "it": "Allarme di quarto livello - Allarme Generale",
+        "th": ""
+      }
+    }
+  }
+}

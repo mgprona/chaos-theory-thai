@@ -1,0 +1,1107 @@
+{
+  "_meta": {
+    "category": "ui",
+    "name": "hud",
+    "sources": [
+      "HUD"
+    ],
+    "total_strings": 135
+  },
+  "sections": {
+    "CRYOTANK": {
+      "_source": "HUD",
+      "BloodTypeA": {
+        "en": "Anti-viral protocol Component One = Blood Serum Type A.",
+        "fr": "Elément 1 du protocole antiviral : sérum sanguin de groupe A.",
+        "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe A",
+        "es": "Componente Uno del protocolo antivírico = Suero sanguíneo tipo A.",
+        "it": "Componente protocollo antivirale 1 = Siero di sangue tipo A.",
+        "th": ""
+      },
+      "BloodTypeB": {
+        "en": "Anti-viral protocol Component One = Blood Serum Type B.",
+        "fr": "Elément 2 du protocole antiviral : sérum sanguin de groupe B.",
+        "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe B",
+        "es": "Componente Uno del protocolo antivírico = Suero sanguíneo tipo B.",
+        "it": "Componente protocollo antivirale 1 = Siero di sangue tipo B.",
+        "th": ""
+      },
+      "BloodTypeO": {
+        "en": "Anti-viral protocol Component One = Blood Serum Type O.",
+        "fr": "Elément 3 du protocole antiviral : sérum sanguin de groupe O.",
+        "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe 0",
+        "es": "Componente Uno del protocolo antivírico = Suero sanguíneo tipo O.",
+        "it": "Componente protocollo antivirale 1 = Siero di sangue tipo 0.",
+        "th": ""
+      },
+      "FormulaPlayerA": {
+        "en": "Anti-viral protocol User A = ",
+        "fr": "Séquence du protocole - utilisateur 1 : ",
+        "de": "Antiviren-Protokoll Benutzer Eins = ",
+        "es": "Usuario Uno del protocolo antivírico = ",
+        "it": "Protocollo antivirale utente 1 = ",
+        "th": ""
+      },
+      "FormulaPlayerB": {
+        "en": "Anti-viral protocol User B = ",
+        "fr": "Séquence du protocole - utilisateur 2 : ",
+        "de": "Antiviren-Protokoll Benutzer Zwei = ",
+        "es": "Usuario Dos del protocolo antivírico = ",
+        "it": "Protocollo antivirale utente 2 = ",
+        "th": ""
+      },
+      "CryoColorBlue": {
+        "en": "D Blue",
+        "fr": "D Bleu",
+        "de": "D Blau",
+        "es": "D Azul",
+        "it": "D Blu",
+        "th": ""
+      },
+      "CryoColorRed": {
+        "en": "B Red",
+        "fr": "B Rouge",
+        "de": "B Rot",
+        "es": "B Rojo",
+        "it": "B Rosso",
+        "th": ""
+      },
+      "CryoColorViolet": {
+        "en": "C Violet",
+        "fr": "C Violet",
+        "de": "C Violett",
+        "es": "C Violeta",
+        "it": "C Viola",
+        "th": ""
+      },
+      "CryoColorGreen": {
+        "en": "A Green",
+        "fr": "A Vert",
+        "de": "A Grün",
+        "es": "A Verde",
+        "it": "A Verde",
+        "th": ""
+      },
+      "CryoColorYellow": {
+        "en": "E Yellow",
+        "fr": "E Jaune",
+        "de": "E Gelb",
+        "es": "E Amarillo",
+        "it": "E Giallo",
+        "th": ""
+      },
+      "CryoColorAqua": {
+        "en": "F Aqua",
+        "fr": "F Turquoise",
+        "de": "F Aquamarin",
+        "es": "F Agua",
+        "it": "F Acqua",
+        "th": ""
+      },
+      "CryoColorError": {
+        "en": "ERROR",
+        "fr": "ERREUR",
+        "de": "FEHLER",
+        "es": "ERROR",
+        "it": "ERRORE",
+        "th": ""
+      }
+    },
+    "Transmission": {
+      "_source": "HUD",
+      "PickUp": {
+        "en": " picked up",
+        "fr": "ramassé",
+        "de": "Aufheben",
+        "es": "recogido",
+        "it": "raccolto",
+        "th": ""
+      },
+      "NoPickUp": {
+        "en": "You are carrying too many ",
+        "fr": "Vous transportez trop de ",
+        "de": "Sie tragen zu viele ",
+        "es": "No puedes llevar más  ",
+        "it": "Non puoi prendere più ",
+        "th": ""
+      },
+      "SatchelFind": {
+        "en": " recovered from satchel",
+        "fr": "pris dans la sacoche",
+        "de": "vom Ranzen geborgen",
+        "es": "recuperado de la mochila",
+        "it": "preso dalla borsa",
+        "th": ""
+      },
+      "BodyFound": {
+        "en": "A Body was found...Alarm stage increased",
+        "fr": "Un corps a été découvert... Niveau d'alerte augmenté.",
+        "de": "Körper gefunden ... Alarmstufe erhöht",
+        "es": "Han encontrado un cuerpo... Aumenta el nivel de alarma.",
+        "it": "È stato trovato un corpo... Livello di allarme aumentato",
+        "th": ""
+      },
+      "ComputerPickUp": {
+        "en": "Data stick picked up from computer",
+        "fr": "Carte mémoire prise dans l'ordinateur",
+        "de": "Datenstick aus Computer entnommen",
+        "es": "Tarjeta de memoria recogida del ordenador.",
+        "it": "Data stick prelevato dal computer",
+        "th": ""
+      },
+      "DoorLock": {
+        "en": "Door locked",
+        "fr": "Porte verrouillée",
+        "de": "Tür abgeschlossen",
+        "es": "Puerta bloqueada",
+        "it": "Porta chiusa",
+        "th": ""
+      },
+      "DoorJam": {
+        "en": "Lock jammed",
+        "fr": "Serrure bloquée",
+        "de": "Schloss verklemmt",
+        "es": "Cierre interferido",
+        "it": "Serratura bloccata",
+        "th": ""
+      },
+      "DoorPick": {
+        "en": "Door picked",
+        "fr": "Porte crochetée",
+        "de": "Türschloss geknackt",
+        "es": "Cerradura forzada",
+        "it": "Porta forzata",
+        "th": ""
+      },
+      "ElevatorPower": {
+        "en": "Elevator not powered",
+        "fr": "Ascenseur sans courant",
+        "de": "Aufzug ist ohne Strom",
+        "es": "Ascensor sin corriente",
+        "it": "Ascensore spento",
+        "th": ""
+      },
+      "MedKitNotUsed": {
+        "en": "Already at full health",
+        "fr": "Déjà en pleine santé",
+        "de": "Lebensenergie voll",
+        "es": "Tienes el máximo de salud",
+        "it": "Salute al massimo",
+        "th": ""
+      },
+      "MedKitUsed": {
+        "en": "Medkit used. Recovering health points",
+        "fr": "Trousse de premiers soins utilisée, récupération de points de santé.",
+        "de": "Medi-Kit benutzt. Lebensenergie wird wieder aufgeladen",
+        "es": "Botiquín usado. Recuperando puntos de salud...",
+        "it": "Salute recuperata usando il medikit",
+        "th": ""
+      }
+    },
+    "Interaction": {
+      "_source": "HUD",
+      "Exit": {
+        "en": "Back to game...",
+        "fr": "Retour à la partie...",
+        "de": "Zurück zum Spiel...",
+        "es": "SEGUIR JUGANDO",
+        "it": "Torna alla partita...",
+        "th": ""
+      },
+      "Abort": {
+        "en": "Abort",
+        "fr": "Annuler",
+        "de": "Abbrechen",
+        "es": "Abortar",
+        "it": "Annulla",
+        "th": ""
+      },
+      "Alarm": {
+        "en": "Use alarm",
+        "fr": "Utiliser alarme",
+        "de": "Alarm benutzen",
+        "es": "Usar alarma",
+        "it": "Usa l'allarme",
+        "th": ""
+      },
+      "Bomb": {
+        "en": "Defuse bomb",
+        "fr": "Désamorcer bombe",
+        "de": "Bombe entschärfen",
+        "es": "Desarmar bomba",
+        "it": "Disinnesca la bomba",
+        "th": ""
+      },
+      "C4": {
+        "en": "Place C4",
+        "fr": "Placer C4",
+        "de": "C4 platzieren",
+        "es": "Colocar C4",
+        "it": "Piazza il C4",
+        "th": ""
+      },
+      "CallElevator": {
+        "en": "Call Elevator",
+        "fr": "Appeler l'ascenseur",
+        "de": "Aufzug rufen",
+        "es": "Llamar al ascensor",
+        "it": "Chiama ascensore",
+        "th": ""
+      },
+      "ChargePlace": {
+        "en": "Place Charge",
+        "fr": "Placer charge",
+        "de": "Sprengladg platzieren",
+        "es": "Colocar carga",
+        "it": "Piazza la carica",
+        "th": ""
+      },
+      "ChargeDetonate": {
+        "en": "Detonate Charge",
+        "fr": "Faire exploser charge",
+        "de": "Sprengladung zünden",
+        "es": "Detonar carga",
+        "it": "Fai saltare la carica",
+        "th": ""
+      },
+      "Computer": {
+        "en": "Use Computer",
+        "fr": "Utiliser ordinateur",
+        "de": "Computer benutzen",
+        "es": "Usar ordenador",
+        "it": "Usa il computer",
+        "th": ""
+      },
+      "ComputerBoot": {
+        "en": "Boot Computer",
+        "fr": "Démarrer ordinateur",
+        "de": "Computer starten",
+        "es": "Encender ordenador",
+        "it": "Accendi il computer",
+        "th": ""
+      },
+      "ComputerShut": {
+        "en": "Shutdown Computer",
+        "fr": "Eteindre ordinateur",
+        "de": "Computer abschalten",
+        "es": "Apagar ordenador",
+        "it": "Spegni il computer",
+        "th": ""
+      },
+      "Crane": {
+        "en": "Use Crane",
+        "fr": "Utiliser grue",
+        "de": "Kran benutzen",
+        "es": "Usar grúa",
+        "it": "Usa la gru",
+        "th": ""
+      },
+      "Cryo": {
+        "en": "Use Cryo Tank",
+        "fr": "Utiliser caisson cryo.",
+        "de": "Cryo-Behälter benutz.",
+        "es": "Usar criotanque",
+        "it": "Usa la vasca crio.",
+        "th": ""
+      },
+      "CryoComm": {
+        "en": "Crane instructions",
+        "fr": "Communiquer infos",
+        "de": "Anweisungen durchgeb",
+        "es": "COMUNICAR INSTRUC.",
+        "it": "Comunica istruzioni",
+        "th": ""
+      },
+      "Cuffs": {
+        "en": "Pick Cuffs",
+        "fr": "Crocheter menottes",
+        "de": "Handschellen knacken",
+        "es": "Usar botones",
+        "it": "Prendi le manette",
+        "th": ""
+      },
+      "Defuse": {
+        "en": "Defuse",
+        "fr": "Désamorcer",
+        "de": "Entschärfen",
+        "es": "Desarmar",
+        "it": "Disinnesca",
+        "th": ""
+      },
+      "DoorOpen": {
+        "en": "Open door",
+        "fr": "Ouvrir porte",
+        "de": "Tür öffnen",
+        "es": "Abrir puerta",
+        "it": "Apri la porta",
+        "th": ""
+      },
+      "DoorStealth": {
+        "en": "Open Door Stealth",
+        "fr": "Ouvrir porte (discret)",
+        "de": "Tür leise öffnen",
+        "es": "Abrir con sigilo",
+        "it": "Apri piano la porta",
+        "th": ""
+      },
+      "DoorBash": {
+        "en": "Bash Door",
+        "fr": "Défoncer porte",
+        "de": "Tür aufbrechen",
+        "es": "Romper puerta",
+        "it": "Sfonda la porta",
+        "th": ""
+      },
+      "DoorBreak": {
+        "en": "Break Lock",
+        "fr": "Casser serrure",
+        "de": "Schloss aufbrechen",
+        "es": "Romper cierre",
+        "it": "Rompi la serratura",
+        "th": ""
+      },
+      "DoorClose": {
+        "en": "Close Door",
+        "fr": "Fermer porte",
+        "de": "Tür schlieSSen",
+        "es": "Cerrar puerta",
+        "it": "Chiudi la porta",
+        "th": ""
+      },
+      "DoorPick": {
+        "en": "Pick Lock",
+        "fr": "Crocheter serrure",
+        "de": "Schloss knacken",
+        "es": "Forzar cerradura",
+        "it": "Forza la serratura",
+        "th": ""
+      },
+      "DoorOptic": {
+        "en": "Optic Cable",
+        "fr": "Câble optique",
+        "de": "Optisches Kabel",
+        "es": "Cable óptico",
+        "it": "Cavo ottico",
+        "th": ""
+      },
+      "DoorSlideOpen": {
+        "en": "Slide Open",
+        "fr": "Faire coulisser",
+        "de": "Aufschieben",
+        "es": "ABRIR PUERTA",
+        "it": "Apri a scorrimento",
+        "th": ""
+      },
+      "DoorSlideClose": {
+        "en": "Slide Closed",
+        "fr": "FERMER",
+        "de": "LANGSAM SCHLIESSEN",
+        "es": "CERRAR PUERTA",
+        "it": "CHIUSARA A SCIVOLO",
+        "th": ""
+      },
+      "Elevator": {
+        "en": "Use Elevator",
+        "fr": "Prendre l'ascenseur",
+        "de": "Aufzug benutzen",
+        "es": "Usar ascensor",
+        "it": "Usa l'ascensore",
+        "th": ""
+      },
+      "Extraction": {
+        "en": "Extraction",
+        "fr": "Extraction",
+        "de": "Extraktionspunkt",
+        "es": "Extracción",
+        "it": "Estrazione",
+        "th": ""
+      },
+      "GeneratorSwitch": {
+        "en": "Switch",
+        "fr": "Allumer/Éteindre",
+        "de": "Umschalten",
+        "es": "Interruptor",
+        "it": "Usa l'interruttore",
+        "th": ""
+      },
+      "GeneratorPierce": {
+        "en": "Pierce",
+        "fr": "Percer",
+        "de": "Durchstechen",
+        "es": "Perforar",
+        "it": "Fora",
+        "th": ""
+      },
+      "HotWire": {
+        "en": "Bypass Circuit",
+        "fr": "Contourner circuit",
+        "de": "Stromkreis überbrücken",
+        "es": "Circuito auxiliar",
+        "it": "Bypassa il circuito",
+        "th": ""
+      },
+      "KeyPad": {
+        "en": "Use KeyPad",
+        "fr": "Utiliser clavier num.",
+        "de": "Codeschloss benutzen",
+        "es": "Usar teclado",
+        "it": "Usa il tastierino",
+        "th": ""
+      },
+      "KeyPadHack": {
+        "en": "Hack Keypad",
+        "fr": "Pirater clavier num.",
+        "de": "Codeschloss hacken",
+        "es": "Hackear teclado",
+        "it": "Forza il tastierino",
+        "th": ""
+      },
+      "MedKit": {
+        "en": "Use MedKit",
+        "fr": "Utiliser trousse soins",
+        "de": "Medi-Kit benutzen",
+        "es": "Usar botiquín",
+        "it": "Usa il kit medico",
+        "th": ""
+      },
+      "Mic": {
+        "en": "Disable Mic",
+        "fr": "DESACTIVER MICRO",
+        "de": "Mikrofon deaktivieren",
+        "es": "Desactivar micrófono",
+        "it": "Disattiva il microfono",
+        "th": ""
+      },
+      "Missile": {
+        "en": "Deactivate Missile",
+        "fr": "Désactiver missile",
+        "de": "Rakete deaktivieren",
+        "es": "Desactivar misil",
+        "it": "Disattiva il missile",
+        "th": ""
+      },
+      "Morgenhault": {
+        "en": "Free Morgenholt",
+        "fr": "Libérer Morgenholt",
+        "de": "Morgenholt befreien",
+        "es": "Liberar a Morgenholt",
+        "it": "Libera Morgenholt",
+        "th": ""
+      },
+      "NpcZone0": {
+        "en": "Grab",
+        "fr": "Saisir",
+        "de": "Überwältigen",
+        "es": "Agarrar",
+        "it": "Afferra",
+        "th": ""
+      },
+      "NpcZone1": {
+        "en": "Grab character",
+        "fr": "SAISIR PERSONNAGE",
+        "de": "Charakter überwältig",
+        "es": "Sujetar al personaje",
+        "it": "Afferra il personaggio",
+        "th": ""
+      },
+      "NpcZone2": {
+        "en": "Interrogate",
+        "fr": "Interroger",
+        "de": "Verhören",
+        "es": "Interrogar",
+        "it": "Interroga",
+        "th": ""
+      },
+      "NpcZone3": {
+        "en": "Talk to",
+        "fr": "Parler à",
+        "de": "Reden mit",
+        "es": "Hablar",
+        "it": "Parla con",
+        "th": ""
+      },
+      "NpcZone4": {
+        "en": "...",
+        "fr": "...",
+        "de": "...",
+        "es": "...",
+        "it": "...",
+        "th": ""
+      },
+      "NpcZone5": {
+        "en": "FWD comm",
+        "fr": "Comm. AVT",
+        "de": "FWD-Komm",
+        "es": "Omitir Diálogo",
+        "it": "Inoltra comunicazioni",
+        "th": ""
+      },
+      "NpcZone6": {
+        "en": "body",
+        "fr": "Corps",
+        "de": "Körper",
+        "es": "cuerpo",
+        "it": "Corpo",
+        "th": ""
+      },
+      "Otomo": {
+        "en": "Save Otomo",
+        "fr": "Sauver Otomo",
+        "de": "Otomo retten",
+        "es": "Salvar a Otomo",
+        "it": "Salva Otomo",
+        "th": ""
+      },
+      "Pickup": {
+        "en": "Pickup",
+        "fr": "Prendre",
+        "de": "Aufheben",
+        "es": "Recoger",
+        "it": "Prendi",
+        "th": ""
+      },
+      "Pierce": {
+        "en": "Pierce",
+        "fr": "Percer",
+        "de": "Durchstechen",
+        "es": "Perforar",
+        "it": "Fora",
+        "th": ""
+      },
+      "Pump": {
+        "en": "Activate Pumps",
+        "fr": "Activer les pompes",
+        "de": "Pumpe aktivieren",
+        "es": "Activar bombas",
+        "it": "Attiva le pompe",
+        "th": ""
+      },
+      "Rappel": {
+        "en": "Rappel on wall",
+        "fr": "Rappel sur le mur",
+        "de": "An Wand abseilen",
+        "es": "rápel en la pared",
+        "it": "Scala il muro",
+        "th": ""
+      },
+      "RetSafe": {
+        "en": "Use retinal safe",
+        "fr": "Utiliser scan. rétinien coffre",
+        "de": "Retina-Safe benutzen",
+        "es": "Usar sistema de retina",
+        "it": "Usa la cassaforte retinica",
+        "th": ""
+      },
+      "RetScan": {
+        "en": "Use Retinal Scanner",
+        "fr": "Utiliser scan. rétinien",
+        "de": "Retina-Scan. benutzen",
+        "es": "Usar escáner de retina",
+        "it": "Usa lo scanner retinico",
+        "th": ""
+      },
+      "RetScanHack": {
+        "en": "Hack Retinal Scanner",
+        "fr": "Pirater scan. rétinien",
+        "de": "Retina-Scanner hacken",
+        "es": "Hackear escáner retina",
+        "it": "Forza scanner retinico",
+        "th": ""
+      },
+      "SearchCabinet": {
+        "en": "Search Cabinet",
+        "fr": "Fouiller meuble",
+        "de": "Schrank durchsuchen",
+        "es": "Buscar en la vitrina",
+        "it": "Esamina",
+        "th": ""
+      },
+      "TapPhone": {
+        "en": "Tap Phone Line",
+        "fr": "Poser mouchard micro",
+        "de": "Tel.-Leitung Anzapfen",
+        "es": "Pinchar línea telefón.",
+        "it": "Metti spia sulla linea",
+        "th": ""
+      },
+      "TelemetricPlace": {
+        "en": "Place Telemetric Pick",
+        "fr": "PLACER RÉCEPTEUR TÉLÉM.",
+        "de": "Telmet-Empfgr platzier",
+        "es": "Colocar recep. telem.",
+        "it": "Metti ricevit. telemet.",
+        "th": ""
+      },
+      "TelemetricPick": {
+        "en": "Pick Lock",
+        "fr": "Crocheter serrure",
+        "de": "Schloss knacken",
+        "es": "Forzar cerradura",
+        "it": "Forza la serratura",
+        "th": ""
+      },
+      "Trap": {
+        "en": "Open Trap",
+        "fr": "Ouvrir trappe",
+        "de": "FALLTÜRE ÖFFNEN",
+        "es": "Abrir trampilla",
+        "it": "Apri la botola",
+        "th": ""
+      },
+      "TrapPick": {
+        "en": "Pick Trap",
+        "fr": "Crocheter trappe",
+        "de": "Falle entschärfen",
+        "es": "Forzar trampilla",
+        "it": "Forza la botola",
+        "th": ""
+      },
+      "TrapOptic": {
+        "en": "Optic Cable",
+        "fr": "Câble optique",
+        "de": "Optisches Kabel",
+        "es": "Cable óptico",
+        "it": "Cavo ottico",
+        "th": ""
+      },
+      "TurretActDeact": {
+        "en": "Activate/Deactivate",
+        "fr": "Activer/désactiver",
+        "de": "Aktivieren/Deaktivier",
+        "es": "Activar/desactivar",
+        "it": "Attiva/disattiva",
+        "th": ""
+      },
+      "TurretHack": {
+        "en": "Hack Turret",
+        "fr": "Pirater tourelle",
+        "de": "Auto-Kanone hacken",
+        "es": "Hackear torreta",
+        "it": "Sabota la torretta",
+        "th": ""
+      },
+      "TurretIFFOn": {
+        "en": "Toggle On I.F.F.",
+        "fr": "Activer IFF",
+        "de": "IFF einschalten",
+        "es": "Desactivar CFA",
+        "it": "Accendi I.F.F.",
+        "th": ""
+      },
+      "TurretIFFOff": {
+        "en": "Toggle Off I.F.F.",
+        "fr": "Désactiver IFF",
+        "de": "IFF ausschalten",
+        "es": "Activar CFA",
+        "it": "Spegni I.F.F.",
+        "th": ""
+      },
+      "Switch": {
+        "en": "Switch object",
+        "fr": "Allumer/éteindre",
+        "de": "Objekt wechseln",
+        "es": "Prender/Apagar",
+        "it": "Accendi/spegni",
+        "th": ""
+      },
+      "Turret": {
+        "en": "Interact with Turret",
+        "fr": "Interagir avec tourelle",
+        "de": "Mit Geschützturm interagieren",
+        "es": "Controlar torreta",
+        "it": "Interagisci con la torretta",
+        "th": ""
+      },
+      "WallMine": {
+        "en": "Disable Wallmine",
+        "fr": "Désamorcer mine",
+        "de": "Haftmine entschärfen",
+        "es": "Sacar mina de pared",
+        "it": "Disinnesca la mina",
+        "th": ""
+      },
+      "Window": {
+        "en": "Slide Open",
+        "fr": "Faire coulisser",
+        "de": "Aufschieben",
+        "es": "ABRIR PUERTA",
+        "it": "Apri a scorrimento",
+        "th": ""
+      },
+      "BugPhone": {
+        "en": "Bug Phone",
+        "fr": "Poser mouchard",
+        "de": "Telefon verwanzen",
+        "es": "Pinchar teléfono",
+        "it": "Metti una spia",
+        "th": ""
+      },
+      "BlowCandle": {
+        "en": "Blow Candle",
+        "fr": "Souffler bougie",
+        "de": "Kerze ausblasen",
+        "es": "Apagar vela",
+        "it": "Spegni la candela",
+        "th": ""
+      },
+      "Grabequipment": {
+        "en": "Grab equipment",
+        "fr": "Prendre équipement",
+        "de": "Ausrüstung nehmen",
+        "es": "Coger equipamiento",
+        "it": "Prendi le attrezzature",
+        "th": ""
+      },
+      "Detach": {
+        "en": "Detach",
+        "fr": "Détacher",
+        "de": "Ablösen",
+        "es": "Desatar",
+        "it": "Scollega",
+        "th": ""
+      },
+      "PlaceTracker": {
+        "en": "Place Tracker",
+        "fr": "PLACER MOUCHARD",
+        "de": "Peilsender platzieren",
+        "es": "Colocar rastreador",
+        "it": "Piazza una spia",
+        "th": ""
+      },
+      "TurnValve": {
+        "en": "Turn Valve",
+        "fr": "Tourner valve",
+        "de": "Ventil drehen",
+        "es": "Girar válvula",
+        "it": "Gira la valvola",
+        "th": ""
+      },
+      "GrabontoRope": {
+        "en": "Grab Onto Rope",
+        "fr": "Saisir corde",
+        "de": "Seil ergreifen",
+        "es": "Agarrarse a la cuerda",
+        "it": "Afferra la corda",
+        "th": ""
+      },
+      "EnterCrawlSpace": {
+        "en": "Enter Crawl Space",
+        "fr": "Ramper",
+        "de": "In Kriechtunnel steigen",
+        "es": "Entrar a gatas",
+        "it": "Entra strisciando",
+        "th": ""
+      },
+      "ExitFront": {
+        "en": "Exit Front",
+        "fr": "Sortir par devant",
+        "de": "Vorne herausgehen",
+        "es": "Salir por delante",
+        "it": "Uscita anteriore",
+        "th": ""
+      },
+      "ExitBack": {
+        "en": "Exit Back",
+        "fr": "Sortir par derrière",
+        "de": "Hinten herausgehen",
+        "es": "Salir por atrás",
+        "it": "Uscita posteriore",
+        "th": ""
+      },
+      "Hackwire": {
+        "en": "Tap Camera",
+        "fr": "Poser mouchard caméra",
+        "de": "Kamera anzapfen",
+        "es": "Interceptar cámara",
+        "it": "TELECAM. SOTTO CONTR.",
+        "th": ""
+      },
+      "ClimbUp": {
+        "en": "Climb Up",
+        "fr": "Grimper",
+        "de": "Hochklettern",
+        "es": "Subir",
+        "it": "Sali",
+        "th": ""
+      },
+      "CutMaterial": {
+        "en": "Cut Material",
+        "fr": "Couper tissu",
+        "de": "Material zerschneiden",
+        "es": "Cortar material",
+        "it": "Taglia il materiale",
+        "th": ""
+      },
+      "TakeAntidote": {
+        "en": "Take Antidote",
+        "fr": "Prendre antidote",
+        "de": "Gegengift nehmen",
+        "es": "Tomar antídoto",
+        "it": "Prendi l'antidoto",
+        "th": ""
+      },
+      "Initrappelling": {
+        "en": "Init rappelling",
+        "fr": "Entamer Rappel à deux",
+        "de": "Abseilen einleiten",
+        "es": "Iniciar bajada en rápel",
+        "it": "Inizia la scalata",
+        "th": ""
+      },
+      "Completerappelling": {
+        "en": "Complete rappelling",
+        "fr": "Suite rappel à deux",
+        "de": "Abseilen",
+        "es": "Compl. bajada en rápel",
+        "it": "Completa la scalata",
+        "th": ""
+      },
+      "InitHangover": {
+        "en": "Init Hangover",
+        "fr": "Descente inversée",
+        "de": "Überhängen einleiten",
+        "es": "Iniciar colgarse",
+        "it": "Inizia la presa",
+        "th": ""
+      },
+      "CompleteHangover": {
+        "en": "Complete Hangover",
+        "fr": "CONT. PENDAISON INV.",
+        "de": "ÜBERHÄNGEN DURCHFÜHR",
+        "es": "COMPLETAR COLGARSE",
+        "it": "COMPLETA LA PRESA",
+        "th": ""
+      },
+      "InitClimbShoulder": {
+        "en": "Init Climb Shoulder",
+        "fr": "Monter sur les épaules",
+        "de": "Auf Schult. klet. einl.",
+        "es": "Iniciar subir a hombros",
+        "it": "Inizia l'appoggio",
+        "th": ""
+      },
+      "CompleteClimbShoulder": {
+        "en": "Complete Climb On",
+        "fr": "Suite monter épaules",
+        "de": "Auf Schultern klettern",
+        "es": "Comp. subir a hombros",
+        "it": "Completa l'appoggio",
+        "th": ""
+      },
+      "Initlongjump": {
+        "en": "Init long jump",
+        "fr": "Entamer Saut en longueur",
+        "de": "Weiten Sprung einleiten",
+        "es": "Iniciar salto largo",
+        "it": "Inizia il salto lungo",
+        "th": ""
+      },
+      "Completelongjump": {
+        "en": "Complete long jump",
+        "fr": "CONT. SAUT EN LONG.",
+        "de": "WEITEN SPRUNG DURCHFÜHREN",
+        "es": "COMPLETAR SALTO LARGO",
+        "it": "COMPLETA IL SALTO LUNGO",
+        "th": ""
+      },
+      "ShareView": {
+        "en": "Accept View Sharing",
+        "fr": "Partager la vue",
+        "de": "GETEILTE SICHT AKZEPT.",
+        "es": "Aceptar vista compart.",
+        "it": "ACCETTA COND. VISUALE",
+        "th": ""
+      },
+      "AltComm": {
+        "en": "Sync Action",
+        "fr": "Synchroniser action",
+        "de": "Synchro-Aktion",
+        "es": "Acción sincronizada",
+        "it": "Azione sincronizzata",
+        "th": ""
+      },
+      "CoopShare": {
+        "en": "Share Equip.",
+        "fr": "Partager l'équipement",
+        "de": "Ausrüstung teilen",
+        "es": "Compartir equipo",
+        "it": "Condividi attrezzatura",
+        "th": ""
+      },
+      "CoopRevive": {
+        "en": "Heal Teammate",
+        "fr": "Réanimation",
+        "de": "Spieler wieder beleben",
+        "es": "Reanimar compañero",
+        "it": "Rianima il giocatore",
+        "th": ""
+      }
+    },
+    "GameplayObject": {
+      "_source": "HUD",
+      "DefaultObject": {
+        "en": "Object",
+        "fr": "Objet",
+        "de": "Objekt",
+        "es": "Objeto",
+        "it": "Oggetto",
+        "th": ""
+      },
+      "AmmoF2000": {
+        "en": "5.56mm Ammo",
+        "fr": "Munit. 5.56 mm",
+        "de": "5,56mm Munit.",
+        "es": "Munición 5.56",
+        "it": "Muniz. da 5,56mm",
+        "th": ""
+      },
+      "AmmoFn7": {
+        "en": "5.7mm Ammo",
+        "fr": "Munit. 5.7 mm",
+        "de": "5,7mm Munit.",
+        "es": "Munición 5.7",
+        "it": "Muniz. da 5,7mm",
+        "th": ""
+      },
+      "AmmoShotgun": {
+        "en": "Shells",
+        "fr": "Cartouches",
+        "de": "Granaten",
+        "es": "Cartuchos",
+        "it": "Colpi",
+        "th": ""
+      },
+      "AmmoSniper": {
+        "en": "20mm Ammo",
+        "fr": "Munit. 20 mm",
+        "de": "20-mm-Munition",
+        "es": "Munición 20mm",
+        "it": "Munizioni 20mm",
+        "th": ""
+      },
+      "Briefcase": {
+        "en": "Briefcase",
+        "fr": "Mallette",
+        "de": "Aktenkoffer",
+        "es": "Maletín",
+        "it": "Valigetta",
+        "th": ""
+      },
+      "DataStick": {
+        "en": "Data stick",
+        "fr": "Carte mémoire",
+        "de": "Datastick",
+        "es": "Tarjeta memoria",
+        "it": "Unità dati",
+        "th": ""
+      },
+      "Satchel": {
+        "en": "Satchel",
+        "fr": "Sacoche",
+        "de": "Tasche",
+        "es": "Explosivos",
+        "it": "Borsa",
+        "th": ""
+      },
+      "KeypadDoorCode": {
+        "en": "Door code:",
+        "fr": "Code de la porte :",
+        "de": "Türcode:",
+        "es": "Código puerta:",
+        "it": "Codice della porta:",
+        "th": ""
+      }
+    },
+    "Computer": {
+      "_source": "HUD",
+      "TypeEmail": {
+        "en": "Email",
+        "fr": "E-mail",
+        "de": "E-Mail",
+        "es": "Email",
+        "it": "Email",
+        "th": ""
+      },
+      "TypeFile": {
+        "en": "File",
+        "fr": "Fichier",
+        "de": "Datei",
+        "es": "Archivo",
+        "it": "File",
+        "th": ""
+      },
+      "TypeImage": {
+        "en": "Image",
+        "fr": "Image",
+        "de": "Bild",
+        "es": "Imagen",
+        "it": "Immagine",
+        "th": ""
+      },
+      "TypeMusic": {
+        "en": "Sound",
+        "fr": "Son",
+        "de": "Sound",
+        "es": "Sonido",
+        "it": "Suono",
+        "th": ""
+      },
+      "TypeControl": {
+        "en": "Camera",
+        "fr": "Caméra",
+        "de": "Kamera",
+        "es": "Cámara",
+        "it": "Telecamera",
+        "th": ""
+      },
+      "TypeTrigger": {
+        "en": "Access",
+        "fr": "Accès",
+        "de": "Zugang",
+        "es": "Acceso",
+        "it": "Accesso",
+        "th": ""
+      },
+      "TypeObjective": {
+        "en": "Objective",
+        "fr": "Objectif",
+        "de": "Missionsziel",
+        "es": "Objetivo",
+        "it": "Obiettivo",
+        "th": ""
+      },
+      "EmailFrom": {
+        "en": "From: ",
+        "fr": "De : ",
+        "de": "Von: ",
+        "es": "De: ",
+        "it": "Da: ",
+        "th": ""
+      },
+      "EmailTo": {
+        "en": "To: ",
+        "fr": "A : ",
+        "de": "An: ",
+        "es": "A: ",
+        "it": "A: ",
+        "th": ""
+      },
+      "EmailDate": {
+        "en": "Date: ",
+        "fr": "Date : ",
+        "de": "Datum: ",
+        "es": "Fecha: ",
+        "it": "Data: ",
+        "th": ""
+      },
+      "EmailSubject": {
+        "en": "Subject: ",
+        "fr": "Objet : ",
+        "de": "Betreff: ",
+        "es": "Asunto: ",
+        "it": "Oggetto: ",
+        "th": ""
+      }
+    }
+  }
+}

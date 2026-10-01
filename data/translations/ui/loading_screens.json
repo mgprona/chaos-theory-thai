@@ -1,0 +1,1429 @@
+{
+  "_meta": {
+    "category": "ui",
+    "name": "loading_screens",
+    "sources": [
+      "LoadingScreens"
+    ],
+    "total_strings": 170
+  },
+  "sections": {
+    "Common": {
+      "_source": "LoadingScreens",
+      "Loading": {
+        "en": "LOADING",
+        "fr": "CHARGEMENT",
+        "de": "LADEVORGANG...",
+        "es": "CARGANDO...",
+        "it": "CARICAMENTO",
+        "th": ""
+      },
+      "PressStart": {
+        "en": "PRESS START",
+        "fr": "APPUYEZ SUR START",
+        "de": "DRÜCKEN SIE START",
+        "es": "PULSA START",
+        "it": "PREMI START",
+        "th": ""
+      }
+    },
+    "01_lighthouse": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Punta Blanco lighthouse, outside Talara, Peru",
+        "fr": "PHARE DE PUNTA BLANCO, TALARA, PÉROU",
+        "de": "LEUCHTTURM VON PUNTA BLANCO, AUSSERHALB VON TALARA, PERU",
+        "es": "FARO PUNTA BLANCO, A LAS AFUERAS DE TALARA, PERÚ",
+        "it": "FARO DI PUNTA BLANCO, NEI PRESSI DI TALARA, PERÙ",
+        "th": ""
+      },
+      "Date": {
+        "en": "Sat, June 23rd, 2007",
+        "fr": "SAMEDI 23 JUIN 2007",
+        "de": "SA, 23. JUNI 2007",
+        "es": "SÁBADO, 23 DE JUNIO DE 2007",
+        "it": "SABATO 23 GIUGNO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "23:08H",
+        "fr": "23:08H",
+        "de": "23:08 UHR",
+        "es": "23:08 H",
+        "it": "ORE 23:08",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Bruce Morgenholt has been kidnapped by a Peruvian separatist group known as the People's Voice. Morgenholt's knowledge of dangerous computer algorithms must not fall into the hands of the People's Voice or their leader, Hugo Lacerda.",
+        "fr": "BRUCE MORGENHOLT A ÉTÉ ENLEVÉ PAR UN GROUPE SÉPARATISTE PÉRUVIEN CONNU SOUS LE NOM DE VOIX DU PEUPLE. SES CONNAISSANCES EN TERMES D'ALGORITHMES INFORMATIQUES SECRET DÉFENSE NE DOIVENT EN AUCUN CAS TOMBER ENTRE LES MAINS DE LA \"VOIX DU PEUPLE\" ET DE SON CHEF, HUGO LACERDA.",
+        "de": "BRUCE MORGENHOLT WURDE VON EINER PERUANISCHEN SEPARATISTENGRUPPE ENTFÜHRT, DIE ALS DIE 'STIMME DES VOLKES' BEKANNT IST. MORGENHOLTS WISSEN ÜBER GEFÄHRLICHE COMPUTER-ALGORITHMEN DARF NICHT IN DIE HÄNDE DER 'STIMME DES VOLKES' ODER DIE IHRES ANFÜHRERS, HUGO LACERDA, FALLEN.",
+        "es": "BRUCE MORGENHOLT HA SIDO SECUESTRADO POR UN GRUPO INDEPENDENTISTA PERUANO LLAMADO LA \"VOZ DEL PUEBLO\". LOS CONOCIMIENTOS DE MORGENHOLT SOBRE ALGORITMOS INFORMÁTICOS NO DEBEN CAER EN MANOS DE LOS GUERRILLEROS O DE SU LÍDER, HUGO LACERDA.",
+        "it": "BRUCE MORGENHOLT È STATO RAPITO DA UN GRUPPO SEPARATISTA PERUVIANO CHIAMATO VOCE DEL POPOLO. LE CONOSCENZE DI MORGENHOLT SU ALGORITMI INFORMATICI POTENZIALMENTE PERICOLOSI NON DEVONO CADERE NELLE MANI DELLA \"VOCE DEL POPOLO\" O DEL SUO LEADER, HUGO LACERDA.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Press and hold the Interact button. Select action in the Interaction Window. Release.",
+        "fr": "MAINTENEZ LA TOUCHE D'INTERACTION ENFONCÉE POUR SÉLECTIONNER VOTRE ACTION DANS LA FENÊTRE D'INTERACTION, PUIS RELÂCHEZ-LA.",
+        "de": "HALTEN SIE DIE AKTIONSTASTE GEDRÜCKT. WÄHLEN SIE IM INTERAKTIONSFENSTER 'AKTION' AUS. LASSEN SIE DIE TASTE LOS.",
+        "es": "MANTÉN  PULSADA LA TECLA DE ACCIÓN, ELIGE LA ACCIÓN EN LA VENTANA Y SUELTA LA TECLA.",
+        "it": "Tieni premuto il tasto di interazione. Seleziona l'azione nella finestra di interazione e lascialo andare.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Press and hold the CTRL button to open Quick Inventory. Tap to switch weapons or attachments.",
+        "fr": "MAINTENEZ LA TOUCHE CTRL ENFONCÉE POUR OUVRIR L'INVENTAIRE RAPIDE. APPUYEZ RAPIDEMENT POUR CHANGER D'ARME OU D'ACCESSOIRE.",
+        "de": "HALTEN SIE DIE STRG-TASTE GEDRÜCKT, UM DAS SCHNELLINVENTAR ZU ÖFFNEN. TIPPEN SIE DIE STRG-TASTE AN, UM WAFFEN ODER ZUBEHÖR ZU WECHSELN.",
+        "es": "MANTÉN PULSADA LA TECLA CTRL PARA ABRIR EL INVENTARIO RÁPIDO, PULSA PARA CAMBIAR DE ARMA O ACCESORIO.",
+        "it": "Tieni premuto il tasto CTRL per aprire l'inventario rapido. Premilo rapidamente per cambiare arma o modulo.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Alternate Fire button fires the OCP on the pistol to disable lights or cameras.",
+        "fr": "LA TOUCHE DE TIR ALTERNATIVE PERMET D'UTILISER L'OCP DE VOTRE PISTOLET POUR METTRE HORS SERVICE LUMIÈRES ET CAMÉRAS.",
+        "de": "DIE TASTE FÜR DIE ALTERNATIVE WAFFENFUNKTION FEUERT DIE OCP DER PISTOLE AB, UM LICHTER ODER KAMERAS AUSSER BETRIEB ZU SETZEN.",
+        "es": "EL DISPARO SECUNDARIO ACTIVA EL MPO DE LA PISTOLA PARA BLOQUEAR LUCES O CÁMARAS.",
+        "it": "Il tasto di fuoco alternativo spara con l'OCP per disattivare luci e telecamere.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "The Alternate Fire button fires the SC-20k attachment.",
+        "fr": "LA TOUCHE DE TIR ALTERNATIVE PERMET D'UTILISER LE SC-20K.",
+        "de": "DIE TASTE FÜR DIE ALTERNATIVE WAFFENFUNKTION FEUERT DAS VERWENDETE MODUL DES SC-20K AB.",
+        "es": "EL DISPARO SECUNDARIO LANZA EL ACCESORIO DEL SC-20K.",
+        "it": "Il tasto di fuoco alternativo spara con il modulo dell'SC-20K.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Fabric, like the sides of a tent, can be cut open with the knife.",
+        "fr": "LES TISSUS, COMME PAR EXEMPLE LA TOILE D'UNE TENTE, PEUVENT ÊTRE DÉCHIRÉS À L'AIDE DU POIGNARD.",
+        "de": "STOFF, BEISPIELSWEISE EINE ZELTWAND, KANN MIT DEM MESSER AUFGESCHNITTEN WERDEN.",
+        "es": "UN TEJIDO PUEDE ABRIRSE DE ARRIBA ABAJO CON UN CUCHILLO.",
+        "it": "PUOI TAGLIARE I TESSUTI, COME LA COPERTURA DI UNA TENDA, CON IL COLTELLO.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Your Stealth Meter indicates how well lit you are.",
+        "fr": "VOTRE JAUGE DE DISCRÉTION INDIQUE SI VOUS ÊTES VISIBLE OU NON.",
+        "de": "IHRE TARNUNGS-ANZEIGE GIBT AN, WIE GUT SIE ZU SEHEN SIND.",
+        "es": "TU MEDIDOR DE SIGILO INDICA SI ESTÁS OCULTO O NO.",
+        "it": "IL TUO INDICATORE DI FURTIVITÀ INDICA QUANTO SEI VISIBILE.",
+        "th": ""
+      }
+    },
+    "02_cargoship": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Pacific Ocean, 90km Southwest of Panama Canal",
+        "fr": "OCÉAN PACIFIQUE, 90 KM AU SUD-OUEST DU CANAL DE PANAMA",
+        "de": "PAZIFISCHER OZEAN, 90KM SÜDWESTLICH DES PANAMAKANALS",
+        "es": "OCÉANO PACÍFICO, 90 KM AL SUROESTE DEL CANAL DE PANAMÁ",
+        "it": "OCEANO PACIFICO, 90 KM A SUDOVEST DEL CANALE DI PANAMA",
+        "th": ""
+      },
+      "Date": {
+        "en": "Mon, June 25th, 2007",
+        "fr": "LUNDI 25 JUIN 2007",
+        "de": "MO, 25. JUNI 2007",
+        "es": "LUNES, 25 DE JUNIO DE 2007",
+        "it": "LUNEDÌ 25 GIUGNO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "22:54H",
+        "fr": "22:54H",
+        "de": "22:54H",
+        "es": "22:45 H",
+        "it": "ORE 22:54",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Hugo Lacerda managed to get away from the lighthouse aboard the Maria Narcissa before you could get to him. Board the ship, locate him, and make sure that he is never able to communicate what he may have learned from Morgenholt.",
+        "fr": "HUGO LACERDA A RÉUSSI À QUITTER LE PHARE ET À EMBARQUER SUR LE MARIA NARCISSA AVANT VOTRE ARRIVÉE. MONTEZ À BORD DU BATEAU, LOCALISEZ LACERDA ET VEILLEZ À CE QU'IL NE PUISSE RÉPÉTER À PERSONNE CE QU'IL AURAIT PU APPRENDRE DE MORGENHOLT.",
+        "de": "HUGO LACERDA IST ES GELUNGEN, VOM LEUCHTTURM AUS AN BORD DER MARIA NARCISSA ZU GEHEN, BEVOR SIE IHN ERREICHEN KONNTEN. BEGEBEN SIE SICH AUF DAS SCHIFF, UND SORGEN SIE DAFÜR, DASS ER NIEMALS DAS WISSEN, DASS ER VIELLEICHT VON MORGENHOLT ERHALTEN HAT, WEITERGIBT.",
+        "es": "HUGO LACERDA HA CONSEGUIDO ESCAPAR DEL FARO A BORDO DEL MARÍA NARCISSA. ABORDA EL BARCO, ENCUÉNTRALE Y ASEGÚRATE QUE NO PUEDA ENVIAR LA INFORMACIÓN QUE HAYA OBTENIDO DE MORGENHOLT.",
+        "it": "HUGO LACERDA È RIUSCITO A FUGGIRE DAL FARO A BORDO DELLA MARIA NARCISSA PRIMA CHE TU POTESSI RAGGGIUNGERLO. SALI SULLA NAVE, TROVALO E ASSICURATI CHE NON TRASMETTA CIÒ CHE HA SAPUTO DA MORGENHOLT.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "If you fail a Secondary Objective, you must complete it in a later mission.",
+        "fr": "SI VOUS N'ARRIVEZ PAS À ACCOMPLIR UN OBJECTIF SECONDAIRE, IL VOUS FAUDRA LE MENER À BIEN DANS UNE MISSION ULTÉRIEURE.",
+        "de": "WENN ES IHNEN NICHT GELINGT, EIN SEKUNDÄRES MISSIONSZIEL ZU ERFÜLLEN, MÜSSEN SIE ES IN EINER SPÄTEREN MISSION NACHHOLEN.",
+        "es": "SI NO PUEDES CUMPLIR UN OBJETIVO SECUNDARIO, DEBERÁS HACERLO EN UNA MISIÓN POSTERIOR.",
+        "it": "SE MANCHI UN OBIETTIVO SECONDARIO, DOVRAI COMPLETARLO IN UNA DELLE MISSIONI SUCCESSIVE.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Opportunity Objectives are optional, but failing them lowers Mission Rating.",
+        "fr": "LES OBJECTIFS D'OPPORTUNITÉ SONT OPTIONNELS, MAIS VOTRE SCORE DIMINUE SI VOUS NE LES ACCOMPLISSEZ PAS.",
+        "de": "ZUSATZZIELE SIND OPTIONAL, ABER WENN SIE DABEI SCHEITERN, WIRKT SICH DAS NEGATIV AUF DIE MISSIONSBEURTEILUNG AUS.",
+        "es": "LOS OBJETIVOS PARALELOS SON OPCIONALES, PERO FRACASAR EN ELLOS TE RESTA PUNTOS.",
+        "it": "GLI OBIETTIVI DI OPPORTUNITÀ SONO OPZIONALI, TUTTAVIA MANCARLI RIDURRÀ LA TUA VALUTAZIONE.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "The EEV scans objects and informs you of their properties.",
+        "fr": "L'EEV SCANNE LES OBJETS ET VOUS INFORME DE LEURS PROPRIÉTÉS.",
+        "de": "DER EEV SCANNT OBJEKTE UND INFORMIERT SIE ÜBER DEREN EIGENSCHAFTEN.",
+        "es": "EL VISOR ELECTRÓNICO ESCANEA OBJETOS Y TE INFORMA SOBRE SUS PROPIEDADES.",
+        "it": "L'EEV ESAMINA GLI OGGETTI E TE NE DESCRIVE LE CARATTERISTICHE.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "Pressing the ALT Button with the SC-20k equipped switches attachments.",
+        "fr": "APPUYEZ RAPIDEMENT SUR LA TOUCHE ALT ALORS QUE VOUS ÊTES ÉQUIPÉ DU SC-20K POUR CHANGER D'ACCESSOIRE.",
+        "de": "WENN SIE DAS SC-20K AUSGERÜSTET HABEN UND DIE STRG-TASTE DRÜCKEN, WERDEN DIE MODULE AUSGETAUSCHT.",
+        "es": "SI PULSAS LA TECLA ALT CON EL SC20K EN LA MANO, CAMBIAS DE ACCESORIO.",
+        "it": "Premi il tasto ALT mentre impugni l'SC-20K per cambiare modulo.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Shooting lights makes noise. The OCP is silent.",
+        "fr": "TIRER SUR LES AMPOULES FAIT DU BRUIT. A L'INVERSE, L'OCP EST SILENCIEUX.",
+        "de": "AUF LICHTER SCHIESSEN MACHT KRACH. DAS OCP IST LAUTLOS.",
+        "es": "DISPARAR A UNA LUZ PROVOCA RUIDO. PERO EL POTENCIADOR ÓPTICO (PO) ES SILENCIOSO.",
+        "it": "SPARARE ALLE LUCI PRODUCE RUMORE. L'OCP È SILENZIOSO.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Your sound meter shows how loud you and the environment are.",
+        "fr": "VOTRE JAUGE DE SON INDIQUE LE BRUIT AMBIANT ET CELUI QUE VOUS FAITES.",
+        "de": "DIE GERÄUSCH-ANZEIGE ZEIGT IHNEN AN, WIE LAUT SIE UND DIE UMGEBUNG SIND.",
+        "es": "TU MEDIDOR DE SONIDO MUESTRA EL NIVEL DE RUIDO QUE HACES Y EL QUE HAY A TU ALREDEDOR.",
+        "it": "L'INDICATORE DI RUMORE MOSTRA QUANTO RUMORE VIENE EMESSO DA TE E DALL'AMBIENTE.",
+        "th": ""
+      }
+    },
+    "03_bank": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "MCAS Banco de Panama, Panama City, Panama",
+        "fr": "MCAS BANCO DE PANAMA, PANAMA CITY, PANAMA",
+        "de": "MCAS BANCO DE PANAMA, PANAMA CITY, PANAMA",
+        "es": "BANCO MCAS DE PANAMÁ, CIUDAD DE PANAMÁ, PANAMÁ",
+        "it": "MCAS BANCO DE PANAMA, PANAMA CITY, PANAMA",
+        "th": ""
+      },
+      "Date": {
+        "en": "Thurs, June 28th, 2007",
+        "fr": "JEUDI 28 JUIN 2007",
+        "de": "DO, 28. JUNI 2007",
+        "es": "JUEVES, 28 DE JUNIO DE 2007",
+        "it": "GIOVEDÌ 28 GIUGNO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "23:18H",
+        "fr": "23:18H",
+        "de": "23:18 UHR",
+        "es": "23:18 H",
+        "it": "ORE 23:18",
+        "th": ""
+      },
+      "Overview": {
+        "en": "MCAS Banco de Panama has been implicated in Lacerda's arms smuggling operations and has been facilitating deals with Lacerda and his allies. It must be determined who paid MCAS Bank to organize Lacerda's payment for the Morgenholt kidnapping.",
+        "fr": "LA MCAS BANCO DE PANAMA EST IMPLIQUÉE DANS LE TRAFIC D'ARMES DE LACERDA ; ELLE FACILITE LES ACCORDS PASSÉS ENTRE CE DERNIER ET SES ALLIÉS. DÉCOUVREZ QUI A PAYÉ LA BANQUE POUR QU'ELLE ORGANISE LE PAIEMENT DE LACERDA SUITE À L'ENLÈVEMENT DE MORGENHOLT.",
+        "de": "DIE MCAS BANCO DE PANAMA IST IN LACERDAS WAFFENSCHMUGGEL VERWICKELT UND HALF LACERDA UND SEINEN VERBÜNDETEN BEI DER ABWICKLUNG IHRER GESCHÄFTE. ES MUSS ERMITTELT WERDEN, WER DIE MCAS BANK DAFÜR BEZAHLT HAT, LACERDA FÜR DIE ENTFÜHRUNG MORGENHOLTS ANZUHEUERN.",
+        "es": "EL BANCO MCAS DE PANAMÁ ESTÁ IMPLICADO EN LAS OPERACIONES DE TRÁFICO DE ARMAS DE LACERDA, Y HA SIDO EL ENLACE COMERCIAL PARA LOS TRATOS DE LACERDA Y SUS ALIADOS. HAY QUE AVERIGUAR QUIÉN HA PEDIDO AL BANCO QUE PAGUE A HUGO LACERDA POR EL SECUESTRO DE MORGENHOLT.",
+        "it": "L'MCAS BANCO DE PANAMA È IMPLICATA NEL CONTRABBANDO DI ARMI DI LACERDA, E HA CONTRIBUITO AGLI SCAMBI TRA LACERDA E I SUOI ALLEATI. È NECESSARIO SCOPRIRE CHI HA PAGATO LA BANCA MCAS PER ORGANIZZARE IL PAGAMENTO DI LACERDA PER IL RAPIMENTO DI MORGENHOLT.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "The EEV can be used to hack objects from a distance - but it’s harder. ",
+        "fr": "L'EEV PEUT SERVIR À PIRATER DES SYSTÈMES À DISTANCE, MAIS C'EST PLUS DIFFICILE. ",
+        "de": "DAS EEV KANN BENUTZT WERDEN, UM OBJEKTE AUS DER ENTFERNUNG ZU HACKEN - ABER SO IST ES SCHWIERIGER. ",
+        "es": "EL VISOR ELECTRÓNICO PUEDE USARSE PARA HACKEAR OBJETOS A DISTANCIA, AUNQUE NO ES FÁCIL. ",
+        "it": "L'EEV PUÒ ESSERE USATO PER SABOTAGGI A DISTANZA; TUTTAVIA LA DIFFICOLTÀ AUMENTA. ",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "To pick a lock, use the directional keys to raise the pins.",
+        "fr": "POUR CROCHETER UNE SERRURE, UTILISEZ LES FLÈCHES DIRECTIONNELLES POUR SOULEVER LES GOUPILLES.",
+        "de": "UM EIN SCHLOSS ZU KNACKEN, MÜSSEN SIE DIE PFEILTASTEN VORSICHTIG HIN UND HER BEWEGEN.",
+        "es": "PARA FORZAR UNA CERRADURA, USA LAS TECLAS DE DIRECCIÓN HASTA QUE LOS PERNOS SE MUEVAN.",
+        "it": "Per forzare una serratura usa i tasti direzionali per far scattare i perni.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Enemies will notice broken doors, windows, and lights.",
+        "fr": "VOS ENNEMIS REMARQUENT LES PORTES, FENÊTRES OU AMPOULES CASSÉES OU DÉFONCÉES.",
+        "de": "DIE GEGNER WERDEN AUFGEBROCHENE TÜREN, ZERSTÖRTE FENSTER UND LICHTER BEMERKEN.",
+        "es": "LOS ENEMIGOS SE PONEN EN GUARDIA SI VEN PUERTAS, VENTANAS O LUCES ROTAS.",
+        "it": "I NEMICI NOTERANNO PORTE FORZATE, FINESTRE INFRANTE E LUCI ROTTE.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "In a high, narrow corridor, face a wall and Jump to perform a split jump.",
+        "fr": "SI VOUS VOUS TROUVEZ DANS UN COULOIR ÉTROIT, FAITES FACE À UN MUR ET APPUYEZ SUR LA TOUCHE DE SAUT POUR EXÉCUTER UN SAUT ÉCART.",
+        "de": "STELLEN SIE SICH IN EINEM ENGEN GANG VOR EINE WAND UND DRÜCKEN SIE DIE SPRINGEN-TASTE, UM EINEN SPAGAT-SPRUNG DURCHZUFÜHREN.",
+        "es": "EN UN PASILLO ESTRECHO Y ALTO, PONTE FRENTE A LA PARED Y SALTA. HARÁS UN SALTO DE PIERNAS ABIERTAS.",
+        "it": "Nei corridoi alti e stretti mettiti di fronte al muro e salta per effettuare una spaccata.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Keypads and Retinal scanners can be hacked... failing sets off an alarm.",
+        "fr": "CLAVIERS NUMÉRIQUES ET SCANNEURS RÉTINIENS PEUVENT ÊTRE PIRATÉS MAIS, EN CAS D'ÉCHEC, CELA DÉCLENCHE L'ALERTE.",
+        "de": "CODESCHLÖSSER UND RETINA-SCANNER KÖNNEN GEHACKT WERDEN ... MISSLINGT DIES, WIRD EIN ALARM AUSGELÖST.",
+        "es": "UN TECLADO O UN ESCÁNER DE RETINA PUEDEN HACKEARSE, PERO SI FALLAS SALTARÁ LA ALARMA.",
+        "it": "COMBINAZIONI ELETTRONICHE E SCANNER RETINICI POSSONO ESSERE FORZATI; IL FALLIMENTO FARÀ SCATTARE L'ALLARME.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Guards who patrol laser grids wear beacons to disable the grid near them.",
+        "fr": "LES GARDES QUI PATROUILLENT AU MILIEU DES LASERS PORTENT UN ÉMETTEUR QUI COUPE LES RAYONS SUR LEUR PASSAGE ET LES RALLUME DERRIÈRE EUX.",
+        "de": "WACHEN, DIE IN BEREICHEN MIT LASERNETZEN PATROUILLIEREN, TRAGEN SENDER, MIT DENEN SIE DAS NETZ IN IHREM UMFELD DEAKTIVIEREN.",
+        "es": "LOS GUARDIAS QUE PATRULLAN LAS ZONAS PROTEGIDAS CON LÁSER LLEVAN UN DISPOSITIVO QUE VA DESACTIVANDO LOS RAYOS A SU PASO. ",
+        "it": "LE GUARDIE DI PATTUGLIA IN GRIGLIE LASER PORTANO DEI SEGNALATORI.",
+        "th": ""
+      }
+    },
+    "04_penthouse": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Manhattan Garment District, New York City, USA",
+        "fr": "MANHATTAN, QUARTIER DES TAILLEURS, NEW YORK CITY, ETATS-UNIS",
+        "de": "MANHATTAN GARMENT DISTRIKT, NEW YORK CITY, USA",
+        "es": "DISTRITO GARMENT DE MANHATTAN, NUEVA YORK, EE.UU.",
+        "it": "DISTRETTO MANHATTAN GARMENT, NEW YORK, USA",
+        "th": ""
+      },
+      "Date": {
+        "en": "Sat, June 30th, 2007",
+        "fr": "SAMEDI 30 JUIN 2007",
+        "de": "SA, 30. JUNI 2007",
+        "es": "SÁBADO, 30 DE JUNIO DE 2007",
+        "it": "SABATO 30 GIUGNO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "23:27H",
+        "fr": "23:27H",
+        "de": "23:27H",
+        "es": "23:27 H",
+        "it": "ORA 23:27",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Zherkezhi, a former associate of Morgenholt, may be working with someone known as Dvorak to gather classified intelligence about weaponized algorithms known as the Masse Kernels. Determine who Dvorak is, and what his relationship is to Zherkezhi.",
+        "fr": "ZHERKEZHI, UN ANCIEN ASSOCIÉ DE MORGENHOLT, FAIT PEUT-ÊTRE ÉQUIPE AVEC UN CERTAIN DVORAK POUR RÉCUPÉRER DES RENSEIGNEMENTS SUR LES NOYAUX DE MASSE, ALGORITHMES CLASSÉS SECRET DÉFENSE. DÉCOUVREZ QUI EST DVORAK ET QUELLE EST LA RELATION QUI L'UNIT À ZHERKEZHI.",
+        "de": "ZHERKEZHI, EIN EHEMALIGER MITARBEITER MORGENHOLTS, STEHT UNTER VERDACHT, ZUSAMMEN MIT EINEM GEWISSEN DVORAK, GEHEIME DATEN ÜBER WAFFENFÄHIGE ALGORITHMEN ZU SAMMELN, BEKANNT ALS DIE MASSE-KERNELS. FINDEN SIE HERAUS, WER DVORAK IST UND IN WELCHER BEZIEHUNG ER ZU ZHERKEZHI STEHT.",
+        "es": "ZHERKEZHI, UN ANTIGUO SOCIO DE MORGENHOLT, PODRÍA ESTAR TRABAJANDO CON ALGUIEN LLAMADO DVORAK PARA CONSEGUIR INFORMACIÓN SECRETA SOBRE UNOS ALGORITMOS USADOS EN PROGRAMAS ARMAMENTÍSTICOS, LOS KERNELS DE MASSE. AVERIGUA QUIÉN ES DVORAK Y QUÉ RELACIÓN TIENE CON ZHERKEZHI.",
+        "it": "PARE CHE ZHERKEZHI, UN VECCHIO SOCIO DI MORGENHOLT, STIA LAVORANDO CON UN CERTO DVORAK PER TROVARE INFORMAZIONI RISERVATE SUGLI ALGORITMI ARMA CHIAMATI KERNELS DI MASSE. SCOPRI CHI È DVORAK, E QUAL'É IL SUO RAPPORTO CON ZHERKEZHI.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Listen to your advisors. Check for Notes in your OPSAT.",
+        "fr": "ECOUTEZ LES CONSEILS QUI VOUS SONT PRODIGUÉS ET CONSULTEZ VOTRE MONTRE-TERMINAL POUR VOIR SI ELLE CONTIENT DES NOTES.",
+        "de": "FOLGEN SIE DEN ANWEISUNGEN IHRER BERATER. PRÜFEN SIE IN REGELMÄSSIGEN ABSTÄNDEN, OB SICH MITTEILUNGEN IN IHREM OPSAT BEFINDEN.",
+        "es": "ESCUCHA LOS CONSEJOS DEL EQUIPO. COMPRUEBA LAS NOTAS EN TU ENSAT.",
+        "it": "ASCOLTA I CONSIGLI CHE TI VENGONO DATI. LEGGI GLI APPUNTI SULL'OPSAT.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "You can see the beam emitted from an IR camera in Night Vision.",
+        "fr": "LA VISION NOCTURNE VOUS PERMET DE VOIR LES RAYONS ÉMIS PAR LES CAMÉRAS À INFRAROUGE.",
+        "de": "MIT DEM NACHTSICHTGERÄT WERDEN VON INFRAROT-KAMERAS AUSGESENDETE STRAHLEN SICHTBAR.",
+        "es": "CON EL VISOR NOCTURNO PUEDES VER EL PEQUEÑO HAZ QUE EMITE UNA CÁMARA INFRARROJA.",
+        "it": "PUOI USARE IL VISORE NOTTURNO PER VEDERE IL RAGGIO EMESSO DALLE TELECAMERE A INFRAROSSI.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Killing civilians or friendly troops will result in a 0% Mission Rating.",
+        "fr": "SI VOUS TUEZ DES CIVILS OU DES ALLIÉS, VOTRE SCORE DE MISSION TOMBERA AUTOMATIQUEMENT À 0%.",
+        "de": "WENN SIE ZIVILISTEN ODER VERBÜNDETE EINHEITEN TÖTEN, GILT DIE MISSION ALS GESCHEITERT.",
+        "es": "MATAR A CIVILES O A SOLDADOS ALIADOS SUPONDRÁ UN ÍNDICE 0 DE ÉXITO DE MISIÓN.",
+        "it": "UCCIDERE CIVILI O TRUPPE AMICHE RIDURRÀ LA VALUTAZIONE DELLA MISSIONE ALLO 0%.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "Bullets penetrate cover material, reducing damage and deflecting randomly.",
+        "fr": "LES BALLES PÉNÈTRENT DANS LES OBSTACLES, CE QUI MODIFIE ALÉATOIREMENT LEUR TRAJECTOIRE ET RÉDUIT LES DÉGÂTS QU'ELLES INFLIGENT.",
+        "de": "KUGELN KÖNNEN DECKUNGEN DURCHSCHLAGEN. DADURCH WERDEN SIE LANGSAMER UND IN ZUFALLS-RICHTUNG ABGELENKT.",
+        "es": "CUANDO UNA BALA ATRAVIESA UN MATERIAL PROTEGIDO, INFLIGE MENOS DAÑO Y SE DESVÍA ALEATORIAMENTE.",
+        "it": "QUANDO I PROIETTILI PENETRANO I MATERIALI DI COPERTURA IL DANNO SI RIDUCE E IL COLPO RIMBALZA IN UNA DIREZIONE CASUALE.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Wall mines are motion sensitive and can be disabled when the light is green",
+        "fr": "LES MINES MURALES DÉTECTENT LES MOUVEMENTS. ELLES PEUVENT ÊTRE DÉSAMORCÉES QUAND LEUR DIODE EST VERTE.",
+        "de": "HAFTMINEN REAGIEREN AUF BEWEGUNGEN UND KÖNNEN DEAKTIVIERT WERDEN, SOLANGE DAS LICHT GRÜN IST.",
+        "es": "LAS MINAS DE PARED SON SENSIBLES AL MOVIMIENTO Y PUEDEN DESACTIVARSE CUANDO LA LUZ ESTÁ VERDE.",
+        "it": "LE MINE DA MURO SONO SENSIBILI AL MOVIMENTO E POSSONO ESSERE DISATTIVATE QUANDO LA LUCE È VERDE.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Zip lines often connect tall buildings together from their upper floors.",
+        "fr": "LES TOITS DES GRANDS GRATTE-CIEL SONT SOUVENT RELIÉS ENTRE EUX PAR DES CÂBLES.",
+        "de": "HOHE GEBÄUDE SIND IN DEN OBEREN ETAGEN HÄUFIG MIT STAHLSEILEN VERBUNDEN.",
+        "es": "ALGUNOS EDIFICIOS ALTOS ESTÁN INTERCONECTADOS POR TIROLINAS EN SUS PISOS SUPERIORES.",
+        "it": "SPESSO I PIANI SUPERIORI DEGLI EDIFICI PIÙ ALTI SONO COLLEGATI DA CAVI ELETTRICI.",
+        "th": ""
+      }
+    },
+    "05_displace01": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Offices of Displace Int. Midtown Manhattan, New York City, USA",
+        "fr": "SIÈGE DE DISPLACE INT. CENTRE VILLE DE MANHATTAN, NEW YORK CITY, ETATS-UNIS",
+        "de": "BÜROS VON DISPLACE INT. MIDTOWN MANHATTAN, NEW YORK CITY, USA",
+        "es": "OFICINAS DE DISPLACE INTERNATIONAL, CENTRO DE MANHATTAN, NUEVA YORK, EE.UU.",
+        "it": "UFFICI DI DISPLACE INT., CENTRO DI MANHATTAN, NEW YORK, USA",
+        "th": ""
+      },
+      "Date": {
+        "en": "Sun, July 1st, 2007",
+        "fr": "DIMANCHE 1ER JUILLET 2007",
+        "de": "SO, 1. JULI 2007",
+        "es": "NO",
+        "it": "DOMENICA 1 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "22:59H",
+        "fr": "22:59H",
+        "de": "22:59H",
+        "es": "22:59 H",
+        "it": "ORE 22:59",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Displace International has been protecting Zherkezhi, who contracted Lacerda to kidnap Morgenholt. It must be determined if Displace is merely protecting Zherkezhi, or if they are also involved in the plot to acquire the Masse Kernels.",
+        "fr": "DISPLACE INTERNATIONAL EST CHARGÉ DE LA PROTECTION DE ZHERKEZHI, LEQUEL A ENGAGÉ LACERDA AFIN D'ENLEVER MORGENHOLT. IL CONVIENT DE DÉTERMINER SI DISPLACE SE CONTENTE DE PROTÉGER ZHERKEZHI OU SI LA SOCIÉTÉ EST ÉGALEMENT IMPLIQUÉE DANS LE COMPLOT VISANT À DÉROBER LES INFORMATIONS CONCERNANT LES NOYAUX DE MASSE.",
+        "de": "DISPLACE INTERNATIONAL WAR FÜR DEN SCHUTZ VON ZHERKEZHI VERANTWORTLICH, DEM MANN, DER LACERDA ANGEHEUERT HAT, UM MORGENHOLT ZU ENTFÜHREN. ES MUSS HERAUSGEFUNDEN WERDEN, OB DISPLACE ZHERKEZHI NUR BESCHÜTZT HAT ODER AUCH AN DEM PLAN ZUR BESCHAFFUNG DER MASSE-KERNELS BETEILIGT IST.",
+        "es": "DISPLACE INTERNATIONAL HA ESTADO PROTEGIENDO A ZHERKEZHI, QUE CONTRATÓ A LACERDA PARA SECUESTRAR A MORGENHOLT. DEBEMOS SABER SI DISPLACE SÓLO PROTEGE A ZHERKEZHI O ESTÁ INVOLUCRADA EN EL COMPLOT PARA RECUPERAR LOS KERNELS DE MASSE.",
+        "it": "DISPLACE INTERNATIONAL PROTEGGE ZHERKEZHI, CHE AVEVA INGAGGIATO LACERDA PER RAPIRE MORGENHOLT. È NECESSARIO SCOPRIRE SE DISPLACE SI LIMITA A PROTEGGERE ZHERKEZHI O SE È COINVOLTA NEL PIANO PER OTTENERE I KERNEL DI MASSE.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "The Map in your OPSAT tells you the location of certain Objectives.",
+        "fr": "LA CARTE DE VOTRE MONTRE-SATELLITE VOUS INDIQUE OÙ SE TROUVENT CERTAINS OBJECTIFS.",
+        "de": "AUF DER KARTE IN IHREM OPSAT SEHEN SIE DIE POSITION BESTIMMTER MISSIONSZIELE.",
+        "es": "EL MAPA DE TU ENSAT MUESTRA LA POSICIÓN DE ALGUNOS OBJETIVOS.",
+        "it": "LA MAPPA SULL'OPSAT TI INDICA LA POSIZIONE DI ALCUNI OBIETTIVI.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "The OCP can toggle the state of Electrochromic Windows.",
+        "fr": "L'OCP PEUT RENDRE LES FENÊTRES ÉLECTROCHROMATIQUES TRANSPARENTES OU OPAQUES.",
+        "de": "DAS OCP KANN DEN ZUSTAND VON ELEKTROCHROMEN FENSTERN VERÄNDERN.",
+        "es": "EL PO PUEDE CAMBIAR EL ESTADO DE LAS VENTANAS ELECTROCROMÁTICAS.",
+        "it": "L'OCP PUÒ CAMBIARE LO STATO DELLE FINESTRE ELETTROCROMATICHE.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "The OCP can cause machines to malfunction, creating masking sounds.",
+        "fr": "L'OCP PEUT DÉRÉGLER LE FONCTIONNEMENT DES MACHINES, CE QUI PEUT GÉNÉRER DES BRUITS MASQUANT VOTRE PROGRESSION.",
+        "de": "DAS OCP KANN IN MASCHINEN FEHLFUNKTIONEN AUSLÖSEN UND SO FÜR LAUTE GERÄUSCHE SORGEN, DIE ALS AKUSTISCHE TARNUNG GENUTZT WERDEN KÖNNEN.",
+        "es": "EL PO PUEDE PROVOCAR INTERFERENCIAS EN MÁQUINAS Y CREAR SONIDOS PARA CUBRIRTE.",
+        "it": "L'OCP PUÒ GUASTARE I MACCHINARI, PRODUCENDO SUONI DI MASCHERAMENTO.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "The Laser Mic is part of the EEV.",
+        "fr": "LE MICRO-LASER FAIT PARTIE DE L'EEV.",
+        "de": "DAS LASER-MIKROFON IST TEIL DES EEV.",
+        "es": "EL MICRÓFONO LÁSER FORMA PARTE DEL VE.",
+        "it": "IL MICROFONO LASER FA PARTE DELL'EEV.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Objectives can sometimes be completed by overhearing conversations.",
+        "fr": "IL EST PARFOIS POSSIBLE DE MENER LES OBJECTIFS À BIEN EN ÉCOUTANT LES CONVERSATIONS.",
+        "de": "EINIGE MISSIONSZIELE KÖNNEN ERFÜLLT WERDEN, INDEM GESPRÄCHE BELAUSCHT WERDEN.",
+        "es": "ALGUNAS VECES LOS OBJETIVOS SE CUMPLEN ESPIANDO CONVERSACIONES.",
+        "it": "A VOLTE È POSSIBILE COMPLETARE DEGLI OBIETTIVI ASCOLTANDO DELLE CONVERSAZIONI DI NASCOSTO.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Four alarms will put the facility on Alert. Guards will barricade the area.",
+        "fr": "QUATRE ALARMES DÉCLENCHÉES METTENT LES LIEUX EN ÉTAT D'ALERTE ROUGE. SI CELA SE PRODUIT, LES GARDES BARRICADENT LE SECTEUR.",
+        "de": "VIER ALARME LÖSEN EINEN GROSSALARM AUS. WACHEN WERDEN DANN DAS GEBIET ABSICHERN.",
+        "es": "LA BASE SE PONDRÁ EN ALERTA SI SALTAN CUATRO ALARMAS Y LOS GUARDIAS BLOQUEARÁN LA ZONA.",
+        "it": "QUATTRO ALLARMI METTERANNO IN STATO DI ALLERTA LA STRUTTURA. LE GUARDIE ISOLERANNO L'AREA.",
+        "th": ""
+      }
+    },
+    "06_hokkaido": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Private retreat outside Sapporo, Hokkaido, Japan",
+        "fr": "RETRAITE PRIVÉE PROCHE DE SAPPORO, HOKKAIDO, JAPON",
+        "de": "PRIVATANWESEN AUSSERHALB VON SAPPORO, HOKKAIDO, JAPAN",
+        "es": "REFUGIO PRIVADO A LAS AFUERAS DE SAPPORO, HOKKAIDO, JAPÓN",
+        "it": "RESIDENZA PRIVATA FUORI SAPPORO, HOKKAIDO, GIAPPONE",
+        "th": ""
+      },
+      "Date": {
+        "en": "Wed, July 4th, 2007",
+        "fr": "MERCREDI 4 JUILLET 2007",
+        "de": "MI, 4. JULI 2007",
+        "es": "MIÉRCOLES, 4 DE JULIO DE 2007",
+        "it": "MERCOLEDÌ 4 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "21:19H",
+        "fr": "21:19H",
+        "de": "21:19 UHR",
+        "es": "21:19 H",
+        "it": "ORE 21:19",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Displace has relocated Zherkezhi to Hokkaido, Japan. Evidence suggests that a faction within Displace may be acting without authorization. Kidnap Zherkezhi so Third Echelon can find out what he knows, and what Displace's involvement is.",
+        "fr": "DISPLACE A AMENÉ ZHERKEZHI À HOKKAIDO, AU JAPON. LES PREUVES DONT NOUS DISPOSONS SUGGÈRENT QU'IL POURRAIT EXISTER UNE FACTION OPÉRANT SANS L'AUTORISATION DE SA HIÉRARCHIE AU SEIN DE DISPLACE. ENLEVEZ ZHERKEZHI AFIN QU'ECHELON PUISSE DÉCOUVRIR CE QU'IL SAIT ET QUEL EST LE DEGRÉ D'IMPLICATION DE DISPLACE.",
+        "de": "DISPLACE HAT ZHERKEZHI NACH HOKKAIDO IN JAPAN GEBRACHT. DIE BEWEISLAGE DEUTET DARAUF HIN, DASS EINE GRUPPIERUNG INNERHALB VON DISPLACE OHNE GENEHMIGUNG HANDELT. ENTFÜHREN SIE ZHERKEZHI, SO DASS THIRD ECHELON HERAUSFINDEN KANN, WAS ER WEISS UND AUF WELCHE WEISE DISPLACE IN DIESE SACHE VERSTRICKT IST.",
+        "es": "DISPLACE HA LLEVADO A ZHERKEZHI HASTA HOKKAIDO, JAPÓN, Y TODO APUNTA A QUE ALGUNOS HOMBRES DE DISPLACE ESTÁN ACTUANDO POR SU CUENTA. SECUESTRA A ZHERKEZHI PARA QUE THIRD ECHELON AVERIGÜE LO QUE SABE Y CUÁL ES EL PAPEL DE DISPLACE.",
+        "it": "DISPLACE HA PORTATO ZHERKEZHI A HOKKAIDO, IN GIAPPONE. E' POSSIBILE CHE UNA FAZIONE INTERNA A DISPLACE STIA AGENDO SENZA AUTORIZZAZIONE. RAPISCI ZHERKEZHI IN MODO CHE THIRD ECHELON POSSA SCOPRIRE COSA SA, E QUAL È IL RUOLO DI DISPLACE.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Press the switch hand button to mirror firing position when behind cover.",
+        "fr": "APPUYEZ SUR LA TOUCHE PERMETTANT DE CHANGER DE MAIN POUR TIRER EN APPUYANT VOTRE ARME CONTRE VOTRE AUTRE ÉPAULE QUAND VOUS ÊTES À L'ABRI.",
+        "de": "DRÜCKEN SIE DIE TASTE FÜR DEN HANDWECHSEL, UM HINTER DECKUNG IN FEUERPOSITION ZU GELANGEN.",
+        "es": "PULSA LA TECLA PARA CAMBIAR DE MANO, ASÍ CAMBIAS LA POSICIÓN DE DISPARO CUANDO ESTÁS A CUBIERTO.",
+        "it": "Per invertire la posizione di tiro quando sei in copertura, premi il tasto per cambiare mano.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Candles can be blown out... but guards will light them again.",
+        "fr": "IL EST POSSIBLE DE SOUFFLER LES BOUGIES, MAIS LES GARDES LES RALLUMENT S'ILS LES TROUVENT ÉTEINTES.",
+        "de": "KERZEN KÖNNEN AUSGEBLASEN WERDEN ... ABER DIE WACHEN WERDEN SIE WIEDER ANZÜNDEN.",
+        "es": "PUEDES APAGAR LAS VELAS... PERO LOS GUARDIAS VOLVERÁN A ENCENDERLAS.",
+        "it": "PUOI SPEGNERE LE CANDELE... MA LE GUARDIE LE RIACCENDERANNO.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Hidden microphones can be spotted with Thermal or EMF vision",
+        "fr": "LES MICROS CACHÉS PEUVENT ÊTRE REPÉRÉS À L'AIDE DE LA VISION THERMIQUE OU DE LA VISION ÉLECTROMAGNÉTIQUE.",
+        "de": "VERSTECKTE MIKROFONE KÖNNEN MIT DER THERMAL- ODER EMF-SICHT ENTDECKT WERDEN.",
+        "es": "UN VISOR TÉRMICO O DE CEM PUEDE DETECTAR MICRÓFONOS OCULTOS.",
+        "it": "PUOI TROVARE I MICROFONI NASCOSTI CON IL VISORE TERMICO O IL VISORE ELETTROMAGNETICO.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "The Sniper Attachment fires a 20mm APDS anti-materiel round.",
+        "fr": "L'ACCESSOIRE SNIPER TIRE DES OBUS APDS ANTI-MATÉRIEL DE 20 MM.",
+        "de": "DAS SCHARFSCHÜTZEN-MODUL VERSCHIESST EIN 20MM-APDS-PROJEKTIL.",
+        "es": "EL ACCESORIO FRANCOTIRADOR DISPARA PROYECTILES ANTIMATERIA GHP DE 20 MM.",
+        "it": "IL FUCILE DI PRECISIONE SPARA PROIETTILI DA 20MM APDS ANTI-MATERIALI.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "All floor surfaces emit different sounds when walked on at different speeds.",
+        "fr": "LES DIVERS TYPES DE SOL FONT DES BRUITS DIFFÉRENTS QUAND ON PASSE DESSUS, ET CE BRUIT CHANGE EN FONCTION DE LA VITESSE À LAQUELLE ON AVANCE.",
+        "de": "ALLE BÖDEN MACHEN JE NACH OBERFLÄCHE ODER LAUFGESCHWINDIGKEIT UNTERSCHIEDLICHE GERÄUSCHE.",
+        "es": "CADA SUPERFICIE PRODUCE UN SONIDO DISTINTO CUANDO ANDAS SOBRE ELLAS A DISTINTA VELOCIDAD.",
+        "it": "TUTTI I PAVIMENTI EMETTONO SUONI DIVERSI A SECONDA DELLA VELOCITÀ DI MOVIMENTO.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "When engaging multiple enemies, keep moving.",
+        "fr": "RESTEZ TOUJOURS EN MOUVEMENT LORSQUE VOUS VOUS RETROUVEZ FACE À PLUSIEURS ENNEMIS EN MÊME TEMPS.",
+        "de": "BLEIBEN SIE IN BEWEGUNG, WENN SIE ES MIT MEHREREN GEGNERN GLEICHZEITIG ZU TUN HABEN.",
+        "es": "CUANDO TE ENFRENTES A VARIOS ENEMIGOS, NO DEJES DE MOVERTE.",
+        "it": "QUANDO AFFRONTI PIÙ NEMICI CERCA DI RESTARE IN MOVIMENTO.",
+        "th": ""
+      }
+    },
+    "07_battery": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "NKA Coastal Battery, outside Pupori, North Korea",
+        "fr": "BATTERIE CÔTIÈRE NORD-CORÉENNE PROCHE DE PUPORI, CORÉE DU NORD",
+        "de": "NKA-KÜSTENBATTERIE, AUSSERHALB VON PUPORI, NORDKOREA",
+        "es": "BATERÍA COSTERA DE LAS FUERZAS NORCOREANAS, AFUERAS DE PUPORI, COREA DEL NORTE",
+        "it": "BATTERIA COSTIERA MILITARE, FUORI PUPORI, NORD COREA",
+        "th": ""
+      },
+      "Date": {
+        "en": "Fri, July 6th, 2007",
+        "fr": "VENDREDI 6 JUILLET 2007",
+        "de": "FR, 6. JULI 2007",
+        "es": "VIERNES, 6 DE JULIO DE 2007",
+        "it": "VENERDÌ 6 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "23:09H",
+        "fr": "23:09H",
+        "de": "23:09 UHR",
+        "es": "23:09 H",
+        "it": "ORE 23:09",
+        "th": ""
+      },
+      "Overview": {
+        "en": "With Zherkezhi dead and the world on the brink of war, it must be determined if the North Koreans intentionally launched the missile that sank the USS Walsh, or if the launch was forced by a Masse enabled information warfare attack.",
+        "fr": "MAINTENANT QUE ZHERKEZHI EST MORT ET QUE LE MONDE SE RETROUVE AU BORD DE LA GUERRE, IL FAUT DÉTERMINER SI LES NORDS-CORÉENS ONT TIRÉ INTENTIONNELLEMENT LE MISSILE QUI A COULÉ L'USS WALSH, OU SI LE TIR A ÉTÉ DÉCIDÉ PAR UNE ATTAQUE INFORMATIQUE UTILISANT LES NOYAUX DE MASSE.",
+        "de": "NUN, DA ZHERKEZHI TOT IST UND DIE WELT AN DER SCHWELLE ZUM KRIEG STEHT, MUSS ERMITTELT WERDEN, OB NORDKOREA DIE RAKETE, WELCHE DIE USS WALSH VERSENKT HAT, ABSICHTLICH ABGEFEUERT HAT ODER OB DER START VON AUSSEN, MITTELS COMPUTERMANIPULATION EINGELEITET WURDE.",
+        "es": "CON ZHERKEZHI MUERTO Y EL MUNDO AL BORDE DE LA GUERRA, ES IMPRESCINDIBLE SABER CON EXACTITUD SI LOS NORCOREANOS LANZARON INTENCIONADAMENTE EL MISIL QUE HUNDIÓ EL USS WALSH, O SI FUE FRUTO DE UN ATAQUE INFORMÁTICO CON CÓDIGOS DE MASSE.",
+        "it": "ORA CHE ZHERKEZHI È MORTO E IL MONDO È SULL'ORLO DELLA GUERRA, BISOGNA SCOPRIRE SE LA COREA DEL NORD HA LANCIATO INTENZIONALMENTE IL MISSILE CHE HA AFFONDATO LA USS WALSH, O SE IL LANCIO È STATO PROVOCATO DA UN ATTACCO DI GUERRA INFORMATICA BASATO SUI MASSE.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Some computers allow you to watch through security cameras.",
+        "fr": "CERTAINS ORDINATEURS VOUS PERMETTENT D'Y VOIR PAR LE BIAIS DES CAMÉRAS DE SURVEILLANCE.",
+        "de": "AUF EINIGEN COMPUTERN KÖNNEN SIE DIE VON SICHERHEITSKAMERAS ÜBERTRAGENEN BILDER SEHEN.",
+        "es": "ALGUNOS ORDENADORES TE PERMITEN CONTROLAR LAS CÁMARAS DE SEGURIDAD.",
+        "it": "PUOI USARE ALCUNI COMPUTER PER GUARDARE ATTRAVERSO LE TELECAMERE DI SICUREZZA.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Cameras can be temporarily disabled with the OCP.",
+        "fr": "LES CAMÉRAS PEUVENT ÊTRE TEMPORAIREMENT MISES HORS SERVICE GRÂCE À L'OCP.",
+        "de": "KAMERAS KÖNNEN MIT DEM OCP VORÜBERGEHEND DEAKTIVIERT WERDEN.",
+        "es": "LAS CÁMARAS PUEDEN DESACTIVARSE TEMPORALMENTE CON EL PO.",
+        "it": "PUOI DISATTIVARE TEMPORANEAMENTE LE TELECAMERE CON L'OCP.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Kicking open doors can knock out enemies on the other side.",
+        "fr": "OUVRIR LES PORTES D'UN COUP DE PIED PEUT PARFOIS PERMETTRE D'ASSOMMER LES ENNEMIS SE TENANT JUSTE DERRIÈRE.",
+        "de": "WENN SIE TÜREN EINTRETEN, KÖNNEN SIE FEINDE, DIE SICH AUF DER ANDEREN SEITE BEFINDEN, DADURCH AUSSER GEFECHT SETZEN.",
+        "es": "UNA BUENA PATADA EN UNA PUERTA PUEDE GOLPEAR AL ENEMIGO QUE ESTÁ AL OTRO LADO.",
+        "it": "PUOI SFONDARE LE PORTE A CALCI PER COLPIRE I NEMICI DALL'ALTRA PARTE.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "Enemies will wait for a clear shot if you are holding someone in front of you.",
+        "fr": "LES ENNEMIS ATTENDENT D'ÊTRE SÛRS DE VOUS TOUCHER SI VOUS TENEZ UN BOUCLIER HUMAIN DEVANT VOUS.",
+        "de": "WENN SIE JEMANDEN ALS SCHUTZSCHILD VOR SICH HALTEN, WERDEN DIE FEINDE WARTEN, BIS SICH IHNEN EIN FREIES SCHUSSFELD BIETET.",
+        "es": "LOS ENEMIGOS NO TENDRÁN UN BLANCO CLARO SI TE PROTEGES TRAS UN ESCUDO HUMANO.",
+        "it": "SE TI COPRI CON QUALCUNO, I NEMICI ASPETTERANNO DI AVERE UNA TRAIETTORIA DI TIRO LIBERA.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Prevent enemies from flanking you by suppressing them with heavy fire.",
+        "fr": "EVITEZ DE VOUS FAIRE CONTOURNER EN TIRANT ASSEZ SOUVENT SUR L'ENNEMI POUR L'EMPÊCHER DE BOUGER.",
+        "de": "HINDERN SIE IHRE FEINDE DURCH SCHWEREN BESCHUSS DARAN, SIE SEITLICH ZU UMGEHEN.",
+        "es": "EVITA QUE EL ENEMIGO TE RODEE POR EL FLANCO, SORPRÉNDELE Y DISPARA CONTRA ÉL.",
+        "it": "USA IL FUOCO DI SBARRAMENTO PER IMPEDIRE AI NEMICI DI ACCERCHIARTI.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Vents and sub floors can provide stealthy options for moving around.",
+        "fr": "CONDUITS D'AÉRATIONS ET PASSAGES SOUS LE SOL OFFRENT D'EXCELLENTS MOYENS DE SE DÉPLACER SANS SE FAIRE REPÉRER.",
+        "de": "DURCH LUFTSCHÄCHTE UND ZWISCHENBÖDEN KÖNNEN SIE SICH UNAUFFÄLLIG IN GEBÄUDEN UMHERBEWEGEN.",
+        "es": "LOS CONDUCTOS DE VENTILACIÓN Y EL FALSO SUELO SON ESTUPENDOS PARA AVANZAR SIN QUE TE VEAN.",
+        "it": "CONDOTTI DI VENTILAZIONE E CONTROPAVIMENTI SONO RISORSE PER IL MOVIMENTO FURTIVO.",
+        "th": ""
+      }
+    },
+    "08_seoulone": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Seoul, South Korea",
+        "fr": "SÉOUL, CORÉE DU SUD",
+        "de": "SEOUL, SÜDKOREA",
+        "es": "SEÚL, COREA DEL SUR",
+        "it": "SEUL, COREA DEL SUD",
+        "th": ""
+      },
+      "Date": {
+        "en": "Sun, July 8th, 2007",
+        "fr": "DIMANCHE 8 JUILLET 2007",
+        "de": "SO. 8. JULI 2007",
+        "es": "DOMINGO, 8 DE JULIO DE 2007",
+        "it": "DOMENICA 8 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "22:49H",
+        "fr": "22:49H",
+        "de": "22:49H",
+        "es": "22:49 H",
+        "it": "ORE 22:49",
+        "th": ""
+      },
+      "Overview": {
+        "en": "The attack that sank the Walsh could not be traced back further than the South Korean National Data Trunk. Drives must be recovered from the NDT before North Korean troops get them and use them to justify their invasion and occupation of South Korea.",
+        "fr": "LA PISTE DE L'ATTAQUE QUI A COULÉ LE WALSH S'ARRÊTE À LA BANQUE DE DONNÉES NATIONALE DE CORÉE DU SUD. IL FAUT ABSOLUMENT RÉCUPÉRER LE DISQUE DUR DE LA BDN AVANT LES NORD-CORÉENS, SANS QUOI CES DERNIERS S'EN SERVIRONT POUR JUSTIFIER LEUR OCCUPATION DU SUD.",
+        "de": "DER ANGRIFF AUF DIE WALSH KANN NICHT WEITER ALS BIS ZU EINEM SÜDKOREANISCHEN DATENKNOTENPUNKT ZURÜCKVERFOLGT WERDEN. SIE MÜSSEN DIE DORT BEFINDLICHEN FESTPLATTEN SICHERSTELLEN, BEVOR SIE IN DIE HÄNDE DER NORDKOREANER FALLEN, DIE DAMIT IHRE INVASION RECHTFERTIGEN KÖNNTEN.",
+        "es": "EL ATAQUE QUE HUNDIÓ EL WALSH NO PUEDE RASTREARSE MÁS ALLÁ DEL CENTRO NACIONAL DE DATOS DE COREA DEL SUR. HAY QUE RECUPERAR LOS DISCOS DEL CND ANTES DE QUE LAS TROPAS NORCOREANAS LOS ROBEN Y USEN LA INFORMACIÓN COMO EXCUSA PARA LA INVASIÓN Y OCUPACIÓN DE COREA DEL SUR.",
+        "it": "NON È STATO POSSIBILE TRACCIARE L'ATTACCO CHE HA AFFONDATO LA WALSH OLTRE LA DORSALE NAZIONALE DELLA COREA DEL SUD. BISOGNA RECUPERARE I DISCHI DATI DALLA DORSALE PRIMA CHE LE TRUPPE NORDCOREANE LI USINO PER GIUSTIFICARE L'INVASIONE E L'OCCUPAZIONE DELLA COREA DEL SUD.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Medical kits can be used multiple times.",
+        "fr": "LES TROUSSES DE PREMIERS SOINS PEUVENT ÊTRE UTILISÉES À PLUSIEURS REPRISES.",
+        "de": "MEDI-KITS KÖNNEN MEHRMALS VERWENDET WERDEN.",
+        "es": "LOS BOTIQUINES PUEDEN USARSE VARIAS VECES.",
+        "it": "I KIT DEL PRONTO SOCCORSO POSSONO ESSERE USATI PIÙ VOLTE.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Maximize cover by firing your weapon from the other shoulder.",
+        "fr": "ABRITEZ-VOUS AU MAXIMUM EN TIRANT DES DEUX MAINS POUR MOINS VOUS DÉCOUVRIR.",
+        "de": "NUTZEN SIE IHRE DECKUNG OPTIMAL, INDEM SIE IHRE WAFFE VON DER ANDEREN SCHULTER ABFEUERN.",
+        "es": "APROVECHA AL MÁXIMO TU COBERTURA DISPARANDO DESDE EL OTRO HOMBRO.",
+        "it": "SFRUTTA AL MEGLIO LA COPERTURA APPOGGIANDO L'ARMA SULL'ALTRA SPALLA.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Smoke grenades obscure enemy vision.",
+        "fr": "LES GRENADES FUMIGÈNES OBSCURCISSENT LA VISION DE L'ENNEMI.",
+        "de": "RAUCHGRANATEN BEHINDERN DIE SICHT DES FEINDES.",
+        "es": "LOS BOTES DE HUMO ENTORPECEN LA VISIÓN DEL ENEMIGO.",
+        "it": "I FUMOGENI BLOCCANO LA VISUALE DEL NEMICO.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "When engaging multiple enemies, keep moving.",
+        "fr": "RESTEZ TOUJOURS EN MOUVEMENT LORSQUE VOUS VOUS RETROUVEZ FACE À PLUSIEURS ENNEMIS EN MÊME TEMPS.",
+        "de": "BLEIBEN SIE IN BEWEGUNG, WENN SIE GEGEN MEHRERE GEGNER GLEICHZEITIG KÄMPFEN.",
+        "es": "CUANDO TE ENFRENTES A VARIOS ENEMIGOS, NO DEJES DE MOVERTE.",
+        "it": "QUANDO AFFRONTI PIÙ NEMICI CERCA DI RESTARE IN MOVIMENTO.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Enemies will run from grenades. Use them to flush enemies from cover.",
+        "fr": "LES ENNEMIS S'ENFUIENT QUAND ILS VOIENT ARRIVER UNE GRENADE. C'EST UNE BONNE TACTIQUE POUR LEUR FAIRE QUITTER LEUR ABRI.",
+        "de": "IHRE FEINDE WERDEN VOR GRANATEN FLÜCHTEN. VERWENDEN SIE SIE, UM IHRE GEGNER AUS DER DECKUNG ZU TREIBEN.",
+        "es": "LOS ENEMIGOS HUYEN DE LAS GRANADAS, ASÍ QUE YA SABES CÓMO SACARLOS DE SUS ESCONDITES...",
+        "it": "I NEMICI SCAPPANO DALLE GRANATE. USALE PER STANARLI DALLA LORO COPERTURA.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "When in a combat zone, conserve ammunition and keep moving.",
+        "fr": "QUAND VOUS ÊTES DANS UNE ZONE DE COMBAT, CONSERVEZ VOS MUNITIONS ET RESTEZ TOUJOURS EN MOUVEMENT.",
+        "de": "SPAREN SIE MUNITION, WENN SIE SICH IN EINEM KAMPFGEBIET BEFINDEN, UND BLEIBEN SIE IN BEWEGUNG.",
+        "es": "EN UNA ZONA DE COMBATE VIGILA LA MUNICIÓN Y NO DEJES DE MOVERTE.",
+        "it": "QUANDO SEI IN ZONA DI COMBATTIMENTO, DOSA BENE LE MUNIZIONI E MUOVITI IN CONTINUAZIONE.",
+        "th": ""
+      }
+    },
+    "09_seoultwo": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Seoul, South Korea",
+        "fr": "SÉOUL, CORÉE DU SUD",
+        "de": "SEOUL, SÜDKOREA",
+        "es": "SEÚL, COREA DEL SUR",
+        "it": "SEUL, COREA DEL SUD",
+        "th": ""
+      },
+      "Date": {
+        "en": "Mon, July 9th, 2007",
+        "fr": "LUNDI 9 JUILLET 2007",
+        "de": "MO, 9. JULI 2007",
+        "es": "LUNES, 9 DE JULIO DE 2007",
+        "it": "LUNEDÌ 9 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "00:38H",
+        "fr": "00:38H",
+        "de": "00:38H",
+        "es": "00:38 H",
+        "it": "ORE 0:38",
+        "th": ""
+      },
+      "Overview": {
+        "en": "The data from the NDT was successfully transferred back to Third Echelon for analysis. Unfortunately, the plane that was rebroadcasting the information was shot down before it could be purged. That data must not fall into North Korean hands.",
+        "fr": "LES DONNÉES DE LA BDN ONT ÉTÉ TRANSFÉRÉES AUX ANALYSTES D'ECHELON 3. MALHEUREUSEMENT, L'AVION A ÉTÉ ABATTU AVANT QUE LES INFORMATIONS N'AIENT ÉTÉ PURGÉES DE LA MÉMOIRE DE L'ORDINATEUR DE BORD. CES DONNÉES NE DOIVENT EN AUCUN CAS TOMBER ENTRE LES MAINS DES NORD-CORÉENS.",
+        "de": "DIE DATEN AUS DEM NDT WURDEN ERFOLGREICH ZUR WEITEREN ANALYSE AN THIRD ECHELON WEITERGELEITET. UNGLÜCKLICHERWEISE WURDE DAS FLUGZEUG, VON DEM AUS DIE INFORMATIONEN WEITERGELEITET WURDEN, ABGESCHOSSEN, BEVOR SIE GELÖSCHT WERDEN KONNTEN. DIE DATEN DÜRFEN NICHT IN DIE HÄNDE NORDKOREAS FALLEN.",
+        "es": "LOS DATOS DEL CND HAN SIDO TRANSFERIDOS A THIRD ECHELON PARA SU ANÁLISIS. POR DESGRACIA, EL AVIÓN QUE LOS TRANSMITIÓ FUE DERRIBADO ANTES DE QUE PUDIÉRAMOS BORRARLOS DE SU SISTEMA. ESOS DATOS NO DEBEN CAER EN MANOS NORCOREANAS.",
+        "it": "I DATI DELLA DORSALE SONO STATI TRASFERITI CORRETTAMENTE A THIRD ECHELON PER L'ANALISI. PURTROPPO, L'AEREO CHE STAVA RITRASMETTENDO I DATI È STATO ABBATTUTO PRIMA DI CANCELLARLI. I DATI NON DEVONO CADERE IN MANO AI NORDCOREANI.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "IFV’s – Infantry Fighting Vehicles – have tremendous firepower.",
+        "fr": "LES VÉHICULES BLINDÉS DISPOSENT D'UNE PUISSANCE DE FEU COLOSSALE.",
+        "de": "SCHÜTZENPANZER BESITZEN EINE IMMENSE FEUERKRAFT.",
+        "es": "LOS VEHÍCULOS DE INFANTERÍA TIENEN UNA GRAN POTENCIA DE FUEGO.",
+        "it": "GLI IFV (VEICOLI ANTI-FANTERIA) HANNO UNA POTENZA DI FUOCO ELEVATISSIMA.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "UAV’s – Unmanned Aerial Vehicles – have lights and guns.",
+        "fr": "LES DRONES SONT ÉQUIPÉS D'ARMES ET DE PROJECTEURS.",
+        "de": "DROHNEN, AUCH UAVS GENANNT, BESITZEN SCHEINWERFER UND WAFFEN.",
+        "es": "LAS UNIDADES AÉREAS TELEDIRIGIDAS DISPONEN DE LUZ  Y AMETRALLADORAS.",
+        "it": "GLI UAV (DRONI AEREI) SONO DOTATI DI LUCI E CANNONI.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Killing friendly troops will result in a 0% Mission Rating.",
+        "fr": "SI VOUS TUEZ DES TROUPES ALLIÉES, VOTRE SCORE DE MISSION CHUTE AUTOMATIQUEMENT À 0%.",
+        "de": "DAS TÖTEN VON VERBÜNDETEN SOLDATEN FÜHRT ZUM SCHEITERN DER MISSION.",
+        "es": "SI ELIMINAS A UN SOLDADO ALIADO TENDRÁS UN 0% EN TU ÍNDICE DE ÉXITO EN LA MISIÓN.   ",
+        "it": "UCCIDERE LE TRUPPE AMICHE RIDURRÀ LA VALUTAZIONE DELLA MISSIONE ALLO 0%.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "The Laser Designator is part of the EEV.",
+        "fr": "LE LASER DE VISÉE FAIT PARTIE DE L'EEV.",
+        "de": "DER LASER ZUR ZIELMARKIERUNG IST TEIL DES EEV.",
+        "es": "EL INDICADOR LÁSER ES PARTE DEL VISOR ELECTRÓNICO.",
+        "it": "IL PUNTATORE LASER FA PARTE DELL'EEV.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Soldiers on different sides of the conflict will attack each other on sight.",
+        "fr": "LES SOLDATS DES DEUX ARMÉES ENNEMIES S'ATTAQUENT À VUE.",
+        "de": "SOLDATEN DER VERSCHIEDENEN KONFLIKTPARTEIEN WERDEN SICH BEI SICHTKONTAKT SOFORT ANGREIFEN.",
+        "es": "LOS SOLDADOS DE LOS DISTINTOS BANDOS DEL CONFLICTO SE ATACARÁN EN CUANTO SE VEAN.",
+        "it": "I SOLDATI DI DIVERSE FAZIONI SI ATTACCHERANNO A VISTA.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Watch out for snipers.",
+        "fr": "ATTENTION AUX TIREURS EMBUSQUÉS.",
+        "de": "ACHTEN SIE AUF SCHARFSCHÜTZEN.",
+        "es": "TEN CUIDADO CON LOS FRANCOTIRADORES.",
+        "it": "FAI ATTENZIONE AI CECCHINI.",
+        "th": ""
+      }
+    },
+    "10_bathhouse": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Shinjuku District Bath House, Tokyo, Japan",
+        "fr": "SAUNA DU QUARTIER DE SHINJUKU, TOKYO, JAPON",
+        "de": "SHINJUKU DISTRIKT BADEHAUS, TOKIO, JAPAN",
+        "es": "CASA DE BAÑOS DEL BARRIO SHINJUKU, TOKIO, JAPÓN",
+        "it": "BAGNI DEL DISTRETTO DI SHINJUKU, TOKYO, GIAPPONE",
+        "th": ""
+      },
+      "Date": {
+        "en": "Tues, July 10th, 2007",
+        "fr": "MARDI, 10 JUILLET 2007",
+        "de": "DO, 10. JULI 2007",
+        "es": "MARTES, 10 DE JULIO DE 2007",
+        "it": "MARTEDÌ 10 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "23:06H",
+        "fr": "23:06H",
+        "de": "23:06H",
+        "es": "23:06 H",
+        "it": "ORE 23:06",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Douglas Shetland is in Tokyo and planning to meet with an unknown party to sell off the last of the information Displace gathered from Zherkezhi and Morgenholt. Shetland's partners must be identified, and Shetland must be stopped.",
+        "fr": "DOUGLAS SHETLAND SE TROUVE À TOKYO. IL A L'INTENTION DE RENCONTRER UN OU PLUSIEURS INCONNUS AFIN DE LEUR VENDRE LE RESTE DES INFORMATIONS QUE DISPLACE A OBTENUES DE ZHERKEZHI ET SOUTIRÉES À MORGENHOLT. IL FAUT ABSOLUMENT IDENTIFIER LES PARTENAIRES DE SHETLAND ET ARRÊTER CE DERNIER.",
+        "de": "DOUGLAS SHETLAND BEFINDET SICH IN TOKIO UND PLANT EIN TREFFEN MIT EINER UNBEKANNTEN PARTEI, UM DIE LETZTEN INFORMATIONEN ZU VERKAUFEN, DIE DISPLACE VON ZHERKEZHI UND MORGENHOLT ERHALTEN HAT. SHETLANDS PARTNER MÜSSEN IDENTIFIZIERT UND ER SELBST MUSS AUFGEHALTEN WERDEN.",
+        "es": "DOUGLAS SHETLAND ESTÁ EN TOKIO PARA REUNIRSE CON UN CONTACTO DESCONOCIDO AL QUE VENDERÁ LA INFORMACIÓN QUE DISPLACE HA CONSEGUIDO DE ZHERKEZHI Y MORGENHOLT. IDENTIFICA A LOS SOCIOS DE SHETLAND Y DETÉN A ÉSTE.",
+        "it": "DOUGLAS SHETLAND È A TOKYO PER INCONTRARSI CON UNA FAZIONE SCONOSCIUTA A CUI VENDERE LE ULTIME INFORMAZIONI CHE DISPLACE HA RECUPERATO DA ZHERKEZHI E MORGENHOLT. BISOGNA SCOPRIRE CHI SONO I CLIENTI DI ZHERKEZHI E FERMARE SHETLAND.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Sticky shockers fired into water puddles can knock out multiple guards.",
+        "fr": "LES ÉLECTROCUTEURS TIRÉS DANS LES FLAQUES D'EAU PEUVENT ASSOMMER PLUSIEURS GARDES D'UN COUP.",
+        "de": "HAFT-SCHOCKER, DIE IN PFÜTZEN GEFEUERT WERDEN, KÖNNEN MEHRERE WACHEN GLEICHZEITIG AUSSER GEFECHT SETZEN.",
+        "es": "DISPARA UN DARDO ELÉCTRICO A UN CHARCO Y TODOS LOS QUE LO ESTÉN PISANDO QUEDARÁN PARALIZADOS.",
+        "it": "PUOI SPARARE UN PROIETTILE ELETTRICO NELLE POZZE D'ACQUA PER METTERE FUORI COMBATTIMENTO PIÙ GUARDIE IN UN COLPO.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Fog blocks visibility, but can be seen through in Thermal Vision.",
+        "fr": "LE BROUILLARD BLOQUE LA VISIBILITÉ, MAIS PAS LA VISION THERMIQUE.",
+        "de": "NEBEL BLOCKIERT DIE SICHT, WIRD ABER VOM WÄRMEBILDGERÄT DURCHDRUNGEN.",
+        "es": "LA NIEBLA BLOQUEA LA VISIBILIDAD, PERO TU VISOR TÉRMICO PUEDE AYUDARTE.",
+        "it": "LA NEBBIA LIMITA LA VISIBILITÀ, MA NON BLOCCA IL VISORE TERMICO.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Steam blocks visibility and interferes with Thermal Vision.",
+        "fr": "LA VAPEUR BLOQUE LA VISIBILITÉ ET INTERFÈRE AVEC LA VISION THERMIQUE.",
+        "de": "DAMPF BLOCKIERT DIE SICHT UND STÖRT DAS WÄRMEBILDGERÄT.",
+        "es": "EL VAPOR BLOQUEA LA VISIBILIDAD Y SUELE INTERFERIR CON EL VISOR TÉRMICO.",
+        "it": "IL VAPORE LIMITA LA VISIBILITÀ E OSTACOLA IL VISORE TERMICO.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "Enemies can see your reflection in mirrors.",
+        "fr": "LES ENNEMIS VOIENT VOTRE REFLET DANS LES MIROIRS.",
+        "de": "FEINDE KÖNNEN IHRE REFLEXION IN SPIEGELN SEHEN.",
+        "es": "LOS ENEMIGOS PUEDEN VER TU REFLEJO EN UN ESPEJO.",
+        "it": "I NEMICI POSSONO VEDERE IL TUO RIFLESSO NEGLI SPECCHI.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Enemies can see your reflection in mirrors.",
+        "fr": "LES TROUPES D'ÉLITE ENNEMIES PEUVENT ÊTRE ÉQUIPÉES DE LUNETTES DE VISION NOCTURNE.",
+        "de": "EINIGE FEINDLICHE ELITE-EINHEITEN SIND MIT NACHTSICHTGERÄTEN AUSGERÜSTET.",
+        "es": "ALGUNAS TROPAS DE ÉLITE TIENEN TAMBIÉN VISORES NOCTURNOS.",
+        "it": "ALCUNI SOLDATI D'ELITE NEMICI SONO DOTATI DI VISORI NOTTURNI.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Prevent enemies from flanking you by suppressing them with heavy fire.",
+        "fr": "ÉVITEZ DE VOUS FAIRE CONTOURNER EN TIRANT ASSEZ SOUVENT SUR L'ENNEMI POUR L'EMPÊCHER DE BOUGER.",
+        "de": "HINDERN SIE IHRE FEINDE DURCH SCHWEREN BESCHUSS DARAN, SIE SEITLICH ZU UMGEHEN.",
+        "es": "NO DEJES QUE UN ENEMIGO TE FLANQUEE: SORPRÉNDELE CON UNA LLUVIA DE BALAS.",
+        "it": "USA IL FUOCO DI SBARRAMENTO PER IMPEDIRE AI NEMICI DI ACCERCHIARTI.",
+        "th": ""
+      }
+    },
+    "11_kokubososho": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Japanese Defence Ministry, on Tokyo Bay, Tokyo, Japan",
+        "fr": "MINISTÈRE JAPONAIS DE LA DÉFENSE, BAIE DE TOKYO, JAPON",
+        "de": "JAPANISCHES VERTEIDIGUNGS-MINISTERIUM, BUCHT VON TOKIO, JAPAN",
+        "es": "MINISTERIO DE DEFENSA JAPONÉS, BAHÍA DE TOKIO, JAPÓN",
+        "it": "MINISTERO DELLA DIFESA GIAPPONESE, BAIA DI TOKYO, GIAPPONE",
+        "th": ""
+      },
+      "Date": {
+        "en": "Wed, July 11th, 2007",
+        "fr": "MERCREDI 11 JUILLET 2007",
+        "de": "MI, 11. JUNI 2007",
+        "es": "MIÉRCOLES, 11 DE JULIO DE 2007",
+        "it": "MERCOLEDÌ 11 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "22:59H",
+        "fr": "22:59H",
+        "de": "22:59 UHR",
+        "es": "22:59 H",
+        "it": "ORE 22:59",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Admiral Otomo and the Japanese I-SDF are responsible for working with Douglas Shetland to push the Koreas and the United States into war. It must be determined if Otomo’s actions are sanctioned by the Japanese government, and Otomo must be stopped.",
+        "fr": "CE SONT L'AMIRAL TOSHIRO OTOMO ET L'I-SDF QUI ÉTAIENT ALLIÉS AVEC DOUGLAS SHETLAND ET DISPLACE INTERNATIONAL AFIN DE DÉCLENCHER UNE GUERRE ENTRE LES ETATS-UNIS ET LA CORÉE. IL FAUT ARRÊTER OTOMO ET DÉTERMINER SI SES ACTES SONT OU NON CAUTIONNÉS PAR LE GOUVERNEMENT JAPONAIS.",
+        "de": "OTOMO UND SEINE EINHEIT ZUR COMPUTER-KRIEGSFÜHRUNG HABEN MIT SHETLAND UND DISPLACE KOLLABORIERT, UM KOREA UND DIE USA IN EINEN KRIEG ZU TREIBEN. ERMITTELN SIE, OB DIE JAPANISCHE REGIERUNG OTOMOS HANDLUNGEN BILLIGTE, UND HALTEN SIE IHN AUF.",
+        "es": "EL ALMIRANTE TOSHIRO OTOMO Y LAS FAD JAPONESAS HAN COLABORADO CON DOUGLAS SHETLAND Y DISPLACE INTERNATIONAL PARA EMPUJAR A LAS DOS COREAS Y A ESTADOS UNIDOS A UNA GUERRA. DEBEMOS DETERMINAR SI LAS ACCIONES DE OTOMO ESTABAN O NO RESPALDADAS POR EL GOBIERNO JAPONÉS, Y DETENER AL PROPIO OTOMO.",
+        "it": "L'AMMIRAGLIO TOSHIRO OTOMO E L'I-SDF GIAPPONESE HANNO COLLABORATO CON CON DOUGLAS SHETLAND E DISPLACE INTERNATIONAL PER SPINGERE ALLA GUERRA LA COREA E GLI STATI UNITI. BISOGNA SCOPRIRE SE LE AZIONI DI OTOMO SONO AUTORIZZATE DAL GOVERNO GIAPPONESE, E OTOMO DEVE ESSERE FERMATO.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Watch out for turrets and other static defenses.",
+        "fr": "LES ENNEMIS ÉQUIPÉS D'ARMES NON-MORTELLES PEUVENT VOUS CAPTURER.",
+        "de": "GEGNER MIT NICHT-TÖDLICHEN WAFFEN KÖNNEN SIE GEFANGEN NEHMEN.",
+        "es": "LOS ENEMIGOS CON ARMAS NO LETALES TAMBIÉN PUEDEN CAPTURARTE.",
+        "it": "I NEMICI DOTATI DI ARMI NON LETALI POSSONO CATTURARTI.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Watch out for turrets and other static defenses.",
+        "fr": "ATTENTION AUX TOURELLES ET AUX AUTRES DÉFENSES STATIQUES.",
+        "de": "ACHTEN SIE AUF AUTO-KANONEN UND ANDERE STATISCHE VERTEIDIGUNGSANLAGEN.",
+        "es": "CUIDADO CON LAS AMETRALLADORAS EN TRÍPODE Y CON OTRAS DEFENSAS PASIVAS.",
+        "it": "FAI ATTENZIONE ALLE TORRETTE E AD ALTRE DIFESE STATICHE.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Kokubo Sosho biometrics scanners cannot be hacked.",
+        "fr": "IL EST IMPOSSIBLE DE PIRATER LES SCANNEURS DU KOKUBO SOSHO.",
+        "de": "DIE BIOMETRISCHEN SCANNER IM KOKUBO SOSHO KÖNNEN NICHT GEHACKT WERDEN.",
+        "es": "LOS ESCÁNERS BIOMÉTRICOS DEL KOKUBO SOSHO NO PUEDEN HACKEARSE.",
+        "it": "NON PUOI SABOTARE GLI SCANNER BIOMETRICI DEL KOKUBO SOSHO.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "Killing Japanese soldiers without permission will result in Mission Failure.",
+        "fr": "SI VOUS TUEZ DES SOLDATS JAPONAIS, VOUS ÉCHOUEREZ AUTOMATIQUEMENT DANS VOTRE MISSION.",
+        "de": "NICHT SANKTIONIERTES TÖTEN JAPANISCHER SOLDATEN FÜHRT ZUM SCHEITERN DER MISSION.",
+        "es": "MATAR A UN SOLDADO JAPONÉS SIN PERMISO SUPONDRÁ EL FRACASO DE LA MISIÓN.",
+        "it": "UCCIDERE SOLDATI GIAPPONESI SENZA AUTORIZZAZIONE FARÀ FALLIRE LA MISSIONE.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Enemies can see your reflection in mirrors.",
+        "fr": "LES ENNEMIS VOIENT VOTRE REFLET DANS LES MIROIRS.",
+        "de": "FEINDE KÖNNEN IHR SPIEGELBILD IN SPIEGELN SEHEN.",
+        "es": "EL ENEMIGO PUEDE VER TU REFLEJO EN UN ESPEJO.",
+        "it": "I NEMICI POSSONO VEDERE IL TUO RIFLESSO NEGLI SPECCHI.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "You can see the beam emitted from an IR camera in Night Vision.",
+        "fr": "LA VISION NOCTURNE VOUS PERMET DE VOIR LES RAYONS ÉMIS PAR LES CAMÉRAS À INFRAROUGE.",
+        "de": "MIT DEM NACHTSICHTGERÄT WERDEN VON INFRAROT-KAMERAS AUSGESENDETE STRAHLEN SICHTBAR.",
+        "es": "CON EL VISOR NOCTURNO DETECTARÁS LOS PEQUEÑOS HACES DE LAS CÁMARAS IR.",
+        "it": "PUOI VEDERE IL RAGGIO EMESSO DELLE TELECAMERE A INFRAROSSI COL VISORE NOTTURNO.",
+        "th": ""
+      }
+    },
+    "00_training_coop": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Third Echelon Training Facility, Fort Meade, Maryland, USA",
+        "fr": "Centre d'entraînement d'Echelon 3, Fort Meade, Maryland, Etats-Unis",
+        "de": "Third Echelon Trainingsanlage, Fort Meade, Maryland, USA",
+        "es": "Instalaciones de entrenamiento de Third Echelon en Fort Meade, Maryland, USA",
+        "it": "Struttura di addestramento di Third Echelon a Fort Meade, Maryland, Stati Uniti.",
+        "th": ""
+      },
+      "Date": {
+        "en": "unknown",
+        "fr": "INCONNU",
+        "de": "UNBEKANNT",
+        "es": "FECHA DESCONOCIDA",
+        "it": "SCONOSCIUTA",
+        "th": ""
+      },
+      "Time": {
+        "en": "unknown",
+        "fr": "INCONNU",
+        "de": "UNBEKANNT",
+        "es": "HORA DESCONOCIDA",
+        "it": "SCONOSCIUTA",
+        "th": ""
+      },
+      "Overview": {
+        "en": "As Splinter Cells in training, you must learn to trust each other to complete your objectives. The only things standing between you and failure are your wits, and your partner. Learn to work together to accomplish missions that could not be completed by an individual Agent.",
+        "fr": "VOUS DEVEZ APPRENDRE À FAIRE ÉQUIPE POUR ATTEINDRE VOS OBJECTIFS. QUAND VOUS SEREZ EN OPÉRATION, VOUS N'AUREZ QUE VOTRE INTELLIGENCE ET VOTRE COÉQUIPIER POUR VOUS AIDER. APPRENEZ À LUI FAIRE CONFIANCE!",
+        "de": "ALS SPLITTERGRUPPEN IN DER AUSBILDUNG MÜSSEN SIE LERNEN, IHREM PARTNER ZU VERTRAUEN. JEDER MISSIONSERFOLG HÄNGT ALLEIN VON IHRER CLEVERNESS UND IHREM PARTNER AB. TEAMARBEIT WIRD VERLANGT, WENN EIN AGENT NICHT GENÜGT.",
+        "es": "TODO SPLINTER CELL DEBE APRENDER A TRABAJAR EN EQUIPO. EN EL CAMPO DE OPERACIONES LO QUE TE SEPARA DEL FRACASO SON TUS HABILIDADES... Y TU COMPAÑERO. APRENDE A CONFIAR EN ÉL PARA  REALIZAR MISIONES EN LAS QUE UN SOLO AGENTE FRACASARÍA.",
+        "it": "COME AGENTI SPLINTER CELL IN ADDESTRAMENTO, DOVETE IMPARARE A LAVORARE ASSIEME PER COMPLETARE GLI OBIETTIVI. SUL CAMPO, TRA VOI E IL FALLIMENTO AVRETE SOLO LA VOSTRA ASTUZIA E IL VOSTRO COMPAGNO. IMPARATE A FIDARVI E A LAVORARE ASSIEME PER COMPLETARE MISSIONI IMPOSSIBILI PER UN AGENTE ISOLATO.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "The coop button, is used to initiate and complete Co-op Moves.",
+        "fr": "LA TOUCHE DE MOUVEMENT COOPÉRATIF EST UTILISÉE POUR ENTAMER ET POURSUIVRE LES MOUVEMENTS COOPÉRATIFS.",
+        "de": "DIE TASTE FÜR KOOP-AKTIONEN WIRD VERWENDET, UM KOOP-AKTIONEN EINZULEITEN UND DURCHZUFÜHREN.",
+        "es": "LA TECLA DE ACCIÓN COOPERATIVA SE USA PARA INICIAR Y COMPLETAR MOVIMIENTOS COOPERATIVOS.",
+        "it": "Il tasto di mossa cooperativa viene usato per iniziare e completare le mosse cooperative.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Press and hold alternate fire with the pistol, the Jammer will temporarily disable devices.",
+        "fr": "APPUYEZ LONGUEMENT SUR LA TOUCHE DE TIR ALTERNATIVE AVEC LE PISTOLET ET LE BROUILLEUR INTERROMPRA LE FONCTIONNEMENT DES APPAREILS ÉLECTRONIQUES.",
+        "de": "HALTEN SIE DIE TASTE FÜR DIE ALTERNATIVE WAFFENFUNKTION BEI DER PISTOLE FEST. DADURCH WERDEN BESTIMMTE GERÄTE VORÜBERGEHEND AUSSER BETRIEB GESETZT.",
+        "es": "PULSA EL DISPARO SECUNDARIO CON LA PISTOLA EN LA MANO, ASÍ EL INTERFERIDOR DESACTIVARÁ DISPOSITIVOS TEMPORALMENTE.",
+        "it": "Tieni premuto il tasto di fuoco alternativo quando usi la pistola per disattivare temporaneamente i dispositivi con il jammer.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "If one Agent goes down, get to him, and Heal him with the interact button.",
+        "fr": "SI UN AGENT EST ABATTU, APPROCHEZ-VOUS DE LUI ET RANIMEZ-LE EN APPUYANT SUR LA TOUCHE D'INTERACTION.",
+        "de": "WENN EIN AGENT ZU BODEN GEHT, KÖNNEN SIE ZU IHM GEHEN UND IHN MIT DER AKTIONSTASTE WIEDERBELEBEN.",
+        "es": "SI UN AGENTE CAE, ACÉRCATE A ÉL Y REANÍMALO CON LA TECLA DE ACCIÓN.",
+        "it": "Se un agente viene messo fuori combattimento, raggiungilo e curalo premendo il tasto di interazione.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "The Use/Equip Button readies your currently equipped item for use.",
+        "fr": "LA TOUCHE D'UTILISATION ET D'ÉQUIPEMENT PRÉPARE L'OBJET DONT VOUS ÊTES ÉQUIPÉ AFIN DE VOUS PERMETTRE DE L'UTILISER.",
+        "de": "DIE BENUTZEN-TASTE MACHT DAS GEWÄHLTE OBJEKT EINSATZBEREIT.",
+        "es": "LA TECLA USAR/EQUIPAR SACA EL OBJETO CON EL QUE ESTÉS EQUIPADO, ASÍ PODRÁS USARLO.",
+        "it": "Premi il tasto Impugna per impugnare l'oggetto attuale e usarlo.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Press and hold the CTRL button to open Quick Inventory. Tap to switch weapons or attachments.",
+        "fr": "MAINTENEZ LA TOUCHE CTRL ENFONCÉE POUR ACCÉDER À L'INVENTAIRE RAPIDE. APPUYEZ RAPIDEMENT POUR CHANGER D'ARME OU D'ACCESSOIRE.",
+        "de": "HALTEN SIE DIE STRG-TASTE GEDRÜCKT, UM DAS SCHNELLINVENTAR ZU ÖFFNEN.",
+        "es": "MANTÉN PULSADA LA TECLA CTRL PARA ACCEDER AL INVENTARIO RÁPIDO. PULSA PARA CAMBIAR DE ARMA O ACCESORIO.",
+        "it": "Tieni premuto il tasto CTRL per aprire l'inventario rapido. Premilo rapidamente per cambiare arma o modulo.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Press and hold the Interact button. Select action in the Interaction Window. Release.",
+        "fr": "MAINTENEZ LA TOUCHE D'INTERACTION ENFONCÉE POUR SÉLECTIONNER VOTRE ACTION DANS LA FENÊTRE D'INTERACTION, PUIS RELÂCHEZ-LA.",
+        "de": "HALTEN SIE DIE AKTIONSTASTE GEDRÜCKT, UM IM INTERAKTIONSFENSTER EINE HANDLUNG AUSZUWÄHLEN, UND LASSEN SIE DANN LOS.",
+        "es": "MANTÉN PULSADA LA TECLA DE ACCIÓN PARA ELEGIR UNA ACCIÓN DE LA VENTANA Y LUEGO SUÉLTALA.",
+        "it": "Tieni premuto il tasto di interazione. Seleziona l'azione nella finestra di interazione e lascialo andare.",
+        "th": ""
+      }
+    },
+    "01_panama": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Panama Canal Administration Building, Panama City, Panama",
+        "fr": "BÂTIMENT DE L'ADMINISTRATION DU CANAL DE PANAMA, PANAMA CITY, PANAMA",
+        "de": "PANAMA KANAL VERWALTUNGSGEBÄUDE. PANAMA STADT, PANAMA",
+        "es": "EDIFICIO DE LA ADMINISTRACIÓN DEL CANAL DE PANAMÁ, CIUDAD DE PANAMÁ, PANAMÁ",
+        "it": "EDIFICIO DELL'AMMINISTRAZIONE DEL CANALE DI PANAMA, PANAMA CITY, PANAMA",
+        "th": ""
+      },
+      "Date": {
+        "en": "Fri, June 29th, 2007",
+        "fr": "VENDREDI 29 JUIN 2007",
+        "de": "FR, 29. JULI 2007",
+        "es": "VIERNES, 29 DE JUNIO DE 2007",
+        "it": "VENERDÌ 29 GIUGNO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "22:50H",
+        "fr": "22:50H",
+        "de": "22:50 UHR",
+        "es": "22:50 H",
+        "it": "ORE 22:50",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.",
+        "fr": "LES DOCUMENTS RÉCUPÉRÉS À LA BANQUE MCAS INDIQUENT QUE LE VICE-PRÉSIDENT DE L'ADMINISTRATION DU CANAL DE PANAMA, UN CERTAIN DE MEDEIROS, TOUCHE DES POTS-DE-VIN AFIN DE VEILLER À CE QUE CERTAINS NAVIRES ÉCHAPPENT À L'INSPECTION OBLIGATOIRE. ECHELON 3 SOUHAITE SE PENCHER PLUS ATTENTIVEMENT SUR CETTE MENACE.",
+        "de": "IN DER MCAS-BANK SICHERGESTELLTE DATEN GEBEN AN, DASS VIZEPRÄSIDENT DE MEDEIROS VON DER PCA BESTECHUNGSGELDER ERHIELT, UM BESTIMMTE SCHIFFE EINER INSPEKTION ENTGEHEN ZU LASSEN. ECHELON MÖCHTE DIESE SACHE UNTERSUCHEN.",
+        "es": "LOS REGISTROS HALLADOS EN EL BANCO MCAS DE PANAMÁ INDICAN QUE EL VICEPRESIDENTE MEDEIROS HA ACEPTADO SOBORNOS PARA QUE ALGUNOS CARGUEROS NO PASEN LA INSPECCIÓN OBLIGATORIA. ECHELON QUIERE SABER QUÉ SE ESCONDE DETRÁS DE ESTE TRATO.",
+        "it": "I DATI PRELEVATI DALLA BANCA MCAS INDICANO CHE IL VICEPRESIDENTE DELL'AMMINISTRAZIONE DEL CANALE DI PANAMA, DE MEDEIROS, È STATO CORROTTO PER GARANTIRE CHE ALCUNE IMBARCAZIONI EVITASSERO LE ISPEZIONI. ECHELON VUOLE INDAGARE PIÙ APPROFONDITAMENTE SUL PROBLEMA.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Ventilation systems often provide useful shortcuts.",
+        "fr": "LES SYSTÈMES DE VENTILATION OFFRENT SOUVENT DES RACCOURCIS FORT UTILES.",
+        "de": "BELÜFTUNGSSYSTEME EIGNEN SICH OFT ALS NÜTZLICHE ABKÜRZUNGEN.",
+        "es": "LOS SISTEMAS DE VENTILACIÓN SUELEN SER UN BUEN ATAJO.",
+        "it": "I SISTEMI DI VENTILAZIONE SPESSO RAPPRESENTANO UTILI SCORCIATOIE.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "The coop button is used to initiate and complete Co-op Moves.",
+        "fr": "LA TOUCHE DE MOUVEMENT COOPÉRATIF EST UTILISÉE POUR ENTAMER ET POURSUIVRE LES MOUVEMENTS COOPÉRATIFS.",
+        "de": "DIE TASTE FÜR KOOP-AKTIONEN WIRD VERWENDET, UM KOOP-AKTIONEN EINZULEITEN UND DURCHZUFÜHREN.",
+        "es": "LA TECLA DE ACCIÓN COOPERATIVA TE PERMITE INICIAR Y COMPLETAR MOVIMIENTOS COOPERATIVOS.",
+        "it": "Il tasto di mossa cooperativa viene usato per iniziare e completare le mosse cooperative.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "If you are undetected... try to keep it that way.",
+        "fr": "SI PERSONNE NE VOUS A DÉTECTÉ... FAITES EN SORTE QUE ÇA DURE.",
+        "de": "WENN SIE NIEMAND ENTDECKT HAT ... SORGEN SIE DAFÜR, DASS ES SO BLEIBT.",
+        "es": "SI HAS LOGRADO QUE NO TE DETECTEN... SIGUE ASÍ.",
+        "it": "SE NON SANNO CHE CI SIETE... PREGATE CHE CONTINUI COSÌ.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "Useful information about your teammate is shown on your screen",
+        "fr": "TOUS LES RENSEIGNEMENTS UTILES CONCERNANT VOTRE PARTENAIRE S'AFFICHENT À L'ÉCRAN.",
+        "de": "AUF IHREM BILDSCHIRM WERDEN NÜTZLICHE INFORMATIONEN ÜBER IHREN TEAMKAMERADEN ANGEZEIGT.",
+        "es": "EN TU PANTALLA VERÁS INFORMACIÓN ÚTIL SOBRE TU COMPAÑERO.",
+        "it": "SULLO SCHERMO PUOI LEGGERE INFORMAZIONI IMPORTANTI SUL TUO COMPAGNO DI SQUADRA.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Work together to reach areas high above, or below you.",
+        "fr": "FAITES ÉQUIPE POUR ATTEINDRE LES ENDROITS SITUÉS AU-DESSUS OU EN DESSOUS DE VOUS.",
+        "de": "ARBEITEN SIE ZUSAMMEN, UM BEREICHE ZU ERREICHEN, DIE SICH HOCH ÜBER ODER UNTER IHNEN BEFINDEN.",
+        "es": "UNID VUESTRAS FUERZAS PARA ALCANZAR LUGARES ELEVADOS O HUNDIDOS.",
+        "it": "COLLABORATE PER RAGGIUNGERE AREE TROPPO IN ALTO O TROPPO IN BASSO.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Both agents OPSAT are updated when you receive new information.",
+        "fr": "LES MONTRES-TERMINAUX DES DEUX AGENTS SONT MISES À JOUR CHAQUE FOIS QU'ON VOUS ENVOIE DE NOUVELLES INFORMATIONS.",
+        "de": "DIE OPSATS BEIDER AGENTEN WERDEN AKTUALISIERT, WENN NEUE INFORMATIONEN EINTREFFEN.",
+        "es": "LOS ENSAT DE AMBOS AGENTES SE ACTUALIZAN AL RECIBIR INFORMACIÓN.",
+        "it": "QUANDO RICEVI NUOVE INFORMAZIONI VENGONO AGGIORNATI GLI OPSAT DI ENTRAMBI GLI AGENTI.",
+        "th": ""
+      }
+    },
+    "02_seoulthree": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Seoul, South Korea",
+        "fr": "SÉOUL, CORÉE DU SUD",
+        "de": "SEOUL, SÜDKOREA",
+        "es": "SEÚL, COREA DEL SUR",
+        "it": "SEUL, COREA DEL SUD",
+        "th": ""
+      },
+      "Date": {
+        "en": "Sun, July 8th, 2007",
+        "fr": "DIMANCHE 8 JUILLET 2007",
+        "de": "SO, 8. JULI 2007",
+        "es": "DOMINGO, 8 DE JULIO DE 2007",
+        "it": "DOMENICA 8 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "22:30H",
+        "fr": "22:30H",
+        "de": "22:30 UHR",
+        "es": "22:30 H",
+        "it": "ORE 22:30",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Jong Pom-chu is a North Korean spy who may have knowledge about illegal biological weapons programs. He must be abducted from a hotel in Seoul before the invading North Korean Army is able to secure him and get him to safety.",
+        "fr": "JONG POM-CHU EST UN ESPION NORD-CORÉEN QUI DÉTIENT PEUT-ÊTRE DES CONNAISSANCES POUR CE QUI CONCERNE LES ARMES BIOLOGIQUES INTERDITES. ALLEZ L'ENLEVER DANS L'HÔTEL DE SÉOUL OÙ IL A TROUVÉ REFUGE, AVANT QUE L'ARMÉE NORD-CORÉENNE NE LE RAMÈNE AU PAYS.",
+        "de": "JONG POM-CHU, EIN NORDKOREANISCHER SPION, KÖNNTE WISSEN ÜBER ILLEGALE BIOLOGISCHE WAFFENPROGRAMME BESITZEN. ER MUSS AUS EINEM HOTEL IN SEOUL ENTFÜHRT WERDEN, BEVOR ES DER ANRÜCKENDEN NORDKOREANISCHEN ARMEE GELINGT, IHN ZU FINDEN UND ZU RETTEN.",
+        "es": "JONG POM-CHU ES UN ESPÍA NORCOREANO QUE PUEDE TENER EN SU PODER CIERTA INFORMACIÓN SOBRE PROGRAMAS DE ARMAS BIOLÓGICAS. HAY QUE SACARLE POR LA FUERZA DEL HOTEL DE SEÚL, ANTES DE QUE EL EJÉRCITO INVASOR NORCOREANO SE REÚNA CON ÉL Y LE PONGA A SALVO.",
+        "it": "JONG POM-CHU È UNA SPIA NORDCOREANA CHE POTREBBE AVERE INFORMAZIONI SU PROGRAMMI DI SVILUPPO DI ARMI BIOLOGICHE. BISOGNA RAPIRLO DA UN ALBERGO DI SEUL PRIMA CHE L'INVASIONE DELL'ESERCITO NORDCOREANO LO RAGGIUNGA E LO PORTI IN SALVO.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Killing, setting off alarms and being detected reduces your Mission Rating.",
+        "fr": "TUER, DÉCLENCHER L'ALARME ET VOUS FAIRE DÉTECTER RÉDUISENT VOTRE SCORE DE MISSION.",
+        "de": "TÖTUNGEN, DAS AUSLÖSEN VON ALARMEN UND ENTDECKUNG WIRKEN SICH NEGATIV AUF IHRE MISSIONSBEURTEILUNG AUS.",
+        "es": "MATAR, DISPARAR ALARMAS O SER VISTO REDUCE TU CALIFICACIÓN EN LA MISIÓN.",
+        "it": "UCCIDERE, FAR SCATTARE ALLARMI ED ESSERE SCOPERTI RIDURRÀ LA VALUTAZIONE DELLA MISSIONE.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Enemies may use flares or flashlights if they search in the dark.",
+        "fr": "LES ENNEMIS PEUVENT UTILISER DES FUSÉES ÉCLAIRANTES ET LAMPES-TORCHES QUAND ILS FOUILLENT DANS LE NOIR.",
+        "de": "BEI DER SUCHE IM DUNKLEN SETZEN DIE GEGNER UNTER UMSTÄNDEN TASCHENLAMPEN ODER MAGNESIUMFACKELN EIN.",
+        "es": "LOS ENEMIGOS PUEDEN USAR BENGALAS O LINTERNAS PARA BUSCAR EN LUGARES OSCUROS.",
+        "it": "I NEMICI POSSONO USARE RAZZI LUMINOSI O TORCE PER CERCARE NEL BUIO.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Your sound meter shows how loud you and the environment are.",
+        "fr": "VOTRE JAUGE DE SON INDIQUE LE BRUIT AMBIANT ET CELUI QUE VOUS FAITES.",
+        "de": "DIE GERÄUSCHANZEIGE ZEIGT DIE LAUTSTÄRKE IHRER AKTIONEN UND DIE DER UMFELDGERÄUSCHE  AN.",
+        "es": "TU MEDIDOR DE SONIDO INDICA LO SILENCIOSO QUE ERES Y EL RUIDO QUE HAY EN TU ENTORNO.",
+        "it": "L'INDICATORE DI RUMORE MOSTRA QUANTO RUMORE VIENE EMESSO DA TE E DALL'AMBIENTE.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "If one Agent goes down, get to him, and Heal him with the interact button.",
+        "fr": "SI VOTRE COÉQUIPIER S'ÉCROULE, ALLEZ VERS LUI ET RANIMEZ-LE EN APPUYANT SUR LA TOUCHE D'INTERACTION.",
+        "de": "WENN EIN AGENT ZU BODEN GEHT, KÖNNEN SIE ZU IHM GEHEN UND IHN MIT DER AKTIONSTASTE WIEDERBELEBEN.",
+        "es": "SI UN AGENTE CAE, ACÉRCATE A ÉL Y REANÍMALO CON LA TECLA DE ACCIÓN.",
+        "it": "Se un agente viene messo fuori combattimento, raggiungilo e curalo premendo il tasto di interazione.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Move the mouse to control the Tomoe Nage target.",
+        "fr": "UTILISEZ LA SOURIS GAUCHE POUR CONTRÔLER LA CIBLE DU MOUVEMENT PROJECTION.",
+        "de": "BENUTZEN SIE DIE MAUS, UM DAS ZIEL DES TOMOE NAGE ZU BESTIMMEN.",
+        "es": "USA EL RATÓN PARA CONTROLAR EL OBJETIVO DEL TOMONAGE.",
+        "it": "Usa il mouse per controllare il bersaglio del Tomoe Nage.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "Shooting lights makes noise. Using the Jammer is silent.",
+        "fr": "TIRER SUR LES AMPOULES POUR FAIRE DU BRUIT. PAR CONTRE, LE BROUILLEUR EST SILENCIEUX, LUI.",
+        "de": "AUF LICHTER ZU SCHIESSEN MACHT KRACH. DER STÖRSENDER IST LAUTLOS.",
+        "es": "DISPARAR A LAS LUCES HACE RUIDO. USA EL INTERFERIDOR, ES MÁS SILENCIOSO.",
+        "it": "SPARARE ALLE LUCI PRODUCE RUMORE. IL JAMMER È SILENZIOSO.",
+        "th": ""
+      }
+    },
+    "03_chembunker": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Chemical Weapons Bunker, outside Namp'o-si, North Korea",
+        "fr": "BUNKER D'ARMES CHIMIQUES PROCHE DE NAMP'O-SI, CORÉE DU NORD",
+        "de": "CHEMIEWAFFEN-BUNKER, AUSSERHALB VON NAMP'O-SI, NORDKOREA",
+        "es": "BÚNKER DE ARMAS QUÍMICAS, AFUERAS DE NAMP'OSI, COREA DEL NORTE",
+        "it": "BUNKER DI ARMI CHIMICHE, FUORI NAMP'O-SI, COREA DEL NORD",
+        "th": ""
+      },
+      "Date": {
+        "en": "Wed, July 11th, 2007",
+        "fr": "MERCREDI 11 JUILLET 2007",
+        "de": "MI, 11. JULI 2007",
+        "es": "MIÉRCOLES, 11 DE JULIO DE 2007",
+        "it": "MERCOLEDÌ 11 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "22:44H",
+        "fr": "22:44H",
+        "de": "22:44H",
+        "es": "22:44 H",
+        "it": "ORE 22:44",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Interrogation of Jong Pom-chu indicates that the DPRK may be maintaining a biological weapons lab in a missile bunker in North Korea. Infiltrate the lab and determine if there is an active bio-weapon program.",
+        "fr": "L'INTERROGATOIRE DE JONG POM-CHU NOUS A RÉVÉLÉ QUE LES NORD-CORÉENS POSSÉDAIENT UN LABORATOIRE D'ARMES BIOLOGIQUES DANS UN BUNKER À MISSILES DE CORÉE DU NORD. INFILTREZ-VOUS DANS LE LABORATOIRE ET DÉTERMINEZ SI DES ARMES BIOLOGIQUES S'Y TROUVENT.",
+        "de": "DIE VERHÖRE VON JONG POM-CHU WEISEN DARAUF HIN, DASS DER DPRK WOMÖGLICH EIN LABOR FÜR BIOLOGISCHE WAFFEN IN EINEM RAKETENBUNKER IN NORDKOREA BETREIBT. DRINGEN SIE IN DAS LABOR EIN UND STELLEN SIE FEST, OB ES EIN AKTIVES BIOWAFFEN-PROGRAMM GIBT.",
+        "es": "DEL INTERROGATORIO DE JONG POM-CHU SE DEDUCE QUE EXISTE UN LABORATORIO DE ARMAS BIOLÓGICAS EN UN SILO DE MISILES DE COREA DEL NORTE. DEBEMOS INFILTRARNOS EN EL LABORATORIO Y SABER SI EL PROGRAMA DE ARMAS ESTÁ ACTIVO.",
+        "it": "L'INTERROGATORIO DI JONG POM-CHU INDICA CHE LA REPUBBLICA NORDCOREANA POTREBBE CUSTODIRE UN LABORATORIO DI ARMI BIOLOGICHE IN UN BUNKER PER MISSILI IN COREA DEL NORD. INFILTRATEVI NEL LABORATORIO E SCOPRITE SE C'È UN PROGRAMMA DI SVILUPPO ATTIVO.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "Wall mines are motion sensitive and can be disabled when the light is green.",
+        "fr": "LES MINES MURALES DÉTECTENT LES MOUVEMENTS. ELLES PEUVENT ÊTRE DÉSAMORCÉES QUAND LEUR DIODE EST VERTE.",
+        "de": "HAFTMINEN REAGIEREN AUF BEWEGUNG UND KÖNNEN DEAKTIVIERT WERDEN, SOLANGE DAS LICHT GRÜN IST.",
+        "es": "LAS MINAS DE PARED SON SENSIBLES AL MOVIMIENTO Y SE PUEDEN DESACTIVAR CUANDO LA LUZ ESTÁ VERDE.",
+        "it": "LE MINE DA MURO SONO SENSIBILI AL MOVIMENTO E POSSONO ESSERE DISATTIVATE QUANDO LA LUCE È VERDE.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "Dual rappelling is the best move to reach upper or lower area ",
+        "fr": "LE MOUVEMENT RAPPEL À DEUX EST LE MEILLEUR MOYEN D'ATTEINDRE UN ENDROIT SITUÉ PLUS HAUT OU PLUS BAS. ",
+        "de": "DOPPEL-ABSEILEN IST DIE BESTE METHODE, UM EIN HÖHER ODER NIEDRIGER LIEGENDES GELÄNDE ZU ERREICHEN. ",
+        "es": "HACER rappel DOBLE (EN DÚO) ES EL MEJOR MOVIMIENTO PARA LLEGAR A UNA ZONA ALTA O BAJA. ",
+        "it": "SCALARE I MURI IN COPPIA È IL MODO MIGLIORE PER RAGGIUNGERE AREE PIÙ ALTE O PIÙ BASSE. ",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "Move the mouse to control the Tomoe Nage target.",
+        "fr": "UTILISEZ LA SOURIS GAUCHE POUR CONTRÔLER LA CIBLE DU MOUVEMENT PROJECTION.",
+        "de": "BENUTZEN SIE DIE MAUS, UM DAS ZIEL DES TOMOE NAGE ZU BESTIMMEN.",
+        "es": "USA EL RATÓN PARA CONTROLAR EL OBJETIVO DEL TOMONAGE.",
+        "it": "Usa il mouse per controllare il bersaglio del Tomoe Nage.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "Your sound meter shows how loud you and the environment are.",
+        "fr": "VOTRE JAUGE DE SON INDIQUE LE BRUIT AMBIANT ET CELUI QUE VOUS FAITES.",
+        "de": "DIE GERÄUSCHANZEIGE ZEIGT DIE LAUTSTÄRKE IHRER AKTIONEN UND DIE DER UMFELDGERÄUSCHE  AN.",
+        "es": "EL MEDIDOR DE SONIDO COMPRUEBA CUÁNTO RUIDO HACES TÚ Y TU ENTORNO.",
+        "it": "L'INDICATORE DI RUMORE MOSTRA QUANTO RUMORE VIENE EMESSO DA TE E DALL'AMBIENTE.",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "Fire button throws grenades straight. alternate fire is for skilled lobbing.",
+        "fr": "LA TOUCHE DE TIR PERMET DE JETER LES GRENADES SELON UNE TRAJECTOIRE TENDUE, LA TOUCHE DE TIR ALTERNATIVE PERMET DE LEUR DONNER UNE TRAJECTOIRE PARABOLIQUE.",
+        "de": "MIT DER FEUERTASTE  KÖNNEN SIE GRANATEN GERADEAUS WERFEN. MIT DER TASTE FÜR DIE ALTERNATIVE WAFFENFUNKTION KÖNNEN SIE DIE FLUGBAHN ANPASSEN.",
+        "es": "EL DISPARO LANZA GRANADAS EN LÍNEA RECTA. EL DISPARO SECUNDARIO LAS LANZA CON EFECTO.",
+        "it": "Il tasto di fuoco lancia le granate con una traiettoria rettilinea, mentre il tasto di fuoco alternativo serve a fare un lancio a effetto.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "You can equip your pistol when hanging from a rope by Pressing use/equip button.",
+        "fr": "VOUS POUVEZ VOUS ÉQUIPER DE VOTRE PISTOLET QUAND VOUS ÊTES SUSPENDU À UNE CORDE EN APPUYANT SUR LA TOUCHE D'UTILISATION ET D'ÉQUIPEMENT.",
+        "de": "WENN SIE AN EINEM SEIL HÄNGEN, KÖNNEN SIE MIT DER BENUTZEN-TASTE IHRE PISTOLE ZIEHEN.",
+        "es": "PUEDES SACAR LA PISTOLA CUANDO ESTÁS COLGADO DE UNA CUERDA SI PULSAS LA TECLA PARA EQUIPAR.",
+        "it": "Quando sei appeso a una corda puoi impugnare la tua arma premendo il tasto Impugna.",
+        "th": ""
+      }
+    },
+    "04_gcs": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Train Station, Manhattan, New York, USA",
+        "fr": "GARE CENTRALE, MANHATTAN, NEW YORK, ETATS-UNIS",
+        "de": "GRAND CENTRAL STATION, MANHATTAN, NEW YORK, USA",
+        "es": "ESTACIÓN CENTRAL, MANHATTAN, NUEVA YORK, EE.UU.",
+        "it": "STAZIONE FERROVIERIA, MANHATTAN, NEW YORK, USA",
+        "th": ""
+      },
+      "Date": {
+        "en": "Fri, July 14th, 2007",
+        "fr": "VENDREDI 14 JUILLET 2007",
+        "de": "FR, 14. JULI 2007",
+        "es": "VIERNES, 14 DE JULIO DE 2007",
+        "it": "VENERDÌ 14 LUGLIO 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "05:24H",
+        "fr": "05:24H",
+        "de": "05:24H",
+        "es": "05:24 H",
+        "it": "ORE 5:24",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Colonel Kim and his men have taken control of Train Station. It is likely that Kim has biological weapons taken from the bunker and may be planning to use them. Infiltrate the station, eliminate Colonel Kim, and recover the bio-weapons.",
+        "fr": "LE COLONEL KIM ET SES HOMMES ONT PRIS LE CONTRÔLE DE LA GARE CENTRALE. IL Y A DE FORTES CHANCES QU'ILS AIENT AVEC EUX DES ARMES BIOLOGIQUES EN PROVENANCE DU BUNKER ET QU'ILS AIENT L'INTENTION DE LES UTILISER. INFILTREZ-VOUS DANS LA GARE, ÉLIMINEZ LE COLONEL KIM ET RÉCUPÉREZ LES ARMES BIOLOGIQUES.",
+        "de": "OBERST KIM UND SEINE MÄNNER KONTROLLIEREN DIE GRAND CENTRAL STATION. ES IST WAHRSCHEINLICH, DASS KIM BIOLOGISCHE WAFFEN AUS DEM BUNKER MIT SICH FÜHRT UND PLANT, SIE AUCH EINZUSETZEN. DRINGEN SIE IN DIE STATION EIN, ELIMINIEREN SIE OBERST KIM UND STELLEN SIE DIE BIOWAFFEN SICHER.",
+        "es": "EL CORONEL KIM Y SUS HOMBRES SE HAN APODERADO DE LA ESTACIÓN CENTRAL. PARECE QUE KIM HA SACADO ARMAS BIOLÓGICAS DEL BÚNKER Y PLANEA USARLAS. INFÍLTRATE EN LA ESTACIÓN, ELIMINA AL CORONEL KIM Y RECUPERA LAS ARMAS.",
+        "it": "IL COLONNELLO KIM E I SUOI UOMINI HANNO PRESO IL CONTROLLO DELLA STAZIONE FERROVIARIA. PROBABILMENTE KIM HA PORTATO VIA LE ARMI BIOLOGICHE DAL BUNKER E STA PER USARLE. INFILTRATI NELLA STAZIONE, ELIMINA IL COLONNELLO KIM E RECUPERA LE ARMI BIOLOGICHE.",
+        "th": ""
+      },
+      "Tip0": {
+        "en": "If one Agent goes down, get to him, and Heal him with the interact button.",
+        "fr": "SI VOTRE COÉQUIPIER S'ÉCROULE, ALLEZ VERS LUI ET RANIMEZ-LE EN APPUYANT SUR LA TOUCHE D'INTERACTION.",
+        "de": "WENN EIN AGENT AUSGESCHALTET WURDE, KÖNNEN SIE IHN MIT DER AKTIONSTASTE WIEDERBELEBEN.",
+        "es": "SI UN AGENTE CAE, ACÉRCATE A ÉL Y REANÍMALO CON LA TECLA DE ACCIÓN.",
+        "it": "Se un agente viene messo fuori combattimento, raggiungilo e curalo premendo il tasto di interazione.",
+        "th": ""
+      },
+      "Tip1": {
+        "en": "The coop button is used to initiate and complete Co-op Moves.",
+        "fr": "LA TOUCHE DE MOUVEMENT COOPÉRATIF EST UTILISÉE POUR ENTAMER ET POURSUIVRE LES MOUVEMENTS COOPÉRATIFS.",
+        "de": "DIE TASTE FÜR KOOP-AKTIONEN WIRD VERWENDET, UM KOOP-AKTIONEN EINZULEITEN UND DURCHZUFÜHREN.",
+        "es": "LA TECLA DE ACCIÓN COOPERATIVA SE USA PARA INICIAR Y COMPLETAR MOVIMIENTOS COOPERATIVOS.",
+        "it": "Il tasto di mossa cooperativa viene usato per iniziare e completare le mosse cooperative.",
+        "th": ""
+      },
+      "Tip2": {
+        "en": "You can equip your pistol when hanging from a rope by Pressing use/equip button.",
+        "fr": "VOUS POUVEZ VOUS ÉQUIPER DE VOTRE PISTOLET QUAND VOUS ÊTES SUSPENDU À UNE CORDE EN APPUYANT SUR LA TOUCHE D'UTILISATION ET D'ÉQUIPEMENT.",
+        "de": "SIE KÖNNEN IHRE PISTOLE ZIEHEN, WÄHREND SIE AN EINEM ROHR HÄNGEN, INDEM SIE DIE BENUTZEN-TASTE DRÜCKEN.",
+        "es": "PUEDES SACAR LA PISTOLA CUANDO ESTÁS COLGADO DE UNA CUERDA SI PULSAS LA TECLA PARA EQUIPAR.",
+        "it": "Quando sei appeso a una corda puoi impugnare la tua arma premendo il tasto Impugna.",
+        "th": ""
+      },
+      "Tip3": {
+        "en": "You must work together in order to complete a mission. ",
+        "fr": "VOUS DEVEZ FAIRE ÉQUIPE POUR MENER VOS MISSIONS À BIEN. ",
+        "de": "SIE MÜSSEN ZUSAMMENARBEITEN, UM EINE MISSION ZU ERFÜLLEN. ",
+        "es": "LOS DOS AGENTES DEBEN TRABAJAR EN EQUIPO PARA COMPLETAR LA MISIÓN. ",
+        "it": "PER COMPLETARE LA MISSIONE È NECESSARIO COLLABORARE. ",
+        "th": ""
+      },
+      "Tip4": {
+        "en": "To view the other Agent’s camera Select the Share View Interaction.",
+        "fr": "POUR VOIR AU TRAVERS DE LA CAMÉRA DE VOTRE PARTENAIRE, CHOISISSEZ L'INTERACTION PARTAGE DE LA VUE.",
+        "de": "UM DURCH DIE KAMERA IHRES TEAMKOLLEGEN ZU BLICKEN, WÄHLEN SIE DIE ENTSPRECHENDE KOOP-AKTION.",
+        "es": "PARA VER LA CÁMARA DEL OTRO AGENTE, ELIGE COMPARTIR VISTA EN LA VENTANA DE ACCIONES.",
+        "it": "PER VEDERE QUELLO CHE VEDE L'ALTRO AGENTE SELEZIONA L'INTERAZIONE VISUALE CONDIVISA.",
+        "th": ""
+      },
+      "Tip5": {
+        "en": "If you are undetected... try to keep it that way.",
+        "fr": "SI PERSONNE NE VOUS A DÉTECTÉ... FAITES EN SORTE QUE ÇA DURE.",
+        "de": "WENN SIE NIEMAND ENTDECKT HAT ... SORGEN SIE DAFÜR, DASS ES SO BLEIBT.",
+        "es": "SI NO TE HAN DETECTADO... SIGUE POR ESE CAMINO.",
+        "it": "SE NON SANNO CHE CI SIETE... PREGATE CHE CONTINUI COSÌ.",
+        "th": ""
+      }
+    },
+    "05_NuclearPlant": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "Nuclear Power Plant, Yongbyon, North Korea",
+        "fr": "Centrale nucléaire de Yongbyon, Corée du Nord",
+        "de": "Kernkraftwerk, Jongbjon, Nordkorea",
+        "es": "Central nuclear, Yongbyon, Corea del Norte",
+        "it": "Centrale nucleare di Yongbyon, Corea del Nord",
+        "th": ""
+      },
+      "Date": {
+        "en": "Fri, July 14th, 2007",
+        "fr": "Fri, July 14th, 2007",
+        "de": "Fri, July 14th, 2007",
+        "es": "Fri, July 14th, 2007",
+        "it": "Fri, July 14th, 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "05:24H",
+        "fr": "05:24H",
+        "de": "05:24H",
+        "es": "05:24H",
+        "it": "05:24H",
+        "th": ""
+      },
+      "Overview": {
+        "en": "The detonators used in the New York attack come from a Nuclear Power Plant in Yongbyon, North Korea. Colonel Kim cannot have organized everything by himself. Someone must have helped him. Find out how many detonators Kim got and who helped him.",
+        "fr": "Les détonateurs utilisés lors de l'attaque de New York proviennent de la centrale nucléaire de Yongbyon, en Corée du Nord. Le colonel Kim n'a pas pu tout organiser lui-même. Quelqu'un a bien dû l'aider à Yongbyon. Découvrez combien de détonateurs Kim s'est procuré et qui l'a aidé.",
+        "de": "Die in New York verwendeten Zünder stammen aus einem Kernkraftwerk in Jongbjon, Nordkorea. Oberst Kim kann nicht alles alleine organisiert haben. Finde heraus, wer ihm hilft, und wie viele Zünder sie haben.",
+        "es": "Los detonadores usados en el ataque de Nueva York provienen de una central nuclear de Yongbyon, en Corea del Norte. El coronel Kim no ha podido organizarlo sólo. Alguien de dentro ha tenido que ayudarle. Averiguad cuántos detonadores tiene Kim y quién le ha ayudado.",
+        "it": "I detonatori usati nell'attacco a New York vengono dal reattore nucleare di Yongbyon in Corea del Nord. Il colonnello Kim non può aver organizzato tutto da solo. Qualcuno deve averlo aiutato. Scoprite quanti detonatori aveva Kim e chi l'ha aiutato.",
+        "th": ""
+      }
+    },
+    "07_UNhq": {
+      "_source": "LoadingScreens",
+      "Location": {
+        "en": "UN Headquarters, Midtown Manhattan, New York City, USA",
+        "fr": "Quartier général de l'O.N.U., Manhattan, New York, États-Unis",
+        "de": "UNO-Hauptquartier, Midtown Manhattan, New York City, USA",
+        "es": "Sede central de la ONU, Midtown Manhattan, Nueva York, EE.UU.",
+        "it": "Quartier Generale dell'ONU, Midtown Manhattan, New York City, USA",
+        "th": ""
+      },
+      "Date": {
+        "en": "Fri, July 14th, 2007",
+        "fr": "Fri, July 14th, 2007",
+        "de": "Fri, July 14th, 2007",
+        "es": "Fri, July 14th, 2007",
+        "it": "Fri, July 14th, 2007",
+        "th": ""
+      },
+      "Time": {
+        "en": "05:24H",
+        "fr": "05:24H",
+        "de": "05:24H",
+        "es": "05:24H",
+        "it": "05:24H",
+        "th": ""
+      },
+      "Overview": {
+        "en": "Third Echelon intercepted an encrypted communication between Jin Soo and the UN Headquarters. Infiltrate the building and find out what’s going on. Lethal force is not allowed.",
+        "fr": "Echelon 3 a intercepté une communication cryptée entre Jin Soo et le quartier général des Nations Unies, à Manhattan. Infiltrez-vous à l'intérieur de l'immeuble et découvrez ce qui se trame. Défense de tuer qui que ce soit.",
+        "de": "Third Echelon hat eine verschlüsselte Kommunikation zwischen Jin Soo und und dem Sitz der UN abgefangen. Infiltriere das Gebäude und finde heraus, was da vor sich geht. Die Anwendung tödlicher Gewalt ist untersagt.",
+        "es": "Third Echelon ha interceptado una comunicación encriptada entre Jin Soo y la sede de las Naciones Unidas. Infiltraos en el edificio para ver qué ocurre. No se permite el uso de la fuerza letal.",
+        "it": "Third Echelon ha intercettato una comunicazione crittografata tra Jin Soo e il Quartier Generale dell'ONU. Infiltratevi nell'edificio e scoprite cosa sta succedendo. Non è permesso l'uso di forza letale.",
+        "th": ""
+      }
+    }
+  }
+}

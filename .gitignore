@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Large mod builds & backups
+dist/System/*.umd
+backups/*.umd
+
+# Environments
+env/
+venv/
+.venv/

@@ -1,0 +1,991 @@
+{
+  "_meta": {
+    "category": "story",
+    "name": "04_GCS",
+    "sources": [
+      "04_GCS",
+      "P_04_GCS"
+    ],
+    "total_strings": 117
+  },
+  "sections": {
+    "GENERAL": {
+      "_source": "04_GCS",
+      "MapName": {
+        "en": "TRAIN STATION",
+        "fr": "NEW YORK",
+        "de": "NEW YORK",
+        "es": "NUEVA YORK",
+        "it": "NEW YORK",
+        "th": ""
+      },
+      "Briefing_LAMBERT": {
+        "en": "LAMBERT - Colonel Kim, the former commanding officer of the missile bunker, had a disagreement with the NKA over their decision to end the war and withdraw from Seoul. He took a number of warheads containing biological weapons with him and disappeared. Six hours ago, he resurfaced with a small army of NKA defectors in New York, where he took control of Grand Central Station. We don’t know why, or what his agenda is, but our profile on him says he’s not stupid. Something bigger is going on here. Prevent Kim or any of his men from unleashing their biological nightmare-in-a-can and find out what Kim is really up to.",
+        "fr": "Le colonel Kim, l'ancien responsable du bunker à missiles, a eu un violent désaccord avec sa hiérarchie quand celle-ci a décidé de se retirer de Séoul et de mettre un terme à la guerre. Il a alors disparu, en emportant avec lui plusieurs ogives contenant des armes biologiques. Il y a six heures de cela, il a refait surface à la tête d'une petite armée de déserteurs nord-coréens. Il se trouve désormais à New York, où il a pris le contrôle de la gare centrale. Nous ignorons ce qu'il projette, mais nous savons qu'il n'est pas suicidaire. Tout cela cache quelque chose. Empêchez-le d'utiliser ses armes chimiques et découvrez ce qu'il mijote.",
+        "de": "Oberst Kim, der ehemalige kommandierende Offizier des Raketenbunkers, hatte hinsichtlich der Entscheidung zur Beendigung des Krieges und zum Rückzug aus Seoul eine Meinungsverschiedenheit mit der NKA. Er nahm einige mit biologischen Waffen bestückte Gefechtsköpfe an sich und verschwand. Vor sechs Stunden tauchte er mit einer kleinen Armee aus Abtrünnigen der NKA in New York auf und besetzte dort die Grand Central Station. Wir kennen seine Beweggründe nicht, aber das Profil, das wir über ihn erstellt haben, sagt aus, dass er nicht dumm ist. Wir haben es hier mit einer größeren Sache zu tun. Verhindert, dass Kim oder irgendeiner seiner Männer einen biologischen Alptraum entfesselt, und findet heraus, was Kim wirklich vorhat.",
+        "es": "El coronel Kim, antiguo jefe del búnker de misiles, ha tenido ciertas diferencias con el ejército norcoreano por su decisión de acabar la guerra y retirarse de Seúl. Ha robado unas ojivas con armamento biológico y ha desaparecido con ellas. Hace seis horas, ha reaparecido en Nueva York con un grupo de desertores norcoreanos y se ha apoderado de la Estación Central. No conocemos ni sus razones ni sus propósitos, pero sabemos por su perfil que no es ningún estúpido. Está tramando algo más importante. Evitad que Kim o sus hombres desencadenen esa pesadilla biológica y averiguad qué pretende.",
+        "it": "Il Colonnello Kim, ex comandante in capo del bunker missilistico, è entrato in \"disaccordo\" con l'esercito nordcoreano riguardo l'interruzione delle ostilità e il ritiro da Seul. Si è impossessato di un certo numero di testate biologiche ed è scomparso. Sei ore fa, è riapparso alla testa di un gruppetto di disertori dell'esercito nordcoreano a New York, dove ha preso il controllo della stazione centrale, la Grand Central Station. Non sappiamo perchè, nè quali siano i suoi piani, ma il suo profilo indica che non è uno stupido. C'è qualcosa di più grosso che bolle in pentola. Impedite a Kim o ai suoi uomini di scatenare l'incubo biologico e scoprite quali sono le vere intenzioni di Kim.",
+        "th": ""
+      }
+    },
+    "Email": {
+      "_source": "04_GCS",
+      "EmailDiffusalBody": {
+        "en": "To disable a bomb in case of emergency, you'll need two men. The two men must simultaneously cut the active wire. This will deactivate the laser link and initiate the second security system. To disable this, they'll need to simultaneously cut a second active wire. The active wire changes from time to time, so be careful. I know it's tricky, but we don't want some lone wolf sneaking in here and disabling our bombs, do we...",
+        "fr": "Deux hommes sont nécessaires pour désamorcer une bombe en situation d'urgence. Ils doivent couper simultanément le fil par lequel passe le courant, et il faut le faire à deux reprises, car la première coupe le laser mais lance le second système de sécurité. La manoeuvre est délicate, je sais, mais nous ne voudrions pas qu'un apprenti héros parvienne à les désamorcer. Oh, j'oubliais... le fil par lequel passe le courant change en permanence, alors, faites attention...",
+        "de": "Sie brauchen zwei Männer, um eine Bombe im Notfall zu entschärfen. Die beiden müssen den aktiven Draht zur selben Zeit durchtrennen. Dieser Vorgang muss zweimal durchgeführt werden. Beim ersten Mal kommt es zur Deaktivierung der Laserverbindung, und unser zweites Sicherheitssystem wird eingeschaltet... Ich weiSS, das ist ein bisschen kompliziert, aber es soll hier ja schlieSSlich kein Unberufener reinschneien und unsere Bomben deaktivieren, oder?... Ach, das hätte ich fast vergessen, das aktive Kabel bleibt nicht lang aktiv... VG",
+        "es": "Para desarmar la bomba en caso de emergencia son necesarios dos hombres, pues tienen que cortar el cable activo al mismo tiempo. Esta acción deberá hacerse dos veces; el primer corte desactiva el haz láser, pero pone en marcha nuestro segundo sistema de seguridad... Sé que parece complejo, pero no queremos que un fisgón pueda entrar y desactivar nuestras bombas, ¿verdad? Ah, lo olvidaba: el cable activo no está así durante mucho tiempo. Hay que tener cuidado.",
+        "it": "In caso d'emergenza, per disinnescare una bomba servono due uomini. I due devono tagliare contemporaneamente il cavo attivo. Bisogna eseguire l'azione due volte. Il primo taglio disattiverà il collegamento laser ma attiverà il secondo sistema di sicurezza... so che è difficile, ma non vogliamo che qualche nemico solitario entri di nascosto e disinneschi le bombe, giusto? Ah, dimenticavo, il cavo attivo non resterà acceso a lungo... fai attenzione.",
+        "th": ""
+      },
+      "EmailDiffusalDate": {
+        "en": "October 18",
+        "fr": "18/10/2007",
+        "de": "18.Oktober 2007",
+        "es": "18 de octubre de 2007",
+        "it": "18 ottobre 2007",
+        "th": ""
+      },
+      "EmailDiffusalFrom": {
+        "en": "Ming",
+        "fr": "Colonel Kim",
+        "de": "Oberst Kim",
+        "es": "Coronel Kim",
+        "it": "Colonnello Kim",
+        "th": ""
+      },
+      "EmailDiffusalSubject": {
+        "en": "Bomb Diffusal",
+        "fr": "Désamorçage des bombes",
+        "de": "Bombenentschärfung",
+        "es": "Desarmado de bomba",
+        "it": "Diffusione bombe",
+        "th": ""
+      },
+      "EmailDiffusalTo": {
+        "en": "Jun",
+        "fr": "Chu",
+        "de": "Chu",
+        "es": "Chu",
+        "it": "Chu",
+        "th": ""
+      }
+    },
+    "Computer": {
+      "_source": "04_GCS",
+      "Schematics": {
+        "en": "Schematics",
+        "fr": "Schéma",
+        "de": "Baupläne",
+        "es": "Diagramas esquemáticos",
+        "it": "Schemi",
+        "th": ""
+      }
+    },
+    "P_04_GCS_AlarmCheck": {
+      "_source": "P_04_GCS",
+      "POPUPMESSAGE_0001": {
+        "en": "Alarm Stage One",
+        "fr": "Niveau d'alerte 1",
+        "de": "Alarmstufe Eins",
+        "es": "Alarma de nivel uno",
+        "it": "Allarme di primo livello",
+        "th": ""
+      },
+      "POPUPMESSAGE_0003": {
+        "en": "Alarm Stage Two - Enemies Equipping Body Armor",
+        "fr": "Niveau d'alerte 2 - les ennemis mettent leurs armures",
+        "de": "Alarmstufe Zwei – Feinde legen Körperpanzer an",
+        "es": "Alarma de nivel dos - El enemigo se coloca el chaleco.",
+        "it": "Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile",
+        "th": ""
+      },
+      "Note_0007L": {
+        "en": "Enemies are wearing body armor",
+        "fr": "Les ennemis portent une armure.",
+        "de": "Die Gegner tragen eine Körperpanzerung.",
+        "es": "Los enemigos llevan chalecos blindados.",
+        "it": "I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0004": {
+        "en": "Alarm Stage Three - Enemies Equipping Helmets",
+        "fr": "Niveau d'alerte 3 - les ennemis mettent leurs casques",
+        "de": "Alarmstufe Drei – Feinde setzen Helme auf",
+        "es": "Alarma de nivel tres - El enemigo se coloca el casco.",
+        "it": "Allarme di terzo livello - I nemici indossano l'elmetto",
+        "th": ""
+      },
+      "Note_0008L": {
+        "en": "Enemies are wearing helmets",
+        "fr": "Les ennemis portent un casque.",
+        "de": "Die Gegner tragen Helme.",
+        "es": "Los enemigos llevan cascos.",
+        "it": "I NEMICI INDOSSANO L'ELMETTO.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0005": {
+        "en": "Alarm Stage Four: Enemies Fortifying Positions",
+        "fr": "Niveau d'alerte 4 - alerte rouge - les ennemis renforcent leurs positions",
+        "de": "Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein",
+        "es": "Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.",
+        "it": "Allarme di quarto livello - Allerta - I nemici stanno creando delle difese",
+        "th": ""
+      },
+      "Note_0009L": {
+        "en": "Enemies have fortified their positions",
+        "fr": "Les ennemis ont renforcé leurs positions.",
+        "de": "Die Gegner haben ihre Stellungen befestigt.",
+        "es": "Los enemigos han reforzado sus posiciones.",
+        "it": "I NEMICI HANNO CREATO DELLE DIFESE.",
+        "th": ""
+      }
+    },
+    "P_04_GCS_Communications": {
+      "_source": "P_04_GCS",
+      "Speech_0001L": {
+        "en": "LAMBERT - From what we can tell, Kim has men all over the area. You'll need to cover some ground to get to the station itself.",
+        "fr": "Les hommes de Kim contrôlent apparemment tout le quartier. Vous n'êtes pas encore arrivés à la gare proprement dite.",
+        "de": "Wie es aussieht, hat Kim seine Männer über das gesamte Gebiet verteilt. Ihr werdet eine schöne Strecke zurücklegen müssen, um den Bahnhof zu erreichen.",
+        "es": "Sabemos que Kim tiene hombres por toda la zona. Tendréis que cubrir cierta distancia para llegar a la propia estación.",
+        "it": "A quanto ci risulta, Kim ha uomini in tutta l'area. Dovrete coprire una certa distanza per arrivare all'edificio della stazione vero e proprio.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "LAMBERT - My god... they aren't fooling around. It looks like they've rigged the subway tunnels under the station with bombs. You'll need to disarm them all before going eavesdropping on that phone call.",
+        "fr": "Mon dieu, ils ne plaisantent pas ! On dirait qu'ils ont placé des bombes dans les galeries souterraines. Désamorcez-les toutes avant d'aller espionner ce coup de téléphone.",
+        "de": "Mein Gott ... die meinen es wirklich ernst. Es sieht so aus, als hätten sie in den U-Bahn-Tunneln unter dem Bahnhof Bomben gelegt. Ihr müsst alle Sprengladungen entschärfen, bevor ihr das Telefongespräch abhören geht.",
+        "es": "Maldita sea, están jugando con nosotros. Al parecer han sembrado de bombas los túneles por debajo de la estación. Tenéis que desactivarlas antes de espiar esa llamada telefónica.",
+        "it": "Mio Dio... non scherzano. Sembra che abbiano riempito di bombe i tunnel della metropolitana sotto la stazione. Dovrete disinnescarle tutte prima di origliare quella telefonata.",
+        "th": ""
+      },
+      "Note_0048L": {
+        "en": "To disable a bomb, both Agents must simultaneously cut the active wire.",
+        "fr": "Pour désamorcer une bombe, les deux agents doivent couper simultanément le fil par lequel passe le courant.",
+        "de": "Zum Deaktivieren müssen beide Agenten gleichzeitig das aktive Kabel durchtrennen.",
+        "es": "Para desarmar una bomba, ambos agentes deben cortar el cable al mismo tiempo.",
+        "it": "Per disinnescare la bomba, entrambi gli agenti devono tagliare il cavo nello stesso momento.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "LAMBERT - Good work... that file has a complete schematic for the bombs. Take a look at it before you touch anything so you know what you're working with.",
+        "fr": "Bien joué. Ce dossier contient le plan détaillé des bombes. Mémorisez-le bien avant de toucher quoi que ce soit afin d'éviter les mauvaises surprises.",
+        "de": "Gute Arbeit ... in dieser Datei befindet sich der komplette Bauplan der Bomben. Seht ihn euch gut an, bevor ihr irgendetwas anfasst, nur so könnt ihr sicherstellen, dass ihr auch wisst, womit ihr es zu tun habt.",
+        "es": "Buen trabajo. Ese archivo contiene un diagrama completo de las bombas. Quiero que lo estudiéis bien antes de tocar nada.",
+        "it": "Ottimo lavoro... quel file contiene gli schemi completi delle bombe. Dategli un'occhiata prima di toccare qualunque cosa, così saprete con cosa avete a che fare.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "LAMBERT - Good job. That's the first bomb taken care of.",
+        "fr": "Beau travail. Voilà pour la première bombe.",
+        "de": "Gute Arbeit. Das war die erste Bombe.",
+        "es": "Bien. Habéis desactivado la primera bomba.",
+        "it": "Splendido. La prima bomba è stata disattivata.",
+        "th": ""
+      },
+      "Speech_0017L": {
+        "en": "LAMBERT - Good work... that's two bombs down.",
+        "fr": "Excellent ! Ça fait deux.",
+        "de": "Gute Arbeit ... damit wären zwei Bomben entschärft.",
+        "es": "Buen trabajo. Dos bombas menos.",
+        "it": "Ben fatto... e sono due.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "LAMBERT - Good work you two. That's all of the bombs. Now hurry up and get up into the station, we need to find out what Kim is up to.",
+        "fr": "Beau travail, les gars ! Il ne reste plus de bombes. Et maintenant, montez à la gare et découvrez ce que Kim mijote.",
+        "de": "He, ihr beiden! Gute Arbeit. Das waren alle Bomben. Begebt Euch jetzt auf dem schnellsten Weg hoch in den Bahnhof. Wir müssen herausfinden, was Kim vorhat.",
+        "es": "Buen trabajo. Ahora que habéis desactivado las bombas, entrad en la estación. Quiero saber qué trama Kim.",
+        "it": "Ottimo lavoro, tutti e due. Avete disinnescato tutte le bombe. Ora sbrigatevi a entrare nella stazione, dobbiamo scoprire cosa sta architettando Kim.",
+        "th": ""
+      },
+      "Speech_0042L": {
+        "en": "LAMBERT - Don't get too far ahead of yourselves. You need to go back and disarm those bombs before Kim takes out all of Train Station.",
+        "fr": "Vous allez trop vite. Revenez sur vos pas et désamorcez-moi ces bombes avant que Kim ne fasse exploser la gare centrale.",
+        "de": "Ihr habt es wohl ein wenig zu eilig. Ihr müsst zurückgehen und diese Bomben entschärfen, bevor Kim die gesamte Grand Central Station in die Luft sprengt.",
+        "es": "No os apresuréis. Tenéis que retroceder y desactivar esas bombas para evitar que Kim vuele la Estación Central.",
+        "it": "Non fatevi trascinare dall'entusiasmo. Dovete tornare indietro e disinnescare quelle bombe prima che Kim faccia saltare tutta la Grand Central.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0046": {
+        "en": "Deactivate the bombs under Train Station.",
+        "fr": "Désamorcez les bombes posées dans les souterrains de la gare.",
+        "de": "Entschärfen Sie die Bomben unter dem Bahnhof.",
+        "es": "Desactiva las bombas bajo la Estación Central.",
+        "it": "Disattiva le bombe sotto alla Stazione Ferroviaria.",
+        "th": ""
+      },
+      "Speech_0043L": {
+        "en": "LAMBERT - I'm betting the second bomb is somewhere around these turbines... find it and disarm it.",
+        "fr": "Je parie que la deuxième bombe est au niveau de ces turbines. Trouvez-la et désamorcez-la.",
+        "de": "Ich wette, dass sich die zweite Bombe irgendwo in der Nähe dieser Turbinen befindet ... findet und entschärft sie.",
+        "es": "La segunda bomba debe estar cerca de esas turbinas. Quiero que la busquéis y la desactivéis.",
+        "it": "Scommetto che la seconda bomba si trova vicino a queste turbine.. trovatela e disinnescatela.",
+        "th": ""
+      },
+      "Speech_0029L": {
+        "en": "LAMBERT - Slow down. Get back into the old maintenance area and disarm that bomb.",
+        "fr": "Moins vite. Revenez à la zone de maintenance et désamorcez la bombe.",
+        "de": "Langsam, Leute. Geht zurück in den alten Wartungsbereich und entschärft dort die Bombe.",
+        "es": "Sin prisas. Volved a la zona de mantenimiento y desactivad esa bomba.",
+        "it": "Fermi. Tornate nella vecchia area di manutenzione e disinnescate quella bomba.",
+        "th": ""
+      },
+      "Speech_0030L": {
+        "en": "LAMBERT - Slow down. Head back into the turbine room and find that second bomb.",
+        "fr": "Moins vite. Revenez à la salle des turbines ; la deuxième bombe s'y trouve.",
+        "de": "Langsam. Kehrt zum Turbinenraum zurück und entschärft die zweite Bombe.",
+        "es": "Despacio. Volved a la sala de turbinas y buscad la segunda bomba.",
+        "it": "Piano. Tornate nella sala turbine e trovate la seconda bomba.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0047": {
+        "en": "Bug the telephone in Train Station Hall before Chu reaches it.",
+        "fr": "Placez un mouchard dans le téléphone du hall de la gare avant que Chu l'atteigne.",
+        "de": "Verwanzen Sie das Telefon in der Bahnhofshalle, bevor Chu es erreicht.",
+        "es": "Pincha el teléfono del vestíbulo principal de la Estación Central antes de que llegue Chu.",
+        "it": "Installa una cimice nel telefono della Hall della Stazione Ferroviaria prima che Chu lo raggiunga.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "LAMBERT - Good. Chu will be receiving a call from the payphone in the center of the station. You need to bug that phone without being detected, or Chu will panic, and we're finished. Don't get detected.",
+        "fr": "Bien. Chu va recevoir un coup de téléphone dans la cabine située au centre de la gare. Placez un mouchard dans le combiné, mais sans vous faire repérer, surtout, ou Chu paniquera.",
+        "de": "Gut. Chu wird einen Anruf an dem öffentlichen Fernsprecher in der Mitte des Bahnhofs entgegennehmen. Ihr müsst unentdeckt eine Wanze an dem Telefon anbringen, sonst gerät Chu in Panik und wir sind erledigt. Lasst euch nicht entdecken.",
+        "es": "Bien. Chu va a recibir una llamada en el teléfono público que hay en el centro de la estación. Tenéis que pinchar la llamada sin que os detecte, o huirá y tendremos problemas.",
+        "it": "Bene. Chu riceverà una telefonata dal telefono a gettoni in mezzo alla stazione. Dovete mettere una cimice in quel telefono senza essere individuati o Chu andrà nel panico e saremo finiti. Non fatevi individuare.",
+        "th": ""
+      },
+      "Speech_0036L": {
+        "en": "LAMBERT - Dammit! Chu detected you... that mission is over!",
+        "fr": "Bon sang, Chu vous a vus ! La mission est terminée.",
+        "de": "Verdammt! Chu hat euch entdeckt ... die Mission ist beendet!",
+        "es": "¡Chu os ha detectado! Misión cancelada.",
+        "it": "Dannazione! Chu vi ha individuato... la missione è finita!",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "LAMBERT - Good job. Now lay low and listen while Chu makes his call. Don't get detected until we know what's going on.",
+        "fr": "Beau travail. Maintenant, cachez-vous et écoutez la conversation téléphonique de Chu sans vous faire repérer.",
+        "de": "Gut gemacht. Bleibt in Deckung und hört euch Chus Telefongespräch an. Lasst euch unter keinen Umständen entdecken, bevor wir wissen, was hier vor sich geht.",
+        "es": "Ahora quiero que os tumbéis y escuchéis la conversación. No os delatéis hasta que sepamos qué pasa.",
+        "it": "Ottimo lavoro. Ora restate nascosti ed ascoltate la telefonata di Chu. Non fatevi individuare fino a quando non scopriamo cosa succede.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "LAMBERT - Good lord. You need to get that anti-virus and take care of Kim's man. Follow Chu to the locker room and get the virus from the locker.",
+        "fr": "Seigneur ! Récupérez l'antivirus et chargez-vous de l'homme de Kim. Suivez Chu jusqu'à la consigne automatique et récupérez le virus.",
+        "de": "Oh, mein Gott. Ihr müsst dieses Antivirus holen und euch um Kims Mann kümmern. Folgt Chu in den Umkleideraum und nehmt das Virus aus dem Spind.",
+        "es": "Tenéis que conseguir esa vacuna y encargaros del esbirro de Kim. Seguid a Chu a las consignas y sacad el virus de la taquilla.",
+        "it": "Buon Dio. Dovete prendere quell'antidoto e occuparvi dell'uomo di Kim. Seguite Chu fino allo spogliatoio e prendete l'antidoto dall'armadietto.",
+        "th": ""
+      },
+      "Speech_0032L": {
+        "en": "LAMBERT - Good thinking. Now you have the locker number and the code. Go and get that anti-virus.",
+        "fr": "Bien. Allez récupérer l'antivirus, maintenant que vous avez le numéro du casier et son code.",
+        "de": "Gut gemacht. Jetzt habt ihr die Nummer des Spinds und den Code. Geht und holt das Anti-Virus.",
+        "es": "Bien pensado. Ahora tenéis el número y el código de la taquilla. Conseguid ese antivirus.",
+        "it": "Buona idea. Ora avete il numero dell'armadietto e il codice. Andate a prendere quell'antidoto.",
+        "th": ""
+      },
+      "Speech_0038L": {
+        "en": "LAMBERT - Goddammit, what are you thinking?! Chu was our only chance... now we'll never stop Kim.",
+        "fr": "Bon sang, qu'est-ce qui vous a pris ? Chu était notre seule chance ! Nous n'arrêterons jamais Kim, désormais...",
+        "de": "Verdammt noch mal, was habt ihr euch dabei gedacht?! Chu war unsere einzige Chance ... jetzt werden wir Kim niemals aufhalten!",
+        "es": "¿Pero qué habéis hecho? ¡Chu era nuestra única esperanza de detener a Kim!",
+        "it": "Maledizione, cosa vi passa per la testa? Chu era la nostra unica possibilità... adesso non riusciremo a fermare Kim.",
+        "th": ""
+      },
+      "Speech_0044L": {
+        "en": "LAMBERT - Damn! Bugging that phone was our only chance to overhear Chu and Kim's conversation... I'm aborting the mission!",
+        "fr": "Bon sang ! Il fallait absolument placer ce mouchard pour entendre la conversation entre Chu et Kim. J'annule la mission.",
+        "de": "Verdammt! Das Anzapfen dieses Telefons war unsere einzige Möglichkeit, das Gespräch zwischen Chu und Kim abzuhören ... ich breche die Mission ab.",
+        "es": "¡Maldita sea! La única forma de espiar la conversación entre Chu y Kim era pinchar el teléfono. ¡Voy a cancelar la misión!",
+        "it": "Dannazione! Mettere una cimice in quel telefono era l'unico modo di ascoltare la conversazione tra Chu e Kim... annullo la missione!",
+        "th": ""
+      },
+      "Speech_0033L": {
+        "en": "LAMBERT - Do not enter that bathroom without taking the anti-virus... you'll become infected and we'll have to abort the mission.",
+        "fr": "N'entrez pas dans les toilettes sans avoir pris l'antivirus. Vous vous retrouveriez infectés et il faudrait annuler la mission.",
+        "de": "Betretet den Waschraum nicht, ohne zuvor das Anti-Virus injiziert zu haben ... ihr werdet sonst infiziert und wir müssen die Mission abbrechen.",
+        "es": "No entréis en esos servicios sin la vacuna. De lo contrario os infectaréis y tendré que cancelar la misión.",
+        "it": "Non entrate in quel bagno senza prendere l'antidoto... Vi infettereste e dovremmo terminare la missione.",
+        "th": ""
+      },
+      "Speech_0034L": {
+        "en": "LAMBERT - Good job. Now one of you will need to inject himself with the anti-virus to enter the bathroom and take out Kim's infected man.",
+        "fr": "Bien. Maintenant, l'un de vous doit s'injecter l'antivirus pour entrer dans les toilettes et neutraliser l'homme de Kim.",
+        "de": "Gute Arbeit. Jetzt muss sich einer von euch das Antivirus injizieren, um den Waschraum betreten zu können und Kims infizierten Mann auszuschalten.",
+        "es": "Buen trabajo. Ahora uno de los dos tiene que inocularse la vacuna, entrar al servicio y acabar con el hombre infectado.",
+        "it": "Ben fatto. Ora uno di voi dovrà iniettarsi l'antidoto per entrare nel bagno ed eliminare l'uomo di Kim, che è infetto.",
+        "th": ""
+      },
+      "Speech_0045L": {
+        "en": "LAMBERT - Are you crazy?! I'm aborting the mission and calling in CDC to quarantine the building before all of New York is wiped out by that plague.",
+        "fr": "Vous avez perdu la tête ? J'annule la mission et j'appelle le CDC pour qu'il mette le quartier en quarantaine avant que le virus ne ravage New York.",
+        "de": "Seid ihr wahnsinnig?! Ich breche die Mission ab und verständige das CDC, damit es das Gebäude unter Quarantäne setzt, bevor ganz New York von dieser Pest ausgelöscht wird.",
+        "es": "¿Estás loco? Voy a cancelar la misión y a llamar al Centro de Epidemias para que pongan en cuarentena toda la estación.",
+        "it": "Ma siete impazziti?! Annullo la missione e chiamo il CDC per mettere in quarantena l'edificio prima che tutta New York venga spazzata via da quella malattia.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "LAMBERT - Damn... we're too late. They've already managed to get a subway car rolling. No time to get down to the platform. Jump on the roof of the train, hurry!",
+        "fr": "Malédiction, trop tard ! Ils s'enfuient par le train. Pas le temps de descendre jusqu'au quai pour monter dedans... sautez sur le toit, vite !",
+        "de": "Verdammt ... wir sind zu spät. Sie haben schon einen U-Bahn-Wagen in Bewegung gesetzt. Keine Zeit mehr, auf den Bahnsteig hinunterzugehen. Springt auf das Dach des Zuges, schnell!",
+        "es": "Hemos llegado tarde. Se han apoderado de un tren. No hay tiempo para bajar a la plataforma. Saltad al techo del tren, rápido.",
+        "it": "Maledizione... siamo arrivati troppo tardi. Sono già riusciti a far partire un vagone. Non c'è tempo di arrivare alla pensilina. Saltate sul tetto del treno, svelti!",
+        "th": ""
+      },
+      "Speech_0015L": {
+        "en": "LAMBERT - Good job. Whatever virus he had won't last long once his body temperature falls off. The room should be safe. Now get down to the lower platform and stop Kim's men from escaping with the rest of the virus. ",
+        "fr": "Beau travail. Quel que soit le virus que cet homme s'est injecté, celui-ci mourra de lui-même quand sa température corporelle retombera. Descendez au quai inférieur et empêchez les soldats de Kim de s'enfuir avec le reste du virus. ",
+        "de": "Gute Arbeit. Was für ein Virus er auch immer in sich trug, sobald seine Körpertemperatur sinkt, wird er nicht mehr lange überleben. Dieser Raum müsste jetzt sicher sein. Geht jetzt auf den unteren Bahnsteig und verhindert, dass Kims Leute mit dem restlichen Virusstamm entkommen. ",
+        "es": "Buen trabajo. Cuando la temperatura de su cuerpo baje, el virus morirá. En ese lugar ya no hay peligro, así que bajad a la plataforma inferior e impedid que los hombres de Kim escapen con el resto del virus. ",
+        "it": "Ottimo lavoro. Qualunque virus fosse, non resisterà a lungo quando la sua temperatura corporea inizierà a scendere. La stanza dovrebbe essere sicura. Adesso scendete alla pensilina inferiore e impedite agli uomini di Kim di fuggire con il resto del virus. ",
+        "th": ""
+      }
+    },
+    "P_04_GCS_ConvCellPhoneChu": {
+      "_source": "P_04_GCS",
+      "Speech_0001L": {
+        "en": "CHU - Are all the bombs set?",
+        "fr": "Les bombes sont placées ?",
+        "de": "Sind alle Bomben an ihrem Platz?",
+        "es": "¿Están listas las bombas?",
+        "it": "Le bombe sono tutte sistemate?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "SOLDIER - Just one more to go sir.",
+        "fr": "Plus qu'une, monsieur.",
+        "de": "Nur noch eine übrig.",
+        "es": "Sólo falta una, señor.",
+        "it": "Ne resta solo una, signore.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "CHU - Well hurry up... and be careful. Those things are sensitive. I don't want this place coming down while I'm in it.",
+        "fr": "Dépêchez-vous... mais faites attention. Elles sont très sensibles, et je ne voudrais pas qu'elles explosent alors qu'on est encore là.",
+        "de": "Beeilt euch ... und seid vorsichtig. Diese Dinger sind empfindlich. Ich will nicht, dass der Laden hier einstürzt, solange ich mich noch in seinem Inneren befinde.",
+        "es": "Tened cuidado. Esas cosas son muy sensibles. No quiero que este lugar vuele conmigo dentro.",
+        "it": "Beh, sbrigatevi... e state attenti. Quegli affari sono sensibili, non voglio che questo posto mi crolli in testa.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "SOLDIER - Yes sir.",
+        "fr": "Bien, monsieur.",
+        "de": "Jawohl, Sir.",
+        "es": "Sí, señor.",
+        "it": "Sissignore.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "CHU - Hello? Colonel. Yes. The bombs will be set in a few minutes. Yes. I understand. A public phone? Yes sir. The one in the center of the main station? Yes sir. I'll be there.",
+        "fr": "Allô, colonel ? Les bombes seront placées d'ici quelques minutes. Oui, je comprends. Un téléphone public ? Oui, monsieur. La cabine située au centre de la gare ? J'y serai.",
+        "de": "Hallo? Oberst? Ja. Die Bomben werden in einigen Minuten an ihrem Platz sein. Ja. Ich verstehe. Ein öffentlicher Fernsprecher? Jawohl, Oberst. Der in der Mitte des Bahnhofs? Ja, ich werde dort sein.",
+        "es": "¿Diga? Sí, coronel. Las bombas estarán listas en unos minutos. Sí, entiendo. ¿El teléfono público que está en medio de la estación? Sí, señor, allí estaré.",
+        "it": "Pronto? Colonnello. Sì. Le bombe verranno attivate tra qualche istante. Sì, capisco. Un telefono pubblico? Sissignore. Quello in mezzo alla stazione centrale? Sissignore. Sarò là.",
+        "th": ""
+      }
+    },
+    "P_04_GCS_ConvEnding": {
+      "_source": "P_04_GCS",
+      "Speech_0001L": {
+        "en": "WEN - How come we're the last ones to evacuate?",
+        "fr": "Pourquoi est-ce qu'on est les derniers à évacuer ?",
+        "de": "Wie kommt es, dass wir als Letzte evakuiert werden?",
+        "es": "¿Por qué somos los últimos en evacuar?",
+        "it": "Perchè siamo gli ultimi ad evacuare?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "YUAN - Someone has to be last.",
+        "fr": "Il faut bien un dernier.",
+        "de": "Irgendjemand muss der Letzte sein.",
+        "es": "Alguien tiene que serlo.",
+        "it": "Qualcuno deve pur essere l'ultimo.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "WEN - Yeah, but these bombs... now poor Ming has the virus... I'm getting a bit nervous.",
+        "fr": "Je sais bien, mais entre ces bombes et ce pauvre Ming qui a chopé le virus...",
+        "de": "Ja ... aber diese Bomben ... und jetzt hat der arme Ming auch noch den Virus ... ich werde langsam ein wenig nervös.",
+        "es": "Sí, pero me estoy poniendo nervioso. Esas bombas, y el pobre Ming con el virus.",
+        "it": "Sì, ma queste bombe... adesso che il povero Ming ha il virus sto diventando un po' nervoso.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "YUAN - Yeah... well, everybody dies sooner or later.",
+        "fr": "Nerveux ? Dis-toi qu'on meurt tous un jour ou l'autre...",
+        "de": "Ja ... aber wir alle sterben früher oder später.",
+        "es": "Todo el mundo muere tarde o temprano.",
+        "it": "Già... Beh, prima o poi moriamo tutti.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "WEN - Sure. But I don't want it to be today.",
+        "fr": "D'accord, mais j'aimerais bien que ce soit pas aujourd'hui...",
+        "de": "Sicher. Aber ich will nicht, dass das heute passiert.",
+        "es": "Pues yo prefiero morir tarde.",
+        "it": "Senz'altro. Ma preferirei che non fosse oggi.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "WEN - How many guys are they sending ahead?",
+        "fr": "Combien de gars sont partis en avant-garde ?",
+        "de": "Wie viele Männer schicken sie voraus?",
+        "es": "¿Cuántos hombres van a enviar?",
+        "it": "Quanti ne mandano avanti?",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "YUAN - Lots. Maybe thirty.",
+        "fr": "Une trentaine, je crois.",
+        "de": "Eine ganze Menge. Vielleicht dreißig.",
+        "es": "Creo que treinta.",
+        "it": "Molti. Forse trenta.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "WEN - Where are they going?",
+        "fr": "Où ils vont ?",
+        "de": "Wohin gehen sie?",
+        "es": "¿Adónde van?",
+        "it": "Dove vanno?",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "YUAN - Chu's orders said not to ask. We'll find out when we get there.",
+        "fr": "Chu a dit de ne pas poser de question. On verra bien en arrivant.",
+        "de": "Chu hat befohlen, keine Fragen zu stellen. Wir werden es herausfinden, wenn wir dort ankommen.",
+        "es": "Chu ha dicho que no preguntemos. Lo sabremos al llegar.",
+        "it": "Gli ordini di Chu erano di non chiedere nulla. Lo scopriremo quando ci arriveremo.",
+        "th": ""
+      }
+    },
+    "P_04_GCS_ConvHydroTunnel": {
+      "_source": "P_04_GCS",
+      "Speech_0001L": {
+        "en": "CHIN - Hey, careful with that. You know what that thing is for right?",
+        "fr": "Eh, fais gaffe, bon sang ! Tu sais ce que c'est que ce truc ?",
+        "de": "He, vorsichtig damit. Du weißt, was das für ein Ding ist, richtig?",
+        "es": "Ten cuidado con eso. ¿Es que no sabes qué es?",
+        "it": "Ehi, stai attento! Sai cos'è quella, vero?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "PONG - Yeah. It's some kind of bomb.",
+        "fr": "Ouais, un genre de bombe...",
+        "de": "Ja, irgend so eine Bombe.",
+        "es": "Sí. Una especie de bomba.",
+        "it": "Sì. È una specie di bomba.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "CHIN - Some kind of bomb? If that thing explodes, all of forty-second avenue between 5th and Lex will come down on our heads.",
+        "fr": "Un genre de bombe ? Si ce machin explose, plusieurs pâtés de maisons disparaîtront avec nous, crétin dégénéré !",
+        "de": "Irgend so eine Bombe? Wenn das Ding hoch geht, fällt uns die gesamte zweiundvierzigste Straße zwischen der Fünften und Lexington auf den Kopf.",
+        "es": "¿Una especie de bomba? Si la hacea explotar, reducirás a cenizas toda la manzana entre la Calle 5 y Lex.",
+        "it": "Una specie di bomba? Se quel coso esplode, ci casca in testa tutta la 42esima Avenue tra la Quinta e Lexington.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "PONG - Uh... oh...",
+        "fr": "Oh... euh...",
+        "de": "Ah ... oh ...",
+        "es": "Uh... oh...",
+        "it": "Oh... oh...",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "CHIN - Yeah... it's not some kind of bomb, it's that kind of bomb.",
+        "fr": "Oui. Tu vois de quel genre de bombe il s'agit, maintenant ?",
+        "de": "Ja ... das ist nicht irgend so eine Bombe, das ist so eine Bombe.",
+        "es": "Sí. No es una especie de bomba. Es la bomba.",
+        "it": "Proprio così... non è una specie di bomba, è quel genere di bomba.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "PONG - Okay... I'll... ulp... I.ll be more careful.",
+        "fr": "Bon, je... je vais être plus prudent, promis.",
+        "de": "Okay ... ich werde ... (Schlucken) ... ich werde besser aufpassen.",
+        "es": "Vale. Tendré mas cuidado.",
+        "it": "Okay... Io... gulp... starò più attento.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "CHIN - Good idea.",
+        "fr": "Bonne idée.",
+        "de": "Gute Idee.",
+        "es": "Eso espero.",
+        "it": "Ottima idea.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "CHIN - Is it active?",
+        "fr": "Elle est active ?",
+        "de": "Ist sie aktiv?",
+        "es": "¿Está activada?",
+        "it": "Ma è attiva?",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "PONG - I'm not sure. I always forget whether it's the blue wire or the yellow wire...",
+        "fr": "Je ne sais pas. Je me mélange toujours entre le fil jaune et le fil bleu...",
+        "de": "Bin nicht sicher. Ich vergesse immer, ob es der blaue oder der gelbe Draht ist.",
+        "es": "No estoy seguro. Siempre olvido si es el cable azul o el amarillo...",
+        "it": "Non sono sicuro. Mi dimentico sempre se è il filo blu o quello giallo...",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "CHIN - Well, I suggest you check the schematics on the laptop before you kill all of us.",
+        "fr": "Dans ce cas, je te conseille de vérifier le plan sur le portable avant de tous nous tuer.",
+        "de": "Nun, dann schlage ich vor, du schaust dir den Bauplan auf dem Laptop an, bevor du uns noch alle umbringst.",
+        "es": "Te sugiero que consultes el diagrama del portátil antes de matarnos.",
+        "it": "Forse è meglio se controlli gli schemi sul computer prima di ammazzarci tutti.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "PONG - But the laptop is way over there...",
+        "fr": "Mais le portable est tout là-bas...",
+        "de": "Aber der Laptop ist da ganz hinten.",
+        "es": "Es que lo tengo allí lejos...",
+        "it": "Ma il computer è laggiù...",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "CHIN - You'll be all the way over there if that bomb goes off... and you'll be all the way up in Harlem and in Jersey at the same time you'll be in so many pieces.",
+        "fr": "Et nous aussi, si jamais cette bombe explose. Oh, et on sera à Harlem et à Jersey en même temps, vu le nombre de pièces qu'il restera de nous...",
+        "de": "Du wirst ganz schnell da hinten sein, wenn diese Bombe hochgeht ... und du wirst gleichzeitig noch in Harlem und Jersey sein, in so viele Stücke wird es dich zerreißen.",
+        "es": "Te aseguro que tú vas a ir más lejos que tu portátil si si esa bomba explota. Van a llover pedacitos tuyos desde Harlem hasta Jersey.",
+        "it": "Sarai laggiù anche tu se quella bomba esplode... E sarai anche in tutta Harlem e nel New Jersey allo stesso tempo.",
+        "th": ""
+      }
+    },
+    "P_04_GCS_ConvPubPhoneChu": {
+      "_source": "P_04_GCS",
+      "Speech_0001L": {
+        "en": "CHU - Yes sir.",
+        "fr": "Oui, monsieur.",
+        "de": "Ja, Oberst.",
+        "es": "Sí, señor.",
+        "it": "Signore.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "UNKNOWN - There's been a slight change of plans.",
+        "fr": "Il a fallu modifier légèrement notre plan.",
+        "de": "Es gibt eine kleine Änderung in unserem Plan.",
+        "es": "Ha habido un ligero cambio de planes.",
+        "it": "C'è stato un piccolo cambiamento di programma.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "CHU - Of course. No plan is perfect. What's the problem?",
+        "fr": "Bien sûr. Aucun plan n'est jamais figé. Quel est le problème ?",
+        "de": "Natürlich. Kein Plan ist perfekt. Gibt es ein Problem?",
+        "es": "No hay plan perfecto. ¿Cuál es el problema?",
+        "it": "Ma certo. Nessun piano è perfetto. Qual è il problema?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "UNKNOWN - One of my men managed to infect himself. He was smart enough to get in a washroom and duct tape himself inside, but I don't want it spilling to the rest of the men.",
+        "fr": "Un de mes hommes s'est accidentellement infecté. Heureusement, il a eu la présence d'esprit de s'enfermer dans les toilettes pour ne pas nous contaminer.",
+        "de": "Einer meiner Männer hat es fertig gebracht, sich selbst zu infizieren. Er war klug genug, in einen Waschraum zu gehen und sich dort zu isolieren, aber ich will nicht, dass sich das Virus auf meine übrigen Männer überträgt.",
+        "es": "Uno de mis hombres se ha infectado. Afortunadamente se ha encerrado en los servicios y ha usado cinta adhesiva para aislarse, pero no quiero que contamine al resto.",
+        "it": "Uno dei miei uomini è stato contagiato. È stato abbastanza furbo da entrare in un bagno e si è sigillato dentro, ma non voglio che il contagio si estenda al resto degli uomini.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "CHU - I see.",
+        "fr": "Je vois...",
+        "de": "Ich verstehe.",
+        "es": "Entiendo.",
+        "it": "Capisco.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "UNKNOWN - The locker that contains your payment also contains a single dose of the anti-virus.",
+        "fr": "Le casier contenant votre paiement contient également une dose de l'antivirus.",
+        "de": "Der Spind, in dem sich ihr Lohn befindet, enthält außerdem auch eine einzelne Dosis des Anti-Virus.",
+        "es": "Hay una dosis de antivirus en la taquilla donde tienes el dinero.",
+        "it": "L'armadietto che contiene il tuo pagamento contiene anche una dose di antidoto. Una sola.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "CHU - So you want me to cure your man?",
+        "fr": "Vous voulez que je soigne votre homme ?",
+        "de": "Ich soll also ihren Mann heilen?",
+        "es": "¿Quiere que cure a ese hombre?",
+        "it": "Volete che curi il vostro uomo?",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "UNKNOWN - No, it's far too late for that. Besides, you would die if you entered the room and didn't take the anti-virus yourself.",
+        "fr": "Non, il est bien trop tard pour cela. Et puis, vous mourriez si vous entriez dans la pièce sans avoir pris l'antivirus.",
+        "de": "Nein, dafür ist es schon längst zu spät. Außerdem würden sie sterben, wenn sie den Raum beträten, ohne selbst das Anti-Virus genommen zu haben.",
+        "es": "No, es demasiado tarde. El antivirus es para que te lo inyectes antes de entrar. De lo contrario, morirás.",
+        "it": "No, per lui è troppo tardi. Inoltre, se entri in quella stanza muori se non hai preso tu stesso l'antidoto.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "CHU - So I'll need to take the anti-virus myself and kill your man to retrieve the rest of the virus samples.",
+        "fr": "Donc, vous voulez que je me l'injecte et que je tue votre homme afin de récupérer les échantillons de virus.",
+        "de": "Ich muss also das Anti-Virus selbst nehmen und ihren Mann töten, um an die restlichen Virusproben zu kommen.",
+        "es": "Entonces debo ponerme el antivirus y matar al hombre para recuperar el resto de las muestras de virus.",
+        "it": "Allora prendo io l'antidoto, uccido il vostro uomo e prendo il resto dei campioni di virus.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "UNKNOWN - You're a smart man, Chu. I'll miss you. The locker number is 9201. The key code is your son's birthdate.",
+        "fr": "Vous comprenez vite, Chu. Le casier est le 9201 et son code est la date de naissance de votre fils, inversée.",
+        "de": "Sie sind ein kluger Mann, Chu. Ich werde sie vermissen. Die Nummer des Spinds ist die 9201. Der Code ist der Geburtstag Ihres Sohnes.",
+        "es": "Eres inteligente, Chu. Te echaré de menos. La taquilla es la 9201, y el código es el cumpleaños de tu hijo.",
+        "it": "Chu, sei in gamba. Mi mancherai. Il numero dell'armadietto è 9201. Il codice della chiave è la data di nascita di tuo figlio.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "CHU - Thank you Colonel. I won't fail you.",
+        "fr": "Merci, colonel. Je n'échouerai pas.",
+        "de": "Vielen Dank, Oberst. Ich werde Sie nicht enttäuschen.",
+        "es": "Gracias, coronel. No le fallaré.",
+        "it": "Grazie, Colonnello. Non la deluderò.",
+        "th": ""
+      }
+    },
+    "P_04_GCS_ConvSubway": {
+      "_source": "P_04_GCS",
+      "Speech_0001L": {
+        "en": "JIN - I have another question...",
+        "fr": "J'ai une autre question...",
+        "de": "Ich habe noch eine Frage ...",
+        "es": "Tengo otra pregunta.",
+        "it": "Ho un'altra domanda...",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "JUNG - The answer is no.",
+        "fr": "La réponse est non.",
+        "de": "Die Antwort ist nein.",
+        "es": "La respuesta es no.",
+        "it": "La risposta è no.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "JIN - No... no... seriously... now that the train is gone, how are we supposed to get at that bomb up there if something goes wrong?",
+        "fr": "Non, sérieusement... maintenant que le train est parti, comment faire pour atteindre la bombe si jamais ça se passe mal ?",
+        "de": "Nein ... nein ... ernsthaft ... jetzt, da die Bahn weg ist, wie sollen wir an die Bombe da oben kommen, wenn irgendetwas schief geht?",
+        "es": "No, no. Va en serio. Ahora que el tren se ha ido, ¿cómo alcanzamos la bomba si surge algún problema?",
+        "it": "No... no... seriamente... adesso che il treno se ne è andato, come arriviamo a quella bomba lassù se qualcosa va storto?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "JUNG - Maybe you didn't understand our orders... if something goes wrong, that bomb is supposed to explode.",
+        "fr": "J'ai l'impression que tu n'as pas compris nos ordres... si ça va mal, la bombe est censée exploser.",
+        "de": "Vielleicht hast du die Befehle nicht richtig verstanden ... wenn irgendetwas schief geht ... soll diese Bombe explodieren.",
+        "es": "Creo que no has entendido las órdenes. Si surge algún problema, la bomba tiene que explotar.",
+        "it": "Forse non hai capito gli ordini... se qualcosa va storto, quella bomba esploderà.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "JIN - Oh... okay... hey... wait a minute... wouldn't that kill us?",
+        "fr": "Oh, OK. Euh... dis, ça ne risque pas de nous tuer ?",
+        "de": "Oh ... okay ... he ... warte Moment mal ... würde uns das nicht umbringen?",
+        "es": "Pero... espera un momento. Si explota, moriremos.",
+        "it": "Oh... okay... ehi, ma aspetta un attimo... non ci ucciderà?",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "JUNG - Yes. That's why we're staying here... to make sure nothing goes wrong.",
+        "fr": "Si. C'est pour ça qu'on est là, justement. Pour veiller que tout se passe bien.",
+        "de": "Ja. Deshalb bleiben wir ja hier ... um sicherzustellen, dass nichts schief geht.",
+        "es": "Sí. Por eso estamos aquí, para asegurarnos de no surja ningún problema.",
+        "it": "Certamente. Ecco perchè siamo qui: per assicurarci che niente vada storto.",
+        "th": ""
+      }
+    },
+    "P_04_GCS_InterroChu": {
+      "_source": "P_04_GCS",
+      "Speech_0002L": {
+        "en": "CHU - Americans... ha, some renegade New York cop... you think this is an action movie... you think you'll beat information out of me... not a chance...",
+        "fr": "Les Américains... ha ! Un policier renégat, j'imagine. Vous vous croyez dans un film d'action ? Vous pensez que je vais parler ? Aucune chance !",
+        "de": "Amerikaner ... ha, so ein wild gewordener New Yorker Polizist ... du hältst das wohl für einen Actionfilm ... denkst, du könntest die Informationen aus mir herausprügeln ... keine Chance ...",
+        "es": "Cómo sois los americanos... Un vulgar policía de Nueva York que se cree un héroe. ¿Vas a sacarme la información a golpes, como en una película barata? ¡Ja!",
+        "it": "Americani... puah, un poliziotto rinnegato di New York... credi che questo sia un film d'azione... credi che potrai torturarmi per avere le informazioni... Non mi caverai nulla...",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "CHU - Ahh! My god... you're not police! Please, don't kill me! I'll tell you everything. The locker code is my son's birth date 0315",
+        "fr": "Oh, mon dieu, vous n'êtes pas de la police ! Ne me tuez pas, je vous en prie ! Je vais tout vous dire. Le code du casier est le 0315.",
+        "de": "Ahh! Mein Gott ... Sie sind nicht von der Polizei! Bitte, töten Sie mich nicht! Ich werde Ihnen alles sagen. Der Code für den Spind lautet 0315.",
+        "es": "¡Aah! ¡Tú no eres de la policía! ¡No me mates! Te lo diré todo. El código de la taquilla es el cumpleaños de mi hijo, 0315.",
+        "it": "Ahh! Mio dio... non siete della polizia! Vi prego, non uccidetemi! Vi dirò tutto. Il codice dell'armadietto è la data di nascita di mio figlio, 0315",
+        "th": ""
+      },
+      "Note_0006L": {
+        "en": "The key code to open the locker is 0315",
+        "fr": "Le code du casier est le 0315",
+        "de": "Der Nummerncode für den Spind lautet 0315.",
+        "es": "El código para abrir la taquilla es 0315.",
+        "it": "Il codice per aprire l'armadietto è 0315.",
+        "th": ""
+      }
+    },
+    "P_04_GCS_InterroDualChu": {
+      "_source": "P_04_GCS",
+      "Speech_0001L": {
+        "en": "Uhghgh... kkaaaa... achhchc... Ooo... help...",
+        "fr": "Aaaahhh.... à l'aide... aaaarggh... ooohhhh...",
+        "de": "Uhghgh... kkaaaa... achhchc... Ooo... Hilfe...",
+        "es": "Uhghgh... kkaaaa... achhchc... Ooo... ayuda...",
+        "it": "Uhghgh... kkaaaa... achhchc... Ooo... aiuto...",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Ah... ugh... what... who is it? I... I can't see... my eyes... help me... so... uhghh... yyyhhghh... so sick... uhgh... it... it... it burns... help...Chu? Chu? Is that you? Ugghh... help... help me...",
+        "fr": "Aaaahhhh... qui... qui est là ? Je... je ne vois plus rien... mes yeux... à l'aide... ooohhhh... j'ai mal partout, je... ça brûle... seigneur... Chu ? Chu ? C'est toi ? Aahhhhh... à l'aide... à l'aide...",
+        "de": "Ah ... ugh ... was ... wer ist da? Ich ... ich kann nichts sehen ... meine Augen ... helfen Sie mir ... so ... uhghh ... yyyhhghh ... so krank ... uhgh ... es ... es ... es brennt ... Hilfe ... Chu? Chu? Sind Sie das? Ugghh ... Hilfe ... helfen Sie mir ...",
+        "es": "Ah...ugh... qué... ¿quién es?... no veo... mis ojos... ayúdeme...  uhghh...yyyhhghh... me encuentro mal... uhgh... me... me quema por dentro... ¿Chu? ¿Chu? ¿Eres tú?  Ugghh... ayúdame, por favor...",
+        "it": "Ah...ugh... cosa... chi c'è? Io... non ci vedo... i miei occhi... aiutatemi... allora... uhghh...yyyhhghh... sto male... uhgh... ahi... ahi... brucia... aiuto... Chu? Chu? Sei tu? Ugghh... aiuto... aiutami...",
+        "th": ""
+      }
+    },
+    "P_04_GCS_Objectives": {
+      "_source": "P_04_GCS",
+      "Objective_0001": {
+        "en": "Figure out what Colonel Kim\u0019s real agenda is.",
+        "fr": "Découvrez ce que mijote vraiment le colonel Kim.",
+        "de": "Finden Sie heraus, was Oberst Kim wirklich geplant hat.",
+        "es": "Averigua cuáles son los planes del coronel Kim.",
+        "it": "Scopri qual è il vero intento del Colonnello Kim.",
+        "th": ""
+      },
+      "Objective_0008": {
+        "en": "Colonel Kim and his men have taken over Train Station, but have not yet issued any demands. Discover what their plans are and stop them.",
+        "fr": "Le colonel Kim et ses hommes se sont rendus maîtres de la gare centrale, mais sans faire parvenir leurs exigences aux autorités. Découvrez quel est leur plan et empêchez-les de le mener à bien.",
+        "de": "Oberst Kim und seine Männer haben die Grand Central Station besetzt, aber noch keine Forderungen gestellt. Finden Sie heraus, was sie vorhaben, und halten Sie sie auf.",
+        "es": "El coronel Kim y sus hombres se han apoderado de la Estación Central pero aún no han dado a conocer sus demandas. Descubre cuáles son sus planes y detenles.",
+        "it": "Il Colonnello Kim e i suoi uomini hanno in mano la Stazione, ma non hanno ancora avanzato richieste. Scopri quali sono i loro piani e fermali.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0030": {
+        "en": "Figure out what Colonel Kim\u0019s real agenda is.",
+        "fr": "Découvrez quel est le véritable plan du colonel Kim.",
+        "de": "Finden Sie heraus, was Oberst Kim wirklich geplant hat.",
+        "es": "Averigua cuáles son los verdaderos planes de Chu.",
+        "it": "Scopri i veri piani del Colonnello Kim.",
+        "th": ""
+      },
+      "Objective_0002": {
+        "en": "Deactivate the bombs under Train Station.",
+        "fr": "Désamorcez les bombes de la gare centrale.",
+        "de": "Deaktivieren Sie die Bomben unter der Grand Central Station.",
+        "es": "Desactiva las bombas de la Estación Central.",
+        "it": "Disinnesca le bombe sotto la Stazione Centrale.",
+        "th": ""
+      },
+      "Objective_0009": {
+        "en": "Kim\u0019s men have planted three bombs in the subway tunnels. The bombs are extremely powerful and could collapse several city blocks. The bombs must be disarmed.",
+        "fr": "Les hommes de Kim ont placé trois bombes dans les galeries du métro. Extrêmement puissantes, elles pourraient provoquer l'effondrement de plusieurs pâtés d'immeubles. Il faut absolument les désamorcer.",
+        "de": "Kims Männer haben drei Bomben in den U-Bahn-Tunneln gelegt. Diese Bomben verfügen über eine extrem hohe Sprengkraft und könnten zum Einsturz mehrerer Häuserblöcke führen. Die Bomben müssen entschärft werden.",
+        "es": "Localiza y recupera los discos de datos del Centro Nacional de Datos.",
+        "it": "Gli uomini di Kim hanno piazzato tre bombe nei tunnel della metropolitana. Le bombe sono estremamente potenti e potrebbero far collassare diversi isolati della città. Devi disinnescare le bombe.",
+        "th": ""
+      },
+      "Objective_0003": {
+        "en": "Bug the telephone in Train Station Hall before Chu reaches it.",
+        "fr": "Placez un mouchard dans le téléphone du hall de la gare avant que Chu l'atteigne.",
+        "de": "Verwanzen Sie das Telefon in der Halle der Grand Central Station, bevor Chu es erreicht.",
+        "es": "Pincha el teléfono del vestíbulo de la Estación Central antes de que llegue Chu.",
+        "it": "Metti la cimice nel telefono della Stazione Centrale prima che ci arrivi Chu.",
+        "th": ""
+      },
+      "Objective_0010": {
+        "en": "Chu, and agent of Kim\u0019s, will be receiving a telephone call on a payphone in the main hall. Bug the telephone before the call comes in order to overhear the conversation.",
+        "fr": "Chu, un homme de Kim, va recevoir un appel à partir d'un téléphone public du hall de la gare. Placez un mouchard dans le téléphone avant qu'il n'y arrive pour pouvoir enregistrer la conversation.",
+        "de": "Chu, ein Agent von Kim, wird einen Anruf an einem öffentlichen Telefon in der Haupthalle entgegennehmen. Verwanzen Sie das Telefon vor dem Anruf, damit das Gespräch mitgehört werden kann.",
+        "es": "Chu, uno de los hombres de Kim, recibirá una llamada de teléfono en un teléfono público de la entrada principal. Pincha el teléfono antes de que se produzca la llamada para espiar la conversación.",
+        "it": "Chu, uno degli agenti di Kim, riceverà una chiamata in un telefono a gettoni nell'atrio. Metti una cimice nel telefono prima che arrivi la chiamata per poter ascoltare la conversazione.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0031": {
+        "en": "Deactivate the bombs under Train Station.",
+        "fr": "Désamorcez les bombes posées dans les souterrains de la gare.",
+        "de": "Entschärfen Sie die Bomben unter dem Bahnhof.",
+        "es": "Desactiva las bombas bajo la Estación Central.",
+        "it": "Disattiva le bombe sotto alla Stazione Ferroviaria.",
+        "th": ""
+      },
+      "Objective_0014": {
+        "en": "Get the antidote from the locker.",
+        "fr": "Allez chercher l'antidote dans le casier.",
+        "de": "Besorgen Sie sich das Gift und das Gegenmittel aus dem Schrank.",
+        "es": "Consigue el antídoto de la taquilla.",
+        "it": "Prendi l'antidoto dall'armadietto.",
+        "th": ""
+      },
+      "Objective_0015": {
+        "en": "Chu is going to recover a sample of the antidote from a locker. Discover which locker and neutralize Chu before he uses the antidote himself.",
+        "fr": "Chu va aller chercher un échantillon de l'antidote dans un casier. Découvrez celui dont il s'agit et neutralisez Chu sans lui laisser le temps d'utiliser l'antidote.",
+        "de": "Chu wird eine Probe des Gegengifts aus einem Schrank entnehmen. Finden Sie heraus, welcher Schrank das ist, und neutralisieren Sie Chu, bevor er das Gegenmittel selbst verwendet.",
+        "es": "Chu recogerá una muestra de la vacuna de una taquilla; descubre qué taquilla es y neutraliza a Chu antes de que pueda usar la muestra.",
+        "it": "Chu sta per recuperare un campione di antidoto da un armadietto. Scopri di quale armadietto si tratta e neutralizza Chu prima che usi l'antidoto.",
+        "th": ""
+      },
+      "Objective_0042": {
+        "en": "Eliminate the contaminated soldier in the bathroom.",
+        "fr": "Eliminez le soldat contaminé qui s'est enfermé dans les toilettes.",
+        "de": "Eliminieren Sie den infizierten Soldaten in der Toilette.",
+        "es": "Elimina al soldado infectado del baño.",
+        "it": "Elimina il soldato contaminato nel bagno.",
+        "th": ""
+      },
+      "Objective_0043": {
+        "en": "Use the antidote to enter the washroom without becoming infected, then eliminate the infected soldier.",
+        "fr": "Utilisez l'antidote pour pouvoir entrer dans les toilettes sans être contaminé et éliminez le soldat infecté.",
+        "de": "Nehmen Sie das Gegengift ein, damit Sie den Waschraum betreten können, ohne sich zu infizieren, und eliminieren Sie dann den infizierten Soldaten.",
+        "es": "Usa la vacuna para entrar en el lavabo sin contagiarte y luego elimina al soldado infectado.",
+        "it": "Usa l'antidoto per entrare nel bagno senza infettarti, poi elimina il soldato infetto.",
+        "th": ""
+      },
+      "Objective_0044": {
+        "en": "Follow Chu to the locker.",
+        "fr": "Suivez Chu jusqu'au casier.",
+        "de": "Folgen Sie Chu zu dem Schrank.",
+        "es": "Sigue a Chu hasta la taquilla.",
+        "it": "Segui Chu per arrivare all'armadietto.",
+        "th": ""
+      },
+      "Objective_0045": {
+        "en": "Follow Chu to the locker.",
+        "fr": "Suivez Chu jusqu'au casier.",
+        "de": "Folgen Sie Chu zu dem Schrank.",
+        "es": "Sigue a Chu hasta la taquilla.",
+        "it": "Segui Chu per arrivare all'armadietto.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0032": {
+        "en": "Get the antidote from the locker.",
+        "fr": "Allez chercher l'antidote dans le casier.",
+        "de": "Holen Sie das Gegenmittel aus dem Schrank.",
+        "es": "Consigue el antídoto de la taquilla.",
+        "it": "Prendi l'antidoto dall'armadietto",
+        "th": ""
+      },
+      "Objective_0046": {
+        "en": "Secure the chemical toxin in possession of the infected soldier.",
+        "fr": "Récupérez le virus en possession du soldat infecté.",
+        "de": "Stellen Sie das chemische Gift sicher.",
+        "es": "Asegura el agente biológico en manos del soldado infectado.",
+        "it": "Metti al sicuro la tossina chimica in possesso del soldato infetto.",
+        "th": ""
+      },
+      "Objective_0047": {
+        "en": "Secure the chemical toxin in possession of the infected soldier.",
+        "fr": "Récupérez le virus en possession du soldat infecté.",
+        "de": "Stellen Sie das chemische Gift sicher.",
+        "es": "Asegura el agente biológico en manos del soldado infectado.",
+        "it": "Metti al sicuro la tossina chimica in possesso del soldato infetto.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0048": {
+        "en": "Eliminate the contaminated soldier in the bathroom.",
+        "fr": "Eliminez le soldat infecté des toilettes.",
+        "de": "Eliminieren Sie den infizierten Soldaten in der Toilette.",
+        "es": "Elimina al soldado infectado del baño.",
+        "it": "Elimina il soldato contaminato nel bagno.",
+        "th": ""
+      },
+      "Objective_0018": {
+        "en": "Stop Kim\u0019s men from leaving with the rest of the toxin.",
+        "fr": "Empêchez les hommes de Kim de s'enfuir avec le reste du virus.",
+        "de": "Hindern Sie Kims Männer daran, mit dem Rest des Gifts zu entkommen.",
+        "es": "No dejes que los hombres de Kim huyan con el resto del agente biológico.",
+        "it": "Impedisci agli uomini di Kim di andarsene con il resto della tossina.",
+        "th": ""
+      },
+      "Objective_0019": {
+        "en": "Get to the subway platform and stop the rest of Kim\u0019s men from escaping before it\u0019s too late.",
+        "fr": "Accédez à la plate-forme du métro et empêchez les autres hommes de Kim de s'enfuir avant qu'il soit trop tard.",
+        "de": "Begeben Sie sich auf den U-Bahn-Bahnsteig und hindern Sie Kims Männer an der Flucht, bevor es zu spät ist.",
+        "es": "Ve al andén del metro e impide que los hombres de Kim escapen*. Date prisa.",
+        "it": "Vai al binario della metropolitana e ferma il resto degli uomini di Kim prima che sia troppo tardi.",
+        "th": ""
+      },
+      "Objective_0006": {
+        "en": "Jump on the subway car to follow it to its destination.",
+        "fr": "Sautez sur le toit du métro pour le suivre jusqu'à sa destination.",
+        "de": "Springen Sie auf die U-Bahn und fahren Sie bis zur Endhaltestelle.",
+        "es": "Salta sobre el vagón de metro para seguirle hasta su destino.",
+        "it": "Salta sulla carrozza della metropolitana per arrivare alla sua destinazione.",
+        "th": ""
+      },
+      "Objective_0013": {
+        "en": "It is too late to stop Kim\u0019s men from escaping. Jump down onto the roof of the passing subway car and follow them to their next destination.",
+        "fr": "Il est trop tard pour empêcher la fuite des hommes de Kim. Sautez sur le toit du métro et suivez-les jusqu'à leur destination.",
+        "de": "Es ist zu spät, um Kims Männer an der Flucht zu hindern. Springen Sie auf das Dach der vorbei fahrenden U-Bahn und folgen Sie ihnen zu ihrem nächsten Ziel.",
+        "es": "Es demasiado tarde para evitar que los hombres de Kim escapen. Salta sobre el techo del vagón de metro y síguele hasta la próxima parada.",
+        "it": "È troppo tardi per fermare la fuga degli uomini di Kim. Salta sul tetto della carrozza in corsa e seguili fino alla loro destinazione.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0034": {
+        "en": "Jump on the subway car to follow it to its destination.",
+        "fr": "Sautez sur le toit du métro pour le suivre jusqu'à sa destination.",
+        "de": "Springen Sie auf die U-Bahn und fahren Sie bis zur Endhaltestelle.",
+        "es": "Sube al techo de un vagón del metro y síguele hasta su destino.",
+        "it": "Salta sulla carrozza della metropolitana per seguirla fino alla sua destinazione.",
+        "th": ""
+      },
+      "Objective_0022": {
+        "en": "Recover schematics for the bombs.",
+        "fr": "Retrouvez les plans des bombes.",
+        "de": "Finden Sie die Baupläne der Bomben.",
+        "es": "Recupera los esquemas de las bombas.",
+        "it": "Recupera gli schemi delle bombe.",
+        "th": ""
+      },
+      "Objective_0023": {
+        "en": "Recover schematics for the bombs.",
+        "fr": "Retrouvez les plans des bombes.",
+        "de": "Finden Sie die Baupläne der Bomben.",
+        "es": "Recupera los esquemas de las bombas.",
+        "it": "Recupera gli schemi delle bombe.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0035": {
+        "en": "Deactivate the bombs under Train Station.",
+        "fr": "Désamorcez les bombes posées dans les souterrains de la gare.",
+        "de": "Entschärfen Sie die Bomben unter dem Bahnhof.",
+        "es": "Desactiva las bombas bajo la Estación Central.",
+        "it": "Disattiva le bombe sotto alla Stazione Ferroviaria.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0036": {
+        "en": "Get the antidote and toxin from the locker.",
+        "fr": "Allez chercher l'antidote dans le casier.",
+        "de": "Holen Sie das Gegenmittel aus dem Schrank.",
+        "es": "Consigue el antídoto de la taquilla.",
+        "it": "Prendi l'antidoto dall'armadietto",
+        "th": ""
+      },
+      "POPUPMESSAGE_0037": {
+        "en": "Eliminate the contaminated soldier in the bathroom.",
+        "fr": "Eliminez le soldat infecté des toilettes.",
+        "de": "Eliminieren Sie den infizierten Soldaten in der Toilette.",
+        "es": "Elimina al soldado infectado del baño.",
+        "it": "Elimina il soldato contaminato nel bagno.",
+        "th": ""
+      }
+    },
+    "P_04_GCS_Timer": {
+      "_source": "P_04_GCS",
+      "Speech_0001L": {
+        "en": "LAMBERT - Don't get too far ahead of yourselves. You need to go back and disarm those bombs before Kim takes out all of Train Station.",
+        "fr": "Vous allez trop vite. Revenez sur vos pas et désamorcez-moi ces bombes avant que Kim ne fasse exploser la gare centrale.",
+        "de": "Ihr habt es wohl ein wenig zu eilig. Ihr müsst zurückgehen und diese Bomben entschärfen, bevor Kim die gesamte Grand Central Station in die Luft sprengt.",
+        "es": "No os apresuréis. Tenéis que retroceder y desactivar esas bombas para evitar que Kim vuele la Estación Central.",
+        "it": "Non fatevi trascinare dall'entusiasmo. Dovete tornare indietro e disinnescare quelle bombe prima che Kim faccia saltare tutta la Grand Central.",
+        "th": ""
+      }
+    }
+  }
+}

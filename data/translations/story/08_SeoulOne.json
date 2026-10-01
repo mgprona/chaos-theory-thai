@@ -1,0 +1,1967 @@
+{
+  "_meta": {
+    "category": "story",
+    "name": "08_SeoulOne",
+    "sources": [
+      "08_SeoulOne",
+      "P_08_SeoulOne"
+    ],
+    "total_strings": 236
+  },
+  "sections": {
+    "GENERAL": {
+      "_source": "08_SeoulOne",
+      "MapName": {
+        "en": "SEOUL",
+        "fr": "SEOUL",
+        "de": "SEOUL",
+        "es": "SEÚL",
+        "it": "SEUL",
+        "th": ""
+      },
+      "Briefing_LAMBERT": {
+        "en": "LAMBERT - Thirty-eight hours ago, the NKA committed to open war on the Korean Peninsula. We've known for fifty years that their objective would be to capture Seoul within seventy two hours. It appears they have a real shot at it. South Korean and US Forces are using orchestrated retrogrades to channel individual NKA divisions along discrete corridors. Six hours ago, the first of those divisions reached Seoul and is seeking to capture critical infrastructure. High on their list is a telecommunications switching station north of the city. Unfortunately, the IW attack that sank the Walsh came through this switching station. If the NKA gets their hands on that information, they'll be able to justify their invasion and possibly force the world to allow them to hold the country. We need to get that information before they do.",
+        "fr": "Il y a trente-huit heures, la Corée du Nord a attaqué la Corée du Sud. Nous savons depuis cinquante ans que son objectif a toujours été de prendre Séoul dans les premières soixante-douze heures de l'offensive, et il semblerait qu'elle ait de bonnes chances d'y arriver. Les forces américaines et sud-coréennes essayent de canaliser les divisions adverses le long de couloirs prédéfinis mais, il y a six heures, la première division ennemie a tout de même atteint Séoul. Les Nords-Coréens cherchent à s'emparer de bâtiments cruciaux, dont la station de télécommunication située au nord de la ville. Malheureusement, c'est par là que l'attaque qui a coulé le Walsh a été relayée. Si les Nords-Coréens obtiennent cette information, ils pourront s'en servir pour justifier leur agression et s'implanter durablement en Corée du Sud. Il nous faut la récupérer avant eux.",
+        "de": "Es ist jetzt bereits 38 Stunden her, dass die nordkoreanische Armee den Entschluss gefasst hat, die koreanische Halbinsel in einen Krieg zu stürzen. Wir wissen seit knapp fünfzig Jahren, dass ihr Primärziel darin bestehen wird, Seoul innerhalb der ersten zweiundsiebzig Stunden einzunehmen. So wie es aussieht, sind die Jungs verrückt genug, genau das auch zu versuchen. Zusammen mit der südkoreanischen Armee haben US-Verbände damit begonnen, an ausgewählten Grenzabschnitten den geordneten Rückzug anzutreten, um so einzelne nordkoreanische Divisionen entlang speziell dafür vorgesehener Korridore ins Land vorrücken zu lassen. Vor sechs Stunden ist eine der nordkoreanischen Divisionen in Seoul angelangt. Sie haben es anscheinend auf wichtige Gebäude Seouls abgesehen. Zu ihren potentiellen Zielen zählt ausgerechnet auch die Telekommunikations-vermittlung, über die der Angriff auf die Walsh ausgeführt wurde. Wenn die nordkoreanische Armee die Daten dieser Vermittlung in die Finger bekommt, wird es Nordkorea damit möglicherweise gelingen, den Einmarsch zu rechtfertigen und das Land so dauerhaft zu besetzen. Wir müssen an die Informationen dort gelangen, bevor es die Nordkoreaner tun.",
+        "es": "Hace treinta y ocho horas, el ejército norcoreano declaró la guerra en la Península de Corea. Su objetivo es conquistar Seúl en setenta y dos horas. Las fuerzas americanas y surcoreanas han ejecutado maniobras de retirada para llevar a las divisiones norcoreanas por rutas separadas. Hace seis horas, la primera de esas divisiones ha alcanzado Seúl, y ahora intenta apoderarse de infraestructuras vitales. La primera es un repetidor de telecomunicaciones al norte de la ciudad. Por desgracia, el ataque informático que hundió al Walsh se difundió a través de ese repetidor. Si el ejército norcoreano consigue esa información, tendrá un pretexto para justificar su invasión y obligar al resto del mundo a que acepte la ocupación de Corea del Sur. Tenemos que adelantarnos.",
+        "it": "38 ore fa, l'esercito nordcoreano ha invaso la Corea del Sud. Da cinquant'anni a questa parte, il loro obiettivo è catturare Seul. Sembra che ci stiano riuscendo. Le forze americane e sudcoreane stanno tentando, mediante ritirate strategiche, di frammentare le singole divisioni nemiche in corridoi separati. Sei ore fa le prime divisioni hanno raggiunto Seul e stanno colpendo le strutture critiche. In cima alla lista c'è una stazione di telecomunicazioni a nord della città. Purtroppo, l'incursione informatica che ha causato l'affondamento della Walsh viene proprio da quella stazione. Se i nordcoreani riuscissero a mettere le mani sulla stazione, otterrebbero una giustificazione per l'invasione agli occhi del mondo. Dobbiamo ottenere quelle informazioni prima di loro.",
+        "th": ""
+      },
+      "Briefing_GRIMSDOTTIR": {
+        "en": "GRIMSDOTTIR -  The information warfare attacks that launched the missile that sank the Walsh came through Seoul. I wasn't able to trace them back any further than the switching station, and I don't even know for sure that they didn't originate there. It's entirely possible that South Korea has manipulated us into war by forcing the North to attack the US. I would just try and hack my way in, but this is a fat, secure data pipe, and damage caused by the fighting has already isolated most of the entry ports. You need to get in there and recover the data manually, then broadcast it out point-to-point so we can take a closer look.",
+        "fr": "L'attaque informatique qui a tiré le missile responsable de la destruction du Walsh a transité par Séoul. Je n'ai pas réussi à remonter au-delà de la station de télécommunication, et peut-être cette dernière est-elle son point de départ. Il est en effet possible que la Corée du Sud nous ait piégé en obligeant la Corée du Nord à attaquer les Etats-Unis. Je pourrais essayer de m'introduire dans le système mais...il est sécurisé à l'extrème et les dégâts causés par les combats ont déjà détruit la plupart des ports d'entrée. Il faut que tu ailles récupérer les données sur place, puis que tu nous les envoies par une connexion point à point pour qu'on les étudie.",
+        "de": "Der Computer-Eingriff, der die Rakete auf die Walsh umgelenkt hat, kam über Seoul. Ich konnte seinen Ursprung leider nur bis zur Vermittlungszentrale zurückverfolgen, und selbst da bin ich mir nicht ganz sicher, ob ich überhaupt richtig liege. Es kann sein, dass Südkorea uns in den Krieg gezogen hat und der nordkoreanischen Angriff auf die USA manipuliert war. Ich würde mich ja einfach in die Systeme hacken, aber wir haben es hier mit einer sehr gut gesicherten Datenleitung zu tun, und durch die Kampfhandlungen wurden bereits jetzt einige meiner Zugangsknoten zerstört. Du musst schnellstens dort hingehen, die Daten manuell bergen und sie dann an uns übertragen, damit wir sie uns näher ansehen können.",
+        "es": "El ataque informático que disparó el misil contra el Walsh provenía de Seúl. No he conseguido rastrear su fuente más allá del repetidor, y ni siquiera estoy segura de que no se originara allí. No es descabellado pensar que se trate de una maniobra de Corea del Sur para obligarnos a entrar en guerra contra sus vecinos. He intentado hackear su sistema, pero se trata de un canal seguro, y los daños provocados por el combate han aislado la mayoría de los puertos de entrada. Tendrás que ir allí, recuperar los datos manualmente y después mandarlos por conexión directa para que podamos estudiarlos.",
+        "it": "Le incursioni informatiche che hanno lanciato il missile contro la Walsh sono passate da Seul. Non sono riuscita a tracciarle oltre la stazione di smistamento, e non sono nemmeno sicura che non siano effettivamente partite da lì. È possibile che la Corea del Sud ci abbia spinto a una guerra forzando il Nord ad attaccare gli Stati Uniti. Io ci proverei ad inserirmi, ma questa è una linea dati solida e sicura, e i danni causati dai combattimenti hanno già isolato quasi tutti i miei ingressi. Devi entrare e recuperare i dati manualmente, poi trasmetterli punto a punto per permetterci di esaminarli meglio.",
+        "th": ""
+      },
+      "Briefing_REDDING": {
+        "en": "REDDING -  CIA maintains several safe houses in Seoul to facilitate insertion of agents and recovery of possible defectors. Usually they are set up to look like ordinary residences. I'm currently working out a plan to have you forward-inserted into one of these safe houses before 2 I.D. performs another major retrograde. Once you're in, our boys will retreat, and the NKA front will overrun and bypass your location, leaving you in the wake of the main force, but still in advance of the support troops. You'll have a small zone of comfort and I would strongly advise you not to stray from you're A.O. You don't want to encounter a battalion sized force.",
+        "fr": "La CIA a plusieurs planques à Séoul, qui lui servent pour ses agents et les transfuges éventuels. La plupart ressemblent à des logements normaux. Je suis en train de mettre un plan au point pour que tu puisses avoir accès à l'une d'elles avant les importants mouvements de troupes prévus par notre armée. Une fois que tu seras sur place, nos hommes se replieront, les Nord-Coréens suivront, et tu te retrouveras entre les troupes d'assaut ennemies et leurs unités de soutien logistique. Attention à ne pas t'éloigner de cette zone de calme relatif si tu ne veux pas te retrouver face à un bataillon de types armés jusqu'aux dents !",
+        "de": "Die CIA besitzt einige Gebäude in Seoul, um von dort Agenten einzuschleusen und mögliche Überläufer in Sicherheit zu bringen. Für gewöhnlich sehen diese Gebäude wie ganz normale Wohnhäuser aus. Der Plan, den ich gerade ausarbeite, sieht vor, dass wir dich in einem dieser Häuser absetzen, bevor die 2. Infanteriedivision mit dem weiteren Rückzug beginnt. Sobald du im Haus bist, ziehen sich unsere Jungs zurück. Dann wird das Gebiet von der nordkoreanischen Armee überrannt. Du bleibst auf diese Weise hinter der ersten Angriffswelle, aber vor dem Nachschub der Nordkoreaner... das dürfte dir ein wenig Luft verschaffen. Ich rate dir allerdings dringend davon ab, dein Einsatzgebiet zu verlassen. Du willst dich doch sicher nicht mit einem Gegner in Bataillonsstärke anlegen, oder?",
+        "es": "La CÍA tiene varios refugios en Seúl que sirven para facilitar la entrada a sus agentes y esconder disidentes. Suelen camuflarlos como domicilios normales. Estoy preparando un plan para introducirte en uno de esos refugios antes de que se produzca otra retirada masiva de agentes dobles. Cuando estés dentro, nuestros hombres se retirarán, y el frente norcoreano sobrepasará tu posición. Eso te dejará detrás de la fuerza principal, pero por delante de las tropas de apoyo. Tendrás una pequeña zona de seguridad, así que te recomiendo que no salgas de ella si no quieres encontrarte con un batallón enemigo entero.",
+        "it": "La CIA ha diverse basi sicure a Seul per facilitare l'inserimento di agenti e il recupero di possibili disertori. Di solito hanno l'aspetto di case normali. Sto pianificando il tuo inserimento in una di queste case prima che la 2a Divisione di Fanteria effettui un'altra ritirata. Quando sarai dentro i ragazzi si ritireranno e i nordcoreani supereranno la tua posizione, lasciandoti nella scia della forza principale ma davanti alle truppe di supporto. Disporrai di una piccola zona di sicurezza e ti suggerisco di non deviare dall'obiettivo assegnato. Non ti conviene scontrarti con un battaglione al completo.",
+        "th": ""
+      },
+      "Briefing_MASSON": {
+        "en": "MASSON - USS Ronald Reagan is ready to launch an EA-6B Prowler rigged with a point-to-point laser receiver rig. Your man will be given a special transmitter that will track the plane and transmit the data. This comms set-up is 100% secure. Nothing is broadcast, so nothing can be intercepted... never mind decrypted. Once your man is in position, we'll send in the plane and get the data... but this is still a highly risky operation... whatever you're promising me better be worth it. These planes are worth sixty-million dollars you know.",
+        "fr": "L'USS Ronald Reagan est prêt à lancer un EA-6B Prowler équipé d'un système de réception laser point à point. Votre homme recevra un émetteur spécial qui enverra les données à l'avion. Ce mode de communication est sûr à 100%. Il est impossible d'intercepter la transmission, et encore moins de la décrypter. Une fois votre homme en position, nous enverrons l'avion récupérer les données. Mais cette opération est risquée, et j'espère que le jeu en vaut la chandelle. Chacun de ces avions vaut la bagatelle de soixante millions de dollars...",
+        "de": "Die USS Ronald Reagan hat den Start einer EA-6B Prowler vorbereitet, die mit einem Richtlaser-Empfänger ausgestattet ist. Ihr Mann bekommt einen speziellen Sender, mit dem es ihm möglich ist, das Flugzeug zu orten und die Daten zu übertragen. Diese Kommunikationsleitung ist zu 100 % sicher. Da die Daten nicht wie sonst üblich gefunkt werden, gibt es nichts was man abfangen könnte ... um eine mögliche Entschlüsselung der Daten durch den Feind braucht man sich also erst gar keine Sorgen zu machen. Wenn Ihr Mann am Einsatzort angekommen ist, schicken wir das Flugzeug raus, um die Daten zu bergen ... Denken Sie bitte daran, dass das eine sehr riskante Operation ist. Was immer Sie dort finden, es sollte die Mühe wert gewesen sein. Diese Flugzeuge kosten nämlich sechzig Millionen Dollar das Stück.",
+        "es": "El USS Ronald Reagan está preparado para enviar un Prowler EA-6B equipado con un receptor láser. A su hombre se le entregará un dispositivo que rastreará el avión y le transmitirá los datos. Se trata de una comunicación segura al cien por cien, que no puede ser interceptada, ni mucho menos decodificada. Cuando su hombre esté en posición, el avión despegará para recibir los datos. Con todo, es una operación muy arriesgada. Espero que no me decepcionen. Cada uno de esos aviones cuesta más de sesenta millones de dólares.",
+        "it": "La Reagan è pronta a lanciare un EA-6B Prowler equipaggiato con un sistema ricevitore laser punto a punto. Il vostro uomo riceverà un trasmettitore speciale che individuerà l'aereo e trasmetterà i dati. Questo sistema è sicuro al 100%. Non c'è broadcast, quindi niente da intercettare... tantomeno da decifrare. Quando il vostro uomo sarà in posizione noi lanceremo l'aereo e riceveremo i dati... ma rimane un'operazione ad alto rischio... chiunque decidiate di mandarmi, meglio che sia all'altezza. Questi aerei valgono sessanta milioni di dollari...",
+        "th": ""
+      }
+    },
+    "Interaction": {
+      "_source": "08_SeoulOne",
+      "IntGetdrives": {
+        "en": "Get drives",
+        "fr": "Récupérer le disque dur",
+        "de": "Datenträger besorgen",
+        "es": "Conseguir discos",
+        "it": "Prendi i dischi",
+        "th": ""
+      },
+      "IntUseelevator": {
+        "en": "Use elevator",
+        "fr": "Prendre l'ascenseur",
+        "de": "Aufzug benutzen",
+        "es": "Usar ascensor",
+        "it": "Usa l'ascensore",
+        "th": ""
+      }
+    },
+    "Computer": {
+      "_source": "08_SeoulOne",
+      "CompUploadTap": {
+        "en": "Upload Tap",
+        "fr": "Se connecter au réseau",
+        "de": "Angezapfte Daten hochladen",
+        "es": "Cargar programa",
+        "it": "Carica intercettazioni",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Briefings_Texts": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "LAMBERT - Thirty-eight hours ago, the NKA committed to open war on the Korean Peninsula. We've known for fifty years that their objective would be to capture Seoul within seventy two hours. It appears they have a real shot at it. South Korean and US Forces are using orchestrated retrogrades to channel individual NKA divisions along discrete corridors. Six hours ago, the first of those divisions reached Seoul and is seeking to capture critical infrastructure. High on their list is a telecommunications switching station north of the city. Unfortunately, the IW attack that sank the Walsh came through this switching station. If the NKA gets their hands on that information, they'll be able to justify their invasion and possibly force the world to allow them to hold the country. We need to get that information before they do.",
+        "fr": "Il y a trente-huit heures, la Corée du Nord a attaqué la Corée du Sud. Nous savons depuis cinquante ans que son objectif a toujours été de prendre Séoul dans les premières soixante-douze heures de l'offensive, et il semblerait qu'elle ait de bonnes chances d'y arriver. Les forces américaines et sud-coréennes essayent de canaliser les divisions adverses le long de couloirs prédéfinis mais, il y a six heures, la première division ennemie a tout de même atteint Séoul. Les Nords-Coréens cherchent à s'emparer de bâtiments cruciaux, dont la station de télécommunication située au nord de la ville. Malheureusement, c'est par là que l'attaque qui a coulé le Walsh a été relayée. Si les Nords-Coréens obtiennent cette information, ils pourront s'en servir pour justifier leur agression et s'implanter durablement en Corée du Sud. Il nous faut la récupérer avant eux.",
+        "de": "Es ist jetzt bereits 38 Stunden her, dass die nordkoreanische Armee den Entschluss gefasst hat, die koreanische Halbinsel in einen Krieg zu stürzen. Wir wissen seit knapp fünfzig Jahren, dass ihr Primärziel darin bestehen wird, Seoul innerhalb der ersten zweiundsiebzig Stunden einzunehmen. So wie es aussieht, sind die Jungs verrückt genug, genau das auch zu versuchen. Zusammen mit der südkoreanischen Armee haben US-Verbände damit begonnen, an ausgewählten Grenzabschnitten den geordneten Rückzug anzutreten, um so einzelne nordkoreanische Divisionen entlang speziell dafür vorgesehener Korridore ins Land vorrücken zu lassen. Vor sechs Stunden ist eine der nordkoreanischen Divisionen in Seoul angelangt. Sie haben es anscheinend auf wichtige Gebäude Seouls abgesehen. Zu ihren potentiellen Zielen zählt ausgerechnet auch die Telekommunikations-vermittlung, über die der Angriff auf die Walsh ausgeführt wurde. Wenn die nordkoreanische Armee die Daten dieser Vermittlung in die Finger bekommt, wird es Nordkorea damit möglicherweise gelingen, den Einmarsch zu rechtfertigen und das Land so dauerhaft zu besetzen. Wir müssen an die Informationen dort gelangen, bevor es die Nordkoreaner tun.",
+        "es": "Hace treinta y ocho horas, el ejército norcoreano declaró la guerra en la Península de Corea. Su objetivo es conquistar Seúl en setenta y dos horas. Las fuerzas americanas y surcoreanas han ejecutado maniobras de retirada para llevar a las divisiones norcoreanas por rutas separadas. Hace seis horas, la primera de esas divisiones ha alcanzado Seúl, y ahora intenta apoderarse de infraestructuras vitales. La primera es un repetidor de telecomunicaciones al norte de la ciudad. Por desgracia, el ataque informático que hundió al Walsh se difundió a través de ese repetidor. Si el ejército norcoreano consigue esa información, tendrá un pretexto para justificar su invasión y obligar al resto del mundo a que acepte la ocupación de Corea del Sur. Tenemos que adelantarnos.",
+        "it": "38 ore fa, l'esercito nordcoreano ha invaso la Corea del Sud. Da cinquant'anni a questa parte, il loro obiettivo è catturare Seul. Sembra che ci stiano riuscendo. Le forze americane e sudcoreane stanno tentando, mediante ritirate strategiche, di frammentare le singole divisioni nemiche in corridoi separati. Sei ore fa le prime divisioni hanno raggiunto Seul e stanno colpendo le strutture critiche. In cima alla lista c'è una stazione di telecomunicazioni a nord della città. Purtroppo, l'incursione informatica che ha causato l'affondamento della Walsh viene proprio da quella stazione. Se i nordcoreani riuscissero a mettere le mani sulla stazione, otterrebbero una giustificazione per l'invasione agli occhi del mondo. Dobbiamo ottenere quelle informazioni prima di loro.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "GRIMSDOTTIR - The information warfare attacks that launched the missile that sank the Walsh came through Seoul. I wasn't able to trace them back any further than the switching station, and I don't even know for sure that they didn't originate there. It's entirely possible that South Korea has manipulated us into war by forcing the North to attack the US. I would just try and hack my way in, but this is a fat, secure data pipe, and damage caused by the fighting has already isolated most of the entry ports. You need to get in there and recover the data manually, then broadcast it out point-to-point so we can take a closer look.",
+        "fr": "L'attaque informatique qui a tiré le missile responsable de la destruction du Walsh a transité par Séoul. Je n'ai pas réussi à remonter au-delà de la station de télécommunication, et peut-être cette dernière est-elle son point de départ. Il est en effet possible que la Corée du Sud nous ait piégé en obligeant la Corée du Nord à attaquer les Etats-Unis. Je pourrais essayer de m'introduire dans le système mais...il est sécurisé à l'extrème et les dégâts causés par les combats ont déjà détruit la plupart des ports d'entrée. Il faut que tu ailles récupérer les données sur place, puis que tu nous les envoies par une connexion point à point pour qu'on les étudie.",
+        "de": "Der Computer-Eingriff, der die Rakete auf die Walsh umgelenkt hat, kam über Seoul. Ich konnte seinen Ursprung leider nur bis zur Vermittlungszentrale zurückverfolgen, und selbst da bin ich mir nicht ganz sicher, ob ich überhaupt richtig liege. Es kann sein, dass Südkorea uns in den Krieg gezogen hat und der nordkoreanischen Angriff auf die USA manipuliert war. Ich würde mich ja einfach in die Systeme hacken, aber wir haben es hier mit einer sehr gut gesicherten Datenleitung zu tun, und durch die Kampfhandlungen wurden bereits jetzt einige meiner Zugangsknoten zerstört. Du musst schnellstens dort hingehen, die Daten manuell bergen und sie dann an uns übertragen, damit wir sie uns näher ansehen können.",
+        "es": "El ataque informático que disparó el misil contra el Walsh provenía de Seúl. No he conseguido rastrear su fuente más allá del repetidor, y ni siquiera estoy segura de que no se originara allí. No es descabellado pensar que se trate de una maniobra de Corea del Sur para obligarnos a entrar en guerra contra sus vecinos. He intentado hackear su sistema, pero se trata de un canal seguro, y los daños provocados por el combate han aislado la mayoría de los puertos de entrada. Tendrás que ir allí, recuperar los datos manualmente y después mandarlos por conexión directa para que podamos estudiarlos.",
+        "it": "Le incursioni informatiche che hanno lanciato il missile contro la Walsh sono passate da Seul. Non sono riuscita a tracciarle oltre la stazione di smistamento, e non sono nemmeno sicura che non siano effettivamente partite da lì. È possibile che la Corea del Sud ci abbia spinto a una guerra forzando il Nord ad attaccare gli Stati Uniti. Io ci proverei ad inserirmi, ma questa è una linea dati solida e sicura, e i danni causati dai combattimenti hanno già isolato quasi tutti i miei ingressi. Devi entrare e recuperare i dati manualmente, poi trasmetterli punto a punto per permetterci di esaminarli meglio.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "REDDING - CIA maintains several safe houses in Seoul to facilitate insertion of agents and recovery of possible defectors. Usually they are set up to look like ordinary residences. I'm currently working out a plan to have you forward-inserted into one of these safe houses before 2 I.D. performs another major retrograde. Once you're in, our boys will retreat, and the NKA front will overrun and bypass your location, leaving you in the wake of the main force, but still in advance of the support troops. You'll have a small zone of comfort and I would strongly advise you not to stray from you're A.O. You don't want to encounter a battalion sized force.",
+        "fr": "La CIA a plusieurs planques à Séoul, qui lui servent pour ses agents et les transfuges éventuels. La plupart ressemblent à des logements normaux. Je suis en train de mettre un plan au point pour que tu puisses avoir accès à l'une d'elles avant les importants mouvements de troupes prévus par notre armée. Une fois que tu seras sur place, nos hommes se replieront, les Nord-Coréens suivront, et tu te retrouveras entre les troupes d'assaut ennemies et leurs unités de soutien logistique. Attention à ne pas t'éloigner de cette zone de calme relatif si tu ne veux pas te retrouver face à un bataillon de types armés jusqu'aux dents !",
+        "de": "Die CIA besitzt einige Gebäude in Seoul, um von dort Agenten einzuschleusen und mögliche Überläufer in Sicherheit zu bringen. Für gewöhnlich sehen diese Gebäude wie ganz normale Wohnhäuser aus. Der Plan, den ich gerade ausarbeite, sieht vor, dass wir dich in einem dieser Häuser absetzen, bevor die 2. Infanteriedivision mit dem weiteren Rückzug beginnt. Sobald du im Haus bist, ziehen sich unsere Jungs zurück. Dann wird das Gebiet von der nordkoreanischen Armee überrannt. Du bleibst auf diese Weise hinter der ersten Angriffswelle, aber vor dem Nachschub der Nordkoreaner... das dürfte dir ein wenig Luft verschaffen. Ich rate dir allerdings dringend davon ab, dein Einsatzgebiet zu verlassen. Du willst dich doch sicher nicht mit einem Gegner in Bataillonsstärke anlegen, oder?",
+        "es": "La CÍA tiene varios refugios en Seúl que sirven para facilitar la entrada a sus agentes y esconder disidentes. Suelen camuflarlos como domicilios normales. Estoy preparando un plan para introducirte en uno de esos refugios antes de que se produzca otra retirada masiva de agentes dobles. Cuando estés dentro, nuestros hombres se retirarán, y el frente norcoreano sobrepasará tu posición. Eso te dejará detrás de la fuerza principal, pero por delante de las tropas de apoyo. Tendrás una pequeña zona de seguridad, así que te recomiendo que no salgas de ella si no quieres encontrarte con un batallón enemigo entero.",
+        "it": "La CIA ha diverse basi sicure a Seul per facilitare l'inserimento di agenti e il recupero di possibili disertori. Di solito hanno l'aspetto di case normali. Sto pianificando il tuo inserimento in una di queste case prima che la 2a Divisione di Fanteria effettui un'altra ritirata. Quando sarai dentro i ragazzi si ritireranno e i nordcoreani supereranno la tua posizione, lasciandoti nella scia della forza principale ma davanti alle truppe di supporto. Disporrai di una piccola zona di sicurezza e ti suggerisco di non deviare dall'obiettivo assegnato. Non ti conviene scontrarti con un battaglione al completo.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "SECRETARY MASSON - USS Ronald Reagan is ready to launch an EA-6B Prowler rigged with a point-to-point laser receiver rig. Your man will be given a special transmitter that will track the plane and transmit the data. This comms set-up is 100 per cent secure. Nothing is broadcast, so nothing can be intercepted... never mind decrypted. Once your man is in position, we'll send in the plane and get the data... but this is still a highly risky operation... whatever you're promising me better be worth it. These planes are worth sixty-million dollars you know.",
+        "fr": "L'USS Ronald Reagan est prêt à lancer un EA-6B Prowler équipé d'un système de réception laser point à point. Votre homme recevra un émetteur spécial qui enverra les données à l'avion. Ce mode de communication est sûr à 100%. Il est impossible d'intercepter la transmission, et encore moins de la décrypter. Une fois votre homme en position, nous enverrons l'avion récupérer les données. Mais cette opération est risquée, et j'espère que le jeu en vaut la chandelle. Chacun de ces avions vaut la bagatelle de soixante millions de dollars...",
+        "de": "Die USS Ronald Reagan hat den Start einer EA-6B Prowler vorbereitet, die mit einem Richtlaser-Empfänger ausgestattet ist. Ihr Mann bekommt einen speziellen Sender, mit dem es ihm möglich ist, das Flugzeug zu orten und die Daten zu übertragen. Diese Kommunikationsleitung ist zu 100 % sicher. Da die Daten nicht wie sonst üblich gefunkt werden, gibt es nichts was man abfangen könnte ... um eine mögliche Entschlüsselung der Daten durch den Feind braucht man sich also erst gar keine Sorgen zu machen. Wenn Ihr Mann am Einsatzort angekommen ist, schicken wir das Flugzeug raus, um die Daten zu bergen ... Denken Sie bitte daran, dass das eine sehr riskante Operation ist. Was immer Sie dort finden, es sollte die Mühe wert gewesen sein. Diese Flugzeuge kosten nämlich sechzig Millionen Dollar das Stück.",
+        "es": "El USS Ronald Reagan está preparado para enviar un Prowler EA-6B equipado con un receptor láser. A su hombre se le entregará un dispositivo que rastreará el avión y le transmitirá los datos. Se trata de una comunicación segura al cien por cien, que no puede ser interceptada, ni mucho menos decodificada. Cuando su hombre esté en posición, el avión despegará para recibir los datos. Con todo, es una operación muy arriesgada. Espero que no me decepcionen. Cada uno de esos aviones cuesta más de sesenta millones de dólares.",
+        "it": "La Reagan è pronta a lanciare un EA-6B Prowler equipaggiato con un sistema ricevitore laser punto a punto. Il vostro uomo riceverà un trasmettitore speciale che individuerà l'aereo e trasmetterà i dati. Questo sistema è sicuro al 100%. Non c'è broadcast, quindi niente da intercettare... tantomeno da decifrare. Quando il vostro uomo sarà in posizione noi lanceremo l'aereo e riceveremo i dati... ma rimane un'operazione ad alto rischio... chiunque decidiate di mandarmi, meglio che sia all'altezza. Questi aerei valgono sessanta milioni di dollari...",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Conv_Elite_Map": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "NKElite_Li - Look. Here. We were here and we crossed the line to the south, here. That puts us in--",
+        "fr": "Alors, on a traversé le front ici, en direction du sud, ce qui nous met exactement...",
+        "de": "Sieh mal. Da. Wir waren da und sind über diese Linie nach Süden ... Das bedeutet, wir sind jetzt...",
+        "es": "Mira. Estábamos aquí, y cruzamos la línea hacia el sur por aquí. O sea, que estamos...",
+        "it": "Guarda. Qui. Noi eravamo qui e abbiamo superato il confine col sud qui. Questo ci mette...",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKElite_Soo - No. We were in here... look. Then we crossed the line there.",
+        "fr": "Non, non, on était là. Regarde, c'est là qu'on a traversé.",
+        "de": "Nein. Wir waren DA ... und dann sind wir über die Linie hier.",
+        "es": "No, estábamos aquí, y cruzamos la línea por este otro sitio.",
+        "it": "No. Noi eravamo qui... guarda. Poi abbiamo passato il confine lì.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKElite_Li - No, see that's where you're confused.",
+        "fr": "Tu fais clairement erreur.",
+        "de": "Nein, nein. Da bringst du was durcheinander.",
+        "es": "No, ahí es donde te equivocas.",
+        "it": "No, ti stai confondendo.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKElite_Soo - I know where we are. I was looking at the map while you were driving.",
+        "fr": "Je sais où on est, moi. Qui regardait la carte pendant que tu conduisais ?",
+        "de": "Ich weiß genau, wo wir sind. Ich habe schließlich auf die Karte gesehen, während du gefahren bist.",
+        "es": "Sé dónde estamos. Mientras conducías he estado mirando el mapa.",
+        "it": "So dove siamo. Mentre guidavi io guardavo la mappa.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKElite_Li - Well, you weren't looking very closely were you?",
+        "fr": "Pas toi, visiblement.",
+        "de": "Na, sehr genau scheinst du die Karte aber nicht im Auge behalten zu haben, was?",
+        "es": "Pues me temo que lo has mirado al revés..",
+        "it": "Beh, non la guardavi molto attentamente.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKElite_Soo - Look, fine. You think you know where we are, you navigate. I'm gonna take a leak.",
+        "fr": "Bon. Puisque c'est comme ça, je te nomme navigateur. Moi, je vais pisser.",
+        "de": "Okay, gut. Mir reicht's. Wenn du zu wissen glaubst, wo wir sind, dann übernimmst du halt das Navigieren. Ich geh jetzt mal pinkeln.",
+        "es": "Muy bien, si crees que sabes dónde estamos, oriéntate tú. Yo voy a mear.",
+        "it": "OK, d'accordo. Se sei convinto di sapere dove siamo, allora fai tu il navigatore. Io vado a pisciare.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "NKElite_Li - Don't get lost.",
+        "fr": "Ne te perds pas !",
+        "de": "Verlauf dich bloß nicht dabei!",
+        "es": "No te pierdas.",
+        "it": "Non perderti.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKElite_Soo - Shove it.",
+        "fr": "Va te faire voir !",
+        "de": "Ach, leck mich!",
+        "es": "Piérdete tú.",
+        "it": "'Fanculo.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Conv_Garden_Tech": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "NKTech_Ming - Are you on-line in there now?",
+        "fr": "Ça y est, tu es en ligne ?",
+        "de": "Ist jetzt alles soweit?",
+        "es": "¿Tienes ya la conexión?",
+        "it": "Sei online, adesso?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKTech_Yong - Yes!",
+        "fr": "Oui !",
+        "de": "Ja!",
+        "es": "¡Sí!",
+        "it": "Sì!",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKTech_Ming - Alright... I'm going to initiate the tests.",
+        "fr": "Bien. Alors, je lance les tests.",
+        "de": "Gut ... dann beginne ich mit den Tests.",
+        "es": "Bien. Voy a empezar las pruebas.",
+        "it": "Bene... inizio i test.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKTech_Yong - Wait! Wait!",
+        "fr": "Attends ! Attends !",
+        "de": "Warte! Moment!",
+        "es": "¡Espera!",
+        "it": "Aspetta! Aspetta!",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKTech_Ming - What's the problem?",
+        "fr": "Quel est le problème ?",
+        "de": "Was ist los?",
+        "es": "¿Qué pasa?",
+        "it": "Ci sono problemi?",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKTech_Yong - Well... I'm a little worried... won't we be a giant flashing light on someone's scope once we start the tests?",
+        "fr": "Je suis un peu inquiet... on ne va pas devenir visibles sur les instruments ennemis pendant la durée des tests ?",
+        "de": "Nun ... ich mache mir ein bisschen Sorgen ... geht da nicht irgendwo bei jemandem ein blinkendes Licht an, wenn wir mit den Tests beginnen?",
+        "es": "Estoy preocupado. ¿Y si al empezar las pruebas se enciende una lucecita en una pantalla enemiga?",
+        "it": "Beh... sono preoccupato... Non apparirà una grossa luce lampeggiante sui visori nemici appena iniziamo i test?",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "NKTech_Ming - The Americans know where we are... if they haven't bombed us already, wither we've won this war, or they left us alive for a reason.",
+        "fr": "Les Américains savent où nous sommes. S'ils ne nous ont pas déjà bombardés, c'est qu'ils ont leurs raisons... ou qu'on a déjà gagné la guerre.",
+        "de": "Keine Sorge, die Amerikaner wissen sowieso schon, wo wir stecken ... wenn die uns noch nicht bombardiert haben, dann liegt es entweder daran, dass wir den Krieg gewonnen haben, oder daran, dass die uns aus irgendeinem Grund am Leben lassen wollen.",
+        "es": "Los americanos saben dónde estamos. Si no nos atacan es porque ya hemos ganado la guerra, o porque nos prefieren vivos.",
+        "it": "Gli americani sanno dove siamo... se non ci hanno già bombardati i casi sono due: abbiamo vinto la guerra oppure ci lasciano vivi apposta.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKTech_Yong - Wow. I feel safer already.",
+        "fr": "Je me sens tout rassuré, d'un coup...",
+        "de": "Ich fühl' mich gleich viel sicherer.",
+        "es": "Buf. Ya me siento más seguro.",
+        "it": "Wow. Mi sento già più sicuro.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "NKTech_Ming - I'm going to start the tests.",
+        "fr": "Bon, je lance les tests.",
+        "de": "Ich beginne jetzt mit den Tests.",
+        "es": "Voy a empezar las pruebas.",
+        "it": "Inizio i test.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "NKTech_Yong - Alright.",
+        "fr": "D'accord.",
+        "de": "Gut.",
+        "es": "De acuerdo.",
+        "it": "Va bene.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Conv_NDT_C4": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "NKSol_Bong - You think that's enough?",
+        "fr": "Tu crois que ça suffira ?",
+        "de": "Meinst du, das reicht?",
+        "es": "¿Crees que ya hay suficiente?",
+        "it": "Credi che sia sufficiente?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Feng - I don't know. You're the demolitions expert. You tell me.",
+        "fr": "J'en sais rien. C'est toi l'expert en explosifs. A toi de me le dire.",
+        "de": "Keine Ahnung. Du bist doch der Sprengstoffexperte. Was sagst du dazu?",
+        "es": "No lo sé, dímelo tú. Eres el experto en demoliciones.",
+        "it": "Non lo so. Sei tu l'esperto di demolizioni. Dimmelo tu.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKSol_Bong - Well, I guess it's enough.",
+        "fr": "Ben... je crois, oui.",
+        "de": "Hmm ... Schätze, es reicht.",
+        "es": "Supongo que ya vale.",
+        "it": "Beh, credo sia sufficiente.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_Feng - You guess? What if it's too much?",
+        "fr": "Tu crois ? Et si on en a trop mis ?",
+        "de": "Du 'schätzt, es reicht'? Was ist, wenn es zu viel von dem Zeug ist?",
+        "es": "¿Supones? ¿Y si nos pasamos?",
+        "it": "Credi? E se è troppo?",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_Bong - Oh... I didn't even think of that...",
+        "fr": "Oh. J'y avais pas pensé.",
+        "de": "Oh ... daran habe ich gar nicht gedacht ...",
+        "es": "No se me había ocurrido.",
+        "it": "Oh... non ci avevo pensato...",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKSol_Feng - Well... you idiot. If we destroy the stuff inside, then what's the point?!",
+        "fr": "Espèce d'âne bâté ! Tu imagines, si on détruit tout à l'intérieur ?",
+        "de": "Mann ... du Idiot. Wir hätten alles darin zerstören können. Was hätte es uns dann gebracht?",
+        "es": "Idiota, si destrozamos lo que hay dentro, no vale para nada.",
+        "it": "Sei un idiota. Se distruggiamo quello che c'è dentro a cosa serve?!",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "NKSol_Bong - No... no, I think it should be okay.",
+        "fr": "Non, non, ça devrait aller, je pense...",
+        "de": "Nein ... nein ... keine Sorge. Ich glaube, es ist okay.",
+        "es": "No, no. Creo que está bien.",
+        "it": "No... no... penso che vada bene.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKSol_Feng - You think?",
+        "fr": "Tu penses ?",
+        "de": "Du 'glaubst'?",
+        "es": "¿Crees?",
+        "it": "Pensi?",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "NKSol_Bong - Yeah. It's fine. Let's do it. Let's blow it.",
+        "fr": "Non, ça va, c'est sûr. Allez, on la fait sauter.",
+        "de": "Ja. Es wird schon gut sein. Zünden wir den Kram.",
+        "es": "Vale, sí. Estoy seguro. Vamos a volarla.",
+        "it": "Sì. Va bene. Facciamolo. Avanti.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "NKSol_Feng - Well, let's take cover first.",
+        "fr": "On devrait d'abord se mettre à couvert...",
+        "de": "Gut. Aber erst gehen wir in Deckung.",
+        "es": "Antes, pongámonos a cubierto.",
+        "it": "Beh, prima ripariamoci.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "NKSol_Bong - Oh, yeah... good idea.",
+        "fr": "Oh, c'est vrai. Bonne idée.",
+        "de": "Oh, ja. Gute Idee.",
+        "es": "Ah, sí. Buena idea.",
+        "it": "Ah, sì... buona idea.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "NKSol_Feng - Hey... there's a guy in there!",
+        "fr": "Hé, il y a un type à l'intérieur !",
+        "de": "He! Da ist ja einer drin!",
+        "es": "¡Eh, hay un hombre ahí dentro!",
+        "it": "Ehi... c'è un tizio lì dentro!",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "NKSol_Bong - What?",
+        "fr": "Quoi ?",
+        "de": "Was?",
+        "es": "¿Qué?",
+        "it": "Cosa?",
+        "th": ""
+      },
+      "Speech_0014L": {
+        "en": "NKSol_Feng - Blow the door!",
+        "fr": "Fais sauter la porte !",
+        "de": "Spreng die Tür!",
+        "es": "¡Vuela la puerta!",
+        "it": "Fai saltare la porta!",
+        "th": ""
+      },
+      "Speech_0015L": {
+        "en": "NKSol_Bong - What? What if it kills him?",
+        "fr": "Quoi ? Mais on risque de le tuer !",
+        "de": "Was? Was ist, wenn der dabei drauf geht?",
+        "es": "¿Y si lo matamos?",
+        "it": "Cosa? E se muore?",
+        "th": ""
+      },
+      "Speech_0016L": {
+        "en": "NKSol_Feng - That's the point... blow it!",
+        "fr": "Justement ! Fais-la sauter !",
+        "de": "Aus genau diesem Grund sollst du ja sprengen, du Idiot!",
+        "es": "¡De eso se trata! ¡Vuélala!",
+        "it": "Appunto... falla saltare!",
+        "th": ""
+      },
+      "Speech_0017L": {
+        "en": "NKSol_Bong - Alright! Take cover, quick.",
+        "fr": "OK. A couvert, vite !",
+        "de": "Okay! Los, in Deckung.",
+        "es": "¡Vale! ¡A cubierto, rápido!",
+        "it": "Bene! Al riparo, presto!",
+        "th": ""
+      },
+      "Speech_0018L": {
+        "en": "NKSol_Feng - What's going on in there?",
+        "fr": "Qu'est-ce qui se passe, ici ?",
+        "de": "Was ist denn da los?",
+        "es": "¿Qué pasa ahí dentro?",
+        "it": "Cosa sta succedendo lì?",
+        "th": ""
+      },
+      "Speech_0019L": {
+        "en": "NKSol_Bong - What? I didn't see anything.",
+        "fr": "Quoi ? Je n'ai rien vu.",
+        "de": "He? Hast du was gesehen?",
+        "es": "Yo no he visto nada.",
+        "it": "Cosa? Non ho visto niente.",
+        "th": ""
+      },
+      "Speech_0020L": {
+        "en": "NKSol_Feng - Well... let's just blow the damn door and take a closer look.",
+        "fr": "Faisons sauter cette fichue porte. Comme ça, on verra...",
+        "de": "Hmm ... lass uns die verdammte Tür sprengen und mal nachsehen.",
+        "es": "Vamos a volar la puerta y a echar un vistazo más de cerca.",
+        "it": "Bene... facciamo saltare quella maledetta porta e andiamo a vedere.",
+        "th": ""
+      },
+      "Speech_0021L": {
+        "en": "NKSol_Bong - Alright. Let's get behind cover.",
+        "fr": "OK. Mettons-nous à l'abri.",
+        "de": "Gut. Geh in Deckung.",
+        "es": "Entonces, pongámonos a cubierto.",
+        "it": "Giusto. Ripariamoci.",
+        "th": ""
+      },
+      "Speech_0022L": {
+        "en": "NKSol_Feng - Blow the door!",
+        "fr": "NKSol_Feng - Blow the door!",
+        "de": "NKSol_Feng - Blow the door!",
+        "es": "NKSol_Feng - Blow the door!",
+        "it": "NKSol_Feng - Blow the door!",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Conv_NDT_Elevator": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "NKSol_Kwan - ...nice view up there though.",
+        "fr": "La vue est chouette, quand même...",
+        "de": "... trotz allem irgendwie ein schöner Anblick.",
+        "es": "...es un espectáculo.",
+        "it": "...bella vista da qui, però.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Sun - I'll say... there's something strangely... mesmerizing about anti-aircraft tracer fire lighting up the night sky.",
+        "fr": "Oui, c'est vrai. Ces balles traçantes qui déchirent le ciel nocturne ont quelque chose de... fascinant.",
+        "de": "Ja ... es hat schon was .... Ergreifendes und Faszinierendes, Flugabwehrfeuer mit Leuchtspurmunition am Abendhimmel zu betrachten.",
+        "es": "Es extraño. Contemplar el fuego de los antiaéreos iluminando la noche es casi hipnotizante.",
+        "it": "Eccome... c'è qualcosa di stranamente... ipnotico nei traccianti della contraerea che illuminano il cielo di notte.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKSol_Kwan - Beautiful.",
+        "fr": "C'est très beau.",
+        "de": "Wirklich sehr schön.",
+        "es": "Y hermoso.",
+        "it": "Bello.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_Sun - Better than looking at boring old stars, that's for sure.",
+        "fr": "Je préfère ça que de regarder les étoiles, c'est clair.",
+        "de": "Na, auf jeden Fall besser, als immer wieder dieselben alten Sterne anzugaffen.",
+        "es": "Mucho mejor que aburrirse viendo las mismas estrellas.",
+        "it": "Meglio che guardare alle solite vecchie stelle, questo è sicuro.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_Kwan - Ack-ack... kind of a do-it-yourself constellation kit.",
+        "fr": "C'est comme les constellations, mais ça change tout le temps.",
+        "de": "Richtig. Mit den Kugeln kann man sich praktisch selbst einen Sternenhimmel nach Wunsch zurechtballern.",
+        "es": "Es como un kit de \"hazte tus propias constelaciones'.",
+        "it": "Ha ha... praticamente un kit di costellazioni fai da te.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKSol_Sun - Yep. Well, I'm going to go check on Bong and Feng, see how it's coming with that door.",
+        "fr": "Oui. Bon, je vais voir comment Bong et Feng s'en sortent avec cette porte...",
+        "de": "Hmm. So, ich geh jetzt mal nachsehen, wie weit Bong und Feng mit der Tür gekommen sind ...",
+        "es": "Sí. Bueno, voy a buscar a Bong y Feng, a ver qué tal les va con esa puerta.",
+        "it": "Sì. Senti, vado da Bong e Feng, vediamo come se la cavano con la porta.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "NKSol_Kwan - They probably blew themselves up.",
+        "fr": "Ils ont dû se faire sauter la tête.",
+        "de": "Die haben sich vermutlich mittlerweile in die Luft gesprengt.",
+        "es": "Les habrá explotado en las manos.",
+        "it": "Si saranno fatti saltare in aria da soli.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKSol_Sun - Ha...yeah... see ya later.",
+        "fr": "Ha, ha, ha ! A tout à l'heure.",
+        "de": "Ha, ha ... ja ... wir sehen uns.",
+        "es": "Ja ja... Bueno, hasta luego.",
+        "it": "Ha...sì... ci vediamo.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "NKSol_Kwan - Later.",
+        "fr": "A plus tard.",
+        "de": "Bis später.",
+        "es": "Adiós.",
+        "it": "A dopo.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_HQcom": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "LAMBERT - Welcome to the three-block war, FISHER. The main advance has bypassed your position, but expect sporadic fighting among units separated from the main force.",
+        "fr": "Bienvenue au beau milieu de la guerre des trois armées, Fisher. Vous vous trouvez en retrait par rapport au front, mais attendez-vous à des escarmouches entre unités isolées.",
+        "de": "Willkommen im Dreistaatenkrieg, Fisher. Die Front ist mittlerweile an dir vorbeigezogen. Du solltest dich aber auf Schießereien zwischen versprengten Einheiten einstellen.",
+        "es": "Bienvenido a la guerra, Fisher. El avance principal ha sobrepasado tu posición, pero se esperan combates esporádicos entre unidades separadas del grueso.",
+        "it": "Benvenuto alla guerra dei tre isolati, Fisher. L'avanzata ha superato la tua posizione, ma preparati a scontri sporadici tra unità separate dalla forza principale.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "FISHER - Whose side am I on here?",
+        "fr": "Je suis dans quel camp ?",
+        "de": "Auf welcher Seite kämpfe ich eigentlich?",
+        "es": "¿Con qué bando estoy?",
+        "it": "Io da che parte sto?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "LAMBERT - Your own. You are not a legal combatant. Anyone who sees you will attack on sight... friend or foe.",
+        "fr": "Le vôtre. Vous n'êtes pas un combattant reconnu, et tout le monde vous tirera dessus si on vous aperçoit.",
+        "de": "Auf deiner eigenen. Du gehörst keiner regulären Einheit an. Jeder, der dich sieht, wird dich angreifen.",
+        "es": "Con el tuyo. No eres un soldado regular, así que todo el que te vea, aliado o enemigo, te disparará.",
+        "it": "Dalla tua. Non sei un combattente ufficiale. Chiunque ti veda ti attaccherà a vista... amico o nemico.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "LAMBERT - FISHER, anything you can do to assist in the war effort would earn me a few brownie points down on Pennsylvania Avenue.",
+        "fr": "Tout ce que vous pourrez faire pour aider l'effort de guerre me rendra plus crédible auprès de mes supérieurs, Fisher.",
+        "de": "Fisher, falls du eine Idee haben solltest, wie du von dort aus zu unseren Gunsten in den Krieg eingreifen kannst, würde mir das in der Pennsylvania Avenue bestimmt ein paar Fleißkärtchen einbringen.",
+        "es": "Fisher, todo lo que hagas por contribuir al esfuerzo bélico me hará ganar puntos con los de arriba.",
+        "it": "Fisher, tutto ciò che riesci fare per aiutare lo sforzo bellico mi tornerà utile per la raccolta punti in Pennsylvania Avenue.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "FISHER - I think I'll start with this annoying propaganda...",
+        "fr": "Je crois que je vais commencer par la propagande...",
+        "de": "Hmm ... ich kümmere mich am besten mal um die Propaganda ...",
+        "es": "Empezaré con esta propaganda insufrible.",
+        "it": "Credo che comincerò da questa fastidiosa propaganda.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "LAMBERT - Good thinking FISHER... shut down those propaganda broadcasts and our boys will be in better spirits.",
+        "fr": "Bonne idée, Fisher ! Le moral de nos soldats remontera s'ils n'entendent plus cette propagande.",
+        "de": "Gute Idee, Fisher ... es wird die Moral unserer Jungs sicherlich stärken, wenn diese Propaganda ein Ende hat.",
+        "es": "Bien pensado, Fisher. Acaba con esa maldita propaganda y la moral de nuestros chicos mejorará.",
+        "it": "Buona idea, Fisher... spegni quei trasmettitori e i nostri ragazzi combatteranno meglio.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "FISHER - Our boys? I'm just doing it because it's annoying.",
+        "fr": "Et surtout, elle me casse franchement les oreilles.",
+        "de": "Die Moral unserer Jungs stärken? He, ich kümmere mich nur darum, weil mir das Geschwätz selbst auf den Keks geht.",
+        "es": "Lo hago porque me molesta a mí, no por ellos.",
+        "it": "I nostri ragazzi? L'ho fatto solo perché mi dava fastidio.",
+        "th": ""
+      },
+      "Speech_0045L": {
+        "en": "LAMBERT - Good job, FISHER. Taking down their psy-ops will make everyone happier.",
+        "fr": "Bien vu, Fisher. Tout ça est déjà bien assez dur sans y rajouter la guerre psychologique.",
+        "de": "Gut gemacht, Fisher. Wird für jeden das Beste sein, dieses Gewäsch nicht mehr hören zu müssen.",
+        "es": "Bien hecho. Sin ese lavado de cerebro estaremos todos más contentos.",
+        "it": "Bel lavoro, Fisher. Tutti saranno più tranquilli senza la guerra psicologica.",
+        "th": ""
+      },
+      "Speech_0046L": {
+        "en": "LAMBERT - Good job, Sam. There is only one more propaganda broadcast set-up in your area.",
+        "fr": "Bravo, Fisher. Il ne reste plus qu'un seul haut-parleur dans votre secteur.",
+        "de": "Gut gemacht, Sam. Es gibt in deinem Gebiet nur noch ein System, das Propaganda überträgt.",
+        "es": "Buen trabajo. Ya sólo queda un altavoz emitiendo propaganda en tu zona.",
+        "it": "Bel lavoro, Sam. È rimasto solo un trasmettitore nella tua zona.",
+        "th": ""
+      },
+      "Speech_0047L": {
+        "en": "LAMBERT - Way to go, FISHER. That's the last of their propaganda stations in this area.",
+        "fr": "Excellent, Fisher ! Au moins, il n'y aura plus de propagande dans le secteur.",
+        "de": "Gut gemacht, Fisher. Das war das letzte Propaganda-System in diesem Gebiet.",
+        "es": "Ése era el último altavoz de propaganda de la zona. Hora de irse, Fisher.",
+        "it": "Avanti così, Fisher. Era l'ultima stazione di propaganda nella zona.",
+        "th": ""
+      },
+      "Speech_0048L": {
+        "en": "FISHER - Thank god... I was starting to lose my mind.",
+        "fr": "Encore heureux... j'avais la tête comme une citrouille !",
+        "de": "Gott sei Dank ... dachte schon, ich werde hier noch verrückt.",
+        "es": "¡Por fin! Me estaban volviendo loco.",
+        "it": "Grazie a dio... mi stavano facendo impazzire.",
+        "th": ""
+      },
+      "Speech_0015L": {
+        "en": "LAMBERT - FISHER... critical update... I have other assets on the ground, not far from your position.",
+        "fr": "Info de dernière minute, Fisher... nous avons une autre unité sur le terrain, non loin de votre position.",
+        "de": "Fisher ... wichtiges Missionsupdate ... in deiner Nähe befinden sich weitere Teams im Einsatz.",
+        "es": "Fisher, hay novedades. Tenemos más agentes en el terreno, no lejos de tu posición.",
+        "it": "Fisher... aggiornamento critico... ho delle altre risorse sul campo, poco lontano dalla tua posizione.",
+        "th": ""
+      },
+      "Speech_0016L": {
+        "en": "FISHER - Another Splinter Cell?",
+        "fr": "Une autre cellule ?",
+        "de": "Splinter Cell?",
+        "es": "¿Son Splinter Cell?",
+        "it": "Un'altra Splinter Cell?",
+        "th": ""
+      },
+      "Speech_0051L": {
+        "en": "LAMBERT - Splinter Cells in training. They're on a black bag op, but their target was just relocated by NKA Special Forces.",
+        "fr": "En formation. Ils sont sur une mission secrète, mais leur objectif vient d'être déplacé par les forces spéciales nord-coréennes.",
+        "de": "Splinter Cell in Ausbildung. Sie sollten jemand dort rausholen, aber ihr Ziel wurde von Spezialeinheiten der Nordkoreaner an einen anderen Ort gebracht.",
+        "es": "Se entrenan para ello. Están en una operación de secuestro, pero las fuerzas norcoreanas han trasladado a su objetivo.",
+        "it": "Delle Splinter Cell in addestramento. È un'operazione di rapimento, ma il loro obiettivo è stato appena spostato dalle forze speciali nordcoreane.",
+        "th": ""
+      },
+      "Speech_0052L": {
+        "en": "FISHER - So I need to bring in the target?",
+        "fr": "Il faut que je me charge de leur objectif ?",
+        "de": "Soll ich jetzt die Zielperson für unsere Jungs da rausholen?",
+        "es": "¿Tengo que ir yo a por su objetivo?",
+        "it": "Quindi devo catturare l'obiettivo?",
+        "th": ""
+      },
+      "Speech_0053L": {
+        "en": "LAMBERT - No. You need to interrogate one of those Special Forces to find out where they took him.",
+        "fr": "Non. Interrogez juste un type des forces spéciales coréennes pour savoir où est l'objectif.",
+        "de": "Nein. Du sollst ein Mitglied der Spezialeinheiten verhören, um herauszufinden, wo sie ihn hingebracht haben.",
+        "es": "No. Hay que interrogar a algún miembro de esas fuerzas especiales para saber dónde lo tienen.",
+        "it": "No. Devi interrogare un membro delle forze speciali per scoprire dove l'hanno portato.",
+        "th": ""
+      },
+      "Speech_0054L": {
+        "en": "FISHER - Okay.",
+        "fr": "D'accord.",
+        "de": "Okay.",
+        "es": "De acuerdo.",
+        "it": "Ok.",
+        "th": ""
+      },
+      "Speech_0055L": {
+        "en": "LAMBERT - Don't kill them before you talk to them or I'll pull you out.",
+        "fr": "Ne le tuez pas avant qu'il parle, ou j'annule la mission.",
+        "de": "Wenn du diese Typen tötest, bevor du mit ihnen geredet hast, ziehe ich dich ab.",
+        "es": "No lo mates antes de que hable o te saco de ahí.",
+        "it": "Non ucciderli prima di averli interrogati, o ti tiro fuori.",
+        "th": ""
+      },
+      "Speech_0056L": {
+        "en": "FISHER - You want to tell me what's going on LAMBERT?",
+        "fr": "Si vous me disiez ce qui se passe, Lambert ?",
+        "de": "Willst du mir nicht mal verraten, was hier gespielt wird?",
+        "es": "¿Quieres decirme qué está pasando, Lambert?",
+        "it": "Vuoi dirmi cosa sta succedendo, Lambert?",
+        "th": ""
+      },
+      "Speech_0017L": {
+        "en": "LAMBERT - Sorry, FISHER... but you're getting too old for this kind of work.",
+        "fr": "Désolé, Fisher, mais je me fais trop vieux pour ce job.",
+        "de": "Sorry, Fisher ... du wirst langsam zu alt für diese Art von Job.",
+        "es": "Lo siento, Fisher. Eres demasiado mayor para ese trabajo.",
+        "it": "Mi spiace, Fisher... stai diventando troppo vecchio per questo genere di cose.",
+        "th": ""
+      },
+      "Speech_0057L": {
+        "en": "FISHER - Stop listening to Grim. If you go by her definition of old you'd need to issue diapers with every set of goggles.",
+        "fr": "Arrêtez d'écouter Grim. A l'entendre, il faudrait que les couches-culottes fassent partie de notre équipement standard.",
+        "de": "Hör nicht auf Grim. Wenn's nach ihr ginge, müsstest du jedem deiner Männer ein paar Windeln zu seiner Ausrüstung legen.",
+        "es": "Deja de hacer caso a Grim. Para ella cualquiera que haya nacido antes de Internet es un anciano.",
+        "it": "Non stare a sentire Grim. In base alla sua definizione di vecchio dovresti includere dei pannoloni in ogni set di visori.",
+        "th": ""
+      },
+      "Speech_0058L": {
+        "en": "LAMBERT - If I listen to you much longer it'll be adult undergarments.",
+        "fr": "Et vous, ce serait plutôt la lingerie fine ?",
+        "de": "Und wenn es nach dir ginge, wären es Windeln für inkontinente Greise.",
+        "es": "Pero es que tú naciste antes de la imprenta.",
+        "it": "E se parlo troppo con te dovrò iniziare ad usarli io.",
+        "th": ""
+      },
+      "Speech_0059L": {
+        "en": "FISHER - That was cruel.",
+        "fr": "Ça, c'est mesquin.",
+        "de": "Oh, oh ... das tat weh.",
+        "es": "Ahí te has pasado.",
+        "it": "Sei crudele.",
+        "th": ""
+      },
+      "Speech_0060L": {
+        "en": "LAMBERT - Dammit, Sam, you needed to interrogate one of those men. The mission is over.",
+        "fr": "Bon sang, Fisher, il fallait interroger un de ces types ! La mission est terminée.",
+        "de": "Verdammt, Sam. Du solltest einen dieser Männer verhören. Die Mission ist beendet.",
+        "es": "Sam, tenías que interrogar a uno de esos hombres. Misión cancelada.",
+        "it": "Dannazione, Sam, dovevi interrogare uno di quei tizi. Missione finita.",
+        "th": ""
+      },
+      "Speech_0021L": {
+        "en": "LAMBERT - FISHER, don't bother to wait for the elevator, you need to grab the drives out of the NDT before you go to the roof to transmit.",
+        "fr": "Pas la peine d'attendre l'ascenseur, Fisher. Il vous faut le disque dur de la BDN avant de monter sur le toit pour émettre.",
+        "de": "Fisher, vergiss den Aufzug. Du musst zuerst die Daten aus der Nationalen Datentransferstelle bergen, bevor du sie vom Dach aus übertragen kannst.",
+        "es": "Fisher, no montes aún en el ascensor. Tienes que sacar los discos del CND antes de subir al tejado a transmitir.",
+        "it": "Fisher, non aspettare l'ascensore, devi tirare fuori i drive dal server della dorsale prima di andare sul tetto a trasmettere.",
+        "th": ""
+      },
+      "Speech_0061L": {
+        "en": "LAMBERT - Next stop, top floor.",
+        "fr": "Allez jusqu'au toit.",
+        "de": "Nächster Halt, oberste Etage.",
+        "es": "Próxima parada, último piso.",
+        "it": "Prossima fermata il tetto.",
+        "th": ""
+      },
+      "Speech_0062L": {
+        "en": "FISHER - Once I transmit the data, I'm on to extraction?",
+        "fr": "Une fois les données transmises, je m'en vais ?",
+        "de": "Holt ihr mich hier raus, nachdem ich die Daten übertragen habe?",
+        "es": "Después de transmitir, ¿voy al punto de extracción?",
+        "it": "Dopo aver trasmesso i dati posso andare all'estrazione?",
+        "th": ""
+      },
+      "Speech_0063L": {
+        "en": "LAMBERT - That's the plan. If we can confirm the LZ is safe, we'll extract you directly from the rooftop.",
+        "fr": "Oui. L'extraction se fera directement depuis le toit si la zone est sécurisée.",
+        "de": "Genauso sieht's aus. Wenn das Zielgebiet gesichert ist, holen wir dich direkt vom Dach ab.",
+        "es": "Sí. Si confirmamos que la Zona Desmilitarizada es segura, te recogeremos en el tejado.",
+        "it": "Il piano è questo. Se possiamo confermare che la zona di atterraggio è sicura, ti estrarremo direttamente dal tetto.",
+        "th": ""
+      },
+      "Speech_0064L": {
+        "en": "FISHER - And if it's not safe...",
+        "fr": "Et dans le cas contraire ?",
+        "de": "Und wenn nicht?",
+        "es": "Y si no es segura... ¿qué?",
+        "it": "E se non è sicura...",
+        "th": ""
+      },
+      "Speech_0065L": {
+        "en": "GRIMSDOTTIR - Sam, a Predator drone just spotted a Mobile Command Center in the area up ahead. See if you can tap it for intelligence.",
+        "fr": "Un drone Predator a repéré un poste de commandement mobile dans cette zone, droit devant. Essaye de placer un mouchard dessus pour me relier à leur réseau.",
+        "de": "Sam, eine Predator-Drohne hat im Bereich vor dir soeben ein mobiles Kommandozentrum geortet. Versuch es anzuzapfen.",
+        "es": "Sam, hay un Centro de Mando Móvil en tu área. Quiero que intentes hackearlo.",
+        "it": "Sam, un drone Predator ha individuato un centro di comando mobile davanti a te. Cerca di metterlo sotto controllo.",
+        "th": ""
+      },
+      "Speech_0066L": {
+        "en": "FISHER - You don't want me to take it out?",
+        "fr": "Tu ne veux pas que je le détruise ?",
+        "de": "Ihr wollt nicht, dass ich es ausschalte?",
+        "es": "¿Quieres que lo neutralice?",
+        "it": "Non vuoi che lo elimini?",
+        "th": ""
+      },
+      "Speech_0126L": {
+        "en": "GRIMSDOTTIR - No... we could have done that with the Predator.",
+        "fr": "Non, le Predator aurait pu s'en charger.",
+        "de": "Nein ... das hätten wir auch mit der Drohne machen können.",
+        "es": "No. Eso podía haberlo hecho el Predator.",
+        "it": "No... potevamo farlo col Predator.",
+        "th": ""
+      },
+      "Speech_0068L": {
+        "en": "GRIMSDOTTIR - Good job, Sam. With an inside line on the NKA's command network we should be able to funnel useful intelligence to the reg's.",
+        "fr": "Beau travail, Fisher. Cette connexion au réseau de commandement ennemi devrait nous permettre d'obtenir des renseignements cruciaux.",
+        "de": "Gut gemacht, Sam. Die direkte Verbindung zum Kommandonetzwerk der Nordkoreaner ermöglicht es uns bestimmt, die eine oder andere wichtige Information aufzuschnappen.",
+        "es": "Buen trabajo. Con una línea en la red de mando enemiga podremos suministrar información muy útil a nuestro ejército.",
+        "it": "Bel lavoro, Sam. Con una linea interna alla rete nordcoreana riusceremo a recuperare informazioni molto utili.",
+        "th": ""
+      },
+      "Speech_0069L": {
+        "en": "FISHER - Always happy to lend a hand.",
+        "fr": "Heureux d'avoir pu me rendre utile.",
+        "de": "Ich bin immer froh, wenn ich helfen kann.",
+        "es": "Ha sido un placer ayudar.",
+        "it": "Sempre felice di essere d'aiuto.",
+        "th": ""
+      },
+      "Speech_0100L": {
+        "en": "GRIMSDOTTIR - FISHER, those are the main servers for the National Data Trunk every bit of data that moves through here gets tagged in transit.",
+        "fr": "Voici le serveur principal de la banque de données nationale sud-coréenne, la BDN. Toutes les données passant par ici sont enregistrées.",
+        "de": "Fisher, das sind die Hauptserver der Nationalen Datentransferstelle. Alle Daten, die diesen Knotenpunkt passieren, werden erfasst.",
+        "es": "Esos son los servidores principales del Centro Nacional de Datos. Cada bit de información que pasa por aquí queda registrado.",
+        "it": "Fisher, quelli sono i server principali della dorsale dati nazionale. Ogni pacchetto dati che passa da qui viene segnato al passaggio.",
+        "th": ""
+      },
+      "Speech_0101L": {
+        "en": "FISHER - It's smaller than I thought.",
+        "fr": "Je m'attendais à quelque chose de plus gros...",
+        "de": "Ist kleiner, als ich dachte.",
+        "es": "Un sistema inteligente...",
+        "it": "Più piccoli di quanto credessi.",
+        "th": ""
+      },
+      "Speech_0102L": {
+        "en": "GRIMSDOTTIR - And getting smaller every year. Listen, you need to recover the main drives so I can see if the attack that launched the missile came from somewhere else first.",
+        "fr": "Bienvenue dans le monde de la miniaturisation. Récupère le disque dur, que je sache d'où venait l'attaque informatique qui a lancé le missile.",
+        "de": "Tja, die Dinger werden jedes Jahr kleiner. Hör zu ... du musst die Hauptdaten finden, damit ich überprüfen kann, wo der Angriff herkam, der zum Start der Rakete führte.",
+        "es": "Y más a cada año que pasa. Ahora, recupera los discos principales para que yo compruebe si el ataque que disparó el misil procedía de algún otro sitio.",
+        "it": "E diventano sempre più piccoli. Senti, devi recuperare i drive principali, così potrò scoprire se l'attacco che ha lanciato il missile è partito da un nodo precedente.",
+        "th": ""
+      },
+      "Speech_0104L": {
+        "en": "GRIMSDOTTIR - Good. Now get that drive up to the roof and we'll transmit it to the EA-6B.",
+        "fr": "Bien. Maintenant, monte ce disque dur sur le toit et transmets les infos à l'EA-6B.",
+        "de": "Gut. Schaff die Daten aufs Dach und übertrage sie an die EA-6B.",
+        "es": "Bien. Ahora sube el disco al tejado y transmitiremos los datos al EA-6B.",
+        "it": "Bene. Ora porta quel drive sul tetto e trasmetteremo i dati all'EA-6B.",
+        "th": ""
+      },
+      "Speech_0105L": {
+        "en": "FISHER - Why can't you just read it from here?",
+        "fr": "Tu ne peux pas les lire d'ici ?",
+        "de": "Warum kannst du sie denn nicht von hier aus auslesen?",
+        "es": "¿Por qué no los puedes leer desde aquí?",
+        "it": "Non potete leggerlo direttamente?",
+        "th": ""
+      },
+      "Speech_0106L": {
+        "en": "GRIMSDOTTIR - It will take too long to guarantee a secure link, and if the DPRK intercepts it",
+        "fr": "Crypter le transfert prendrait trop de temps, et si les Nord-Coréens l'interceptent...",
+        "de": "Es würde zu lange dauern, bis eine sichere Verbindung besteht. Abgesehen davon könnten unsere nordkoreanischen Freunde die Daten ebenfalls empfangen.",
+        "es": "Tardaría demasiado en conseguir una conexión segura, y si los coreanos la interceptan...",
+        "it": "Ci vorrebbe troppo per garantire un collegamento sicuro, e se i nordcoreani lo intercettano...",
+        "th": ""
+      },
+      "Speech_0107L": {
+        "en": "FISHER - Then this mission is a waste of time.",
+        "fr": "Cette mission n'aura servi à rien. OK.",
+        "de": "Und dann wäre diese Mission ein reine Zeitverschwendung gewesen.",
+        "es": "...esta misión habrá sido inútil.",
+        "it": "...questa missione sarà stata uno spreco di tempo.",
+        "th": ""
+      },
+      "Speech_0108L": {
+        "en": "REDDING - Listen, there aren't any alarms to worry about, but anyone you encounter will probably already be alert.",
+        "fr": "Il ne devrait pas y avoir d'alarmes, mais tout le monde doit déjà être en état d'alerte.",
+        "de": "Hör zu ... es gibt keine Alarmsysteme, um die du dir Sorgen machen müsstest. Aber jeder, dem du begegnen wirst, ist angesichts der aktuellen Lage sowieso schon alarmiert.",
+        "es": "No hay alarmas, pero si te encuentras con alguien lo más probable es que esté alerta.",
+        "it": "Senti, non ci sono allarmi di cui preoccuparsi, ma chiunque incontri sarà già in allerta.",
+        "th": ""
+      },
+      "Speech_0109L": {
+        "en": "FISHER - I'll be careful.",
+        "fr": "Je ferai attention.",
+        "de": "Ich werde aufpassen.",
+        "es": "Tendré cuidado.",
+        "it": "Sarò prudente.",
+        "th": ""
+      },
+      "Speech_0110L": {
+        "en": "REDDING - You have a lot of ground to cover, Sam, watch out for booby-traps.",
+        "fr": "Tu as beaucoup de terrain à couvrir, Fisher. Et attention aux pièges...",
+        "de": "Das ist ein ziemlich großes Gebiet. Denk daran, dass überall dort Fallen sein könnten.",
+        "es": "Tienes que cubrir mucho terreno, Sam. Cuidado con las trampas.",
+        "it": "Devi coprire un'estensione di terreno notevole, Sam, occhio alle trappole.",
+        "th": ""
+      },
+      "Speech_0111L": {
+        "en": "FISHER - I memorized the Field Manual before you were even born, Will.",
+        "fr": "Je connaissais déjà le manuel par coeur avant que tu soies né, Will.",
+        "de": "Ja, ja ... ich weiß. Ich habe schon Einsatzhandbücher gelesen, als du noch nicht geboren warst, Will.",
+        "es": "Oye, Will, antes de que tú nacieras, yo ya me sabía el manual de memoria.",
+        "it": "Ho imparato a memoria il manuale operativo prima che tu nascessi, Will.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_HQCom_Summaries": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "LAMBERT - FISHER, try and disable their propaganda broadcasts.",
+        "fr": "Essayez de détruire les haut-parleurs qui diffusent leur propagande.",
+        "de": "Fisher, versuch ihre Propaganda-Übertragungssysteme auszuschalten.",
+        "es": "Fisher, quiero que acabes con sus emisiones de propaganda.",
+        "it": "Fisher, cerca di disattivare i loro trasmettitori di propaganda.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "LAMBERT - Good work Sam. That's the last propaganda broadcast point.",
+        "fr": "Beau travail, Fisher. Il n'y a pas d'autre haut-parleur dans le secteur.",
+        "de": "Gute Arbeit, Sam. Das was das letzte Propaganda-Übertragungssystem.",
+        "es": "Buen trabajo. Ése era el último altavoz de propaganda.",
+        "it": "Bel lavoro, Sam. Quello è l'ultimo punto di trasmissione.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "LAMBERT - FISHER, you need to interrogate one of the Special Forces troops to find out where they left their passenger.",
+        "fr": "Interrogez un des membres des forces spéciales nord-coréennes afin de savoir où ils ont amené l'objectif de l'autre cellule, Fisher.",
+        "de": "Fisher, du musst einen Angehörigen dieser Spezialeinheit verhören, um herauszufinden, wo ihr Gast geblieben ist.",
+        "es": "Tienes que interrogar a un miembro de las fuerzas especiales para saber dónde tienen a su hombre.",
+        "it": "Fisher, devi interrogare un membro delle forze speciali per scoprire dove hanno lasciato il loro passeggero.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "LAMBERT - FISHER, you need to grab the drives out of the NDT before you go to the roof to transmit.",
+        "fr": "Il vous faut le disque dur de la BDN avant de monter sur le toit pour émettre, Fisher.",
+        "de": "Fisher, du musst die Daten aus der NDT bergen, bevor du sie vom Dach aus übertragen kannst.",
+        "es": "Fisher, antes de subir al tejado a transmitir tienes que sacar los discos del CND.",
+        "it": "Fisher, devi tirare fuori i drive dal server della dorsale prima di andare sul tetto a trasmettere.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "GRIMSDOTTIR - Good job, Sam. With an inside line on the NKA's command network we should be able to funnel useful intelligence to the reg's.",
+        "fr": "Beau travail, Fisher. Cette connexion au réseau de commandement ennemi devrait nous permettre d'obtenir des renseignements cruciaux.",
+        "de": "Gut gemacht, Sam. Mit einem direkten Draht in das Kommandonetzwerk der Nordkoreaner sollte es uns ein Leichtes sein, Informationen für die Armee zu beschaffen.",
+        "es": "Buen trabajo. Con una línea en la red de mando enemiga podremos suministrar información muy útil a nuestro ejército.",
+        "it": "Ben fatto, Sam. Una linea interna alla rete di comando nordcoreana dovrebbe aiutarci a recuperare molte informazioni preziose.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "GRIMSDOTTIR - Good work Sam. Take the drive up the roof so we can transmit the data to the EA-6B.",
+        "fr": "Beau travail, Fisher. Monte le disque dur sur le toit pour transmettre les données à l'EA-6B.",
+        "de": "Gut gemacht, Sam. Bring die Daten aufs Dach, damit du sie an die EA-6B übertragen kannst.",
+        "es": "Bien. Ahora sube el disco al tejado y transmitiremos los datos al EA-6B.",
+        "it": "Ottimo lavoro, Sam. Porta quel drive sul tetto e trasmetteremo i dati all'EA-6B.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "REDDING - There won't be any alarms to worry about... everyone is already alert... but keep your eyes peeled for booby-traps and mines.",
+        "fr": "Il ne devrait pas y avoir d'alarmes, mais tout le monde doit déjà être en état d'alerte. Et attention aux pièges et aux mines.",
+        "de": "Es gibt keine Alarmsysteme, um die du dir Sorgen machen müsstest. Aber jeder, den du hier triffst, wird sehr wachsam sein... und pass auf, dass du nicht in Fallen oder Minen rennst.",
+        "es": "No tienes que preocuparte por las alarmas, pero todo el mundo está alerta. Cuidado con las trampas y las minas.",
+        "it": "Non hai allarmi di cui preoccuparti... tutti sono già in allerta... ma tieni gli occhi aperti, potrebbero esserci delle trappole.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Interro_Elite": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0026L": {
+        "en": "FISHER - Stay quiet and you might live.",
+        "fr": "Ne fais pas de bruit et tu auras la vie sauve.",
+        "de": "Wenn du leise bist, bleibst du vielleicht am Leben.",
+        "es": "No grites y te dejaré vivir.",
+        "it": "Stai zitto e vivrai.",
+        "th": ""
+      },
+      "Speech_0027L": {
+        "en": "NKElite_Soo - Wh! Who?",
+        "fr": "Que... qui ?",
+        "de": "W... wer sind Sie?",
+        "es": "¿Quién...?",
+        "it": "Co...! Chi?",
+        "th": ""
+      },
+      "Speech_0131L": {
+        "en": "FISHER - Shut it... LAMBERT... I've got one.",
+        "fr": "La ferme ! Lambert, j'en tiens un.",
+        "de": "Ruhe ... Lambert ... ich habe einen.",
+        "es": "Calla. Tengo a uno, Lambert.",
+        "it": "Zitto... Lambert... ne ho preso uno.",
+        "th": ""
+      },
+      "Speech_0132L": {
+        "en": "LAMBERT - Good job FISHER, I'm going to patch you through direct... hold on.",
+        "fr": "Beau travail, Fisher. Attendez, je vous connecte en direct...",
+        "de": "Gut gemacht, Fisher. Ich werde dich direkt weiterverbinden ... Moment.",
+        "es": "Buen trabajo, Fisher. Voy a darte línea directa. Aguanta...",
+        "it": "Bel lavoro, Fisher, sto cercando di metterti in contatto... aspetta.",
+        "th": ""
+      },
+      "Speech_0029L": {
+        "en": "FISHER - Stay calm... this'll just take a sec.",
+        "fr": "Ne bouge pas, il y en a juste pour une seconde.",
+        "de": "Schön ruhig bleiben ... das dauert nur eine Minute.",
+        "es": "Calma. Sólo será un segundo.",
+        "it": "Stai calmo... ci vorrà un secondo.",
+        "th": ""
+      },
+      "Speech_0030L": {
+        "en": "NKElite_Soo - Oh... okay...",
+        "fr": "D'a... d'accord...",
+        "de": "Oh ... okay, gut.",
+        "es": "Está bien...",
+        "it": "Oh... ok...",
+        "th": ""
+      },
+      "Speech_0133L": {
+        "en": "LAMBERT - Alright, FISHER, go ahead...",
+        "fr": "Bien, allez-y, Fisher.",
+        "de": "In Ordnung, Fisher, leg los ... ",
+        "es": "Cuando quieras, Fisher.",
+        "it": "Bene, Fisher, procedi.",
+        "th": ""
+      },
+      "Speech_0134L": {
+        "en": "FISHER - I've got someone who wants to talk to you...",
+        "fr": "Il y a quelqu'un qui veut te parler...",
+        "de": "Ich habe hier jemanden, der mit euch sprechen möchte.",
+        "es": "Hay alguien que quiere hablar contigo.",
+        "it": "C'è qualcuno che vuole parlare con te...",
+        "th": ""
+      },
+      "Speech_0135L": {
+        "en": "MP_One - Roger... ask him where they took Jong.",
+        "fr": "Bien, demandez-lui où ils ont emmené Jong.",
+        "de": "Verstanden ... fragen Sie ihn, wo sie Jong hingebracht haben.",
+        "es": "Recibido. Pregúntale dónde cogieron a Jong.",
+        "it": "Ricevuto... gli chieda dove hanno portato Jong.",
+        "th": ""
+      },
+      "Speech_0034L": {
+        "en": "FISHER - Where did you take Jong?",
+        "fr": "Où avez-vous emmené Jong ?",
+        "de": "Wo habt ihr Jong hingebracht?",
+        "es": "¿Dónde cogisteis a Jong?",
+        "it": "Dove avete portato Jong?",
+        "th": ""
+      },
+      "Speech_0035L": {
+        "en": "NKElite_Soo - I... I don't know what you're talking about...",
+        "fr": "Je... j'ignore de quoi vous parlez.",
+        "de": "Ich ... ich weiß nicht, wovon Sie sprechen ...",
+        "es": "No sé de qué me estás hablando...",
+        "it": "Non... non so di cosa stai parlando...",
+        "th": ""
+      },
+      "Speech_0136L": {
+        "en": "FISHER - He's not answering... should I kill him?",
+        "fr": "Il refuse de répondre... je le tue ?",
+        "de": "Er weiß es nicht ... soll ich ihn umlegen?",
+        "es": "No contesta. ¿Lo elimino?",
+        "it": "Non risponde... devo ucciderlo?",
+        "th": ""
+      },
+      "Speech_0137L": {
+        "en": "MP_One - Negative! Negative!",
+        "fr": "Négatif ! Négatif !",
+        "de": "Negativ! Negativ!",
+        "es": "¡Negativo! ¡Negativo!",
+        "it": "Negativo! Negativo!",
+        "th": ""
+      },
+      "Speech_0038L": {
+        "en": "FISHER - Alright... they say I should kill you, so--",
+        "fr": "Bon, alors, ils veulent que je te tue...",
+        "de": "Okay ... sie sagen, dass ich dich umlegen soll, also ...",
+        "es": "Me han dicho que te elimine, así que...",
+        "it": "Ricevuto... dicono che devo ucciderti, quindi...",
+        "th": ""
+      },
+      "Speech_0039L": {
+        "en": "NKElite_Soo - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
+        "fr": "Attendez ! Jong... oui... il est dans un cybercafé proche du fleuve, à côté du marché aux poissons.",
+        "de": "He, Moment! Okay ... Jong ... wir haben ihn in das Internetcafe beim Fischmarkt am Fluss gebracht ...",
+        "es": "Un momento... Jong... Lo llevamos a un cibercafé, junto al mercado del  río.",
+        "it": "Aspetta... ok... Jong... l'abbiamo portato in un Internet point appena fuori dal mercato del pesce, vicino al fiume.",
+        "th": ""
+      },
+      "Speech_0138L": {
+        "en": "FISHER - Is that what you needed to know guys?",
+        "fr": "C'est ce que vous vouliez savoir, les gars ?",
+        "de": "War es das, was ihr wissen wolltet, Jungs?",
+        "es": "¿Era lo que queríais saber, chicos?",
+        "it": "È quello che volevate sapere, ragazzi?",
+        "th": ""
+      },
+      "Speech_0139L": {
+        "en": "MP_One - Ah... affirmative... thanks a lot, sir. We owe you one.",
+        "fr": "Affirmatif. Merci. A charge de revanche !",
+        "de": "Äh ... bestätigt ... danke sehr, Sir. Wir schulden Ihnen was.",
+        "es": "Afirmativo, señor. Muchas gracias. Le debemos una.",
+        "it": "Ehm... affermativo... grazie, signore. Le siamo in debito.",
+        "th": ""
+      },
+      "Speech_0140L": {
+        "en": "FISHER - Welcome to the team.",
+        "fr": "Bienvenue au club...",
+        "de": "Willkommen im Team.",
+        "es": "Bienvenidos al equipo.",
+        "it": "Benvenuti nella squadra.",
+        "th": ""
+      },
+      "Speech_0141L": {
+        "en": "FISHER - Shut it... LAMBERT... I've got one.",
+        "fr": "La ferme ! Lambert, j'en tiens un.",
+        "de": "Ruhe ... Lambert ... ich habe einen.",
+        "es": "Calla. Tengo a uno, Lambert.",
+        "it": "Zitto... Lambert... ne ho preso uno.",
+        "th": ""
+      },
+      "Speech_0142L": {
+        "en": "LAMBERT - Alright, FISHER, go ahead...",
+        "fr": "Bien, allez-y, Fisher.",
+        "de": "In Ordnung, Fisher, leg los ... ",
+        "es": "Cuando quieras, Fisher.",
+        "it": "Bene, Fisher, procedi.",
+        "th": ""
+      },
+      "Speech_0143L": {
+        "en": "FISHER - Where did you take Jong?",
+        "fr": "Où avez-vous emmené Jong ?",
+        "de": "Wo habt ihr Jong hingebracht?",
+        "es": "¿Dónde cogisteis a Jong?",
+        "it": "Dove avete portato Jong?",
+        "th": ""
+      },
+      "Speech_0144L": {
+        "en": "NKElite_Soo - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
+        "fr": "Attendez ! Jong... oui... il est dans un cybercafé proche du fleuve, à côté du marché aux poissons.",
+        "de": "He, Moment! Okay ... Jong ... wir haben ihn in das Internetcafe beim Fischmarkt am Fluss gebracht ...",
+        "es": "Un momento... Jong... Lo llevamos a un cibercafé, junto al mercado del  río.",
+        "it": "Aspetta... ok... Jong... l'abbiamo portato in un Internet point appena fuori dal mercato del pesce, vicino al fiume.",
+        "th": ""
+      },
+      "Speech_0129L": {
+        "en": "NKElit_Soo - Now what are you going to do?",
+        "fr": "Qu'est-ce que vous allez me faire ?",
+        "de": "Was wollen Sie jetzt tun?",
+        "es": "¿Y ahora qué vas a hacer?",
+        "it": "E ora cosa farai?",
+        "th": ""
+      },
+      "Speech_0130L": {
+        "en": "NKElit_Soo - I don't know anything else.",
+        "fr": "Je ne sais rien d'autre.",
+        "de": "Ich weiß wirklich nichts.",
+        "es": "No sé nada más.",
+        "it": "Non so altro.",
+        "th": ""
+      },
+      "Speech_0145L": {
+        "en": "NKElit_Soo - Now what are you going to do?",
+        "fr": "Qu'est-ce que vous allez me faire ?",
+        "de": "Was wollen Sie jetzt tun?",
+        "es": "¿Y ahora qué vas a hacer?",
+        "it": "E ora cosa farai?",
+        "th": ""
+      },
+      "Speech_0146L": {
+        "en": "NKElit_Soo - Now what are you going to do?",
+        "fr": "Qu'est-ce que vous allez me faire ?",
+        "de": "Was wollen Sie jetzt tun?",
+        "es": "¿Y ahora qué vas a hacer?",
+        "it": "E ora cosa farai?",
+        "th": ""
+      },
+      "Speech_0147L": {
+        "en": "NKElit_Soo - I don't know anything else.",
+        "fr": "Je ne sais rien d'autre.",
+        "de": "Ich weiß wirklich nichts.",
+        "es": "No sé nada más.",
+        "it": "Non so altro.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Interro_Elite_Li": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "FISHER - Stay quiet and you might live.",
+        "fr": "Ne fais pas de bruit et tu auras la vie sauve.",
+        "de": "Wenn du leise bist, bleibst du vielleicht am Leben.",
+        "es": "No grites y te dejaré vivir.",
+        "it": "Stai zitto e vivrai.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKElite_Li - Wh! Who?",
+        "fr": "Que... qui ?",
+        "de": "W... wer sind Sie?",
+        "es": "¿Quién...?",
+        "it": "Co...! Chi?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "FISHER - Shut it... LAMBERT... I've got one.",
+        "fr": "La ferme ! Lambert, j'en tiens un.",
+        "de": "Ruhe ... Lambert ... ich habe einen.",
+        "es": "Calla. Tengo a uno, Lambert.",
+        "it": "Zitto... Lambert... ne ho preso uno.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "LAMBERT - Good job FISHER, I'm going to patch you through direct... hold on.",
+        "fr": "Beau travail, Fisher. Attendez, je vous connecte en direct...",
+        "de": "Gut gemacht, Fisher. Ich werde dich direkt weiterverbinden ... Moment.",
+        "es": "Buen trabajo, Fisher. Voy a darte línea directa. Aguanta...",
+        "it": "Bel lavoro, Fisher, sto cercando di metterti in contatto... aspetta.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "FISHER - Stay calm... this'll just take a sec.",
+        "fr": "Ne bouge pas, il y en a juste pour une seconde.",
+        "de": "Schön ruhig bleiben ... das dauert nur eine Minute.",
+        "es": "Calma. Sólo será un segundo.",
+        "it": "Stai calmo... ci vorrà un secondo.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKElite_Li - Oh... okay...",
+        "fr": "D'a... d'accord...",
+        "de": "Oh ... okay, gut.",
+        "es": "Está bien...",
+        "it": "Oh... ok...",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "LAMBERT - Alright, FISHER, go ahead...",
+        "fr": "Bien, allez-y, Fisher.",
+        "de": "In Ordnung, Fisher, leg los ... ",
+        "es": "Cuando quieras, Fisher.",
+        "it": "Bene, Fisher, procedi.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "FISHER - I've got someone who wants to talk to you...",
+        "fr": "Il y a quelqu'un qui veut te parler...",
+        "de": "Ich habe hier jemanden, der mit euch sprechen möchte.",
+        "es": "Hay alguien que quiere hablar contigo.",
+        "it": "C'è qualcuno che vuole parlare con te...",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "MP_One - Roger... ask him where they took Jong.",
+        "fr": "Bien, demandez-lui où ils ont emmené Jong.",
+        "de": "Verstanden ... fragen Sie ihn, wo sie Jong hingebracht haben.",
+        "es": "Recibido. Pregúntale dónde cogieron a Jong.",
+        "it": "Ricevuto... gli chieda dove hanno portato Jong.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "FISHER - Where did you take Jong?",
+        "fr": "Où avez-vous emmené Jong ?",
+        "de": "Wo habt ihr Jong hingebracht?",
+        "es": "¿Dónde cogisteis a Jong?",
+        "it": "Dove avete portato Jong?",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "NKElite_Li - I... I don't know what you're talking about...",
+        "fr": "Je... j'ignore de quoi vous parlez.",
+        "de": "Ich ... ich weiß nicht, wovon Sie sprechen ...",
+        "es": "No sé de qué me estás hablando...",
+        "it": "Non... non so di cosa stai parlando...",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "FISHER - He's not answering... should I kill him?",
+        "fr": "Il refuse de répondre... je le tue ?",
+        "de": "Er weiß es nicht ... soll ich ihn umlegen?",
+        "es": "No contesta. ¿Lo elimino?",
+        "it": "Non risponde... devo ucciderlo?",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "MP_One - Negative! Negative!",
+        "fr": "Négatif ! Négatif !",
+        "de": "Negativ! Negativ!",
+        "es": "¡Negativo! ¡Negativo!",
+        "it": "Negativo! Negativo!",
+        "th": ""
+      },
+      "Speech_0014L": {
+        "en": "FISHER - Alright... they say I should kill you, so--",
+        "fr": "Bon, alors, ils veulent que je te tue...",
+        "de": "Okay ... sie sagen, dass ich dich umlegen soll, also ...",
+        "es": "Me han dicho que te elimine, así que...",
+        "it": "Ricevuto... dicono che devo ucciderti, quindi...",
+        "th": ""
+      },
+      "Speech_0015L": {
+        "en": "NKElite_Li - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
+        "fr": "Attendez ! Jong... oui... il est dans un cybercafé proche du fleuve, à côté du marché aux poissons.",
+        "de": "He, Moment! Okay ... Jong ... wir haben ihn in das Internetcafe beim Fischmarkt am Fluss gebracht ...",
+        "es": "Un momento... Jong... Lo llevamos a un cibercafé, junto al mercado del  río.",
+        "it": "Aspetta... ok... Jong... l'abbiamo portato in un Internet point appena fuori dal mercato del pesce, vicino al fiume.",
+        "th": ""
+      },
+      "Speech_0016L": {
+        "en": "FISHER - Is that what you needed to know guys?",
+        "fr": "C'est ce que vous vouliez savoir, les gars ?",
+        "de": "War es das, was ihr wissen wolltet, Jungs?",
+        "es": "¿Era lo que queríais saber, chicos?",
+        "it": "È quello che volevate sapere, ragazzi?",
+        "th": ""
+      },
+      "Speech_0017L": {
+        "en": "MP_One - Ah... affirmative... thanks a lot, sir. We owe you one.",
+        "fr": "Affirmatif. Merci. A charge de revanche !",
+        "de": "Äh ... bestätigt ... danke sehr, Sir. Wir schulden Ihnen was.",
+        "es": "Afirmativo, señor. Muchas gracias. Le debemos una.",
+        "it": "Ehm... affermativo... grazie, signore. Le siamo in debito.",
+        "th": ""
+      },
+      "Speech_0018L": {
+        "en": "FISHER - Welcome to the team.",
+        "fr": "Bienvenue au club...",
+        "de": "Willkommen im Team.",
+        "es": "Bienvenidos al equipo.",
+        "it": "Benvenuti nella squadra.",
+        "th": ""
+      },
+      "Speech_0028L": {
+        "en": "FISHER - Shut it... LAMBERT... I've got one.",
+        "fr": "La ferme ! Lambert, j'en tiens un.",
+        "de": "Ruhe ... Lambert ... ich habe einen.",
+        "es": "Calla. Tengo a uno, Lambert.",
+        "it": "Zitto... Lambert... ne ho preso uno.",
+        "th": ""
+      },
+      "Speech_0029L": {
+        "en": "LAMBERT - Alright, FISHER, go ahead...",
+        "fr": "Bien, allez-y, Fisher.",
+        "de": "In Ordnung, Fisher, leg los ... ",
+        "es": "Cuando quieras, Fisher.",
+        "it": "Bene, Fisher, procedi.",
+        "th": ""
+      },
+      "Speech_0030L": {
+        "en": "FISHER - Where did you take Jong?",
+        "fr": "Où avez-vous emmené Jong ?",
+        "de": "Wo habt ihr Jong hingebracht?",
+        "es": "¿Dónde cogisteis a Jong?",
+        "it": "Dove avete portato Jong?",
+        "th": ""
+      },
+      "Speech_0031L": {
+        "en": "NKElite_Li - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
+        "fr": "Attendez ! Jong... oui... il est dans un cybercafé proche du fleuve, à côté du marché aux poissons.",
+        "de": "He, Moment! Okay ... Jong ... wir haben ihn in das Internetcafe beim Fischmarkt am Fluss gebracht ...",
+        "es": "Un momento... Jong... Lo llevamos a un cibercafé, junto al mercado del  río.",
+        "it": "Aspetta... ok... Jong... l'abbiamo portato in un Internet point appena fuori dal mercato del pesce, vicino al fiume.",
+        "th": ""
+      },
+      "Speech_0023L": {
+        "en": "NKElit_Li - Now what are you going to do?",
+        "fr": "Qu'est-ce que vous allez me faire ?",
+        "de": "Was wollen Sie jetzt tun?",
+        "es": "¿Y ahora qué vas a hacer?",
+        "it": "E ora cosa farai?",
+        "th": ""
+      },
+      "Speech_0024L": {
+        "en": "NKElit_Li - I don't know anything else.",
+        "fr": "Je ne sais rien d'autre.",
+        "de": "Ich weiß wirklich nichts.",
+        "es": "No sé nada más.",
+        "it": "Non so altro.",
+        "th": ""
+      },
+      "Speech_0025L": {
+        "en": "NKElit_Li - Now what are you going to do?",
+        "fr": "Qu'est-ce que vous allez me faire ?",
+        "de": "Was wollen Sie jetzt tun?",
+        "es": "¿Y ahora qué vas a hacer?",
+        "it": "E ora cosa farai?",
+        "th": ""
+      },
+      "Speech_0026L": {
+        "en": "NKElit_Li - Now what are you going to do?",
+        "fr": "Qu'est-ce que vous allez me faire ?",
+        "de": "Was wollen Sie jetzt tun?",
+        "es": "¿Y ahora qué vas a hacer?",
+        "it": "E ora cosa farai?",
+        "th": ""
+      },
+      "Speech_0027L": {
+        "en": "NKElit_Li - I don't know anything else.",
+        "fr": "Je ne sais rien d'autre.",
+        "de": "Ich weiß wirklich nichts.",
+        "es": "No sé nada más.",
+        "it": "Non so altro.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Interro_Garden_Sol": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "FISHER - What's with the truck?",
+        "fr": "Qu'est-ce que c'est que ce camion ?",
+        "de": "Was ist mit dem Laster?",
+        "es": "¿Qué hay en ese camión?",
+        "it": "Cos'è quel furgone?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Chin - Oh... damn... It's a Mobile Command Center... for battlefield management.",
+        "fr": "Oh, mon dieu ! C'est un poste de commandement mobile, pour nos officiers...",
+        "de": "Oh ... verdammt ... das ist eine mobile Kommandozentrale ... zur vorgeschobenen Koordinierung des Einsatzes.",
+        "es": "Es un Centro de Mando Móvil... Coordina operaciones en el campo de batalla.",
+        "it": "Oh... merda... è un centro di comando mobile... per il controllo del campo di battaglia.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "FISHER - It's tied into the NKA central networks?",
+        "fr": "Il est relié au réseau centralisé ?",
+        "de": "Ist sie mit dem Zentralnetzwerk der nordkoreanischen Armee verbunden?",
+        "es": "¿Está conectado con las redes centrales?",
+        "it": "È collegato alle reti centrali dell'esercito?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_Chin - Yeah...",
+        "fr": "Oui.",
+        "de": "Ja ...",
+        "es": "Sí...",
+        "it": "Sì.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "FISHER - I bet a curious guy could get a lot of useful intelligence out of one of those....",
+        "fr": "Je parie qu'il peut servir à dégoter des tas de renseignements intéressants...",
+        "de": "Hmm ... Wette, ein richtig neugieriger Zeitgenosse könnte da an einige wichtige Informationen herankommen, was?",
+        "es": "Así que un espía podría obtener información muy útil si entrara en él...",
+        "it": "Scommetto che a essere curiosi se ne potrebbero tirare fuori tante informazioni interessanti.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKSol_Chin - You didn't hear it from me.",
+        "fr": "Vous ne le tenez pas de moi.",
+        "de": "Sagen Sie bitte nicht, dass Sie das von mir wissen.",
+        "es": "Yo no he dicho nada.",
+        "it": "Non sono stato io a dirtelo.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKSol_Chin - We have orders to protect the MCC... but... I'm on a break.",
+        "fr": "Nous avons ordre de défendre le PC mobile, mais c'est ma pause.",
+        "de": "Wir sollen die mobile Kommandozentrale beschützen ... aber ich ... ich mache gerade Pause.",
+        "es": "Tenemos orden de proteger el CMM, pero yo estoy en mi rato de descanso.",
+        "it": "Abbiamo l'ordine di difendere il centro di comando mobile... ma... adesso sono in pausa.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Interro_Garden_Tech": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "FISHER - Nice truck...",
+        "fr": "Chouette camion...",
+        "de": "Schöner Laster ...",
+        "es": "Bonito camión.",
+        "it": "Bel furgone...",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKTech_Ming - Ah... ulp... it's... it's not mine...",
+        "fr": "Ah ! Euh... c'est pas le mien.",
+        "de": "Ah ... glck ... er ... er gehört nicht mir.",
+        "es": "Ah... Gulp... No es mío...",
+        "it": "Ah... ulp... non... non è mio...",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "FISHER - So you probably won't mind if I access it for a second?",
+        "fr": "Ça ne te dérange pas si je te l'emprunte quelques instants, alors ?",
+        "de": "Du hättest also nichts dagegen, wenn ich ihn mal einen Moment lang benutze?",
+        "es": "Entonces no te importará que entre unos segundos.",
+        "it": "Quindi non ti dà fastidio se ci metto le mani sopra?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKTech_Ming - Well... I won't mind as long as you don't kill me.",
+        "fr": "Non, si vous ne me tuez pas.",
+        "de": "Ich ... ich habe nichts dagegen ... solange Sie mich nicht töten.",
+        "es": "Puedes entrar, siempre que no me mates.",
+        "it": "Beh... non è un problema, se non mi uccidi.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "FISHER - I'll think about it.",
+        "fr": "Je vais y réfléchir...",
+        "de": "Hmm ... ich werde mir das durch den Kopf gehen lassen.",
+        "es": "Me lo pensaré.",
+        "it": "Ci penserò.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "NKTech_Ming - Please... I don't want to die for a stupid truck...",
+        "fr": "Je ne veux pas mourir pour un bête camion...",
+        "de": "Bitte ... ich will nicht wegen eines blöden LKW sterben ...",
+        "es": "Por favor... No quiero morir por un camión.",
+        "it": "Ti prego... non voglio morire per uno stupido furgone...",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "NKTech_Ming - I'm just a stupid technician...",
+        "fr": "Je ne suis qu'un technicien sans défense...",
+        "de": "Ich bin nur ein einfacher Techniker ...",
+        "es": "Sólo soy un pobre técnico...",
+        "it": "Sono solo uno stupido tecnico...",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Interro_NDT_C4_Sol": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "FISHER - Shhh... quiet or I'll have to hurt you...",
+        "fr": "Chut ! Silence, ou je vais devoir te tuer...",
+        "de": "Schhh ... leise ... oder ich werde dir weh tun müssen ...",
+        "es": "Silencio, o tendré que hacerte daño.",
+        "it": "Shhh... piano o dovrò farti del male...",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Bong - Oh, no.",
+        "fr": "Oh, non !",
+        "de": "Oh, nein.",
+        "es": "¡Oh, no!",
+        "it": "Oh, no.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "FISHER - What is your mission?",
+        "fr": "Quelle est votre mission ?",
+        "de": "Wie lautet euer Befehl?",
+        "es": "¿Cuál es tu misión?",
+        "it": "Qual'è la tua missione?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_Bong - We're here to secure the structure and tap into the South Korean National Data Trunk.",
+        "fr": "Nous sommes ici pour occuper le bâtiment et nous relier à la banque de données centralisée sud-coréenne.",
+        "de": "Wir sind hier, um dieses Gebäude zu sichern und der Nationalen Datentransferstelle Südkoreas anzuzapfen.",
+        "es": "Asegurar las infraestructuras y vigilar el Centro Nacional de Datos de Corea del Sur.",
+        "it": "Siamo qui per conquistare la struttura ed inserirci nella dorsale dati nazionale della Corea del Sud.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "FISHER - What are you looking for?",
+        "fr": "Vous cherchez quoi, au juste ?",
+        "de": "Wonach sucht ihr?",
+        "es": "¿Qué estás buscando?",
+        "it": "Cosa state cercando?",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKSol_Bong - As far as I know... nothing specific... but... since you're here... maybe we'd like to look for whatever you're looking for...",
+        "fr": "Rien de précis, que je sache... mais vu que vous êtes là, c'est peut-être la même chose que vous qui intéresse nos chefs...",
+        "de": "So weit ich weiß ...  nach nichts Speziellem ... aber ... da Sie hier sind ... suchen wir vermutlich nach derselben Sache ...",
+        "es": "Por lo que sé, nada concreto... Pero ya que estás aquí... puedo ayudarte a encontrar lo que buscas tú.",
+        "it": "Per quanto ne so io... niente in particolare... ma... visto che sei qui... magari ci va di cercare quello che cerchi tu...",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "FISHER - I guess I'll have to make sure no one knows you saw me.",
+        "fr": "Dans ce cas, personne ne doit savoir que je suis là...",
+        "de": "Hmm ... ich muss wohl dafür sorgen, dass du niemandem von mir erzählst.",
+        "es": "Debo asegurarme de que nadie sepa que me has visto.",
+        "it": "Dovrò assicurarmi che nessuno sappia che mi hai visto.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKSol_Bong - Oh... god... please don't kill me.",
+        "fr": "Oh, non ! Je vous en prie, ne me tuez pas !",
+        "de": "Oh, Gott ... bitte töten Sie mich nicht.",
+        "es": "Oh... por favor... no me mates...",
+        "it": "Oh.. dio... ti prego, non uccidermi.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "NKSol_Bong - I'll give you all my money... please.",
+        "fr": "Je vous donnerai tout ce que j'ai... s'il vous plaît...",
+        "de": "Ich gebe Ihnen all mein Geld ... bitte.",
+        "es": "Te daré todo mi dinero... Por favor...",
+        "it": "Ti darò tutti i miei soldi... ti prego.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "NKSol_Bong - I feel sick...",
+        "fr": "Je ne me sens pas bien...",
+        "de": "Mir wird schlecht ...",
+        "es": "Me encuentro fatal...",
+        "it": "Mi sento male...",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_NK_Propaganda": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "Democratic Party Korean Sibling! Observe your American guardian flee as butter-fattened ducks steamed for the slaughter! Refuse their fraudulent escapists! Embrace us your truth one liberators!",
+        "fr": "Frères du parti démocratique coréen ! Voyez comment vos gardiens américains s'enfuient comme des oies engraissées en prévision du festin ! Rejetez-les et accueillez vos vrais libérateurs à bras ouverts !",
+        "de": "Kinder der Demokratischen Partei! Seht nur, wie eure amerikanischen Beschützer die Flucht ergreifen! Sie fliehen wie Mastgänse, die man zur Schlachtbank bringen will! Lasst euch von ihren betrügerischen Ideen nicht blenden! Heißt uns als eure wahren Befreier willkommen!",
+        "es": "¡Camarada coreano! ¡Observa como los opresores americanos huyen como cerdos cebados para la matanza! ¡Rechaza sus engaños y sus mentiras! ¡Recibe a tus auténticos libertadores!",
+        "it": "Fratelli del Partito Democratico Coreano! Guardate i vostri alleati americani fuggire come anatre grasse dirette al macello! Rifiutate la loro codardia! Unitevi a noi, i vostri liberatori!",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "Our Democratic Party Army is your sibling Korean Army! The oppressor is your lazy American demon. Us and freedom, combine the life which is peaceful and eternal, united together forever!",
+        "fr": "L'armée du Parti démocratique est également la vôtre ! Les oppresseurs sont les démons américains. Unissons-nous pour vivre durablement dans la paix et la liberté !",
+        "de": "In unserer Volksarmee dienen eure Brüder, koreanische Freunde! Der Unterdrücker trägt die Fratze der USA! Freiheit und ewiger Friede werden uns gemeinsam für immer zuteil werden!",
+        "es": "¡El Ejército Popular es tu hermano, camarada coreano! Los decadentes americanos son vuestros opresores. ¡Uníos a nosotros, vuestros hermanos, en paz y libertad eternas!",
+        "it": "Esercito Coreano, l'Esercito del Partito Democratico è vostro fratello! L'oppressore è il pigro demone americano. Noi siamo la libertà, la pace, uniti per sempre!",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Korean Sibling! Our combined enemy is the lard-mongering American person. By the effort which combines us, we shall them repulse from our homeland! Give them gifts of humiliating defeat and death most miserable!",
+        "fr": "Frères coréens ! Les impérialistes américains sont nos ennemis communs ! Unissons-nous pour les chasser de notre beau pays ! Nous n'avons que deux cadeaux pour eux : une mort ignominieuse et la plus abjecte des défaites !",
+        "de": "Kinder Koreas! Unser gemeinsamer Feind sind die Amerikaner, mit ihren feigen Lügen. Gemeinsam werden wir sie aus unserer angestammten Heimat vertreiben! Fügt ihnen eine schmachvolle Niederlage zu, die sie nie vergessen werden!",
+        "es": "¡Camarada coreano! ¡Nuestros enemigos son los cerdos imperialistas de Norteamérica! ¡Uniendo nuestras fuerzas los expulsaremos de nuestra patria! ¡Tan sólo debéis concederles la derrota y una muerte humillante!",
+        "it": "Fratelli coreani! Il nostro nemico è il grasso americano. Uniti, li cacceremo dalla nostra madre terra! Infliggiamo loro la sconfitta più umiliante e la più miserabile delle morti!",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "American persons is the drunkard of the media deceits! Search your Northern part sibling and be opened and combine. The shackles of the pressure make we burn the West together in ten possibilities of the lock!",
+        "fr": "Les Américains vous trompent à l'aide de leurs médias ! Unissez-vous à vos frères du Nord ! Le joug de l'oppresseur doit disparaître et l'Occident brûler dans les flammes pour que nous soyons enfin libérés !",
+        "de": "Die Amerikaner sind Sklaven ihrer falschen Medien! Verbündet euch mit euren nordkoreanischen Brüdern, ihr Kinder Koreas! Zusammen werden wir es schaffen, den Westen auf allen Fronten zu besiegen!",
+        "es": "¡Los decadentes americanos os engañan con sus medios de manipulación de masas! ¡Uníos a nosotros, y con nuestras fuerzas combinadas expulsaremos a los diablos occidentales de nuestra patria!",
+        "it": "L'americano ci ubriaca di inganni mediatici! Cercate i fratelli della parte settentrionale e siate aperti e pronti a unirvi. Bruceremo le catene dell'oppressione e assieme chiuderemo in gabbia l'Occidente!",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_NK_Snippets": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "O'DELL - Meanwhile, as the first horrifying numbers for this tragic conflict being to roll in, Americans are asking, 'How did this happen'. It's a question we'll ask of Secretary of Defense Frank Mason, tonight on WNM Flash when White House correspondent Montgomery Lewis sits down with the Secretary to talk about the war, the contracting scandal, and his alleged affair with Air Force Major Veronique Guilbault.",
+        "fr": "Alors que les premiers chiffres des pertes commencent à tomber, horriblement élevés, les Américains se demandent comment ce drame a pu se produire. C'est une question que nous poserons ce soir au Secrétaire de la Défense, Frank Mason. Notre correspondant à la Maison blanche, Montgomery Lewis, l'interrogera ce soir sur la guerre, le scandale des contrats et sa liaison présumée avec Véronique Guilbault, le major de l'US Air Force.",
+        "de": "In der Zwischenzeit, da die ersten schrecklichen Zahlen dieses tragischen Konflikts eintreffen, stellt das amerikanische Volk die Frage: \"Wie konnte das passieren?\". Wir werden diese Frage heute Abend in einer WNM-Sondersendung Verteidigungsminister Frank Mason stellen, wenn Korrespondent Montgomery Lewis den Minister trifft, um mit ihm über den Krieg, den Ausschreibungsskandal und seine angebliche Affäre mit Air Force Major Veronique Guilbault zu sprechen.",
+        "es": "Mientras llegan las escalofriantes cifras de este trágico conflicto, los ciudadanos se preguntan cómo ha podido suceder. Es la misma pregunta que esta noche, en WNM Flash, Montgomery Lewis hará al Secretario de Defensa Frank Mason, con quien hablará sobre la guerra, el escándalo de los contratos y sus presuntas relaciones con Verónica Guilbault, mayor del Ejército del Aire.",
+        "it": "Nel frattempo, mentre i primi spaventosi numeri di questo tragico conflitto iniziano ad arrivare, gli americani si chiedono \"Come è potuto succedere?\". È una domanda che gireremo al Segretario alla Difesa Frank Mason, stasera su WNM Flash, quando Montgomery Lewis, corrispondente dalla Casa Bianca, discuterà con il segretario della guerra, dello scandalo degli appalti e della sua presunta relazione con il maggiore dell'aviazione Veronique Guilbault.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "O'DELL - In sports news, New York pitcher Akira Watanabe formally requested exemption from his contract with his new team. The world's highest paid baseball player has announced his intention to return to his country to join the Japanese Self Defense Force to - quote - help defend his people, his land, and his culture from the Korean aggressors.",
+        "fr": "Sports... Akira Watanabe, le nouveau batteur de l'équipe de New York, a demandé la résiliation de son contrat. Le joueur de baseball le mieux payé au monde a annoncé son intention de retourner chez lui afin de rejoindre l'armée japonaise pour, je cite, \"défendre notre peuple, notre pays et notre culture contre l'agresseur coréen.\"",
+        "de": "Zum Sport: Der New Yorker Pitcher Akira Watanabe hat formell um die Aufhebung seines Vertrages mit seinem neuen Team gebeten. Der höchstbezahlte Baseball-Spieler der Welt hat die Absicht bekundet, in sein Heimatland zurückzukehren um der japanischen Armee beizutreten, um - Zitat - \"bei der Verteidigung seines Volkes, seines Landes und seiner Kultur vor den koreanischen Aggressoren zu helfen\".",
+        "es": "Deportes. El lanzador Akira Watanabe ha solicitado la rescisión del contrato con su nuevo equipo. El jugador de béisbol mejor pagado del mundo ha anunciado su intención de volver a su país y alistarse en las Fuerzas de Autodefensa de Japón para, cito textualmente, 'defender a mi pueblo, mi tierra y mi cultura de los agresores coreanos'.",
+        "it": "Passando allo sport, il lanciatore Akira Watanabe ha richiesto formalmente la risoluzione del contratto con la sua nuova squadra. Il giocatore di baseball più pagato al mondo ha annunciato la sua intenzione di tornare nel proprio paese per entrare nella Forza di Autodifesa Giapponese e, cito, \"contribuire a difendere il suo popolo, la sua terra e la sua cultura dagli aggressori coreani.\"",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Objectives": {
+      "_source": "P_08_SeoulOne",
+      "Objective_0001": {
+        "en": "Locate and retrieve data drives from the NDT",
+        "fr": "Localisez et récupérez le disque dur de la BDN.",
+        "de": "Suchen und bergen Sie die Datenträger aus der Nationalen Datentransferstelle.",
+        "es": "Localiza y recupera discos de datos del CND. ",
+        "it": "Trova e recupera i drive dati dalla DDN.",
+        "th": ""
+      },
+      "Objective_0016": {
+        "en": "The National Data Trunk surfaces at a switching station in central Seoul. Recover the drives from the station to discover if the attack on the Walsh originated in South Korea.",
+        "fr": "La banque de données nationale sud-coréenne passe par une station de télécommunication du centre de Séoul. Récupérez le disque dur de la station, afin que nous sachions si l'attaque qui a coulé le Walsh a été lancée depuis la Corée du Sud.",
+        "de": "Die Nationale Datentransferstelle befindet sich in einer Telekommunikations-vermittlung im Zentrum von Seoul. Bergen Sie die Datenträger aus der Vermittlung, damit geklärt werden kann, ob der Angriff auf die Walsh aus Südkorea erfolgt ist.",
+        "es": "El Centro Nacional de Datos se encuentra en una estación de intercambio en el centro de Seúl. Recupera los discos de la estación para descubrir si el ataque del Walsh partió de Corea del Sur. ",
+        "it": "La DDN riemerge come centralino nel centro di Seul. Recupera i drive dalla stazione per scoprire se l'attacco alla Walsh è iniziato nella Corea del Sud.",
+        "th": ""
+      },
+      "Objective_0004": {
+        "en": "Stop the North Korean Propaganda Broadcasts",
+        "fr": "Empêchez la diffusion des émissions de propagande nord-coréennes.",
+        "de": "Unterbinden Sie die nordkoreanischen Propagandasendungen.",
+        "es": "Bloquea la difusión de propaganda norcoreana.",
+        "it": "Ferma le trasmissioni di propaganda nordcoreane.",
+        "th": ""
+      },
+      "Objective_0017": {
+        "en": "Disabling loud speakers broadcasting North Korean propaganda would dramatically improve the morale of allied troops.",
+        "fr": "Mettre hors service les haut-parleurs qui diffusent la propagande nord-coréenne aurait un effet très bénéfique sur le moral des troupes alliées.",
+        "de": "Das Abschalten der Lautsprecher, mit denen die nordkoreanische Propaganda verbreitet wird, würde die Moral der alliierten Truppen erheblich steigern.",
+        "es": "Acaba con los altavoces que emiten propaganda de guerra de Corea del Norte y la moral de las tropas aliadas mejorará notablemente.",
+        "it": "Se disattivi gli altoparlanti che trasmettono la propaganda nordcoreana migliorerai notevolmente il morale delle truppe alleate.",
+        "th": ""
+      },
+      "Objective_0011": {
+        "en": "Get to the rooftop to transfer the data to the EA-6B",
+        "fr": "Montez sur le toit pour transmettre les données à l'EA-6B.",
+        "de": "Begeben Sie sich aufs Dach und übertragen Sie die Daten an die EA-6B.",
+        "es": "Ve a la azotea para transmitir los datos al EA-6B.",
+        "it": "Vai sul tetto per trasferire i dati a EA-6B",
+        "th": ""
+      },
+      "Objective_0018": {
+        "en": "Broadcast the data from the NDT drives from the roof of the building to an EA-6B using a point-to-point secure laser communication link to prevent data interception.",
+        "fr": "Transmettez les données contenues sur le disque dur de la BDN à l'EA-6B depuis le toit, en utilisant une émission laser point à point afin d'empêcher toute interception.",
+        "de": "Übertragen Sie die Informationen von den Datenträgern der Nationalen Datentransferstelle vom Dach des Gebäudes an eine EA-6B. Bauen Sie dazu eine sichere Verbindung per Laserstrahl auf, um ein Abhören der Übertragung zu verhindern.",
+        "es": "Transmite los datos de los discos del CND de la azotea del edificio hasta un EA-6B usando un enlace de comunicación seguro por láser punto a punto para evitar que intercepten los datos.",
+        "it": "Trasmetti i dati dei drive della DDN dal tetto dell'edificio ad un EA-6B usando un collegamento laser sicuro punto-a-punto per impedire l'intercettazione dei dati.",
+        "th": ""
+      },
+      "Objective_0006": {
+        "en": "Interrogate a Special Forces agent to determine the location of Jong",
+        "fr": "Interrogez un homme des forces spéciales nord-coréennes afin d'apprendre où se trouve Jong.",
+        "de": "Verhören Sie ein Mitglied der Spezialeinheiten, um herauszufinden, wo Jong sich aufhält.",
+        "es": "Interroga a un agente de las fuerzas norcoreanas para averiguar dónde está Jong.",
+        "it": "Interroga un agente delle forze speciali per scoprire la posizione di Jong.",
+        "th": ""
+      },
+      "Objective_0019": {
+        "en": "Third Echelon operatives operating elsewhere in Seoul need you to interrogate nearby Special Forces. The mission will be aborted if they die before interrogation.",
+        "fr": "Des agents d'Echelon 3 en mission dans Séoul pourraient avoir besoin que vous interrogiez des membres des forces spéciales nord-coréennes. La mission sera annulée si ceux-ci meurent avant que vous ayez pu leur tirer les vers du nez.",
+        "de": "Andere Agenten von Third Echelon, die sich in Seoul aufhalten, bitten Sie, in der Nähe stationierte Spezialeinheiten zu verhören. Die Mission wird abgebrochen, wenn sie vor dem Verhör sterben.",
+        "es": "Hay unos agentes de Third Echelon operando en Seúl. Necesitan que interrogues a alguien de las fuerzas especiales. La misión será abortada si esta persona muere antes de finalizar el interrogatorio.",
+        "it": "Gli agenti di Third Echelon che operano in altri punti di Seul hanno bisogno che tu interroghi le vicine Forze Speciali. La missione verrà interrotta se muoiono prima dell'interrogatorio.",
+        "th": ""
+      },
+      "Objective_0012": {
+        "en": "Exfiltrate to the primary extraction point",
+        "fr": "Rejoignez le point d'extraction principal.",
+        "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
+        "es": "Ve al punto de extracción principal.",
+        "it": "Vai al punto di estrazione primario.",
+        "th": ""
+      },
+      "Objective_0013": {
+        "en": "Exfiltrate to any available extraction point",
+        "fr": "Rejoignez n'importe quel point d'extraction.",
+        "de": "Begeben Sie sich zu einem verfügbaren Exfiltrationspunkt.",
+        "es": "Ve a cualquier punto de extracción disponible.",
+        "it": "Vai al primo punto di estrazione disponibile",
+        "th": ""
+      },
+      "Objective_0015": {
+        "en": "Tap a Mobile Command Center",
+        "fr": "Connectez-vous à un poste de commandement mobile.",
+        "de": "Zapfen Sie ein mobiles Kommandozentrum an.",
+        "es": "Hackea un centro de mando móvil.",
+        "it": "Inserisciti in un centro di comando mobile.",
+        "th": ""
+      },
+      "Objective_0022": {
+        "en": "Enter and tap a North Korean MCC to give Third Echelon access to the North Korean command networks.",
+        "fr": "Connectez-vous au réseau de commandement nord-coréen par le biais d'un PCM afin qu'Echelon 3 puisse espionner l'ennemi.",
+        "de": "Betreten und verwanzen Sie eine nordkoreanische mobile Kommandozentrale, damit Third Echelon Zugriff auf die nordkoreanischen Befehlsnetze erhält.",
+        "es": "Pon un rastreador en un CMM norcoreano para que Third Echelon acceda a sus redes de comunicación.",
+        "it": "Entra e inserisciti in un CCM nordcoreano per fornire a Third Echelon l'accesso alla rete di comando nordcoreana.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_Player_Notes": {
+      "_source": "P_08_SeoulOne",
+      "Note_0001L": {
+        "en": "The data drives are located in the switching room of the NDT building.",
+        "fr": "Le disque dur se trouve dans la salle de commutation du bâtiment du BDN.",
+        "de": "Die Datenträger befinden sich im Schaltraum der Nationalen Datentransferstelle.",
+        "es": "Los discos de datos están en la sala de intercambio del edificio del CND.",
+        "it": "I drive dei dati si trovano nella stanza del centralino dell'edificio della DDN.",
+        "th": ""
+      },
+      "Note_0002L": {
+        "en": "Watch out for innocent looking booby traps",
+        "fr": "Attention aux pièges qui n'ont pas l'air d'en être !",
+        "de": "Achten Sie auf gut getarnte Sprengfallen.",
+        "es": "Cuidado con los objetos de aspecto inocente, pueden ser trampas.",
+        "it": "Fai attenzione a trabocchetti dall'aria innocua.",
+        "th": ""
+      },
+      "Note_0003L": {
+        "en": "Medical supplies are located in the washroom of the NDT building",
+        "fr": "Il y a des fournitures médicales dans les toilettes de l'immeuble de la BDN.",
+        "de": "Medizinische Versorgung erhalten Sie im Waschraum der Nationalen Datentransferstelle.",
+        "es": "Hay suministros médicos en los lavabos del edificio del CND.",
+        "it": "I rifornimenti medici si trovano nel bagno dell'edificio dell'NDT.",
+        "th": ""
+      },
+      "Note_0004L": {
+        "en": "The only way to the roof of the building is via the elevator",
+        "fr": "L'ascenseur constitue le seul moyen d'accéder au toit de l'immeuble.",
+        "de": "Sie können das Dach nur über den Aufzug erreichen.",
+        "es": "La única forma de subir a la azotea del edificio es usando el ascensor.",
+        "it": "L'unico modo di arrivare al tetto è attraverso l'ascensore.",
+        "th": ""
+      },
+      "Note_0005L": {
+        "en": "The key code for the switching room doors is 0815",
+        "fr": "Le code de la porte de la salle de commutation est le 0815",
+        "de": "Der Türcode für den Schaltraum lautet 0815.",
+        "es": "El código para las puertas de la sala de intercambio es 0815.",
+        "it": "Il codice per le porte del centralino è 0815.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_PopUp": {
+      "_source": "P_08_SeoulOne",
+      "POPUPMESSAGE_0001": {
+        "en": "Get to the rooftop to transfer the data to the EA-6B",
+        "fr": "Montez sur le toit pour transmettre les données à l'EA-6B.",
+        "de": "Begeben Sie sich aufs Dach und übertragen Sie die Daten an die EA-6B.",
+        "es": "Ve a la azotea para transmitir los datos al EA-6B.",
+        "it": "Raggiungi il tetto per trasferire i dati all'EA-6B",
+        "th": ""
+      },
+      "POPUPMESSAGE_0002": {
+        "en": "Tap a Mobile Command Center",
+        "fr": "Placez un mouchard sur un PC mobile.",
+        "de": "Zapfen Sie eine mobile Kommando-zentrale an",
+        "es": "Hackea un Centro de Mando Móvil (CMM)..",
+        "it": "Utilizza un Centro di Comando Mobile",
+        "th": ""
+      },
+      "POPUPMESSAGE_0005": {
+        "en": "Locate and retrieve data drives from the NDT",
+        "fr": "Localisez et récupérez le disque dur de la BDN.",
+        "de": "Suchen und bergen Sie die Daten-träger aus der Nationalen Daten-transfer-stelle.",
+        "es": "Localiza y recupera los discos de datos del CND.",
+        "it": "Trova e recupera i dischi con i dati della DDN",
+        "th": ""
+      },
+      "POPUPMESSAGE_0004": {
+        "en": "Interrogate a Special Forces agent to determine the location of Jong",
+        "fr": "Interrogez un agent des forces spéciales nord-coréennes afin de découvrir où se trouve Jong.",
+        "de": "Verhören Sie ein Mitglied der Spezialeinheiten, um herauszu-finden, wo Jong sich aufhält.",
+        "es": "Interroga a un agente de las fuerzas especiales para averiguar dónde está Jong.",
+        "it": "Interroga un agente delle Forze Speciali per determinare la posizione di Jong.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_SRC_Astronauts": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "NKSol_A - Did you hear?",
+        "fr": "Tu as entendu ?",
+        "de": "Hast du es schon gehört?",
+        "es": "¿Has oído?",
+        "it": "Hai sentito?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_B - What?",
+        "fr": "Quoi ?",
+        "de": "Was?",
+        "es": "¿El qué?",
+        "it": "Cosa?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKSol_A - Our fierce and noble Chinese brothers have stood up to the American oppressors!",
+        "fr": "Nos fiers cousins chinois se sont dressés contre l'oppresseur américain !",
+        "de": "Unsere mutigen und stolzen chinesischen Brüder haben den amerikanischen Unterdrückern die Stirn geboten!",
+        "es": "¡Nuestros nobles hermanos chinos se han resistido a los opresores americanos!",
+        "it": "I nostri fieri e nobili fratelli cinesi hanno superato gli oppressori americani!",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_B - You mean... they have entered the war!?",
+        "fr": "Tu veux dire qu'ils sont en guerre, eux aussi ?",
+        "de": "Sind die etwa auch in den Krieg eingetreten?",
+        "es": "¿Han entrado en guerra también?",
+        "it": "Cosa vuoi dire? Sono entrati in guerra!?",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_A - Oh... no... not that...",
+        "fr": "Euh... non, quand même pas...",
+        "de": "Oh ... nein ... das meine ich nicht ...",
+        "es": "No, no es eso.",
+        "it": "Oh... no... questo no...",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKSol_B - What do you mean?",
+        "fr": "Mais alors ?",
+        "de": "Na was meinst du denn dann?",
+        "es": "¿Qué quieres decir?",
+        "it": "Cosa, allora?",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "NKSol_A - They are launching their rocket... they are sending a proud Taikonaut to rescue the astronauts on the ISS despite NASA's refusal to accept their generous offer.",
+        "fr": "Ils ont quand même envoyé leur fusée ! Un de leurs fiers taikonautes est parti sauver les astronautes de la station spatiale malgré le refus de la NASA.",
+        "de": "Sie starten ihre Rakete ... sie schicken einen stolzen Taikonauten los, um die Astronauten auf der Internationalen Raumstation zu retten. Und das, obwohl die NASA zuvor ihr selbstloses Angebot abgelehnt hat.",
+        "es": "Van a lanzar su cohete. Aunque la NASA rechazó su generosa oferta, van a enviar a un orgulloso taikonauta para rescatar a los hombres de la Estación Espacial.",
+        "it": "Stanno lanciando il loro razzo... mandano un orgoglioso taikanauta a salvare gli astronauti della stazione spaziale nonostante il rifiuto della NASA di accettare la loro generosa offerta.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "NKSol_B - Why would they want to help the Americans?",
+        "fr": "Pourquoi est-ce qu'ils aident les Américains ?",
+        "de": "Warum sollten die den Amerikanern helfen wollen?",
+        "es": "¿Y por qué quieren ayudar a los americanos?",
+        "it": "E perché vogliono aiutare gli americani?",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKSol_A - To prove their greatness! It takes strength to show mercy for your enemy! It is most humiliating to the American dogs!",
+        "fr": "Pour prouver qu'ils sont plus forts qu'eux, car seuls les forts montrent de la pitié à leur ennemi. Quelle humiliation pour ces chiens d'Américains !",
+        "de": "Um ihre Größe unter Beweis zu stellen! Es ist ein Zeichen der Stärke, wenn man Mitleid mit seinem Feind zeigt! Es ist für die Amerikaner unglaublich erniedrigend!",
+        "es": "¡Para demostrar su grandeza! Sólo el poderoso perdona a su enemigo. ¡Eso humillará a los cerdos yanquis!",
+        "it": "Per dimostrare la loro grandezza! Ci vuole forza per avere pietà del nemico! È la massima umiliazione per quei cani americani.",
+        "th": ""
+      }
+    },
+    "P_08_SeoulOne_SRC_Seoul": {
+      "_source": "P_08_SeoulOne",
+      "Speech_0001L": {
+        "en": "NKSol_E - You know what I can't figure out?",
+        "fr": "Tu sais ce que j'ai du mal à comprendre ?",
+        "de": "Weißt du, was ich nicht verstehe?",
+        "es": "Hay una cosa que no me cuadra.",
+        "it": "Sai cosa non capisco?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_F - What?",
+        "fr": "Pardon ?",
+        "de": "Wie bitte?",
+        "es": "¿Cómo?",
+        "it": "Cosa?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKSol_E - Well, all the stuff they tell us about how the South Koreans are living in filth... eating dogs on the street... how they are lackeys and slaves to fat Americans...",
+        "fr": "Tout ce qu'on nous raconte sur les Sud-Coréens... le fait qu'ils vivent dans la crasse... qu'ils bouffent leurs chiens... qu'ils sont les esclaves des Américains...",
+        "de": "Also, die erzählen uns ja immer, wie die Südkoreaner leben ... dass sie im Dreck leben ... und streunende Hunde essen müssen ... dass sie Lakaien und Sklaven der Amerikaner sind ...",
+        "es": "Nos habían contado que los surcoreanos vivían entre la mugre, que comían ratas por la calle, que eran esclavos de los opresores americanos...",
+        "it": "Beh, tutte quelle cose che ci dicono, che i sudcoreani vivono nel sudiciume... mangiano i cani per strada... che sono lacchè e schiavi dei grassi americani...",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_F - Yes?",
+        "fr": "Oui, et alors ?",
+        "de": "Ja, und?",
+        "es": "¿Sí?",
+        "it": "Sì?",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_E - Well... take a look around...",
+        "fr": "Regarde autour de toi.",
+        "de": "Na ... sieh dich doch mal um ...",
+        "es": "Bueno, echa un vistazo.",
+        "it": "Ecco... guarda un po' in giro.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKSol_F - What do you mean?",
+        "fr": "Qu'est-ce que tu veux dire ?",
+        "de": "Was meinst du denn?",
+        "es": "¿Qué quieres decir?",
+        "it": "Cosa intendi?",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "NKSol_E - Well... even bombed to pieces... this place looks a lot nicer than where I live...",
+        "fr": "Même bombardé, cet endroit est plus agréable que chez moi. Largement, même.",
+        "de": "Nun ... selbst nachdem hier alles in Schutt und Asche gebombt wurde ... sieht es hier noch besser aus, als bei uns zu Hause ...",
+        "es": "Con bombas y todo, este lugar es mucho mejor que donde yo vivo.",
+        "it": "Beh... anche dopo i bombardamenti... questo posto sembra molto meglio di quello dove vivo...",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKSol_F - What you're saying is dangerously close to treason. They can hang you for that.",
+        "fr": "Ce que tu dis n'est pas loin de la trahison, tu sais. Tu pourrais finir pendu.",
+        "de": "Was du da sagst, grenzt an Hochverrat. Die könnten dich für so was hängen.",
+        "es": "Lo que dices podría considerarse traición. Ahorcan a gente por mucho menos.",
+        "it": "Quello che dici è pericolosamente vicino al tradimento. Possono impiccarti per una cosa simile.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "NKSol_E - That's exactly what I mean.",
+        "fr": "C'est exactement ce que je veux dire.",
+        "de": "Siehst du ... das ist genau das, was ich meine.",
+        "es": "A eso me refería.",
+        "it": "È esattamente quello che intendo.",
+        "th": ""
+      }
+    }
+  }
+}

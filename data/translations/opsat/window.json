@@ -1,0 +1,500 @@
+{
+  "_meta": {
+    "category": "opsat",
+    "name": "window",
+    "sources": [
+      "Window"
+    ],
+    "total_strings": 58
+  },
+  "sections": {
+    "Errors": {
+      "_source": "Window",
+      "Critical": {
+        "en": "Critical Error",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "FailedConfigLoad": {
+        "en": "%s (failed load)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "General": {
+      "_source": "Window",
+      "BrowseButton": {
+        "en": "...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "UseButton": {
+        "en": "Use",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ClearButton": {
+        "en": "Clear",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ColorButton": {
+        "en": "Color",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "PickButton": {
+        "en": "Pick",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "FindButton": {
+        "en": "Find",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "OkButton": {
+        "en": "Ok",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "AddButton": {
+        "en": "Add",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "EmptyButton": {
+        "en": "Empty",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "InsertButton": {
+        "en": "Insert",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DeleteButton": {
+        "en": "Delete",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "DefaultsButton": {
+        "en": "Reset To Defaults",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "BackButton": {
+        "en": "< &Back",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NextButton": {
+        "en": "&Next >",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "FinishButton": {
+        "en": "&Finish",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "CancelButton": {
+        "en": "Cancel",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "InstallButton": {
+        "en": "&Install",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "YesButton": {
+        "en": "&Yes",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NoButton": {
+        "en": "&No",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "AgreeButton": {
+        "en": "I &Agree",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LanguagePrompt": {
+        "en": "Language:",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LanguageWindow": {
+        "en": "Language Selection",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LogWindow": {
+        "en": "%s Log Window",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "PropNone": {
+        "en": "Nothing Selected",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "PropSingle": {
+        "en": "%s Properties",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "PropMulti": {
+        "en": "%s Properties (%i selected)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "InsertCdText": {
+        "en": "Please insert the Unreal CD-Rom into your drive and press OK to continue, or Cancel to exit.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "InsertCdTitle": {
+        "en": "Cd Required At Startup",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "AdvancedOptionsTitle": {
+        "en": "Advanced Options",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Low": {
+        "en": "Low",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "High": {
+        "en": "High",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "New": {
+        "en": "New",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "OtherInstanceRunning": {
+        "en": "Another instance of Tom Clancy's Splinter Cell Chaos Theory is already running.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "FirstRun": {
+      "_source": "Window",
+      "Caption": {
+        "en": "Initial Configuration",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "LowMemory": {
+        "en": "Unreal has detected that you have %i megabytes of memory available. To improve performance, the \"Low Detail Textures\" and \"Low Sound Quality\" options have been enabled.  You may change this settings in the \"Performance Settings\" menu.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "NonMMX": {
+        "en": "Unreal has detected that you're using a non-MMX PC. Based on this, the sound playback rate has been set to use the least CPU power. You may change this settings in the \"Advanced Options / Audio\" menu.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Starting": {
+        "en": "Unreal is starting up with new settings. If you experience any problems, please read the Troubleshooting section of the Release Notes in the \"Start\" menu.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "IDDIALOG_Directory": {
+      "_source": "Window",
+      "IDC_Directory": {
+        "en": "Installation Folder",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "IDC_ChoosePrompt": {
+        "en": "Please choose the installation folder.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "IDC_PathTitle": {
+        "en": "&Path:",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "IDC_DirectoryTitle": {
+        "en": "&Directories:",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "IDC_DrivesTitle": {
+        "en": "Dri&ves:",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "IDC_NetworkButton": {
+        "en": "&Network",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "IDDIALOG_Password": {
+      "_source": "Window",
+      "IDC_Password": {
+        "en": "Password Check",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "IDC_Prompt": {
+        "en": "Please enter your name and password.",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "IDC_Name": {
+        "en": "&Name:",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "IDMENU_NotifyIcon": {
+      "_source": "Window",
+      "ID_NotifyIcon": {
+        "en": "Menu",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ID_NotifyShowLog": {
+        "en": "&UnrealServer Console",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ID_NotifyAdvancedOptions": {
+        "en": "&Advanced Options",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ID_NotifyExit": {
+        "en": "E&xit UnrealServer",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "IDMENU_Log": {
+      "_source": "Window",
+      "ID_LogFile": {
+        "en": "&File",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ID_LogAdvancedOptions": {
+        "en": "&Advanced Options",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "ID_LogFileExit": {
+        "en": "E&xit",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "IDDIALOG_CrashBox": {
+      "_source": "Window",
+      "IDC_Copy": {
+        "en": "Copy",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "IDC_BugReport": {
+        "en": "Support website",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "BugReportURL": {
+        "en": "http://support.ubi.com/",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    }
+  }
+}

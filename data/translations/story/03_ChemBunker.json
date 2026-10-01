@@ -1,0 +1,1274 @@
+{
+  "_meta": {
+    "category": "story",
+    "name": "03_ChemBunker",
+    "sources": [
+      "03_ChemBunker",
+      "P_03_ChemBunker"
+    ],
+    "total_strings": 152
+  },
+  "sections": {
+    "GENERAL": {
+      "_source": "03_ChemBunker",
+      "MapName": {
+        "en": "CHEMICAL BUNKER",
+        "fr": "BUNKER DE BIOCHIMIE",
+        "de": "CHEMIEBUNKER",
+        "es": "BÚNKER QUÍMICO",
+        "it": "BUNKER CHIMICO",
+        "th": ""
+      },
+      "Briefing_LAMBERT": {
+        "en": "LAMBERT - Under interrogation by Special agent Jack Baxter, Jong Pom-chu confessed his involvement in delivering highly classified bio-weapon research to agents of the CGIB. CGIB then blackmailed him into acquire heavily regulated viral engineering equipment which he smuggled through Panama on their behalf. Our investigation of Jong’s reported telecommunications activities over the last few months makes it clear that the North Korean government may be using his intelligence and his equipment to manufacture biological weapons in a series of old bunkers near Namp’o-si. Your mission is infiltrate the bunker complex, identify any chemical or biological weapons, and recover samples of any agents being developed.",
+        "fr": "Interrogé par l'agent spécial Jack Baxter, Jong Pom-chu a avoué avoir pris part à la livraison de résultats de recherches ultra-secrètes sur les armes biologiques aux agents de la CGIB. La CGIB l'a ensuite fait chanter pour obtenir du matériel d'ingénierie virale, qu'il a livré en le faisant passer en fraude par le canal de Panama. L'enquête que nous avons menée sur Jong a permis de conclure que le gouvernement nord-coréen pourrait avoir l'intention d'utiliser les renseignements fournis par Jong pour fabriquer des armes biologiques dans un complexe de vieux bunkers proches de Namp'o-si. Votre mission consiste à vous infiltrer dans le complexe, à identifier les éventuelles armes chimiques ou biologiques présentes et à récupérer des échantillons des substances en cours de développement.",
+        "de": "Im Verhör durch Spezialagent Jack Baxter gestand Jong Pom-chu, streng geheime Forschungsergebnisse über Bio-Waffen an Agenten des nordkoreanischen Geheimdiensts weitergegeben zu haben. Der Geheimdienst erpresste ihn anschließend dazu, streng kontrollierte Ausrüstung zur Virusherstellung zu besorgen, die er für sie durch Panama schmuggelte. Unsere Überprüfung von Jongs Telekommunikations-Aktivitäten in den letzten Monaten weist darauf hin, dass die nordkoreanische Regierung sein Wissen und seine Ausrüstung für die Herstellung von Biowaffen in einer Reihe von alten Bunkern in der Nähe von Namp'o-si verwenden könnte. Eure Aufgabe ist es, in den Bunkerkomplex einzudringen, vorhandene chemische oder biologische Waffen zu identifizieren und Proben der dort entwickelten Erreger zu sammeln.",
+        "es": "Interrogado por el agente especial Jack Baxter, Jong Pom-chu ha confesado su participación en la venta de secretos de guerra biológica a agentes del CGIB. El CGIB le chantajeó después para que les suministrara material de bioingeniería vírica que Jong pasaba de incógnito a través de Panamá. Las investigaciones sobre las comunicaciones de Jong en los últimos meses demuestran que el gobierno norcoreano puede estar usando tanto su información como su material para fabricar armas biológicas en un viejo complejo de búnkers cerca de Namp'o-si. Vuestra misión es infiltraros en el complejo, identificar posibles armas químicas o biológicas y obtener muestras de los agentes utilizados.",
+        "it": "Interrogato dall'agente speciale Jack Baxter, Jong Pom-chu ha confessato di essere conivolto nella consegna di certe ricerche segrete sulle armi biologiche ad agenti del CGIB. Il CGIB l'avrebbe quindi ricattato per fargli acquistare equipaggiamenti per la modifica dei virus, per i quali sono previste pesanti restrizioni. Pom-chu è riuscito a contrabbandare questi equipaggiamenti per conto del CGIB attraverso Panama. La nostra indagine ha rivelato che Jong negli ultimi mesi è stato in contatto con il governo nordcoreano, che sta usando le sue informazioni e il suo equipaggiamento per costruire armi biologiche in una serie di vecchi bunker vicino a Namp'o-si. La vostra missione è infiltrarvi nel complesso di bunker, identificare le armi chimiche o biologiche esistenti, e recuperare campioni degli agenti in sviluppo.",
+        "th": ""
+      }
+    },
+    "Computer": {
+      "_source": "03_ChemBunker",
+      "CompDisableCameraSystem": {
+        "en": "Disable Camera System",
+        "fr": "Désactiver les caméras de surveillance",
+        "de": "Kamerasystem deaktivieren",
+        "es": "Desactivar sistema cámaras",
+        "it": "Disattiva il sistema di telecamere",
+        "th": ""
+      }
+    },
+    "Email": {
+      "_source": "03_ChemBunker",
+      "EmailVirusProtocolBody": {
+        "en": "Our research has finally discovered a working protocol for the Anti-virus. You will need a sample of monkey blood serum and two different chemical compounds. The correct protocol ingredients are attached to this mail as Notes.",
+        "fr": "Nos recherches nous ont enfin permis de trouver un protocole d'antivirus efficace. Il faut un échantillon de sérum sanguin de singe et deux composés chimiques différents pour pouvoir le préparer. Je vous joins les ingrédients exacts dans le fichier attaché.",
+        "de": "Unsere Forschungsabteilung hat endlich ein funktionierendes Protokoll für den Antivirus entdeckt. Sie brauchen eine Serumprobe von den Affen und zwei unterschiedliche chemiische Komponenten. Die entsprechenden Protokollzutaten wurden an diese Mail angehängt.",
+        "es": "Nuestra investigación nos ha llevado por fin a un protocolo funcional de una vacuna. Hay que extraer una muestra de sangre del mono y dos compuestos químicos diferentes. La composición correcta de la vacuna está en las notas adjuntas al correo.",
+        "it": "I nostri ricercatori hanno finalmente scoperto un protocollo funzionante per l'antidoto al virus. Servono un campione di siero di sangue di scimmia e due componenti chimici. Gli ingredienti per il protocollo sono in allegato a questa mail come appunti.",
+        "th": ""
+      },
+      "EmailVirusProtocolDate": {
+        "en": "10/12/07",
+        "fr": "12/10/2007",
+        "de": "12.Oktober 2007",
+        "es": "12 de octubre de 2007",
+        "it": "12 ottobre 2007",
+        "th": ""
+      },
+      "EmailVirusProtocolFrom": {
+        "en": "Pok",
+        "fr": "Pok",
+        "de": "Pok",
+        "es": "Pok",
+        "it": "Pok",
+        "th": ""
+      },
+      "EmailVirusProtocolSubject": {
+        "en": "Anti-viral protocol",
+        "fr": "Protocole d'antivirus",
+        "de": "Antivirus-Protokoll",
+        "es": "Protocolo antivírico",
+        "it": "Protocollo antivirale",
+        "th": ""
+      },
+      "EmailVirusProtocolTo": {
+        "en": "Kim",
+        "fr": "Kim",
+        "de": "Kim",
+        "es": "Kim",
+        "it": "Kim",
+        "th": ""
+      },
+      "EmailCryoTankBody": {
+        "en": "By the way, I forgot to mention you will need to simultaneously mix the different ingredients by respecting the protocol order. Obviously, two people will be required to complete that part of the task. Take care, this can be dangerous.",
+        "fr": "Au fait, j'ai oublié de préciser qu'il était nécessaire de mélanger simultanément les différents ingrédients en respectant l'ordre du protocole, ce qui implique qu'il faille le faire à deux. Attention, car cela peut être extrêmement dangereux.",
+        "de": "Übringens: Die verschiedenen Bestandteile müssen entsprechend der vom Protokoll vorgegebenen Reihenfolge gemischt werden. Logischerweise sind dafür zwei Leute erforderlich. Vorsicht, die Sache ist nicht ganz ungefährlich.",
+        "es": "Por cierto, olvidé mencionar que debes mezclar los diferentes compuestos respetando el orden del protocolo. Obviamente, se necesitan dos personas para completar esa parte de la tarea. Ten cuidado, puede ser peligroso.",
+        "it": "A proposito, ho dimenticato di dirti che dovrai miscelare i diversi ingredienti simultaneamente rispettando l'ordine indicato nel protocollo. Naturalmente, sono necessarie due persone per eseguire questo compito. Attenzione, può essere pericoloso.",
+        "th": ""
+      },
+      "EmailCryoTankDate": {
+        "en": "10/12/07",
+        "fr": "12/10/2007",
+        "de": "12/10/2007",
+        "es": "12/10/2007",
+        "it": "12/10/2007",
+        "th": ""
+      },
+      "EmailCryoTankFrom": {
+        "en": "Pok",
+        "fr": "Pok",
+        "de": "Pok",
+        "es": "Pok",
+        "it": "Pok",
+        "th": ""
+      },
+      "EmailCryoTankSubject": {
+        "en": "Mixing the protocol",
+        "fr": "Mélange du protocole",
+        "de": "Nachtrag zum Protokoll",
+        "es": "Mezclar el protocolo",
+        "it": "Protocollo di miscela",
+        "th": ""
+      },
+      "EmailCryoTankTo": {
+        "en": "Kim",
+        "fr": "Kim",
+        "de": "Kim",
+        "es": "Kim",
+        "it": "Kim",
+        "th": ""
+      },
+      "EmailWarheadBody": {
+        "en": "In order to insert the new sample into the delivery vehicle, you will need to open the warhead. The missile warhead casing code is 1961. Guard this code as though your life depends on it... because it does.",
+        "fr": "Il te faudra ouvrir l'ogive du missile pour pouvoir y placer l'échantillon. Le code de l'enveloppe est le 1961. Ne l'oublie pas, surtout, car ta vie en dépend.",
+        "de": "Um die neue Probe in den Träger einzusetzen, musst du den Sprengkopf öffnen. Der Code für das Gehäuse ist 1961. Halte ihn streng geheim. Dein Leben hängt davon ab.",
+        "es": "Para insertar una nueva muestra en el vehículo de transporte tienes que abrir la cabeza del misil. El código es 1961. Guarda el código como si tu vida dependiera de ello... lo cual es cierto.",
+        "it": "Per inserire il nuovo campione nel mezzo di trasferimento, devi aprire la testata. Il codice del corpo della testata del missile è 1961. Custodisci questo codice, perché ne va della tua vita...",
+        "th": ""
+      },
+      "EmailWarheadDate": {
+        "en": "10/12/07",
+        "fr": "12/10/2007",
+        "de": "12/10/2007",
+        "es": "12/10/2007",
+        "it": "12/10/2007",
+        "th": ""
+      },
+      "EmailWarheadFrom": {
+        "en": "Bae",
+        "fr": "Bae",
+        "de": "Bae",
+        "es": "Bae",
+        "it": "Bae",
+        "th": ""
+      },
+      "EmailWarheadSubject": {
+        "en": "Warhead Access",
+        "fr": "Accès à l'ogive",
+        "de": "Zugang zum Sprengkopf",
+        "es": "Acceso a la cabeza del misil",
+        "it": "Accesso alla testata",
+        "th": ""
+      },
+      "EmailWarheadTo": {
+        "en": "Kim",
+        "fr": "Kim",
+        "de": "Kim",
+        "es": "Kim",
+        "it": "Kim",
+        "th": ""
+      },
+      "EmailCountingMonkeyBody": {
+        "en": "Pok... I know you're going to think I'm crazy, but little Java seems to be able to count! If I hold up bananas, she screeches once for each banana I'm holding! It's incredible! I'm going to investigate further. I also suggest you run a gene test to see if our tests might have had some as yet undetected recombinant effect. Her blood is in the fridge. Code 1423.",
+        "fr": "Pok... Je sais que tu vas me croire dingue, mais j'ai l'impression que la petite Java sait compter ! Quand je lui montre des bananes, elle crie une fois par fruit ! C'est vraiment incroyable ! Je vais essayer de pousser l'expérience plus loin, mais j'aimerais bien que tu te livres à un test génétique de ton côté, afin de voir si nos expérimentations n'auraient pas eu des effets secondaires imprévus sur nos sujets. Tu trouveras un échantillon de son sang dans le frigo. Le code est le 1423.",
+        "de": "Pok, du denkst jetzt wahrscheinlich, ich wäre verrückt, aber die kleine Java kann zählen! Wenn ich ihr Bananen vor die Nase halte, kreischt sie einmal pro Frucht. Unglaublich! Ich seh mir das noch genauer an. Ich schlage ausserdem vor, dass du einen Gentest durchführst, um herauszufinden, ob unsere Experimente einen bisher unbekannten rekombinanten Effekt haben könnten. Ihr Blut ist im Kühlschrank. Der Code lautet 1423.",
+        "es": "Pok... Sé lo que vas a decir, dirás que estoy loco, pero ¡creo que la pequeña Java sabe contar! Si le muestro un racimo de plátanos chilla una vez por cada plátano del racimo... ¡es increíble! Voy a hacer más pruebas, y sugiero que hagamos una investigación a fondo para comprobar si los experimentos han podido tener algún resultado recombinatorio que desconozcamos. Su sangre está en la cámara. Código 1423.",
+        "it": "Pok... So che crederai io sia pazzo, ma la piccola Java sembra sappia contare! Se tengo in mano delle banane, lei emette uno strillo per ogni banana che sto impugnando! È incredibile! Farò ulteriori analisi. Ti consiglio anche di eseguire un test genetico per vedere se i nostri test possono aver avuto un qualche effetto di ricombinazione non rilevata. il suo sangue è nel frigo. Codice 1423.",
+        "th": ""
+      },
+      "EmailCountingMonkeyDate": {
+        "en": "10/12/07",
+        "fr": "12/10/2007",
+        "de": "12/10/2007",
+        "es": "10/12/2007",
+        "it": "12/10/07",
+        "th": ""
+      },
+      "EmailCountingMonkeyFrom": {
+        "en": "Joo",
+        "fr": "Joo",
+        "de": "Joo",
+        "es": "Joo",
+        "it": "Joo",
+        "th": ""
+      },
+      "EmailCountingMonkeySubject": {
+        "en": "Talking Monkey?",
+        "fr": "Un singe qui parle ?",
+        "de": "Sprechender Affe?",
+        "es": "Una mona muy lista",
+        "it": "Scimmia parlante?",
+        "th": ""
+      },
+      "EmailCountingMonkeyTo": {
+        "en": "Pok",
+        "fr": "Pok",
+        "de": "Pok",
+        "es": "Pock",
+        "it": "Pok",
+        "th": ""
+      },
+      "EmailCraneBody": {
+        "en": "Hey Kim, they finally repaired the crane. As soon as the operator comes back, we will be able to complete the final loading of the armed missiles.  But I don't want to operate it myself, I don't want to cause an accident. ",
+        "fr": "Hé, Kim, la grue a enfin été réparée ! Dès que son conducteur sera de retour, nous pourrons finir de charger les missiles armés. Je préfère ne pas m'en charger moi-même, je ne voudrais pas causer un accident... ",
+        "de": "Hey Kim, sie haben endlich den Kran repariert. Sobald der Kranführer wieder da ist, können wir das Verladen der Raketen abschlieSSenj. Selber mache ich das nicht, ich will nicht Schuld an einem Unfall sein. ",
+        "es": "Hola, Kim. Al final han reparado la grúa. En cuanto vuelva el operario podremos completar la carga de los misiles armados. No quiero manejarla yo, temo provocar un accidente. ",
+        "it": "Ehi, Kim, finalmente hanno riparato la gru. Appena torna il tecnico potremo completare il carico finale dei missili armati. Ma non voglio farlo da solo, ho paura di combinare un disastro. ",
+        "th": ""
+      },
+      "EmailCraneDate": {
+        "en": "10/12/07",
+        "fr": "12/10/2007",
+        "de": "12/10/2007",
+        "es": "12/10/2007",
+        "it": "12/10/2007",
+        "th": ""
+      },
+      "EmailCraneFrom": {
+        "en": "Kim",
+        "fr": "Kim",
+        "de": "Kim",
+        "es": "Kim",
+        "it": "Kim",
+        "th": ""
+      },
+      "EmailCraneSubject": {
+        "en": "Crane is back!",
+        "fr": "La grue est de retour !",
+        "de": "Der Kran funktioniert wieder",
+        "es": "La grúa funciona",
+        "it": "Abbiamo la gru!",
+        "th": ""
+      },
+      "EmailCraneTo": {
+        "en": "Bae",
+        "fr": "Bae",
+        "de": "Bae",
+        "es": "Bae",
+        "it": "Bae",
+        "th": ""
+      },
+      "EmailDisarmingWarheadsBody": {
+        "en": "Once you have the missile casing open, should you need to remove the toxin from the warhead, you will need to disable the safety mechanism. To do this, you must simultaneously cut the two hot wires. I would strongly recommend doing this with two people.",
+        "fr": "Si jamais tu veux retirer la substance toxique de l'ogive, il te faudra commencer par enlever l'enveloppe du missile, puis par désactiver son mécanisme de sécurité, ce qui nécessite de couper les deux fils par lesquels passe le courant. Il est fortement recommandé de le faire à deux.",
+        "de": "Wenn du das Raketengehäuse geöffnet hast, musst du erst den Sicherheitsmechanismus deaktivieren, falls du das Gift aus dem Sprengkopf entfernen willst. Dazu schneidest du die beiden stromführenden Kabel gleichzeitig durch. Ich empfehle dir dringend, das zu zweit zu machen.",
+        "es": "Cuando hayas abierto la ojiva del misil, para retirar el virus de la cabeza tienes que desactivar el mecanismo de seguridad. Para ello deberás cortar los dos cables activos simultáneamente. Es muy recomendable hacerlo con dos personas.",
+        "it": "Una volta aperto il corpo del missile, per rimuovere la tossina dalla testata, devi disattivare il meccanismo di sicurezza. Per farlo, devi tagliare contemporaneamente due cavi. Ti consiglio caldamente di farlo con due persone.",
+        "th": ""
+      },
+      "EmailDisarmingWarheadsDate": {
+        "en": "10/12/07",
+        "fr": "12/10/2007",
+        "de": "12/10/2007",
+        "es": "12/10/2007",
+        "it": "12/10/2007",
+        "th": ""
+      },
+      "EmailDisarmingWarheadsFrom": {
+        "en": "Bae",
+        "fr": "Bae",
+        "de": "Bae",
+        "es": "Bae",
+        "it": "Bae",
+        "th": ""
+      },
+      "EmailDisarmingWarheadsSubject": {
+        "en": "Disarming the warheads",
+        "fr": "DÉSARMER L'OGIVE",
+        "de": "SPRENGKÖPFE DEAKTIVIEREN",
+        "es": "DESARMAR LA OJIVA",
+        "it": "DISATTIVATE LA TESTATA",
+        "th": ""
+      },
+      "EmailDisarmingWarheadsTo": {
+        "en": "Kim",
+        "fr": "Kim",
+        "de": "Kim",
+        "es": "Kim",
+        "it": "Kim",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_AlarmCheck": {
+      "_source": "P_03_ChemBunker",
+      "POPUPMESSAGE_0001": {
+        "en": "Alarm Stage One",
+        "fr": "Niveau d'alerte 1",
+        "de": "Alarmstufe Eins",
+        "es": "Alarma de nivel uno",
+        "it": "Allarme di primo livello",
+        "th": ""
+      },
+      "POPUPMESSAGE_0002": {
+        "en": "Alarm Stage Two - Enemies Equipping Body Armor",
+        "fr": "Niveau d'alerte 2 - les ennemis mettent leurs armures",
+        "de": "Alarmstufe Zwei – Feinde legen Körperpanzer an",
+        "es": "Alarma de nivel dos - El enemigo se coloca el chaleco.",
+        "it": "Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile",
+        "th": ""
+      },
+      "Note_0003L": {
+        "en": "Enemies are wearing body armor",
+        "fr": "Les ennemis portent une armure.",
+        "de": "Die Gegner tragen eine Körperpanzerung.",
+        "es": "Los enemigos llevan chalecos blindados.",
+        "it": "I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0004": {
+        "en": "Alarm Stage Three - Enemies Equipping Helmets",
+        "fr": "Niveau d'alerte 3 - les ennemis mettent leurs casques",
+        "de": "Alarmstufe Drei – Feinde setzen Helme auf",
+        "es": "Alarma de nivel tres - El enemigo se coloca el casco.",
+        "it": "Allarme di terzo livello - I nemici indossano l'elmetto",
+        "th": ""
+      },
+      "Note_0005L": {
+        "en": "Enemies are wearing helmets",
+        "fr": "Les ennemis portent un casque.",
+        "de": "Die Gegner tragen Helme.",
+        "es": "Los enemigos llevan cascos.",
+        "it": "I NEMICI INDOSSANO L'ELMETTO.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0006": {
+        "en": "Alarm Stage Four: Enemies Fortifying Positions",
+        "fr": "Niveau d'alerte 4 - alerte rouge - les ennemis renforcent leurs positions",
+        "de": "Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein",
+        "es": "Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.",
+        "it": "Allarme di quarto livello - Allerta - I nemici stanno creando delle difese",
+        "th": ""
+      },
+      "Note_0007L": {
+        "en": "Enemies have fortified their positions",
+        "fr": "Les ennemis ont renforcé leurs positions.",
+        "de": "Die Gegner haben ihre Stellungen befestigt.",
+        "es": "Los enemigos han reforzado sus posiciones.",
+        "it": "I NEMICI HANNO CREATO DELLE DIFESE.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_Communications": {
+      "_source": "P_03_ChemBunker",
+      "Speech_0001L": {
+        "en": "Lambert: Remember, we're under a cease-fire agreement with North Korea while they meet allied demands to withdrawal from Seoul. Keep it discrete. We don't want to re-ignite the war.",
+        "fr": "N'oubliez pas que nous avons conclu un cessez-le-feu avec la Corée du Nord pour qu'elle retire ses troupes de Séoul. Restez discrets, il ne faudrait pas que la guerre reparte de plus belle.",
+        "de": "Denkt daran, dass wir, solange sie den Allierten Forderungen nach einem Rückzug aus Seoul nachkommen, ein Waffenstillstands-abkommen mit Nordkorea haben. Geht unauffällig vor. Wir wollen nicht, dass der Krieg erneut entfacht wird.",
+        "es": "Recordad que hay un alto el fuego mientras los norcoreanos se retiran de Seúl obedeciendo exigencias aliadas. Actuad con discreción. No queremos reiniciar la guerra.",
+        "it": "Ricordatevi che abbiamo un accordo di cessate il fuoco con la Corea del Nord durante la ritirata da Seul. Siate discreti, non vogliamo riaccendere il conflitto.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "LAMBERT: Stay calm. It's a test launch, scheduled long before the war broke out. The DPRK is just reminding us that they mean business. It also happens to be your best way inside the bunker.",
+        "fr": "Du calme. C'est un test de lancement, prévu bien avant le début du conflit. Les Nord-Coréens veulent juste nous rappeler qu'ils ne plaisantent pas. Et c'est le meilleur moyen d'accéder au bunker...",
+        "de": "Ruhig bleiben. Es ist ein Teststart, der schon lange vor Kriegsbeginn angesetzt wurde. Die Nordkoreaner wollen uns nur daran erinnern, dass wir sie nicht unterschätzen sollen. Der Start bietet euch eine ausgezeichnete Gelegenheit, um in den Bunker einzudringen.",
+        "es": "Calma. Es sólo una prueba. Estaba programada antes de que se iniciara la guerra. Es una forma de recordarnos que van en serio, pero también es una posible entrada al búnker.",
+        "it": "State calmi. È un lancio di prova, programmato molto prima dell'inizio della guerra. I coreani ci stanno solo ricordando che fanno sul serio. E a quanto pare quello è anche il modo migliore per farvi entrare nel bunker.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0015": {
+        "en": "Infiltrate the bunker down one of the silos.",
+        "fr": "Introduisez-vous dans le bunker par l'un des silos.",
+        "de": "Begeben Sie sich durch einen der Silos zum Bunker.",
+        "es": "Infíltrate en el búnker, bajo los silos.",
+        "it": "Infiltrati nel bunker scendendo da uno dei silos.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "LAMBERT: Good lord. That all but proves it. They must have a specific agent in mind if they are conducting payload thermographic tests. Recover the viral protocol from their main lab so we can analyze it.",
+        "fr": "Seigneur. Voilà notre confirmation. Ils doivent avoir un agent chimique spécifique en tête pour effectuer ce genre de tests. Récupérez le protocole du virus à partir du labo principal pour que nous l'analysions.",
+        "de": "Verdammt. Das ist der Beweis. Wenn sie so viele thermographische Tests durchführen, versuchen sie sicher einen bestimmten Erreger herzustellen. Stellt das Test-Protokoll aus ihrem Hauptlabor sicher, damit wir es analysieren können.",
+        "es": "Esto lo explica todo. Deben estar pensando en un agente específico si realizan pruebas termográficas con cabezas explosivas. Conseguid el protocolo vírico del laboratorio principal para analizarlo.",
+        "it": "Buon Dio. Questo sconvolge tutto. Devono avere in mente un agente virale specifico se stanno conducendo questi test termografici. Recuperate il protocollo virale dal laboratorio principale, così potremo analizzarlo.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0016": {
+        "en": "Recover the viral protocol from the main laboratory.",
+        "fr": "Allez chercher le protocole viral dans le laboratoire principal.",
+        "de": "Holen Sie das Virenprotokoll aus dem Hauptlabor.",
+        "es": "Recupera el protocolo vírico del laboratorio principal.",
+        "it": "Recupera il protocollo virale dal laboratorio principale.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "LAMBERT: That's a protocol for a viral based bio-weapon. From the looks of it, we'll need a serum sample from one of their monkeys in order to test both their virus and their anti-virus.",
+        "fr": "C'est un protocole d'arme biologique reposant sur un virus. Il nous faudrait un échantillon de sérum de l'un des singes afin de pouvoir tester à la fois le virus et l'antivirus.",
+        "de": "Das ist ein Protokoll für einen biowaffentauglichen Virus. Wie es aussieht, brauchen wir eine Serumprobe von einem ihrer Affen. Dann können wir sowohl Virus als auch Antivirus testen.",
+        "es": "Es un protocolo para crear un arma biológica vírica. Creo que necesitaremos una muestra de sangre de mono para analizar tanto el virus como la vacuna.",
+        "it": "Quello è un protocollo per un'arma biologica virale. A quanto pare ci servirà un campione di siero da una delle scimmie per eseguire test sul virus e sull'antidoto.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0017": {
+        "en": "Acquire the appropriate chimpanzee blood serum needed for the antidote.",
+        "fr": "Procurez-vous le sérum sanguin de chimpanzé nécessaire pour la préparation de l'antidote.",
+        "de": "Besorgen Sie das entsprechende Serum aus Schimpansenblut, das für das Gegengift benötigt wird.",
+        "es": "Consigue la sangre apropiada del chimpancé para la vacuna.",
+        "it": "Prendi il siero di sangue di scimpanzè che serve per l'antidoto.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "LAMBERT: Well, you're thinking ahead... maybe whatever experiments they're conducting on these monkeys are part of their viral protocol.",
+        "fr": "Bravo, bien pensé. Peut-être que les expériences auxquelles ils se livrent sur ces singes sont liées à leur protocole de virus...",
+        "de": "Gut, ihr denkt mit ... vielleicht sind die Versuche, die sie an diesen Affen durchgeführt haben, Teil ihres Virus-Tests.",
+        "es": "Bien pensado. Puede que los experimentos que están realizando con esos monos formen parte del protocolo vírico.",
+        "it": "Ottima idea... Forse gli esperimenti che stanno eseguendo su queste scimmie sono parte del protocollo virale.",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "LAMBERT: That's a protocol for a viral based bio-weapon. Take that serum and test it against the anti-virus they have stored in their cryogenic chamber.",
+        "fr": "C'est un protocole d'arme biologique reposant sur un virus. Prenez ce sérum et testez-le en le comparant à l'antivirus rangé dans leur salle cryogénisée.",
+        "de": "Das ist ein Protokoll für einen Biowaffenvirus. Nehmt dieses Serum und testet es mit dem Anti-Virus, den sie in ihrer Kryo-Kammer aufbewahren.",
+        "es": "Es un protocolo para crear un arma biológica vírica. Probad la muestra de sangre con el antivirus que guardan en la cámara criogénica.",
+        "it": "Quello è un protocollo per un'arma biologica virale. Prendete quel siero e provatelo contro l'antidoto immagazzinato nella loro camera criogenica.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0018": {
+        "en": "A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.",
+        "fr": "Préparez un échantillon d'antivirus grâce au protocole et récupérez-le dans la chambre froide.",
+        "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Antivirus-Probe herzustellen.",
+        "es": "Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.",
+        "it": "Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "LAMBERT: Good. Now take that serum and test it against the anti-virus they have stored in their cryogenic chamber.",
+        "fr": "Bien. Maintenant, prenez ce sérum et testez-le en le comparant à l'antivirus rangé dans leur salle cryogénisée.",
+        "de": "Gut. Jetzt nehmt das Serum und testet es mit dem Antivirus, den sie in ihrer Kryo-Kammer aufbewahren.",
+        "es": "Bien. Probad esa muestra de sangre con la vacuna que guardan en la cámara criogénica.",
+        "it": "Bene. Ora prendete quel siero e provatelo contro l'antidoto immagazzinato nella loro camera criogenica.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0019": {
+        "en": "A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.",
+        "fr": "Préparez un échantillon d'antivirus grâce au protocole et récupérez-le dans la chambre froide.",
+        "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Antivirus-Probe herzustellen.",
+        "es": "Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.",
+        "it": "Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "LAMBERT: You're going to need to follow the protocol to manufacture a sample of the anti-virus.",
+        "fr": "Il va vous falloir appliquer le protocole pour fabriquer un échantillon de l'antivirus.",
+        "de": "Ihr müsst euch an das Protokoll halten, um eine Probe des Antivirus herzustellen.",
+        "es": "Tenéis que seguir el protocolo para fabricar una muestra de la vacuna.",
+        "it": "Dovrete seguire il protocollo per costruire un campione dell'antidoto.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "LAMBERT: Good. It looks like the anti-virus is stable. You'll need to get to the top of the cryochamber so one of you can recover the sample.",
+        "fr": "Bien, on dirait que l'antivirus est stable. Il va falloir monter au sommet de la chambre cryogénisée pour récupérer l'échantillon.",
+        "de": "Gut. Sieht so aus, als sei das Anti-Virus stabil. Ihr müsst in den oberen Teil der Kryo-Kammer kommen, damit einer von euch die Probe entnehmen kann.",
+        "es": "Bien. Parece que el antivirus es estable. Uno de vosotros tiene que subir a la criocámara para recuperar la muestra.",
+        "it": "Bene. Sembra che l'antidoto sia stabile. Ora salite in cima alla camera criogenica e uno di voi due recuperi il campione.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "LAMBERT: Good job. If we can get this to the CDC, they can institute a response plan in the event this weapon is used against our troops. The last thing we need is a sample of the virus itself in weaponized form. You need to find a way into the warhead storage room you passed through earlier in order to recover a sample.",
+        "fr": "Bien joué. Si nous pouvons apporter cela aux chercheurs du CDC, ils seront en mesure d'élaborer une stratégie au cas où cette arme était utilisée contre nos hommes. Il nous faut aussi un échantillon du virus sous forme d'arme. Vous devriez le trouver dans la réserve à ogives devant laquelle vous êtes passés tout à l'heure.",
+        "de": "Gute Arbeit. Wenn es uns gelingt, diese Probe an das CDC zu übermitteln, werden sie einen Reaktionsplan für den Fall entwickeln können, dass diese Waffe gegen unsere Truppen eingesetzt wird. Was wir jetzt noch brauchen, ist eine Probe des Virus in seiner waffenfähigen Form. Ihr müsst einen Weg in den Raum finden, in dem die Sprengköpfe gelagert werden, um eine Probe zu entnehmen.",
+        "es": "Llevaremos esto al Centro de Control de Epidemias para que desarrollen un plan de respuesta por si usan esta arma contra nuestras tropas. Necesito una cosa más: una muestra del propio virus en forma de arma. Para ello tenéis que entrar en la sala donde almacenan las ojivas. Antes habéis pasado por ella.",
+        "it": "Ottimo lavoro. Se riusciamo a inviarlo al CDC, loro possono preparare un piano di reazione nel caso che quest'arma venga usata contro i nostri soldati. L'ultima cosa che vogliamo è un campione del virus sotto forma di arma. Dovete raggiungere il magazzino delle testate che avete attraversato prima e prendere un campione.",
+        "th": ""
+      },
+      "Note_0022L": {
+        "en": "A missile in the storage bay contains the virus sample you need.",
+        "fr": "Vous trouverez l'échantillon de virus requis dans un missile de l'entrepôt.",
+        "de": "Eine Rakete im Lagerschacht enthält die benötigte Virenprobe.",
+        "es": "El misil del muelle de carga contiene una muestra del virus que necesitas.",
+        "it": "Un missile nel magazzino contiene il campione di virus che ti serve.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0020": {
+        "en": "Retrieve a viral sample from one of the missiles.",
+        "fr": "Récupérez un échantillon de virus dans un des missiles.",
+        "de": "Entnehmen Sie einer der Raketen eine Virusprobe.",
+        "es": "Consigue una muestra de virus de uno de los misiles.",
+        "it": "Recupera un campione di virus da uno dei missili.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "LAMBERT: Good work. I suggest you be careful with that stuff. Make your way to the moorage down below and avail yourselves of some transportation. We'll pick you up from open water.",
+        "fr": "Beau travail. Faites très attention avec cette substance. Descendez au quai, vous devriez y trouver un moyen de transport. Nous vous récupèrerons en haute mer.",
+        "de": "Gute Arbeit. Ich empfehle äußerste Vorsicht mit dem Zeug. Geht hinunter zum Anlegeplatz und organisiert euch ein Transportmittel. Wir werden euch vom offenen Meer aus abholen.",
+        "es": "Buen trabajo. Tened mucho cuidado con esa muestra. Bajad hasta el amarradero y conseguid algún medio de transporte. Os recogeremos en mar abierto.",
+        "it": "Ben fatto. Vi suggerisco di stare attenti con quella roba. Portatevi al molo di sotto e trovate un mezzo di trasporto. Vi recupereremo in mare aperto.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0021": {
+        "en": "Exfiltrate to the primary extraction point",
+        "fr": "Rejoignez le point d'extraction principal.",
+        "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
+        "es": "Ve al punto de extracción primario.",
+        "it": "Vai al punto di estrazione primario.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "LAMBERT: Good thinking. If CDC can see the procedure they used in the operation, it'll make figuring out the exact nature of the virus a lot easier.",
+        "fr": "Bonne idée. Le fait de connaître la procédure utilisée par les Nord-Coréens devrait aider les chercheurs du CDC à déterminer la nature exacte du virus.",
+        "de": "Gut mitgedacht. Wenn das CDC den Herstellungsprozess nachvollziehen kann, wird es ihnen leichter fallen, die exakte Natur des Virus zu bestimmen.",
+        "es": "Bien. Si el Centro de Control de Epidemias puede ver el procedimiento que han utilizado, les será más fácil precisar la naturaleza del virus.",
+        "it": "Buona idea. Se il CDC conosce la procedura usata per l'operazione, sarà molto più facile scoprire la natura esatta del virus.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "LAMBERT: We can't extract you until your objectives are complete. Get back in there and finish the mission.",
+        "fr": "Impossible de procéder à votre extraction tant que vous n'avez pas rempli tous vos objectifs. Terminez votre mission.",
+        "de": "Wir können euch erst herausholen, wenn ihr eure Missionsziele erfüllt habt. Geht zurück und erledigt euren Auftrag.",
+        "es": "No podemos extraeros hasta que hayáis completado los objetivos. Tenéis que volver y terminar.",
+        "it": "Non possiamo venire a prendervi fino al completamento dei vostri obiettivi. Tornate dentro e finite la missione!",
+        "th": ""
+      },
+      "Speech_0014L": {
+        "en": "LAMBERT: Damn. That is exactly the kind of news I didn't want to hear... a rogue Colonel with bio weapons and an agenda.",
+        "fr": "Bon sang, mon pire cauchemar est en train de se réaliser... un colonel incontrôlable ayant accès à des armes biologiques.",
+        "de": "Verdammt. Das ist genau die Art von Nachricht, die ich nicht hören wollte ... ein machtgieriger Oberst mit Biowaffen und eigenen Zielen.",
+        "es": "La peor noticia posible. Un coronel corrupto con armas biológicas y una agenda de malos contactos.",
+        "it": "Dannazione. È proprio quello che ci mancava... un colonnello ribelle dotato di armi biologiche e pronto a usarle.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_InterroGuard": {
+      "_source": "P_03_ChemBunker",
+      "Speech_0001L": {
+        "en": "Oh, no... you must be the Americans. I knew this day would come. Look, don't kill me... the code for the main lab is 8416...",
+        "fr": "Oh, nous, vous êtes des Américains ! Je savais que ça finirait comme ça. Ne me tuez pas, je vous en prie ! Le code du labo principal est le 8416.",
+        "de": "Oh, nein ... Sie müssen die Amerikaner sein. Ich wusste, dass dieser Tag kommen würde. Bitte töten Sie mich nicht ... der Code für das Hauptlabor lautet 8416.",
+        "es": "Vosotros debéis ser los americanos. Sabía que esto acabaría ocurriendo. El código del laboratorio principal es 8416.",
+        "it": "Oh, no... dovete essere gli americani. Sapevo che un giorno sarebbe successo. Sentite, non uccidetemi... il codice per il laboratorio principale è 8416...",
+        "th": ""
+      },
+      "Note_0003L": {
+        "en": "The key code to open the security port of the main lab is 8416",
+        "fr": "Le code permettant d'ouvrir la porte blindée du laboratoire principal est le 8416.",
+        "de": "Der Nummerncode für den Sicherheitsdurchlass des Hauptlabors lautet 8416.",
+        "es": "El código de las puertas de seguridad del laboratorio principal es 8416.",
+        "it": "Il codice per aprire la porta di sicurezza nel laboratorio principale è 8416.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_InterroTech": {
+      "_source": "P_03_ChemBunker",
+      "Speech_0001L": {
+        "en": "Oh, god. Please... no... I'm just a scientist. I just take care of the monkeys. I'll tell you everything. The code for the mini-lab is 5791... you'll find what you're looking for in there.",
+        "fr": "Oh, seigneur, je vous en prie ! Je suis juste un chercheur ! Je m'occupe des singes, c'est tout. Je vais parler. Le code du minilabo est le 5791. Vous y trouverez ce que vous cherchez.",
+        "de": "Oh, Gott. Bitte ... nein ... ich bin nur ein Wissenschaftler. Ich kümmere mich um die Affen. Ich werde Ihnen alles sagen. Der Code für das Labor lautet 5791 ... Dort finden Sie alles, was Sie suchen.",
+        "es": "¡Por favor, no me matéis! Sólo soy un científico. Me encargo de los monos. Os lo contaré todo. El código del minilaboratorio es 5791. Allí encontraréis lo que buscáis.",
+        "it": "Oddio. Vi prego... no... Io sono solo uno scienziato. Mi occupo solo delle scimmie. Vi dirò tutto. Il codice per il mini-laboratorio è 5791... troverete là dentro quello che state cercando.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "Oh... please don't kill me. The mini-lab code is 5791 and the code for the fridge inside is 1423. Please... I didn't do anything wrong.",
+        "fr": "Ne me tuez pas, je vous en prie. Le code du minilabo est le 4791, et celui du frigo qui se trouve à l'intérieur, le 1423. Je n'ai rien fait de mal...",
+        "de": "Oh ... bitte töten Sie mich nicht. Der Code für das Labor lautet 5791 und der für den Kühlschrank im Inneren lautet 1423. Bitte ... ich habe nichts Falsches getan.",
+        "es": "¡Por favor, no me matéis! ¡No he hecho nada malo! El código del minilaboratorio es 591, y el de la nevera que hay dentro es 1423.",
+        "it": "Oh... per favore, non uccidetemi. Il codice per il mini-laboratorio è 5791 e il codice per il frigorifero all'interno è 1423. Per favore... Io non ho fatto niente di male.",
+        "th": ""
+      },
+      "Note_0003L": {
+        "en": "The key code into the mini lab is 5791",
+        "fr": "Le code du mini-laboratoire est le 5791.",
+        "de": "Der Nummerncode für das Minilabor lautet 5791.",
+        "es": "El código del minilaboratorio es 5791.",
+        "it": "Il codice del mini laboratorio è 5791.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_LocalizationTemp": {
+      "_source": "P_03_ChemBunker",
+      "Note_0001L": {
+        "en": "The key code to the refrigerated locker in the mini lab is 8361.",
+        "fr": "Le code de la porte de la chambre froide du mini-laboratoire est le 8361.",
+        "de": "Der Nummerncode für den Gefrierschrank im Minilabor lautet 8361.",
+        "es": "El código de la cámara refrigerada en el minilaboratorio es 8361.",
+        "it": "Il codice per l'armadietto refrigerato nel mini laboratorio è 8361.",
+        "th": ""
+      },
+      "Note_0002L": {
+        "en": "The key code into the mini lab is 9015.",
+        "fr": "Le code de la porte du mini-laboratoire est le 9015.",
+        "de": "Der Nummerncode für das Minilabor lautet 9015.",
+        "es": "El código del minilaboratorio es 9015.",
+        "it": "Il codice per il mini laboratorio è 9015.",
+        "th": ""
+      },
+      "Note_0003L": {
+        "en": "The key code into the operating room is 5439.",
+        "fr": "Le code de la porte de la salle des opérations est le 5439.",
+        "de": "Der Nummerncode für den Betriebsraum lautet 5439.",
+        "es": "El código de la sala de operaciones es 5439.",
+        "it": "Il codice per la sala operatoria è 5439.",
+        "th": ""
+      },
+      "Note_0004L": {
+        "en": "The key code to open the main lab from the security port is 8416.",
+        "fr": "Le code de la porte du laboratoire principal en arrivant par l'accès de sécurité est le 2570.",
+        "de": "Der Nummerncode zum Öffnen des Hauptlabors vom Sicherheitsdurchgang aus lautet  2570.",
+        "es": "El código para abrir el laboratorio principal desde la puerta de seguridad es 2570.",
+        "it": "Il codice per aprire il laboratorio principale dalla porta di sicurezza è 2570.",
+        "th": ""
+      },
+      "Note_0005L": {
+        "en": "A missile in the storage bay contains the virus sample you need.",
+        "fr": "Vous trouverez l'échantillon de virus requis dans un missile de l'entrepôt.",
+        "de": "Eine Rakete im Lagerschacht enthält die benötigte Virenprobe.",
+        "es": "El misil del muelle de carga contiene una muestra del virus que necesitas.",
+        "it": "Un missile nel magazzino contiene il campione di virus che ti serve.",
+        "th": ""
+      },
+      "Note_0006L": {
+        "en": "The code for unlocking the missile warhead is 1961.",
+        "fr": "Le code permettant d'accéder à l'ogive du missile est le 1961.",
+        "de": "Der Code für die Freigabe des Sprengkopfs lautet 1961.",
+        "es": "El código para desbloquear la cabeza del misil es 1961.",
+        "it": "Il codice per disattivare la testata del missile è 1961.",
+        "th": ""
+      },
+      "Note_0007L": {
+        "en": "Anti-viral protocol Component One = Blood Serum Type A.",
+        "fr": "Elément 1 du protocole antiviral : sérum sanguin de groupe A.",
+        "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe A.",
+        "es": "Compuesto uno del protocolo antivírico = Plasma sanguíneo tipo A.",
+        "it": "Componente Uno del protocollo anti-virale = Siero sanguigno tipo A.",
+        "th": ""
+      },
+      "Note_0008L": {
+        "en": "Anti-viral protocol Component One = Blood Serum Type B.",
+        "fr": "Elément 2 du protocole antiviral : sérum sanguin de groupe B.",
+        "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe B.",
+        "es": "Compuesto uno del protocolo antivírico = Plasma sanguíneo tipo B.",
+        "it": "Componente Uno del protocollo anti-virale = Siero sanguigno tipo B.",
+        "th": ""
+      },
+      "Note_0009L": {
+        "en": "Anti-viral protocol Component One = Blood Serum Type O.",
+        "fr": "Elément 3 du protocole antiviral : sérum sanguin de groupe O.",
+        "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe 0.",
+        "es": "Compuesto uno del protocolo antivírico = Plasma sanguíneo tipo O.",
+        "it": "Componente Uno del protocollo anti-virale = Siero sanguigno tipo 0.",
+        "th": ""
+      },
+      "Note_0010L": {
+        "en": "Protocol Sequence - User One = ",
+        "fr": "Séquence du protocole - utilisateur 1 : ",
+        "de": "Protokollsequenz - Benutzer Eins = ",
+        "es": "Secuencia de protocolo - Usuario Uno = ",
+        "it": "Sequenza protocollo - Utente Uno = ",
+        "th": ""
+      },
+      "Note_0011L": {
+        "en": "Protocol Sequence - User Two =",
+        "fr": "Séquence du protocole - utilisateur 2 :",
+        "de": "Protokollsequenz - Benutzer Zwei =",
+        "es": "Secuencia de protocolo - Usuario Dos =",
+        "it": "Sequenza protocollo - Utente Due =",
+        "th": ""
+      },
+      "Note_0012L": {
+        "en": "Blue",
+        "fr": "Bleu",
+        "de": "Blau",
+        "es": "Azul",
+        "it": "Blu",
+        "th": ""
+      },
+      "Note_0013L": {
+        "en": "Red",
+        "fr": "Rouge",
+        "de": "Rot",
+        "es": "Rojo",
+        "it": "Rosso",
+        "th": ""
+      },
+      "Note_0014L": {
+        "en": "Violet",
+        "fr": "Violet",
+        "de": "Violett",
+        "es": "Violeta",
+        "it": "Viola",
+        "th": ""
+      },
+      "Note_0015L": {
+        "en": "Green",
+        "fr": "Vert",
+        "de": "Grün",
+        "es": "Verde",
+        "it": "Verde",
+        "th": ""
+      },
+      "Note_0016L": {
+        "en": "Yellow",
+        "fr": "Jaune",
+        "de": "Gelb",
+        "es": "Amarillo",
+        "it": "Giallo",
+        "th": ""
+      },
+      "Note_0017L": {
+        "en": "Aqua",
+        "fr": "Turquoise",
+        "de": "Aquamarin",
+        "es": "Agua",
+        "it": "Azzurro",
+        "th": ""
+      },
+      "Speech_0018L": {
+        "en": "Is the zodiac all fueled up?",
+        "fr": "Il y a du carburant dans le zodiac ?",
+        "de": "Ist das Zodiac aufgetankt?",
+        "es": "¿Tiene combustible la zodiac?",
+        "it": "C'è carburante nello zodiac?",
+        "th": ""
+      },
+      "Speech_0019L": {
+        "en": "Fueled and ready to go.",
+        "fr": "Oui, il est prêt à partir.",
+        "de": "Voll getankt und bereit zur Abfahrt.",
+        "es": "Sí. Está preparada.",
+        "it": "Pieno e pronto a partire.",
+        "th": ""
+      },
+      "Speech_0020L": {
+        "en": "Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.",
+        "fr": "Bien. Si les Américains découvrent cet endroit, ils détruiront sans doute le lance-missiles. Avec un peu de chance, on devrait s'en sortir en prenant le zodiac.",
+        "de": "Gut. Wenn die Amerikaner von diesem Ort erfahren, werden sie das Raketenboot ganz bestimmt nicht intakt auslaufen lassen. Wir werden das Zodiac nehmen und hoffentlich nicht bombardiert.",
+        "es": "Si los americanos descubren este lugar, no creo que dejen intacta la lancha lanzamisiles. Cogeremos la zodiac y con suerte escaparemos vivos.",
+        "it": "Bene. Se gli americani scoprono questo posto, non permetteranno che il la nave col missile esca. Prenderemo lo zodiac e speriamo che non ci bombardino.",
+        "th": ""
+      },
+      "Speech_0021L": {
+        "en": "Good idea. I'm with you.",
+        "fr": "Bonne idée. Je suis partant.",
+        "de": "Gute Idee. Ich bin dabei.",
+        "es": "Estoy contigo. Buena idea.",
+        "it": "Ottima idea. Sono con te.",
+        "th": ""
+      },
+      "Speech_0022L": {
+        "en": "Under interrogation by Special agent Jack Baxter, Jong Pom-chu confessed his involvement in delivering highly classified bio-weapon research to agents of the CGIB. CGIB then blackmailed him into acquire heavily regulated v So, what does it say? Viral engineering equipment which he smuggled through Panama on their behalf. Our investigation of Jong's reported telecommunications activities over the last few months makes it clear that the North Korean government may be using his intelligence and his equipment to manufacture biological weapons in a series of old bunkers near Namp'o-si. Your mission is infiltrate the bunker complex, identify any chemical or biological weapons, and recover samples of any agents being developed.",
+        "fr": "Interrogé par l'agent spécial Jack Baxter, Jong Pom-chu a avoué avoir pris part à la livraison de résultats de recherches ultra-secrètes sur les armes biologiques aux agents de la CGIB. La CGIB l'a ensuite fait chanter pour obtenir du matériel d'ingénierie virale, qu'il a livré en le faisant passer en fraude par le canal de Panama. L'enquête que nous avons menée sur Jong a permis de conclure que le gouvernement nord-coréen pourrait avoir l'intention d'utiliser les renseignements fournis par Jong pour fabriquer des armes biologiques dans un complexe de vieux bunkers proches de Namp'o-si. Votre mission consiste à vous infiltrer dans le complexe, à identifier les éventuelles armes chimiques ou biologiques présentes et à récupérer des échantillons des substances en cours de développement.",
+        "de": "Im Verhör durch Spezialagent Jack Baxter gestand Jong Pom-chu, streng geheime Forschungsergebnisse über Bio-Waffen an Agenten des nordkoreanischen Geheimdiensts weitergegeben zu haben. Der Geheimdienst erpresste ihn anschließend dazu, streng kontrollierte Ausrüstung zur Virusherstellung zu besorgen, die er für sie durch Panama schmuggelte. Unsere Überprüfung von Jongs Telekommunikations-Aktivitäten in den letzten Monaten weist darauf hin, dass die nordkoreanische Regierung sein Wissen und seine Ausrüstung für die Herstellung von Biowaffen in einer Reihe von alten Bunkern in der Nähe von Namp'o-si verwenden könnte. Eure Aufgabe ist es, in den Bunkerkomplex einzudringen, vorhandene chemische oder biologische Waffen zu identifizieren und Proben der dort entwickelten Erreger zu sammeln.",
+        "es": "Interrogado por el agente especial Jack Baxter, Jong Pom-chu ha confesado su participación en la venta de secretos de guerra biológica a agentes del CGIB. El CGIB le chantajeó después para que les suministrara material de bioingeniería vírica que Jong pasaba de incógnito a través de Panamá. Las investigaciones sobre las comunicaciones de Jong en los últimos meses demuestran que el gobierno norcoreano puede estar usando tanto su información como su material para fabricar armas biológicas en un viejo complejo de búnkers cerca de Namp'o-si. Vuestra misión es infiltraros en el complejo, identificar posibles armas químicas o biológicas y obtener muestras de los agentes utilizados.",
+        "it": "Interrogato dall'agente speciale Jack Baxter, Jong Pom-chu ha confessato di essere conivolto nella consegna di certe ricerche segrete sulle armi biologiche ad agenti del CGIB. Il CGIB l'avrebbe quindi ricattato per fargli acquistare equipaggiamenti per la modifica dei virus, per i quali sono previste pesanti restrizioni. Pom-chu è riuscito a contrabbandare questi equipaggiamenti per conto del CGIB attraverso Panama. La nostra indagine ha rivelato che Jong negli ultimi mesi è stato in contatto con il governo nordcoreano, che sta usando le sue informazioni e il suo equipaggiamento per costruire armi biologiche in una serie di vecchi bunker vicino a Namp'o-si. La vostra missione è infiltrarvi nel complesso di bunker, identificare le armi chimiche o biologiche esistenti, e recuperare campioni degli agenti in sviluppo.",
+        "th": ""
+      },
+      "Speech_0023L": {
+        "en": "Long Dan, the Chinese ambassador to the US, has been praised for his diplomatic effort in bringing about a cease-fire in the Korean War. Even as American and North and South Korean forces face an uneasy stand-off in still-occupied Seoul, diplomats return to the bargaining table for an emergency session. ",
+        "fr": "Long Dan, l'ambassadeur de Chine aux Etats-Unis, a été chaudement félicité pour les efforts qu'il a déployés afin d'obtenir un cessez-le-feu en Corée. Les diplomates se sont réunis d'urgence autour de la table des négociations alors que les soldats américains, sud-coréens et nord-coréens s'observent en chiens de faïence. ",
+        "de": "Long Dan, der chinesische Botschafter in den Vereinigten Staaten, erhält von allen Seiten Lob für seine unermüdlichen Anstrengungen, den Krieg in Korea schnellstmöglich zu beenden. Während die amerikanischen und südkoreanischen Streitkräfte den nordkoreanischen Truppen im besetzten Seoul weiterhin in einer angespannten Pattsituation gegenüberstehen, kehren die Diplomaten der Länder kurzfristig an den Verhandlungstisch zurück.  ",
+        "es": "Long Dan, embajador chino en Estados Unidos, ha recibido alabanzas por sus esfuerzos para conseguir un alto el fuego en la Guerra de Corea. Mientras las tropas contendientes mantienen un compás de espera en Seúl, los diplomáticos han vuelto a la mesa de negociaciones para una reunión de urgencia. ",
+        "it": "Long Dan, l'ambasciatore cinese negli Stati Uniti, è stato lodato per il suo sforzo diplomatico che ha portato a un cessate il fuoco nella Guerra di Corea. Mentre le forze americane, sudcoreane e nordcoreane devono gestire un difficile stallo in una Seul ancora occupata, i diplomatici tornano al tavolo delle trattative per una sessione di emergenza. ",
+        "th": ""
+      },
+      "Speech_0024L": {
+        "en": "In other news, 141 of the bodies recovered from the Walsh incident arrived in the United States today in preparation for funeral services due to commence the day after tomorrow. The USS Walsh is now confirmed lost with all hands, leaving the death toll at a staggering 283 crewman and officers.",
+        "fr": "En bref, 141 des corps récupérés de l'incident du Walsh ont été rapatriés aux Etats-Unis afin d'y être enterrés. Les cérémonies funéraires commenceront après-demain. L'USS Walsh a officiellement coulé corps et bien, et le total des victimes se monte à 283 marins et officiers.",
+        "de": "Inlandsnachrichten: Die Leichen von 141 Besatzungsmitgliedern der Walsh sind heute in den Vereinigten Staaten eingetroffen. Die Toten sollen übermorgen feierlich beigesetzt werden. Nach Angaben aus Regierungskreisen geht man nun auch offiziell nicht mehr davon aus, Überlebende des Angriffs auf die USS Walsh bergen zu können. Damit steigt die Anzahl der Toten auf insgesamt 283 Besatzungsmitglieder.",
+        "es": "Otras noticias. Los 141 cadáveres recuperados tras el hundimiento del Walsh han llegado hoy a los Estados Unidos. Los funerales de las víctimas se celebrarán pasado mañana. Se confirma que el USS Walsh se hundió con toda su dotación, lo que eleva la cifra de muertos a 283 hombres.",
+        "it": "Cambiamo argomento. 141 corpi recuperati dall'affondamento della Walsh sono arrivati oggi negli Stati Uniti in preparazione del funerale che inizierà dopodomani. È stato confermato che la Walsh è andata perduta con tutto l'equipaggio, portando il triste conto delle vittime a 283, tra uomini dell'equipaggio e ufficiali.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0026": {
+        "en": "Infiltrate the bunker down one of the silos.",
+        "fr": "Introduisez-vous dans le bunker par l'un des silos.",
+        "de": "Begeben Sie sich durch einen der Silos zum Bunker.",
+        "es": "Infíltrate en el búnker, bajo los silos.",
+        "it": "Infiltrati nel bunker scendendo da uno dei silos.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0027": {
+        "en": "Recover the viral protocol from the main laboratory.",
+        "fr": "Allez chercher le protocole viral dans le laboratoire principal.",
+        "de": "Holen Sie das Virenprotokoll aus dem Hauptlabor.",
+        "es": "Recupera el protocolo vírico del laboratorio principal.",
+        "it": "Recupera il protocollo virale dal laboratorio principale.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0028": {
+        "en": "Acquire the appropriate chimpanzee blood serum needed for the antidote.",
+        "fr": "Procurez-vous le sérum sanguin de chimpanzé nécessaire pour la préparation de l'antidote.",
+        "de": "Besorgen Sie das entsprechende Serum aus Schimpansenblut, das für das Gegengift benötigt wird.",
+        "es": "Consigue la sangre apropiada del chimpancé para la vacuna.",
+        "it": "Prendi il siero di sangue di scimpanzè che serve per l'antidoto.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0029": {
+        "en": "A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.",
+        "fr": "Préparez un échantillon d'antivirus grâce au protocole et récupérez-le dans la chambre froide.",
+        "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Antivirus-Probe herzustellen.",
+        "es": "Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.",
+        "it": "Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0030": {
+        "en": "A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.",
+        "fr": "Préparez un échantillon d'antivirus grâce au protocole et récupérez-le dans la chambre froide.",
+        "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Antivirus-Probe herzustellen.",
+        "es": "Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.",
+        "it": "Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0031": {
+        "en": "Retrieve a viral sample from one of the missiles.",
+        "fr": "Récupérez un échantillon de virus dans un des missiles.",
+        "de": "Entnehmen Sie einer der Raketen eine Virusprobe.",
+        "es": "Consigue una muestra de virus de uno de los misiles.",
+        "it": "Recupera un campione di virus da uno dei missili.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0032": {
+        "en": "Exfiltrate to the primary extraction point",
+        "fr": "Rejoignez le point d'extraction principal.",
+        "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
+        "es": "Ve al punto de extracción primario.",
+        "it": "Vai al punto di estrazione primario.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_MiniLab": {
+      "_source": "P_03_ChemBunker",
+      "Note_0001L": {
+        "en": "The key code to the refrigerated locker in the mini lab is 1423",
+        "fr": "Le code du casier réfrigéré du mini-laboratoire est le 1423.",
+        "de": "Der Nummerncode für den Gefrierschrank im Minilabor lautet 1423.",
+        "es": "El código de la cámara refrigerada del minilaboratorio es 1423.",
+        "it": "Il codice della cella frigorifera del mini laboratorio è 1423.",
+        "th": ""
+      },
+      "Note_0002L": {
+        "en": "The key code to the refrigerated locker in the mini lab is 1423",
+        "fr": "Le code du casier réfrigéré du mini-laboratoire est le 1423.",
+        "de": "Der Nummerncode für den Gefrierschrank im Minilabor lautet 1423.",
+        "es": "El código de la cámara refrigerada del minilaboratorio es 1423.",
+        "it": "Il codice della cella frigorifera del mini laboratorio è 1423.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_MiniLabChat01": {
+      "_source": "P_03_ChemBunker",
+      "Speech_0001L": {
+        "en": "Oh... Java... you're so cute you cuddly little wuddly boo...",
+        "fr": "Oh, Java... tu es si mignonne, ma petite boule de poils... guili-guili...",
+        "de": "Oh ... Java ... du bist so süß ... so süß, du hutschigutschidutschi ...",
+        "es": "Oh... Java... eres tan lista... Qué monita tan dulce y adorable...",
+        "it": "Oh... Java... sei così carina... piccola cucci cucci cucci...",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "Aaak!",
+        "fr": "Aaak !",
+        "de": "Aaak!",
+        "es": "¡Aaak!",
+        "it": "Aaak!",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Oh... Java... you're not hungry? But you've been pooping so well... yes... oh... that's so cute... mmm... mango... you love mango don't you boo-boo?",
+        "fr": "Tu n'as pas faim, si ? Mais c'est vrai que tu as bien fait tes besoins... alors... voyons... hmm... un peu de mangue, d'accord ? Tu aimes ça, hein, ma belle ?",
+        "de": "Oh ... Java ... hast du keinen Hunger? Aber du hast doch so schön Aa gemacht ... ja ... oh ... das ist so süß ... mmm ... Mango ... du magst doch gerne Mango, nicht wahr, Bubu?",
+        "es": "¿No tienes hambre, Java? Te has portado muy bien, sí. Mira, por haber sido buena, un poco de mango. ¿A que te gusta el mango, tesoro?",
+        "it": "Oh... Java.... Non avrai mica fame? Sei andata così bene di corpo... sì... oh... ma che carina... mmm... mango... ti piace il mango, no, piccolina?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Aaak! Aaak! Aaak! Aaak!",
+        "fr": "Aaak ! Aaak ! Aaak ! Aaak !",
+        "de": "Aaak! Aaak! Aaak! Aaak!",
+        "es": "¡Aaak! ¡Aaak! ¡Aaak! ¡Aaak!",
+        "it": "Aaak! Aaak! Aaak! Aaak!",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "Good girl Java... good girl...",
+        "fr": "Brave fille, Java... brave fille...",
+        "de": "Braves Mädchen, Java ... braves Mädchen ...",
+        "es": "Buena chica, Java. Buena chica.",
+        "it": "Brava bimba, Java... brava bimba...",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "Aaak! Aaak!",
+        "fr": "Aaak ! Aaak !",
+        "de": "Aaak! Aaak!",
+        "es": "¡Aaak! ¡Aaak!",
+        "it": "Aaak! Aaak!",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "Oh... you're so smart Java...",
+        "fr": "Qu'est-ce que tu es intelligente !",
+        "de": "Oh ... du bist so schlau, Java ...",
+        "es": "¡Pero qué lista eres, Java!",
+        "it": "Oh... sei così intelligente, Java...",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "Aaak! Aaak! Aaak!",
+        "fr": "Aaak ! Aaak ! Aaak !",
+        "de": "Aaak! Aaak! Aaak!",
+        "es": "¡Aaak! ¡Aaak! ¡Aaak!",
+        "it": "Aaak! Aaak! Aaak!",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_MissileBoatChat01": {
+      "_source": "P_03_ChemBunker",
+      "Speech_0008L": {
+        "en": "Is the zodiac all fueled up?",
+        "fr": "Is the zodiac all fueled up?",
+        "de": "Is the zodiac all fueled up?",
+        "es": "Is the zodiac all fueled up?",
+        "it": "Is the zodiac all fueled up?",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "Fueled and ready to go.",
+        "fr": "Fueled and ready to go.",
+        "de": "Fueled and ready to go.",
+        "es": "Fueled and ready to go.",
+        "it": "Fueled and ready to go.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.",
+        "fr": "Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.",
+        "de": "Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.",
+        "es": "Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.",
+        "it": "Good. If the Americans find out about this place, they certainly won't let the missile boat out of here intact. We'll take the zodiac and hopefully not get bombed.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "Good idea. I'm with you.",
+        "fr": "Good idea. I'm with you.",
+        "de": "Good idea. I'm with you.",
+        "es": "Good idea. I'm with you.",
+        "it": "Good idea. I'm with you.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_MissileRoom": {
+      "_source": "P_03_ChemBunker",
+      "Note_0001L": {
+        "en": "The code for unlocking the missile warhead is 1961.",
+        "fr": "Le code permettant d'accéder à l'ogive du missile est le 1961.",
+        "de": "Der Code für die Freigabe des Sprengkopfs lautet 1961.",
+        "es": "El código para desbloquear la cabeza del misil es 1961.",
+        "it": "Il codice per disattivare la testata del missile è 1961.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_MissileRoomChat01": {
+      "_source": "P_03_ChemBunker",
+      "Speech_0024L": {
+        "en": "So, what does it say?",
+        "fr": "Alors, qu'est-ce que ça dit ?",
+        "de": "Also, wie sieht's aus?",
+        "es": "¿Qué dice?",
+        "it": "Allora, cosa dice?",
+        "th": ""
+      },
+      "Speech_0025L": {
+        "en": "Loading... thirty-seven point one. Launch... spikes at thirty-seven point six. Flight... hmm... we range from thirty-seven point five when on-board convection begins, down to... thirty-six point four just before limit.",
+        "fr": "Chargement... trente-sept virgule un. Lancement... pics à trente-sept virgule six. Vol... hmm... nous allons de trente-sept virgule cinq au début de la connexion en vol, jusqu'à... trente-six virgule quatre juste avant la limite.",
+        "de": "Ladevorgang ... 37,1. Start ... Spitzen bei 37,6. Flug ... hmm ... wir liegen zwischen 37,5 wenn die Konvektion an Bord beginnt, bis runter zu 36,4 kurz vor dem Limit.",
+        "es": "Carga... treinta y siete uno. Lanzamiento... sube a treinta y siete seis. En vuelo tenemos desde treinta y siete cinco cuando empieza la convección a bordo, hasta treinta y seis cuatro justo antes del límite.",
+        "it": "Caricamento... trentasette punto uno. Lancio... punta a trentasette punto sei. Volo... hmm... stiamo tra trentasette punto cinque quando inizia la convezione a bordo, fino a... trentasei punto quattro appena  prima del limite.",
+        "th": ""
+      },
+      "Speech_0035L": {
+        "en": "That's all well within our delta two degrees. What about terminal?",
+        "fr": "Tout cela reste dans notre delta de deux degrés. Et au final ?",
+        "de": "Das ist alles innerhalb der geplanten Abweichung von zwei Grad. Was ist mit dem Zielanflug.",
+        "es": "Se mantiene dentro de los dos grados permitidos. ¿El punto terminal?",
+        "it": "Sotto il margine di errore di due gradi. Terminale?",
+        "th": ""
+      },
+      "Speech_0036L": {
+        "en": "It normalizes perfectly at terminal. Exactly thirty-seven degrees.",
+        "fr": "Tout redevient normal à ce moment. Trente-sept degrés exactement.",
+        "de": "Da normalisiert er sich wieder. Genau 37 Grad.",
+        "es": "En el punto terminal se normaliza. Treinta y siete grados.",
+        "it": "Normalizza perfettamente. Esattamente trentasette gradi.",
+        "th": ""
+      },
+      "Speech_0037L": {
+        "en": "Exactly body temperature.",
+        "fr": "La température du corps...",
+        "de": "Exakt Körpertemperatur.",
+        "es": "Como el cuerpo humano.",
+        "it": "Temperatura corporea esatta.",
+        "th": ""
+      },
+      "Speech_0038L": {
+        "en": "Giving an aerated half life of four hours and a twenty percent infection rate over sixteen hours.",
+        "fr": "Le tout avec une durée de vie de quatre heures au contact de l'air et un taux d'injection de vingt pour cent sur seize heures.",
+        "de": "Ergibt eine vierstündige Halbwertszeit an der Luft und eine zwanzigprozentige Infektionsrate in einem Zeitraum von sechzehn Stunden.",
+        "es": "Vida media de cuatro horas, con una tasa de infección del veinte por ciento a las dieciséis horas.",
+        "it": "Mi dà una vita aerea di quattro ore e una percentuale di infezione del venti per cento su sedici ore.",
+        "th": ""
+      },
+      "Speech_0039L": {
+        "en": "I'd call that a success.",
+        "fr": "C'est ce que j'appelle un succès...",
+        "de": "Das würde ich einen Erfolg nennen.",
+        "es": "Es un todo un éxito.",
+        "it": "Direi che è un successo.",
+        "th": ""
+      },
+      "Speech_0040L": {
+        "en": "Are you kidding. If there was a Nobel Prize for weapons research, we'd have just won it.",
+        "fr": "C'est tout ? S'il y avait un prix Nobel pour la création d'armes, je dirais qu'on vient juste de le gagner...",
+        "de": "Machst du Witze? Wenn es einen Nobelpreis für Waffenforschung gäbe, hätten wir ihn gerade gewonnen.",
+        "es": "Es una pena que no haya Premio Nobel de armas biológicas. Lo habríamos ganado.",
+        "it": "Stai scherzando? Se ci fosse il premio Nobel per la ricerca bellica lo avremmo appena vinto.",
+        "th": ""
+      },
+      "Speech_0041L": {
+        "en": "Maybe we'll get a commendation from Colonel Kim.",
+        "fr": "Peut-être que le colonel Kim nous fera citer...",
+        "de": "Vielleicht bekommen wir eine Auszeichnung von Oberst Kim.",
+        "es": "Quizás el coronel Kim nos recomiende.",
+        "it": "Forse avremo una lode dal Colonnello Kim.",
+        "th": ""
+      },
+      "Speech_0042L": {
+        "en": "Didn't you hear? The Colonel disappeared. He was ordered to report to General Po, but he never showed up.",
+        "fr": "Tu n'es pas au courant ? Il a disparu. Il devait aller faire son rapport au général Po, mais il n'est jamais arrivé.",
+        "de": "Hast du es nicht gehört? Der Oberst ist verschwunden. Er hatte Befehl, sich bei General Lu zu melden, aber er ist niemals erschienen.",
+        "es": "¿No te has enterado? Ha desaparecido. Se presentó ante el general Po, y nadie lo ha vuelto a ver.",
+        "it": "Non hai sentito le notizie? Il Colonnello è scomparso. Doveva fare rapporto al Generale Po, ma non si è mai presentato.",
+        "th": ""
+      },
+      "Speech_0043L": {
+        "en": "What?!",
+        "fr": "Quoi ?",
+        "de": "Was?!",
+        "es": "¿Qué?",
+        "it": "Che cosa?!",
+        "th": ""
+      },
+      "Speech_0044L": {
+        "en": "He accused the General of cow-towing to the Chinese bureaucrats at the expense of five thousand loyal troops.",
+        "fr": "Il a accusé le général de lécher les bottes des bureaucrates chinois en sacrifiant cinq mille soldats loyaux.",
+        "de": "Er beschuldigte den General, dass er den chinesischen Bürokraten, auf Kosten von fünftausend loyalen Soldaten, in den Hintern kriechen würde.",
+        "es": "Acusó al general de inclinarse ante la burocracia china a costa de cinco mil soldados leales.",
+        "it": "Ha accusato il Generale di inchinarsi ai burocrati cinesi tradendo la fiducia di cinquemila soldati leali.",
+        "th": ""
+      },
+      "Speech_0045L": {
+        "en": "Well... it's kind of true.",
+        "fr": "Ben... c'est assez vrai...",
+        "de": "Nun ... das stimmt irgendwie.",
+        "es": "En eso tenía razón.",
+        "it": "Beh... è abbastanza vero.",
+        "th": ""
+      },
+      "Speech_0046L": {
+        "en": "Rumor is he took the viral cultures and is threatening to weaponize them to fight the war single-handedly.",
+        "fr": "On raconte qu'il aurait emporté les cultures virales et qu'il aurait l'intention de créer des armes pour faire la guerre tout seul.",
+        "de": "Den Gerüchten nach hat er die Virenkulturen an sich genommen und droht damit, sie waffenfähig zu machen, um den Krieg eigenhändig weiterzuführen.",
+        "es": "Dicen que se ha apoderado de los cultivos víricos y que amenaza con utilizarlos para hacer la guerra él solo.",
+        "it": "Si dice che abbia preso le colture di virus e che minacci di trasformarle in armi per combattere la guerra da solo.",
+        "th": ""
+      },
+      "Speech_0047L": {
+        "en": "Hm. Well, good thing this bunker is hardened against bio-agents.",
+        "fr": "Hmm... heureusement que ce bunker résiste aux armes chimiques, alors...",
+        "de": "Hm. Gut, dass dieser Bunker für biologische Kampfstoffe undurchdringlich ist.",
+        "es": "Menos mal que el búnker está protegido contra agentes biológicos.",
+        "it": "Hm. Beh, la buona notizia è che questo bunker è resistente agli agenti biologici.",
+        "th": ""
+      },
+      "Speech_0048L": {
+        "en": "I'll say.",
+        "fr": "Tu l'as dit !",
+        "de": "Würde ich auch sagen.",
+        "es": "Sí.",
+        "it": "Meglio così.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_Objectives": {
+      "_source": "P_03_ChemBunker",
+      "Objective_0033": {
+        "en": "Recover the videotape of the monkey autopsy.",
+        "fr": "Récupérez la cassette de l'autopsie du singe.",
+        "de": "Besorgen Sie das Videoband mit der Autopsie des Affen.",
+        "es": "Consigue la cinta de la autopsia del mono.",
+        "it": "Recupera la registrazione dell'autopsia sulla scimmia.",
+        "th": ""
+      },
+      "Objective_0034": {
+        "en": "   ",
+        "fr": "   ",
+        "de": "   ",
+        "es": "   ",
+        "it": "   ",
+        "th": ""
+      },
+      "Objective_0025": {
+        "en": "Infiltrate the bunker down one of the silos.",
+        "fr": "Introduisez-vous dans le bunker par l'un des silos.",
+        "de": "Begeben Sie sich durch einen der Silos zum Bunker.",
+        "es": "Infíltrate en el búnker, bajo los silos.",
+        "it": "Infiltrati nel bunker scendendo da uno dei silos.",
+        "th": ""
+      },
+      "Objective_0026": {
+        "en": "The only way to infiltrate the bunker is down one of the launch tubes.",
+        "fr": "Le seul moyen d'accéder au bunker est de passer par l'une des rampes de lancement.",
+        "de": "Sie können den Bunker nur über eins der Abschussrohre erreichen.",
+        "es": "El único modo de infiltrarse en el búnker es por debajo de uno de los tubos de lanzamiento.",
+        "it": "L'unico modo di infiltrarsi nel bunker è scendendo per uno dei tubi di lancio.",
+        "th": ""
+      },
+      "Objective_0031": {
+        "en": "Recover the viral protocol from the main laboratory.",
+        "fr": "Allez chercher le protocole viral dans le laboratoire principal.",
+        "de": "Holen Sie das Virenprotokoll aus dem Hauptlabor.",
+        "es": "Recupera el protocolo vírico del laboratorio principal.",
+        "it": "Recupera il protocollo virale dal laboratorio principale.",
+        "th": ""
+      },
+      "Objective_0032": {
+        "en": "The protocol for the North Korean biological weapon must be recovered from the main laboratory in order for you to manufacture an anti-virus.",
+        "fr": "Vous devez récupérer le protocole de l'arme biologique nord-coréenne dans le laboratoire principal pour pouvoir préparer un antivirus.",
+        "de": "Sie müssen das Protokoll der biologischen Waffe der Nordkoreaner aus dem Labor entwenden, damit Sie einen Antivirus herstellen können.",
+        "es": "El protocolo del arma biológica norcoreana debe ser recuperado del laboratorio principal para que puedas preparar una vacuna.",
+        "it": "Devi recuperare dal laboratorio principale il protocollo per l'arma biologica nordcoreana per poter creare l'antidoto. ",
+        "th": ""
+      },
+      "Objective_0009": {
+        "en": "Acquire the appropriate chimpanzee blood serum needed for the antidote.",
+        "fr": "Procurez-vous le sérum sanguin de chimpanzé nécessaire pour la préparation de l'antidote.",
+        "de": "Besorgen Sie das entsprechende Serum aus Schimpansenblut, das für das Gegengift benötigt wird.",
+        "es": "Consigue la sangre apropiada del chimpancé para la vacuna.",
+        "it": "Prendi il siero di sangue di scimpanzè che serve per l'antidoto.",
+        "th": ""
+      },
+      "Objective_0017": {
+        "en": "Blood serum from a test chimpanzee must be recovered in order for you to manufacture an anti-virus using the protocol.",
+        "fr": "Vous devez récupérer du sérum sanguin de chimpanzé afin de pouvoir préparer un antivirus en suivant le protocole.",
+        "de": "Sie brauchen das Blutserum von einem Testschimpansen, um ein Antivirus mithilfe des Protokolls herzustellen.",
+        "es": "Debes recoger plasma sanguíneo de un chimpancé para que puedas preparar una vacuna siguiendo el protocolo antivírico.",
+        "it": "Devi recuperare il siero di sangue di uno degli scimpanzè-cavia per poter creare un antidoto usando il protocollo.",
+        "th": ""
+      },
+      "Objective_0010": {
+        "en": "Retrieve a sample of the anti-virus from the cryogenic chamber.",
+        "fr": "Récupérez un échantillon d'antivirus dans la chambre froide.",
+        "de": "Holen Sie eine Probe des Antivirus aus der Kryo-Kammer.",
+        "es": "Recupera una muestra de la vacuna de la cámara criogénica.",
+        "it": "Recupera un campione dell'antidoto dalla camera criogenica.",
+        "th": ""
+      },
+      "Objective_0018": {
+        "en": "A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.",
+        "fr": "Un échantillon d'antivirus doit être préparé grâce au protocole et récupéré dans la chambre froide.",
+        "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Probe des Antivirus mithilfe des Protokolls herzustellen.",
+        "es": "Debes preparar una muestra de la vacuna contra el virus con el protocolo, y sacarla de la cámara criogénica.",
+        "it": "Devi creare un campione di antidoto usando il protocollo e prendendo del materiale dalla camera criogenica.",
+        "th": ""
+      },
+      "Objective_0019": {
+        "en": "Retrieve a viral sample from one of the missiles.",
+        "fr": "Récupérez un échantillon de virus dans un des missiles.",
+        "de": "Entnehmen Sie einer der Raketen eine Virusprobe.",
+        "es": "Consigue una muestra de virus de uno de los misiles.",
+        "it": "Recupera un campione di virus da uno dei missili.",
+        "th": ""
+      },
+      "Objective_0020": {
+        "en": "A sample of the weaponized virus must be recovered from one of the warheads in the storage facility.",
+        "fr": "Récupérez un échantillon de virus à partir de l'ogive d'un des missiles de l'entrepôt.",
+        "de": "Eine Virusprobe muss aus einem der Sprengköpfe im Lager entnommen werden.",
+        "es": "Debes recuperar una muestra del virus armamentístico colocado en las cabezas de misiles, en el almacén.",
+        "it": "Devi recuperare un campione del virus arma da una delle testate nel magazzino.",
+        "th": ""
+      },
+      "Objective_0021": {
+        "en": "Exfiltrate to the primary extraction point",
+        "fr": "Rejoignez le point d'extraction principal.",
+        "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
+        "es": "Ve al punto de extracción principal.",
+        "it": "Vai al punto di estrazione primario.",
+        "th": ""
+      },
+      "Objective_0022": {
+        "en": "Get to the Zodiac at the end of the Missile Boat dock in order to extract.",
+        "fr": "Rejoignez le zodiac situé à l'extrémité des docks pour procéder à votre extraction.",
+        "de": "Begeben Sie sich zu dem Zodiac am Ende des Raketenbootdocks, um sich abzusetzen.",
+        "es": "Ve a la zodiac, al final del muelle de la zona de misiles, para tu extracción.",
+        "it": "Per l'estrazione usa lo Zodiac in fondo al molo della nave missili.",
+        "th": ""
+      },
+      "Objective_0029": {
+        "en": "Exfiltrate to the primary extraction point.",
+        "fr": "Rejoignez le point d'extraction principal.",
+        "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
+        "es": "Sal al punto de extracción principal.",
+        "it": "Vai al punto di estrazione primario.",
+        "th": ""
+      },
+      "Objective_0030": {
+        "en": "Get to the Zodiac at the end of the Missile Boat dock in order to extract.",
+        "fr": "Rejoignez le zodiac situé à l'extrémité des docks pour procéder à votre extraction.",
+        "de": "Begeben Sie sich zu dem Zodiac am Ende des Raketenbootdocks, um sich abzusetzen.",
+        "es": "Ve a la zodiac, al final del muelle de la zona de misiles, para tu extracción.",
+        "it": "Per l'estrazione usa lo Zodiac in fondo al molo della nave portamissili.",
+        "th": ""
+      }
+    },
+    "P_03_Chemical_WarehouseChat": {
+      "_source": "P_03_ChemBunker",
+      "Speech_0008L": {
+        "en": "Are you cold?",
+        "fr": "Tu as froid ?",
+        "de": "Ist dir kalt?",
+        "es": "¿Tienes frío?",
+        "it": "Hai freddo?",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "No. It's only really cold inside the cryo-chamber.",
+        "fr": "Non, il ne fait froid qu'à l'intérieur de la salle cryogénisée.",
+        "de": "Nein. Nur in der Kryo-Kammer ist es wirklich kalt.",
+        "es": "No. Donde hace frío de verdad es en la criocámara.",
+        "it": "No. È freddo solo nella camera criogenica.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "Then why are your teeth chattering.",
+        "fr": "Alors, pourquoi tu claques des dents ?",
+        "de": "Und warum klapperst du dann mit den Zähnen?",
+        "es": "Pues te castañetean los dientes.",
+        "it": "Allra perchè ti battono i denti?",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "Because I'm scared of the bio-weapons they keep inside the cryo-chamber.",
+        "fr": "Parce que j'ai la trouille des armes biologiques rangées dans la salle cryogénisée.",
+        "de": "Weil mir die Biowaffen Angst machen, die sie da drin aufbewahren ...",
+        "es": "Porque esas armas que hay en la cámara criogénica me dan pavor.",
+        "it": "Perchè ho paura delle armi biologiche che tengono dentro alla camera criogenica...",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "Really? I heard they were pretty humane.",
+        "fr": "C'est vrai ? Je croyais que c'étaient des armes propres...",
+        "de": "Wirklich? Ich hörte, sie sollen ziemlich human sein.",
+        "es": "¿Sí? Tenía entendido que eran humanitarias.",
+        "it": "Davvero? Ho sentito dire che sono abbastanza benigne.",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "If by humane you mean six hours of having your immune system turn against you, liquefy your internal organs and cause you to explosively hemorrhage infectious goop out of every orifice until you boil to death, sure.",
+        "fr": "Si, par armes propres, tu veux parler de saletés qui te détruisent to système immunitaire en moins de six heures, puis qui liquéfient tes organes internes et provoquent de violentes hémorragies par tous tes orifices, oui, elles sont propres...",
+        "de": "Wenn du mit human meinst, dass sich dein Immunsystem sechs Stunden lang gegen dich wendet, deine inneren Organe verflüssigt und dafür sorgt, dass du explosionsartig infektiösen Blutschleim aus jeder deiner Körperöffnungen absonderst, bevor zu Tode gekocht wirst, dann sicherlich schon.",
+        "es": "No sé, no parece muy humanitario que en seis horas tu sistema inmunológico se rebele contra ti, que tus órganos internos se deshagan y que se produzcan hemorragias infecciosas por todos los orificios de tu cuerpo.",
+        "it": "Se per \"benigno\" intendi dire che per sei ore il tuo sistema immunitario ti si rivolta contro, provoca la liquefazione dei tuoi organi interni ed emorragie esplosive di fluidi infetti da ogni buco del tuo corpo finchè non muori, allora sì, è come dici tu.",
+        "th": ""
+      },
+      "Speech_0016L": {
+        "en": "Oh. Nevermind.",
+        "fr": "Bah, n'y pense pas...",
+        "de": "Oh. Vergiss es.",
+        "es": "No he dicho nada.",
+        "it": "Oh. Come non detto.",
+        "th": ""
+      }
+    }
+  }
+}

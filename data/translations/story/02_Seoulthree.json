@@ -1,0 +1,1172 @@
+{
+  "_meta": {
+    "category": "story",
+    "name": "02_Seoulthree",
+    "sources": [
+      "02_Seoulthree",
+      "P_02_seoulthree"
+    ],
+    "total_strings": 140
+  },
+  "sections": {
+    "GENERAL": {
+      "_source": "02_Seoulthree",
+      "MapName": {
+        "en": "SEOUL 3",
+        "fr": "SEOUL",
+        "de": "SEOUL",
+        "es": "SEÚL",
+        "it": "SEUL",
+        "th": ""
+      },
+      "Briefing_LAMBERT": {
+        "en": "LAMBERT - This one should be a cake-walk. Jong Pom-chu is a South Korean chemist, suspected to be working for the North Korean Cabinet Intelligence Bureau. CIA has recently flagged him as someone with the capability to manufacture chemical and biological weapons. If what you discovered in Panama is true, and Jong has been bribing Senor de Medeiros to move illegal cargo through the Canal Zone, odds are good he also has the tools and ingredients. I need you to abduct Jong from Seoul before and North Korean forces manage to pick him up and sneak him out of the country.",
+        "fr": "Cette mission devrait être du gâteau. Jong Pom-chu est un chimiste sud-coréen que nous soupçonnons de travailler pour les services d'espionnage nord-coréens. Depuis peu, la CIA considère également qu'il est capable de fabriquer des armes chimiques ou biologiques. Si jamais ce que vous avez découvert à Panama s'avère exact et si Jong soudoie le señor de Medeiros pour faire passer des marchandises illégales par le canal, il y a de fortes chances pour que le Sud-Coréen possède le matériel allant avec. Allez à Séoul et capturez Jong avant que les Nord-Coréens ne le fassent.",
+        "de": "Das hier müsste ein Spaziergang werden. Jong Pom-chu ist ein südkoreanischer Chemiker, der unter Verdacht steht, für den nordkoreanischen Geheimdienst zu arbeiten. Die CIA hat ihn kürzlich als eine Person mit der Fähigkeit zur Herstellung chemischer und biologischer Waffen eingestuft. Wenn das, was ihr in Panama herausgefunden habt, der Wahrheit entspricht, und Jong Senor de Medeiros bestochen hat, um illegale Fracht durch die Kanalzone zu schmuggeln, sind die Chancen groß, dass er auch die entsprechenden Werkzeuge und Chemikalien besitzt. Ihr müsst Jong aus Seoul entführen, bevor es Nordkorea gelingt, ihn außer Landes zu schmuggeln.",
+        "es": "Esto es un trabajo fácil. Jong Pom-chu es un químico surcoreano. Sospechamos que trabaja para la agencia central de inteligencia de Corea del Norte. Según los informes de la CIA, tiene conocimientos suficientes para fabricar armas químicas y biológicas. Si lo que has descubierto en Panamá es cierto, que ha sobornado a Medeiros para pasar cargamento ilegal por el canal, es lógico suponer que Jong dispone además del material necesario. Tienes que ir a Seúl y secuestrar a Jong antes de que los norcoreanos lo saquen del país.",
+        "it": "Questa missione dovrebbe essere una passeggiata. Jong Pom-chu è un chimico sudcoreano, sospettato di lavorare con l'agenzia di spionaggio nordocreana. La CIA recentemente l'ha indicato come capace di costruire armi chimiche e biologiche. Se quanto hai scoperto a Panama è vero, e Jong ha corrotto il Señor de Medeiros per portare un carico illegale attraverso la zona del Canale, probabilmente ha anche la necessaria strumentazione e gli ingredienti giusti. Dovete rapire Jong a Seul prima che le forze nordcoreane riescano a prenderlo e a portarlo fuori dal paese.",
+        "th": ""
+      }
+    },
+    "Email": {
+      "_source": "02_Seoulthree",
+      "EmailescapeBody": {
+        "en": "In the event of an emergency, Jong may need to be relocated again so he is not captured by the Americans or South Koreans. If something goes wrong, there is a boat docked in the fish market. Tell Jong he can use that to escape.",
+        "fr": "En cas d'urgence, il est possible que Jong soit déplacé de nouveau, afin que les Américains ou les Sud-Coréens ne puissent pas le capturer. En cas de problème, un bateau est amarré au niveau du marché aux poissons. Dites à Jong qu'il peut s'en servir pour s'enfuir.",
+        "de": "Im Notfall muss Jong wahrscheinlich wieder an einen anderen Ort gebracht werden, damit er nicht den Amerikanern oder Südkoreanern in die Hände fällt. Wenn was schief geht: Am Fischmarkt liegt ein Schiff vor Anker. Sag Jong, dass er damit flüchten kann.",
+        "es": "En caso de emergencia Jong tiene que ser trasladado de nuevo para que no caiga en manos de los americanos o los surcoreanos. Si algo va mal hay una barca en el mercado del pescado. Dile a Jong que puede usarla para escapar. ",
+        "it": "In caso di emergenza potrebbe essere necessario trasferire Jong per evitare che venga catturato dagli americani o dai sudcoreani. Se qualcosa va storto c'è un'imbarcazione al mercato del pesce. Dì a Jong di usarla per scappare.",
+        "th": ""
+      },
+      "Emailescapedate": {
+        "en": "07/07/07",
+        "fr": "07/07/2007",
+        "de": "07. Juli 2007",
+        "es": "7 jul. 2007",
+        "it": "7 luglio 2007",
+        "th": ""
+      },
+      "Emailescapefrom": {
+        "en": "Sun",
+        "fr": "Sun",
+        "de": "Sun",
+        "es": "Sun",
+        "it": "Sun",
+        "th": ""
+      },
+      "Emailescapesubject": {
+        "en": "Escape Contingency",
+        "fr": "Plan B",
+        "de": "Fluchtmöglichkeiten",
+        "es": "En caso de huida",
+        "it": "Piano di fuga",
+        "th": ""
+      },
+      "Emailescapeto": {
+        "en": "Pok",
+        "fr": "Pok",
+        "de": "Pok",
+        "es": "Pok",
+        "it": "Pok",
+        "th": ""
+      },
+      "EmailbackdoorBody": {
+        "en": "The doorcode for the back of the hotel is 7649. Make sure this door is secure at all times.",
+        "fr": "Le code de la porte arrière de l'hôtel est le 7649. Vérifiez bien qu'elle reste fermée en permanence.",
+        "de": "Der Türcode für den Hintereingang des Hotels lautet 7649. Die Tür muss jederzeit gesichert sein.",
+        "es": "El código de la puerta trasera del hotel es 7649. Hay que asegurarse de que la puerta esté cerrada permanentemente.",
+        "it": "Il codice per la porta sul retro dell'albergo è 7649. La porta deve essere protetta in ogni momento.",
+        "th": ""
+      },
+      "Emailbackdoordate": {
+        "en": "07/08/07",
+        "fr": "08/07/2007",
+        "de": "08. Juli 2007",
+        "es": "8 jul. 2007",
+        "it": "8 luglio 2007",
+        "th": ""
+      },
+      "Emailbackdoorfrom": {
+        "en": "Ping",
+        "fr": "Ping",
+        "de": "Ping",
+        "es": "Ping",
+        "it": "Ping",
+        "th": ""
+      },
+      "EmailbackdoorSubject": {
+        "en": "Hotel Door code",
+        "fr": "Code de la porte de l'hôtel",
+        "de": "Code für Hoteltür",
+        "es": "Código de la puerta del hotel",
+        "it": "Codice della porta dell'albergo",
+        "th": ""
+      },
+      "Emailbackdoorto": {
+        "en": "Cho",
+        "fr": "Cho",
+        "de": "Cho",
+        "es": "Cho",
+        "it": "Cho",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_backalleyconv": {
+      "_source": "P_02_seoulthree",
+      "Speech_0001L": {
+        "en": "NKCol_Sun- Incompetence! Incompetence! Your orders were to maintain an overwatch while the Special Forces lead Jong away. ",
+        "fr": "Incompétent ! Sale bon à rien ! Vous deviez surveiller le secteur pendant que les forces spéciales emmenaient Jong. ",
+        "de": "Ihr inkompetenten Schwachköpfe! Ihr hattet doch den Befehl, Wache zu halten, während die Spezialeinheit Jong wegbringt. ",
+        "es": "¡Incompetente! ¡Inepto! Os había ordenado vigilar mientras las fuerzas especiales se llevaban a Jong. ",
+        "it": "Incompetente! Incompetente! I tuoi ordini erano di restare di guardia mentre le Forze Speciali portavano via Jong! ",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Bo- Sorry sir!",
+        "fr": "Désolé.",
+        "de": "Tut mir Leid, Oberst!",
+        "es": "Lo siento, señor.",
+        "it": "Scusi, signore!",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKCol_Sun- Sorry is not good enough. Tactically, we looked like fools. You think they will not report our incompetence to their superiors?!",
+        "fr": "Vous croyez que ça suffit ? Nous avons eu l'air d'imbéciles ! Vous croyez qu'ils ne mentionneront pas notre erreur à leurs supérieurs ?",
+        "de": "'Tut mir Leid' allein reicht hier nicht. Rein taktisch haben wir wie die letzten Deppen ausgesehen. Glaubt ihr, dass sie eure Inkompetenz nicht ihren Vorgesetzen melden werden?",
+        "es": "Eso no basta. Hemos quedado como unos estúpidos. ¿Crees que no informarán de nuestro error a sus superiores?",
+        "it": "Le tue scuse non sono abbastanza. Abbiamo fatto la figura degli imbecilli. Credi forse che non riferiranno ai loro superiori la nostra incompetenza?!",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "NKSol_Bo- It was my mistake, sir.",
+        "fr": "C'est de ma faute, monsieur.",
+        "de": "Es war mein Fehler, Oberst.",
+        "es": "Ha sido culpa mía, señor.",
+        "it": "L'errore è stato mio, signore.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "NKCol_Sun- Yes. But they don't know that. Your mistake is now my mistake! You may have cost me a promotion!",
+        "fr": "Oui, mais ils l'ignorent tous. Pour eux, je serai le fautif. Vous m'avez coûté ma promotion.",
+        "de": "Ja, aber das wissen sie nicht. Dein Fehler ist jetzt mein Fehler. Du könntest mich meine Beförderung gekostet haben!",
+        "es": "Sí, pero ellos no lo saben. ¡Tu error es ahora mi error! Por tu culpa, no me ascenderán.",
+        "it": "Sì, ma loro non lo sanno. Ora il tuo errore è il mio errore. Potresti essermi costato la promozione!",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "NKSol_Bo- Sir I--",
+        "fr": "Monsieur...",
+        "de": "Oberst, ich ...",
+        "es": "Señor, yo...",
+        "it": "Signore, io...",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "NKCol_Sun- Enough... I have had it with your idiocy!",
+        "fr": "Assez ! J'en ai plus qu'assez de vous, soldat !",
+        "de": "Es reicht! Ich habe die Nase voll von deiner Dummheit!",
+        "es": "No voy a seguir hablando con un idiota.",
+        "it": "Basta... Non posso più sopportare la tua idiozia!",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKCol_Sun- Dong!",
+        "fr": "Dong !",
+        "de": "Dong!",
+        "es": "¡Dong!",
+        "it": "Dong!",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_Dong- Yes sir!",
+        "fr": "Monsieur ?",
+        "de": "Ja, Oberst!",
+        "es": "¡Sí, señor!",
+        "it": "Sissignore!",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKCol_Sun- What just happened here?",
+        "fr": "Qu'avez-vous donc vu ?",
+        "de": "Was ist hier gerade passiert?",
+        "es": "¿Qué acaba de pasar aquí?",
+        "it": "Cos'è appena successo qui?",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "NKSol_Dong- You executed a traitor for deserting his post, sir!",
+        "fr": "Vous venez d'exécuter un traître et un lâche, colonel.",
+        "de": "Sie haben einen Verräter exekutiert, weil er seinen Posten verlassen hat!",
+        "es": "¡Que acaba de ejecutar a un desertor, señor!",
+        "it": "Lei ha giustiziato un traditore per diserzione, signore!",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "NKCol_Sun- I knew I could count on you Dong. If I don't get demoted for this, I'll make sure to put in a commendation for you.",
+        "fr": "Vous êtes un homme de confiance, Dong. Si je ne finis pas dégradé, je mettrai votre nom en avant pour une promotion.",
+        "de": "Ich wusste, dass ich mich auf dich verlassen kann, Dong! Wenn man mich wegen dieser Sache nicht degradiert, werde ich dich für einen Orden vorschlagen.",
+        "es": "Sabía que podía contar contigo, Dong. Si no me degradan por esto, te recomendaré para un ascenso.",
+        "it": "Sapevo di poter contare su di te, Dong. Se non mi degradano, ti farò avere una menzione speciale.",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "NKSol_Dong- Thank you Sir.",
+        "fr": "Merci bien.",
+        "de": "Danke, Oberst.",
+        "es": "Gracias, señor.",
+        "it": "Grazie, signore.",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_backalleyinterro": {
+      "_source": "P_02_seoulthree",
+      "Speech_0005L": {
+        "en": "NKCol_Sun- Damn! Ok... I surrender... You're special forces, you're probably after our special forces... we covered their escape from the hotel with some guy named Jong. I don't know where they took him, but they went down the alley past the fence.",
+        "fr": "Je me rends. Vous êtes des forces spéciales, alors, ce sont sûrement nos gars des forces spéciales qui vous intéressent. Nous avons couvert leur fuite pendant qu'ils quittaient l'hôtel avec un dingue appelé Jong. Ils ont pris l'allée située de l'autre côté de la clôture.",
+        "de": "Verdammt! Okay ... ich ergebe mich ... Sie sind bestimmt amerikanische Kommandos, die hinter unserer Spezialeinheit her sind ... Wir haben ihre Flucht mit so einem Kerl namens Jong, gedeckt. Ich weiß nicht, wohin sie ihn gebracht haben, aber sie gingen die Seitenstraße hinter dem Zaun hinunter.",
+        "es": "¡Me rindo! Veo que sois comandos, así que estaréis buscando a nuestros hombres de operaciones especiales. Se han llevado del hotel a un hombre llamado Jong mientras cubríamos su retirada. Han ido por ese callejón, pasada la verja.",
+        "it": "Dannazione! OK... Mi arrendo... Siete delle forze speciali, probabilmente siete sulle tracce delle nostre forze speciali... abbiamo coperto la loro uscita dall'albergo con un tizio di nome Jong. Non so dove l'abbiano portato, ma sono passati per il vicolo oltre la staccionata.",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_cybercafe_conv": {
+      "_source": "P_02_seoulthree",
+      "Speech_0001L": {
+        "en": "NKSol_Jin- Has he calmed down yet?",
+        "fr": "Est-ce qu'il s'est calmé ?",
+        "de": "Hat er sich mittlerweile beruhigt?",
+        "es": "¿Se ha tranquilizado ya?",
+        "it": "Si è calmato?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Ming- Seems like it.",
+        "fr": "On dirait bien.",
+        "de": "Scheint so.",
+        "es": "Eso parece.",
+        "it": "Pare di sì.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKSol_Jin- How long are we supposed to baby sit him for?",
+        "fr": "Jusqu'à quand on va devoir s'occuper de lui ?",
+        "de": "Wie lange müssen wir für ihn den Babysitter spielen?",
+        "es": "¿Cuánto tiempo tenemos que hacer de niñeras?",
+        "it": "Per quanto ancora dovermo fargli da balia?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_Ming- Those special forces guys said that another team will come pick him up at dawn... once the fighting calms down for the day.",
+        "fr": "Les gars des forces spéciales ont dit qu'une autre unité viendrait le chercher à l'aube, quand l'intensité des combats sera retombée.",
+        "de": "Die Jungs von der Spezialeinheit sagten, dass ihn ein anderes Team bei Sonnenaufgang abholen wird ... sobald sich die Kämpfe für diesen Tag beruhigen.",
+        "es": "Las fuerzas especiales dicen que cuando se haga de día lo recogerá otro equipo, aprovechando que el combate será menos intenso.",
+        "it": "Quelli delle forze speciali hanno detto che un'altra squadra verrà a prenderlo all'alba... quando i combattimenti si calmano.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_Jin- Dawn?",
+        "fr": "Hein ?",
+        "de": "Sonnenaufgang?",
+        "es": "¿De día?",
+        "it": "All'alba?",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKSol_Ming- Hopefully he'll just sleep until then.",
+        "fr": "Espérons qu'il dormira jusque-là...",
+        "de": "Hoffentlich schläft er so lange.",
+        "es": "Esperemos que duerma hasta entonces.",
+        "it": "Speriamo che dorma fino ad allora.",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_fake_jong_interro": {
+      "_source": "P_02_seoulthree",
+      "Speech_0002L": {
+        "en": "NKSol_Yong- I won't tell you anything. Leave me alone. You can beat me all you want.",
+        "fr": "Je ne vous dirai rien, alors, inutile de me frapper. Laissez-moi tranquille !",
+        "de": "Ich werde Ihnen nichts sagen. Lassen Sie mich in Ruhe. Sie können mich soviel schlagen, wie Sie wollen.",
+        "es": "Podéis pegarme todo lo que queráis. No diré una sola palabra.",
+        "it": "Non vi dirò niente. Lasciatemi in pace. Potete picchiarmi finchè volete.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_Yong- Okay! Okay! Please! I knew I shouldn't have agreed to this. I'm not Jong! I'm not Jong! They came and took him... I don't know where. They gave me five hundred thousand Won to pretend I'm him... but I don't want to die... please!",
+        "fr": "Arrêtez, je vous en prie ! Oh, je savais que je n'aurais jamais dû accepter... je ne suis pas Jong ! Ils l'ont emporté je ne sais où et m'ont donné cinq cent mille wons pour que je me fasse passer pour lui. Mais je ne veux pas mourir !",
+        "de": "Okay! Okay! Bitte! Ich wusste, ich hätte mich nicht auf diese Sache einlassen sollen. Ich bin nicht Jong! Ich bin nicht Jong! Sie sind gekommen und haben ihn geholt ... ich weiß nicht, wohin. Sie gaben mir fünfhundert Won dafür, dass ich so tat, als sei ich er ... aber ich will nicht sterben ... bitte!",
+        "es": "¡Está bien! ¡Ya basta, por favor! No tenía que haber aceptado, lo sé. ¡Yo no soy Jong! A Jong se lo han llevado, no sé adónde. ¡Me han dado quinientos mil wons por fingir que soy él, pero no quiero morir, de verdad!",
+        "it": "Okay! Okay! Per favore! Sapevo che non avrei dovuto accettare. Non sono Jong! Non sono Jong! Sono venuti a prenderlo... non so dove l'hanno portato. Mi hanno dato cinquecentomila won per fingere di essere lui... ma non voglio morire... vi prego!",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_goals_activ": {
+      "_source": "P_02_seoulthree",
+      "Objective_0001": {
+        "en": "Capture Jong Pom-chu",
+        "fr": "Capturez Jong Pom-chu.",
+        "de": "Nehmen Sie Jong Pom-chu gefangen.",
+        "es": "Captura a Jong Pom-chu.",
+        "it": "Cattura Jong Pom-chu",
+        "th": ""
+      },
+      "Objective_0013": {
+        "en": "Intelligence indicates that Jong is staying in a small hotel, not far from the insertion point. Jong must be captured alive.",
+        "fr": "Les renseignements dont nous disposons indiquent que Jong se trouve dans un petit hôtel proche du point d'insertion. Prenez-le vivant.",
+        "de": "Die Aufklärung meldet, dass Jong sich in einem kleinen Hotel in der Nähe Ihres Absetzpunkts aufhält. Jong muss lebend gefangen genommen werden.",
+        "es": "Inteligencia dice que Jong se aloja en un pequeño hotel, cerca del punto de inserción. Debes capturarlo vivo.",
+        "it": "Le nostre informazioni dicono che Jong alloggia in un alberghetto non lontano dal punto di inserimento. Jong deve essere catturato vivo.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0042": {
+        "en": "Capture Jong Pom-chu",
+        "fr": "Capturez Jong Pom-Chu.",
+        "de": "Nehmen Sie Jong Pom-chu fest.",
+        "es": "Captura a Jong Pom-Chu.",
+        "it": "Cattura Jong Pom-chu",
+        "th": ""
+      },
+      "Note_0036L": {
+        "en": "Jong must remain alive",
+        "fr": "Vous devez garder Jong en vie.",
+        "de": "Jong muss am Leben bleiben.",
+        "es": "Jong debe seguir con vida.",
+        "it": "Jong deve restare in vita",
+        "th": ""
+      },
+      "Note_0037L": {
+        "en": "Gunfire may not be directed at you. There is a war going on.",
+        "fr": "Il est possible qu'on vous tire dessus. Vous êtes dans un pays en guerre, après tout.",
+        "de": "Sie dürfen kein Feuer auf sich ziehen. Es ist Krieg.",
+        "es": "No provoques a nadie para que te dispare. Hay una guerra.",
+        "it": "Gli spari possono non essere diretti a te. C'è una guerra in corso.",
+        "th": ""
+      },
+      "Note_0038L": {
+        "en": "You can disable a turret using the jammer",
+        "fr": "Le brouilleur peut vous permettre de désactiver une tourelle.",
+        "de": "Mit dem Störsender können Sie einen Turm lahm legen.",
+        "es": "Puedes desactivar una ametralladora de trípode con el interferidor.",
+        "it": "Puoi disattivare le torrette con il jammer",
+        "th": ""
+      },
+      "Objective_0002": {
+        "en": "Interrogate the North Korean Officer to find out where Jong is",
+        "fr": "Interrogez l'officier nord-coréen afin d'apprendre où se trouve Jong.",
+        "de": "Verhören Sie den nordkoreanischen Offizier, um zu erfahren, wo Jong ist.",
+        "es": "Interroga al oficial norcoreano para averiguar dónde está Jong.",
+        "it": "Interroga l'ufficiale nordcoreano per scoprire dove si trova Jong",
+        "th": ""
+      },
+      "Objective_0014": {
+        "en": "Jong has been relocated by North Korean Special Forces. Locate and interrogate an Officer to find out where they\u0019ve taken Jong.",
+        "fr": "Jong a été déplacé par les forces spéciales nord-coréennes. Localisez et interrogez un officier afin de savoir où est Jong.",
+        "de": "Jong wurde von Spezialeinheiten der Nordkoreaner evakuiert. Finden und verhören Sie einen Offizier, um Jongs Aufenthaltsort in Erfahrung zu bringen.",
+        "es": "Las fuerzas especiales norcoreanas se han llevado a Jong. Busca e interroga a un oficial para que te diga dónde han llevado a Jong.",
+        "it": "Jong è stato spostato dalle forze speciali nordcoreane. Trova e interroga un ufficiale per scoprire dove l'hanno portato.",
+        "th": ""
+      },
+      "Objective_0040": {
+        "en": "Find out where Jong is.",
+        "fr": "Découvrez où se trouve Jong.",
+        "de": "Finden Sie heraus, wo Jong ist.",
+        "es": "Averigua dónde está Jong.",
+        "it": "Scopri dove si trova Jong.",
+        "th": ""
+      },
+      "Objective_0041": {
+        "en": "Jong has been moved from the Hotel. Find out where he was taken.",
+        "fr": "Jong ne se trouve plus à l'hôtel ; il a été déplacé. Découvrez où.",
+        "de": "Jong befindet sich nicht mehr im Hotel. Finden Sie heraus, wohin man ihn gebracht hat.",
+        "es": "Han trasladado a Jong desde el hotel. Averigua dónde se lo han llevado.",
+        "it": "Jong è stato spostato dall'albergo. Scopri dove l'hanno portato.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0043": {
+        "en": "Find out where Jong is.",
+        "fr": "Découvrez où se trouve Jong.",
+        "de": "Finden Sie heraus, wo Jong ist.",
+        "es": "Averigua dónde está Jong.",
+        "it": "Scopri dov'è Jong.",
+        "th": ""
+      },
+      "Objective_0050": {
+        "en": "Interrogate the North Korean Officer to find out where Jong is",
+        "fr": "Interrogez l'officier nord-coréen afin d'apprendre où se trouve Jong.",
+        "de": "Verhören Sie den nordkoreanischen Offizier, um zu erfahren, wo Jong ist.",
+        "es": "Interroga al oficial norcoreano para averiguar dónde está Jong.",
+        "it": "Interroga l'ufficiale nordcoreano per scoprire dove si trova Jong",
+        "th": ""
+      },
+      "Objective_0051": {
+        "en": "Jong has been relocated by North Korean Special Forces. Locate and interrogate an Officer to find out where they\u0019ve taken Jong.",
+        "fr": "Jong a été déplacé par les forces spéciales nord-coréennes. Localisez et interrogez un officier afin de savoir où est Jong.",
+        "de": "Jong wurde von Spezialeinheiten der Nordkoreaner evakuiert. Finden und verhören Sie einen Offizier, um Jongs Aufenthaltsort in Erfahrung zu bringen.",
+        "es": "Las fuerzas especiales norcoreanas se han llevado a Jong. Busca e interroga a un oficial para que te diga dónde han llevado a Jong.",
+        "it": "Jong è stato spostato dalle forze speciali nordcoreane. Trova e interroga un ufficiale per scoprire dove l'hanno portato.",
+        "th": ""
+      },
+      "Objective_0052": {
+        "en": "Find out where Jong is.",
+        "fr": "Découvrez où se trouve Jong.",
+        "de": "Finden Sie heraus, wo Jong ist.",
+        "es": "Averigua dónde está Jong.",
+        "it": "Scopri dove si trova Jong.",
+        "th": ""
+      },
+      "Objective_0053": {
+        "en": "Jong has been moved from the Hotel. Find out where he was taken.",
+        "fr": "Jong ne se trouve plus à l'hôtel ; il a été déplacé. Découvrez où.",
+        "de": "Jong befindet sich nicht mehr im Hotel. Finden Sie heraus, wohin man ihn gebracht hat.",
+        "es": "Han trasladado a Jong desde el hotel. Averigua dónde se lo han llevado.",
+        "it": "Jong è stato spostato dall'albergo. Scopri dove l'hanno portato.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0054": {
+        "en": "Find out where Jong is.",
+        "fr": "Découvrez où se trouve Jong.",
+        "de": "Finden Sie heraus, wo Jong ist.",
+        "es": "Averigua dónde está Jong.",
+        "it": "Scopri dov'è Jong.",
+        "th": ""
+      },
+      "Objective_0006": {
+        "en": "Destroy the two Chun-Ma Anti-Aircraft systems",
+        "fr": "Détruisez les deux batteries antiaériennes Chun-Ma.",
+        "de": "Zerstören Sie die beiden Flugabwehr-systeme des Typs Chun-Ma.",
+        "es": "Destruye los dos sistemas antiaéreos de Chun-Ma.",
+        "it": "Distruggi i due sistemi antiaerei Chun-Ma",
+        "th": ""
+      },
+      "Objective_0017": {
+        "en": "The North Koreans have two Chun-Ma Anti-Aircraft systems set-up. They are interfering with other operations and must be destroyed.",
+        "fr": "Les Nord-Coréens ont installé deux batteries antiaériennes Chun-Ma qui interfèrent avec nos autres opérations. Détruisez-les.",
+        "de": "Die Nordkoreaner haben zwei Flugabwehrsysteme des Typs Chun-Ma aufgestellt. Sie behindern andere Operationen und müssen zerstört werden.",
+        "es": "Los norcoreanos tienen dos sistemas antiaéreos Chun-Ma que interfieren con otras operaciones. Deben ser destruidos.",
+        "it": "I nordcoreani hanno impostato due sistemi antiaerei Chun-Ma. Interferiscono con altre operazioni e devono essere distrutti.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0044": {
+        "en": "Destroy the two Chun-Ma Anti-Aircraft systems",
+        "fr": "Détruisez les deux systèmes antiaériens Chun-Ma.",
+        "de": "Zerstören Sie die beiden Flugabwehr-systeme vom Typ Chun-Ma.",
+        "es": "Destruye los dos sistemas antiaéreos Chun-Ma.",
+        "it": "Distruggi i due sistemi anti-aerei Chun-Ma",
+        "th": ""
+      },
+      "Note_0039L": {
+        "en": "Disable the tanks by climbing on one another\u0019s shoulders",
+        "fr": "Mettez les chars hors de combat en montant sur les épaules l'un de l'autre.",
+        "de": "Schalten Sie die Panzer aus, indem einer dem anderen auf die Schultern klettert.",
+        "es": "Desactiva los tanques subiendo a hombros de alguien.",
+        "it": "Mettete fuori uso i carri armati arrampicandovi uno sulle spalle dell'altro",
+        "th": ""
+      },
+      "Objective_0055": {
+        "en": "Interrogate the North Korean Officer to find out where Jong is",
+        "fr": "Interrogez l'officier nord-coréen afin d'apprendre où se trouve Jong.",
+        "de": "Verhören Sie den nordkoreanischen Offizier, um zu erfahren, wo Jong ist.",
+        "es": "Interroga al oficial norcoreano para averiguar dónde está Jong.",
+        "it": "Interroga l'ufficiale nordcoreano per scoprire dove si trova Jong",
+        "th": ""
+      },
+      "Objective_0056": {
+        "en": "Jong has been relocated by North Korean Special Forces. Locate and interrogate an Officer to find out where they\u0019ve taken Jong.",
+        "fr": "Jong a été déplacé par les forces spéciales nord-coréennes. Localisez et interrogez un officier afin de savoir où est Jong.",
+        "de": "Jong wurde von Spezialeinheiten der Nordkoreaner evakuiert. Finden und verhören Sie einen Offizier, um Jongs Aufenthaltsort in Erfahrung zu bringen.",
+        "es": "Las fuerzas especiales norcoreanas se han llevado a Jong. Busca e interroga a un oficial para que te diga dónde han llevado a Jong.",
+        "it": "Jong è stato spostato dalle forze speciali nordcoreane. Trova e interroga un ufficiale per scoprire dove l'hanno portato.",
+        "th": ""
+      },
+      "Objective_0008": {
+        "en": "Get to the cyber café where Jong is being protected.",
+        "fr": "Allez au cybercafé où Jong est protégé.",
+        "de": "Begeben sie sich zu dem internetcafé wo sich Jong bewacht wird.",
+        "es": "Ve al cibercafé donde tienen vigilado a Jong.",
+        "it": "Vai al cyber-café in cui viene tenuto prigioniero Jong",
+        "th": ""
+      },
+      "Objective_0018": {
+        "en": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
+        "fr": "Les forces spéciales nord-coréennes ont déplacé Jong en prévision de son extraction de Séoul. Rendez-vous au cybercafé et prenez-le vivant.",
+        "de": "Nordkoreanische Spezialeinheiten haben Jong zum Internetcafé gebracht, um ihn aus Seoul zu entführen. Holen Sie Jong lebend dort heraus.",
+        "es": "Las fuerzas especiales norcoreanas se han llevado a Jong a otro lugar y preparan su extracción desde Seúl. Ve al cibercafé y atrápale vivo.",
+        "it": "Le forze speciali nordcoreane hanno spostato Jong in preparazione alla sua estrazione da Seul. Vai al cyber-café e cattura Jong vivo.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0045": {
+        "en": "Get to the cyber café where Jong is being protected.",
+        "fr": "Rendez-vous au cybercafé où Jong est protégé.",
+        "de": "Begeben Sie sich zu dem Internetcafè, in dem Jong bewacht wird.",
+        "es": "Ve al cibercafé donde tienen escondido a Jong.",
+        "it": "Raggiungi il cyber cafè dove Jong viene protetto.",
+        "th": ""
+      },
+      "Objective_0009": {
+        "en": "Get to extraction with Jong",
+        "fr": "Rejoignez le point d'extraction avec Jong.",
+        "de": "Begeben Sie sich mit Jong zum Exfiltrationspunkt.",
+        "es": "Lleva a Jong al punto de extracción.",
+        "it": "Vai al punto di estrazione con Jong.",
+        "th": ""
+      },
+      "Objective_0019": {
+        "en": "Take Jong to the truck outside the cyber café to extract him to safety. ",
+        "fr": "Conduisez Jong au camion situé à l'extérieur du cybercafé afin de l'emmener en sécurité. ",
+        "de": "Führen Sie Jong zu dem Lkw vor dem Internetcafé und bringen Sie ihn in Sicherheit. ",
+        "es": "Lleva a Jong al camión que hay fuera del café para su extracción. ",
+        "it": "Porta Jong al camion fuori dal cyber-café per portarlo in salvo. ",
+        "th": ""
+      },
+      "POPUPMESSAGE_0046": {
+        "en": "Get to extraction with Jong",
+        "fr": "Rejoignez le point d'extraction en compagnie de Jong.",
+        "de": "Begeben Sie sich mit Jong zum Exfiltrationspunkt.",
+        "es": "Ve al punto de extracción con Jong.",
+        "it": "Raggiungi il punto di estrazione con Jong",
+        "th": ""
+      },
+      "Objective_0057": {
+        "en": "Get to the cyber café where Jong is being protected.",
+        "fr": "Get to the cyber café where Jong is being protected.",
+        "de": "Get to the cyber café where Jong is being protected.",
+        "es": "Get to the cyber café where Jong is being protected.",
+        "it": "Get to the cyber café where Jong is being protected.",
+        "th": ""
+      },
+      "Objective_0058": {
+        "en": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
+        "fr": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
+        "de": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
+        "es": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
+        "it": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
+        "th": ""
+      },
+      "Note_0021L": {
+        "en": "Jong will escape by boat",
+        "fr": "Jong est censé s'enfuir par bateau.",
+        "de": "Jong wird per Schiff fliehen.",
+        "es": "Jong escapará con la barca.",
+        "it": "Jong fuggirà in barca",
+        "th": ""
+      },
+      "Objective_0022": {
+        "en": "Sabotage the engine on Jong\u0019s boat",
+        "fr": "Sabotez le moteur du bateau de Jong.",
+        "de": "Sabotieren Sie den Motor von Jongs Schiff.",
+        "es": "Sabotea el motor de la barca de Jong.",
+        "it": "Sabota il motore della barca di Jong",
+        "th": ""
+      },
+      "Objective_0023": {
+        "en": "Jong's emergency escape plan is to take the boat docked in the fish market.",
+        "fr": "En cas d'urgence, Jong est censé s'enfuir grâce au bateau amarré au niveau du marché aux poissons.",
+        "de": "Jong plant, im Notfall mit dem Schiff zu fliehen, das beim Fischmarkt vor Anker liegt.",
+        "es": "El plan de emergencia de Jong para escapar es usar la barca del mercado de pescado.",
+        "it": "Il piano di fuga di emergenza di Jong è prendere la barca ancorata al mercato del pesce.",
+        "th": ""
+      },
+      "Objective_0010": {
+        "en": "Sabotage Jong's escape boat.",
+        "fr": "Sabotez le bateau devant servir à la fuite de Jong.",
+        "de": "Sabotieren Sie Jongs Fluchtschiff.",
+        "es": "Sabotea la lancha de huída de Jong.",
+        "it": "Sabota la barca per la fuga di Jong.",
+        "th": ""
+      },
+      "Objective_0020": {
+        "en": "Jong's emergency escape plan is to take the boat docked in the fish market.",
+        "fr": "(null)",
+        "de": "(null)",
+        "es": "Jong's emergency escape plan is to take the boat docked in the fish market.",
+        "it": "(null)",
+        "th": ""
+      },
+      "Note_0012L": {
+        "en": "The code for the backdoor is 7649",
+        "fr": "Le code de la porte de derrière est le 7649.",
+        "de": "Der Code für die Hintertür lautet 7649.",
+        "es": "El código de la puerta trasera es 7649.",
+        "it": "Il codice per la porta sul retro è 7649",
+        "th": ""
+      },
+      "Note_0025L": {
+        "en": "A medical kit can be found in the bathroom of the hotel",
+        "fr": "Il y a une trousse de premiers soins dans la salle de bain de l'hôtel.",
+        "de": "Einen Erste-Hilfe-Schrank finden Sie in der Hoteltoilette.",
+        "es": "Hay un botiquín en el baño del hotel.",
+        "it": "Puoi trovare un kit medico nel bagno dell'albergo",
+        "th": ""
+      },
+      "Note_0027L": {
+        "en": "There are guards on the balconies of the temple",
+        "fr": "Il y a des gardes sur les balcons du temple.",
+        "de": "Auf den Tempelplattformen stehen Wachen.",
+        "es": "Cuidado con los guardias de los balcones del templo.",
+        "it": "Ci sono delle guardie sulle balconate del tempio",
+        "th": ""
+      },
+      "Note_0029L": {
+        "en": "There is an old sewer connection between the front and rear of the temple.",
+        "fr": "Un vieil accès aux égouts relie l'avant et l'arrière du temple.",
+        "de": "Zwischen dem Vorder- und Hinterteil des Tempels verläuft ein alter Abwasserkanal.",
+        "es": "Hay una vieja alcantarilla que conecta la parte delantera y la trasera del templo.",
+        "it": "C'è un vecchio collegamento fognario tra la parte davanti e il retro del tempio.",
+        "th": ""
+      },
+      "Note_0030L": {
+        "en": "You can use the roof tops of the fish market to move unnoticed",
+        "fr": "Vous pouvez passer par les toits du marché aux poissons pour ne pas vous faire repérer.",
+        "de": "Sie können unbemerkt über die Dächer des Fischmarkts laufen.",
+        "es": "Puedes usar los salientes del tejado en el mercado del pescado para moverte sin ser visto.",
+        "it": "Puoi usare i tetti del mercato del pesce per spostarti senza farti vedere",
+        "th": ""
+      },
+      "Note_0031L": {
+        "en": "There is ammunition in the small fish store",
+        "fr": "Il y a des munitions dans la boutique du marché aux poissons.",
+        "de": "In dem kleinen Fischladen liegt Munition.",
+        "es": "Hay munición en el pequeño almacén de la lonja.",
+        "it": "Ci sono delle munizioni nel negozio piccolo di pesce",
+        "th": ""
+      },
+      "Note_0034L": {
+        "en": "You can find smoke grenades in the back of the extraction truck",
+        "fr": "Vous pourrez trouver des grenades à l'arrière du camion d'extraction.",
+        "de": "Rauchgranaten finden Sie hinten in Ihrem Flucht-LKW.",
+        "es": "Encontrarás algunos botes de humo en la trasera del camión de extracción.",
+        "it": "Puoi trovare delle granate fumogene nel retro del camion per l'estrazione",
+        "th": ""
+      },
+      "Note_0047L": {
+        "en": "The North Koreans have a Chun-Ma Anti-Aircraft system set-up. It is interfering with other operations and must be destroyed.",
+        "fr": "Les Nords-Coréens ont installé un système antiaérien Chun-Ma qui interfère avec nos autres opérations. Détruisez-le.",
+        "de": "Die Nordkoreaner haben ein Flugabwehrsystem vom Typ Chun-Ma aufgestellt. Es behindert andere Operationen und muss zerstört werden.",
+        "es": "Los norcoreanos tienen un sistema antiaéreo Chun-Ma que está interfiriendo con otras operaciones. Debe ser destruido.",
+        "it": "I nord coreani hanno installato un sistema anti-aereo Chun-Ma. Interferisce con le altre operazioni e deve essere distrutto.",
+        "th": ""
+      },
+      "Note_0048L": {
+        "en": "Destroy the Chun-Ma Anti-Aircraft system.",
+        "fr": "Détruisez le système antiaérien Chun-Ma.",
+        "de": "Zerstören Sie das Chun-Ma-Flugabwehrsystem.",
+        "es": "Destruye el sistema antiaéreo Chun-Ma.",
+        "it": "Distruggi il sistema anti-aereo Chun-Ma.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0049": {
+        "en": "Destroy the Chun-Ma Anti-Aircraft system.",
+        "fr": "Détruisez le système antiaérien Chun-Ma.",
+        "de": "Zerstören Sie die beiden Flugabwehr-systeme vom Typ Chun-Ma.",
+        "es": "Destruye los dos sistemas antiaéreos Chun-Ma.",
+        "it": "Distruggi il sistema anti-arerei Chun-Ma",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_hotelconv": {
+      "_source": "P_02_seoulthree",
+      "Speech_0001L": {
+        "en": "NKSol_Chen- Damn! It's dangerous out there!",
+        "fr": "Hé ! C'est dangereux, ici !",
+        "de": "Verdammt! Hier draußen ist es gefährlich!",
+        "es": "¡Es peligroso estar ahí fuera!",
+        "it": "Dannazione! È pericoloso!",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Feng- It's a war... what do you expect?",
+        "fr": "On est en guerre... qu'est-ce que tu croyais ?",
+        "de": "Wir haben Krieg ... was erwartest du?",
+        "es": "Estamos en guerra. ¿Qué esperabas?",
+        "it": "È una guerra... che ti aspettavi?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKSol_Chen- Look, hurry up and get this place secured so you can patrol with me... I don't want to get killed out there.",
+        "fr": "Ecoute, finissez vos vérifications rapidement et venez patrouiller avec moi. Je ne veux pas me faire tuer !",
+        "de": "Los, beeil dich und sichere hier alles ab, damit du mit mir auf Patrouille gehen kannst ... Ich möchte nicht hier draußen umkommen.",
+        "es": "Comprueba que este lugar es seguro y sal a patrullar conmigo. Rápido, no quiero que me maten.",
+        "it": "Senti, sbrigati a mettere in sicurezza questo posto così puoi venire di pattuglia con me... non voglio morire là fuori.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_Feng- We're doing everything we can...see the turret is up.",
+        "fr": "On fait le maximum. La tourelle est déjà branchée, tu vois...",
+        "de": "Wir tun schon, was wir können ... Siehst du? Die Kanone ist aufgestellt.",
+        "es": "Hago todo lo que pueda. Mira, la torreta está levantada.",
+        "it": "Facciamo quello che possiamo... vedi, la torretta è accesa.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_Chen- Good. Li. What about power?",
+        "fr": "Bien. Et le courant, Li ?",
+        "de": "Gut. Li. Was ist mit dem Strom?",
+        "es": "Bien. Li, ¿qué pasa con la corriente?",
+        "it": "Bene. Xi, la corrente?",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "NKSol_Li- The whole grid is down. We have no control over it, but it could come back anytime.",
+        "fr": "Tout le secteur a été coupé. Ça ne dépend pas de nous, mais ça pourrait revenir à tout moment.",
+        "de": "Das gesamte Netz ist ausgefallen. Wir haben keine Kontrolle darüber, aber es könnte den Betrieb jeden Moment wieder aufnehmen.",
+        "es": "Toda la manzana está sin luz, pero puede volver en cualquier momento.",
+        "it": "Tutta la griglia è spenta. Non possiamo controllarla, ma potrebbe tornare su in qualunque momento.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "NKSol_Chen- Alright. Well, make sure the rooms are clear so at least we know the inside of the building is safe.",
+        "fr": "Bien. Vérifiez que toutes les pièces sont désertes. Il ne faudrait pas qu'il y ait quelqu'un dans le bâtiment...",
+        "de": "In Ordnung. Gut, stelle sicher, dass in allen Räumen alles in Ordnung ist, damit wir wenigstens wissen, dass das Innere des Gebäudes sicher ist.",
+        "es": "Vamos a comprobar que las habitaciones están despejadas y que el interior del edificio es seguro.",
+        "it": "Va bene. Controlla che le stanze siano a posto, almeno sapremo che l'interno dell'edificio è sicuro.",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_Jong_crazy": {
+      "_source": "P_02_seoulthree",
+      "Speech_0001L": {
+        "en": "Jong- I can't believe this. I'm going to die for sure.",
+        "fr": "Je le crois pas ! Je vais mourir, c'est sûr...",
+        "de": "Ich kann das nicht glauben. Ich werde ganz sicher sterben.",
+        "es": "No puedo creerlo. Voy a morir, seguro.",
+        "it": "Non posso crederci. Morirò, sono sicuro.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "Jong- I wish they would get me out of here. Ha! I wish anybody would get me out of here.",
+        "fr": "Si seulement ils me déplaçaient... eux ou quelqu'un d'autre, du moment qu'on me tire de là...",
+        "de": "Ich wünschte, sie würden mich hier herausholen. Ha! Ich wünschte irgendjemand würde mich hier herausholen.",
+        "es": "Lo único que quiero es salir de aquí. ¿Por qué no vienen a buscarme?",
+        "it": "Voglio andarmene da qui. Ha! Voglio che qualcuno mi faccia uscire da qui!",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Jong- How much longer will I have to wait?",
+        "fr": "Je vais devoir attendre jusqu'à quand ?",
+        "de": "Wie lange werde ich noch warten müssen?",
+        "es": "¿Cuánto tiempo tengo que esperar?",
+        "it": "Per quanto ancora dovrò aspettare?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Jong- This is driving me crazy!",
+        "fr": "Cette attente me rend fou...",
+        "de": "Das macht mich verrückt ...",
+        "es": "Me estoy volviendo loco...",
+        "it": "Sto diventando pazzo...",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "Jong- Why would they relocate me... it's not like the Americans know anything.",
+        "fr": "Et pourquoi me déplacer, d'abord ? Ce n'est pas comme si les Américains savaient...",
+        "de": "Warum sollten sie mich woanders hinbringen wollen ... es ist ja nicht so, als wüssten die Amerikaner irgendetwas.",
+        "es": "¿Por qué me han trasladado? No creo que los americanos sepan nada.",
+        "it": "Perchè mi trasferiscono? Gli americani non sanno niente.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "Jong- I just hope that someone doesn't bomb this building by mistake.",
+        "fr": "J'espère que cet immeuble ne sera pas bombardé par erreur...",
+        "de": "Ich hoffe nur, dass niemand dieses Gebäude versehentlich bombardiert.",
+        "es": "Espero que no bombardeen este edificio por error.",
+        "it": "Spero solo che non bombardino questo edificio per sbaglio.",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_Jonginterro": {
+      "_source": "P_02_seoulthree",
+      "Speech_0001L": {
+        "en": "Jong- Oh... you... you mean you're not going to kill me? Oh thank god... just get me out of here then... I don't care where. I'll tell your superiors everything.",
+        "fr": "Oh, vous voulez dire que vous n'avez pas l'intention de me tuer ? Dieu soit loué ! Emmenez-moi loin d'ici, alors. Je dirai tout à vos supérieurs, mais faites vite !",
+        "de": "Oh .. Sie .. Sie meinen, Sie werden mich nicht töten? Oh, Gott sei gedankt ... nur schafft mich hier heraus ... mir ist gleich, wohin. Ich werde Ihren Vorgesetzten alles erzählen.",
+        "es": "¿Entonces no van a matarme? Gracias a Dios... Sacadme de aquí, por favor. Me da igual dónde me llevéis. Se lo contaré todo a vuestros superiores.",
+        "it": "Oh... ma... volete dire che non mi ucciderete? Oh, grazie a dio... Allora portatemi fuori di qui e basta... Non mi interessa dove. Dirò tutto ai vostri superiori.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Jong- Oh no, no please, don't kill me. I know secrets about North Korea's chemical and biological weapons programs. It's too complex to talk about it here... we don't have time. Get me out of here. I'll tell your superiors everything.",
+        "fr": "Ne me tuez pas, je vous en prie ! Je connais tous les secrets du programme d'armes chimiques et bactériologiques nord-coréen. Il est trop complexe pour que je vous en parle ici, mais emmenez-moi avec vous et je dirai tout.",
+        "de": "Oh, nein, nein bitte. Ich weiß Geheimnisse über Nordkoreas chemische und biologische Waffenprogramme. Das ist zu komplex, um hier darüber zu sprechen ... wir haben keine Zeit. Bringen Sie mich hier weg und ich werde Ihren Vorgesetzten alles erzählen.",
+        "es": "Por favor, no me matéis. Conozco los programas de armas químicas y biológicas de Corea del Norte. Es un asunto muy complejo para explicarlo ahora; no hay tiempo. Sacadme de aquí y se lo contaré todo a vuestros superiores.",
+        "it": "Oh no, no vi prego, non uccidetemi. Conosco dei segreti sui programmi di armamenti chimici e biologici della Corea del Nord. Troppo complicato per parlarne ora... non c'è tempo. Portatemi fuori da qui, dirò tutto ai vostri superiori.",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_Lambertcomms": {
+      "_source": "P_02_seoulthree",
+      "Speech_0001L": {
+        "en": "LAMBERT - Your mission is to capture Jong Pom-chu alive. Word is he's holed up in a hotel just up the street. We'll figure out an exit scenario for all of you once you get you hands on him.",
+        "fr": "Votre mission consiste à prendre Jong Pom-chu vivant. Nous avons appris qu'il se trouvait dans un hôtel de cette rue. Nous verrons pour votre extraction une fois que vous l'aurez récupéré.",
+        "de": "Eure Aufgabe ist es, Jong Pom-chu lebend zu fangen. Es heißt, dass er sich in einem Hotel weiter die Straße hoch verschanzt hat. Wir werden uns einen Evakuierungsplan für euch ausdenken, sobald ihr ihn in eurer Gewalt habt.",
+        "es": "Vuestra misión es capturar vivo a Jong Pom-chu. Creemos que se esconde en un hotel, subiendo la calle. Cuando lo tengáis, prepararemos una ruta de escape.",
+        "it": "La vostra missione è catturare Jong Pom-chu vivo. Pare che si nasconda in un albergo in questa strada. Prepareremo uno scenario di uscita per voi appena l'avrete nelle vostre mani.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "Lambert- What are you doing? It turns out Jong has been relocated. That guy was a double. You're lucky you didn't just kill the person you're supposed to capture. See if you can interrogate an officer nearby to find out where Jong is.",
+        "fr": "Qu'est-ce que vous faites ? Jong a été déplacé. Ce type était un agent double, heureusement, sans quoi vous auriez tué la personne que vous étiez censés capturer. Essayez d'interroger un officier pour savoir où se trouve Jong.",
+        "de": "Was macht ihr denn da? Es hat sich herausgestellt, dass Jong an einen anderen Ort gebracht wurde. Dieser Kerl war ein Doppelgänger. Ihr könnt euch glücklich schätzen, dass ihr nicht die Person getötet habt, die ihr gefangen nehmen solltet. Versucht in der Nähe einen Offizier zu finden, der weiß, wo sich Jong befindet.",
+        "es": "¿Qué hacéis? Han trasladado a Jong. Ese tipo no es más que un doble. Menos mal que habéis matado a un impostor, y no al auténtico Jong. Buscad a un oficial que os diga dónde está Jong.",
+        "it": "Ma cosa state facendo? Pare che Jong sia già stato trasferito. Quell'altro era un sosia. Siete stati fortunati a non aver ucciso la persona che dovevate catturare viva. Cercate di interrogare un ufficiale per scoprire dov'è Jong.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "Lambert- From the sounds of it, Jong has already been moved. Let's hope the NKA hasn't already smuggled him out. Find an officer and interrogate him for information.",
+        "fr": "Apparemment, Jong a l'air d'avoir été déplacé. Espérons que les Nord-Coréens ne l'ont pas déjà fait sortir du pays. Trouvez un officier et interrogez-le.",
+        "de": "Hört sich so an, als hätte man Jong bereits woanders hingebracht. Hoffen wir, dass die NKA ihn nicht bereits herausgeschmuggelt hat. Sucht euch einen Offizier und versucht, einige Informationen aus ihm herauszupressen.",
+        "es": "Parece ser que han trasladado a Jong. Esperemos que los norcoreanos no lo hayan sacado ya del país. Buscad a algún oficial e interrogadlo.",
+        "it": "A quanto pare hanno già trasferito Jong. Speriamo che l'esercito nordcoreano non l'abbia già portato oltre frontiera. Trovate un ufficiale e interrogatelo per estorcergli qualche informazione.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Lambert- Damn. If Jong has been relocated by NKA Special Forces, he might already be gone. I'll see if I can dig up any more information.",
+        "fr": "Bon sang ! Si Jong a été déplacé par les Nord-Coréens, il a peut-être déjà quitté le pays. Je vais essayer d'en apprendre davantage...",
+        "de": "Verdammt. Wenn Jong von den Spezialeinheiten der NKA woandershin gebracht wurde, ist er womöglich bereits fort. Ich werde versuchen, weitere Informationen aufzutreiben.",
+        "es": "Si las fuerzas especiales norcoreanas han trasladado a Jong, me temo que ya lo hemos perdido. Voy a buscar más información.",
+        "it": "Dannazione. Se Jong è stato trasferito dalle Forze Speciali dell'esercito nordcoreano, potrebbe essere morto da un pezzo. Cercherò altre informazioni.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "Lambert- Reagan Carrier group is filing a barnyard full of flight req's. It looks like intensive bombing of your area is about to commence in preparation for fly-overs. If you spot any AA, make sure to take it.",
+        "fr": "L'escadre du Ronald Reagan prépare un bombardement intensif de votre secteur afin de faciliter le survol des appareils du porte-avions. Si vous voyez des batteries antiaériennes, détruisez-les.",
+        "de": "Der Reagan-Trägerverband hat gerade eine ganze Reihe Startgenehmigungen angefordert. Anscheinend steht eine intensive Bombardierung eures Gebietes bevor, um weitere Überflüge vorzubereiten. Wenn ihr Luftabwehr entdecken solltet, müsst ihr euch unbedingt um sie kümmern.",
+        "es": "Por las solicitudes de despegue del portaaviones Reagan, parece que va a producirse un bombardeo intensivo en vuestra zona. Si encontráis algún antiaéreo, encargaos de él.",
+        "it": "Il gruppo aviotrasportato Reagan sta esaminando una baracca piena di ordini di volo. Pare che stia per cominciare un bombardamento intensivo della vostra area in preparazione al sorvolo. Se individuate pezzi di antiaerea, fateli fuori.",
+        "th": ""
+      },
+      "Speech_0040L": {
+        "en": "Lambert- Bad news. Another plane from Reagan Carrier Group is inbound over your sector.",
+        "fr": "Mauvaise nouvelle, un autre avion du Ronald Reagan se dirige vers votre secteur.",
+        "de": "Schlechte Nachrichten. Ein weiteres Flugzeug der Reagan ist unterwegs zu eurem Sektor.",
+        "es": "Malas noticias. Se dirige hacia vuestro sector otro avión del grupo Reagan.",
+        "it": "Pessime notizie. Un altro aereo del gruppo Reagan è in arrivo sul vostro settore.",
+        "th": ""
+      },
+      "Speech_0041L": {
+        "en": "Lambert- You have to take out those anti-air emplacements in the next five minutes.",
+        "fr": "Vous devez détruire ces batteries antiaériennes en moins de cinq minutes.",
+        "de": "Ihr müsst die Luftabwehr innerhalb der nächsten fünf Minuten außer Gefecht setzen.",
+        "es": "Tenéis que destruir esos antiaéreos antes de cinco minutos.",
+        "it": "Dovete distruggere quelle postazioni antiaeree nei prossimi cinque minuti.",
+        "th": ""
+      },
+      "Speech_0042L": {
+        "en": "Lambert- You have to take out those anti-air emplacements in the next four minutes.",
+        "fr": "Vous devez détruire ces batteries antiaériennes en moins de quatre minutes.",
+        "de": "Ihr müsst die Luftabwehr innerhalb der nächsten vier Minuten außer Gefecht setzen.",
+        "es": "Tenéis que destruir esos antiaéreos antes de cuatro minutos.",
+        "it": "Dovete distruggere quelle postazioni antiaeree nei prossimi quattro minuti.",
+        "th": ""
+      },
+      "Speech_0043L": {
+        "en": "Lambert- You have to take out those anti-air emplacements in the next three minutes.",
+        "fr": "Vous devez détruire ces batteries antiaériennes en moins de trois minutes.",
+        "de": "Ihr müsst die Luftabwehr innerhalb der nächsten drei Minuten außer Gefecht setzen.",
+        "es": "Tenéis que destruir esos antiaéreos antes de tres minutos.",
+        "it": "Dovete distruggere quelle postazioni antiaeree nei prossimi tre minuti.",
+        "th": ""
+      },
+      "Speech_0044L": {
+        "en": "Lambert- You have to take out those anti-air emplacements in the next two minutes.",
+        "fr": "Vous devez détruire ces batteries antiaériennes en moins de deux minutes.",
+        "de": "Ihr müsst die Luftabwehr innerhalb der nächsten zwei Minuten außer Gefecht setzen.",
+        "es": "Tenéis que destruir esos antiaéreos antes de dos minutos.",
+        "it": "Dovete distruggere quelle postazioni antiaeree nei prossimi due minuti.",
+        "th": ""
+      },
+      "Speech_0045L": {
+        "en": "Lambert- You have to take out those anti-air emplacements in the next sixty seconds.",
+        "fr": "Vous devez détruire ces batteries antiaériennes en moins de soixante secondes.",
+        "de": "Ihr müsst die Luftabwehr innerhalb der nächsten sechzig Sekunden außer Gefecht setzen.",
+        "es": "Tenéis que destruir esos antiaéreos antes de sesenta segundos.",
+        "it": "Dovete distruggere quelle postazioni antiaeree nei prossimi sessanta secondi.",
+        "th": ""
+      },
+      "Speech_0046L": {
+        "en": "Lambert- My god... you're too late... they just shot down another aircraft... mission over!",
+        "fr": "Mon dieu, vous n'avez pas réussi ! Notre avion a été abattu ! Mission terminée.",
+        "de": "Mein Gott! ... ihr kommt zu spät ... sie haben gerade ein weiteres Flugzeug abgeschossen ... Mission beendet!",
+        "es": "Habéis llegado tarde. Acaban de derribar otro avión. ¡Misión cancelada!",
+        "it": "Mio Dio... siete troppo in ritardo... hanno appena abbattuto un altro aereo... missione terminata!",
+        "th": ""
+      },
+      "Speech_0038L": {
+        "en": "Lambert- Set explosives on the AA and take them both out.",
+        "fr": "Placez des explosifs sur les deux batteries et détruisez-les.",
+        "de": "Setzt Sprengladungen und schaltet beide Flak-Panzer aus.",
+        "es": "Poned explosivos en el antiaéreo y destruidlo.",
+        "it": "Installate gli esplosivi sull'antiaerea e fatela saltare.",
+        "th": ""
+      },
+      "Speech_0039L": {
+        "en": "Lambert- Good work. That takes care of the AA... but watch yourselves... looks like you have some reinforcements incoming.",
+        "fr": "Voilà pour ce qui est des batteries antiaériennes. Mais attention à vous, on dirait que les renforts arrivent.",
+        "de": "Gute Arbeit! Damit wären die Flak-Panzer erledigt... seid trotzdem vorsichtig! Es sieht so aus, als seien feindliche Verstärkungen im Anmarsch.",
+        "es": "Bien hecho. Habéis acabado con los antiaéreos. Pero tened cuidado, parece que vienen refuerzos.",
+        "it": "Ottimo lavoro. L'antiaerea è sistemata... ma state attenti... sembra che ci siano rinforzi in arrivo.",
+        "th": ""
+      },
+      "Speech_0014L": {
+        "en": "Lambert- Sit tight you two. I have another asset on the ground, he's just gotten hold of the guys who relocated Jong.",
+        "fr": "Restez en place, tous les deux. Nous avons un autre agent sur place, et il tient les gars qui ont déplacé Jong.",
+        "de": "Bleibt, wo ihr seid. Ich habe eine weitere Einsatzkraft vor Ort, er hat gerade die Kerle gefasst, die Jong weggebracht haben.",
+        "es": "Tengo aquí a un hombre que ha estado en contacto con los tipos que trasladaron a Jong.",
+        "it": "Tenetevi forte, voi due. Ho un'altra persona sul campo, e ha trovato i ragazzi che hanno trasportato Jong.",
+        "th": ""
+      },
+      "Speech_0015L": {
+        "en": "AgentOne- Patch us in.",
+        "fr": "Passez-le nous.",
+        "de": "Verbinden Sie uns.",
+        "es": "Pásenos con él.",
+        "it": "Collegaci.",
+        "th": ""
+      },
+      "Speech_0016L": {
+        "en": "Lambert- Alright, Fisher, go ahead...",
+        "fr": "Bien, allez-y, Fisher.",
+        "de": "In Ordnung, Fisher, leg los ... ",
+        "es": "Adelante, Fisher.",
+        "it": "Bene, Fisher, procedi.",
+        "th": ""
+      },
+      "Speech_0017L": {
+        "en": "Fisher- I've got someone who wants to talk to you...",
+        "fr": "Il y a quelqu'un qui veut te parler...",
+        "de": "Ich habe hier jemanden, der mit euch sprechen möchte.",
+        "es": "Aquí hay alguien que quiere hablar contigo.",
+        "it": "C'è qualcuno che vuole parlare con te...",
+        "th": ""
+      },
+      "Speech_0018L": {
+        "en": "AgentOne- Roger... ask him where they took Jong.",
+        "fr": "Bien, demandez-lui où ils ont emmené Jong.",
+        "de": "Verstanden ... fragen Sie ihn, wo sie Jong hingebracht haben.",
+        "es": "Pregúntele dónde se han llevado a Jong.",
+        "it": "Ricevuto... gli chieda dove hanno portato Jong.",
+        "th": ""
+      },
+      "Speech_0019L": {
+        "en": "Fisher- Where did you take Jong?",
+        "fr": "Où avez-vous emmené Jong ?",
+        "de": "Wo habt ihr Jong hingebracht?",
+        "es": "¿Dónde os lo habéis llevado?",
+        "it": "Dove avete portato Jong?",
+        "th": ""
+      },
+      "Speech_0020L": {
+        "en": "NKElite_Soo- I... I don't know what you're talking about...",
+        "fr": "Je... j'ignore de quoi vous parlez.",
+        "de": "Ich ... ich weiß nicht, wovon Sie sprechen ...",
+        "es": "No sé de qué me está hablando...",
+        "it": "Non... non so di cosa stai parlando...",
+        "th": ""
+      },
+      "Speech_0021L": {
+        "en": "Fisher- He's not answering... should I kill him?",
+        "fr": "Il refuse de répondre... je le tue ?",
+        "de": "Er weiß es nicht ... soll ich ihn umlegen?",
+        "es": "No contesta. ¿Lo elimino?",
+        "it": "Non risponde... devo ucciderlo?",
+        "th": ""
+      },
+      "Speech_0022L": {
+        "en": "AgentOne- Negative! Negative!",
+        "fr": "Négatif ! Négatif !",
+        "de": "Negativ! Negativ!",
+        "es": "¡Negativo! ¡Negativo!",
+        "it": "Negativo! Negativo!",
+        "th": ""
+      },
+      "Speech_0023L": {
+        "en": "Fisher- Alright... they say I should kill you, so--",
+        "fr": "Bon, alors, ils veulent que je te tue...",
+        "de": "Okay ... sie sagen, dass ich dich umlegen soll, also ...",
+        "es": "Me han dicho que te elimine, así que...",
+        "it": "Ricevuto... dicono che devo ucciderti, quindi...",
+        "th": ""
+      },
+      "Speech_0024L": {
+        "en": "NKElite_Soo- Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
+        "fr": "Attendez ! Jong... oui... il est dans un cybercafé proche du fleuve, à côté du marché aux poissons.",
+        "de": "He, Moment! Okay ... Jong ... wir haben ihn in das Internetcafe beim Fischmarkt am Fluss gebracht ...",
+        "es": "Un momento... Jong... Lo llevamos a un cibercafé, junto al mercado del  río.",
+        "it": "Aspetta... ok... Jong... l'abbiamo portato in un Internet point appena fuori dal mercato del pesce, vicino al fiume.",
+        "th": ""
+      },
+      "Speech_0025L": {
+        "en": "Fisher- Is that what you needed to know guys?",
+        "fr": "C'est ce que vous vouliez savoir, les gars ?",
+        "de": "War es das, was ihr wissen wolltet, Jungs?",
+        "es": "¿Era lo que queríais saber, chicos?",
+        "it": "È quello che volevate sapere, ragazzi?",
+        "th": ""
+      },
+      "Speech_0026L": {
+        "en": "AgentOne- Ah... affirmative... thanks a lot, sir. We owe you one.",
+        "fr": "Affirmatif. Merci. A charge de revanche !",
+        "de": "Äh ... bestätigt ... danke sehr, Sir. Wir schulden Ihnen was.",
+        "es": "Afirmativo, señor. Muchas gracias. Le debemos una.",
+        "it": "Ehm... affermativo... grazie, signore. Le siamo in debito.",
+        "th": ""
+      },
+      "Speech_0027L": {
+        "en": "Fisher- Welcome to the team.",
+        "fr": "Bienvenue au club...",
+        "de": "Willkommen im Team.",
+        "es": "Bienvenidos al equipo.",
+        "it": "Benvenuti nella squadra.",
+        "th": ""
+      },
+      "Speech_0028L": {
+        "en": "AgentOne- Did he say 'Fisher'?",
+        "fr": "Il a bien dit Fisher ?",
+        "de": "Sagte er 'Fisher'?",
+        "es": "¿Ha dicho 'Fisher'?",
+        "it": "Ha detto per caso 'Fisher'?",
+        "th": ""
+      },
+      "Speech_0029L": {
+        "en": "AgentTwo- Must be his call-sign...",
+        "fr": "Ça doit être son indicatif.",
+        "de": "Muss sein Codename sein ...",
+        "es": "Será su nombre de guerra.",
+        "it": "Sarà il suo codice...",
+        "th": ""
+      },
+      "Speech_0030L": {
+        "en": "AgentOne- You think there are other Splinter Cells?",
+        "fr": "Tu crois qu'il y a d'autres cellules ?",
+        "de": "Glaubst du, dass es noch andere Splinter Cells gibt?",
+        "es": "¿Crees que hay otros Splinter Cells?",
+        "it": "Pensi che ci siano altre Splinter Cell?",
+        "th": ""
+      },
+      "Speech_0031L": {
+        "en": "AgentTwo- Nah... we're the first.",
+        "fr": "Non, on est la première.",
+        "de": "Nein ... wir sind die ersten.",
+        "es": "No. Somos los primeros.",
+        "it": "Nah... siamo noi i primi.",
+        "th": ""
+      },
+      "Speech_0032L": {
+        "en": "Lambert- Cut the chit-chat you two. Get to the cyber café... fast.",
+        "fr": "Arrêtez un peu et allez au cybercafé, vous deux.",
+        "de": "He, ihr zwei, hört auf zu quatschen. Macht, dass ihr zu dem Internetcafe kommt ... und zwar schnell.",
+        "es": "Vosotros dos, cortad la charla. Al cibercafé, rápido.",
+        "it": "Piantatela di chiacchierare, voi due. Andate a quel cyber café... e in fretta.",
+        "th": ""
+      },
+      "Speech_0047L": {
+        "en": "Lambert- It looks like Jong has a boat down there in case he needs to make an emergency escape. Might be a good idea to cut off his exit scenario.",
+        "fr": "On dirait que Jong a un bateau, au cas où il lui serait nécessaire de filer rapidement. Ce serait une bonne idée de faire disparaître ses possibilités de fuite.",
+        "de": "Es scheint, als hätte Jong da unten ein Boot liegen, für den Fall, dass er plötzlich flüchten muss. Vermutlich wäre es eine gute Idee, diesen Fluchtweg abzuschneiden.",
+        "es": "Parece que Jong tiene una barca allí abajo por si se ve obligado a escapar. Sería conveniente que neutralizarais su escenario de salida.",
+        "it": "Pare che Jong abbia una barca in caso abbia bisogno di un'uscita d'emergenza. Sarebbe una buona idea tagliar fuori la sua via di fuga.",
+        "th": ""
+      },
+      "Speech_0033L": {
+        "en": "Lambert- Jong is somewhere in this café. Remember, we need him alive. Once you have him, bring him down to the truck out front and we'll extract you.",
+        "fr": "Jong se trouve dans ce cybercafé. N'oubliez pas qu'il nous le faut en vie. Quand vous l'aurez, amenez-le au camion garé devant l'établissement pour votre extraction.",
+        "de": "Jong befindet sich irgendwo in diesem Café. Denkt daran, wir brauchen ihn lebend. Sobald ihr ihn habt, bringt ihr ihn draußen zu dem Lastwagen, dann holen wir euch da raus.",
+        "es": "Jong debe estar en este café. Lo quiero con vida. Cuando lo tengáis, llevadlo al camión que hay frente al café y os sacaremos de allí.",
+        "it": "Jong è da qualche parte in questo bar. Ricordatevi che lo vogliamo vivo. Quando lo avrete, portatelo al camion lì fuori e preparatevi all'estrazione.",
+        "th": ""
+      },
+      "Speech_0037L": {
+        "en": "Lambert- Good job. Get Jong to the truck and we'll get you out of there.",
+        "fr": "Beau travail. Ramenez Jong au camion et nous vous tirerons de là.",
+        "de": "Gut gemacht. Bringt Jong zum Lastwagen, dann holen wir euch dort heraus.",
+        "es": "Buen trabajo. Llevadlo al camión y os sacaremos de allí.",
+        "it": "Ben fatto. Portate Jong al camion e vi tireremo fuori di là.",
+        "th": ""
+      },
+      "Speech_0035L": {
+        "en": "Lambert- Jong is getting away! Don't let him escape in his boat!",
+        "fr": "Jong s'enfuit ! Ne le laissez pas prendre son bateau !",
+        "de": "Jong flüchtet! Lasst ihn nicht mit seinem Boot entkommen!",
+        "es": "¡Jong se escapa! ¡No dejéis que llegue a la barca!",
+        "it": "Jong sta scappando! Non lasciatelo fuggire con la barca!",
+        "th": ""
+      },
+      "Speech_0036L": {
+        "en": "Lambert- Jong is trying to get to his boat. Good thing you disabled it. Go grab him from the docks and bring him back to the truck.",
+        "fr": "Jong essaye de rejoindre son bateau. Heureusement que vous vous en êtes occupés. Attrapez-le et ramenez-le au bateau.",
+        "de": "Jong versucht zu seinem Boot zu kommen. Zum Glück, habt ihr es stillgelegt. Los, schnappt ihn euch bei der Anlegestelle und bringt ihn zurück zum Lastwagen.",
+        "es": "¡Jong intenta llegar a su barca! Menos mal que la habéis inutilizado. Sacadle del muelle y llevadlo al camión.",
+        "it": "Jong sta cercando di arrivare alla sua barca. Avete fatto bene a metterla fuori uso. Andate a prenderlo al molo e riportatelo al camion.",
+        "th": ""
+      },
+      "Speech_0034L": {
+        "en": "Lambert- My God! What are you thinking?! I told you we needed Jong alive! Neither of you will ever qualify as Splinter Cell operatives! Mission Over!",
+        "fr": "Mais qu'est-ce que vous faites ? Je vous ai dit qu'il nous le fallait vivant ! Mission terminée ! Aucun d'entre vous ne rejoindra jamais une de nos cellules !",
+        "de": "Mein Gott! Was habt ihr euch dabei gedacht? Ich hatte doch gesagt, dass wir Jong lebend brauchen! Keiner von euch wird sich jemals als Splinter Cell qualifizieren! Mission beendet!",
+        "es": "¿Pero qué habéis hecho? ¡Os dije que quería a Jong con vida! Jamás os graduaréis como agentes de Splinter Cell. ¡Misión cancelada!",
+        "it": "Mio Dio! Ma cos'avete in testa?! Vi avevo detto che Jong ci serviva vivo! Nessuno di voi due si qualificherà mai come agente Splinter Cell! Missione terminata!",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_templefront": {
+      "_source": "P_02_seoulthree",
+      "Speech_0001L": {
+        "en": "NKSol_Shing- I don't think we can fix it.",
+        "fr": "A mon avis, ce n'est pas réparable.",
+        "de": "Ich glaube nicht, dass wir ihn reparieren können.",
+        "es": "No podemos arreglarlo.",
+        "it": "Non penso che si possa aggiustare.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Chul- Well then what are we going to do?",
+        "fr": "Alors, qu'est-ce qu'on va faire ?",
+        "de": "Und was machen wir dann jetzt?",
+        "es": "¿Entonces qué hacemos ahora?",
+        "it": "E allora che facciamo?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "NKSol_Shing- Look it's not important. We're in position. It doesn't matter if we're mobile. As long as the radar is operational, we're fine.",
+        "fr": "Ce n'est pas important, OK ? On est en position, alors, même si on n'est pas mobiles, aucun souci tant que le radar est opérationnel.",
+        "de": "Das ist doch nicht so wichtig. Wir sind in Position. Es ist unbedeutend, ob wir mobil sind. Solange der Radar funktioniert, ist alles in Ordnung.",
+        "es": "No pasa nada. Estamos en posición. Aunque no pueda moverse, mientras el radar siga operativo no importa.",
+        "it": "Senti, non è importante. Siamo in posizione. Non importa se possiamo muoverci o no. Finchè il radar funziona siamo a posto.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "NKSol_Chul- What if we get orders to roll out?",
+        "fr": "Et si on nous ordonne de bouger ?",
+        "de": "Was, wenn wir einen Marschbefehl bekommen.",
+        "es": "¿Y si ordenan que nos movamos?",
+        "it": "E se ci ordinano di andare?",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "NKSol_Shing- Then we report the damage and we wait for the engineering team to come get us.",
+        "fr": "Dans ce cas, on mentionnera les dégâts et on attendra la venue des ingénieurs.",
+        "de": "Dann melden wir den Schaden und warten auf die Instandsetzung.",
+        "es": "Entonces informamos de los daños y esperamos a que vengan los ingenieros.",
+        "it": "Allora riferiamo il danno e aspettiamo che la squadra dei tecnici ci venga a prendere.",
+        "th": ""
+      }
+    },
+    "P_02_Seoulthree_templefront_interro": {
+      "_source": "P_02_seoulthree",
+      "Speech_0001L": {
+        "en": "NKSol_Shing- Oh god... please... you don't need to kill me... our tank is stuck here anyway... please... I don't know anymore...",
+        "fr": "Rien ne vous oblige à me tuer... notre char est coincé ici, de toute façon... je vous en prie, je ne sais rien d'autre...",
+        "de": "Oh, Gott ... bitte ... Sie brauchen mich nicht zu töten ... unser Panzer steckt ohnehin hier fest ... bitte ... mehr weiß ich nicht.",
+        "es": "Por favor, no tenéis por qué matarme. No podemos mover el tanque. Por favor, no sé nada más.",
+        "it": "Oddio... per favore... non c'è bisogno di uccidermi... tanto il nostro carro armato è bloccato qui... Per favore... non so altro...",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "NKSol_Shing- Okay... okay... there's more. The tanks can still fire. The only way to disable them is to take out the radar dish, that way they can't track their targets.",
+        "fr": "OK, OK, ce n'est pas tout... les chars peuvent encore tirer. Le seul moyen de les mettre hors de combat consiste à détruire leur système d'acquisition des cibles.",
+        "de": "Okay .... Okay ... da ist noch was. Die Panzer können immer noch feuern. Der einzige Weg, sie unschädlich zu machen, ist die Zerstörung der Zielerfassungsgeräte oben auf den Panzern, so dass sie ihre Ziele nicht mehr verfolgen können.",
+        "es": "Está bien. Los tanques aún pueden disparar. La única forma de inutilizarlos es destruir el sistema de fijación de objetivo para que no puedan localizar los blancos.",
+        "it": "Okay... okay... c'è dell'altro. I carri armati possono ancora sparare. L'unico modo per disarmarli è disattivare il sistema di acquisizione del bersaglio, in alto; in questo modo non potranno individuare gli obiettivi.",
+        "th": ""
+      }
+    }
+  }
+}

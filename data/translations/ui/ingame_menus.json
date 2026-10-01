@@ -1,0 +1,1012 @@
+{
+  "_meta": {
+    "category": "ui",
+    "name": "ingame_menus",
+    "sources": [
+      "InGameMenus"
+    ],
+    "total_strings": 122
+  },
+  "sections": {
+    "COMMON": {
+      "_source": "InGameMenus",
+      "Back": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Continue": {
+        "en": "CONTINUE",
+        "fr": "CONTINUER",
+        "de": "FORTSETZEN",
+        "es": "CONTINUAR",
+        "it": "CONTINUA",
+        "th": ""
+      },
+      "Unknown": {
+        "en": "UNKNOWN",
+        "fr": "INCONNU",
+        "de": "UNBEKANNT",
+        "es": "DESCONOCIDO",
+        "it": "SCONOSCIUTO",
+        "th": ""
+      },
+      "Orientation[0]": {
+        "en": "N",
+        "fr": "N",
+        "de": "N",
+        "es": "N",
+        "it": "N",
+        "th": ""
+      },
+      "Orientation[1]": {
+        "en": "NE",
+        "fr": "NE",
+        "de": "NO",
+        "es": "NE",
+        "it": "NE",
+        "th": ""
+      },
+      "Orientation[2]": {
+        "en": "E",
+        "fr": "E",
+        "de": "O",
+        "es": "E",
+        "it": "E",
+        "th": ""
+      },
+      "Orientation[3]": {
+        "en": "SE",
+        "fr": "SE",
+        "de": "SO",
+        "es": "SE",
+        "it": "SE",
+        "th": ""
+      },
+      "Orientation[4]": {
+        "en": "S",
+        "fr": "S",
+        "de": "S",
+        "es": "S",
+        "it": "S",
+        "th": ""
+      },
+      "Orientation[5]": {
+        "en": "SW",
+        "fr": "SO",
+        "de": "SW",
+        "es": "SO",
+        "it": "SO",
+        "th": ""
+      },
+      "Orientation[6]": {
+        "en": "W",
+        "fr": "O",
+        "de": "W",
+        "es": "O",
+        "it": "O",
+        "th": ""
+      },
+      "Orientation[7]": {
+        "en": "NW",
+        "fr": "NO",
+        "de": "NW",
+        "es": "NO",
+        "it": "NO",
+        "th": ""
+      },
+      "Scanning": {
+        "en": "SCANNING...",
+        "fr": "BALAYAGE...",
+        "de": "SCAN...",
+        "es": "ESCANEANDO...",
+        "it": "SCANSIONE...",
+        "th": ""
+      },
+      "Recording": {
+        "en": "RECORDING...",
+        "fr": "ENREGISTREMENT...",
+        "de": "AUFNAHME...",
+        "es": "GRABANDO...",
+        "it": "REGISTRAZIONE...",
+        "th": ""
+      },
+      "Connecting": {
+        "en": "CONNECTING...",
+        "fr": "CONNEXION...",
+        "de": "VERBG WIRD HERGST",
+        "es": "CONECTANDO...",
+        "it": "CONNESSIONE...",
+        "th": ""
+      },
+      "NoFeed": {
+        "en": "NO FEED AVAILABLE",
+        "fr": "PAS D'ALIMENTATION DISPONIBLE",
+        "de": "KEIN SIGNAL",
+        "es": "SIN ALIMENTACIÓN",
+        "it": "NESSUN FLUS. DATI",
+        "th": ""
+      },
+      "Disconnecting": {
+        "en": "DISCONNECTING...",
+        "fr": "DECONNEXION...",
+        "de": "VERBINDUNG WIRD GETRENNT...",
+        "es": "DESCONECTANDO...",
+        "it": "DISCONNESSIONE...",
+        "th": ""
+      },
+      "DistanceMeter": {
+        "en": "M",
+        "fr": "M",
+        "de": "M",
+        "es": "M",
+        "it": "M",
+        "th": ""
+      }
+    },
+    "HUD": {
+      "_source": "InGameMenus",
+      "Interact": {
+        "en": "INTERACT",
+        "fr": "INTERAGIR",
+        "de": "INTERAGIEREN",
+        "es": "ACCIONES",
+        "it": "INTERAZIONE",
+        "th": ""
+      },
+      "Exit": {
+        "en": "BACK TO GAME",
+        "fr": "RETOUR A LA PARTIE",
+        "de": "ZURÜCK ZUM SPIEL",
+        "es": "SEGUIR JUGANDO",
+        "it": "TORNA ALLA PARTITA",
+        "th": ""
+      },
+      "SwitchAttach": {
+        "en": "SWITCH ATTACHMENT",
+        "fr": "CHANGER D'ACCESSOIRE",
+        "de": "MODUL WECHSELN",
+        "es": "CAMBIAR ACCESORIO",
+        "it": "CAMBIA MODULO",
+        "th": ""
+      },
+      "SwitchWeapon": {
+        "en": "SWITCH WEAPON",
+        "fr": "CHANGER D'ARME",
+        "de": "WAFFE WECHSELN",
+        "es": "CAMBIAR ARMA",
+        "it": "CAMBIA ARMA",
+        "th": ""
+      }
+    },
+    "TRAINING": {
+      "_source": "InGameMenus",
+      "Title": {
+        "en": "TRAINING INFORMATION",
+        "fr": "INFOS ENTRAINEMENT",
+        "de": "TRAININGS-INFO",
+        "es": "INFORM. DEL ENTRENAMIENTO",
+        "it": "INFO. ADDESTRAMENTO",
+        "th": ""
+      },
+      "Press": {
+        "en": "PRESS",
+        "fr": "APPUYER SUR",
+        "de": "ZUM FORTFAHREN",
+        "es": "PRESIONAR",
+        "it": "PREMI",
+        "th": ""
+      },
+      "Continue": {
+        "en": "TO CONTINUE",
+        "fr": "POUR CONTINUER",
+        "de": "DRÜCKEN",
+        "es": "PARA CONTINUAR",
+        "it": "PER CONTINUARE",
+        "th": ""
+      }
+    },
+    "ENDMISSION": {
+      "_source": "InGameMenus",
+      "MissionFailedMsg": {
+        "en": "MISSION FAILED",
+        "fr": "VOUS AVEZ ECHOUE",
+        "de": "MISSION FEHLGESCHLAGEN",
+        "es": "MISIÓN FRACASADA",
+        "it": "MISSIONE FALLITA",
+        "th": ""
+      },
+      "MissionSuccessMsg": {
+        "en": "MISSION COMPLETE",
+        "fr": "MISSION ACCOMPLIE",
+        "de": "MISSION ERFOLGREICH",
+        "es": "MISIÓN CUMPLIDA",
+        "it": "MISSIONE COMPLETA",
+        "th": ""
+      },
+      "MissionContinueMsg": {
+        "en": "TO BE CONTINUED...",
+        "fr": "A SUIVRE",
+        "de": "FORTSETZUNG FOLGT...",
+        "es": "CONTINUARÁ...",
+        "it": "CONTINUA...",
+        "th": ""
+      }
+    },
+    "OPSATMENU": {
+      "_source": "InGameMenus",
+      "Goals": {
+        "en": "GOALS",
+        "fr": "OBJECTIFS",
+        "de": "ZIELE",
+        "es": "METAS",
+        "it": "OBIETTIVI",
+        "th": ""
+      },
+      "Notes": {
+        "en": "NOTES",
+        "fr": "NOTES",
+        "de": "NOTIZEN",
+        "es": "NOTAS",
+        "it": "APPUNTI",
+        "th": ""
+      },
+      "Datas": {
+        "en": "DATA",
+        "fr": "DONNEES",
+        "de": "DATEN",
+        "es": "DATOS",
+        "it": "DATI",
+        "th": ""
+      },
+      "Map": {
+        "en": "MAP",
+        "fr": "CARTE",
+        "de": "KARTE",
+        "es": "MAPA",
+        "it": "MAPPA",
+        "th": ""
+      },
+      "Equipment": {
+        "en": "EQUIPMENT",
+        "fr": "EQUIPEMENT",
+        "de": "AUSRÜSTUNG",
+        "es": "EQUIPAMIENTO",
+        "it": "EQUIPAGGIAMENTO",
+        "th": ""
+      },
+      "GoalsTitle": {
+        "en": "OBJECTIVES",
+        "fr": "OBJECTIFS",
+        "de": "AUFGABEN",
+        "es": "OBJETIVOS",
+        "it": "OBIETTIVI",
+        "th": ""
+      },
+      "NoGoals": {
+        "en": "NO GOALS",
+        "fr": "PAS D'OBJECTIF",
+        "de": "KEINE ZIELE",
+        "es": "NO HAY METAS",
+        "it": "NESSUN OBIETTIVO",
+        "th": ""
+      },
+      "GoalType[0]": {
+        "en": "PRIMARY OBJECTIVES",
+        "fr": "OBJECTIFS PRINCIPAUX",
+        "de": "PRIMÄRZIELE",
+        "es": "OBJETIVOS PRINCIPALES",
+        "it": "OBIETTIVI PRIMARI",
+        "th": ""
+      },
+      "GoalType[1]": {
+        "en": "SECONDARY OBJECTIVES",
+        "fr": "OBJECTIFS SECONDAIRES",
+        "de": "SEKUNDÄRZIELE",
+        "es": "OBJETIVOS SECUNDARIOS",
+        "it": "OBIETTIVI SECONDARI",
+        "th": ""
+      },
+      "GoalType[2]": {
+        "en": "OPPORTUNITY OBJECTIVES",
+        "fr": "OBJECTIFS D'OPPORTUNITÉ",
+        "de": "ZUSÄTZLICHE MISSIONSZIELE",
+        "es": "OBJETIVOS PARALELOS",
+        "it": "OBIETTIVI DI OPPORTUNITÀ",
+        "th": ""
+      },
+      "GoalType[3]": {
+        "en": "FALLBACK OBJECTIVES",
+        "fr": "OBJECTIFS DE REPLI",
+        "de": "AUSWEICH-MISSIONSZIELE",
+        "es": "OBJETIVOS DE REPLIEGUE",
+        "it": "OBIETTIVI DI RIPIEGO",
+        "th": ""
+      },
+      "GoalType[4]": {
+        "en": "BONUS OBJECTIVES",
+        "fr": "OBJECTIFS BONUS",
+        "de": "BONUS-MISSIONSZIELE",
+        "es": "OBJETIVOS DE BONUS",
+        "it": "OBIETTIVI BONUS",
+        "th": ""
+      },
+      "NotesTitle": {
+        "en": "NOTES",
+        "fr": "NOTES",
+        "de": "NOTIZEN",
+        "es": "NOTAS",
+        "it": "APPUNTI",
+        "th": ""
+      },
+      "DatasTitle": {
+        "en": "DATA",
+        "fr": "DONNEES",
+        "de": "DATEN",
+        "es": "DATOS",
+        "it": "DATI",
+        "th": ""
+      },
+      "DatasType": {
+        "en": "TYPE",
+        "fr": "TYPE",
+        "de": "TYP",
+        "es": "TIPO",
+        "it": "TIPO",
+        "th": ""
+      },
+      "DatasLocation": {
+        "en": "LOCATION",
+        "fr": "LIEU",
+        "de": "ORT",
+        "es": "LUGAR",
+        "it": "LUOGO",
+        "th": ""
+      },
+      "DatasFrom": {
+        "en": "FROM",
+        "fr": "DE",
+        "de": "VON",
+        "es": "DESCONOCIDO",
+        "it": "DA",
+        "th": ""
+      },
+      "DatasName": {
+        "en": "FILE",
+        "fr": "FICHIER",
+        "de": "DATEI",
+        "es": "ARCHIVO",
+        "it": "FILE",
+        "th": ""
+      },
+      "DataType[0]": {
+        "en": "UNKNOWN",
+        "fr": "INCONNU",
+        "de": "UNBEKANNT",
+        "es": "DESCONOCIDO",
+        "it": "SCONOSCIUTO",
+        "th": ""
+      },
+      "DataType[1]": {
+        "en": "EMAIL",
+        "fr": "E-MAIL",
+        "de": "E-MAIL",
+        "es": "EMAIL",
+        "it": "EMAIL",
+        "th": ""
+      },
+      "DataType[2]": {
+        "en": "SOUND",
+        "fr": "SON",
+        "de": "SOUND",
+        "es": "SONIDO",
+        "it": "SUONO",
+        "th": ""
+      },
+      "DataType[3]": {
+        "en": "IMAGE",
+        "fr": "IMAGE",
+        "de": "BILD",
+        "es": "IMAGEN",
+        "it": "IMMAGINE",
+        "th": ""
+      },
+      "MapTitle": {
+        "en": "MAP",
+        "fr": "CARTE",
+        "de": "KARTE",
+        "es": "MAPA",
+        "it": "MAPPA",
+        "th": ""
+      },
+      "MapAlarm": {
+        "en": "ALARM",
+        "fr": "ALARME",
+        "de": "ALARM",
+        "es": "ALARMA",
+        "it": "ALLARME",
+        "th": ""
+      },
+      "MapObjective": {
+        "en": "OBJECTIVE",
+        "fr": "OBJECTIF",
+        "de": "MISSIONSZIEL",
+        "es": "OBJETIVO",
+        "it": "OBIETTIVO",
+        "th": ""
+      },
+      "MapPlayer": {
+        "en": "PLAYER",
+        "fr": "JOUEUR",
+        "de": "SPIELER",
+        "es": "JUGADOR",
+        "it": "GIOCATORE",
+        "th": ""
+      },
+      "MapObjectiveDetail": {
+        "en": "OBJECTIVE:",
+        "fr": "OBJECTIF :",
+        "de": "MISSIONSZIEL:",
+        "es": "OBJETIVO:",
+        "it": "OBIETTIVO:",
+        "th": ""
+      },
+      "MapLocation": {
+        "en": "LOCATION:",
+        "fr": "LIEU :",
+        "de": "POSITION:",
+        "es": "POSICIÓN:",
+        "it": "LUOGO:",
+        "th": ""
+      },
+      "EquipmentTitle": {
+        "en": "EQUIPMENT",
+        "fr": "EQUIPEMENT",
+        "de": "AUSRÜSTUNG",
+        "es": "EQUIPAMIENTO",
+        "it": "EQUIPAGGIAMENTO",
+        "th": ""
+      },
+      "MapAlarmTriggered": {
+        "en": "TRIGGERED ALARMS",
+        "fr": "ALARMES DÉCLENCHÉES",
+        "de": "AUSGELÖSTE ALARME",
+        "es": "ALARMAS ACTIVADAS",
+        "it": "ALLARMI SCATTATI",
+        "th": ""
+      },
+      "Hide": {
+        "en": "HIDE",
+        "fr": "CACHER",
+        "de": "VERBERGEN",
+        "es": "ESCONDER",
+        "it": "NASCONDI",
+        "th": ""
+      },
+      "Show": {
+        "en": "SHOW",
+        "fr": "MONTRER",
+        "de": "ZEIGEN",
+        "es": "MOSTRAR",
+        "it": "MOSTRA",
+        "th": ""
+      }
+    },
+    "PAUSEMENU": {
+      "_source": "InGameMenus",
+      "PauseNormal": {
+        "en": "PAUSE",
+        "fr": "PAUSE",
+        "de": "PAUSE",
+        "es": "PAUSA",
+        "it": "PAUSA",
+        "th": ""
+      },
+      "PauseGameOver": {
+        "en": "GAME OVER",
+        "fr": "PARTIE TERMINEE",
+        "de": "SPIELENDE",
+        "es": "FIN DEL JUEGO",
+        "it": "GAME OVER",
+        "th": ""
+      },
+      "PauseContinue": {
+        "en": "MISSION SUCCESS",
+        "fr": "MISSION ACCOMPLIE",
+        "de": "MISSION ERFOLGREICH",
+        "es": "MISIÓN CUMPLIDA",
+        "it": "MISSIONE COMPLETATA",
+        "th": ""
+      },
+      "ChoiceRetryGame": {
+        "en": "RETRY",
+        "fr": "REESSAYER",
+        "de": "WIEDERHOLEN",
+        "es": "REINTENTAR",
+        "it": "RIPROVA",
+        "th": ""
+      },
+      "ChoiceContinueGame": {
+        "en": "CONTINUE",
+        "fr": "CONTINUER",
+        "de": "FORTSETZEN",
+        "es": "CONTINUAR",
+        "it": "CONTINUA",
+        "th": ""
+      },
+      "ChoiceQuickSaveGame": {
+        "en": "QUICK SAVE",
+        "fr": "SAUVEGARDE RAPIDE",
+        "de": "SCHNELLSPEICHERN",
+        "es": "GUARDADO RÁPIDO",
+        "it": "SALVATAGGIO VELOCE",
+        "th": ""
+      },
+      "ChoiceResumeGame": {
+        "en": "RESUME",
+        "fr": "REPRENDRE",
+        "de": "WEITER",
+        "es": "SEGUIR JUGANDO",
+        "it": "RIPRENDI",
+        "th": ""
+      },
+      "ChoiceRestartGame": {
+        "en": "RESTART",
+        "fr": "RECOMMENCER",
+        "de": "NEUSTART",
+        "es": "REINICIAR",
+        "it": "RICOMINCIA",
+        "th": ""
+      },
+      "ChoiceSaveGame": {
+        "en": "SAVE",
+        "fr": "SAUVEGARDER",
+        "de": "SPEICHERN",
+        "es": "GUARDAR",
+        "it": "SALVA",
+        "th": ""
+      },
+      "ChoiceLoadGame": {
+        "en": "LOAD",
+        "fr": "CHARGER",
+        "de": "LADEN",
+        "es": "CARGAR",
+        "it": "CARICA",
+        "th": ""
+      },
+      "ChoiceOptions": {
+        "en": "OPTIONS",
+        "fr": "OPTIONS",
+        "de": "OPTIONEN",
+        "es": "OPCIONES",
+        "it": "OPZIONI",
+        "th": ""
+      },
+      "ChoiceQuitLobby": {
+        "en": "LEAVE MISSION",
+        "fr": "RETOUR A L'ACCUEIL",
+        "de": "ZURÜCK ZUR LOBBY",
+        "es": "VOL. PUNTO ENCUENT.",
+        "it": "TORNA ALLA LOBBY",
+        "th": ""
+      },
+      "ChoiceQuit": {
+        "en": "QUIT",
+        "fr": "QUITTER",
+        "de": "BEENDEN",
+        "es": "SALIR",
+        "it": "ESCI",
+        "th": ""
+      },
+      "QuitWarningTitle": {
+        "en": "QUIT GAME",
+        "fr": "QUITTER LA PARTIE",
+        "de": "SPIEL VERLASSEN",
+        "es": "SALIR DEL JUEGO",
+        "it": "ESCI DALLA PARTITA",
+        "th": ""
+      },
+      "QuitWarningMsg": {
+        "en": "ARE YOU SURE YOU WANT TO RETURN TO THE MAIN MENU? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO LEAVE OR CANCEL.",
+        "fr": "VOULEZ-VOUS VRAIMENT RETOURNER AU MENU PRINCIPAL ? DANS CE CAS, VOUS PERDREZ VOTRE PROGRESSION. SELECTIONNEZ \"OK\" POUR QUITTER OU \"ANNULER\" POUR REPRENDRE LA PARTIE.",
+        "de": "SIND SIE SICHER, DASS SIE ZUM HAUPTMENÜ ZURÜCKKEHREN WOLLEN? JEDER SPIELSTAND GEHT DABEI VERLOREN. WÄHLEN SIE \"OK\", UM ZU BESTÄTIGEN ODER \"ABBRECHEN\", UM WEITER ZU SPIELEN.",
+        "es": "¿SEGURO QUE QUIERES VOLVER AL MENÚ PRINCIPAL? TODO LO QUE HAS AVANZADO SE PERDERÁ. ELIGE \"ACEPTAR\" PARA SALIR O \"CANCELAR\" PARA VOVER AL JUEGO.",
+        "it": "VUOI DAVVERO TORNARE AL MENU PRINCIPALE? I PROGRESSI ATTUALI ANDRANNO PERDUTI. SELEZIONA OK PER USCIRE O ANNULLA PER RIPRENDERE.",
+        "th": ""
+      },
+      "RestartWarningTitle": {
+        "en": "RESTART GAME",
+        "fr": "RECOMMENCER LA PARTIE",
+        "de": "SPIEL NEU STARTEN",
+        "es": "REINICIAR PARTIDA",
+        "it": "RICOMINCIARE LA PARTITA",
+        "th": ""
+      },
+      "RestartWarningMsg": {
+        "en": "ARE YOU SURE YOU WANT TO RESTART? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO CONTINUE OR CANCEL.",
+        "fr": "VOULEZ-VOUS VRAIMENT RECOMMENCER ? VOTRE PROGRESSION ACTUELLE SERA PERDUE. SÉLECTIONNEZ OK POUR CONTINUER, OU ANNULER.",
+        "de": "SPIEL WIRKLICH NEU STARTEN? DABEI GEHT ALLER NICHT GESPEICHERTER FORTSCHRITT VERLOREN. WÄHLEN SIE \"OK\", UM DEN VORGANG FORTZUSETZEN, ODER \"ABBRECHEN\".",
+        "es": "¿SEGURO QUE QUIERES REINICIAR? PERDERÁS LO QUE HAYAS AVANZADO. ELIGE ACEPTAR PARA CONTINUAR O BIEN CANCELA.",
+        "it": "SEI SICURO DI VOLER RICOMINCIARE? I PROGRESSI VERRANNO PERSI. SELEZIONA OK PER CONTINUARE O ANNULLA.",
+        "th": ""
+      },
+      "QuitLobbyWarningMsg": {
+        "en": "ARE YOU SURE YOU WANT TO RETURN TO THE LOBBY? YOUR CURRENT PROGRESS WILL BE LOST. SELECT OK TO LEAVE OR CANCEL.",
+        "fr": "VOULEZ-VOUS VRAIMENT RETOURNER À L'ACCUEIL ? VOTRE PROGRESSION ACTUELLE SERA PERDUE. SÉLECTIONNEZ OK POUR QUITTER, OU ANNULER.",
+        "de": "WIRKLICH IN DIE LOBBY ZURÜCKKEHREN? DABEI GEHT ALLER NICHT GESPEICHERTER FORTSCHRITT VERLOREN. WÄHLEN SIE \"OK\", UM DEN VORGANG FORTZUSETZEN, ODER \"ABBRECHEN\".",
+        "es": "¿SEGURO QUE QUIERES REGRESAR AL PUNTO DE ENCUENTRO? PERDERÁS LO QUE HAYAS AVANZADO. ELIGE ACEPTAR PARA SALIR O BIEN CANCELA.",
+        "it": "SEI SICURO DI VOLER TORNARE ALLA SALA D'ATTESA? I PROGRESSI VERRANNO PERSI. SELEZIONA OK PER CONTINUARE O ANNULLA.",
+        "th": ""
+      },
+      "PauseWaitingTeammate": {
+        "en": "GAME PAUSED. WAITING FOR YOUR TEAMMATE...",
+        "fr": "JEU EN PAUSE. EN ATTENTE DE VOTRE COEQUIPIER...",
+        "de": "SPIEL ANGEHALTEN. WARTE AUF TEAMKAMERAD...",
+        "es": "JUEGO PARADO. ESPERANDO A TU COMPAÑERO...",
+        "it": "PAUSA. IN ATTESA DEL COMPAGNO...",
+        "th": ""
+      },
+      "PauseReturnToLobby": {
+        "en": "GOING BACK TO LOBBY... ( %i )",
+        "fr": "RETOUR A L'ACCUEIL... ( %i )",
+        "de": "ZURÜCK ZUR LOBBY ... (%i)",
+        "es": "VOLVER AL PUNTO DE ENCUENTRO... (%i)",
+        "it": "TORNA ALLA SALA D'ATTESA... (%i)",
+        "th": ""
+      },
+      "GameOverWaitingTeammate": {
+        "en": "WAITING FOR YOUR TEAMMATE...",
+        "fr": "EN ATTENTE DE VOTRE COEQUIPIER",
+        "de": "WARTE AUF TEAMKAMERAD...",
+        "es": "ESPERANDO A TU COMPAÑERO...",
+        "it": "IN ATTESA DEL COMPAGNO...",
+        "th": ""
+      },
+      "SaveGameWaitingTeammate": {
+        "en": "WAITING FOR YOUR TEAMMATE...",
+        "fr": "EN ATTENTE DE VOTRE COEQUIPIER",
+        "de": "WARTE AUF TEAMKOLLEGEN...",
+        "es": "ESPERANDO A TU COMPAÑERO...",
+        "it": "IN ATTESA DEL COMPAGNO DI SQUADRA...",
+        "th": ""
+      }
+    },
+    "COMPUTER": {
+      "_source": "InGameMenus",
+      "SecurityAccess": {
+        "en": "SECURITY ACCESS",
+        "fr": "ACCES SECURITE",
+        "de": "SICHERH-ZUGANG",
+        "es": "ACCESO SEGURIDAD",
+        "it": "ACCES. DI SICUREZZA",
+        "th": ""
+      },
+      "HackingDetail": {
+        "en": "HACKING PROCESS",
+        "fr": "PROCESSUS DE PIRATAGE",
+        "de": "HACKING-FORTSCHRITT",
+        "es": "PROCESO DE HACKEO",
+        "it": "SABOTAGGIO",
+        "th": ""
+      },
+      "Filename": {
+        "en": "FILE NAME",
+        "fr": "NOM DU DOSSIER",
+        "de": "DATEINAME",
+        "es": "NOMBRE DE ARCHIVO",
+        "it": "NOME DI FILE",
+        "th": ""
+      },
+      "FileType": {
+        "en": "TYPE",
+        "fr": "TYPE",
+        "de": "DATEITYP",
+        "es": "TIPO",
+        "it": "TIPO",
+        "th": ""
+      },
+      "Files": {
+        "en": "FILES",
+        "fr": "FICHIERS",
+        "de": "DATEIEN",
+        "es": "ARCHIVOS",
+        "it": "FILE",
+        "th": ""
+      },
+      "DataType[0]": {
+        "en": "UNKNOWN",
+        "fr": "INCONNU",
+        "de": "UNBEKANNT",
+        "es": "DESCONOCIDO",
+        "it": "SCONOSCIUTO",
+        "th": ""
+      },
+      "DataType[1]": {
+        "en": "EMAIL",
+        "fr": "E-MAIL",
+        "de": "E-MAIL",
+        "es": "EMAIL",
+        "it": "EMAIL",
+        "th": ""
+      },
+      "DataType[2]": {
+        "en": "IMAGE",
+        "fr": "SON",
+        "de": "BILD",
+        "es": "IMAGEN",
+        "it": "IMMAGINE",
+        "th": ""
+      },
+      "DataType[3]": {
+        "en": "SOUND",
+        "fr": "IMAGE",
+        "de": "SOUND",
+        "es": "SONIDO",
+        "it": "SUONO",
+        "th": ""
+      },
+      "DataType[4]": {
+        "en": "CAMERA",
+        "fr": "CAMERA",
+        "de": "KAMERA",
+        "es": "CÁMARA",
+        "it": "TELECAMERA",
+        "th": ""
+      }
+    },
+    "MISSIONREVIEW": {
+      "_source": "InGameMenus",
+      "ObjectivesTitle": {
+        "en": "OBJECTIVES REVIEW",
+        "fr": "OBJECTIFS",
+        "de": "BEWERTUNG DER EINSATZZIELE",
+        "es": "REVISIÓN DE OBJETIVOS",
+        "it": "OBIETTIVI",
+        "th": ""
+      },
+      "StatsTitle": {
+        "en": "MISSION STATISTICS",
+        "fr": "STATISTIQUES DE LA MISSION",
+        "de": "MISSIONSSTATISTIK",
+        "es": "ESTADÍSTICAS DE MISIÓN",
+        "it": "STATISTICHE MISSIONE",
+        "th": ""
+      },
+      "OverallTitle": {
+        "en": "OVERALL ACHIEVEMENT",
+        "fr": "PERFORMANCE GLOBALE",
+        "de": "LEISTUNG INSGESAMT",
+        "es": "RESUMEN GENERAL",
+        "it": "RISULTATO GLOBALE",
+        "th": ""
+      },
+      "PrimaryObj": {
+        "en": "PRIMARY OBJECTIVES",
+        "fr": "OBJECTIFS PRINCIPAUX",
+        "de": "PRIMÄRZIELE",
+        "es": "OBJETIVOS PRINCIPALES",
+        "it": "OBIETTIVI PRIMARI",
+        "th": ""
+      },
+      "SecondaryObj": {
+        "en": "SECONDARY OBJECTIVES",
+        "fr": "OBJECTIFS SECONDAIRES",
+        "de": "SEKUNDÄRZIELE",
+        "es": "OBJETIVOS SECUNDARIOS",
+        "it": "OBIETTIVI SECONDARI",
+        "th": ""
+      },
+      "OpportunityObj": {
+        "en": "OPPORTUNITY OBJECTIVES",
+        "fr": "OBJECTIFS D'OPPORTUNITÉ",
+        "de": "ZUSÄTZLICHE MISSIONSZIELE",
+        "es": "OBJETIVOS PARALELOS",
+        "it": "OBIETTIVI DI OPPORTUNITÀ",
+        "th": ""
+      },
+      "BonusObj": {
+        "en": "BONUS OBJECTIVES",
+        "fr": "OBJECTIFS BONUS",
+        "de": "BONUS-MISSIONSZIELE",
+        "es": "OBJETIVOS DE BONUS",
+        "it": "OBIETTIVI BONUS",
+        "th": ""
+      },
+      "SuccessRating": {
+        "en": "SUCCESS RATING : ",
+        "fr": "TAUX DE SUCCES : ",
+        "de": "ERFOLGSRATE: ",
+        "es": "ÍNDICE DE ÉXITO: ",
+        "it": "SUCCESSO: ",
+        "th": ""
+      },
+      "FinalRating": {
+        "en": "FINAL RATING : ",
+        "fr": "SCORE FINAL : ",
+        "de": "ABSCHLUSSBEWERTUNG: ",
+        "es": "CALIFICACIÓN FINAL: ",
+        "it": "VALUTAZIONE FINALE: ",
+        "th": ""
+      },
+      "Hours": {
+        "en": "HOUR(S)",
+        "fr": "HEURE(S)",
+        "de": "STUNDE(N)",
+        "es": "HORAS",
+        "it": "ORE",
+        "th": ""
+      },
+      "Minutes": {
+        "en": "MIN.",
+        "fr": "MIN.",
+        "de": "MIN.",
+        "es": "MIN.",
+        "it": "MIN.",
+        "th": ""
+      },
+      "You": {
+        "en": "YOU",
+        "fr": "VOUS",
+        "de": "SIE",
+        "es": "USTED",
+        "it": "TU",
+        "th": ""
+      },
+      "Teammate": {
+        "en": "TEAMMATE",
+        "fr": "COEQUIPIER",
+        "de": "TEAMKAMERAD",
+        "es": "COMPAÑERO",
+        "it": "COMPAGNO",
+        "th": ""
+      },
+      "UnlockLoadOutTitle": {
+        "en": "CONGRATULATIONS !!!",
+        "fr": "CONGRATULATIONS !!!",
+        "de": "CONGRATULATIONS !!!",
+        "es": "CONGRATULATIONS !!!",
+        "it": "CONGRATULATIONS !!!",
+        "th": ""
+      },
+      "UnlockLoadOutMsg": {
+        "en": "ASSAULT LOAD-OUT UNLOCKED",
+        "fr": "ASSAULT LOAD-OUT UNLOCKED",
+        "de": "ASSAULT LOAD-OUT UNLOCKED",
+        "es": "ASSAULT LOAD-OUT UNLOCKED",
+        "it": "ASSAULT LOAD-OUT UNLOCKED",
+        "th": ""
+      },
+      "MissionStatus[0]": {
+        "en": "NOT COMPLETED",
+        "fr": "ÉCHOUÉ",
+        "de": "NICHT BEENDET",
+        "es": "NO COMPLETADA",
+        "it": "NON TERMINATA",
+        "th": ""
+      },
+      "MissionStatus[1]": {
+        "en": "COMPLETED",
+        "fr": "ACCOMPLIE",
+        "de": "ABGESCHLOSSEN",
+        "es": "COMPLETADA",
+        "it": "COMPLETATA",
+        "th": ""
+      },
+      "MissionStatus[2]": {
+        "en": "CANCELLED",
+        "fr": "ANNULÉ",
+        "de": "ABGEBROCHEN",
+        "es": "CANCELADA",
+        "it": "ANNULLATA",
+        "th": ""
+      },
+      "MissionStat[0]": {
+        "en": "MISSION PLAYED",
+        "fr": "MISSION JOUÉE",
+        "de": "GESPIELTE MISSION",
+        "es": "MISIÓN JUGADA",
+        "it": "MISSIONE GIOCATA",
+        "th": ""
+      },
+      "MissionStat[1]": {
+        "en": "TIME PLAYED",
+        "fr": "TEMPS DE JEU",
+        "de": "GESPIELTE ZEIT",
+        "es": "TIEMPO JUGADO",
+        "it": "TEMPO DI GIOCO",
+        "th": ""
+      },
+      "MissionStat[2]": {
+        "en": "TIMES IDENTIFIED AS INTRUDER",
+        "fr": "NB DE FOIS DÉTECTÉ COMME INTRUS",
+        "de": "ALS EINDRINGLING ENTDECKT",
+        "es": "TIEMPO DETECTADO COMO INTRUSO",
+        "it": "IDENTIFICAZIONI COME INTRUSO",
+        "th": ""
+      },
+      "MissionStat[3]": {
+        "en": "ENEMIES KNOCKED OUT",
+        "fr": "ENNEMIS ASSOMMÉS",
+        "de": "BEWUSSTLOSE FEINDE",
+        "es": "ENEMIGOS NEUTRALIZADOS",
+        "it": "NEMICI FUORI COMBATTIMENTO",
+        "th": ""
+      },
+      "MissionStat[4]": {
+        "en": "ENEMIES INJURED",
+        "fr": "ENNEMIS BLESSÉS",
+        "de": "VERLETZTE FEINDE",
+        "es": "ENEMIGOS HERIDOS",
+        "it": "NEMICI FERITI",
+        "th": ""
+      },
+      "MissionStat[5]": {
+        "en": "ENEMIES KILLED",
+        "fr": "ENNEMIS TUÉS",
+        "de": "GETÖTETE FEINDE",
+        "es": "ENEMIGOS ASESINADOS",
+        "it": "NEMICI UCCISI",
+        "th": ""
+      },
+      "MissionStat[6]": {
+        "en": "CIVILIANS KNOCKED OUT",
+        "fr": "CIVILS ASSOMMÉS",
+        "de": "BEWUSSTLOSE ZIVILISTEN",
+        "es": "CIVILES NEUTRALIZADOS",
+        "it": "CIVILI FUORI COMBATTIMENTO",
+        "th": ""
+      },
+      "MissionStat[7]": {
+        "en": "CIVILIANS INJURED",
+        "fr": "CIVILS BLESSÉS",
+        "de": "VERLETZTE ZIVILISTEN",
+        "es": "CIVILES HERIDOS",
+        "it": "CIVILI FERITI",
+        "th": ""
+      },
+      "MissionStat[8]": {
+        "en": "CIVILIANS KILLED",
+        "fr": "CIVILS TUÉS",
+        "de": "GETÖTETE ZIVILISTEN",
+        "es": "CIVILES ASESINADOS",
+        "it": "CIVILI UCCISI",
+        "th": ""
+      },
+      "MissionStat[9]": {
+        "en": "BODIES FOUND",
+        "fr": "CORPS TROUVÉS",
+        "de": "GEFUNDENE KÖRPER",
+        "es": "CUERPOS ENCONTRADOS",
+        "it": "CORPI TROVATI",
+        "th": ""
+      },
+      "MissionStat[10]": {
+        "en": "ALARMS TRIGGERED",
+        "fr": "ALARMES DÉCLENCHÉES",
+        "de": "AUSGELÖSTE ALARME",
+        "es": "ALARMAS ACTIVADAS",
+        "it": "ALLARMI ATTIVATE",
+        "th": ""
+      },
+      "MissionStat[11]": {
+        "en": "NUMBER OF SAVES USED",
+        "fr": "NOMBRE DE SAUVEGARDES UTILISÉES",
+        "de": "ANZAHL DER GESPEICHERTEN SPIELSTÄNDE",
+        "es": "PARTIDAS GUARDADAS USADAS",
+        "it": "NUMERO DI SALVATAGGI",
+        "th": ""
+      },
+      "MissionStat[12]": {
+        "en": "CONTINUES USED",
+        "fr": "NOMBRE DE \"CONTINUES\" UTILISES",
+        "de": "ANZAHL DER BENUTZTEN \"CONTINUES\"",
+        "es": "CONTINÚA USADO",
+        "it": "NUMERO DI CONTINUA",
+        "th": ""
+      }
+    }
+  }
+}

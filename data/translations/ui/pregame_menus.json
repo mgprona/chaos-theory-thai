@@ -1,0 +1,3099 @@
+{
+  "_meta": {
+    "category": "ui",
+    "name": "pregame_menus",
+    "sources": [
+      "PreGameMenus"
+    ],
+    "total_strings": 378
+  },
+  "sections": {
+    "OPTIONSTITLE": {
+      "_source": "PreGameMenus",
+      "SessionMode": {
+        "en": "MODE",
+        "fr": "MODE",
+        "de": "MODUS",
+        "es": "MODO",
+        "it": "MODALITÀ",
+        "th": ""
+      },
+      "SessionName": {
+        "en": "MATCH NAME",
+        "fr": "NOM DE LA PARTIE",
+        "de": "SPIELNAME",
+        "es": "NOMBRE PARTIDA",
+        "it": "NOME PARTITA",
+        "th": ""
+      },
+      "SessionMaxPlayers": {
+        "en": "MAXIMUM PLAYERS",
+        "fr": "MAX. DE JOUEURS",
+        "de": "MAXIMALE SPIELERZAHL",
+        "es": "MÁX. JUGADORES",
+        "it": "MAX GIOCATORI",
+        "th": ""
+      },
+      "SessionPrivate": {
+        "en": "FRIENDS ONLY",
+        "fr": "AMIS UNIQUEMENT",
+        "de": "NUR FREUNDE",
+        "es": "SÓLO AMIGOS",
+        "it": "SOLO AMICI",
+        "th": ""
+      },
+      "SessionLanguage": {
+        "en": "LANGUAGE",
+        "fr": "LANGUE",
+        "de": "SPRACHE",
+        "es": "IDIOMA",
+        "it": "LINGUA",
+        "th": ""
+      },
+      "SessionDifficulty": {
+        "en": "DIFFICULTY",
+        "fr": "DIFFICULTÉ",
+        "de": "SCHWIERIGKEIT",
+        "es": "DIFICULTAD",
+        "it": "DIFFICOLTÀ",
+        "th": ""
+      },
+      "SessionMission": {
+        "en": "MISSION",
+        "fr": "MISSION",
+        "de": "MISSION",
+        "es": "MISIÓN",
+        "it": "MISSIONE",
+        "th": ""
+      },
+      "SessionVoice": {
+        "en": "VOICE ONLY",
+        "fr": "VOIX UNIQUEMENT",
+        "de": "NUR SPRACHAUSGABE",
+        "es": "SÓLO VOZ",
+        "it": "SOLO VOCE",
+        "th": ""
+      },
+      "SessionSKills": {
+        "en": "SKILLS RANGE",
+        "fr": "ETENDUE DES COMPETENCES",
+        "de": "ERFAHRUNGSBEREICH",
+        "es": "RANGO HABILIDAD",
+        "it": "DIFFERENZA DI ABILITÀ",
+        "th": ""
+      },
+      "SessionPing": {
+        "en": "SPEED",
+        "fr": "VITESSE",
+        "de": "GESCHWINDIGK",
+        "es": "VELOCIDAD",
+        "it": "VELOCITÀ",
+        "th": ""
+      },
+      "SessionFriendlyFire": {
+        "en": "FRIENDLY FIRE",
+        "fr": "TIRS ALLIÉS",
+        "de": "EIGENES FEUER",
+        "es": "FUEGO AMIGO",
+        "it": "FUOCO AMICO",
+        "th": ""
+      },
+      "ControllerInvertLook": {
+        "en": "INVERT LOOK UP/DOWN",
+        "fr": "INVERSION REGARD HAUT/BAS",
+        "de": "SICHT HOCH/RUNTER UMKEHREN",
+        "es": "INVERTIR MIRAR ARRIBA/ABAJO",
+        "it": "INVERTI TELECAMERA SU/GIÙ",
+        "th": ""
+      },
+      "ControllerInvertLookSide": {
+        "en": "INVERT LOOK LEFT/RIGHT",
+        "fr": "INVERSION REGARD GAUCHE/DROITE",
+        "de": "SICHT LINKS/RECHTS UMKEHREN",
+        "es": "INVERTIR MIRAR IZQUIERDA/DERECHA",
+        "it": "INVERTI TELECAMERA SINISTRA/DESTRA",
+        "th": ""
+      },
+      "ControllerVibration": {
+        "en": "VIBRATION",
+        "fr": "VIBRATION",
+        "de": "VIBRATION",
+        "es": "VIBRACIÓN",
+        "it": "VIBRAZIONE",
+        "th": ""
+      },
+      "ControllerAimingSensitivity": {
+        "en": "AIMING SENSITIVITY",
+        "fr": "SENSIBILITE DE LA VISEE",
+        "de": "ZIELEN-EMPFINDLICHKEIT ",
+        "es": "SENSIBILIDAD MIRA",
+        "it": "SENSIBILITÀ MIRA",
+        "th": ""
+      },
+      "Brightness": {
+        "en": "BRIGHTNESS",
+        "fr": "LUMINOSITE",
+        "de": "HELLIGKEIT",
+        "es": "BRILLO",
+        "it": "LUMINOSITÀ",
+        "th": ""
+      },
+      "Contrast": {
+        "en": "CONTRAST",
+        "fr": "CONTRASTE",
+        "de": "KONTRAST",
+        "es": "CONTRASTE",
+        "it": "CONTRASTO",
+        "th": ""
+      },
+      "VoiceMasking": {
+        "en": "VOICE MASKING",
+        "fr": "VOIX DEFORMEE",
+        "de": "SPRACHAUSGABE VERZERRT",
+        "es": "DISTORSIÓN DE SONIDO",
+        "it": "MASCHERAMENTO VOCE",
+        "th": ""
+      },
+      "VoiceThroughSpeakers": {
+        "en": "VOICE THROUGH SPEAKERS",
+        "fr": "VOIX PAR HAUT-PARLEURS",
+        "de": "SPRACHAUSGABE DURCH LAUTSPRECHER",
+        "es": "VOZ POR LOS ALTAVOCES",
+        "it": "VOCE DALLE CASSE",
+        "th": ""
+      },
+      "VoiceDetection": {
+        "en": "VOICE DETECTION",
+        "fr": "DETECTION DE LA VOIX",
+        "de": "SPRACHERKENNUNG",
+        "es": "DETECCIÓN DE VOZ",
+        "it": "RILEVAMENTO VOCE",
+        "th": ""
+      },
+      "VoiceSensitivity": {
+        "en": "VOICE DETECTION SENSITIVITY",
+        "fr": "SENSIBILITE DE LA DETECTION DE VOIX",
+        "de": "SENSITIVITÄT SPRACHERKENNUNG",
+        "es": "SENSIBILIDAD DETECCIÓN VOZ",
+        "it": "SENSIBILITÀ RILEVAMENTO VOCE",
+        "th": ""
+      },
+      "MusicVolume": {
+        "en": "MUSIC VOLUME",
+        "fr": "VOLUME DE LA MUSIQUE",
+        "de": "MUSIKLAUTSTÄRKE",
+        "es": "VOLUMEN MÚSICA",
+        "it": "VOLUME MUSICA",
+        "th": ""
+      },
+      "AmbientVolume": {
+        "en": "AMBIENT / INTERFACE VOLUME",
+        "fr": "VOLUME D'AMBIANCE",
+        "de": "HINTERGRUND-LAUTSTÄRKE",
+        "es": "VOLUMEN AMBIENTE / INTERFAZ",
+        "it": "VOLUME AMBIENTE",
+        "th": ""
+      },
+      "SoundEffectsVolume": {
+        "en": "SOUND EFFECTS / VOICE VOLUME ",
+        "fr": "VOLUME DES BRUITAGES ",
+        "de": "EFFEKTLAUTSTÄRKE ",
+        "es": "EFECTOS SONIDO / VOLUMEN VOZ ",
+        "it": "VOLUME EFFETTI ",
+        "th": ""
+      },
+      "VoiceVolume": {
+        "en": "VOICE VOLUME",
+        "fr": "VOLUME DE LA VOIX",
+        "de": "SPRACHLAUTSTÄRKE",
+        "es": "VOLUMEN DE VOZ",
+        "it": "VOLUME VOCE",
+        "th": ""
+      },
+      "ShowCommunications": {
+        "en": "SHOW COMMUNICATIONS BOX",
+        "fr": "AFFICHER FENETRE DES COMMUNICATIONS",
+        "de": "KOMMUNIKATIONSFELD EIN",
+        "es": "VER VENTANA COMUNICACIONES",
+        "it": "MOSTRA FINESTRA COMUNICAZIONI",
+        "th": ""
+      },
+      "AppearOffline": {
+        "en": "APPEAR OFFLINE",
+        "fr": "APPARAITRE HORS LIGNE",
+        "de": "OFFLINE ERSCHEINEN",
+        "es": "APARECE DESCONECTADO",
+        "it": "RISULTA OFFLINE",
+        "th": ""
+      },
+      "QuickMatchVoice": {
+        "en": "QUICK MATCH VOICE ONLY",
+        "fr": "PARTIE RAPIDE - VOIX UNIQUEMENT",
+        "de": "SCHNELL INS SPIEL - NUR SPRACHAUSGABE",
+        "es": "PARTIDA RÁPIDA VOZ",
+        "it": "VOCE SOLO IN PARTITA RAPIDA",
+        "th": ""
+      },
+      "QuickMatchMode": {
+        "en": "QUICK MATCH MODE",
+        "fr": "MODE PARTIE RAPIDE",
+        "de": "SCHNELL INS SPIEL",
+        "es": "MODO PARTIDA RÁPIDA",
+        "it": "MODALITÀ PARTITA RAPIDA",
+        "th": ""
+      }
+    },
+    "OPTIONSVALUE": {
+      "_source": "PreGameMenus",
+      "OptionUnknown": {
+        "en": "UNKNOWN",
+        "fr": "INCONNU",
+        "de": "UNBEKANNT",
+        "es": "DESCONOCIDO",
+        "it": "SCONOSCIUTO",
+        "th": ""
+      },
+      "OptionYes": {
+        "en": "YES",
+        "fr": "OUI",
+        "de": "JA",
+        "es": "SÍ",
+        "it": "SÌ",
+        "th": ""
+      },
+      "OptionNo": {
+        "en": "NO",
+        "fr": "NON",
+        "de": "NEIN",
+        "es": "NO",
+        "it": "NO",
+        "th": ""
+      },
+      "OptionAll": {
+        "en": "ALL",
+        "fr": "TOUS",
+        "de": "ALLE",
+        "es": "TODO",
+        "it": "TUTTI",
+        "th": ""
+      },
+      "Language[0]": {
+        "en": "UNKNOWN",
+        "fr": "INCONNU",
+        "de": "UNBEKANNT",
+        "es": "DESCONOCIDO",
+        "it": "SCONOSCIUTA",
+        "th": ""
+      },
+      "Language[1]": {
+        "en": "ENGLISH",
+        "fr": "ANGLAIS",
+        "de": "ENGLISCH",
+        "es": "INGLÉS",
+        "it": "INGLESE",
+        "th": ""
+      },
+      "Language[2]": {
+        "en": "JAPANESE",
+        "fr": "JAPONAIS",
+        "de": "JAPANISCH",
+        "es": "JAPONÉS",
+        "it": "GIAPPONESE",
+        "th": ""
+      },
+      "Language[3]": {
+        "en": "GERMAN",
+        "fr": "ALLEMAND",
+        "de": "DEUTSCH",
+        "es": "ALEMÁN",
+        "it": "TEDESCO",
+        "th": ""
+      },
+      "Language[4]": {
+        "en": "FRENCH",
+        "fr": "FRANÇAIS",
+        "de": "FRANZÖSISCH",
+        "es": "FRANCÉS",
+        "it": "FRANCESE",
+        "th": ""
+      },
+      "Language[5]": {
+        "en": "SPANISH",
+        "fr": "ESPAGNOL",
+        "de": "SPANISCH",
+        "es": "ESPAÑOL",
+        "it": "SPAGNOLO",
+        "th": ""
+      },
+      "Language[6]": {
+        "en": "ITALIAN",
+        "fr": "ITALIEN",
+        "de": "ITALIENISCH",
+        "es": "ITALIANO",
+        "it": "ITALIANO",
+        "th": ""
+      },
+      "Language[7]": {
+        "en": "KOREAN",
+        "fr": "COREEN",
+        "de": "KOREANISCH",
+        "es": "COREANO",
+        "it": "COREANO",
+        "th": ""
+      },
+      "Language[8]": {
+        "en": "CHINESE",
+        "fr": "CHINOIS",
+        "de": "CHINESISCH",
+        "es": "CHINO",
+        "it": "CINESE",
+        "th": ""
+      },
+      "Language[9]": {
+        "en": "PORTUGUESE",
+        "fr": "PORTUGAIS",
+        "de": "PORTUGIESISCH",
+        "es": "PORTUGUÉS",
+        "it": "PORTOGHESE",
+        "th": ""
+      },
+      "Difficulty[1]": {
+        "en": "NORMAL",
+        "fr": "NORMAL",
+        "de": "NORMAL",
+        "es": "NORMAL",
+        "it": "NORMALE",
+        "th": ""
+      },
+      "Difficulty[2]": {
+        "en": "HARD",
+        "fr": "DIFFICILE",
+        "de": "SCHWER",
+        "es": "DIFÍCIL",
+        "it": "DIFFICILE",
+        "th": ""
+      },
+      "Difficulty[3]": {
+        "en": "EXPERT",
+        "fr": "EXPERT",
+        "de": "EXPERTE",
+        "es": "EXPERTO",
+        "it": "ESPERTO",
+        "th": ""
+      },
+      "Skills[1]": {
+        "en": "500-",
+        "fr": "500-",
+        "de": "500-",
+        "es": "500-",
+        "it": "500 O MENO",
+        "th": ""
+      },
+      "Skills[2]": {
+        "en": "500-700",
+        "fr": "500-700",
+        "de": "500-700",
+        "es": "500-700",
+        "it": "500-700",
+        "th": ""
+      },
+      "Skills[3]": {
+        "en": "700-1000",
+        "fr": "700-1000",
+        "de": "700-1000",
+        "es": "700-1000",
+        "it": "700-1000",
+        "th": ""
+      },
+      "Skills[4]": {
+        "en": "1000-1500",
+        "fr": "1000-1500",
+        "de": "1000-1500",
+        "es": "1000-1500",
+        "it": "1000-1500",
+        "th": ""
+      },
+      "Skills[5]": {
+        "en": "1500-2000",
+        "fr": "1500-2000",
+        "de": "1500-2000",
+        "es": "1500-2000",
+        "it": "1500-2000",
+        "th": ""
+      },
+      "Skills[6]": {
+        "en": "2000+",
+        "fr": "2000+",
+        "de": "2000+",
+        "es": "2000+",
+        "it": "2000 O PIÙ",
+        "th": ""
+      },
+      "Mode[1]": {
+        "en": "STORY",
+        "fr": "HISTOIRE",
+        "de": "STORY",
+        "es": "HISTORIA",
+        "it": "STORIA",
+        "th": ""
+      },
+      "Mode[2]": {
+        "en": "MISSION",
+        "fr": "MISSION",
+        "de": "MISSION",
+        "es": "MISIÓN",
+        "it": "MISSIONE",
+        "th": ""
+      },
+      "Mode[3]": {
+        "en": "ELITE",
+        "fr": "ELITE",
+        "de": "ELITE",
+        "es": "ÉLITE",
+        "it": "ELITE",
+        "th": ""
+      }
+    },
+    "COMMON": {
+      "_source": "PreGameMenus",
+      "MainTitleSolo": {
+        "en": "SOLO",
+        "fr": "SOLO",
+        "de": "SOLO-MODUS",
+        "es": "INDIVIDUAL",
+        "it": "SOLITARIA",
+        "th": ""
+      },
+      "MainTitleCoop": {
+        "en": "COOP",
+        "fr": "COOP.",
+        "de": "KOOP",
+        "es": "COOP.",
+        "it": "COOP.",
+        "th": ""
+      },
+      "MainTitleCooperative": {
+        "en": "COOP",
+        "fr": "COOP.",
+        "de": "KOOP",
+        "es": "COOP.",
+        "it": "COOP.",
+        "th": ""
+      },
+      "MainTitleAdversarial": {
+        "en": "VERSUS",
+        "fr": "VERSUS",
+        "de": "GEGEN",
+        "es": "ENFRENTAMIENTO",
+        "it": "COMPETITIVA",
+        "th": ""
+      },
+      "MainTitleOnline": {
+        "en": "XBOX LIVE",
+        "fr": "XBOX LIVE",
+        "de": "XBOX LIVE",
+        "es": "XBOX LIVE",
+        "it": "XBOX LIVE",
+        "th": ""
+      },
+      "MainTitleLan": {
+        "en": "SYSTEM LINK",
+        "fr": "LIAISON CONSOLE",
+        "de": "SYSTEM LINK",
+        "es": "INTERCONEX..",
+        "it": "SYSTEM LINK",
+        "th": ""
+      },
+      "MainTitleSplitscreen": {
+        "en": "SPLIT SCREEN",
+        "fr": "ÉCRAN PARTAGÉ",
+        "de": "SPLIT SCREEN",
+        "es": "PANTALLA DIV.",
+        "it": "SPLIT SCREEN",
+        "th": ""
+      },
+      "Continue": {
+        "en": "CONTINUE",
+        "fr": "CONTINUER",
+        "de": "FORTSETZEN",
+        "es": "CONTINUAR",
+        "it": "CONTINUA",
+        "th": ""
+      },
+      "Accept": {
+        "en": "ACCEPT",
+        "fr": "ACCEPTER",
+        "de": "ANNEHMEN",
+        "es": "ACEPTAR",
+        "it": "ACCETTA",
+        "th": ""
+      },
+      "Next": {
+        "en": "NEXT",
+        "fr": "SUIVANT",
+        "de": "FORTSETZEN",
+        "es": "SIGUIENTE",
+        "it": "AVANTI",
+        "th": ""
+      },
+      "Previous": {
+        "en": "PREVIOUS",
+        "fr": "PRECEDENT",
+        "de": "ZURÜCK",
+        "es": "ANTERIOR",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Back": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Select": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "JoiningMsg": {
+        "en": "JOINING MATCH...",
+        "fr": "CONNEXION A LA PARTIE...",
+        "de": "SPIELEINTRITT",
+        "es": "UNIÉNDOSE A LA PARTIDA...",
+        "it": "COLLEGAMENTO ALLA PARTITA...",
+        "th": ""
+      },
+      "JoiningLobbyMsg": {
+        "en": "JOINING MATCH LOBBY... ( %i )",
+        "fr": "CONNEXION A L'ACCUEIL... ( %i )",
+        "de": "BETRETE LOBBY... ( %i )",
+        "es": "UNIÉNDOSE PUNTO ENCUENT. ... ( %i )",
+        "it": "COLLEGAMENTO ALLA LOBBY... ( %i )",
+        "th": ""
+      },
+      "JoinFailedMsg": {
+        "en": "UNABLE TO JOIN THIS MATCH",
+        "fr": "CETTE SESSION DE JEU NEXISTE PLUS.",
+        "de": "DIESE SPIELESITZUNG IST NICHT MEHR VERFÜGBAR.",
+        "es": "ESTA PARTIDA YA NO ESTÁ DISPONIBLE.",
+        "it": "QUESTA PARTITA NON È PIÙ DISPONIBILE.",
+        "th": ""
+      },
+      "VerifyString": {
+        "en": "VALIDATING YOUR %s ...",
+        "fr": "VALIDATION DE VOTRE %s...",
+        "de": "%s WIRD GEPRÜFT",
+        "es": "VALIDANDO TU %s...",
+        "it": "CONVALIDA %s...",
+        "th": ""
+      },
+      "Sending": {
+        "en": "SENDING...",
+        "fr": "ENVOI...",
+        "de": "SENDEN...",
+        "es": "ENVIANDO...",
+        "it": "INVIO...",
+        "th": ""
+      },
+      "Loading": {
+        "en": "LOADING...",
+        "fr": "CHARGEMENT...",
+        "de": "LADEVORGANG...",
+        "es": "CARGANDO...",
+        "it": "CARICAMENTO...",
+        "th": ""
+      },
+      "Pausing": {
+        "en": "PAUSING...",
+        "fr": "PAUSE...",
+        "de": "PAUSE...",
+        "es": "EN PAUSA",
+        "it": "IN PAUSA...",
+        "th": ""
+      },
+      "Credits": {
+        "en": "CREDITS",
+        "fr": "CREDITS",
+        "de": "CREDITS",
+        "es": "CRÉDITOS",
+        "it": "RICONOSCIMENTI",
+        "th": ""
+      },
+      "LaunchingMsg": {
+        "en": "LAUNCHING GAME...",
+        "fr": "LANCEMENT DE LA PARTIE...",
+        "de": "SPIEL WIRD GELADEN",
+        "es": "INICIANDO PARTIDA...",
+        "it": "CREAZIONE PARTITA...",
+        "th": ""
+      },
+      "NetworkInitFail": {
+        "en": "NETWORK NOT AVAILABLE",
+        "fr": "RESEAU NON DISPONIBLE",
+        "de": "NETZWERK NICHT VERFÜGBAR",
+        "es": "NO HAY RED DISPONIBLE",
+        "it": "RETE NON DISPONIBILE",
+        "th": ""
+      },
+      "Unavailable": {
+        "en": "UNAVAILABLE",
+        "fr": "INDISPONIBLE",
+        "de": "NICHT VERFÜGBAR",
+        "es": "NO DISPONIBLE",
+        "it": "NON DISPONIBILE",
+        "th": ""
+      },
+      "SessionDisconnectMsg": {
+        "en": "YOU HAVE BEEN DISCONNECTED FROM THE SESSION.",
+        "fr": "VOUS AVEZ ETE DECONNECTE DE LA SESSION.",
+        "de": "VERBINDUNG WURDE GETRENNT",
+        "es": "TE HAN DESCONECTADO DE LA PARTIDA.",
+        "it": "SEI STATO DISCONNESSO DALLA PARTITA.",
+        "th": ""
+      },
+      "SessionKickMsg": {
+        "en": "YOU HAVE BEEN KICKED OUT OF THE SESSION.",
+        "fr": "VOUS AVEZ ETE EXPULSE DE LA SESSION.",
+        "de": "SIE WURDEN AUS DEM SPIEL AUSGESCHLOSSEN.",
+        "es": "HAS SIDO EXPULSADO DE LA PARTIDA.",
+        "it": "SEI STATO ESPULSO DALLA SESSIONE.",
+        "th": ""
+      },
+      "SessionDisconnectingMsg": {
+        "en": "DISCONNECTING FROM SESSION...",
+        "fr": "DECONNEXION DE LA SESSION...",
+        "de": "VERBINDUNG MIT DER SITZUNG WIRD BEENDET ...",
+        "es": "DESCONECTANDO DE LA PARTIDA...",
+        "it": "DISCONNESSIONE DALLA PARTITA.",
+        "th": ""
+      },
+      "QuitDemo": {
+        "en": "QUIT TO DEMOS MENU",
+        "fr": "QUIT TO DEMOS MENU",
+        "de": "QUIT TO DEMOS MENU",
+        "es": "QUIT TO DEMOS MENU",
+        "it": "QUIT TO DEMOS MENU",
+        "th": ""
+      },
+      "PressStart": {
+        "en": "PRESS START TO CONTINUE",
+        "fr": "APPUYEZ SUR START POUR CONTINUER",
+        "de": "START DRÜCKEN, UM ZU BEGINNEN",
+        "es": "PRESIONAR START PARA COMENZAR",
+        "it": "PREMI START PER CONTINUARE",
+        "th": ""
+      },
+      "GameMode": {
+        "en": "GAME MODE",
+        "fr": "MODE DE JEU",
+        "de": "SPIEL-MODUS",
+        "es": "MODO JUEGO",
+        "it": "MODALITÀ DI GIOCO",
+        "th": ""
+      },
+      "MainMenu": {
+        "en": "MAIN MENU",
+        "fr": "MENU PRINCIPAL",
+        "de": "HAUPTMENÜ",
+        "es": "MENÚ PRINCIPAL",
+        "it": "MENU PRINCIPALE ",
+        "th": ""
+      },
+      "Extra": {
+        "en": "MOVIE TEASER",
+        "fr": "TEASER DU FILM",
+        "de": "FILM TEASER",
+        "es": "EXTRACTO DE PELÍCULA",
+        "it": "TEASER DEL FILM",
+        "th": ""
+      }
+    },
+    "CREATEMATCH": {
+      "_source": "PreGameMenus",
+      "Title": {
+        "en": "CREATE MISSION",
+        "fr": "CRÉER UNE PARTIE",
+        "de": "SPIEL ERSTELLEN",
+        "es": "CREAR PARTIDA",
+        "it": "CREA PARTITA",
+        "th": ""
+      },
+      "VKeyboardTitle": {
+        "en": "ENTER MISSION NAME",
+        "fr": "SAISIR LE NOM DE LA PARTIE",
+        "de": "NAME FÜR DAS SPIEL EINGEBEN",
+        "es": "NOMBRE DE LA PARTIDA",
+        "it": "INSERISCI IL NOME DELLA PARTITA",
+        "th": ""
+      },
+      "CreateFailedMsg": {
+        "en": "UNABLE TO CREATE A MISSION",
+        "fr": "IMPOSSIBLE DE CREER UNE PARTIE",
+        "de": "SPIEL KANN NICHT ERSTELLT WERDEN",
+        "es": "IMPOSIBLE CREAR PARTIDA",
+        "it": "IMPOSSIBILE CREARE LA PARTITA",
+        "th": ""
+      },
+      "CreateWrongTeammateMsg": {
+        "en": "UNABLE TO LOAD THIS SAVED MISSION. WRONG TEAMMATE!",
+        "fr": "IMPOSSIBLE DE CHARGER CETTE PARTIE SAUVEGARDEE. MAUVAIS EQUIPIER !",
+        "de": "GESPEICHERTES SPIEL KANN NICHT GELADEN WERDEN. FALSCHER TEAMKAMERAD!",
+        "es": "IMPOSIBLE CARGAR PARTIDA. ¡COMPAÑERO DE EQUIPO INCORRECTO!",
+        "it": "IMPOSSIBILE CARICARE LA PARTITA SALVATA. COMPAGNO SBAGLIATO!",
+        "th": ""
+      },
+      "CorruptedMapTitle": {
+        "en": "CONTENT PACKAGE",
+        "fr": "PAQUET DE CONTENU",
+        "de": "INHALTE-PAKET",
+        "es": "PAQUETE DE CONTENIDO",
+        "it": "CONTENUTI",
+        "th": ""
+      },
+      "CorruptedMapMsg": {
+        "en": "THIS CONTENT HAS BEEN DAMAGED AND CANNOT BE USED. PRESS OK TO CONTINUE.",
+        "fr": "CE CONTENU A ETE ENDOMMAGE ET NE PEUT ETRE UTILISE. APPUYEZ SUR OK POUR CONTINUER.",
+        "de": "DIESER INHALT WURDE BESCHÄDIGT UND KANN NICHT VERWENDET WERDEN. \"OK\" DRÜCKEN, UM FORTZUFAHREN",
+        "es": "ESTE CONTENIDO ESTÁ DAÑADO Y NO PUEDE USARSE. PRESIONA ACEPTAR PARA CONTINUAR.",
+        "it": "QUESTI CONTENUTI SONO DANNEGGIATI E NON POSSONO ESSERE USATI. PREMI OK PER CONTINUARE.",
+        "th": ""
+      }
+    },
+    "VKEYBOARD": {
+      "_source": "PreGameMenus",
+      "VKBCharacters0": {
+        "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "fr": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "de": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "es": "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ",
+        "it": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+        "th": ""
+      },
+      "VKBCharacters1": {
+        "en": "1234567890@=/*-+#_()!?',:.$",
+        "fr": "1234567890@=/*-+#_()!?',:.$",
+        "de": "1234567890@=/*-+#_()!?',:.$",
+        "es": "1234567890@=/*-+#_()!?',:.$áéíóúüÁÉÍÓÚÜ",
+        "it": "1234567890@=/*-+#_()!?',:.$",
+        "th": ""
+      },
+      "VKBPages0": {
+        "en": "NUMBERS",
+        "fr": "CHIFFRES",
+        "de": "ZAHLEN",
+        "es": "NÚMEROS",
+        "it": "NUMERI",
+        "th": ""
+      },
+      "VKBPages1": {
+        "en": "LETTERS",
+        "fr": "LETTRES",
+        "de": "BUCHSTABEN",
+        "es": "LETRAS",
+        "it": "LETTERE",
+        "th": ""
+      },
+      "VKBEmpty": {
+        "en": "MAKE SURE YOU ENTER AT LEAST ONE CHARACTER.",
+        "fr": "VEILLEZ A SAISIR AU MOINS UN CARACTERE.",
+        "de": "GEBEN SIE MINDESTENS EIN ZEICHEN EIN.",
+        "es": "ASEGÚRATE DE ESCRIBIR AL MENOS UNA LETRA",
+        "it": "DEVI INSERIRE ALMENO UN CARATTERE.",
+        "th": ""
+      },
+      "VKBAddSpace": {
+        "en": "ADD SPACE",
+        "fr": "AJOUTER UN ESPACE",
+        "de": "LEERZEICHEN EINFÜGEN",
+        "es": "AÑADIR ESPACIO",
+        "it": "SPAZIO",
+        "th": ""
+      }
+    },
+    "ONLINEMAIN": {
+      "_source": "PreGameMenus",
+      "QuickMatch": {
+        "en": "QUICK MATCH",
+        "fr": "PARTIE RAPIDE",
+        "de": "SCHNELL INS SPIEL",
+        "es": "PARTIDA RÁPIDA",
+        "it": "PARTITA RAPIDA",
+        "th": ""
+      },
+      "Optimatch": {
+        "en": "OPTIMATCH",
+        "fr": "OPTIMATCH",
+        "de": "OPTIMATCH",
+        "es": "OPTIMATCH",
+        "it": "OPTIMATCH",
+        "th": ""
+      },
+      "CreateMatch": {
+        "en": "CREATE MISSION",
+        "fr": "CREER UNE MISSION",
+        "de": "MISSION ERSTELLEN",
+        "es": "CREAR MISIÓN",
+        "it": "CREA MISSIONE",
+        "th": ""
+      },
+      "FriendsList": {
+        "en": "FRIENDS",
+        "fr": "AMIS",
+        "de": "FREUNDE",
+        "es": "AMIGOS",
+        "it": "AMICI",
+        "th": ""
+      },
+      "PlayerList": {
+        "en": "PLAYERS",
+        "fr": "JOUEURS",
+        "de": "SPIELER",
+        "es": "JUGADORES",
+        "it": "GIOCATORI",
+        "th": ""
+      },
+      "Messaging": {
+        "en": "MESSAGING",
+        "fr": "MESSAGERIE",
+        "de": "NACHRICHTEN",
+        "es": "MENSAJES",
+        "it": "MESSAGGI",
+        "th": ""
+      },
+      "Statistics": {
+        "en": "STATISTICS",
+        "fr": "STATISTIQUES",
+        "de": "STATISTIK",
+        "es": "ESTADÍSTICAS",
+        "it": "STATISTICHE",
+        "th": ""
+      },
+      "Options": {
+        "en": "OPTIONS",
+        "fr": "OPTIONS",
+        "de": "OPTIONEN",
+        "es": "OPCIONES",
+        "it": "OPZIONI",
+        "th": ""
+      },
+      "ContentDownload": {
+        "en": "DOWNLOAD",
+        "fr": "TELECHARGER",
+        "de": "HERUNTERLADEN",
+        "es": "DESCARGAR",
+        "it": "SCARICA",
+        "th": ""
+      }
+    },
+    "AUTHENTICATION": {
+      "_source": "PreGameMenus",
+      "AccountsCaption": {
+        "en": "XBOX LIVE SIGN IN",
+        "fr": "CONNEXION A XBOX LIVE",
+        "de": "XBOX LIVE ANMELDUNG",
+        "es": "ENTRAR EN XBOX LIVE",
+        "it": "CONNETTI A XBOX LIVE",
+        "th": ""
+      },
+      "NewAccount": {
+        "en": "---NEW ACCOUNT---",
+        "fr": " ---NOUVEAU COMPTE---",
+        "de": "---NEUES KONTO---",
+        "es": " ---CUENTA NUEVA--- ",
+        "it": "--NUOVO ACCOUNT--",
+        "th": ""
+      },
+      "PasswordCaption": {
+        "en": "ENTER THE PASS CODE FOR",
+        "fr": "ENTRER LE CODE D'ACCÈS DE",
+        "de": "GEBEN SIE DEN CODE EIN FÜR",
+        "es": "PON EL CÓDIGO DE ACCESO DE",
+        "it": "INSERISCI IL CODICE DI",
+        "th": ""
+      },
+      "LoginProgressCaption": {
+        "en": "SIGNING IN: %s",
+        "fr": "CONNEXION : %s",
+        "de": "ANMELDEVORGANG: %s",
+        "es": "ENTRANDO EN: %s",
+        "it": "CONNESSIONE: %s",
+        "th": ""
+      },
+      "NewAccountWarning": {
+        "en": "YOU ARE ABOUT TO QUIT SPLINTER CELL 3 TO CREATE A NEW XBOX LIVE ACCOUNT. YOU WILL LOSE ANY UNSAVED PROGRESS. DO YOU WANT TO CONTINUE?",
+        "fr": "VOUS VOUS APPRETEZ A QUITTER SPLINTER CELL 3 POUR CREER UN NOUVEAU COMPTE XBOX LIVE. CE FAISANT, VOUS PERDREZ TOUTE VOTRE PROGRESSION. VOULEZ-VOUS CONTINUER ?",
+        "de": "SIE SIND DABEI SPLINTER CELL 3 ZU VERLASSEN, UM EIN NEUES XBOX LIVE KONTO ZU ERSTELLEN. NICHT GESPEICHERTER SPIELSTANDE GEHT DABEI VERLOREN. FORTFAHREN?",
+        "es": "VAS A ABANDONAR SPLINTER CELL 3 PARA CREAR UNA CUENTA NUEVA EN XBOX LIVE. PERDERÁS LO QUE HAYAS AVANZADO DESPUÉS DE GUARDAR. ¿QUIERES CONTINUAR?",
+        "it": "STAI PER USCIRE DA SPLINTER CELL 3 PER CREARE UN NUOVO ACCOUNT XBOX LIVE. TUTTI I PROGRESSI NON SALVATI ANDRANNO PERDUTI. VUOI CONTINUARE?",
+        "th": ""
+      },
+      "LogoffWarning": {
+        "en": "DO YOU WISH TO SIGN OUT OF XBOX LIVE?",
+        "fr": "VOULEZ-VOUS VOUS DECONNECTER DE XBOX LIVE ?",
+        "de": "WOLLEN SIE SICH BEI XBOX LIVE ABMELDEN?",
+        "es": "¿QUIERES SALIR DE XBOX LIVE?",
+        "it": "VUOI DISCONNETTERTI DA XBOX LIVE?",
+        "th": ""
+      }
+    },
+    "CONTENTDOWNLOAD": {
+      "_source": "PreGameMenus",
+      "ContentDownloadWarning": {
+        "en": "ARE YOU SURE YOU WANT TO GO TO THE CONTENT DOWNLOADER?",
+        "fr": "VOULEZ-VOUS VRAIMENT ACCEDER AU TELECHARGEUR DE CONTENU ?",
+        "de": "SIND SIE SICHER, DASS SIE ZUM INHALT-DOWNLOADER WECHSELN WOLLEN?",
+        "es": "¿SEGURO QUE QUIERES IR A LA DESCARGA DE CONTENIDO?",
+        "it": "VUOI DAVVERO ANDARE ALLO SCARICAMENTO DEI CONTENUTI?",
+        "th": ""
+      },
+      "DownloaderMissing": {
+        "en": "DOWNLOADER.XBE NOT DETECTED.",
+        "fr": "DOWNLOADER.XBE NON DETECTE.",
+        "de": "DOWNLOADER.XBE NICHT GEFUNDEN.",
+        "es": "NO SE HA DETECTADO EL MÓDULO DE DESCARGA.",
+        "it": "DOWNLOADER.XBE NON RILEVATO",
+        "th": ""
+      }
+    },
+    "FRIENDSLIST": {
+      "_source": "PreGameMenus",
+      "VKeyboardTitle": {
+        "en": "ENTER FRIEND NAME",
+        "fr": "ENTRER LE NOM DE L'AMI",
+        "de": "NAME VON FREUND EINGEBEN",
+        "es": "ESCRIBE EL NOMBRE DE AMIGO",
+        "it": "INSERISCI IL NOME DELL'AMICO",
+        "th": ""
+      },
+      "FriendsListCaption": {
+        "en": "FRIENDS",
+        "fr": "AMIS",
+        "de": "FREUNDE",
+        "es": "AMIGOS",
+        "it": "AMICI",
+        "th": ""
+      },
+      "FriendOptionsCaption": {
+        "en": "FRIEND OPTIONS ",
+        "fr": "OPTIONS D'AMIS ",
+        "de": "FREUNDESOPTIONEN ",
+        "es": "OPCIONES DE AMIGO ",
+        "it": "OPZIONI AMICO ",
+        "th": ""
+      },
+      "FriendGamerTag": {
+        "en": "NAME: ",
+        "fr": "NOM : ",
+        "de": "NAME: ",
+        "es": "NOMBRE: ",
+        "it": "NOME: ",
+        "th": ""
+      },
+      "FriendGame": {
+        "en": "GAME: ",
+        "fr": "PARTIE : ",
+        "de": "SPIEL: ",
+        "es": "PARTIDA: ",
+        "it": "PARTITA: ",
+        "th": ""
+      },
+      "FriendStatus": {
+        "en": "STATUS: ",
+        "fr": "STATUT : ",
+        "de": "STATUS: ",
+        "es": "ESTADO: ",
+        "it": "STATO: ",
+        "th": ""
+      },
+      "FriendStateOffline": {
+        "en": "OFFLINE",
+        "fr": "HORS LIGNE",
+        "de": "OFFLINE",
+        "es": "DESCONECTADO",
+        "it": "OFFLINE",
+        "th": ""
+      },
+      "FriendStateOnline": {
+        "en": "ONLINE",
+        "fr": "EN LIGNE",
+        "de": "ONLINE",
+        "es": "CONECTADO",
+        "it": "ONLINE",
+        "th": ""
+      },
+      "FriendStateJoinable": {
+        "en": "JOIN",
+        "fr": "REJOINDRE",
+        "de": "BEITRETEN",
+        "es": "UNIRSE",
+        "it": "PARTECIPA",
+        "th": ""
+      },
+      "FriendStateRequestSent": {
+        "en": "YOU'VE ASKED TO BE FRIEND",
+        "fr": "VOUS AVEZ DEMANDE A ETRE AMI",
+        "de": "FREUNDESANFRAGE GESTELLT",
+        "es": "TE HA PEDIDO SER AMIGOS",
+        "it": "VUOI ESSERE SUO AMICO",
+        "th": ""
+      },
+      "FriendStateRequestRecv": {
+        "en": "WANTS TO BE YOUR FRIEND",
+        "fr": "VEUT ETRE VOTRE AMI",
+        "de": "MÖCHTE IHR FREUND SEIN ",
+        "es": "QUIERE SER TU AMIGO",
+        "it": "VUOLE ESSERE AMICO",
+        "th": ""
+      },
+      "FriendStateInviteSent": {
+        "en": "INVITED TO PLAY",
+        "fr": "INVITE A JOUER",
+        "de": "EINGELADEN ZU:",
+        "es": "ESTÁ INVITADO A JUGAR",
+        "it": "INVITATO A GIOCARE",
+        "th": ""
+      },
+      "FriendStateInviteRecv": {
+        "en": "WANTS TO PLAY",
+        "fr": "VEUT JOUER",
+        "de": "MÖCHTE SPIELEN: ",
+        "es": "QUIERE JUGAR",
+        "it": "VUOLE GIOCARE",
+        "th": ""
+      },
+      "FriendStatePlaying": {
+        "en": "PLAYING",
+        "fr": "EN TRAIN DE JOUER",
+        "de": "SPIELT",
+        "es": "JUGANDO",
+        "it": "IN GIOCO",
+        "th": ""
+      },
+      "FriendStateVoiceOn": {
+        "en": "VOICE ON",
+        "fr": "VOIX : OUI",
+        "de": "SPRACHAUSGABE EIN",
+        "es": "SISTEMA DE VOZ: ACTIVADO",
+        "it": "VOCE: ATTIVATA",
+        "th": ""
+      },
+      "FriendStateVoiceMute": {
+        "en": "VOICE MUTED",
+        "fr": "VOIX : MUETTE",
+        "de": "SPRACHAUSGABE STUMM",
+        "es": "SISTEMA DE VOZ: SILENCIADA",
+        "it": "VOCE: DISATTIVATA",
+        "th": ""
+      },
+      "ActionInvite": {
+        "en": "INVITE TO PLAY THIS GAME",
+        "fr": "INVITER A JOUER CE JEU",
+        "de": "FÜR DIESES SPIEL EINLADEN",
+        "es": "INVITAR A JUGAR EN ESTA PARTIDA",
+        "it": "INVITA IN QUESTA PARTITA",
+        "th": ""
+      },
+      "ActionRevoke": {
+        "en": "CANCEL GAME INVITATION",
+        "fr": "ANNULER L'INVITATION",
+        "de": "SPIELEINLADUNG ZURÜCKNEHMEN",
+        "es": "CANCELAR INVITACIÓN A PARTIDA",
+        "it": "ANNULLA INVITO",
+        "th": ""
+      },
+      "ActionGameInviteAccept": {
+        "en": "ACCEPT GAME INVITATION",
+        "fr": "ACCEPTER L'INVITATION AU JEU",
+        "de": "SPIELEINLADUNG ANNEHMEN",
+        "es": "ACEPTAR INVITACIÓN A LA PARTIDA",
+        "it": "ACCETTA INVITO",
+        "th": ""
+      },
+      "ActionGameInviteDecline": {
+        "en": "DECLINE GAME INVITATION",
+        "fr": "REFUSER L'INVITATION AU JEU",
+        "de": "SPIELEINLADUNG ABHLEHNEN",
+        "es": "RECHAZAR INVITACIÓN A LA PARTIDA",
+        "it": "RIFIUTA INVITO",
+        "th": ""
+      },
+      "ActionGameInviteRemove": {
+        "en": "REMOVE FROM FRIENDS LIST",
+        "fr": "EXCLURE DE LA LISTE D'AMIS",
+        "de": "AUS FREUNDESLISTE ENTFERNEN",
+        "es": "ELIMINAR DE LA LISTA DE AMIGOS",
+        "it": "TOGLI DALLA LISTA AMICI",
+        "th": ""
+      },
+      "ActionFriendRequestAccept": {
+        "en": "ACCEPT FRIEND REQUEST",
+        "fr": "ACCEPTER LA REQUETE D'AMIS",
+        "de": "ALS FREUND ANNEHMEN",
+        "es": "ACEPTAR SOLICITUD DE AMIGO",
+        "it": "ACCETTA RICHIESTA AMICO",
+        "th": ""
+      },
+      "ActionFriendRequestDecline": {
+        "en": "DECLINE FRIEND REQUEST",
+        "fr": "REFUSER LA REQUETE D'AMIS",
+        "de": "FREUNDESANFRAGE ABLEHNEN",
+        "es": "RECHAZAR SOLICITUD DE AMIGO",
+        "it": "RIFIUTA RICHIESTA AMICO",
+        "th": ""
+      },
+      "ActionFriendRequestBlock": {
+        "en": "BLOCK FRIEND REQUEST",
+        "fr": "BLOQUER LES REQUETES D'AMIS",
+        "de": "FREUNDESANFRAGE BLOCKIEREN",
+        "es": "BLOQUEAR SOLICITUD DE AMIGO",
+        "it": "BLOCCA RICHIESTA AMICO",
+        "th": ""
+      },
+      "ActionRemoveFriend": {
+        "en": "REMOVE FROM FRIENDS LIST",
+        "fr": "EXCLURE DE LA LISTE D'AMIS",
+        "de": "AUS FREUNDESLISTE ENTFERNEN",
+        "es": "ELIMINAR DE LA LISTA DE AMIGOS",
+        "it": "TOGLI DALLA LISTA AMICI",
+        "th": ""
+      },
+      "ActionCancelFriend": {
+        "en": "CANCEL FRIEND REQUEST",
+        "fr": "ANNULER LA REQUETE D'AMIS",
+        "de": "FREUNDESANFRAGE ABBRECHEN",
+        "es": "CANCELAR SOLICITUD DE AMIGO",
+        "it": "ANNULLA LA RICHIESTA AMICO",
+        "th": ""
+      },
+      "ActionJoinGame": {
+        "en": "JOIN FRIEND'S GAME",
+        "fr": "REJOINDRE LA PARTIE D'UN AMI",
+        "de": "EINTRITT IN FREUNDSPIEL",
+        "es": "UNIRSE A PARTIDA DE AMIGOS",
+        "it": "PARTECIPA ALLA PARTITA DELL'AMICO",
+        "th": ""
+      },
+      "ActionVoiceChat": {
+        "en": "VOICE CHAT",
+        "fr": "DISCUSSION VOCALE",
+        "de": "SPRACH-CHAT",
+        "es": "CHARLA DE VOZ",
+        "it": "CHAT VOCALE",
+        "th": ""
+      },
+      "ActionStatistics": {
+        "en": "STATISTICS",
+        "fr": "STATISTIQUES",
+        "de": "STATISTIK",
+        "es": "ESTADÍSTICAS",
+        "it": "STATISTICHE",
+        "th": ""
+      },
+      "ActionSendMessage": {
+        "en": "SEND MESSAGE",
+        "fr": "ENVOYER UN MESSAGE",
+        "de": "MITTEILUNG SCHICKEN",
+        "es": "ENVIAR MENSAJE",
+        "it": "INVIA MESSAGGIO",
+        "th": ""
+      },
+      "ActionReadRequestMessage": {
+        "en": "READ REQUEST MESSAGE",
+        "fr": "LIRE LA REQUETTE",
+        "de": "ANFRAGE LESEN",
+        "es": "LEER MENSAJE DE SOLICITUD",
+        "it": "LEGGI RICHIESTA",
+        "th": ""
+      },
+      "ActionReadInviteMessage": {
+        "en": "READ INVITE MESSAGE",
+        "fr": "LIRE L'INVITATION",
+        "de": "EINLADUNG LESEN",
+        "es": "LEER MENSAJE DE INVITACIÓIN",
+        "it": "LEGGI INVITO",
+        "th": ""
+      },
+      "AnswerInviteAccepted": {
+        "en": "GAME INVITE ACCEPTED",
+        "fr": "INVITATION ACCEPTEE",
+        "de": "SPIELEINLADUNG ANGENOMMEN",
+        "es": "INVITACIÓN A PARTIDA ACEPTADA",
+        "it": "INVITO ACCETTATO",
+        "th": ""
+      },
+      "AnswerInviteRejected": {
+        "en": "GAME INVITE DECLINED",
+        "fr": "INVITATION REFUSEE",
+        "de": "SPIELEINLADUNG ABGELEHNT",
+        "es": "INVITACIÓN A PARTIDA RECHAZADA",
+        "it": "INVITO RIFIUTATO",
+        "th": ""
+      },
+      "JoiningFriendsGame": {
+        "en": "JOINING GAME...",
+        "fr": "CONNEXION A LA PARTIE...",
+        "de": "VERBINDUNGSAUFBAU",
+        "es": "UNIÉNDOSE A LA PARTIDA...",
+        "it": "COLLEGAMENTO ALLA PARTITA...",
+        "th": ""
+      },
+      "ConfirmFriendRemovalText": {
+        "en": "ARE YOU SURE YOU WANT TO REMOVE %s FROM YOUR FRIENDS LIST?",
+        "fr": "VOULEZ-VOUS EXCLURE %s DE VOTRE LISTE D'AMIS ?",
+        "de": "WOLLEN SIE %s VON IHRER FREUNDESLISTE ENTFERNEN?",
+        "es": "¿QUIERES ELIMINAR A %s DE TU LISTA DE AMIGOS?",
+        "it": "VUOI DAVVERO TOGLIERE %s DALLA TUA LISTA AMICI?",
+        "th": ""
+      },
+      "ConfirmFriendCancelText": {
+        "en": "ARE YOU SURE YOU WANT TO CANCEL YOUR FRIEND REQUEST TO %s?",
+        "fr": "VOULEZ-VOUS VRAIMENT ANNULER LA REQUETE D'AMIS ENVOYEE A %s ?",
+        "de": "FREUNDESANFRAGE AN %s WIRKLICH ABBRECHEN?",
+        "es": "¿SEGURO QUE QUIERES CANCELAR TU SOLICITUD DE AMIGO A %s?",
+        "it": "VUOI DAVVERO ANNULLARE LA RICHIESTA AMICO PER %s?",
+        "th": ""
+      },
+      "ConfirmNegativeFeedback": {
+        "en": "ARE YOU SURE YOU WISH TO SEND THIS COMPLAINT? SELECT \"OK\" TO CONTINUE OR \"CANCEL\".",
+        "fr": "VOULEZ-VOUS ENVOYER CES COMMENTAIRES NEGATIFS ? SELECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\".",
+        "de": "WOLLEN SIE DIESE BESCHWERDE ABSCHICKEN? WÄHLEN SIE \"OK\" UM FORTZUFAHREN ODER \"ABBRECHEN\".",
+        "es": "¿QUIERES ENVIAR ESTA QUEJA? ELIGE \"ACEPTAR\" PARA CONTINUAR O \"CANCELAR\" PARA DESCARTAR.",
+        "it": "VUOI INVIARE QUESTO RECLAMO? SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
+        "th": ""
+      },
+      "ConfirmFriendPermanentBlockText": {
+        "en": "ARE YOU SURE YOU WANT TO PERMANENTLY BLOCK FUTURE FRIEND REQUESTS FROM %s ?",
+        "fr": "VOULEZ-VOUS VRAIMENT BLOQUER DE MANIERE PERMANENTE LES REQUETES D'AMIS DE %s ?",
+        "de": "SIND SIE SICHER, DASS SIE ZUKÜNFTIGE ANFRAGEN VON %s IGNORIEREN MÖCHTEN?",
+        "es": "¿SEGURO QUE QUIERES BLOQUEAR PERMANENTEMENTE LAS SOLICITUDES FUTURAS DE AMIGO DE %s?",
+        "it": "VUOI DAVVERO BLOCCARE TUTTE LE FUTURE RICHIESTE AMICO DI %s?",
+        "th": ""
+      },
+      "AskFriendInsertDiscText": {
+        "en": "PLEASE INSERT THE DISC FOR %s?",
+        "fr": "INSERER LE DISQUE DE %s",
+        "de": "BITTE DISK FÜR %s EINLEGEN",
+        "es": "INSERTA EL DISCO DE %s",
+        "it": "INSERISCI IL DISCO DI %s.",
+        "th": ""
+      },
+      "ConfirmFriendCancelInviteText": {
+        "en": "ARE YOU SURE YOU WANT TO CANCEL THE INVITE TO %s?",
+        "fr": "VOULEZ-VOUS ANNULER L'INVITATION ENVOYEE A %s ?",
+        "de": "WOLLEN SIE DIE EINLADUNG AN %s ZURÜCKNEHMEN?",
+        "es": "¿QUIERES CANCELAR LA INVITACIÓN A %s?",
+        "it": "VUOI ANNULLARE L'INVITO A %s?",
+        "th": ""
+      },
+      "ConfirmGameInvitation": {
+        "en": "YOU HAVE A PENDING GAME INVITATION FROM %s. DO YOU WISH TO SIGN IN TO XBOX LIVE?",
+        "fr": "VOUS AVEZ REÇU UNE INVITATION DE %s. VOULEZ-VOUS VOUS CONNECTER A  XBOX LIVE ?",
+        "de": "%s HAT SIE ZU EINEM SPIEL EINGELADEN. WOLLEN SIE SICH BEI XBOX LIVE ANMELDEN?",
+        "es": "TIENES UNA INVITACIÓN PENDIENTE DE %s. ¿QUIERES ENTRAR EN XBOX LIVE?",
+        "it": "HAI RICEVUTO UN INVITO DA %s. VUOI CONNETTERTI A XBOX LIVE?",
+        "th": ""
+      },
+      "ConfirmGameInvitationSession": {
+        "en": "DO YOU WISH TO JOIN %s's MATCH?",
+        "fr": "VOULEZ-VOUS REJOINDRE LA PARTIE DE %s ?",
+        "de": "WOLLEN SIE %s SPIEL BEITRETEN?",
+        "es": "¿QUIERES UNIRTE A LA PARTIDA DE %s?",
+        "it": "VUOI PARTECIPARE ALLA PARTITA DI %s?",
+        "th": ""
+      },
+      "ConfirmFriendJoinText": {
+        "en": "YOU ARE ABOUT TO QUIT YOUR GAME. YOUR CURRENT PROGRESS WILL BE LOST. SELECT \"OK\" TO CONTINUE OR \"CANCEL\". ",
+        "fr": "VOUS VOUS APPRETEZ A QUITTER LA PARTIE. DANS CE CAS, VOTRE PROGRESSION ACTUELLE SERA PERDUE. SELECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\". ",
+        "de": "SIE SIND DABEI DAS SPIEL ZU VERLASSEN. GEGENWÄRTIGER SPIELSTAND GEHT DABEI VERLOREN. \"OK\" UM FORTZUFAHREN ODER \"ABBRECHEN\". ",
+        "es": "ESTÁS A PUNTO DE ABANDONAR ESTA PARTIDA. PERDERÁS LO QUE HAYAS AVANZADO. ELIGE \"ACEPTAR\" PARA SALIR O \"CANCELAR\" PARA QUEDARTE. ",
+        "it": "STAI PER USCIRE DALLA PARTITA. I PROGRESSI ATTUALI ANDRANNO PERDUTI. SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\". ",
+        "th": ""
+      },
+      "ConfirmAttachMsg": {
+        "en": "DO YOU WANT TO ATTACH A MESSAGE?",
+        "fr": "VOULEZ-VOUS JOINDRE UN MESSAGE ?",
+        "de": "WOLLEN SIE EINE MITTEILUNG ANHÄNGEN?",
+        "es": "¿QUIERES AÑADIR UN MENSAJE?",
+        "it": "VUOI ALLEGARE UN MESSAGGIO?",
+        "th": ""
+      }
+    },
+    "RECENTPLAYERS": {
+      "_source": "PreGameMenus",
+      "PlayersCaption": {
+        "en": "RECENT PLAYERS",
+        "fr": "JOUEURS RECENTS",
+        "de": "AKTUELLE SPIELER",
+        "es": "JUGAD. RECIENTES",
+        "it": "GIOCATORI RECENTI",
+        "th": ""
+      },
+      "PlayerOptionsCaption": {
+        "en": "PLAYER OPTIONS ",
+        "fr": "OPTIONS JOUEUR ",
+        "de": "SPIELEROPTIONEN ",
+        "es": "OPCIONES JUGADOR ",
+        "it": "OPZIONI GIOCATORE ",
+        "th": ""
+      },
+      "PlayerFeedbackCaption": {
+        "en": "PLAYER FEEDBACK ",
+        "fr": "COMMENTAIRES ",
+        "de": "SPIELER-FEEDBACK ",
+        "es": "INFORMACIÓNES ",
+        "it": "COMMENTI ",
+        "th": ""
+      },
+      "PlayerName": {
+        "en": "NAME",
+        "fr": "NOM",
+        "de": "NAME",
+        "es": "NOMBRE",
+        "it": "NOME",
+        "th": ""
+      },
+      "PlayerStatus": {
+        "en": "STATUS",
+        "fr": "STATUT",
+        "de": "STATUS",
+        "es": "ESTADO",
+        "it": "STATO",
+        "th": ""
+      },
+      "Feedback": {
+        "en": "FEEDBACK",
+        "fr": "COMMENTAIRES",
+        "de": "FEEDBACK",
+        "es": "INFORMACIÓN",
+        "it": "COMMENTO",
+        "th": ""
+      },
+      "Complaints": {
+        "en": "COMPLAINTS",
+        "fr": "PLAINTES",
+        "de": "BESCHWERDEN",
+        "es": "QUEJAS",
+        "it": "RECLAMI",
+        "th": ""
+      },
+      "FeedbackNegativeNickname": {
+        "en": "BAD NAME",
+        "fr": "NOM IMPROPRE",
+        "de": "SCHLECHTER NAME",
+        "es": "NOMBRE INADECUADO",
+        "it": "CATTIVA REPUTAZIONE",
+        "th": ""
+      },
+      "FeedbackNegativeGameplay": {
+        "en": "CHEATING",
+        "fr": "TRICHE",
+        "de": "SCHUMMELN",
+        "es": "TRAMPA",
+        "it": "INGANNO",
+        "th": ""
+      },
+      "FeedbackNegativeScreaming": {
+        "en": "SCREAMING",
+        "fr": "HURLEMENT",
+        "de": "SCHREIEN",
+        "es": "GRITOS",
+        "it": "URLA",
+        "th": ""
+      },
+      "FeedbackNegativeHarassment": {
+        "en": "THREATS OR HARASSMENT",
+        "fr": "MENACES OU HARCELEMENT",
+        "de": "DROHUNG ODER BELÄSTIGUNG",
+        "es": "AMENAZAS O ACOSO",
+        "it": "MINACCE O MOLESTIE",
+        "th": ""
+      },
+      "FeedbackNegativeLewdness": {
+        "en": "CURSING OR LEWDNESS",
+        "fr": "JURONS OU OBSCENITES",
+        "de": "FLUCHEN ODER ANZÜGLICHKEITEN",
+        "es": "INSULTOS U OBSCENIDADES",
+        "it": "IMPRECAZIONI O OSCENITÀ",
+        "th": ""
+      },
+      "FeedbackPositiveAttitude": {
+        "en": "GOOD ATTITUDE",
+        "fr": "BONNE ATTITUDE",
+        "de": "GUTE EINSTELLUNG",
+        "es": "BUEN COMPORTAMIENTO",
+        "it": "BUON COMPORTAMENTO",
+        "th": ""
+      },
+      "FeedbackPositiveSession": {
+        "en": "GREAT MATCH",
+        "fr": "SUPER SESSION",
+        "de": "SPITZENSPIEL",
+        "es": "GRAN PARTIDA",
+        "it": "BELLA PARTITA",
+        "th": ""
+      },
+      "SendFeedback": {
+        "en": "SEND FEEDBACK CONCERNING  ",
+        "fr": "ENVOYER COMMENTAIRES CONCERNANT  ",
+        "de": "FEEDBACK SCHICKEN BETREFFEND  ",
+        "es": "ENVIAR INVITACIÓN SOBRE  ",
+        "it": "INVIA UN COMMENTO  ",
+        "th": ""
+      },
+      "ActionAddFriend": {
+        "en": "ADD TO FRIENDS LIST",
+        "fr": "AJOUTER A LA LISTE D'AMIS",
+        "de": "AUF FREUNDESLISTE SETZEN",
+        "es": "AÑADIR A LA LISTA DE AMIGOS",
+        "it": "AGGIUNGI ALLA LISTA AMICI",
+        "th": ""
+      },
+      "ActionRemoveFriend": {
+        "en": "REMOVE FROM FRIENDS LIST",
+        "fr": "EXCLURE DE LA LISTE D'AMIS",
+        "de": "AUS FREUNDESLISTE ENTFERNEN",
+        "es": "ELIMINAR DE LISTA DE AMIGOS",
+        "it": "TOGLI DALLA LISTA AMICI",
+        "th": ""
+      },
+      "ActionSendFeedback": {
+        "en": "SEND FEEDBACK",
+        "fr": "ENVOYER COMMENTAIRES",
+        "de": "FEEDBACK SENDEN",
+        "es": "ENVIAR INFORMACIÓN",
+        "it": "INVIA UN COMMENTO",
+        "th": ""
+      },
+      "ActionAddToMuteList": {
+        "en": "TURN OFF VOICE",
+        "fr": "DESACTIVER LA VOIX",
+        "de": "STIMMÜBERTRAGUNG DEAKTIVIEREN",
+        "es": "DESACTIVAR VOZ",
+        "it": "DISATTIVA LA VOCE",
+        "th": ""
+      },
+      "ActionRemoveFromMuteList": {
+        "en": "TURN ON VOICE",
+        "fr": "ACTIVER LA VOIX",
+        "de": "STIMMÜBERTRAGUNG AKTIVIEREN",
+        "es": "ACTIVAR VOZ",
+        "it": "ATTIVA LA VOCE",
+        "th": ""
+      },
+      "ActionKickFromSession": {
+        "en": "KICK",
+        "fr": "EXPULSER",
+        "de": "ENTFERNEN",
+        "es": "EXPULSAR",
+        "it": "CACCIA",
+        "th": ""
+      },
+      "ActionStatistics": {
+        "en": "STATISTICS",
+        "fr": "STATISTIQUES",
+        "de": "STATISTIK",
+        "es": "ESTADÍSTICAS",
+        "it": "STATISTICHE",
+        "th": ""
+      },
+      "PlayerStateVoiceOn": {
+        "en": "VOICE ON",
+        "fr": "VOIX : OUI",
+        "de": "SPRACHAUSGABE EIN",
+        "es": "SISTEMA DE VOZ: ACTIVADO",
+        "it": "VOCE: ATTIVATA",
+        "th": ""
+      },
+      "PlayerStateVoiceMute": {
+        "en": "VOICE MUTED",
+        "fr": "VOIX : MUETTE",
+        "de": "SPRACHAUSGABE STUMM",
+        "es": "SISTEMA DE VOZ: SILENCIADA",
+        "it": "VOCE: DISATTIVATA",
+        "th": ""
+      },
+      "PlayerStateFriend": {
+        "en": "FRIEND",
+        "fr": "AMI",
+        "de": "FREUND",
+        "es": "AMIGO",
+        "it": "AMICO",
+        "th": ""
+      },
+      "PlayerStateFriendRequestSent": {
+        "en": "YOU'VE ASKED TO BE FRIEND",
+        "fr": "VOUS AVEZ DEMANDE A ETRE AMI",
+        "de": "FREUNDESANFRAGE GESTELLT",
+        "es": "TE HA PEDIDO SER AMIGOS",
+        "it": "VUOI ESSERE SUO AMICO",
+        "th": ""
+      },
+      "PlayerStateFriendRequestRecv": {
+        "en": "WANTS TO BE YOUR FRIEND",
+        "fr": "VEUT ETRE VOTRE AMI",
+        "de": "MÖCHTE IHR FREUND SEIN",
+        "es": "QUIERE SER TU AMIGO",
+        "it": "VUOLE ESSERE TUO AMICO",
+        "th": ""
+      },
+      "PlayerStatePlayingSameSession": {
+        "en": "PLAYING WITH YOU",
+        "fr": "EN TRAIN DE JOUER AVEC VOUS",
+        "de": "SPIELT MIT IHNEN",
+        "es": "JUGANDO CONTIGO",
+        "it": "STA GIOCANDO CON TE",
+        "th": ""
+      },
+      "ConfirmKickPlayerFromSessionTitle": {
+        "en": "KICK PLAYER",
+        "fr": "EXPULSER LE JOUEUR",
+        "de": "SPIELER ENTFERNEN",
+        "es": "EXPULSAR JUGADOR",
+        "it": "CACCIA GIOCATORE",
+        "th": ""
+      },
+      "ConfirmKickPlayerFromSessionText": {
+        "en": "DO YOU REALLY WANT TO KICK THIS PLAYER OUT? SELECT \"OK\" TO CONTINUE OR \"CANCEL\"",
+        "fr": "VOULEZ-VOUS VRAIMENT EXPULSER CE JOUEUR ? SELECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\".",
+        "de": "WOLLEN  SIE DIESEN SPIELER WIRKLICH ENTFERNEN? WÄHLEN SIE \"OK\", UM FORTZUFAHREN ODER \"ABBRECHEN\".",
+        "es": "¿SEGURO QUE QUIERES EXPULSAR A ESTE JUGADOR?  ELIGE \"ACEPTAR\" PARA CONTINUAR O \"CANCELAR\" PARA DESCARTAR.",
+        "it": "VUOI DAVVERO CACCIARE QUESTO GIOCATORE? SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
+        "th": ""
+      },
+      "ConfirmPlayerSendComplaintText": {
+        "en": "DO YOU WISH TO SEND THIS COMPLAINT FOR %s? SELECT \"OK\" TO CONTINUE OR \"CANCEL\"",
+        "fr": "VOULEZ-VOUS ENVOYER CES COMMENTAIRES NEGATIFS CONCERNANT %s ? SELECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\".",
+        "de": "WOLLEN SIE DIESE BESCHWERDE ÜBER %s ABSCHICKEN? WÄHLEN SIE \"OK\", UM FORTZUFAHREN ODER \"ABBRECHEN\".",
+        "es": "¿SEGURO QUE QUIERES ENVIAR ESTA QUEJA DE %s?  ELIGE \"ACEPTAR\" PARA CONTINUAR O \"CANCELAR\" PARA DESCARTAR.",
+        "it": "VUOI INVIARE QUESTO RECLAMO SU %s? SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
+        "th": ""
+      },
+      "ConfirmPlayerSendFeedbackText": {
+        "en": "DO YOU WISH TO SEND THIS FEEDBACK FOR %s? SELECT \"OK\" TO CONTINUE OR \"CANCEL\"",
+        "fr": "VOULEZ-VOUS ENVOYER CES COMMENTAIRES À %s ? SÉLECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\".",
+        "de": "FEEDBACK ÜBER %s WIRKLICH SENDEN? WÄHLEN SIE \"OK\", UM DEN VORGANG FORTZUSETZEN, ODER \"ABBRECHEN\":",
+        "es": "¿QUIERES ENVIAR ESTA INFORMACIÓN SOBRE %s? ELIGE ACEPTAR PARA CONTINUAR O CANCELA.",
+        "it": "DESIDERI INVIARE QUESTI COMMENTI SU %s? SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\"",
+        "th": ""
+      }
+    },
+    "MATCHLIST": {
+      "_source": "PreGameMenus",
+      "MatchlistCaption": {
+        "en": "SELECT MISSION",
+        "fr": "SELECTIONNER  PARTIE",
+        "de": "SPIEL AUSWÄHLEN",
+        "es": "ELEGIR PARTIDA",
+        "it": "SELEZIONA PARTITA",
+        "th": ""
+      },
+      "SessionMode": {
+        "en": "MODE:",
+        "fr": "MODE :",
+        "de": "MODUS:",
+        "es": "MODO:",
+        "it": "MODALITÀ:",
+        "th": ""
+      },
+      "SessionName": {
+        "en": "MATCH NAME:",
+        "fr": "NOM DE LA PARTIE :",
+        "de": "SPIELNAME:",
+        "es": "NOMBRE DE PARTIDA:",
+        "it": "NOME PARTITA:",
+        "th": ""
+      },
+      "SessionMission": {
+        "en": "MISSION:",
+        "fr": "MISSION :",
+        "de": "MISSION:",
+        "es": "MISIÓN:",
+        "it": "MISSIONE:",
+        "th": ""
+      },
+      "SessionPing": {
+        "en": "SPEED:",
+        "fr": "VITESSE :",
+        "de": "GESCHWINDIGK:",
+        "es": "VELOCIDAD:",
+        "it": "VELOCITÀ:",
+        "th": ""
+      },
+      "SessionDifficulty": {
+        "en": "DIFFICULTY:",
+        "fr": "DIFFICULTÉ :",
+        "de": "SCHWIERIGKEIT:",
+        "es": "DIFICULTAD:",
+        "it": "DIFFICOLTÀ:",
+        "th": ""
+      },
+      "SessionSkills": {
+        "en": "SKILLS:",
+        "fr": "COMPETENCE :",
+        "de": "FÄHIGKEITEN:",
+        "es": "HABILIDADES:",
+        "it": "ABILITÀ:",
+        "th": ""
+      },
+      "SessionLanguage": {
+        "en": "LANGUAGE:",
+        "fr": "LANGUE :",
+        "de": "SPRACHE:",
+        "es": "IDIOMA:",
+        "it": "LINGUA:",
+        "th": ""
+      },
+      "SessionVoice": {
+        "en": "VOICE ONLY:",
+        "fr": "VOIX UNIQUEMENT :",
+        "de": "NUR STIMME:",
+        "es": "SÓLO VOZ:",
+        "it": "SOLO VOCE:",
+        "th": ""
+      },
+      "SessionNumPlayers": {
+        "en": "PLAYERS:",
+        "fr": "JOUEURS:",
+        "de": "SPIELER:",
+        "es": "JUGADORES:",
+        "it": "GIOCATORI:",
+        "th": ""
+      },
+      "NoMatchesFound": {
+        "en": "NO MATCHES FOUND",
+        "fr": "AUCUNE PARTIE TROUVEE",
+        "de": "KEINE SPIELE GEFUNDEN",
+        "es": "NO HAY PARTIDAS.",
+        "it": "NESSUNA PARTITA TROVATA",
+        "th": ""
+      },
+      "JoinPoorMatchMsg": {
+        "en": "NETWORK CONDITIONS MAY AFFECT THIS GAME. SELECT \"OK\" TO PLAY ANYWAY OR \"CANCEL\".",
+        "fr": "LES CONDITIONS DU RESEAU PEUVENT AFFECTER LA PARTIE. SELECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\".",
+        "de": "NETZWERKBEDINGUNGEN KÖNNEN DIESES SPIEL BEEINTRÄCHTIGEN. WÄHLEN SIE \"OK\", UM TROTZDEM ZU SPIELEN ODER \"ABBRECHEN\".",
+        "es": "LAS CONDICIONES DE LA RED PUEDEN AFECTAR A LA PARTIDA.  ELIGE \"ACEPTAR\" PARA CONTINUAR O \"CANCELAR\" PARA DESCARTAR.",
+        "it": "LE CONDIZIONI DELLA RETE POSSONO ALTERARE IL GIOCO. SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
+        "th": ""
+      },
+      "MatchesSearch": {
+        "en": "SEARCHING...",
+        "fr": "RECHERCHE...",
+        "de": "SUCHE...",
+        "es": "BUSCANDO...",
+        "it": "RICERCA...",
+        "th": ""
+      },
+      "NoMatchFoundSuggestion": {
+        "en": "PRESS \"Y\" TO CREATE A MATCH.",
+        "fr": "APPUYEZ SUR \"Y\" POUR CREER UNE PARTIE.",
+        "de": "DRÜCKEN SIE DIE \"Y\"-TASTE, UM EIN SPIEL ZU ERSTELLEN:",
+        "es": "PRESIONA \"Y\" PARA CREAR UNA PARTIDA.",
+        "it": "PREMI \"Y\" PER CREARE UNA PARTITA.",
+        "th": ""
+      },
+      "JoiningMsg": {
+        "en": "JOINING MATCH....",
+        "fr": "CONNEXION A LA PARTIE...",
+        "de": "EINTRITT INS SPIEL...",
+        "es": "UNIÉNDOSE A LA PARTIDA...",
+        "it": "COLLEGAMENTO ALLA PARTITA...",
+        "th": ""
+      },
+      "JoinFailedMsg": {
+        "en": "UNABLE TO JOIN THIS MATCH",
+        "fr": "CETTE SESSION DE JEU NEXISTE PLUS.",
+        "de": "DIESE SPIELESITZUNG IST NICHT MEHR VERFÜGBAR.",
+        "es": "ESTA PARTIDA YA NO ESTÁ DISPONIBLE.",
+        "it": "QUESTA PARTITA NON È PIÙ DISPONIBILE.",
+        "th": ""
+      },
+      "JoinWrongTeammateMsg": {
+        "en": "UNABLE TO JOIN THIS MATCH. YOU DON'T HAVE THE SAME SAVED GAME!",
+        "fr": "IMPOSSIBLE DE REJOINDRE CETTE PARTIE. VOUS N'AVEZ PAS LA MEME SAUVEGARDE !",
+        "de": "SPIELEINTRITT UNMÖGLICH. SIE VERFÜGEN NICHT ÜBER DEN GLEICHEN GESPEICHERTEN SPIELSTAND",
+        "es": "IMPOSIBLE UNIRSE A ESTA PARTIDA. NO TIENES LA MISMA PARTIDA GUARDADA.",
+        "it": "IMPOSSIBILE PARTECIPARE. NON HAI LO STESSO SALVATAGGIO!",
+        "th": ""
+      }
+    },
+    "QUICKMATCH": {
+      "_source": "PreGameMenus",
+      "QuickMacthCaption": {
+        "en": "QUICKMATCH",
+        "fr": "PARTIE RAPIDE",
+        "de": "SCHNELL INS SPIEL",
+        "es": "PARTIDA RÁPIDA",
+        "it": "PARTITA RAPIDA",
+        "th": ""
+      }
+    },
+    "OPTIMATCH": {
+      "_source": "PreGameMenus",
+      "OptiMatchCaption": {
+        "en": "OPTIMATCH",
+        "fr": "OPTIMATCH",
+        "de": "OPTIMATCH",
+        "es": "OPTIMATCH",
+        "it": "OPTIMATCH",
+        "th": ""
+      }
+    },
+    "LOBBY": {
+      "_source": "PreGameMenus",
+      "SectionSessionHost": {
+        "en": "LAUNCH",
+        "fr": "LANCER",
+        "de": "SPIEL STARTEN",
+        "es": "INICIAR",
+        "it": "LANCIO",
+        "th": ""
+      },
+      "SectionSessionClient": {
+        "en": "READY",
+        "fr": "PRET",
+        "de": "BEREIT",
+        "es": "LISTO",
+        "it": "PRONTO",
+        "th": ""
+      },
+      "SectionSessionMaps": {
+        "en": "MAPS",
+        "fr": "CARTES",
+        "de": "KARTEN",
+        "es": "MAPAS",
+        "it": "MAPPE",
+        "th": ""
+      },
+      "SectionSessionSetupHost": {
+        "en": "SETTINGS",
+        "fr": "CONFIGURATION",
+        "de": "INSTALLIERUNG",
+        "es": "CONFIGURACIÓN",
+        "it": "IMPOSTAZIONI",
+        "th": ""
+      },
+      "SectionSessionSetup": {
+        "en": "SETTINGS",
+        "fr": "CONFIGURATION",
+        "de": "INSTALLIERUNG",
+        "es": "CONFIGURACIÓN",
+        "it": "IMPOSTAZIONI",
+        "th": ""
+      },
+      "SectionLoadout": {
+        "en": "LOAD OUT",
+        "fr": "CHARGEMENT",
+        "de": "LOAD OUT",
+        "es": "SELECCIONAR ARMA",
+        "it": "EQUIPAGGIAMENTO",
+        "th": ""
+      },
+      "SectionFriends": {
+        "en": "FRIENDS",
+        "fr": "AMIS",
+        "de": "FREUNDE",
+        "es": "AMIGOS",
+        "it": "AMICI",
+        "th": ""
+      },
+      "SectionPlayers": {
+        "en": "PLAYERS",
+        "fr": "JOUEURS",
+        "de": "SPIELER",
+        "es": "JUGADORES",
+        "it": "GIOCATORI",
+        "th": ""
+      },
+      "SectionMessages": {
+        "en": "MESSAGES",
+        "fr": "MESSAGES",
+        "de": "MITTEILUNGEN",
+        "es": "MENSAJES",
+        "it": "MESSAGGI",
+        "th": ""
+      },
+      "SectionStatistics": {
+        "en": "STATISTICS",
+        "fr": "STATISTIQUES",
+        "de": "STATISTIK",
+        "es": "ESTADÍSTICAS",
+        "it": "STATISTICHE",
+        "th": ""
+      },
+      "SectionOptions": {
+        "en": "OPTIONS",
+        "fr": "OPTIONS",
+        "de": "OPTIONEN",
+        "es": "OPCIONES",
+        "it": "OPZIONI",
+        "th": ""
+      },
+      "SessionMap": {
+        "en": "MISSION:",
+        "fr": "MISSION :",
+        "de": "MISSION:",
+        "es": "MISIÓN:",
+        "it": "MISSIONE:",
+        "th": ""
+      },
+      "SessionDifficulty": {
+        "en": "DIFFICULTY:",
+        "fr": "DIFFICULTÉ :",
+        "de": "SCHWIERIGKEIT",
+        "es": "DIFICULTAD:",
+        "it": "DIFFICOLTÀ:",
+        "th": ""
+      },
+      "SessionPlayer": {
+        "en": "PLAYER",
+        "fr": "JOUEUR",
+        "de": "SPIELER",
+        "es": "JUGADOR",
+        "it": "GIOCATORE",
+        "th": ""
+      },
+      "SessionSkills": {
+        "en": "SKILLS",
+        "fr": "COMPETENCES",
+        "de": "ERFAHRUNG",
+        "es": "HABILIDADES",
+        "it": "ABILIITÀ",
+        "th": ""
+      },
+      "SessionRank": {
+        "en": "RANK",
+        "fr": "CLASSEMENT",
+        "de": "RANG",
+        "es": "CLASIFICACIÓN",
+        "it": "RANCO",
+        "th": ""
+      },
+      "SessionPing": {
+        "en": "SPEED",
+        "fr": "VITESSE",
+        "de": "GESCHWINDIGK",
+        "es": "VELOCIDAD",
+        "it": "VELOCITÀ",
+        "th": ""
+      },
+      "Accept": {
+        "en": "ACCEPT",
+        "fr": "ACCEPTER",
+        "de": "ANNEHMEN",
+        "es": "ACEPTAR",
+        "it": "ACCETTA",
+        "th": ""
+      },
+      "ServerInfo": {
+        "en": "CURRENT SESSION SETTINGS",
+        "fr": "INFORMATIONS SERVEUR",
+        "de": "SERVER-INFORMATION",
+        "es": "INFORMACIÓN DEL SERVIDOR",
+        "it": "INFORMAZIONI SUL SERVER",
+        "th": ""
+      },
+      "WaitOtherPlayers": {
+        "en": "WAIT FOR A TEAMMATE!",
+        "fr": "ATTENDEZ LES AUTRES JOUEURS !",
+        "de": "AUF ANDERE SPIELER WARTEN!",
+        "es": "¡ESPERA A LOS OTROS JUGADORES!",
+        "it": "ASPETTA PER ALTRI GIOCATORI",
+        "th": ""
+      },
+      "LaunchGameError": {
+        "en": "UNABLE TO LAUNCH THE GAME",
+        "fr": "IMPOSSIBLE DE LANCER LA PARTIE",
+        "de": "SPIEL KANN NICHT GESTARTET WERDEN",
+        "es": "IMPOSIBLE INICIAR PARTIDA.",
+        "it": "IMPOSSIBILE LANCIARE LA PARTITA",
+        "th": ""
+      },
+      "LaunchGameErrorLoadOut": {
+        "en": "UNABLE TO LAUNCH THE GAME. INCOMPATIBLE LOAD OUT!",
+        "fr": "IMPOSSIBLE DE LANCER LA PARTIE POUR CAUSE D'INCOMPATIBILITE D'EQUIPEMENT, LE PAQUET DE CONTENU DE VOTRE COEQUIPIER ETANT MANQUANT OU CORROMPU.",
+        "de": "SPIEL KANN NICHT GESTARTET WERDEN. AUSRÜSTUNG NICHT KOMPATIBEL WEGEN FEHLENDEM PARTNER ODER FEHLERHAFTES INHALTE-PAKET:",
+        "es": "NO ES POSIBLE INCIAR LA PARTIDA POR INCOMPATIBILIDAD DE CARGA: FALTA TU COMPAÑERO O  EL CONTENIDO ESTÁ DAÑADO.",
+        "it": "IMPOSSIBILE LANCIARE LA PARTITA: EQUIPAGGIAMENTO INCOMPATIBILE PER ASSENZA DEL COMPAGNO O DANNEGGIAMENTO DEL CONTENUTO DEI PACCHETTI!",
+        "th": ""
+      },
+      "QuitWarningMsg": {
+        "en": "LEAVING THE GAME NOW WILL END THIS SESSION. ARE YOU SURE?",
+        "fr": "LE FAIT DE QUITTER LA PARTIE MAINTENANT METTRA UN TERME A LA SESSION. ETES-VOUS SUR ?",
+        "de": "WENN SIE DAS SPIEL JETZT VERLASSEN, WIRD DIE SITZUNG BEENDET. SIND SIE SICHER?",
+        "es": "SI SALES DEL JUEGO ABANDONARÁS LA PARTIDA. ¿ESTÁS SEGURO?",
+        "it": "LASCIARE IL GIOCO ADESSO TERMINERÀ LA PARTITA. SEI SICURO?",
+        "th": ""
+      },
+      "QuitWarningClientMsg": {
+        "en": "YOU ARE ABOUT TO QUIT YOUR GAME. ARE YOU SURE?",
+        "fr": "VOUS VOUS APPRETEZ A QUITTER LA PARTIE. ETES-VOUS SUR ?",
+        "de": "SIE SIND DABEI DAS SPIEL ZU VERLASSEN. SIND SIE SICHER?",
+        "es": "ESTÁS A PUNTO DE ABANDONAR ESTA PARTIDA. ¿ESTÁS SEGURO?",
+        "it": "STAI PER USCIRE DALLA PARTITA. SEI SICURO?",
+        "th": ""
+      },
+      "WaitingTeammateMsg": {
+        "en": "WAITING FOR YOUR TEAMMATE... ( %i )",
+        "fr": "EN ATTENTE DE VOTRE COEQUIPIER... ( %i )",
+        "de": "WARTE AUF TEAMKOLLEGEN... ( %i )",
+        "es": "ESPERANDO A TU COMPAÑERO... ( %i )",
+        "it": "IN ATTESA DEL COMPAGNO DI SQUADRA... ( %i )",
+        "th": ""
+      },
+      "WaitingFriendTeammateMsg": {
+        "en": "WAITING FOR %s ...",
+        "fr": "EN ATTENTE DE %s...",
+        "de": "WARTE AUF %s ...",
+        "es": "ESPERANDO A %s ..",
+        "it": "IN ATTESA DI %s...",
+        "th": ""
+      }
+    },
+    "MESSAGING": {
+      "_source": "PreGameMenus",
+      "Title": {
+        "en": "MESSAGES",
+        "fr": "MESSAGES",
+        "de": "MITTEILUNGEN",
+        "es": "MENSAJES",
+        "it": "MESSAGGI",
+        "th": ""
+      },
+      "CreateMailTitle": {
+        "en": "COMPOSE",
+        "fr": "COMPOSER",
+        "de": "ERSTELLEN",
+        "es": "ESCRIBIR",
+        "it": "CREAZIONE",
+        "th": ""
+      },
+      "CreateMailSubTitle": {
+        "en": "COMPOSE MESSAGE",
+        "fr": "COMPOSER LE MESSAGE",
+        "de": "TEXTMITTEILUNG ERSTELLEN",
+        "es": "ESCRIBIR MENSAJE",
+        "it": "CREA MESSAGGIO",
+        "th": ""
+      },
+      "CreateMailRecipient": {
+        "en": "SEND TO",
+        "fr": "ENVOYER A",
+        "de": "SENDEN AN",
+        "es": "ENVIAR A",
+        "it": "INVIA A",
+        "th": ""
+      },
+      "NoMailTitle": {
+        "en": "[NO TITLE]",
+        "fr": "[PAS DE TITRE]",
+        "de": "[KEIN BETREFF]",
+        "es": "[SIN TÍTULO]",
+        "it": "[TITOLO MANCANTE]",
+        "th": ""
+      },
+      "NoMailText": {
+        "en": "[NO TEXT]",
+        "fr": "[PAS DE TEXTE]",
+        "de": "[KEIN TEXT]",
+        "es": "[SIN TEXTO]",
+        "it": "[TESTO MANCANTE]",
+        "th": ""
+      },
+      "NoMailRecipient": {
+        "en": "[NO RECIPIENT]",
+        "fr": "[PAS DE DESTINATAIRE]",
+        "de": "[KEIN EMPFÄNGER]",
+        "es": "[SIN DESTINATARIO]",
+        "it": "[NESSUN DESTINATARIO]",
+        "th": ""
+      },
+      "GoingMessageMsg": {
+        "en": "GOING BACK AT THIS TIME WILL DISCARD THE CONTENT OF YOUR CURRENT MESSAGE.",
+        "fr": "SI VOUS REVENEZ EN ARRIERE, CELA EFFACERA LE CONTENU DE VOTRE MESSAGE.",
+        "de": "WENN SIE JETZT ZURÜCKGEHEN, WIRD DER INHALT DIESER MITTEILUNG GELÖSCHT.",
+        "es": "SI VAS HACIA ATRÁS PERDERÁS EL CONTENIDO DEL MENSAJE ACTUAL.",
+        "it": "SE TORNI INDIETRO ORA PERDERAI IL CONTENUTO DI QUESTO MESSAGGIO.",
+        "th": ""
+      },
+      "MailSend": {
+        "en": "SEND",
+        "fr": "ENVOYER",
+        "de": "SENDEN",
+        "es": "ENVIAR",
+        "it": "INVIA",
+        "th": ""
+      },
+      "MailVoice": {
+        "en": "ADD VOICE MESSAGE",
+        "fr": "AJOUTER UN MESSAGE VOCAL",
+        "de": "SPRACHMITTEILUNG HINZUFÜGEN",
+        "es": "AÑADIR MENSAJE DE VOZ",
+        "it": "AGGIUNGI MESSAGGIO VOCALE",
+        "th": ""
+      },
+      "MessageVK": {
+        "en": "MESSAGE",
+        "fr": "MESSAGE",
+        "de": "MITTEILUNG",
+        "es": "MENSAJE",
+        "it": "MESSAGGIO",
+        "th": ""
+      },
+      "MessageTitleVK": {
+        "en": "MESSAGE TITLE",
+        "fr": "TITRE DU MESSAGE",
+        "de": "TITEL",
+        "es": "TÍTULO DEL MENSAJE",
+        "it": "TITOLO DEL MESSAGGIO",
+        "th": ""
+      },
+      "OffensiveMessage": {
+        "en": "YOUR MESSAGE CONTAINS OFFENSIVE TEXT. IT CANNOT BE SENT. PLEASE TRY AGAIN.",
+        "fr": "VOTRE MESSAGE CONTIENT UN LANGAGE INCONVENANT ET IL EST IMPOSSIBLE DE L'ENVOYER. VEUILLEZ RÉESSAYER.",
+        "de": "IHRE NACHRICHT ENTHÄLT NICHT ERLAUBTEN TEXT UND KANN NICHT GESENDET WERDEN. BITTE VERSUCHEN SIE ES ERNEUT.",
+        "es": "TU MENSAJE CONTIENE TEXTO OFENSIVO Y NO SE PUEDE ENVIAR. POR FAVOR, INTÉNTALO DE NUEVO.",
+        "it": "IL TUO MESSAGGIO CONTIENE UN LINGUAGGIO OFFENSIVO. NON PUÒ ESSERE INVIATO. RIPROVA.",
+        "th": ""
+      },
+      "InboxTitle": {
+        "en": "INBOX",
+        "fr": "BOITE DE RECEPTION",
+        "de": "POSTEINGANG",
+        "es": "BUZÓN",
+        "it": "IN ARRIVO",
+        "th": ""
+      },
+      "InboxSubTitle": {
+        "en": "MESSAGES",
+        "fr": "MESSAGES",
+        "de": "TEXTMITTEILUNGEN",
+        "es": "MENSAJES",
+        "it": "MESSAGGI",
+        "th": ""
+      },
+      "InboxEmpty": {
+        "en": "YOU HAVE NO MESSAGES",
+        "fr": "VOUS N'AVEZ PAS DE MESSAGES",
+        "de": "KEINE TEXTMITTEILUNGEN VORHANDEN",
+        "es": "NO TIENES MENSAJES.",
+        "it": "NON CI SONO MESSAGGI",
+        "th": ""
+      },
+      "ReadMailTitle": {
+        "en": "READ MESSAGE",
+        "fr": "LIRE LE MESSAGE",
+        "de": "MITTEILUNG LESEN",
+        "es": "LEER MENSAJE",
+        "it": "LEGGI MESSAGGIO",
+        "th": ""
+      },
+      "ReadMailSender": {
+        "en": "SENT BY:",
+        "fr": "ENVOYE PAR :",
+        "de": "GESENDET VON:",
+        "es": "ENVIADO POR:",
+        "it": "INVIATO DA:",
+        "th": ""
+      },
+      "MailBlock": {
+        "en": "BLOCK THIS PLAYER",
+        "fr": "BLOQUER CE JOUEUR",
+        "de": "DIESEN SPIELER IGNORIEREN",
+        "es": "BLOQUEAR ESTE JUGADOR",
+        "it": "BLOCCA QUESTO GIOCATORE",
+        "th": ""
+      },
+      "MailFeedback": {
+        "en": "FEEDBACK",
+        "fr": "COMMENTAIRES",
+        "de": "FEEDBACK",
+        "es": "INFORMACIÓN",
+        "it": "COMMENTO",
+        "th": ""
+      },
+      "MailExpiration": {
+        "en": "EXPIRATION : ",
+        "fr": "EXPIRATION : ",
+        "de": "FRISTABLAUF ",
+        "es": "CADUCA EN: ",
+        "it": "SCADENZA: ",
+        "th": ""
+      },
+      "MailReply": {
+        "en": "REPLY",
+        "fr": "REPONDRE",
+        "de": "ANTWORTEN",
+        "es": "RESPONDER",
+        "it": "RISPOSTA",
+        "th": ""
+      },
+      "DeleteMessageTitle": {
+        "en": "DELETE MESSAGE",
+        "fr": "EFFACER LE MESSAGE",
+        "de": "TEXTMITTEILUNG LÖSCHEN",
+        "es": "BORRAR MENSAJE",
+        "it": "CANCELLA MESSAGGIO",
+        "th": ""
+      },
+      "DeleteMessage": {
+        "en": "DO YOU WANT TO DELETE THIS MESSAGE?",
+        "fr": "VOULEZ-VOUS EFFACER CE MESSAGE ?",
+        "de": "WOLLEN SIE DIESE TEXTMITTEILUNG LÖSCHEN?",
+        "es": "¿QUIERES BORRAR ESTE MENSAJE?",
+        "it": "VUOI CANCELLARE QUESTO MESSAGGIO?",
+        "th": ""
+      },
+      "EmptyMessageMsg": {
+        "en": "AN EMPTY MESSAGE CANNOT BE SENT.",
+        "fr": "IL EST IMPOSSIBLE D'ENVOYER UN MESSAGE VIDE.",
+        "de": "EINE LEERE TEXTMITTEILUNG KANN NICHT GESENDET WERDEN.",
+        "es": "NO PUEDES ENVIAR UN MENSAJE VACÍO.",
+        "it": "NON PUOI MANDARE UN MESSAGGIO VUOTO.",
+        "th": ""
+      },
+      "BlockMessage": {
+        "en": "DO YOU WANT TO PERMANENTLY BLOCK %s FROM SENDING YOU MESSAGES?",
+        "fr": "VOULEZ-VOUS BLOQUER LES MESSAGES DE %s DE FAÇON PERMANENTE ?",
+        "de": "SIND SIE SICHER, DASS SIE ZUKÜNFTIGE TEXTMITTEILUNGEN VON %s IGNORIEREN MÖCHTEN?",
+        "es": "¿QUIERES BLOQUEAR PERMANENTEMENTE LOS MENSAJES DE %s?",
+        "it": "VUOI BLOCCARE TUTTI I MESSAGGI FUTURI DI %s?",
+        "th": ""
+      },
+      "MailFeedbackTitle": {
+        "en": "FEEDBACK",
+        "fr": "COMMENTAIRES",
+        "de": "FEEDBACK",
+        "es": "INFORMACIÓN",
+        "it": "COMMENTO",
+        "th": ""
+      },
+      "Complaints": {
+        "en": "COMPLAINTS",
+        "fr": "COMMENTAIRES NEGATIFS",
+        "de": "BESCHWERDEN",
+        "es": "QUEJAS",
+        "it": "RECLAMI",
+        "th": ""
+      },
+      "BadMessage": {
+        "en": "OFFENSIVE MESSAGE",
+        "fr": "MESSAGE INCONVENANT",
+        "de": "BELEIDIGENDE NACHRICHT",
+        "es": "MENSAJE OFENSIVO",
+        "it": "MESSAGGIO OFFENSIVO",
+        "th": ""
+      },
+      "Spam": {
+        "en": "SPAM",
+        "fr": "SPAM",
+        "de": "SPAM",
+        "es": "SPAM",
+        "it": "SPAM",
+        "th": ""
+      },
+      "ConfirmPlayerSendComplaintText": {
+        "en": "DO YOU WISH TO SEND THIS COMPLAINT FOR %s? SELECT \"OK\" TO CONTINUE OR \"CANCEL\"",
+        "fr": "VOULEZ-VOUS ENVOYER CES COMMENTAIRES NEGATIFS SUR %s ? SELECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\".",
+        "de": "WOLLEN SIE DIESE BESCHWERDE ÜBER %s ABSCHICKEN? WÄHLEN SIE \"OK\", UM FORTZUFAHREN ODER \"ABBRECHEN\".",
+        "es": "¿QUIERES ENVIAR ESTA QUEJA SOBRE %s?  ELIGE \"ACEPTAR\" PARA CONTINUAR O \"CANCELAR\" PARA DESCARTAR.",
+        "it": "VUOI MANDARE QUESTO RECLAMO SU %s? SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
+        "th": ""
+      },
+      "VoiceRecorderTitle": {
+        "en": "VOICE MESSAGE",
+        "fr": "MESSAGE VOCAL",
+        "de": "SPRACHMITTEILUNG",
+        "es": "Localiza y recupera los discos de datos del Centro Nacional de Datos.",
+        "it": "MESSAGGIO VOCALE",
+        "th": ""
+      },
+      "Record": {
+        "en": "RECORD",
+        "fr": "ENREGISTRER",
+        "de": "AUFNEHMEN",
+        "es": "GRABAR",
+        "it": "REGISTRA",
+        "th": ""
+      },
+      "Play": {
+        "en": "PLAY",
+        "fr": "LECTURE",
+        "de": "SPIELEN",
+        "es": "JUGAR",
+        "it": "ASCOLTA",
+        "th": ""
+      },
+      "Stop": {
+        "en": "STOP",
+        "fr": "ARRETER",
+        "de": "STOPP",
+        "es": "DETENER",
+        "it": "FERMA",
+        "th": ""
+      },
+      "Accept": {
+        "en": "ACCEPT",
+        "fr": "ACCEPTER",
+        "de": "ANNEHMEN",
+        "es": "ACEPTAR",
+        "it": "ACCETTA",
+        "th": ""
+      }
+    },
+    "OPTIONS": {
+      "_source": "PreGameMenus",
+      "OptionsTitle": {
+        "en": "OPTIONS",
+        "fr": "OPTIONS",
+        "de": "OPTIONEN",
+        "es": "OPCIONES",
+        "it": "OPZIONI",
+        "th": ""
+      },
+      "ControllerTitle": {
+        "en": "CONTROLS",
+        "fr": "COMMANDES",
+        "de": "STEUERUNG",
+        "es": "CONTROLES",
+        "it": "COMANDI",
+        "th": ""
+      },
+      "AdvControllerTitle": {
+        "en": "ADVANCED CONTROLS",
+        "fr": "COMMANDES AVANCÉES",
+        "de": "ERWEITERTE STEUERUNGSOPTIONEN",
+        "es": "CONTROLES AVANZADOS",
+        "it": "COMANDI AVANZATI",
+        "th": ""
+      },
+      "VideoTitle": {
+        "en": "DISPLAY",
+        "fr": "AFFICHAGE",
+        "de": "ANZEIGE",
+        "es": "PANTALLA",
+        "it": "VIDEO",
+        "th": ""
+      },
+      "SoundTitle": {
+        "en": "SOUND",
+        "fr": "SON",
+        "de": "SOUND",
+        "es": "SONIDO",
+        "it": "AUDIO",
+        "th": ""
+      },
+      "OnlineTitle": {
+        "en": "XBOX LIVE",
+        "fr": "XBOX LIVE",
+        "de": "XBOX LIVE",
+        "es": "XBOX LIVE",
+        "it": "XBOX LIVE",
+        "th": ""
+      },
+      "OnlineGeneralTitle": {
+        "en": "GENERAL",
+        "fr": "GÉNÉRAL",
+        "de": "ALLGEMEIN",
+        "es": "GENERAL",
+        "it": "GENERALE",
+        "th": ""
+      },
+      "OnlineSoundTitle": {
+        "en": "SOUND",
+        "fr": "SON",
+        "de": "SOUND",
+        "es": "SONIDO",
+        "it": "AUDIO",
+        "th": ""
+      },
+      "ControllerAction[1]": {
+        "en": "USE EQUIPED / LETHAL ATTACK",
+        "fr": "UTILISE OBJ. EQUIP. / ATTAQUE MORTELLE",
+        "de": "GEWÄHLTE AUSRÜSTUNG BENUTZEN/TÖDLICH ANGRIFF",
+        "es": "USAR EQUIPO/ATAQUE LETAL",
+        "it": "USA ATTIVO / ATTACCO LETALE",
+        "th": ""
+      },
+      "ControllerAction[2]": {
+        "en": "KO ATTACK",
+        "fr": "ATTAQUE KO",
+        "de": "KO-ANGRIFF",
+        "es": "ATAQUE NOQUEADOR",
+        "it": "ATTACCO NON LETALE",
+        "th": ""
+      },
+      "ControllerAction[3]": {
+        "en": "CROUCH / STAND",
+        "fr": "S'ACCROUPIR",
+        "de": "DUCKEN",
+        "es": "AGACHARSE",
+        "it": "CHINARSI",
+        "th": ""
+      },
+      "ControllerAction[4]": {
+        "en": "JUMP",
+        "fr": "SAUTER",
+        "de": "SPRINGEN",
+        "es": "SALTAR",
+        "it": "SALTO",
+        "th": ""
+      },
+      "ControllerAction[5]": {
+        "en": "EQUIP ITEM",
+        "fr": "S'EQUIPER D'UN OBJET",
+        "de": "GEGENSTAND AUSRÜSTEN",
+        "es": "LLEVAR OBJETO",
+        "it": "IMPUGNA OGGETTO",
+        "th": ""
+      },
+      "ControllerAction[6]": {
+        "en": "MOVEMENT / BACK TO WALL",
+        "fr": "SE DEPLACER",
+        "de": "BEWEGUNG",
+        "es": "MOVIMIENTO",
+        "it": "MOVIMENTO",
+        "th": ""
+      },
+      "ControllerAction[7]": {
+        "en": "INTERACT",
+        "fr": "INTERAGIR",
+        "de": "INTERAKTION",
+        "es": "ACCIÓN",
+        "it": "INTERAGISCI",
+        "th": ""
+      },
+      "ControllerAction[8]": {
+        "en": "OPSAT MENU",
+        "fr": "MONTRE-SATELLITE",
+        "de": "OPSAT-MENÜ",
+        "es": "MENÚ ENSAT",
+        "it": "MENU OPSAT",
+        "th": ""
+      },
+      "ControllerAction[9]": {
+        "en": "PAUSE MENU",
+        "fr": "MENU DE PAUSE",
+        "de": "PAUSEMENÜ",
+        "es": "MENÚ PAUSA",
+        "it": "MENU PAUSA",
+        "th": ""
+      },
+      "ControllerAction[10]": {
+        "en": "NIGHT VISION",
+        "fr": "VISION NOCTURNE",
+        "de": "NACHTSICHT",
+        "es": "VISOR NOCTURNO",
+        "it": "VISORE NOTTURNO",
+        "th": ""
+      },
+      "ControllerAction[11]": {
+        "en": "STICKY CAMERA",
+        "fr": "CAMERA-GLU",
+        "de": "HAFTKAMERA",
+        "es": "CÁMARA SEGUIMIEN.",
+        "it": "MICROCAMERA",
+        "th": ""
+      },
+      "ControllerAction[12]": {
+        "en": "THERMAL VISION",
+        "fr": "VISION THERMIQUE",
+        "de": "WÄRMEBILDGERÄT",
+        "es": "VISOR TÉRMICO",
+        "it": "VISORE TERMICO",
+        "th": ""
+      },
+      "ControllerAction[13]": {
+        "en": "EMF",
+        "fr": "VISION ELECTROMAGN.",
+        "de": "EMF",
+        "es": "CEM",
+        "it": "VISORE MAGNETICO",
+        "th": ""
+      },
+      "ControllerAction[14]": {
+        "en": "CAMERA / EEV",
+        "fr": "CAMERA / EEV",
+        "de": "KAMERA / EEV",
+        "es": "CÁMARA / EEV",
+        "it": "TELECAMERA / EEV",
+        "th": ""
+      },
+      "ControllerAction[15]": {
+        "en": "QUICK INVENTORY",
+        "fr": "INVENTAIRE RAPIDE",
+        "de": "SCHNELLINVENTAR",
+        "es": "INVENTARIO RÁPIDO",
+        "it": "INVENTARIO RAPIDO",
+        "th": ""
+      },
+      "ControllerAction[16]": {
+        "en": "WHISTLE / COOP ACTION",
+        "fr": "SIFFLER / ACTION COOP.",
+        "de": "PFEIFEN/KOOP-AKTION",
+        "es": "SILBAR/ACCIÓN COOPERATIVA",
+        "it": "FISCHIO / AZIONE COOPERATIVA",
+        "th": ""
+      }
+    },
+    "PROFILES": {
+      "_source": "PreGameMenus",
+      "Profiles": {
+        "en": "PROFILES",
+        "fr": "PROFILS",
+        "de": "PROFIL",
+        "es": "PERFILES",
+        "it": "PROFILI",
+        "th": ""
+      },
+      "NewProfile": {
+        "en": "NEW PROFILE",
+        "fr": "NOUVEAU PROFIL",
+        "de": "NEUES PROFIL",
+        "es": "PERFIL NUEVO",
+        "it": "NUOVO PROFILO",
+        "th": ""
+      },
+      "DefaultProfile": {
+        "en": "SAMFISHER",
+        "fr": "SAMFISHER",
+        "de": "SAMFISHER",
+        "es": "SAMFISHER",
+        "it": "SAMFISHER",
+        "th": ""
+      },
+      "ProfileErrorLoadTitle": {
+        "en": "DAMAGED PROFILE",
+        "fr": "PROFIL ENDOMMAGE",
+        "de": "DAMAGED PROFILE",
+        "es": "PERFIL DAÑADO",
+        "it": "PROFILO DANNEGGIATO",
+        "th": ""
+      },
+      "ProfileErrorLoadMsg": {
+        "en": "THIS PROFILE APPEARS TO BE DAMAGED AND CANNOT BE USED. SELECT \"OK\" TO DELETE THIS PROFILE OR \"CANCEL\" TO KEEP IT.",
+        "fr": "CE PROFIL EST ENDOMMAGE ET NE PEUT ETRE UTILISE. SELECTIONNEZ \"OK\" POUR L'EFFACER, OU \"ANNULER\" POUR LE CONSERVER.",
+        "de": "DIESES PROFIL SCHEINT BESCHÄDIGT ZU SEIN UND KANN NICHT VERWENDET WERDEN. WÄHLEN SIE \"OK\", UM DIESES PROFIL ZU LÖSCHEN ODER \"ABBRECHEN\", UM ES ZU BEHALTEN.",
+        "es": "EL PERFIL PARECE DAÑADO Y NO PUEDE USARSE. ELIGE \"ACEPTAR\" PARA BORRAR EL PERFIL O \"CANCELAR\" PARA DEJARLO.",
+        "it": "IL PROFILO È DANNEGGIATO E NON PUÒ ESSERE USATO. SELEZIONA \"OK\" PER ELIMINARE IL PROFILO O \"ANNULLA\" PER MANTENERLO.",
+        "th": ""
+      },
+      "ProfileDeleteMsg": {
+        "en": "ARE YOU SURE YOU WANT TO PERMANENTLY REMOVE YOUR PROFILE AND ALL YOUR CURRENT PROGRESS? SELECT \"OK\" TO DELETE THIS PROFILE OR \"CANCEL\" TO KEEP IT.",
+        "fr": "VOULEZ-VOUS VRAIMENT SUPPRIMER DE FAÇON PERMANENTE VOTRE PROFIL ET TOUTE VOTRE PROGRESSION ? SELECTIONNEZ \"OK\" POUR EFFACER CE PROFIL, OU \"ANNULER\" POUR LE CONSERVER.",
+        "de": "SIND SIE SICHER, DASS SIE IHR PROFIL UND DIE DAZUGEHÖRIGEN SPIELSTÄNDE LÖSCHEN WOLLEN? WÄHLEN SIE \"OK\", UM DIESES PROFIL ZU LÖSCHEN ODER \"ABBRECHEN\", UM ES ZU BEHALTEN.",
+        "es": "¿SEGURO QUE QUIERES ELIMINAR PERMANENTEMENTE TU PERFIL Y TODO LO QUE HAS AVANZADO? ELIGE \"ACEPTAR\" PARA BORRAR EL PERFIL O \"CANCELAR\" PARA DEJARLO.",
+        "it": "VUOI DAVVERO ELIMINARE DEFINITIVAMENTE IL TUO PROFILO E I PROGRESSI FATTI? SELEZIONA \"OK\" PER ELIMINARE IL PROFILO O \"ANNULLA\" PER MANTENERLO.",
+        "th": ""
+      },
+      "ProfileExistsMsg": {
+        "en": "A PROFILE WAS FOUND WITH THE SAME NAME, PLEASE MODIFY THE NAME OR DELETE THE OTHER PROFILE",
+        "fr": "UN PROFIL DE MEME NOM EXISTE DEJA, VEUILLEZ MODIFIER VOTRE NOM OU EFFACER L'AUTRE PROFIL.",
+        "de": "EIN PROFIL MIT DEM GLEICHEN NAMEN WURDE GEFUNDEN, BITTE ÄNDERN SIE DEN NAMEN ODER LÖSCHEN SIE DAS ANDERE PROFIL.",
+        "es": "SE HA ENCONTRADO UN PERFIL CON EL MISMO NOMBRE. POR FAVOR, MODIFICA EL NOMBRE O BORRA EL OTRO PERFIL.",
+        "it": "È STATO TROVATO UN PROFILO CON LO STESSO NOME. CAMBIA NOME O ELIMINA L'ALTRO PROFILO.",
+        "th": ""
+      },
+      "ProfileLimitReachedMsg": {
+        "en": "MAXIMUM PROFILES REACHED. YOU MUST DELETE ONE OF YOUR PROFILES BEFORE YOU ARE ABLE TO CREATE A NEW ONE.",
+        "fr": "NOMBRE LIMITE DE PROFILS ATTEINT. VOUS DEVEZ EFFACER L'UN DES PROFILS EXISTANTS POUR POUVOIR EN CREER UN AUTRE.",
+        "de": "MAXIMALE ANZAHL VON PROFILEN ERREICHT. SIE MÜSSEN EINES IHRER PROFILE LÖSCHEN, BEVOR SIE EIN NEUES ERSTELLEN KÖNNEN.",
+        "es": "SE HA SUPERADO EL LÍMITE DE PERFILES. DEBES BORRAR UNO DE LOS PERFILES ANTES DE CREAR UNO NUEVO.",
+        "it": "HAI CREATO IL NUMERO MASSIMO DI PROFILI. DEVI CANCELLARE UNO DEI PROFILI PRIMA DI CREARNE UN ALTRO.",
+        "th": ""
+      },
+      "ProfileErrorCreateTitle": {
+        "en": "NOT ENOUGH FREE BLOCKS",
+        "fr": "PAS ASSEZ DE BLOCS DISPOS",
+        "de": "NICHT GENUG FREIE BLÖCKE",
+        "es": "INSUFIC. BLOQUES LIBRES",
+        "it": "BLOCCHI LIBERI INSUFFICIENTI",
+        "th": ""
+      },
+      "ProfileErrorCreateMsg": {
+        "en": "YOUR XBOX DOESN'T HAVE ENOUGH FREE BLOCKS TO SAVE A PROFILE. SELECT \"OK\" TO FREE %i BLOCKS OR \"CANCEL\".",
+        "fr": "VOTRE XBOX NE DISPOSE PAS DE SUFFISAMMENT DE BLOCS DISPONIBLES POUR SAUVEGARDER UN PROFIL. SELECTIONNEZ \"OK\" POUR LIBERER %i BLOCS, OU \"ANNULER\".",
+        "de": "IHRE XBOX VERFÜGT NICHT ÜBER GENUG SPEICHERBLÖCKE, UM EIN PROFIL ZU SPEICHERN. WÄHLEN SIE \"OK\", UM %i BLÖCKE FREIZUGEBEN ODER BRECHEN SIE DEN VORGANG AB.",
+        "es": "TU XBOX NO TIENE SUFICIENTES BLOQUES LIBRES PARA GUARDAR UN PERFIL. ELIGE \"ACEPTAR\" PARA LIBERAR %i BLOQUES O \"CANCELAR\" PARA NO GUARDAR.",
+        "it": "XBOX NON DISPONE DI SUFFICIENTI BLOCCHI LIBERI PER SALVARE UN PROFILO. SELEZIONA \"OK\" PER LIBERARE %i BLOCCHI O \"ANNULLA\".",
+        "th": ""
+      },
+      "Player1": {
+        "en": "PLAYER 1",
+        "fr": "JOUEUR 1",
+        "de": "SPIELER 1",
+        "es": "JUGADOR 1",
+        "it": "GIOCATORE 1",
+        "th": ""
+      },
+      "Player2": {
+        "en": "PLAYER 2",
+        "fr": "JOUEUR 2",
+        "de": "SPIELER 2",
+        "es": "JUGADOR 2",
+        "it": "GIOCATORE 2",
+        "th": ""
+      },
+      "SaveProfileMsg": {
+        "en": "SAVING YOUR NEW PROFILE...",
+        "fr": "SAUVEGARDE DE VOTRE NOUVEAU PROFIL...",
+        "de": "NEUES PROFIL WIRD GESPEICHERT...",
+        "es": "GUARDANDO EL PERFIL NUEVO...",
+        "it": "SALVATAGGIO DEL NUOVO PROFILO...",
+        "th": ""
+      }
+    },
+    "LOADSAVE": {
+      "_source": "PreGameMenus",
+      "LoadGame": {
+        "en": "LOAD GAME",
+        "fr": "CHARGER UNE PARTIE",
+        "de": "SPIEL LADEN",
+        "es": "CARGAR PARTIDA",
+        "it": "CARICA PARTITA",
+        "th": ""
+      },
+      "NewGame": {
+        "en": "NEW GAME",
+        "fr": "NOUVELLE PARTIE",
+        "de": "NEUES SPIEL",
+        "es": "PARTIDA NUEVA",
+        "it": "NUOVA PARTITA",
+        "th": ""
+      },
+      "SaveGame": {
+        "en": "SAVE GAME",
+        "fr": "SAUVEGARDER LA PARTIE",
+        "de": "SPIEL SPEICHERN",
+        "es": "GUARDAR PARTIDA",
+        "it": "SALVA PARTITA",
+        "th": ""
+      },
+      "QuickSave": {
+        "en": "(QUICK SAVE)",
+        "fr": "(SAUVEGARDE RAPIDE)",
+        "de": "(SCHNELLSPEICHERN)",
+        "es": "(GUARDADO RÁPIDO)",
+        "it": "(SALVATAGGIO VELOCE)",
+        "th": ""
+      },
+      "EmptySave": {
+        "en": "[EMPTY]",
+        "fr": "[VIDE]",
+        "de": "[LEER]",
+        "es": "[VACÍO]",
+        "it": "[VUOTO]",
+        "th": ""
+      },
+      "LoadSavedGame": {
+        "en": "PROGRESS",
+        "fr": "PROGRESSION",
+        "de": "SPIELSTAND",
+        "es": "PARTIDA GUARDADA",
+        "it": "SALVATAGGIO",
+        "th": ""
+      },
+      "LoadMission": {
+        "en": "MISSION",
+        "fr": "MISSION",
+        "de": "MISSION",
+        "es": "MISIÓN",
+        "it": "MISSIONE",
+        "th": ""
+      },
+      "OverwriteSaveTitle": {
+        "en": "OVERWRITE PROGRESS",
+        "fr": "ECRASER LA PROGRESSION",
+        "de": "SPIELSTAND ÜBERSCHREIBEN",
+        "es": "SOBRESCRIBIR PARTIDA",
+        "it": "SOVRASCRITTURA DEL SALVATAGGIO",
+        "th": ""
+      },
+      "OverwriteSaveMsg": {
+        "en": "ARE YOU SURE YOU WANT TO OVERWRITE THIS PROGRESS?",
+        "fr": "VOULEZ-VOUS VRAIMENT ECRASER CETTE PROGRESSION ?",
+        "de": "SIND SIE SICHER, DASS SIE DIESEN SPIELSTAND ÜBERSCHREIBEN WOLLEN?",
+        "es": "¿SEGURO QUE QUIERES SOBRESCRIBIR ESTA PARTIDA?",
+        "it": "VUOI DAVVERO SOVRASCRIVERE QUESTO SALVATAGGIO?",
+        "th": ""
+      },
+      "DeleteSaveTitle": {
+        "en": "ERASE PROGRESS",
+        "fr": "EFFACER LA PROGRESSION",
+        "de": "SPIELSTAND LÖSCHEN",
+        "es": "BORRAR PARTIDA",
+        "it": "CANCELLAZIONE DI UN SALVATAGGIO",
+        "th": ""
+      },
+      "DeleteSaveMsg": {
+        "en": "ARE YOU SURE YOU WANT TO ERASE THIS PROGRESS? ",
+        "fr": "VOULEZ-VOUS VRAIMENT EFFACER CETTE PROGRESSION ? ",
+        "de": "SIND SIE SICHER, DASS SIE DIESEN SPIELSTAND LÖSCHEN WOLLEN? ",
+        "es": "¿SEGURO QUE QUIERES BORRAR LA PARTIDA GUARDADA? ",
+        "it": "VUOI DAVVERO CANCELLARE QUESTO SALVATAGGIO? ",
+        "th": ""
+      },
+      "DeleteAllSavesTitle": {
+        "en": "ERASE ALL PROGRESS",
+        "fr": "EFFACER VOTRE PROGRESSION",
+        "de": "GESAMT-SPIELSTAND LÖSCHEN",
+        "es": "BORRAR LAS PARTIDAS",
+        "it": "CANCELLAZIONE DI TUTTI I SALVATAGGI",
+        "th": ""
+      },
+      "DeleteAllSavesMsg": {
+        "en": "ARE YOU SURE YOU WANT TO ERASE ALL YOUR PROGRESS? ",
+        "fr": "VOULEZ-VOUS VRAIMENT EFFACER TOUTE VOTRE PROGRESSION ? ",
+        "de": "SIND SIE SICHER, DASS SIE IHREN GESAMT-SPIELSTAND LÖSCHEN WOLLEN? ",
+        "es": "¿SEGURO QUE QUIERES BORRAR TODO LO AVANZADO? ",
+        "it": "VUOI DAVVERO CANCELLARE TUTTI I SALVATAGGI? ",
+        "th": ""
+      },
+      "ErrorSavingTitle": {
+        "en": "NOT ENOUGH FREE BLOCKS",
+        "fr": "PAS ASSEZ DE BLOCS DISPOS",
+        "de": "NICHT GENUG FREIE SPEICHERBLÖCKE",
+        "es": "NO HAY SUFICIENTES BLOQUES LIBRES",
+        "it": "BLOCCHI LIBERI INSUFFICIENTI",
+        "th": ""
+      },
+      "ErrorSavingMsg": {
+        "en": "YOUR XBOX DOESN'T HAVE ENOUGH FREE BLOCKS TO SAVE THE CHECKPOINT. SELECT \"OK\" TO FREE %i BLOCKS OR \"CANCEL\" TO TRY TO ERASE ANOTHER PROGRESS IN YOUR LIST.",
+        "fr": "VOTRE XBOX NE DISPOSE PAS DE SUFFISAMMENT DE BLOCS DISPONIBLES POUR SAUVEGARDER CE POINT DE PASSAGE. SELECTIONNEZ \"OK\" POUR LIBERER %i BLOCS, OU \"ANNULER\" POUR ESSAYER D'EFFACER UNE AUTRE PROGRESSION DANS VOTRE LISTE.",
+        "de": "IHRE XBOX VERFÜGT NICHT ÜBER GENUG SPEICHERBLÖCKE, UM DIESEN SPEICHERPUNKT ZU SICHERN. WÄHLEN SIE \"OK\", UM %i BLÖCKE ZU LÖSCHEN, ODER VERSUCHEN SIE EINEN ANDEREN SPIELSTAND IN IHRER LISTE ZU LÖSCHEN.",
+        "es": "TU XBOX NO TIENE SUFICIENTES BLOQUES LIBRES PARA GUARDAR EL CHECKPOINT. ELIGE \"ACEPTAR\" PARA LIBERAR %i BLOQUES O \"CANCELAR\" PARA GUARDAR OTRA PARTIDA DE TU LISTA.",
+        "it": "XBOX NON DISPONE DI BLOCCHI LIBERI SUFFICIENTI PER SALVARE IL CHECKPOINT. SELEZIONA \"OK\" PER LIBERARE %i BLOCCHI O \"ANNULLA\" PER CANCELLARE UN ALTRO SALVATAGGIO.",
+        "th": ""
+      },
+      "LoadSavedGameInGame": {
+        "en": "YOU ARE ABOUT TO QUIT YOUR GAME. YOUR CURRENT PROGRESS WILL BE LOST. SELECT \"OK\" TO CONTINUE OR \"CANCEL\".",
+        "fr": "VOUS VOUS APPRETEZ A QUITTER VOTRE PARTIE. SI VOUS LE FAITES, VOUS PERDREZ VOTRE PROGRESSION. SELECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\".",
+        "de": "SIE SIND DABEI DAS SPIEL ZU BEENDEN. JEDER SPIELSTAND GEHT DABEI VERLOREN. WÄHLEN SIE \"OK\" UM FORTZUFAHREN ODER \"ABBRECHEN\".",
+        "es": "VAS A ABANDONAR LA PARTIDA. PERDERÁS LO QUE HAS AVANZADO. ELIGE \"ACEPTAR\" PARA SALIR O \"CANCELAR\" PARA QUEDARTE.",
+        "it": "STAI PER USCIRE DALLA PARTITA. I PROGRESSI ANDRANNO PERDUTI. SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
+        "th": ""
+      },
+      "LoadSavedGameWrongMode": {
+        "en": "YOU CANNOT LOAD THIS SAVED GAME FROM ANOTHER GAME MODE.",
+        "fr": "IMPOSSIBLE DE CHARGER LA PARTIE SAUVEGARDEE A PARTIR D'UN AUTRE MODE DE JEU.",
+        "de": "SPIELSTAND AUS ANDEREM SPIELMODUS KANN NICHT GELADEN WERDEN.",
+        "es": "NO SE PUEDE CARGAR PARTIDA DE OTRO MODO DE JUEGO.",
+        "it": "IMPOSSIBILE CARICARE LA PARTITA SALVATA IN UN'ALTRA MODALITÀ DI GIOCO.",
+        "th": ""
+      },
+      "LoadSavedGameWrongRole": {
+        "en": "YOU CANNOT LOAD THIS SAVED GAME AS HOST SINCE YOU PLAYED AS CLIENT.",
+        "fr": "VOUS NE POUVEZ PAS CHARGER CETTE SAUVEGARDE EN TANT QU'HOTE CAR VOUS Y AVEZ JOUE EN TANT QUE CLIENT.",
+        "de": "SIE KÖNNEN DAS SPIEL NICHT ALS HOST LADEN, DA SIE ES ALS CLIENT BEGONNEN HABEN:",
+        "es": "NO PUEDES CARGAR ESTA PARTIDA GUARDADA COMO SERVIDOR PORQUE JUEGAS COMO CLIENTE.",
+        "it": "NON PUOI CARICARE QUESTO SALVATAGGIO COME HOST DATO CHE HAI GIOCATO COME CLIENT.",
+        "th": ""
+      },
+      "LoadSavedGameNotFriend": {
+        "en": "UNABLE TO LOAD SAVED GAME SINCE PLAYER IS NOT YOUR FRIEND",
+        "fr": "IMPOSSIBLE DE CHARGER LA PARTIE SAUVEGARDEE CAR CE JOUEUR N'EST PAS VOTRE AMI.",
+        "de": "SPIELSTAND KANN NICHT GELADEN WERDEN, DA ES SICH BEI DEM SPIELER NICHT UM IHREN FREUND HANDELT",
+        "es": "IMPOSIBLE CARGAR PARTIDA PORQUE EL JUGADOR NO ES TU AMIGO.",
+        "it": "IMPOSSIBILE CARICARE LA PARTITA PERCHÉ IL GIOCATORE NON È TUO AMICO.",
+        "th": ""
+      },
+      "LoadSavedGameInviteFriend": {
+        "en": "TO LOAD THIS SAVED GAME, YOU MUST INVITE YOUR FRIEND. SELECT \"OK\" TO SEND AN INVITE TO %s AND CONTINUE.",
+        "fr": "VOUS DEVEZ INVITER VOTRE AMI POUR POUVOIR CHARGER CETTE PARTIE SAUVEGARDEE. SELECTIONNEZ \"OK\" POUR ENVOYER UNE INVITATION A %s ET CONTINUER.",
+        "de": "UM DIESEN SPIELSTAND ZU LADEN, MÜSSEN SIE IHREN FREUND EINLADEN. WÄHLEN SIE \"OK\", UM %s EINZULADEN UND FORTZUFAHREN",
+        "es": "PARA CARGAR ESTA PARTIDA DEBES INVITAR A TU AMIGO. ELIGE \"ACEPTAR\" PARA ENVIAR UNA INVITACIÓN A %s Y CONTINUAR.",
+        "it": "PER CARICARE QUESTA PARTITA DEVI INVITARE IL TUO AMICO. SELEZIONA \"OK\" PER SPEDIRE UN INVITO A %s E CONTINUARE.",
+        "th": ""
+      },
+      "SavedMissingSpaceMsg": {
+        "en": "YOUR XBOX DOESN'T HAVE ENOUGH FREE BLOCKS TO SAVE %i CHECKPOINTS. SELECT \"OK\" TO FREE %i BLOCKS OR \"CANCEL\".",
+        "fr": "VOTRE XBOX NE DISPOSE PAS DE SUFFISAMMENT DE BLOCS DISPONIBLES POUR SAUVEGARDER %i POINTS DE PASSAGE. SELECTIONNEZ \"OK\" POUR LIBERER %i BLOCS, OU \"ANNULER\".",
+        "de": "IHRE XBOX VERFÜGT NICHT ÜBER GENUG SPEICHERBLÖCKE, UM DIESEN SPEICHERPUNKT ZU SICHERN. WÄHLEN SIE \"OK\", UM %i BLÖCKE FREIZUGEBEN ODER BRECHEN SIE DEN VORGANG AB.",
+        "es": "TU XBOX NO TIENE SUFICIENTES BLOQUES LIBRES PARA GUARDAR %i CHECKPOINTS. ELIGE \"ACEPTAR\" PARA LIBERAR %i BLOQUES O \"CANCELAR\" PARA ANULAR.",
+        "it": "XBOX NON DISPONE DI BLOCCHI LIBERI SUFFICIENTI PER SALVARE IL CHECKPOINT. SELEZIONA \"OK\" PER LIBERARE %i BLOCCHI O \"ANNULLA\" PER CANCELLARE UN ALTRO SALVATAGGIO.",
+        "th": ""
+      },
+      "SavedMissingSpaceDontCareMsg": {
+        "en": "IF YOU STILL WANT TO PLAY THE GAME, SELECT \"OK\" TO CONTINUE OR \"CANCEL\".",
+        "fr": "SI VOUS VOULEZ TOUJOURS JOUER CETTE PARTIE, SELECTIONNEZ \"OK\" POUR CONTINUER, OU \"ANNULER\".",
+        "de": "WENN SIE NOCH SPIELEN WOLLEN, WÄHLEN SIE \"OK\" UM FORTZUFAHREN ODER \"ABBRECHEN\".",
+        "es": "SI QUIERES JUGAR ESTA PARTIDA, ELIGE \"ACEPTAR\" PARA CONTINUAR.",
+        "it": "SE VUOI GIOCARE LO STESSO QUESTA PARTITA, SELEZIONA \"OK\" PER CONTINUARE O \"ANNULLA\".",
+        "th": ""
+      },
+      "SaveGameErrorLoadTitle": {
+        "en": "DAMAGED SAVE GAME",
+        "fr": "SAUVEGARDE ENDOMMAGEE",
+        "de": "BESCHÄDIGTER SPIELSTAND",
+        "es": "PARTIDA DAÑADA",
+        "it": "SALVATAGGIO DANNEGGIATO",
+        "th": ""
+      },
+      "SaveGameErrorLoadMsg": {
+        "en": "THIS SAVE GAME APPEARS TO BE DAMAGED AND CANNOT BE LOADED.",
+        "fr": "LA SAUVEGARDE EST ENDOMMAGEE. IL EST IMPOSSIBLE DE LA CHARGER.",
+        "de": "DIESER SPIELSTAND SCHEINT BESCHÄDIGT ZU SEIN UND KANN NICHT GELADEN WERDEN.",
+        "es": "ESTA PARTIDA PARECE DAÑADA Y NO PUEDE CARGARSE.",
+        "it": "QUESTO SALVATAGGIO È DANNEGGIATO E NON PUÒ ESSERE USATO.",
+        "th": ""
+      },
+      "SaveGameErrorSaveTitle": {
+        "en": "SAVE GAME",
+        "fr": "SAUVEGARDER LA PARTIE",
+        "de": "SPIEL SPEICHERN",
+        "es": "GUARDAR PARTIDA",
+        "it": "SALVATAGGIO",
+        "th": ""
+      },
+      "SaveGameErrorSaveMsg": {
+        "en": "UNABLE TO SAVE THIS GAME.",
+        "fr": "IMPOSSIBLE DE SAUVEGARDER CETTE PARTIE.",
+        "de": "SPIELSTAND KANN NICHT GELADEN WERDEN.",
+        "es": "IMPOSIBLE GUARDAR PARTIDA.",
+        "it": "IMPOSSIBILE SALVARE QUESTA PARTITA.",
+        "th": ""
+      },
+      "SaveModeInfo": {
+        "en": "SAVE MODE",
+        "fr": "MODE SAUVEGARDE",
+        "de": "SPEICHERMODUS",
+        "es": "MODO DE GUARDADO",
+        "it": "MODALITÀ SALVATAGGIO",
+        "th": ""
+      },
+      "TeammateInfo": {
+        "en": "TEAMMATE",
+        "fr": "COEQUIPIER",
+        "de": "TEAMKAMERAD",
+        "es": "COMPAÑERO",
+        "it": "COMPAGNO",
+        "th": ""
+      },
+      "MissionInfo": {
+        "en": "MISSION",
+        "fr": "MISSION",
+        "de": "MISSION",
+        "es": "MISIÓN",
+        "it": "MISSIONE",
+        "th": ""
+      },
+      "DifficultyInfo": {
+        "en": "DIFFICULTY",
+        "fr": "DIFFICULTÉ",
+        "de": "SCHWIERIGKEIT",
+        "es": "DIFICULTAD",
+        "it": "DIFFICOLTÀ",
+        "th": ""
+      },
+      "StatusInfo": {
+        "en": "STATUS",
+        "fr": "STATUT",
+        "de": "STATUS",
+        "es": "ESTADO",
+        "it": "SITUAZIONE",
+        "th": ""
+      },
+      "RatingInfo": {
+        "en": "RATING",
+        "fr": "SCORE",
+        "de": "BEWERTUNG",
+        "es": "CALIFICACIÓN",
+        "it": "PUNTEGGIO",
+        "th": ""
+      },
+      "TimePlayedInfo": {
+        "en": "TIME PLAYED",
+        "fr": "TEMPS DE JEU",
+        "de": "GESPIELTE ZEIT",
+        "es": "TIEMPO DE JUEGO",
+        "it": "TEMPO DI GIOCO",
+        "th": ""
+      },
+      "SaveGameNewFriend": {
+        "en": "TO BE ABLE TO PLAY THIS SAVED GAME WITH THE SAME PLAYER, YOU MUST ADD HIM TO YOUR FRIENDS LIST. DO YOU WISH TO ADD HIM TO YOUR FRIENDS LIST?",
+        "fr": "POUR POUVOIR POURSUIVRE CETTE PARTIE SAUVEGARDEE AVEC LE MEME JOUEUR, IL VOUS FAUT AJOUTER CE DERNIER A VOTRE LISTE D'AMIS. VOULEZ-VOUS LE FAIRE ?",
+        "de": "UM DIESEN SPIELSTAND MIT DEMSELBEN SPIELER WEITER ZU SPIELEN, MÜSSEN SIE IHN AUF IHRE FREUNDESLISTE SETZEN. WOLLEN SIE IHN AUF IHRE FREUNDESLISTE SETZEN?",
+        "es": "PARA JUGAR ESTA PARTIDA CON EL MISMO JUGADOR DEBES AÑADIRLE A TU LISTA DE AMIGOS. ¿QUIERES AÑADIRLE AHORA A TU LISTA?",
+        "it": "PER RIPRENDERE DA QUESTO SALVATAGGIO CON LO STESSO GIOCATORE, DEVI AGGIUNGERLO ALLA TUA LISTA AMICI. VUOI AGGIUNGERLO ALLA TUA LISTA AMICI?",
+        "th": ""
+      },
+      "HostWantSave": {
+        "en": "YOUR TEAMMATE WANTS TO PERMANENTLY SAVE THIS GAME. DO YOU WISH TO SAVE IT TOO? ",
+        "fr": "VOTRE COEQUIPIER SOUHAITE SAUVEGARDER CETTE PARTIE DE MANIERE PERMANENTE. VOULEZ-VOUS LE FAIRE, VOUS AUSSI ? ",
+        "de": "IHR TEAMKOLLEGE MÖCHTE DAS SPIEL ENDGÜLTIG SPEICHERN. SIND SIE DAMIT EINVERSTANDEN? ",
+        "es": "TU COMPAÑERO QUIERE GUARDAR PERMANENTEMENTE LA PARTIDA. ¿TÚ TAMBIÉN QUIERES GUARDARLA? ",
+        "it": "IL TUO COMPAGNO DI SQUADRA VUOLE SALVARE IN MODO PERMANENTE QUESTA PARTITA. VUOI SALVARLA ANCHE TU? ",
+        "th": ""
+      },
+      "ClientRefuseSave": {
+        "en": "YOUR TEAMMATE REFUSED TO PERMANENTLY SAVE THIS GAME. ",
+        "fr": "VOTRE COEQUIPIER A REFUSE DE SAUVEGARDER CETTE PARTIE DE MANIERE PERMANENTE. ",
+        "de": "IHR TEAMKOLLEGE WEIGERT SICH, DAS SPIEL ENDGÜLTIG ZU SPEICHERN. ",
+        "es": "TU COMPAÑERO NO HA QUERIDO GUARDAR ESTA PARTIDA. ",
+        "it": "IL TUO COMPAGNO DI SQUADRA SI E' RIFIUTATO DI SALVARE IN MODO PERMANENTE QUESTA PARTITA. ",
+        "th": ""
+      }
+    },
+    "LOADOUT": {
+      "_source": "PreGameMenus",
+      "LoadOutTitle": {
+        "en": "LOAD OUT",
+        "fr": "ARMEMENT",
+        "de": "AUSRÜSTUNGSKONFIG",
+        "es": "SELECCIONAR ARMA",
+        "it": "EQUIPAGGIAMENTO",
+        "th": ""
+      },
+      "LoadOutSubTitle": {
+        "en": "EQUIPED GEAR",
+        "fr": "MATERIEL DONT VOUS ETES EQUIPE",
+        "de": "MITGEFÜHRTE AUSRÜSTUNG",
+        "es": "DISPOSITIVO EQUIPADO",
+        "it": "OGGETTI ATTIVI",
+        "th": ""
+      },
+      "LoadOutSelTitle": {
+        "en": "EQUIPMENT SELECTION",
+        "fr": "SELECTION DE L'EQUIPEMENT",
+        "de": "AUSRÜSTUNGS-AUSWAHL",
+        "es": "SELECCIÓN DE EQUIPAMIENTO",
+        "it": "SELEZIONE EQUIPAGGIAMENTO",
+        "th": ""
+      },
+      "LoadOutAttachSelTitle": {
+        "en": "ATTACHMENT SELECTION ",
+        "fr": "SELECTION DE LA PIECE JOINTE ",
+        "de": "MODUL-ANHANG ",
+        "es": "SELECCIÓN DE ACCESORIO ",
+        "it": "SELEZIONE DISPOSITIVO ",
+        "th": ""
+      },
+      "LoadOutInfoTitle": {
+        "en": "EQUIPMENT INFO",
+        "fr": "INFOS SUR L'EQUIPEMENT",
+        "de": "AUSRÜSTUNGS-INFO",
+        "es": "DATOS DEL EQUIPAMIENTO",
+        "it": "INFORMAZIONI EQUIPAGGIAMENTO",
+        "th": ""
+      },
+      "LoadOutItemEmpty": {
+        "en": "[EMPTY]",
+        "fr": "[VIDE]",
+        "de": "[LEER]",
+        "es": "[VACÍO]",
+        "it": "[VUOTO]",
+        "th": ""
+      },
+      "LoadOutItemLocked": {
+        "en": "[LOCKED]",
+        "fr": "[VERROUILLE]",
+        "de": "[GESPERRT]",
+        "es": "[BLOQUEADO]",
+        "it": "[BLOCCATO]",
+        "th": ""
+      },
+      "LoadOutType[0]": {
+        "en": "REDDING'S RECOMMENDATION",
+        "fr": "REDDING",
+        "de": "REDDING",
+        "es": "REDDING",
+        "it": "REDDING",
+        "th": ""
+      },
+      "LoadOutType[1]": {
+        "en": "STEALTH",
+        "fr": "INFILTRATION",
+        "de": "DUCKEN",
+        "es": "SIGILO",
+        "it": "FURTIVITÀ",
+        "th": ""
+      },
+      "LoadOutType[2]": {
+        "en": "ASSAULT",
+        "fr": "ASSAUT",
+        "de": "ANGRIFF",
+        "es": "ASALTO",
+        "it": "ASSALTO",
+        "th": ""
+      },
+      "LoadOutType[3]": {
+        "en": "HOST",
+        "fr": "HOTE",
+        "de": "HOST",
+        "es": "SERVIDOR",
+        "it": "HOST",
+        "th": ""
+      },
+      "LoadOutType[4]": {
+        "en": "CLIENT",
+        "fr": "CLIENT",
+        "de": "KLIENT",
+        "es": "CLIENTE",
+        "it": "CLIENTE",
+        "th": ""
+      }
+    },
+    "BRIEFING": {
+      "_source": "PreGameMenus",
+      "BriefingTitle": {
+        "en": "BRIEFING",
+        "fr": "BRIEFING",
+        "de": "BRIEFING",
+        "es": "INFORME",
+        "it": "BRIEFING",
+        "th": ""
+      },
+      "BriefingSubTitle": {
+        "en": "BRIEFING",
+        "fr": "BRIEFING",
+        "de": "BRIEFING",
+        "es": "INFORME DE MISIÓN",
+        "it": "BRIEFING",
+        "th": ""
+      },
+      "LAMBERT": {
+        "en": "COLONEL IRVING LAMBERT",
+        "fr": "COLONEL IRVING LAMBERT",
+        "de": "COLONEL IRVING LAMBERT",
+        "es": "CORONEL IRVING LAMBERT",
+        "it": "COLONNELLO IRVING LAMBERT",
+        "th": ""
+      },
+      "GRIMSDOTTIR": {
+        "en": "ANNA GRIMSDOTTIR",
+        "fr": "ANNA GRIMSDOTTIR",
+        "de": "ANNA GRIMSDOTTIR",
+        "es": "ANNA GRIMSDOTTIR",
+        "it": "ANNA GRIMSDOTTIR",
+        "th": ""
+      },
+      "REDDING": {
+        "en": "WILLIAM REDDING",
+        "fr": "WILLIAM REDDING",
+        "de": "WILLIAM REDDING",
+        "es": "WILLIAM REDDING",
+        "it": "WILLIAM REDDING",
+        "th": ""
+      },
+      "SHETLAND": {
+        "en": "DOUGLAS SHETLAND",
+        "fr": "DOUGLAS SHETLAND",
+        "de": "DOUGLAS SHETLAND",
+        "es": "DOUGLAS SHETLAND",
+        "it": "DOUGLAS SHETLAND",
+        "th": ""
+      },
+      "OTOMO": {
+        "en": "ADMIRAL TOSHIRO OTOMO",
+        "fr": "AMIRAL TOSHIRO OTOMO",
+        "de": "ADMIRAL TOSHIRO OTOMO",
+        "es": "ALMIRANTE TOSHIRO OTOMO",
+        "it": "AMMIRAGLIO TOSHIRO OTOMO",
+        "th": ""
+      },
+      "PATRIDGE": {
+        "en": "CAPTAIN ARTHUR PARTRIDGE",
+        "fr": "CAPITAINE ARTHUR PATRIDGE",
+        "de": "CAPTAIN ARTHUR PATRIDGE",
+        "es": "CAPITÁN ARTHUR PARTRIDGE",
+        "it": "CAPITANO ARTHUR PATRIDGE",
+        "th": ""
+      },
+      "MASSON": {
+        "en": "SECRETARY FRANK MASSON",
+        "fr": "FRANK MASSON",
+        "de": "MINISTER FRANK MASSON",
+        "es": "SECRETARIO FRANK MASSON",
+        "it": "SEG. DI STATO FRANK MASON",
+        "th": ""
+      },
+      "TURTLE": {
+        "en": "THOMAS \"THE TURTLE\" STANDISH",
+        "fr": "THOMAS \"TURTLE\" STANDISH",
+        "de": "THOMAS \"TURTLE\" STANDISH",
+        "es": "THOMAS STANDISH\"EL TORTUGA\"",
+        "it": "THOMAS \"THE TURTLE\" STANDISH",
+        "th": ""
+      },
+      "Briefing_LAMBERT": {
+        "en": "COLONEL IRVING LAMBERT BRIEFING",
+        "fr": "BRIEFING DU COLONEL IRVING LAMBERT",
+        "de": "EINSATZBESPRECHUNG - COLONEL IRVING LAMBERT",
+        "es": "CORONEL IRVING LAMBERT",
+        "it": "BRIEFING DEL COLONNELLO IRVING LAMBERT",
+        "th": ""
+      },
+      "Briefing_GRIMSDOTTIR": {
+        "en": "ANNA GRIMSDOTTIR BRIEFING",
+        "fr": "BRIEFING D'ANNA GRIMSDOTTIR",
+        "de": "EINSATZBESPRECHUNG - ANNA GRIMSDOTTIR",
+        "es": "EXPEDIENTE DE ANNA GRIMSDOTTIR",
+        "it": "BRIEFING DI ANNA GRIMSDOTTIR",
+        "th": ""
+      },
+      "Briefing_REDDING": {
+        "en": "WILLIAM REDDING BRIEFING",
+        "fr": "BRIEFING DE WILLIAM REDDING",
+        "de": "EINSATZBESPRECHUNG - WILLIAM REDDING",
+        "es": "EXPEDIENTE DE WILLIAM REDDING",
+        "it": "BRIEFING DI WILLIAM REDDING",
+        "th": ""
+      },
+      "Briefing_SHETLAND": {
+        "en": "DOUGLAS SHETLAND BRIEFING",
+        "fr": "BRIEFING DE DOUGLAS SHETLAND",
+        "de": "EINSATZBESPRECHUNG - DOUGLAS SHETLAND",
+        "es": "EXPEDIENTE DE DOUGLAS SHETLAND",
+        "it": "BRIEFING DI DOUGLAS SHETLAND",
+        "th": ""
+      },
+      "Briefing_OTOMO": {
+        "en": "ADMIRAL TOSHIRO OTOMO BRIEFING",
+        "fr": "BRIEFING DE L'AMIRAL TOSHIRO OTOMO",
+        "de": "EINSATZBESPRECHUNG - ADMIRAL TOSHIRO OTOMO",
+        "es": "ALMIRANTE TOSHIRO OTOMO",
+        "it": "BRIEFING DELL'AMMIRAGLIO TOSHIRO OTOMO",
+        "th": ""
+      },
+      "Briefing_PATRIDGE": {
+        "en": "CAPTAIN ARTHUR PARTRIDGE BRIEFING",
+        "fr": "BRIEFING DU CAPITAINE ARTHUR PARTRIDGE",
+        "de": "EINSATZBESPRECHUNG - CAPTAIN ARTHUR",
+        "es": "EXPEDIENTE DEL CAPITÁN ARTHUR PARTRIDGE",
+        "it": "BRIEFING DEL CAPITANO ARTHUR PARTRIDGE",
+        "th": ""
+      },
+      "Briefing_MASSON": {
+        "en": "MASSON BRIEFING",
+        "fr": "BRIEFING DE MASSON",
+        "de": "EINSATZBESPRECHUNG - MASSON",
+        "es": "EXPEDIENTE MASSON",
+        "it": "BRIEFING DI MASON",
+        "th": ""
+      },
+      "Briefing_TURTLE": {
+        "en": "THOMAS \"THE TURTLE\" STANDISH BRIEFING",
+        "fr": "BRIEFING DE THOMAS \"TURTLE\" STANDISH",
+        "de": "EINSATZBESPRECHUNG - THOMAS \"TURTLE\" STANDISH",
+        "es": "EXPEDIENTE DE THOMAS STANDISH, \"EL TORTUGA\"",
+        "it": "BRIEFING DI THOMAS \"THE TURTLE\" STANDISH",
+        "th": ""
+      }
+    },
+    "TRAINING": {
+      "_source": "PreGameMenus",
+      "TrainingVideos": {
+        "en": "TRAINING VIDEOS",
+        "fr": "VIDEOS ENTRAINEMENT",
+        "de": "AUSBILDUNGSVIDEOS",
+        "es": "VIDEOS ENTRENAMIENTO",
+        "it": "VIDEO DI ALLENAMENTO",
+        "th": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_meta": {
+    "category": "opsat",
+    "name": "d3ddrv",
+    "sources": [
+      "D3DDrv"
+    ],
+    "total_strings": 5
+  },
+  "sections": {
+    "Public": {
+      "_source": "D3DDrv",
+      "Object": {
+        "en": "(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Preferences": {
+        "en": "(Caption=\"Rendering\",Parent=\"Advanced Options\")",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "D3DRenderDevice": {
+      "_source": "D3DDrv",
+      "ClassCaption": {
+        "en": "\"Direct3D Support\"",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "AskInstalled": {
+        "en": "Do you want to use Direct3D?",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "AskUse": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    }
+  }
+}

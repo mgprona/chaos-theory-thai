@@ -1,0 +1,362 @@
+{
+  "_meta": {
+    "category": "opsat",
+    "name": "training",
+    "sources": [
+      "Training"
+    ],
+    "total_strings": 40
+  },
+  "sections": {
+    "VIDEOSTEALTHBASICS": {
+      "_source": "Training",
+      "Name": {
+        "en": "STEALTH BASICS",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEOATHLETICMOVES": {
+      "_source": "Training",
+      "Name": {
+        "en": "ATHLETIC MOVES",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEOFIREMOVEMENT": {
+      "_source": "Training",
+      "Name": {
+        "en": "FIRE AND MOVEMENT",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEOHACKING": {
+      "_source": "Training",
+      "Name": {
+        "en": "HACKING",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEODOORS": {
+      "_source": "Training",
+      "Name": {
+        "en": "DOORS",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEOCLOSERTHANEVEN": {
+      "_source": "Training",
+      "Name": {
+        "en": "CLOSER THAN EVER",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEOCOOLMOVE": {
+      "_source": "Training",
+      "Name": {
+        "en": "COOL MOVES",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEOEQUIPMENT1": {
+      "_source": "Training",
+      "Name": {
+        "en": "EQUIPMENT 1",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEOEQUIPMENT2": {
+      "_source": "Training",
+      "Name": {
+        "en": "EQUIPMENT 2",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "VIDEOWHATNOTTODO": {
+      "_source": "Training",
+      "Name": {
+        "en": "WHAT NOT TO DO",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[0]": {
+        "en": "TODO...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[1]": {
+        "en": "TODO PART2...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "Description[2]": {
+        "en": "TODO PART3...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    }
+  }
+}

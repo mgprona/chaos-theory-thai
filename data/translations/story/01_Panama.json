@@ -1,0 +1,1402 @@
+{
+  "_meta": {
+    "category": "story",
+    "name": "01_Panama",
+    "sources": [
+      "01_Panama",
+      "P_01_Panama"
+    ],
+    "total_strings": 168
+  },
+  "sections": {
+    "GENERAL": {
+      "_source": "01_Panama",
+      "MapName": {
+        "en": "PANAMA",
+        "fr": "PANAMA",
+        "de": "PANAMA",
+        "es": "PANAMÁ",
+        "it": "PANAMA",
+        "th": ""
+      },
+      "Briefing_LAMBERT": {
+        "en": "LAMBERT - Welcome to the big leagues. I know you’re both still in training, but something’s come up, and we don’t have any other assets available. We recently recovered evidence from the MCAS Bank of Panama indicating that Vice President Senor Segundo Ruiz de Medeiros has been accepting bribes to allow ships to bypass spot inspections as they move through the Canal Zone. We need to find any records that Senor de Medeiros might have kept.",
+        "fr": "Bienvenue chez les professionnels ! Je sais que vous êtes encore à l'entraînement, mais nous avons besoin de quelqu'un et il n'y a que vous. Nous avons récemment reçu la preuve que le señor Segundo Ruiz de Medeiros, vice-président de la banque panaméenne MCAS, acceptait des pots-de-vin pour soustraire certains navires à l'inspection obligatoire à l'entrée du canal. Il nous faut ses registres, si jamais il en tient.",
+        "de": "Willkommen bei den Profis. Ich weiß, dass ihr beide euch noch in der Ausbildung befindet, aber es hat einen Zwischenfall gegeben und ihr seid die zurzeit einzig verfügbaren Einsatzkräfte. Vor kurzem haben wir in der MCAS-Bank von Panama Beweise sichergestellt, die darauf hinweisen, dass Vizepräsident Señor Segundo Ruiz de Medeiros Bestechungsgelder dafür angenommen hat, dass er Schiffe auf ihrem Weg durch die Kanalzone vor Inspektionen schützte. Wir müssen alle Unterlagen finden, die Señor de Medeiros über diese Vorgänge aufbewahrt haben könnte.",
+        "es": "Bienvenidos a primera división, muchachos. Sé que aún os estáis entrenando, pero ha surgido algo y no tenemos a más agentes, así que os toca jugar. Nos han llegado pruebas del Banco MCAS de Panamá que demuestran que el vicepresidente Segundo Ruiz de Medeiros ha estado recibiendo sobornos para permitir que algunos barcos atraviesen el canal sin ser inspeccionados. Hay que encontrar los registros de cuentas de Medeiros.",
+        "it": "Benvenuti in serie A. So che siete entrambi ancora in addestramento, ma è successo qualcosa di grave e non abbiamo altro personale disponibile. Recentemente abbiamo saputo, tramite la MCAS Bank di Panama, che il vice presidente Señor Segundo Ruiz de Medeiros ha accettato bustarelle per permettere a certe navi di oltrepassare punti di ispezione nella zona del Canale. Dobbiamo trovare qualunque tipo di registrazione che il Señor de Medeiros ha conservato.",
+        "th": ""
+      }
+    },
+    "Computer": {
+      "_source": "01_Panama",
+      "CompAccessingTheArchives": {
+        "en": "Accessing The Archives",
+        "fr": "Accéder aux archives",
+        "de": "Auf das Archiv zugreifen",
+        "es": "Accediendo a los archivos...",
+        "it": "Accesso agli archivi",
+        "th": ""
+      },
+      "CompAccessingTheServer": {
+        "en": "Accessing The Server",
+        "fr": "Accéder au serveur",
+        "de": "Auf den Server zugreifen",
+        "es": "Accediendo al servidor...",
+        "it": "Accesso al server",
+        "th": ""
+      }
+    },
+    "Email": {
+      "_source": "01_Panama",
+      "EmailSecSystemeBody": {
+        "en": "I don’t know what idiot thought of this, but the breaker for shutting down the laser grid in an emergency is INSIDE the grid itself... unless I have some kind of high tech microwave ray that could interfere with the breaker, then I’m just stuck in there until the day shift comes in... how the heck am I supposed to take a leak?",
+        "fr": "Je ne sais pas quel est l'idiot qui a eu cette idée de génie, mais le disjoncteur permettant de couper les lasers en cas d'urgence se trouve A L'INTERIEUR de la zone qu'ils quadrillent ! Autrement dit, si je n'ai pas sur moi un genre de rayon à micro-ondes pour griller le disjoncteur de loin, je suis coincé ici jusqu'à l'arrivée de l'équipe de jour... comment je fais, si j'ai envie d'aller pisser, hein ?",
+        "de": "Keine Ahnung, welcher Volltrottel sich das ausgedacht hat, aber der Notschalter für die Deaktivierung des Lasernetzes befindet sich im Netz selber... Ohne High-Tech-Mikrowellenstrahlen kann ich das Ding nicht erreichen und muss hier warten, bis die Tagschicht anmarschiert... Super. Und was, wenn ich mal strullen muss?",
+        "es": "No sé a qué imbécil se le habrá ocurrido esto, pero el mecanismo para desactivar la rejilla láser en caso de emergencia ¡está DENTRO de la propia rejilla! Como no encuentre un rayo microondas de alta tecnología, me quedaré aquí hasta el día del juicio final. ¿Y cómo se supone que voy a salir?",
+        "it": "Non so chi sia l'idiota responsabile, ma l'interruttore per bloccare la griglia laser in caso di emergenza si trova ALL'INTERNO della griglia... a meno di avere un qualche raggio a microonde per agire sull'interruttore, sono bloccato qui fino al turno della mattina... e come faccio ad andare al cesso?",
+        "th": ""
+      },
+      "EmailSecSystemeDate": {
+        "en": "June 28th, 2007",
+        "fr": "28/06/2007",
+        "de": "28. Juni 2007",
+        "es": "28 de junio de 2007",
+        "it": "28 giugno 2007",
+        "th": ""
+      },
+      "EmailSecSystemeFrom": {
+        "en": "Neron",
+        "fr": "Neron",
+        "de": "Neron",
+        "es": "Neron",
+        "it": "Neron",
+        "th": ""
+      },
+      "EmailSecSystemeSubject": {
+        "en": "Exposition Hall Security",
+        "fr": "Sécurité de la salle d'expo",
+        "de": "Sicherheit in der Ausstellungshalle",
+        "es": "Segurid. en sala exposic.",
+        "it": "Sicurezza della sala mostra",
+        "th": ""
+      },
+      "EmailSecSystemeTo": {
+        "en": "Jose",
+        "fr": "Jose",
+        "de": "Jose",
+        "es": "Jose",
+        "it": "Jose",
+        "th": ""
+      },
+      "EmailTempABody": {
+        "en": "H... Sorry I misunderstood. The door code to get into the Exposition Area is 2341.",
+        "fr": "H... Pardon, j'ai mal compris. Le code de la porte de la salle d'exposition est le 2341.",
+        "de": "Hi... Sorry, hab ich wohl falsch verstanden. Der Türcode für den Ausstellungsbereich ist 2341.",
+        "es": "Esto... Lo siento, lo entendí mal. El código de la puerta para entrar en el área de exposiciones es 2341.",
+        "it": "H... Scusa, ho capito male. Il codice della porta per l'area esposizioni è 2341.",
+        "th": ""
+      },
+      "EmailTempADate": {
+        "en": "June 28th, 2007",
+        "fr": "28/06/2007",
+        "de": "28. Juni 2007",
+        "es": "28 de junio de 2007",
+        "it": "28 giugno 2007",
+        "th": ""
+      },
+      "EmailTempAFrom": {
+        "en": "Juan",
+        "fr": "Juan",
+        "de": "Juan",
+        "es": "Juan",
+        "it": "Juan",
+        "th": ""
+      },
+      "EmailTempASubject": {
+        "en": "RE: Door code to server room",
+        "fr": "RE: Code de la salle du serveur",
+        "de": "AW: Türcode für den Serverraum",
+        "es": "RE: Código sala servidor",
+        "it": "RE: Codice: stanza server",
+        "th": ""
+      },
+      "EmailTempATo": {
+        "en": "Hermes",
+        "fr": "Hermes",
+        "de": "Hermes",
+        "es": "Hermes",
+        "it": "Hermes",
+        "th": ""
+      },
+      "EmailTempBBody": {
+        "en": "Hey... I got the code to the hall that will let us into the billiard room... and from the billiard room we can get into the lounge with the big screen TV... you want to watch the match tonight? Door code is 1523.",
+        "fr": "Hé ! J'ai le code du couloir, qui nous permettra d'entrer dans la salle de billard. Et, de là, on pourra accéder au salon pour regarder la télé grand écran. Ça te dit de voir le match, ce soir ? Le code de la porte est le 1523.",
+        "de": "Hallo... Ich hab den Code für die Halle, von der aus wir in den Billardraum kommen... Und von da aus kommen wir in die Lounge mit dem GroSSbildfernseher... Hast du Bock, heute Abend das Spiel zu sehen? Der Türcode ist 1523.",
+        "es": "¡Eh! Tengo el códígo del pasillo que lleva a la sala de billar. Y desde ahí podemos ir a la sala que tiene la pantalla de TV grande... ¿Quieres ver esta noche el partido? El código es 1523.",
+        "it": "Ehi... ho il codice per la sala che porta alla stanza del biliardo... e dalla stanza del biliardo possiamo entrare nel salone col megaschermo... vuoi guardare la partita stasera? Il codice è 1523.",
+        "th": ""
+      },
+      "EmailTempBDate": {
+        "en": "June 28th, 2007",
+        "fr": "28/06/2007",
+        "de": "28. Juni 2007",
+        "es": "28 de junio de 2007",
+        "it": "28 giugno 2007",
+        "th": ""
+      },
+      "EmailTempBFrom": {
+        "en": "Franco",
+        "fr": "Franco",
+        "de": "Franco",
+        "es": "Franco",
+        "it": "Franco",
+        "th": ""
+      },
+      "EmailTempBSubject": {
+        "en": "Tonight's match",
+        "fr": "Match de ce soir",
+        "de": "Spiel heute Abend",
+        "es": "Partido de esta noche",
+        "it": "Partita di stasera",
+        "th": ""
+      },
+      "EmailTempBTo": {
+        "en": "Julio",
+        "fr": "Julio",
+        "de": "Julio",
+        "es": "Julio",
+        "it": "Julio",
+        "th": ""
+      },
+      "EmailTempCBody": {
+        "en": "Juan... I KNOW the door code to get OUT of the server room to the Exposition hall is 1534... I need the door code to get into the Exposition Area...",
+        "fr": "Juan... Je sais bien que le code de la porte reliant la salle du serveur et la salle d'exposition est le 1534... Ce que je cherche, c'est celui qui permet d'ENTRER dans la salle d'expo...",
+        "de": "Juan... Ich WEISS, dass man 1534 eingeben muss, wenn man aus DEM Serverraum RAUS in die Ausstellungshalle will... Ich brauch aber den Türcode, um IN den Ausstellungsbereich zu kommen...",
+        "es": "Ya sé que el código para SALIR de la sala del servidor al área de exposiciones es 1534... El que necesito es el código para ENTRAR en la sala de exposiciones.",
+        "it": "Juan... LO SO che il codice per USCIRE dalla stanza dei server verso la sala esposizioni è 1534... mi serve il codice per ENTRARE nella sala esposizioni...",
+        "th": ""
+      },
+      "EmailTempCDate": {
+        "en": "June 28th, 2007",
+        "fr": "28/06/2007",
+        "de": "28. Juni 2007",
+        "es": "28 de junio de 2007",
+        "it": "28 giugno 2007",
+        "th": ""
+      },
+      "EmailTempCFrom": {
+        "en": "Hermes",
+        "fr": "Hermes",
+        "de": "Hermes",
+        "es": "Hermes",
+        "it": "Hermes",
+        "th": ""
+      },
+      "EmailTempCSubject": {
+        "en": "Door code to server room",
+        "fr": "Code de la salle du serveur",
+        "de": "Türcode für den Serverraum",
+        "es": "Código puerta sala servidor",
+        "it": "Codice per stanza server",
+        "th": ""
+      },
+      "EmailTempCTo": {
+        "en": "Juan",
+        "fr": "Juan",
+        "de": "Juan",
+        "es": "Juan",
+        "it": "Juan",
+        "th": ""
+      }
+    },
+    "P_01_Panama_AlarmSystem": {
+      "_source": "P_01_Panama",
+      "POPUPMESSAGE_0001": {
+        "en": "Alarm Stage One.",
+        "fr": "Niveau d'alerte 1",
+        "de": "Alarmstufe Eins",
+        "es": "Alarma de nivel uno",
+        "it": "Allarme di primo livello",
+        "th": ""
+      },
+      "POPUPMESSAGE_0002": {
+        "en": "Alarm Stage Two: Enemies Equipping Body Armor.",
+        "fr": "Niveau d'alerte 2 - les ennemis mettent leurs armures",
+        "de": "Alarmstufe Zwei – Feinde legen Körperpanzer an",
+        "es": "Alarma de nivel dos - El enemigo se coloca el chaleco.",
+        "it": "Allarme di secondo livello - I nemici indossano il giubbotto antiproiettile",
+        "th": ""
+      },
+      "Note_0003L": {
+        "en": "Enemies are wearing body armor.",
+        "fr": "Les ennemis portent une armure.",
+        "de": "Die Gegner tragen eine Körperpanzerung.",
+        "es": "Los enemigos llevan chalecos blindados.",
+        "it": "I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0004": {
+        "en": "Alarm Stage Three: Enemies Equipping Helmets.",
+        "fr": "Niveau d'alerte 3 - les ennemis mettent leurs casques",
+        "de": "Alarmstufe Drei – Feinde setzen Helme auf",
+        "es": "Alarma de nivel tres - El enemigo se coloca el casco.",
+        "it": "Allarme di terzo livello - I nemici indossano l'elmetto",
+        "th": ""
+      },
+      "Note_0005L": {
+        "en": "Enemies are wearing helmets.",
+        "fr": "Les ennemis portent un casque.",
+        "de": "Die Gegner tragen Helme.",
+        "es": "Los enemigos llevan cascos.",
+        "it": "I NEMICI INDOSSANO L'ELMETTO.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0006": {
+        "en": "Alarm Stage Four: Enemies Fortifying Positions.",
+        "fr": "Niveau d'alerte 4 - alerte rouge - les ennemis renforcent leurs positions",
+        "de": "Alarmstufe Vier – GroSSalarm – Feinde nehmen befestigte Positionen ein",
+        "es": "Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.",
+        "it": "Allarme di quarto livello - Allerta - I nemici stanno creando delle difese",
+        "th": ""
+      },
+      "Note_0007L": {
+        "en": "Enemies have fortified their positions.",
+        "fr": "Les ennemis ont renforcé leurs positions.",
+        "de": "Die Gegner haben ihre Stellungen befestigt.",
+        "es": "Los enemigos han reforzado sus posiciones.",
+        "it": "I NEMICI HANNO CREATO DELLE DIFESE.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_Communications": {
+      "_source": "P_01_Panama",
+      "Speech_0024L": {
+        "en": "Listen up. To make the grade as an official (unofficial) Splinter Cell, you need to keep a low profile. Your first objective is to get information from the Archives. Do not, under any circumstances, kill Vice President de Medeiros.",
+        "fr": "Ecoutez, pour intégrer l'une de nos cellules secrètes, il vous faut savoir être discret. Votre première mission consiste à aller chercher des renseignements dans les archives. Ne tuez surtout pas le vice-président de Medeiros.",
+        "de": "Hört zu. Um euch endgültig als offizielle, oder besser gesagt, inoffizielle Splinter Cell zu beweisen, müsst ihr unbedingt unauffällig vorgehen. Euer erstes Missionsziel ist die Sicherstellung von Informationen aus dem Archiv. Ihr dürft Vizepräsident de Medeiros unter keinen Umständen töten.",
+        "es": "Para licenciaros como agentes Splinter Cell, tenéis que actuar con mucha discreción. Vuestro primer objetivo es conseguir información de los archivos. Pase lo que pase, no debéis matar al vicepresidente Medeiros.",
+        "it": "Ascoltatemi bene. Per diventare Splinter Cell ufficiali... o meglio, non ufficiali, dovete imparare a non farvi notare. Il vostro primo obiettivo è ottenere informazioni dagli Archivi. In nessun caso dovrete uccidere il vice presidente de Medeiros.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "This is the Archive room. The easiest way in will be to use the Vice President himself on one of those scanners. Anyone else in the building will do for the other.",
+        "fr": "Voici la salle des archives. Le meilleur moyen d'y entrer est de forcer le vice-président à utiliser un de ces scanners. Pour le second, il faut quelqu'un d'autre du bâtiment.",
+        "de": "Dies ist das Archiv. Ihr werdet am einfachsten dort hineinkommen, indem ihr den Vizepräsidenten selbst einen dieser Scanner benutzen lasst. Für den anderen reicht eine beliebige andere Person aus diesem Gebäude aus.",
+        "es": "Ésa es la sala del archivo. La forma más fácil de entrar es hacer que el propio vicepresidente pase por un escáner. Para el otro escáner sirve cualquier trabajador del edificio.",
+        "it": "Questo è l'Archivio. Il modo più semplice di entrare sarebbe usare lo stesso vice presidente su uno degli scanner. Qualunque altra persona presente nell'edificio andrà bene per l'altro scanner.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "Well, this is the Archive room, but with the Vice President unconscious, you're going to need to hack through those scanners.",
+        "fr": "Voici la salle des archives, mais comme le vice-président est évanoui, il va vous falloir utiliser vos compétences informatiques sur ces scanners.",
+        "de": "Das ist das Archiv. Aber da der Vizepräsident bewusstlos ist, werdet ihr diese Scanner hacken müssen.",
+        "es": "Ésa es la sala del archivo. Como el vicepresidente está inconsciente, tendréis que hackear esos escáners.",
+        "it": "Beh, questo è l'Archivio, ma se il vice presidente è svenuto dovrete cercare di manomettere gli scanner.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "Here's the Archive room. Use the Vice President on one of the scanners. Anyone else in the building will do for the other.",
+        "fr": "Voici la salle des archives. Forcez le vice-président à utiliser un de ces scanners. Pour le second, il faudra quelqu'un d'autre du bâtiment.",
+        "de": "Hier ist das Archiv. Zwingt den Vizepräsidenten, einen der Scanner zu benutzen. Für den anderen reicht eine beliebige Person aus dem Gebäude aus.",
+        "es": "Ésta es la sala del archivo. Haced que el vicepresidente pase por un escáner. Cualquier trabajador del edificio os servirá para el otro escáner.",
+        "it": "Ecco l'Archivio. Usate il vice presidente su uno degli scanner. Qualunque altra persona presente nell'edificio andrà bene per l'altro.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "Use the Vice President on one of the scanners. Anyone else in the building will do for the other.",
+        "fr": "Forcez le vice-président à utiliser un de ces scanners. Pour le second, il faudra quelqu'un d'autre du bâtiment.",
+        "de": "Lasst den Vizepräsidenten einen der Scanner benutzen. Für den anderen reicht eine beliebige Person aus diesem Gebäude aus.",
+        "es": "Haced que el vicepresidente pase por un escáner. Cualquiera del edificio os servirá para el otro.",
+        "it": "Usate il vice presidente su uno degli scanner. Qualunque altra persona presente nell'edificio andrà bene per l'altro.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "You need to activate both scanners at the same time.",
+        "fr": "Il faut activer les deux scanners en même temps.",
+        "de": "Ihr müsst beide Scanner gleichzeitig aktivieren.",
+        "es": "Tenéis que activar los dos escáners a la vez.",
+        "it": "Dovete attivare entrambi gli scanner nello stesso momento.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "Good job. Now access the Archives and we'll see what we can find out.",
+        "fr": "Beau travail. Maintenant, accédez aux archives et voyons ce qu'elles contiennent.",
+        "de": "Gute Arbeit. Betretet das Archiv; mal sehen, was wir herausfinden können.",
+        "es": "Buen trabajo. Ahora entrad en los archivos, a ver qué averiguáis.",
+        "it": "Ottimo lavoro. Ora entrate nell'Archivio e vediamo cosa riusciamo a trovare.",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "Damn. It looks like these files are incomplete. The Archives were backed up the Main Server this morning. You'll need to access it. First floor, other side of the building.",
+        "fr": "On dirait que ces fichiers sont incomplets. Ce matin, les archives ont été sauvegardées sur le serveur principal. Accédez-y. Il est au rez-de-chaussée, à l'autre bout du bâtiment.",
+        "de": "Verdammt. Sieht so aus, als seien die Daten unvollständig. Sie wurden heute Morgen zusätzlich auf dem Hauptserver gesichert. Ihr müsst ihn anzapfen. Er ist im Erdgeschoss, auf der anderen Seite des Gebäudes.",
+        "es": "Me temo que esos archivos están incompletos. Esta mañana hicieron un volcado al servidor principal. Tenéis que entrar en él. Primer piso, al otro lado del edificio.",
+        "it": "Maledizione. Questi file non sono completi. L'Archivio è stato copiato nel Server Principale stamattina. Dovrete accedere a quello. Primo piano, dall'altra parte dell'edificio.",
+        "th": ""
+      },
+      "Speech_0025L": {
+        "en": "You're straying out of you're A.O. You need to access the Archives before we can plan our next move.",
+        "fr": "Vous vous écartez de votre plan de mission. Allez aux archives pour voir ce qu'il vous faut faire.",
+        "de": "Ihr verlasst euer Einsatzgebiet. Ihr müsst das Archiv durchsuchen, bevor wir unseren nächsten Schritt planen können.",
+        "es": "Os estáis alejando del área de operaciones. Tenéis que entrar al archivo antes de seguir adelante.",
+        "it": "State deviando dall'obiettivo assegnato. Dovete accedere agli Archivi prima che possiamo pianificare la vostra prossima mossa.",
+        "th": ""
+      },
+      "Speech_0026L": {
+        "en": "This is some kind of emergency fire door. Don't stray from you're A.O. Get to the Archive room.",
+        "fr": "C'est une porte à incendie. Ne déviez pas de votre plan de mission. Allez aux archives.",
+        "de": "Dies ist so eine Art Brandschutztür. Entfernt euch nicht aus eurem Einsatzgebiet. Geht zum Archiv.",
+        "es": "Ésa es una puerta de incendios. No os alejéis del área de operaciones. Id a la sala del archivo.",
+        "it": "Questa è una specie di porta d'emergenza antincendio. Non deviate dall'obiettivo assegnato. Andate all'Archivio.",
+        "th": ""
+      },
+      "Speech_0014L": {
+        "en": "Not good. The Senor is taking bribes from half the... my god! Jong Pom-chu! that's a name I didn't want to see. Get back to the truck for extraction, I might have another mission for you.",
+        "fr": "Mauvais, ça. Il accepte des pots-de-vin de la moitié des... seigneur, Jong Pom-chu ! S'il y avait un nom que je ne voulais pas voir... Retournez au camion pour votre extraction, j'ai une autre mission pour vous.",
+        "de": "Das ist nicht gut. Der Señor nimmt von allen möglichen Leuten Bestechungsgelder ... mein Gott ... Jong Pom-chu ... das ist ein Name, den ich nicht unbedingt sehen wollte. Geht zurück zum Lastwagen. Ich habe vielleicht einen weiteren Auftrag für euch.",
+        "es": "No me gusta. Medeiros ha aceptado sobornos de media... Dios mío, Jong Pom-chu. No esperaba encontrarme ese nombre. Volved al camión para la salida. Tengo otra misión para vosotros.",
+        "it": "Non sono buone notizie. Il Señor sta prendendo bustarelle da metà del... Mio Dio... Jong Pom-chu... è un nome che preferivo non leggere. Tornate al camion per l'estrazione, potrei avere un'altra missione per voi.",
+        "th": ""
+      },
+      "Speech_0015L": {
+        "en": "God Dammit! I told you not to kill the Vice President. Neither one of you will ever qualify as full-fledged Splinter Cells. Mission Over!",
+        "fr": "Bon sang ! Je vous avais bien dit de ne pas tuer le vice-président ! Mission terminée, et jamais vous ne rejoindrez une cellule !",
+        "de": "Verdammt noch mal. Ich hatte euch doch gesagt, dass ihr den Vizepräsidenten nicht töten sollt. Keiner von euch wird sich jemals als Splinter Cell qualifizieren. Mission beendet!",
+        "es": "¡Os dije que no matarais al vicepresidente! Ninguno de los dos va a licenciarse como Splinter Cell. ¡Misión cancelada!",
+        "it": "Maledizione! Vi avevo detto di non uccidere il vice presidente! Nessuno di voi due si qualificherà mai come Splinter Cell. Missione terminata!",
+        "th": ""
+      },
+      "Speech_0016L": {
+        "en": "Well, too late now, but someone with that level of access is usually more useful to you when he's conscious. Keep it in mind for next time.",
+        "fr": "C'est trop tard, maintenant, mais les gens à autorisation d'accès élevée sont plus utiles conscients. Souvenez-vous en pour la prochaine fois.",
+        "de": "Nun, jetzt ist es zu spät, aber jemand mit solchen Befugnissen ist normalerweise von größerem Nutzen, wenn er bei Bewusstsein ist. Merkt euch das für das nächste Mal.",
+        "es": "Aunque ya es un poco tarde, os recuerdo que una persona que tiene acceso a niveles reservados suele ser más útil cuando no está inconsciente.",
+        "it": "Beh, adesso è troppo tardi, ma qualcuno con quel livello di accesso di solito vi è più utile quando è sveglio. Ricordatevelo la prossima volta.",
+        "th": ""
+      },
+      "Speech_0027L": {
+        "en": "What are you doing? Now you won't be able to use him on the retinal scanners outside the Archive room. Not smart.",
+        "fr": "Qu'est-ce que vous faites ? Il ne vous sera d'aucune utilité pour ce qui est du scanner rétinien des archives, maintenant. Mal vu.",
+        "de": "Was tut ihr da? Jetzt könnt ihr ihn nicht mehr zwingen, den Retina-Scanner zu verwenden.",
+        "es": "¿Qué hacéis? Ya no podéis pasar por los escáners de retina que hay junto a la sala del archivo. ",
+        "it": "Ma che fate? Ora non potrete servirvi di lui sugli scanner retinici dell'Archivio. Pessima mossa.",
+        "th": ""
+      },
+      "Speech_0017L": {
+        "en": "Before you go destroying everything, remember that enemy computer systems are valuable sources of intelligence.",
+        "fr": "Avant de tout détruire, souvenez-vous qu'il y a souvent des informations à récupérer dans les ordinateurs ennemis.",
+        "de": "Bevor ihr weitermacht und alles vernichtet, solltet ihr daran denken, dass feindliche Computersysteme wertvolle Informationsquellen darstellen.",
+        "es": "Antes de que lo destrocéis todo, os recuerdo que los ordenadores son una fuente de información muy valiosa.",
+        "it": "Prima che distruggiate tutto, ricordatevi che i sistemi informatici nemici sono preziose fonti di informazioni.",
+        "th": ""
+      },
+      "Speech_0021L": {
+        "en": "Welcome to the big leagues. I know you're both still in training, but something's come up, and we don't have any other assets available. We recently recovered evidence from the MCAS Bank of Panama indicating that Vice President Senor Segundo Ruiz de Medeiros has been accepting bribes to allow ships to bypass spot inspections as they move through the Canal Zone. We need to find any records that Senor de Medeiros might have kept.",
+        "fr": "Bienvenue chez les professionnels ! Je sais que vous êtes encore à l'entraînement, mais nous avons besoin de quelqu'un et il n'y a que vous. Nous avons récemment reçu la preuve que le señor Segundo Ruiz de Medeiros, vice-président de la banque panaméenne MCAS, acceptait des pots-de-vin pour soustraire certains navires à l'inspection obligatoire à l'entrée du canal. Il nous faut ses registres, si jamais il en tient.",
+        "de": "Willkommen bei den Profis. Ich weiß, dass ihr beide euch noch in der Ausbildung befindet, aber es hat einen Zwischenfall gegeben und ihr seid die zurzeit einzig verfügbaren Einsatzkräfte. Vor kurzem haben wir in der MCAS-Bank von Panama Beweise sichergestellt, die darauf hinweisen, dass Vizepräsident Señor Segundo Ruiz de Medeiros Bestechungsgelder dafür angenommen hat, dass er Schiffe auf ihrem Weg durch die Kanalzone vor Inspektionen schützte. Wir müssen alle Unterlagen finden, die Señor de Medeiros über diese Vorgänge aufbewahrt haben könnte.",
+        "es": "Bienvenidos a primera división, muchachos. Sé que aún os estáis entrenando, pero ha surgido algo y no tenemos a más agentes, así que os toca jugar. Nos han llegado pruebas del Banco MCAS de Panamá que demuestran que el vicepresidente Segundo Ruiz de Medeiros ha estado recibiendo sobornos para permitir que algunos barcos atraviesen el canal sin ser inspeccionados. Hay que encontrar los registros de cuentas de Medeiros.",
+        "it": "Benvenuti in serie A. So che siete entrambi ancora in addestramento, ma è successo qualcosa di grave e non abbiamo altro personale disponibile. Recentemente abbiamo saputo, tramite la MCAS Bank di Panama, che il vice presidente Señor Segundo Ruiz de Medeiros ha accettato bustarelle per permettere a certe navi di oltrepassare punti di ispezione nella zona del Canale. Dobbiamo trovare qualunque tipo di registrazione che il Señor de Medeiros ha conservato.",
+        "th": ""
+      },
+      "Speech_0022L": {
+        "en": "...in other news, Director Liu of the Chinese National Space Administration publicly offered to attempt a rescue of the astronauts stranded aboard the International Space Station, stating that the CNSA has a Shenzhue rocket which could be fueled and prepped for emergency launch within seventy-two hours... as yet there has been no response from NASA or ESA officials.",
+        "fr": "... Monsieur Liu, le directeur de l'administration spatiale chinoise, la CNSA, a proposé publiquement de tenter de secourir les astronautes piégés à bord de la station spatiale internationale. Il a expliqué que la CNSA disposait d'une fusée Shenzhue pouvant être tirée dans les soixante-douze heures. Les responsables de la NASA et de l'ESA n'ont pas encore apporté de réponse à cette offre.",
+        "de": "... weitere Meldungen: ... Direktor Liu von der Nationalen Chinesischen Raumfahrtbehörde hat heute offiziell die Hilfe seines Landes bei der Rettung der Astronauten angeboten, die in der Internationalen Weltraumstation festsitzen. Er erklärte, dass eine Shenzhue-Rakete innerhalb von 72 Stunden für einen Notfallstart betankt und vorbereitet werden könne ... zurzeit gibt es dazu weder von der NASA noch von der ESA eine Stellungnahme.",
+        "es": "El señor Liu, director de la Agencia Espacial China, ha ofrecido sus servicios para intentar el rescate de los astronautas atrapados en la Estación Espacial Internacional. Según Liu, China dispone de un cohete Shen Zhue que podría estar listo para un lanzamiento de emergencia en setenta y dos horas. Ni la NASA ni la Agencia Espacial Europea han respondido por el momento.",
+        "it": "...cambiamo argomento... Il direttore dell'Agenzia Spaziale Nazionale Cinese Liu si è offerto pubblicamente di tentare il recupero degli astronauti bloccati sulla stazione spaziale internazionale, sostenendo che l'ASNC ha a disposizione un razzo Shenzhue che potrebbe essere rifornito e preparato per un lancio di emergenza entro settantadue ore... ancora non si è avuta risposta da parte delle autorità della NASA e dell'ESA.",
+        "th": ""
+      },
+      "Speech_0023L": {
+        "en": "MCAS Banco de Panama filed an insurance claim today against the theft of fifty-million dollars in negotiable government bearer bonds from their vault last night. The bonds are reported to be the property of the government of France. Investigation into the spectacular theft, and who might have committed it, are ongoing. ",
+        "fr": "La MCAS Banco de Panama a porté plainte auprès de son assurance suite au vol, au cours de la nuit dernière, de cinquante millions de dollars en bons au porteur dans sa salle des coffres. Ces bons seraient la propriété du gouvernement français. L'enquête se poursuit sur ce vol spectaculaire... ",
+        "de": "Die MCAS-Bank von Panama hat heute, wegen des Diebstahls von fünfzig Millionen Dollar in übertragbaren Regierungs-Inhaberobligationen aus ihrem Tresor letzte Nacht, Versicherungsansprüche geltend gemacht. Die Wertpapiere sind unseren Informationen nach Eigentum der französischen Regierung. Die Ermittlungen in diesem spektakulären Raub und die Suche nach den Tätern dauern noch an. ",
+        "es": "El Banco MCAS de Panamá ha denunciado ante la compañía de seguros el robo de bonos por valor de cincuenta millones de dólares, que anoche fueron sustraídos de la cámara acorazada. Los bonos pertenecían al gobierno francés. Las investigaciones sobre este espectacular robo ya están en marcha. ",
+        "it": "MCAS Banco de Panama ha sporto denuncia assicurativa oggi contro il furto di cinquanta milioni di dollari in titoli al portatore rubati ieri notte dal loro caveau. Pare che i titoli siano proprietà del governo francese. Continuano le indagini su questo furto e sui possibili autori. ",
+        "th": ""
+      },
+      "Speech_0028L": {
+        "en": "Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.",
+        "fr": "Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.",
+        "de": "Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.",
+        "es": "Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.",
+        "it": "Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_LockerRoom": {
+      "_source": "P_01_Panama",
+      "Speech_0001L": {
+        "en": "It's your first night, right?",
+        "fr": "C'est ta première nuit, hein ?",
+        "de": "Das ist deine erste Nacht, stimmt's?",
+        "es": "Tu primera noche, ¿verdad?",
+        "it": "E' il tuo primo turno di notte, eh?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "Yeah. Anything I should know?",
+        "fr": "Oui. Y'a des trucs à savoir ?",
+        "de": "Ja. Gibt es irgendwas, das ich wissen sollte?",
+        "es": "Sí. ¿Hay algo que deba saber?",
+        "it": "Già. C'è qualcosa che dovrei sapere?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Ha. Yeah. Watch out for the VP. He's losing his mind, I think.",
+        "fr": "Fais juste gaffe au vice-président. Il perd un peu la boule.",
+        "de": "Ha! Ja. Nimm dich vor dem Vizepräsidenten in Acht. Ich glaube, er verliert seinen Verstand.",
+        "es": "Sí. Cuidado con el vicepresidente. Está mal de la cabeza.",
+        "it": "Ha. Come no. Attento al vice presidente. Sta diventando matto, credo.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Good to know. Where is he?",
+        "fr": "C'est bon à savoir. Où il est ?",
+        "de": "Gut zu wissen. Wo ist er?",
+        "es": "Es bueno saberlo. ¿Dónde está?",
+        "it": "Buono a sapersi. Dov'è?",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "His office is down one floor, opposite the second floor security post.",
+        "fr": "Son bureau est en dessous, en face du poste de sécurité du premier.",
+        "de": "Sein Büro befindet sich eine Etage weiter unten, gegenüber dem Sicherheitsposten auf der ersten Etage.",
+        "es": "Tiene el despacho abajo, en el segundo piso, enfrente del control.",
+        "it": "Il suo ufficio è al piano di sotto, di fronte alla postazione di sicurezza del secondo piano.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "Is it just me, or have you noticed that the VP is acting a little weird?",
+        "fr": "Je me fais des idées, ou est-ce que le vice-président est bizarre ?",
+        "de": "Bilde ich mir das ein, oder ist dir auch schon aufgefallen, dass sich der Vizepräsident etwas merkwürdig benimmt?",
+        "es": "¿Es cosa mía, o últimamente el vicepresidente hace cosas extrañas?",
+        "it": "Sono io, o hai notato anche tu che il vicepresidente si comporta in modo strano?",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "What? You mean installing motion sensors in the meeting room and the exposition room?",
+        "fr": "Tu parles du fait qu'il ait installé des détecteurs de mouvement dans les salles de réunion et d'exposition ?",
+        "de": "Was? Du meinst die Installation von Bewegungsmeldern im Besprechungs- und im Ausstellungsraum?",
+        "es": "¿Te refieres a los sensores de movimiento que ha puesto en la sala de juntas y en la exposición?",
+        "it": "In che senso? Vuoi dire perchè ha installato i sensori di movimento nella sala riunioni e nella sala mostre?",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "Exactly. Not like him to spend money on security.",
+        "fr": "Oui. Ça lui ressemble pas, de dépenser de l'argent pour ça.",
+        "de": "Ganz genau. Er ist sonst gar nicht der Typ, Geld für Sicherheit auszugeben.",
+        "es": "Sí. Nunca se había gastado tanto dinero en seguridad.",
+        "it": "Esattamente. Non è da lui spendere soldi in sicurezza.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "He's probably figured out that its cheaper to buy a couple motion sensors than it is to pay us.",
+        "fr": "Il a dû calculer que ça lui reviendrait moins cher d'acheter des capteurs que de nous payer correctement.",
+        "de": "Er hat vermutlich herausgefunden, dass es billiger ist, ein paar Bewegungsmelder zu kaufen, als uns zu bezahlen.",
+        "es": "Habrá pensado que le sale más barato comprar un par de sensores que subirnos el sueldo.",
+        "it": "Probabilmente ha scoperto che costa meno comprare un paio di sensori di movimento che pagare noi.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "So what's this crap I hear about motion sensors?",
+        "fr": "C'est quoi, cette histoire de détecteurs de mouvement ?",
+        "de": "Also, was ist das für ein Schwachsinn, den ich über Bewegungsmelder höre?",
+        "es": "¿Qué historia es ésa de los sensores de movimiento?",
+        "it": "Cos'è questa storia dei sensori di movimento?",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "Ah... the VP went and installed a bunch of them... meeting room next to his office... in the exposition room... who knows where else.",
+        "fr": "Le vice-président en a fait installer dans la salle de réunion à côté de son bureau... dans la salle des expositions, aussi... et peut-être ailleurs.",
+        "de": "Äh ... der Vizepräsident hat einige davon installieren lassen ... Besprechungsraum neben seinem Büro ... im Ausstellungsraum ... Keine Ahnung, wo noch.",
+        "es": "El vicepresidente los ha instalado en la sala de juntas que hay al lado de su despacho, en la exposición y no sé si en algún sitio más.",
+        "it": "Ah, il vice presidente ne ha fatti installare alcuni... nella sala riunioni di fianco al suo ufficio... nella sala mostre... Dio sa dove altro.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "So how are we supposed to patrol there?",
+        "fr": "Et comment on est censés patrouiller, nous, hein ?",
+        "de": "Und wie sollen wir dann hier unsere Runden machen?",
+        "es": "¿Tenemos que patrullar esa zona o no?",
+        "it": "E come controlliamo là dentro?",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "You need to get someone to disable them before you go through.",
+        "fr": "Il faut que quelqu'un désactive les capteurs avant qu'on arrive.",
+        "de": "Du musst jemandem finden, der sie abstellt, bevor du durchgehst.",
+        "es": "Para pasar por ahí, te los tienen que desactivar antes.",
+        "it": "Cerchi qualcuno che te li disattivi prima di entrare.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_MeetingRoom": {
+      "_source": "P_01_Panama",
+      "Note_0004L": {
+        "en": "Records recovered from MCAS Bank indicate that Vice President de Medeiros of the Panama Canal Administration has been accepting bribes to allow certain vessels to bypass inspection. Echelon would like to investigate this threat more closely.",
+        "fr": "Les registres de la banque MCAS indiquent que de Medeiros, le vice-président de l'administration du canal de Panama, accepte des pots-de-vin afin de protéger certains navires des inspections. Echelon 3 aimerait creuser cette piste de plus près.",
+        "de": "Anhand von sichergestellten Unterlagen der MCAS-Bank scheint der Vizepräsident der Verwaltung des Panamakanals, ein gewisser Herr de Medeiros, Bestechungsgelder dafür angenommen zu haben, dass er Schiffe auf ihrem Weg durch die Kanalzone vor Inspektionen schützte. Echelon würde sich diese Bedrohung gerne näher ansehen.",
+        "es": "Los registros hallados en el banco MCAS de Panamá indican que el vicepresidente Medeiros ha aceptado sobornos para que algunos cargueros no pasen la inspección obligatoria. Echelon quiere saber qué se esconde detrás de este trato.",
+        "it": "I registri recuperati alla MCAS Bank indicano che il vicepresidente Medeiros dell'Amministrazione del Canale di Panama ha accettato bustarelle per permettere a certe navi di ignorare l'ispezione. Echelon vorrebbe investigare meglio questa minaccia.",
+        "th": ""
+      },
+      "Note_0005L": {
+        "en": "The key code between the server room side and the Exposition area is 1534.",
+        "fr": "Le code de la porte reliant la salle du serveur à la salle d'exposition est le 1534.",
+        "de": "Der Türcode zwischen dem Serverraum und dem Ausstellungsbereich lautet 1534.",
+        "es": "El código del paso entre el lateral de la sala del servidor y el área de exposiciones es 1534.",
+        "it": "Il codice tra la stanza dei server e l'area mostre è 1534.",
+        "th": ""
+      },
+      "Note_0006L": {
+        "en": "The key code in the hall outside the billiards room is 1523.",
+        "fr": "Le code de la porte du couloir de la salle de billard est le 1523.",
+        "de": "Der Türcode vor dem Billardraum in der Halle lautet 1523.",
+        "es": "El código del pasillo de la sala de billar es 1523.",
+        "it": "Il codice nella hall fuori dalla sala del biliardo è 1523.",
+        "th": ""
+      },
+      "Note_0007L": {
+        "en": "The key code inside the Exposition area is 2341.",
+        "fr": "Le code de la porte de la salle d'exposition est le 2341.",
+        "de": "Der Türcode im Ausstellungsbereich: 2341.",
+        "es": "El código en el interior de la zona de exposiciones es 2341.",
+        "it": "Il codice all'interno dell'area mostre è 2341.",
+        "th": ""
+      },
+      "Note_0008L": {
+        "en": "The key code between the VP\u0019s Office and his gallery is 3245.",
+        "fr": "Le code de la porte reliant le bureau du vice-président au couloir est le 3245.",
+        "de": "Der Türcode zwischen dem Büro des VP und seiner Galerie lautet 3245.",
+        "es": "El código entre la oficina del vicepresidente y la galería es 3245.",
+        "it": "Il codice tra l'ufficio del vicepresidente e la sua galleria è 3245.",
+        "th": ""
+      },
+      "Note_0009L": {
+        "en": "The key code to the VP\u0019s private elevator access is 3298.",
+        "fr": "Le code permettant d'accéder à l'ascenseur privé du vice-président est le 3298.",
+        "de": "Der Türcode für den privaten Aufzug des VP lautet 3298.",
+        "es": "El código del ascensor privado del presidente es 3298.",
+        "it": "Il codice per l'ascensore privato del vicepresidente è 3298.",
+        "th": ""
+      },
+      "Note_0010L": {
+        "en": "Disable the laser grid using the Jammer.",
+        "fr": "Mettez les lasers hors service à l'aide de votre brouilleur.",
+        "de": "Deaktivieren Sie das Lasernetz mit dem Störsender.",
+        "es": "Desactiva la rejilla láser con el interferidor.",
+        "it": "Disattiva la griglia di laser con il jammer.",
+        "th": ""
+      },
+      "Note_0011L": {
+        "en": "The key code between the VP\u0019s Office and his gallery is 3245.",
+        "fr": "Le code de la porte reliant le bureau du vice-président au couloir est le 3245.",
+        "de": "Der Türcode zwischen dem Büro des VP und seiner Galerie lautet 3245.",
+        "es": "El código entre la oficina del vicepresidente y la galería es 3245.",
+        "it": "Il codice tra l'ufficio del vicepresidente e la sua galleria è 3245.",
+        "th": ""
+      },
+      "Note_0012L": {
+        "en": "The key code to the VP\u0019s private elevator access is 3298.",
+        "fr": "Le code permettant d'accéder à l'ascenseur privé du vice-président est le 3298.",
+        "de": "Der Türcode für den privaten Aufzug des VP lautet 3298.",
+        "es": "El código del ascensor privado del presidente es 3298.",
+        "it": "Il codice per l'ascensore privato del vicepresidente è 3298.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0013": {
+        "en": "Access the archives.",
+        "fr": "ACCÉDEZ AUX ARCHIVES.",
+        "de": "ERLANGEN SIE ZUGRIFF AUF DIE ARCHIVE.",
+        "es": "ACCEDE A LOS ARCHIVOS.",
+        "it": "ACCEDERE AGLI ARCHIVI.",
+        "th": ""
+      },
+      "POPUPMESSAGE_0014": {
+        "en": "Access the main server.",
+        "fr": "Accédez au serveur principal",
+        "de": "Greifen Sie auf den Hauptserver zu.",
+        "es": "Accede al servidor principal.",
+        "it": "Accedi al server principale",
+        "th": ""
+      },
+      "POPUPMESSAGE_0015": {
+        "en": "Exfiltrate to the primary extraction point.",
+        "fr": "Rejoignez le point d'extraction principal.",
+        "de": "Verlassen Sie das Einsatzgebiet über den primären Extraktionspunkt.",
+        "es": "Sal hacia el punto de extracción principal.",
+        "it": "Rientra al punto di estrazione primario.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_Objectives": {
+      "_source": "P_01_Panama",
+      "Objective_0001": {
+        "en": "Access the archives.",
+        "fr": "Accédez aux archives",
+        "de": "Greifen Sie auf das Archiv zu.",
+        "es": "Accede a los archivos.",
+        "it": "Accedi agli archivi",
+        "th": ""
+      },
+      "Objective_0021": {
+        "en": "Access the Archives in the East Wing, top floor, to discover the extent of VP de Medieros' corruption.",
+        "fr": "Accédez aux Archives situées au dernier étage de l'aile est afin de découvrir l'étendue de la corruption du vice-président de Medeiros.",
+        "de": "Begeben Sie sich in das Archiv im oberen Stockwerk des Ostflügels und finden Sie heraus, wie korrupt de Medieros wirklich ist.",
+        "es": "Accede a los archivos del ala este, planta superior, para descubrir hasta dónde llega la trama de corrupción de Medeiros.",
+        "it": "Accedi agli archivi dell'Ala Est, ultimo piano, per scoprire l'estensione della corruzione del vicepresidente Medeiros.",
+        "th": ""
+      },
+      "Objective_0019": {
+        "en": "Access the main server.",
+        "fr": "Accédez au serveur principal",
+        "de": "Greifen Sie auf den Hauptserver zu.",
+        "es": "Accede al servidor principal.",
+        "it": "Accedi al server principale",
+        "th": ""
+      },
+      "Objective_0022": {
+        "en": "The data in the Archives is partially deleted. Access the server backups, past the Exposition Room on the ground floor. ",
+        "fr": "Les données des archives ont été partiellement effacées. Accédez au serveur de secours, qui se trouve au rez-de-chaussée, de l'autre côté de la salle d'exposition. ",
+        "de": "Die Daten im Archiv sind teilweise gelöscht worden. Prüfen Sie die Sicherungsdateien auf dem Server. Dieser befindet sich im Erdgeschoss hinter dem Ausstellungsraum. ",
+        "es": "Los datos de los archivos han sido borrados parcialmente. Consigue los backups de los servidores, pasada la sala de exposiciones, planta calle. ",
+        "it": "I dati negli archivi sono parzialmente cancellati. Accedi ai backup sui server oltre la sala mostre al piano terra. ",
+        "th": ""
+      },
+      "Objective_0020": {
+        "en": "Exfiltrate to the primary extraction point.",
+        "fr": "Rejoignez le point d'extraction principal.",
+        "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
+        "es": "Ve al punto de extracción primario.",
+        "it": "Vai al punto di estrazione primario.",
+        "th": ""
+      },
+      "Objective_0023": {
+        "en": "Exfiltrate back to the truck in the exterior courtyard.",
+        "fr": "Retournez au camion de la cour extérieure.",
+        "de": "Begeben Sie sich dann zu dem Lastwagen im äuSSeren Hofbereich.",
+        "es": "Sal y ve hacia el camión del patio exterior.",
+        "it": "Ritorna al camion nel cortile esterno per l'estrazione.",
+        "th": ""
+      },
+      "Objective_0024": {
+        "en": "Recover information about other uninspected ships",
+        "fr": "Récupérez des informations sur les autres navires non inspectés.",
+        "de": "Beschaffen Sie Informationen über andere nicht inspizierte Schiffe.",
+        "es": "Consigue información sobre los cargueros no inspeccionados.",
+        "it": "Trova le informazioni sulle navi non controllate.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_Outside": {
+      "_source": "P_01_Panama",
+      "Speech_0001L": {
+        "en": "Ah... rain. Sure is nice...",
+        "fr": "Ah, la pluie... j'adore.",
+        "de": "Ah ... Regen. Wirklich schön ...",
+        "es": "¡Qué bien, un poco de lluvia!",
+        "it": "Ah... piove. Che bello...",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "What? Are you crazy? It's a monsoon out there... it's terrible... it's like being in a shower.",
+        "fr": "Tu es dingue, ou quoi ? C'est une véritable mousson ! Pire que d'être sous la douche !",
+        "de": "Was? Hast du sie noch alle? Da draußen wütet der reinste Monsun ... es ist furchtbar ... als würde man unter der Dusche stehen.",
+        "es": "¿Tú estás loco? ¡Ahí fuera hay un diluvio! Es como meterte debajo de la ducha.",
+        "it": "Ma che, sei matto? C'è il monsone, là fuori... è terribile... sembra di stare sotto la doccia.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Well that's why I like it. It washes away your stink. Haha.",
+        "fr": "Au moins, ça te débarrasse de ta crasse ! Ha, ha, ha !",
+        "de": "Nun, deswegen mag ich den Regen ja so gern. Wäscht deinen Gestank weg. Haha.",
+        "es": "Por eso lo decía. Así olerás un poco mejor. Ja ja ja.",
+        "it": "Ecco perchè mi piace. Lava via la tua puzza. Haha.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Shut up.",
+        "fr": "La ferme !",
+        "de": "Halt die Klappe.",
+        "es": "Cállate.",
+        "it": "Ma stai zitto.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "If you like it so much, why don't you do a few laps.",
+        "fr": "Si tu aimes autant ça, va donc faire un tour dehors.",
+        "de": "Wenn er dir so gefällt, warum drehst du dann nicht ein paar Runden.",
+        "es": "Si te gusta tanto, ¿por qué no haces tú la ronda?",
+        "it": "Se ti piace così tanto, perchè non ti fai un giro?",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "It's not the rain I'm worried about... it's the lightning.",
+        "fr": "C'est pas la pluie, qui me gêne, c'est la foudre.",
+        "de": "Es ist nicht der Regen, der mir Sorgen macht ... es sind die Blitze.",
+        "es": "La lluvia no me molesta, pero los rayos sí.",
+        "it": "Non è la pioggia che mi preoccupa... sono i fulmini.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "Even more reason why it should be your turn now.",
+        "fr": "Raison de plus pour que ce soit ton tour.",
+        "de": "Ein weiterer Grund, warum du jetzt gehen solltest.",
+        "es": "Razón de más para que hagas tú la ronda ahora.",
+        "it": "Una ragione in più per cui dovrebbe essere il tuo turno, adesso.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "Yeah. But the reason that matters is I have seniority.",
+        "fr": "Oui... sauf que l'ancienneté est de mon côté.",
+        "de": "Ja, aber das Einzige, was zählt, ist, dass ich einen höheren Rang habe.",
+        "es": "Yo soy el más antiguo, así que cállate.",
+        "it": "Sì. Ma quel che conta è che il più anziano sono io.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "I'll say. I love the way it makes the surfaces shine.",
+        "fr": "J'adore comme tout brille quand elle tombe.",
+        "de": "Ja, finde ich auch. Ich liebe es, wie er die Oberflächen glänzen lässt.",
+        "es": "Me gusta cómo hace que brille todo.",
+        "it": "Guarda, è bellissimo come fa brillare le superfici.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "I like everything gets a kind of reflective sheen.",
+        "fr": "C'est comme si elle faisait naître des reflets partout.",
+        "de": "Ja, ich mag das auch, wie alles so eine Art reflektierenden Glanz bekommt.",
+        "es": "Es como si todo fuera un espejo.",
+        "it": "Mi piace come tutte le superfici diventano... riflettenti.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "Sure is beautiful.",
+        "fr": "Oui, c'est très beau.",
+        "de": "Ist wirklich schön.",
+        "es": "Es bonito, sí.",
+        "it": "Sì, è bello davvero.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_SecurityRoom01": {
+      "_source": "P_01_Panama",
+      "Speech_0002L": {
+        "en": "So what do you think is going on with Senor de Medeiros these days?",
+        "fr": "A ton avis, c'est quoi, le problème du señor de Medeiros, ces temps-ci ?",
+        "de": "Also, was glaubst du, was mit Señor de Medeiros in letzter Zeit los ist?",
+        "es": "¿Qué crees que le pasa últimamente a Medeiros?",
+        "it": "Cosa pensi stia succedendo al Señor de Medeiros di questi tempi?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "What do you mean?",
+        "fr": "Comment ça ?",
+        "de": "Was meinst du damit?",
+        "es": "¿A qué te refieres?",
+        "it": "Cosa vuoi dire?",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Well haven't you noticed he's acting paranoid?",
+        "fr": "Tu n'as pas vu qu'il était devenu parano ?",
+        "de": "Nun, ist dir nicht aufgefallen, dass er sich in letzter Zeit irgendwie paranoid verhält?",
+        "es": "¿No has notado que actúa como un paranoico?",
+        "it": "Non hai notato che si comporta come un paranoico?",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "I'd be paranoid too if I was making deals with the kind of people he's making deals with.",
+        "fr": "Moi aussi, je le serais, si je passais des marchés avec les mêmes gens que lui.",
+        "de": "Ich wäre auch paranoid, wenn ich mit solchen Leuten Geschäfte machen würde wie er.",
+        "es": "Teniendo en cuenta el tipo de gente con la que trata, no es raro que esté paranoico.",
+        "it": "Sarei paranoico anch'io se trattassi con la gente con cui tratta lui.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "I heard his dogs are sick.",
+        "fr": "Je crois que ses chiens sont malades.",
+        "de": "Ich hörte, dass seine Hunde krank sind.",
+        "es": "Tiene a los perros enfermos.",
+        "it": "Ho sentito dire che i suoi cani stanno male.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "Oh... that's why the dogs aren't around.",
+        "fr": "Oh, c'est pour ça qu'ils ne sont plus là, alors.",
+        "de": "Oh ... deswegen sind die Hunde nicht da.",
+        "es": "Ah... Por eso no andan por aquí.",
+        "it": "Ah... Ecco perchè non sono in giro.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "Yep.",
+        "fr": "Oui.",
+        "de": "Ja.",
+        "es": "Sí.",
+        "it": "Già.",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "And that's probably why he installed that motion sensors in the meeting room.",
+        "fr": "Et ça explique aussi la présence des capteurs dans la salle de réunion.",
+        "de": "Und vielleicht hat er deshalb diese Bewegungsmelder im Besprechungsraum installiert.",
+        "es": "Por eso habrá instalado sensores de movimiento en la sala de juntas.",
+        "it": "E probabilmente per questo motivo ha fatto installare quei sensori di movimento nella sala riunioni.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "Exactly.",
+        "fr": "Exactement.",
+        "de": "Ganz genau.",
+        "es": "Exacto.",
+        "it": "Esatto.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "I don't know. I don't even care. He's a jerk.",
+        "fr": "Je ne sais pas et je m'en fiche. C'est un débile.",
+        "de": "Keine Ahnung. Ist mir auch egal. Er ist ein Idiot.",
+        "es": "Ni lo sé ni me importa. Es insoportable.",
+        "it": "Non lo so. Non me ne importa neanche molto. È un idiota.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "Actually, he's not so bad... he just seems to be disturbed.",
+        "fr": "Il est pas méchant, je trouve. Juste perturbé.",
+        "de": "Ach, eigentlich ist er gar nicht so übel ... er scheint nur ein wenig beunruhigt zu sein.",
+        "es": "No es tan mala persona. Aunque parece un poco alterado.",
+        "it": "Mah, in realtà non è neanche male... sembra solo un po' disturbato.",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "Not so bad? Spending all that money on the renovations, expanding his private collection... and he won't even fix the air conditioning right over our heads.",
+        "fr": "Pas méchant ? Il claque tout ce fric pour les rénovations et pour agrandir sa collection privée, mais pour ce qui est de réparer notre ventilateur, que dalle !",
+        "de": "Nicht so übel? Verschwendet all das Geld für Renovierungen, vergrößert seine Privatsammlung ... und denkt nicht einmal daran, das Ventilationssystem über unseren Köpfen zu reparieren.",
+        "es": "¿Que no es tan malo? Se gasta una fortuna en reformas y en su colección privada, y no molesta en arreglarnos el aire acondicionado.",
+        "it": "Neanche male? Spende tutti i soldi in restauri, ingrandisce la sua collezione privata... e non aggiusta neanche il condizionatore sopra la tua testa.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_SoccerGame": {
+      "_source": "P_01_Panama",
+      "Speech_0001L": {
+        "en": "Alright... good. Okay... over to the striker! Did you see that pass!",
+        "fr": "Bien... ouais ! Allez, centre. Tu as vu cette passe ?",
+        "de": "Sehr gut ... gut. Okay ... rüber zum Stürmer! Hast du diesen Pass gesehen!",
+        "es": "¡Venga, venga, muy bien, al delantero! ¿Has visto qué pase?",
+        "it": "Bene.. Benone. Okay... Via, passate in avanti! Hai visto quel passaggio?",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "Oh look! C'mon! C'mon! ",
+        "fr": "Oh, regarde ! Vas-y, vas-y ! ",
+        "de": "Oh, schau dir das an! Komm schon! Komm schon! ",
+        "es": "¡Vamos, vamos! ",
+        "it": "Oh guarda! Via! Via! ",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Go! Go!",
+        "fr": "Go, go !",
+        "de": "Los! Los!",
+        "es": "¡Sigue!",
+        "it": "Vai! Vai!",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "YEAHHHH!!!!!",
+        "fr": "OUAIIIIIS !!!",
+        "de": "JAAAAAAAAAA!!!!!!!!!",
+        "es": "¡SÍIIII!",
+        "it": "SIII!!!!",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "YEAHHHH!!!!!",
+        "fr": "OUAIIIIIS !!!",
+        "de": "JAAAAAAAAAA!!!!!!!!!",
+        "es": "¡BIEEEN!",
+        "it": "SIII!!!!",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "Alright, just get it out.",
+        "fr": "Ressortez le ballon, bon sang !",
+        "de": "Okay, nur weg damit.",
+        "es": "Venga, sácala ya.",
+        "it": "Bene, adesso portatela fuori.",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "No problem... no problem... c'mon... get him... No!",
+        "fr": "Pas de problème, un petit tacle et... non !",
+        "de": "Kein Problem ... kein Problem ... komm schon ... hol ihn dir ... nein!",
+        "es": "No te líes, vamos, vamos. A por él. ¡No!",
+        "it": "Tranquillo, tranquillo... andiamo... prendilo... No!",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "Nonononononono!",
+        "fr": "Non, non, non, non, non !",
+        "de": "Neinneinneinneinnein!",
+        "es": "¡Nonononononono!",
+        "it": "Nonononononono!",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "Look out! Arrgghhhh!",
+        "fr": "Attention ! Ahhhhhhhhhhh !",
+        "de": "Pass auf! Arrgghhhh!",
+        "es": "¡Pero hombre, no! ",
+        "it": "Attento! Arrgghhhh!",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "Noooooooo!",
+        "fr": "Noooooooooooooooon !",
+        "de": "Neeeeeeeeeein!",
+        "es": "¡Noooooooo!",
+        "it": "Noooooooo!",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "I'm going to kill myself.",
+        "fr": "Je vais me tirer une balle !",
+        "de": "Ich bringe mich um.",
+        "es": "Esto es desesperante.",
+        "it": "Credo che mi suiciderò.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "Ok... good... up the side...",
+        "fr": "Bien joué, cette passe sur l'aile.",
+        "de": "Okay ... gut ... über die Flanke ...",
+        "es": "Vamos, a la banda...",
+        "it": "Ok... bene... sul lato...",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "Now back to the middle... good...",
+        "fr": "Et maintenant, le centre... super !",
+        "de": "Jetzt zurück in die Mitte ... gut ...",
+        "es": "Devuélvela al centro. ¡Bien!",
+        "it": "Ora di nuovo al centro... bene...",
+        "th": ""
+      },
+      "Speech_0014L": {
+        "en": "Hey! Penalty! That was a penalty!!",
+        "fr": "Hé ! Péno ! Y'a péno, là !",
+        "de": "Hey! Foul! Das war ein Foul!",
+        "es": "¡Eh, penalty! ¡Eso ha sido penalty!",
+        "it": "Ehi! Fallo! Era fallo!!",
+        "th": ""
+      },
+      "Speech_0015L": {
+        "en": "Come on! Damn ref! Are you blind!",
+        "fr": "Bon sang, mais t'es miro, l'arbitre ?",
+        "de": "Komm schon! Verdammter Schiedsrichter! Bist du blind!?",
+        "es": "¡Árbitro, huevón, comprado!",
+        "it": "Andiamo! Arbitro! Ma sei cieco?",
+        "th": ""
+      },
+      "Speech_0016L": {
+        "en": "I can't believe it... he got away with it!",
+        "fr": "Je peux pas le croire... même pas un carton !",
+        "de": "Ich kann es nicht fassen ... er kommt damit durch!",
+        "es": "¡Pero si se lo ha llevado por delante!",
+        "it": "Non ci credo... l'ha passata liscia!",
+        "th": ""
+      },
+      "Speech_0017L": {
+        "en": "Oh! Oh yeah... pass it... ok! No! No... to the striker.",
+        "fr": "Ouais, vas-y, passe... allez... non, à l'avant-centre, crétin !",
+        "de": "Oh! Oh, ja ... abgeben ... okay! Nein! Nein ... an den Stürmer.",
+        "es": "¡Venga, pásala ya! No, hombre, no, al delantero.",
+        "it": "Oh! Oh sì... passala... ok! No! No... al centravanti.",
+        "th": ""
+      },
+      "Speech_0018L": {
+        "en": "Yeah... here we go... yeah... yeah... c'mon... ooohhh...",
+        "fr": "Ouais... c'est bon, ça... allez, allez... oups, attention !",
+        "de": "Ja ... so ist gut ... ja ... ja ... komm schon ... ooooh ...",
+        "es": "Vámonos, vámonos ya. Regatéale. ¡Carajo!",
+        "it": "Sì... ecco... sì... sì... andiamo... ooohhh...",
+        "th": ""
+      },
+      "Speech_0019L": {
+        "en": "Ok... good... good... no... bad! Bad! Oh... phew.",
+        "fr": "OK... bien... aïe, ça, c'est pas bon du tout ! Ouf...",
+        "de": "Okay ... gut ... gut ... nein ... schlecht! Schlecht! Oh! ... pfffff.",
+        "es": "Muy bien, muy bien... ¡Pero a ése no, hombre!",
+        "it": "Ok... bene... bene... no... male! Male! Oh... fiuuu.",
+        "th": ""
+      },
+      "Speech_0020L": {
+        "en": "All right. That's it. Control it. Okay. Good.",
+        "fr": "Allez, hop, un petit contrôle... la classe !",
+        "de": "Ja, ja! Genau so! Ball halten. Okay. Gut.",
+        "es": "Vale, vale. Mira cómo ha controlado el balón.",
+        "it": "Bene. Proprio così. Controllala. Okay. Bene.",
+        "th": ""
+      },
+      "Speech_0021L": {
+        "en": "Get him. Okay. Get him. Get him get him. Good, oh no.",
+        "fr": "Allez, bon sang, tacle-le ! Qu'est-ce que t'attends ?",
+        "de": "Schnapp ihn dir. Okay. Schnapp ihn dir. Gut, oh nein.",
+        "es": "Pero éntrale, hombre. Éntrale ya. ¡No, que se te va!",
+        "it": "Prendilo. Okay. Prendilo. Prendilo prendilo. Bene, oh no.",
+        "th": ""
+      },
+      "Speech_0022L": {
+        "en": "Up the side... up the side... no! What the--",
+        "fr": "Sur l'aile, sur l'aile ! Non ! Qu'est-ce que...",
+        "de": "Über die Flanke ... über die Flanke ...nein! Was zum ...",
+        "es": "A la banda, a la banda. ¡No, hombre, no!",
+        "it": "Sulla fascia... sulla fascia... no! Ma che--",
+        "th": ""
+      },
+      "Speech_0023L": {
+        "en": "Okay... throw in. Yeah... whoa... okay that was close.",
+        "fr": "Allez, belle touche ! Bien... houlà, c'était juste !",
+        "de": "Okay ... Einwurf. Ja ... puh ... okay, das war knapp.",
+        "es": "¡Pero tira de una vez! ¡Guau! ¡Ésa ha ido cerca!",
+        "it": "Okay... buttala dentro. Sì... whoa... okay c'è mancato un pelo.",
+        "th": ""
+      },
+      "Speech_0024L": {
+        "en": "C'mon, I got a hundred balboas in this game.",
+        "fr": "Allez, j'ai misé 100 balboas sur cette partie, moi !",
+        "de": "Komm schon, ich habe einhundert Balboas auf dieses Spiel gewettet.",
+        "es": "He ganado cien balboas con este partido.",
+        "it": "Andiamo, ho messo cento balboa su questa partita!",
+        "th": ""
+      }
+    },
+    "P_01_PAnama_TalkingToSecurityChief": {
+      "_source": "P_01_Panama",
+      "Speech_0001L": {
+        "en": "Everything checks out. All secure. Only got the rain to keep us company.",
+        "fr": "Tout va bien, aucun problème. Rien que la pluie pour nous tenir compagnie.",
+        "de": "Alles im grünen Bereich. Alles sicher. Nur der Regen leistet uns Gesellschaft.",
+        "es": "Todo está en orden. La única novedad es que llueve.",
+        "it": "Tutto a posto, tutto tranquillo. C'è solo la pioggia a tenerci compagnia.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "What a night. Hot. Humid. Pouring rain. Glad I'm on the inside shift.",
+        "fr": "Quelle nuit ! Chaude, humide, et des trombes d'eau ! Quel pot d'être à l'intérieur.",
+        "de": "Was für eine Nacht. Heiß. Feucht. Es gießt in Strömen. Bin froh, dass ich Innendienst habe.",
+        "es": "Vaya nochecita. Bochorno, lluvia. Menos mal que me ha tocado dentro.",
+        "it": "Che razza di notte. Calda. Umida. Pioggia torrenziale. Meno male che sono di turno dentro.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Gonna be a long one tonight. Boring.",
+        "fr": "On est partis pour s'ennuyer ferme, ce soir...",
+        "de": "Wird eine lange Nacht werden. Langweilig.",
+        "es": "Va a ser una noche muy aburrida.",
+        "it": "Sarà lunga, stanotte. Sarà una noia.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Hm... must be on a break.",
+        "fr": "Hmm... ça doit être sa pause.",
+        "de": "Hm ... macht wohl gerade Pause.",
+        "es": "Hum... habrá ido a tomar algo.",
+        "it": "Hm... sarà in pausa.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_TheVP": {
+      "_source": "P_01_Panama",
+      "Speech_0006L": {
+        "en": "What am I gonna do? What am I gonna do?!",
+        "fr": "Qu'est-ce que je vais faire ? Mais qu'est-ce que je vais faire ?",
+        "de": "Was soll ich nur tun? Was soll ich nur tun?",
+        "es": "¿Y ahora qué hago? ¿Qué hago?",
+        "it": "Cosa faccio adesso? Cosa faccio!",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "I just need to calm down... no one knows... no one knows...",
+        "fr": "Il faut que je me calme... personne ne sait... non, personne...",
+        "de": "Ich muss mich einfach beruhigen ... niemand weiß etwas ... niemand weiß etwas ...",
+        "es": "Voy a tranquilizarme. Nadie lo sabe, nadie lo sabe.",
+        "it": "Devo calmarmi... non lo sa nessuno... non lo sa nessuno...",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "When is the last time I slept...",
+        "fr": "Il faudrait vraiment que je dorme...",
+        "de": "Wann habe ich das letzte Mal geschlafen ...",
+        "es": "Tengo que dormir un poco.",
+        "it": "Ma quando è stata l'ultima notte che ho dormito...",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "Oh... oh god... I'm dead... they're coming for me for sure.",
+        "fr": "Oh, seigneur... je suis mort... ils sont venus me chercher...",
+        "de": "Oh ...oh Gott ... ich bin tot ... sie werden kommen, ich bin ganz sicher.",
+        "es": "Dios mío, van a venir a por mí. Me van a matar, seguro.",
+        "it": "Oh... Oddio... Sono morto... stavolta mi prendono di sicuro.",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "What!? Hey?! Oh... it's just the wind...",
+        "fr": "Hein ? Que... non, c'est juste le vent.",
+        "de": "Was? He? Oh ... ist bloß der Wind.",
+        "es": "¿Qué...? Uff... Ha sido el viento...",
+        "it": "Cosa!? Ehi?! Oh... è solo il vento...",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "God I need a drink... but the doctor says I have to cut down.",
+        "fr": "J'aurais bien besoin d'un verre... mais le docteur dit qu'il faut que j'arrête...",
+        "de": "Gott, ich brauche einen Drink ... aber der Arzt sagt, ich soll weniger trinken.",
+        "es": "Necesito una copa. Pero el médico dice que tengo que dejarlo.",
+        "it": "Dio, ho bisogno di un bicchierino... ma il medico dice che devo cercare di smettere.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "Here I am talking to myself... repeating myself...",
+        "fr": "Et je me mets à parler tout seul, maintenant...",
+        "de": "Jetzt führe ich schon Selbstgespräche ... und wiederhole mich dabei ...",
+        "es": "Estoy empezando a hablar solo...",
+        "it": "Ecco che parlo da solo... e mi ripeto anche...",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "Ok. It's okay. Deep breaths. I'm fine. Guards are on duty. Motion sensors. It's okay.",
+        "fr": "Bon, ça va aller. Respire. Tu as des gardes, des détecteurs de mouvement... tout va bien.",
+        "de": "Okay. Alles okay. Tief durchatmen. Die Wachen sind auf ihren Posten. Bewegungsmelder. Alles ist in Ordnung.",
+        "es": "A ver, tranquilo. Respira hondo. Tienes guardias, sensores de movimiento...",
+        "it": "Ok. Tutto okay. Respiri profondi. Sto bene. Le guardie sono di pattuglia. Sensori di movimento. Tutto okay.",
+        "th": ""
+      },
+      "Speech_0014L": {
+        "en": "I gotta settle down. Do some work...",
+        "fr": "Il faut que je me calme... que je travaille...",
+        "de": "Ich muss mich beruhigen. Etwas arbeiten.",
+        "es": "Cálmate y trabaja un rato.",
+        "it": "Devo calmarmi. Lavorare un po'...",
+        "th": ""
+      },
+      "Speech_0015L": {
+        "en": "I'm starting to lose my mind here... I never should have gotten involved in this.",
+        "fr": "Je suis en train de devenir fou... je n'aurais jamais dû mettre le doigt là-dedans...",
+        "de": "Ich werde hier langsam wahnsinnig ... ich hätte mich niemals in diese Sache verwickeln lassen dürfen.",
+        "es": "Me voy a volver loco. ¿Quién me mandaría meterme en este lío?",
+        "it": "Sto cominciando a perdere la testa... Non avrei mai dovuto lasciarmi coinvolgere.",
+        "th": ""
+      },
+      "Speech_0001L": {
+        "en": "Sir, your wife is holding on line one.",
+        "fr": "Votre femme bloque la ligne 1, monsieur.",
+        "de": "Ihre Frau auf Leitung eins.",
+        "es": "Señor, su esposa en la línea uno.",
+        "it": "Signore, è sua moglie sulla uno.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "Senor de Medeiros? Could you please take the call on line one?",
+        "fr": "Señor de Medeiros ? Vous pouvez prendre l'appel sur la 1 ?",
+        "de": "Señor de Medeiros? Würden Sie bitte den Anruf auf Leitung eins entgegennehmen?",
+        "es": "Señor Medeiros, ¿puede atender la llamada de la línea uno?",
+        "it": "Señor de Medeiros? Potrebbe prendere la chiamata sulla uno?",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Sir? Are you there? Fine, I'll take another message.",
+        "fr": "Monsieur ? Vous êtes là ? Très bien, je prends un autre message.",
+        "de": "Señor? Sind sie da? Gut, ich werde noch eine Nachricht aufnehmen.",
+        "es": "¿Señor, está usted ahí? Voy a tomar nota de otro mensaje.",
+        "it": "Signore? È lì? Bene, prendo un altro un messaggio.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Hello. You've reached Rogelio in tech support. Check that your computer is plugged in and turned on before you leave me a message. Thanks. ",
+        "fr": "Bonjour, vous êtes bien au poste de Rogelio, du service informatique.  Veuillez vérifier que votre ordinateur est bien branché et allumé avant de me signaler un problème, merci. ",
+        "de": "Hallo. Sie sprechen mit Rogelio vom technischen Support. Vergewissern Sie sich, dass Ihr Computer angeschlossen und eingeschaltet ist, bevor Sie mir eine Nachricht hinterlassen. Danke. ",
+        "es": "Soy Rogelio, de asistencia técnica. Compruebe que su ordenador está conectado y encendido antes de dejar su mensaje. Gracias. ",
+        "it": "Buongiorno. Qui è l'assistenza tecnica Rogelio. Controllate che il computer sia collegato alla rete elettrica e acceso prima di lasciare un messaggio. Grazie. ",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "Haha... oh yeah. I checked if it was plugged in... but I forgot to make sure it was turned on. I get it now. Thanks.",
+        "fr": "Ha, ha, ha ! J'avais vérifié qu'il était branché, mais j'avais oublié de l'allumer. Maintenant, ça marche. Merci !",
+        "de": "Haha ... Oh, tatsächlich. Ich habe nachgesehen, ob er angeschlossen ist ... aber ich habe vergessen, zu überprüfen, ob er eingeschaltet ist. Jetzt klappt es. Danke.",
+        "es": "Vaya, he comprobado que estaba enchufado, pero se me ha olvidado mirar si estaba encendido. Muchas gracias.",
+        "it": "Haha... ah già. Ho controllato che fosse collegato... ma mi ero dimenticato di accenderlo. Adesso ho capito. Grazie.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_ThirdFloorSecurity": {
+      "_source": "P_01_Panama",
+      "Speech_0001L": {
+        "en": "This job is stupid. I should have gone to work in the hat shop with my uncle. Twenty-three years he's been there and he still loves it.",
+        "fr": "Ce boulot est débile. J'aurais mieux fait d'aider mon oncle à tenir sa boutique de chapeaux. Vingt-trois ans qu'il le fait, et il aime toujours ça.",
+        "de": "Dieser Job ist blöd. Ich hätte bei meinem Onkel im Hutladen anfangen sollen. Er ist seit dreiundzwanzig Jahren dort und er macht es immer noch gerne.",
+        "es": "Odio este trabajo. Debería haberme quedado en la sombrerería de mi tío. Veintitrés años, y aún disfruta con su trabajo.",
+        "it": "Questo lavoro è stupido. Sarei dovuto andare a lavorare nel negozio di cappelli con mio zio. Sono ventitrè anni che ha quel negozio, e ama ancora il suo lavoro.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "Making Panama hats is a fine and noble tradition.",
+        "fr": "La confection de chapeaux est une noble tradition.",
+        "de": "Die Herstellung von Panama-Hüten hat eine feine und edle Tradition.",
+        "es": "Hacer sombreros es una tradición muy noble.",
+        "it": "Fare cappelli Panama è una tradizione bella e nobile.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "Yeah. Not like walking in circles ten hours a night.",
+        "fr": "Pas comme le fait de marcher en rond dix heures par nuit...",
+        "de": "Ja. Besser als in der Nacht zehn Stunden im Kreis herumzulaufen.",
+        "es": "No como pasear de un lado a otro toda la noche.",
+        "it": "Già. Non come camminare in tondo per dieci ore ogni notte.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "All clear... again.",
+        "fr": "Tout est calme.",
+        "de": "Alles in Ordnung ... mal wieder.",
+        "es": "Todo despejado.",
+        "it": "Tutto bene... di nuovo.",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "Nothing to report?",
+        "fr": "Rien à signaler ?",
+        "de": "Nichts zu melden?",
+        "es": "¿Alguna novedad?",
+        "it": "Niente da segnalare?",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "Actually... one of the construction workers must have dragged his tool box... there's a small scuff-mark on the floor at the end of the hall. Think we should report it?",
+        "fr": "Ben, je crois qu'un des ouvriers a dû racler sa boîte à outils par terre, aujourd'hui. Il y a une marque par terre au bout du couloir. Tu crois qu'il faut la signaler ?",
+        "de": "Nun ja ... einer von den Bauarbeitern muss seinen Werkzeugkasten hinter sich hergeschleift haben ... da ist ein kleiner Kratzer auf dem Boden am Ende des Ganges. Meinst du, wir sollten das melden?",
+        "es": "Al final del vestíbulo, en el suelo, hay unas marcas. Creo que las han dejado al arrastrar una caja de herramientas. ¿Crees que debemos informar de eso?",
+        "it": "In realtà... uno dei muratori deve aver trascinato la cassetta degli attrezzi... C'è un graffietto sul pavimento in fondo alla hall. Pensi che dobbiamo fare rapporto?",
+        "th": ""
+      },
+      "Speech_0007L": {
+        "en": "Don't be an ass.",
+        "fr": "Sois pas débile.",
+        "de": "Jetzt stell dich bloß nicht so an!",
+        "es": "No seas idiota.",
+        "it": "Non fare lo spiritoso.",
+        "th": ""
+      },
+      "Speech_0008L": {
+        "en": "Hey, Devante! I just saw a bunch of armed burglars breaking into the locker room at the far end!",
+        "fr": "Hé, Devante ! Je viens de voir une bande de cambrioleurs armés jusqu'aux dents dans le vestiaire du fond !",
+        "de": "He, Devante! Ich habe grade ein paar bewaffnete Einbrecher gesehen, die in die Umkleide ganz hinten eingebrochen sind!",
+        "es": "¡Acabo de ver a un pelotón armado hasta los dientes entrando por una ventana!",
+        "it": "Ehi, Devante! Ho appena visto un gruppo di scassinatori armati introdursi nello spogliatoio là in fondo!",
+        "th": ""
+      },
+      "Speech_0009L": {
+        "en": "What?!",
+        "fr": "Quoi ?",
+        "de": "Was?!",
+        "es": "¿Cómo?",
+        "it": "Che cosa?!",
+        "th": ""
+      },
+      "Speech_0010L": {
+        "en": "Just kidding. All clear.",
+        "fr": "Non, je plaisante.",
+        "de": "War nur ein Scherz. Alles in Ordnung.",
+        "es": "Era broma. Todo despejado.",
+        "it": "Scherzavo. Tutto a posto.",
+        "th": ""
+      },
+      "Speech_0011L": {
+        "en": "Very funny.",
+        "fr": "Très drôle.",
+        "de": "Sehr witzig.",
+        "es": "Muy gracioso.",
+        "it": "Molto divertente.",
+        "th": ""
+      },
+      "Speech_0012L": {
+        "en": "Break time yet?",
+        "fr": "Allez, une pause...",
+        "de": "Schon Zeit für die Pause?",
+        "es": "¿Toca descanso ya?",
+        "it": "Cinque minuti di pausa?",
+        "th": ""
+      },
+      "Speech_0013L": {
+        "en": "Break time? You just had a break half an hour ago.",
+        "fr": "Hein ? Mais tu en as fait une il y a une demi-heure...",
+        "de": "Pause? Du hast erst vor einer halben Stunde Pause gemacht.",
+        "es": "Pero si has tenido un descanso hace media hora.",
+        "it": "Di già? Hai fatto una pausa mezz'ora fa.",
+        "th": ""
+      },
+      "Speech_0014L": {
+        "en": "Half an hour? Feels like a month.",
+        "fr": "Je m'en souviens même plus...",
+        "de": "Halbe Stunde? Kommt mir vor wie ein Monat.",
+        "es": "¿Sólo? Pues se me ha hecho eterna.",
+        "it": "Mezz'ora? Mi sembra un mese.",
+        "th": ""
+      }
+    },
+    "P_01_Panama_VPOffice": {
+      "_source": "P_01_Panama",
+      "Speech_0001L": {
+        "en": "Oh god... you... you're going to hurt me? No... I don't want to suffer... please... fine... I'll tell you everything. The code for the meeting room is 3245. The code for my elevator is 3298, and the code for my computer in the archive room is 9728.",
+        "fr": "Oh, mon dieu ! Vous... vous allez me faire du mal ? Je... je vous en supplie, je ne supporte pas la douleur ! Je vais tout vous dire. Le code de la salle de réunion est le 3245, celui de mon ascenseur, le 3298, et celui de l'ordinateur des archives, le 9728.",
+        "de": "Oh, Gott ... Sie ... werden Sie mir weh tun? Nein ... ich will nicht leiden ... bitte ... gut ... ich werde Ihnen alles sagen. Der Code für den Konferenzraum lautet 3245. Der Code für den Aufzug 3298, und der Code für meinen Computer im Archiv ist 9728.",
+        "es": "Dios mío, ¿vas a hacerme daño? No... No quiero sufrir... Por favor, por favor, te lo diré todo. El código de la sala de juntas es 3245. El de mi ascensor es 3298, y el del ordenador que tengo en la sala del archivo es 9728.",
+        "it": "Oh mio dio.. volete farmi del male? No, non voglio soffrire... vi prego... ah, va bene... vi dirò tutto. Il codice per la sala riunioni è 3245. Il codice per il mio ascensore è 3298, e il codice per il mio computer nell'archivio è 9728.",
+        "th": ""
+      },
+      "Speech_0002L": {
+        "en": "I swear, that's all I know. You'll have to kill me.",
+        "fr": "Je vous jure que je ne sais rien d'autre... tuez-moi...",
+        "de": "Ich schwöre, mehr weiß ich nicht. Sie werden mich töten müssen.",
+        "es": "No sé nada más, lo juro. Tendrás que matarme.",
+        "it": "Giuro che è tutto quel che so... Dovrete uccidermi.",
+        "th": ""
+      },
+      "Speech_0003L": {
+        "en": "I gave you all the codes... kill me now.",
+        "fr": "Je vous ai donné les codes... tuez-moi...",
+        "de": "Ich habe Ihnen alle Codes gegeben ... töten Sie mich jetzt.",
+        "es": "Te he dado los códigos. Mátame ya.",
+        "it": "Vi ho dato tutti i codici... ora uccidetemi.",
+        "th": ""
+      },
+      "Speech_0004L": {
+        "en": "Oh, god! I knew you were coming! Look... I don't know anything... you'll have to kill me. Please... just kill me and put me out of my misery!",
+        "fr": "Mon dieu, je savais bien que j'étais perdu ! Ecoutez, je ne suis au courant de rien ! Tuez-moi s'il le faut, mais que je cesse enfin de souffrir !",
+        "de": "Oh, Gott! Ich wusste, dass Sie kommen würden! Hören Sie zu ... ich weiß von nichts ... Sie werden mich töten müssen. Bitte ... bringen Sie mich einfach um und erlösen Sie mich von meinem Leiden!",
+        "es": "¡Lo sabía, te estaba esperando! No sé nada. Tendrás que matarme. ¡Vamos, acaba conmigo! ¡No lo soporto más!",
+        "it": "Oh, dio! Sapevo che sareste arrivati! Sentite, non so niente... Dovrete uccidermi. Vi prego... uccidetemi e levatemi quest'angoscia!",
+        "th": ""
+      },
+      "Speech_0005L": {
+        "en": "I won't talk... I want to die.",
+        "fr": "Je ne dirai rien... je veux mourir...",
+        "de": "Ich werde nicht reden ... ich will sterben.",
+        "es": "No hablaré. Prefiero morir.",
+        "it": "Non parlerò... Voglio morire.",
+        "th": ""
+      },
+      "Speech_0006L": {
+        "en": "Put me out of my misery!",
+        "fr": "Faites que je cesse de souffrir.",
+        "de": "Erlösen Sie mich von meinem Elend.",
+        "es": "¡No puedo más! ¡Mátame!",
+        "it": "Fatemi un favore e uccidetemi!",
+        "th": ""
+      }
+    }
+  }
+}

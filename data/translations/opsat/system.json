@@ -1,0 +1,1064 @@
+{
+  "_meta": {
+    "category": "opsat",
+    "name": "system",
+    "sources": [
+      "System"
+    ],
+    "total_strings": 130
+  },
+  "sections": {
+    "MESSAGEBOX": {
+      "_source": "System",
+      "DefaultAccept": {
+        "en": "OK",
+        "fr": "OK",
+        "de": "OK",
+        "es": "ACEPTAR",
+        "it": "OK",
+        "th": ""
+      },
+      "DefaultCancel": {
+        "en": "CANCEL",
+        "fr": "ANNULER",
+        "de": "ABBRECHEN",
+        "es": "CANCELAR",
+        "it": "ANNULLA",
+        "th": ""
+      },
+      "Yes": {
+        "en": "YES",
+        "fr": "OUI",
+        "de": "JA",
+        "es": "SÍ",
+        "it": "SÌ",
+        "th": ""
+      },
+      "No": {
+        "en": "NO",
+        "fr": "NON",
+        "de": "NEIN",
+        "es": "NO",
+        "it": "NO",
+        "th": ""
+      }
+    },
+    "SAVELOAD": {
+      "_source": "System",
+      "SaveMsg": {
+        "en": "SAVING GAME...",
+        "fr": "SAUVEGARDE DE LA PARTIE...",
+        "de": "SPEICHERE SPIEL...",
+        "es": "GUARDANDO PARTIDA...",
+        "it": "SALVATAGGIO DELLA PARTITA...",
+        "th": ""
+      },
+      "SaveInfo": {
+        "en": "YOU CAN SAVE OR LOAD YOUR GAME AT ANY TIME FROM THE PAUSE MENU",
+        "fr": "VOUS POUVEZ SAUVEGARDER OU CHARGER VOTRE PARTIE À TOUT MOMENT À PARTIR DU MENU DE PAUSE.",
+        "de": "SIE KÖNNEN IM PAUSE-MENÜ JEDERZEIT EINEN SPIELSTAND LADEN ODER SPEICHERN",
+        "es": "DESDE EL MENÚ DE PAUSA PUEDES GUARDAR O CARGAR PARTIDAS EN CUALQUIER MOMENTO.",
+        "it": "PUOI SALVARE O RICARICARE LA PARTITA IN QUALSIASI MOMENTO DAL MENU PAUSA",
+        "th": ""
+      },
+      "SaveWarning": {
+        "en": "PLEASE DON'T TURN OFF YOUR XBOX CONSOLE.",
+        "fr": "N'ETEIGNEZ PAS VOTRE CONSOLE XBOX.",
+        "de": "BITTE SCHALTEN SIE IHRE XBOX NICHT AUS",
+        "es": "NO APAGUES LA CONSOLA XBOX.",
+        "it": "NON SPEGNERE XBOX.",
+        "th": ""
+      },
+      "LoadMsg": {
+        "en": "LOADING...",
+        "fr": "CHARGEMENT...",
+        "de": "LADEVORGANG...",
+        "es": "CARGANDO...",
+        "it": "CARICAMENTO...",
+        "th": ""
+      },
+      "LoadGameMsg": {
+        "en": "LOADING GAME...",
+        "fr": "CHARGEMENT DE LA PARTIE...",
+        "de": "SPIEL WIRD GELADEN...",
+        "es": "CARGANDO PARTIDA...",
+        "it": "CARICAMENTO DELLA PARTITA...",
+        "th": ""
+      },
+      "CachingShaders": {
+        "en": "CACHING SM 3.0 SHADERS...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      },
+      "CachingShaders2": {
+        "en": "CACHING SM 2.0 SHADERS...",
+        "fr": "",
+        "de": "",
+        "es": "",
+        "it": "",
+        "th": ""
+      }
+    },
+    "CONTROLLER": {
+      "_source": "System",
+      "ControllerLostTitle": {
+        "en": "CONTROLLER DISCONNECTED",
+        "fr": "MANETTE DEBRANCHEE",
+        "de": "CONTROLLER ENTFERNT",
+        "es": "CONTR. DESCONECTADO",
+        "it": "CONTROLLER SCOLLEGATO",
+        "th": ""
+      },
+      "ControllerLostMsg": {
+        "en": "PLEASE RECONNECT THE CONTROLLER TO PORT [ %i ] AND PRESS START TO CONTINUE",
+        "fr": "POUR CONTINUER, RECONNECTER LA MANETTE AU PORT [ %i ] ET APPUYER SUR START.",
+        "de": "BITTE DEN CONTROLLER WIEDER AN CONTROLLER-ANSCHLUSS [%i] ANSCHLIESSEN UND START DRÜCKEN.",
+        "es": "VOLVER A CONECTAR EL CONTROLADOR EN EL PUERTO DE CONTROLADOR [%i] Y PRESIONAR START PARA CONTINUAR",
+        "it": "RICOLLEGA IL CONTROLLER NELLA PORTA DEL CONTROLLER [ %i ] E PREMI START PER CONTINUARE",
+        "th": ""
+      },
+      "RemoteControllerLostMsg": {
+        "en": "TEAMMATE CONTROLLER HAS BEEN DISCONNECTED. WAITING FOR YOUR TEAMMATE",
+        "fr": "LA MANETTE DE VOTRE COEQUIPIER A ETE DEBRANCHEE. EN ATTENTE DE VOTRE COEQUIPIER...",
+        "de": "CONTROLLER DES TEAMKAMERADEN WURDE UNTERBROCHEN. WARTE AUF MITSPIELER",
+        "es": "EL CONTROLADOR DEL COMPAÑERO ESTÁ DESCONECTADO. ESPERANDO AL COMPAÑERO...",
+        "it": "IL CONTROLLER DEL TUO COMPAGNO DI SQUADRA È SCOLLEGATO. ASPETTA IL TUO COMPAGNO...",
+        "th": ""
+      },
+      "ControllerTitle": {
+        "en": "CONTROLLER",
+        "fr": "MANETTE",
+        "de": "CONTROLLER ",
+        "es": "CONTROLADOR",
+        "it": "CONTROLLER",
+        "th": ""
+      },
+      "ControllerChoiceMsg": {
+        "en": "PLEASE CHOOSE ANOTHER CONTROLLER AND PRESS START TO CONTINUE",
+        "fr": "CHOISISSEZ UNE AUTRE MANETTE ET APPUYEZ SUR LA TOUCHE \"START\" POUR CONTINUER.",
+        "de": "BITTE EINE ANDERE CONTROLLER WÄHLEN UND START DRÜCKEN UM FORTZUFAHEN",
+        "es": "ELIGE OTRO CONTROLADOR Y PRESIONA START PARA CONTINUAR.",
+        "it": "SCEGLI UN ALTRO CONTROLLER E PREMI START PER CONTINUARE",
+        "th": ""
+      }
+    },
+    "NAVIGATION": {
+      "_source": "System",
+      "MsgBox_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "MsgBox_B": {
+        "en": "CANCEL",
+        "fr": "ANNULER",
+        "de": "ABBRECHEN",
+        "es": "CANCELAR",
+        "it": "ANNULLA",
+        "th": ""
+      },
+      "MsgBoxYes_A": {
+        "en": "YES",
+        "fr": "OUI",
+        "de": "JA",
+        "es": "SÍ",
+        "it": "SÌ",
+        "th": ""
+      },
+      "MsgBoxNo_B": {
+        "en": "NO",
+        "fr": "NON",
+        "de": "NEIN",
+        "es": "NO",
+        "it": "NO",
+        "th": ""
+      },
+      "POPUP_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "POPUP_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Common_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "Common_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Main_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "MatchList_A": {
+        "en": "JOIN",
+        "fr": "REJOINDRE",
+        "de": "BEITRETEN",
+        "es": "UNIRSE",
+        "it": "PARTECIPA",
+        "th": ""
+      },
+      "MatchList_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "MatchList_Y": {
+        "en": "CREATE",
+        "fr": "CREER",
+        "de": "ERSTELLEN",
+        "es": "CREAR",
+        "it": "CREA",
+        "th": ""
+      },
+      "MatchList_X": {
+        "en": "REFRESH",
+        "fr": "RAFRAICHIR",
+        "de": "AUFFRISCHEN",
+        "es": "ACTUALIZAR",
+        "it": "AGGIORNA",
+        "th": ""
+      },
+      "CreateMatch_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "CreateMatch_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Lobby_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "Lobby_B": {
+        "en": "QUIT",
+        "fr": "QUITTER",
+        "de": "VERLASSEN",
+        "es": "SALIR",
+        "it": "ESCI",
+        "th": ""
+      },
+      "Lobby_X": {
+        "en": "READY",
+        "fr": "PRET",
+        "de": "BEREIT",
+        "es": "LISTO",
+        "it": "PRONTO",
+        "th": ""
+      },
+      "LobbySetup_A": {
+        "en": "CHANGE",
+        "fr": "MODIFIER",
+        "de": "WECHSELN",
+        "es": "PRENDER/APAGAR",
+        "it": "CAMBIA",
+        "th": ""
+      },
+      "Profile_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "Profile_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Profile_X": {
+        "en": "DELETE",
+        "fr": "EFFACER",
+        "de": "LÖSCHEN",
+        "es": "BORRAR",
+        "it": "CANCELLA",
+        "th": ""
+      },
+      "Profile_Y": {
+        "en": "CREATE",
+        "fr": "CREER",
+        "de": "ERSTELLEN",
+        "es": "CREAR",
+        "it": "CREA",
+        "th": ""
+      },
+      "VKeyboard_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "VKeyboard_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "VKeyboard_X": {
+        "en": "DELETE",
+        "fr": "EFFACER",
+        "de": "LÖSCHEN",
+        "es": "BORRAR",
+        "it": "CANCELLA",
+        "th": ""
+      },
+      "VKeyboard_Y": {
+        "en": "SWITCH",
+        "fr": "Allumer/Éteindre",
+        "de": "UMSCHALTEN",
+        "es": "ENCENDER/APAGAR",
+        "it": "CAMBIA",
+        "th": ""
+      },
+      "VKeyboardNumbers_Y": {
+        "en": "NUMBERS",
+        "fr": "CHIFFRES",
+        "de": "ZAHLEN",
+        "es": "NÚMEROS",
+        "it": "NUMERI",
+        "th": ""
+      },
+      "VKeyboardLetters_Y": {
+        "en": "LETTERS",
+        "fr": "LETTRES",
+        "de": "BUCHSTABEN",
+        "es": "LETRAS",
+        "it": "LETTERE",
+        "th": ""
+      },
+      "StickyCamera_X": {
+        "en": "NOISE",
+        "fr": "BRUIT",
+        "de": "GERÄUSCH",
+        "es": "RUIDO",
+        "it": "RUMORE",
+        "th": ""
+      },
+      "StickyCamera_Y": {
+        "en": "GAS",
+        "fr": "GAZ",
+        "de": "GAS",
+        "es": "GAS",
+        "it": "GAS",
+        "th": ""
+      },
+      "StickyCamera_B": {
+        "en": "OUT",
+        "fr": "SORTIR",
+        "de": "AUS",
+        "es": "SALIR",
+        "it": "ALLONTANA",
+        "th": ""
+      },
+      "StickyCamera_LT": {
+        "en": "PREVIOUS",
+        "fr": "PRECEDENT",
+        "de": "ZURÜCK",
+        "es": "ANTERIOR",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "StickyCamera_RT": {
+        "en": "NEXT",
+        "fr": "SUIVANT",
+        "de": "WEITER",
+        "es": "SIGUIENTE",
+        "it": "AVANTI",
+        "th": ""
+      },
+      "StickyCamera_DL": {
+        "en": "NIGHT",
+        "fr": "NOCTURNE",
+        "de": "NACHT",
+        "es": "NOCTURNO",
+        "it": "NOTTE",
+        "th": ""
+      },
+      "StickyCamera_DR": {
+        "en": "HEAT",
+        "fr": "THERMIQUE",
+        "de": "HITZE",
+        "es": "TÉRMICO",
+        "it": "CALORE",
+        "th": ""
+      },
+      "StickyCamera_AL": {
+        "en": "ZOOM",
+        "fr": "ZOOM",
+        "de": "ZOOM",
+        "es": "ZOOM",
+        "it": "AVVICINA",
+        "th": ""
+      },
+      "OpticCable_DL": {
+        "en": "NIGHT",
+        "fr": "NOCTURNE",
+        "de": "NACHT",
+        "es": "NOCTURNO",
+        "it": "NOTTE",
+        "th": ""
+      },
+      "OpticCable_DR": {
+        "en": "HEAT",
+        "fr": "THERMIQUE",
+        "de": "HITZE",
+        "es": "TÉRMICO",
+        "it": "CALORE",
+        "th": ""
+      },
+      "OpticCable_DU": {
+        "en": "EMF",
+        "fr": "ELECTROMAGNETIQUE",
+        "de": "EMF",
+        "es": "CEM",
+        "it": "CAMPO MAGNETICO",
+        "th": ""
+      },
+      "OpsatMenu_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "OpsatMenu_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "OpsatMenuMap_A": {
+        "en": "HIDE",
+        "fr": "SE CACHER",
+        "de": "AUSBLENDEN",
+        "es": "ESCONDER",
+        "it": "NASCONDI",
+        "th": ""
+      },
+      "OpsatMenuMap_LT": {
+        "en": "PREVIOUS",
+        "fr": "PRECEDENT",
+        "de": "ZURÜCK",
+        "es": "ANTERIOR",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "OpsatMenuMap_RT": {
+        "en": "NEXT",
+        "fr": "SUIVANT",
+        "de": "FORTSETZEN",
+        "es": "SIGUIENTE",
+        "it": "AVANTI",
+        "th": ""
+      },
+      "OpsatMenuMap_AL": {
+        "en": "ZOOM",
+        "fr": "ZOOM",
+        "de": "ZOOM",
+        "es": "ZOOM",
+        "it": "AVVICINA",
+        "th": ""
+      },
+      "OpsatMenuMap_AR": {
+        "en": "CAMERA",
+        "fr": "CAMERA",
+        "de": "KAMERA",
+        "es": "CÁMARA",
+        "it": "TELECAMERA",
+        "th": ""
+      },
+      "EEV_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "EEV_DL": {
+        "en": "NIGHT",
+        "fr": "NOCTURNE",
+        "de": "NACHT",
+        "es": "NOCTURNO",
+        "it": "NOTTE",
+        "th": ""
+      },
+      "EEV_DR": {
+        "en": "HEAT",
+        "fr": "THERMIQUE",
+        "de": "HITZE",
+        "es": "TÉRMICO",
+        "it": "CALORE",
+        "th": ""
+      },
+      "EEV_AR_clic": {
+        "en": "OUT",
+        "fr": "SORTIR",
+        "de": "AUS",
+        "es": "SALIR",
+        "it": "ALLONTANA",
+        "th": ""
+      },
+      "EEV_AL_clic": {
+        "en": "ZOOM",
+        "fr": "ZOOM",
+        "de": "ZOOM",
+        "es": "ZOOM",
+        "it": "ZOOM",
+        "th": ""
+      },
+      "Authentication_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "Authentication_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Friends_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "Friends_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Friends_Y": {
+        "en": "ADD",
+        "fr": "AJOUTER",
+        "de": "HINZUFÜGEN",
+        "es": "AÑADIR",
+        "it": "AGGIUNGI",
+        "th": ""
+      },
+      "RecentPlayers_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "RecentPlayers_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "OnlineMain_X": {
+        "en": "SIGN OUT",
+        "fr": "SE DECONNECTER",
+        "de": "ABMELDEN",
+        "es": "SALIR",
+        "it": "DISCONNETTI",
+        "th": ""
+      },
+      "OnlineMain_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "OnlineMain_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "OptiMatch_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "OptiMatch_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "QuickMatch_Y": {
+        "en": "CREATE",
+        "fr": "CREER",
+        "de": "ERSTELLEN",
+        "es": "CREAR",
+        "it": "CREA",
+        "th": ""
+      },
+      "QuickMatch_X": {
+        "en": "REFRESH",
+        "fr": "RAFRAICHIR",
+        "de": "AUFFRISCHEN",
+        "es": "ACTUALIZAR",
+        "it": "AGGIORNA",
+        "th": ""
+      },
+      "QuickMatch_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "QuickMatch_A": {
+        "en": "JOIN",
+        "fr": "REJOINDRE",
+        "de": "BEITRETEN",
+        "es": "UNIRSE",
+        "it": "PARTECIPA",
+        "th": ""
+      },
+      "MissionReview_A": {
+        "en": "CONTINUE",
+        "fr": "CONTINUER",
+        "de": "FORTSETZEN",
+        "es": "CONTINUAR",
+        "it": "CONTINUA",
+        "th": ""
+      },
+      "MissionReview_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "MissionReview_Y": {
+        "en": "RESTART",
+        "fr": "REESSAYER",
+        "de": "WIEDERHOLEN",
+        "es": "REINTENTAR",
+        "it": "RIPROVA",
+        "th": ""
+      },
+      "MissionReview_X": {
+        "en": "QUIT",
+        "fr": "QUITTER",
+        "de": "BEENDEN",
+        "es": "SALIR",
+        "it": "ESCI",
+        "th": ""
+      },
+      "MissionReviewFinish_A": {
+        "en": "END",
+        "fr": "FIN",
+        "de": "ENDE",
+        "es": "FIN",
+        "it": "FINE",
+        "th": ""
+      },
+      "CreateMsg_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "CreateMsg_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "CreateMsg_Y": {
+        "en": "PLAY",
+        "fr": "LIRE",
+        "de": "SPIELEN",
+        "es": "OÍR",
+        "it": "ASCOLTA",
+        "th": ""
+      },
+      "Inbox_X": {
+        "en": "DELETE",
+        "fr": "EFFACER",
+        "de": "LÖSCHEN",
+        "es": "BORRAR",
+        "it": "CANCELLA",
+        "th": ""
+      },
+      "Inbox_A": {
+        "en": "READ",
+        "fr": "LIRE",
+        "de": "LESEN",
+        "es": "LEER",
+        "it": "LEGGI",
+        "th": ""
+      },
+      "Inbox_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "ReadMsg_X": {
+        "en": "DELETE",
+        "fr": "EFFACER",
+        "de": "LÖSCHEN",
+        "es": "BORRAR",
+        "it": "CANCELLA",
+        "th": ""
+      },
+      "ReadMsg_Y": {
+        "en": "PLAY",
+        "fr": "LIRE",
+        "de": "SPIELEN",
+        "es": "OÍR",
+        "it": "ASCOLTA",
+        "th": ""
+      },
+      "ReadMsg_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "ReadMsg_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "VoiceRecorder_A": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "VoiceRecorder_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "VoiceRecorder_X": {
+        "en": "DELETE",
+        "fr": "EFFACER",
+        "de": "LÖSCHEN",
+        "es": "BORRAR",
+        "it": "CANCELLA",
+        "th": ""
+      },
+      "LoadOut_A": {
+        "en": "CONTINUE",
+        "fr": "CONTINUER",
+        "de": "FORTSETZEN",
+        "es": "CONTINUAR",
+        "it": "CONTINUA",
+        "th": ""
+      },
+      "LoadOut_B": {
+        "en": "BRIEFING",
+        "fr": "BRIEFING",
+        "de": "BRIEFING",
+        "es": "INFORME",
+        "it": "BRIEFING",
+        "th": ""
+      },
+      "LoadOut_Y": {
+        "en": "INFO",
+        "fr": "INFOS",
+        "de": "INFO",
+        "es": "INFO",
+        "it": "INFORMAZIONI",
+        "th": ""
+      },
+      "LoadOutSel_A": {
+        "en": "INFO",
+        "fr": "INFOS",
+        "de": "INFO",
+        "es": "INFORMACIÓN",
+        "it": "INFORMAZIONI",
+        "th": ""
+      },
+      "LoadOutSel_X": {
+        "en": "REMOVE",
+        "fr": "SUPPRIMER",
+        "de": "ENTFERNEN",
+        "es": "ELIMINAR",
+        "it": "TOGLI",
+        "th": ""
+      },
+      "LoadOutSel_Y": {
+        "en": "ADD",
+        "fr": "AJOUTER",
+        "de": "HINZUFÜGEN",
+        "es": "AÑADIR",
+        "it": "AGGIUNGI",
+        "th": ""
+      },
+      "LoadOutSel_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "LoadGame_A": {
+        "en": "LOAD",
+        "fr": "CHARGER",
+        "de": "LADEN",
+        "es": "CARGAR",
+        "it": "CARICA",
+        "th": ""
+      },
+      "LoadGame_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "SaveGame_A": {
+        "en": "SAVE",
+        "fr": "SAUVEGARDER",
+        "de": "SPEICHERN",
+        "es": "GUARDAR",
+        "it": "SALVA",
+        "th": ""
+      },
+      "SaveGame_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "Hacking_A": {
+        "en": "ACCEPT",
+        "fr": "ACCEPTER",
+        "de": "ÜBERNEHMEN",
+        "es": "ACEPTAR",
+        "it": "ACCETTA",
+        "th": ""
+      },
+      "Hacking_B": {
+        "en": "ABORT",
+        "fr": "ANNULER",
+        "de": "ABBRECHEN",
+        "es": "ABORTAR",
+        "it": "CANCELLA",
+        "th": ""
+      },
+      "Hacking_X": {
+        "en": "LOCK",
+        "fr": "VERR.",
+        "de": "GESPERRT",
+        "es": "BLOQUEAR",
+        "it": "CHIUDI",
+        "th": ""
+      },
+      "Hacking_AL": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "UserOffline": {
+        "en": "NOT SIGNED IN",
+        "fr": "NON CONNECTÉ",
+        "de": "NICHT ANGEMELDET:",
+        "es": "NO ESTA CONECTADO",
+        "it": "NON CONNESSO",
+        "th": ""
+      },
+      "UserLoginPassword": {
+        "en": "NOT SIGNED IN : PASSCODE NEEDED",
+        "fr": "NON CONNECTE : MOT DE PASSE NECESSAIRE",
+        "de": "NICHT ANGEMELDET: CODE WIRD BENÖTIGT",
+        "es": "NO ESTA CONECTADO: FALTA EL CODIGO DE ACCESO",
+        "it": "NON CONNESSO: DEVI INSERIRE IL CODICE",
+        "th": ""
+      },
+      "UserLoginSuccess": {
+        "en": "SIGNED IN : %s",
+        "fr": "CONNECTE : %s",
+        "de": "ANGEMELDET: %s",
+        "es": "CONECTADO AL: %s",
+        "it": "CONNESSO: %s",
+        "th": ""
+      },
+      "UserLoginFail": {
+        "en": "SIGN-IN FAILED",
+        "fr": "ECHEC DE CONNEXION",
+        "de": "ANMELDUNG MISSLUNGEN",
+        "es": "ERROR DE CONEXION",
+        "it": "CONNESSIONE FALLITA",
+        "th": ""
+      },
+      "Missile_A": {
+        "en": "CUT",
+        "fr": "COUPER",
+        "de": "AUSCHNEIDEN",
+        "es": "CORTAR",
+        "it": "TAGLIA",
+        "th": ""
+      },
+      "Missile_B": {
+        "en": "BACK",
+        "fr": "RETOUR",
+        "de": "ZURÜCK",
+        "es": "ATRÁS",
+        "it": "INDIETRO",
+        "th": ""
+      },
+      "CryoTank_A": {
+        "en": "MIX",
+        "fr": "MELANGER",
+        "de": "MIX",
+        "es": "MEZCLA",
+        "it": "MESCOLA",
+        "th": ""
+      },
+      "CryoTank_B": {
+        "en": "EXIT",
+        "fr": "QUITTER",
+        "de": "BEENDEN",
+        "es": "SALIR",
+        "it": "ESCI",
+        "th": ""
+      },
+      "Crane_AL": {
+        "en": "SELECT",
+        "fr": "SELECTIONNER",
+        "de": "AUSWAHL",
+        "es": "ELEGIR",
+        "it": "SELEZIONA",
+        "th": ""
+      },
+      "Crane_RT": {
+        "en": "MOVE DOWN",
+        "fr": "DESCENDRE",
+        "de": "NACH UNTEN",
+        "es": "ABAJO",
+        "it": "MUOVI GIÙ",
+        "th": ""
+      },
+      "Crane_LT": {
+        "en": "MOVE UP",
+        "fr": "MONTER",
+        "de": "NACH OBEN",
+        "es": "ARRIBA",
+        "it": "MUOVI SU",
+        "th": ""
+      },
+      "Bomb_A": {
+        "en": "CUT",
+        "fr": "COUPER",
+        "de": "AUSCHNEIDEN",
+        "es": "CORTAR",
+        "it": "TAGLIA",
+        "th": ""
+      },
+      "Bomb_B": {
+        "en": "EXIT",
+        "fr": "SORTIR",
+        "de": "BEENDEN",
+        "es": "SALIR",
+        "it": "ESCI",
+        "th": ""
+      }
+    }
+  }
+}
