@@ -1,33 +1,33 @@
 [GENERAL]
-MapName=PANAMA
-Briefing_LAMBERT=LAMBERT - Welcome to the big leagues. I know you’re both still in training, but something’s come up, and we don’t have any other assets available. We recently recovered evidence from the MCAS Bank of Panama indicating that Vice President Senor Segundo Ruiz de Medeiros has been accepting bribes to allow ships to bypass spot inspections as they move through the Canal Zone. We need to find any records that Senor de Medeiros might have kept.
+MapName=ปานามา
+Briefing_LAMBERT=แลมเบิร์ต - ยินดีต้อนรับสู่ลีกใหญ่ ผมรู้ว่าคุณทั้งคู่ยังฝึกอยู่ แต่มีเรื่องด่วนเข้ามา และเราไม่มีกำลังคนอื่นให้ใช้แล้ว เมื่อไม่นานมานี้เราพบหลักฐานจากธนาคาร MCAS แห่งปานามา ที่บ่งชี้ว่า รองประธานเซญอร์ เซกุนโด รุยซ์ เด เมเดรอส รับสินบนเพื่อให้เรือผ่านการตรวจสอบแบบสุ่ม ได้ขณะเคลื่อนผ่านเขตคลองปานามา เราต้องหาบันทึกทั้งหมดที่เซญอร์ เด เมเดรอส อาจเก็บไว้
 
 
 [Computer]
-CompAccessingTheArchives=Accessing The Archives
-CompAccessingTheServer=Accessing The Server
+CompAccessingTheArchives=กำลังเข้าถึงคลังเอกสาร
+CompAccessingTheServer=กำลังเข้าถึงเซิร์ฟเวอร์
 
 [Email]
-EmailSecSystemeBody=I don’t know what idiot thought of this, but the breaker for shutting down the laser grid in an emergency is INSIDE the grid itself... unless I have some kind of high tech microwave ray that could interfere with the breaker, then I’m just stuck in there until the day shift comes in... how the heck am I supposed to take a leak?
-EmailSecSystemeDate=June 28th, 2007
-EmailSecSystemeFrom=Neron
-EmailSecSystemeSubject=Exposition Hall Security
-EmailSecSystemeTo=Jose
+EmailSecSystemeBody=ไม่รู้ว่าไอ้โง่คนไหนคิดเรื่องนี้ขึ้นมา แต่เบรกเกอร์สำหรับปิดตาข่ายเลเซอร์ในกรณีฉุกเฉิน มันอยู่ข้างในตัวตาข่ายเลเซอร์เอง... ถ้าฉันไม่มีปืนไมโครเวฟไฮเทคอะไรสักอย่างที่รบกวนเบรกเกอร์ได้ ฉันก็ได้แต่นั่งติดอยู่ในนั้นจนกว่าจะถึงกะกลางวัน... แล้วแบบนี้ฉันจะไปฉี่ยังไงวะเนี่ย?
+EmailSecSystemeDate=28 มิถุนายน 2007
+EmailSecSystemeFrom=เนรอน
+EmailSecSystemeSubject=ความปลอดภัยของโถงนิทรรศการ
+EmailSecSystemeTo=โฮเซ
 
-EmailTempABody=H... Sorry I misunderstood. The door code to get into the Exposition Area is 2341.
-EmailTempADate=June 28th, 2007
-EmailTempAFrom=Juan
-EmailTempASubject=RE: Door code to server room
-EmailTempATo=Hermes
+EmailTempABody=ฮ... ขอโทษที ฉันเข้าใจผิดไปเอง รหัสประตูเข้าโถงนิทรรศการคือ 2341
+EmailTempADate=28 มิถุนายน 2007
+EmailTempAFrom=ฮวน
+EmailTempASubject=RE: รหัสประตูห้องเซิร์ฟเวอร์
+EmailTempATo=เอร์เมส
 
-EmailTempBBody=Hey... I got the code to the hall that will let us into the billiard room... and from the billiard room we can get into the lounge with the big screen TV... you want to watch the match tonight? Door code is 1523.
-EmailTempBDate=June 28th, 2007
-EmailTempBFrom=Franco
-EmailTempBSubject=Tonight's match
-EmailTempBTo=Julio
+EmailTempBBody=เฮ้... ฉันได้รหัสประตูโถงทางเดินที่จะพาเราเข้าห้องบิลเลียดมาแล้ว... และจากห้องบิลเลียดเราก็เข้าไปในห้องนั่งเล่นที่มีทีวีจอใหญ่ได้... คืนนี้อยากดูแมตช์ไหม? รหัสประตูคือ 1523
+EmailTempBDate=28 มิถุนายน 2007
+EmailTempBFrom=ฟรังโก
+EmailTempBSubject=แมตช์คืนนี้
+EmailTempBTo=ฮูลิโอ
 
-EmailTempCBody=Juan... I KNOW the door code to get OUT of the server room to the Exposition hall is 1534... I need the door code to get into the Exposition Area...
-EmailTempCDate=June 28th, 2007
-EmailTempCFrom=Hermes
-EmailTempCSubject=Door code to server room
-EmailTempCTo=Juan
+EmailTempCBody=ฮวน... ฉันรู้นะว่ารหัสประตูทางออกจากห้องเซิร์ฟเวอร์ไปโถงนิทรรศการคือ 1534... แต่ฉันต้องการรหัสประตูทางเข้าไปในโถงนิทรรศการ...
+EmailTempCDate=28 มิถุนายน 2007
+EmailTempCFrom=เอร์เมส
+EmailTempCSubject=รหัสประตูห้องเซิร์ฟเวอร์
+EmailTempCTo=ฮวน

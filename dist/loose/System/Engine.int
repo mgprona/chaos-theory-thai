@@ -10,152 +10,152 @@ Preferences=(Caption="Advanced",Parent="Advanced Options")
 Preferences=(Caption="Advanced",Parent="Advanced Options")
 
 [Errors]
-NetOpen=Error opening file
-NetWrite=Error writing to file
-NetRefused=Server refused to send '%s'
-NetClose=Error closing file
-NetSize=File size mismatch
-NetMove=Error moving file
-NetInvalid=Received invalid file request
-NoDownload=Package '%s' is not downloadable
-DownloadFailed=Downloading package '%s' failed: %s
-RequestDenied=Server requested file from pending level: Denied
-ConnectionFailed=Connection failed
-ChAllocate=Couldn't allocate channel
-NetAlready=Already networking
-NetListen=Listen failed: No linker context available
-LoadEntry=Can't load Entry: %s
-InvalidUrl=Invalid URL: %s
-InvalidLink=Invalid Link: %s
-FailedBrowse=Failed to enter %s: %s
-Listen=Listen failed: %s
-AbortToEntry=Failed; returning to Entry
-ServerOpen=Servers can't open network URLs
-ServerListen=Dedicated server can't listen: %s
-Pending=Pending connect to '%s' failed; %s
-LoadPlayerClass=Failed to load player class
-ServerOutdated=Server's version is outdated
+NetOpen=เกิดข้อผิดพลาดในการเปิดไฟล์
+NetWrite=เกิดข้อผิดพลาดในการเขียนไฟล์
+NetRefused=เซิร์ฟเวอร์ปฏิเสธการส่ง '%s'
+NetClose=เกิดข้อผิดพลาดในการปิดไฟล์
+NetSize=ขนาดไฟล์ไม่ตรงกัน
+NetMove=เกิดข้อผิดพลาดในการย้ายไฟล์
+NetInvalid=ได้รับคำขอไฟล์ที่ไม่ถูกต้อง
+NoDownload=ไม่สามารถดาวน์โหลดแพ็กเกจ '%s' ได้
+DownloadFailed=การดาวน์โหลดแพ็กเกจ '%s' ล้มเหลว: %s
+RequestDenied=เซิร์ฟเวอร์ขอไฟล์จากด่านที่รอดำเนินการ: ถูกปฏิเสธ
+ConnectionFailed=การเชื่อมต่อล้มเหลว
+ChAllocate=ไม่สามารถจัดสรรช่องสัญญาณได้
+NetAlready=กำลังเชื่อมต่อเครือข่ายอยู่แล้ว
+NetListen=การรอรับการเชื่อมต่อล้มเหลว: ไม่มีบริบทตัวเชื่อมโยง
+LoadEntry=ไม่สามารถโหลดจุดเริ่มต้น: %s
+InvalidUrl=URL ไม่ถูกต้อง: %s
+InvalidLink=ลิงก์ไม่ถูกต้อง: %s
+FailedBrowse=เข้าสู่ %s ล้มเหลว: %s
+Listen=การรอรับการเชื่อมต่อล้มเหลว: %s
+AbortToEntry=ล้มเหลว; กำลังกลับสู่จุดเริ่มต้น
+ServerOpen=เซิร์ฟเวอร์ไม่สามารถเปิด URL เครือข่ายได้
+ServerListen=เซิร์ฟเวอร์เฉพาะไม่สามารถรอรับการเชื่อมต่อได้: %s
+Pending=การรอเชื่อมต่อไปยัง '%s' ล้มเหลว; %s
+LoadPlayerClass=โหลดคลาสผู้เล่นล้มเหลว
+ServerOutdated=เวอร์ชันของเซิร์ฟเวอร์ล้าสมัย
 
 [Progress]
-CancelledConnect=Cancelled Connect Attempt
-RunningNet=%s: %s (%i players)
-NetReceiving=Receiving '%s': %i/%i
-NetReceiveOk=Successfully received '%s'
-NetSend=Sending '%s'
-NetSending=Sending '%s': %i/%i
-Connecting=Connecting...
-Listening=Listening for clients...
-Loading=Loading
-Saving=Saving
-Paused=Paused by %s
-ReceiveFile=Receiving '%s' (F10 Cancels)
-ReceiveOptionalFile=Receiving optional file '%s' (Press F10 to Skip)
-ReceiveSize=Size %iK, Complete %3.1f%%
-ConnectingText=Connecting (F10 Cancels):
+CancelledConnect=ยกเลิกความพยายามเชื่อมต่อแล้ว
+RunningNet=%s: %s (ผู้เล่น %i คน)
+NetReceiving=กำลังรับ '%s': %i/%i
+NetReceiveOk=รับ '%s' สำเร็จแล้ว
+NetSend=กำลังส่ง '%s'
+NetSending=กำลังส่ง '%s': %i/%i
+Connecting=กำลังเชื่อมต่อ...
+Listening=กำลังรอรับการเชื่อมต่อจากไคลเอนต์...
+Loading=กำลังโหลด
+Saving=กำลังบันทึก
+Paused=หยุดชั่วคราวโดย %s
+ReceiveFile=กำลังรับ '%s' (กด F10 เพื่อยกเลิก)
+ReceiveOptionalFile=กำลังรับไฟล์เสริม '%s' (กด F10 เพื่อข้าม)
+ReceiveSize=ขนาด %iK, เสร็จสมบูรณ์ %3.1f%%
+ConnectingText=กำลังเชื่อมต่อ (กด F10 เพื่อยกเลิก):
 ConnectingURL=unreal://%s/%s
 
 [Console]
-ClassCaption=Standard Unreal Console
-LoadingMessage=LOADING
-SavingMessage=SAVING
-ConnectingMessage=CONNECTING
-PausedMessage=PAUSED
-PrecachingMessage=PRECACHING
-ChatChannel=(CHAT) 
-TeamChannel=(TEAM) 
+ClassCaption=คอนโซลมาตรฐาน Unreal
+LoadingMessage=กำลังโหลด
+SavingMessage=กำลังบันทึก
+ConnectingMessage=กำลังเชื่อมต่อ
+PausedMessage=หยุดชั่วคราว
+PrecachingMessage=กำลังจัดเตรียมแคชล่วงหน้า
+ChatChannel=(สนทนา) 
+TeamChannel=(ทีม) 
 
 [General]
-Upgrade=To enter this server, you need the latest free update to Unreal available from Epic's Web site:
+Upgrade=เพื่อเข้าสู่เซิร์ฟเวอร์นี้ คุณต้องอัปเดต Unreal เป็นเวอร์ชันล่าสุดที่แจกฟรีบนเว็บไซต์ของ Epic:
 UpgradeURL=http://www.unreal.com/upgrade
-UpgradeQuestion=Do you want to launch your web browser and go to the upgrade page now?
-Version=Version %i
+UpgradeQuestion=คุณต้องการเปิดเว็บเบราว์เซอร์เพื่อไปยังหน้าอัปเดตตอนนี้หรือไม่?
+Version=เวอร์ชัน %i
 
 [Menu]
-HelpMessage=
-MenuList=
-LeftString=Left
-RightString=Right
-CenterString=Center
-EnabledString=Enabled
-DisabledString=Disabled
-HelpMessage[1]="This menu has not yet been implemented."
-YesString=yes
-NoString=no
+HelpMessage=คำแนะนำช่วยเหลือ
+MenuList=รายการเมนู
+LeftString=ซ้าย
+RightString=ขวา
+CenterString=กึ่งกลาง
+EnabledString=เปิดใช้งาน
+DisabledString=ปิดใช้งาน
+HelpMessage[1]="เมนูนี้ยังไม่เปิดให้บริการ"
+YesString=ใช่
+NoString=ไม่
 
 [Inventory]
-PickupMessage=Snagged an item
-M_Activated=" activated"
-M_Selected=" selected"
-M_Deactivated=" deactivated"
-ItemArticle=a
+PickupMessage=เก็บไอเทมได้แล้ว
+M_Activated=" เปิดใช้งานแล้ว"
+M_Selected=" เลือกแล้ว"
+M_Deactivated=" ปิดใช้งานแล้ว"
+ItemArticle=ชิ้น
 
 [WarpZoneInfo]
-OtherSideURL=
+OtherSideURL=URL ปลายทาง
 
 [GameInfo]
-SwitchLevelMessage=Switching Levels
-DefaultPlayerName=Player
-LeftMessage=" left the game."
-FailedSpawnMessage=Failed to spawn player actor
-FailedPlaceMessage=Could not find starting spot (level might need a 'PlayerStart' actor)
-NameChangedMessage=Name changed to 
-EnteredMessage=" entered the game."
-GameName="Game"
-MaxedOutMessage=Server is already at capacity.
-WrongPassword=The password you entered is incorrect.
-NeedPassword=You need to enter a password to join this game.
-FailedTeamMessage=Could not find team for player
+SwitchLevelMessage=กำลังสลับด่าน
+DefaultPlayerName=ผู้เล่น
+LeftMessage=" ออกจากเกมแล้ว"
+FailedSpawnMessage=สร้างตัวละครผู้เล่นล้มเหลว
+FailedPlaceMessage=ไม่พบจุดเริ่มต้น (ด่านอาจต้องมีแอ็กเตอร์ 'PlayerStart')
+NameChangedMessage=เปลี่ยนชื่อเป็น 
+EnteredMessage=" เข้าร่วมเกมแล้ว"
+GameName="เกม"
+MaxedOutMessage=เซิร์ฟเวอร์เต็มความจุแล้ว
+WrongPassword=รหัสผ่านที่คุณป้อนไม่ถูกต้อง
+NeedPassword=คุณต้องป้อนรหัสผ่านเพื่อเข้าร่วมเกมนี้
+FailedTeamMessage=ไม่พบทีมสำหรับผู้เล่น
 
 [LevelInfo]
-Title=Untitled
+Title=ไม่มีชื่อ
 
 [Weapon]
-MessageNoAmmo=" has no ammo."
-PickupMessage=You got a weapon
-DeathMessage=%o was killed by %k's %w.
-ItemName=Weapon
-DeathMessage[0]=%o was killed by %k's %w.
-DeathMessage[1]=%o was killed by %k's %w.
-DeathMessage[2]=%o was killed by %k's %w.
-DeathMessage[3]=%o was killed by %k's %w.
+MessageNoAmmo=" ไม่มีกระสุน"
+PickupMessage=คุณได้รับอาวุธ
+DeathMessage=%o ถูกสังหารโดย %w ของ %k
+ItemName=อาวุธ
+DeathMessage[0]=%o ถูกสังหารโดย %w ของ %k
+DeathMessage[1]=%o ถูกสังหารโดย %w ของ %k
+DeathMessage[2]=%o ถูกสังหารโดย %w ของ %k
+DeathMessage[3]=%o ถูกสังหารโดย %w ของ %k
 
 [Counter]
-CountMessage=Only %i more to go...
-CompleteMessage=Completed!
+CountMessage=เหลืออีกเพียง %i เท่านั้น...
+CompleteMessage=เสร็จสมบูรณ์แล้ว!
 
 [Ammo]
-PickupMessage=You picked up some ammo.
+PickupMessage=คุณเก็บกระสุนได้
 
 [Pickup]
-ExpireMessage=
+ExpireMessage=ไอเทมหมดอายุ
 
 [SpecialEvent]
-DamageString=
+DamageString=ความเสียหาย
 
 [DamageType]
-Name=killed
-AltName=killed
+Name=ถูกสังหาร
+AltName=ถูกสังหาร
 
 [PlayerPawn]
-QuickSaveString=Quick Saving
-NoPauseMessage=Game is not pauseable
-ViewingFrom=Now viewing from 
-OwnCamera=own camera
-FailedView=Failed to change view.
-CantChangeNameMsg=You can't change your name during a global logged game.
+QuickSaveString=กำลังบันทึกด่วน
+NoPauseMessage=เกมนี้ไม่สามารถหยุดชั่วคราวได้
+ViewingFrom=กำลังมองจากมุมมองของ 
+OwnCamera=กล้องของตัวเอง
+FailedView=เปลี่ยนมุมมองล้มเหลว
+CantChangeNameMsg=คุณไม่สามารถเปลี่ยนชื่อระหว่างเล่นเกมที่บันทึกข้อมูลส่วนกลางได้
 
 [Pawn]
-NameArticle=" a "
+NameArticle=" "
 
 [Spectator]
-MenuName=Spectator
+MenuName=ผู้ชม
 
 [ServerCommandlet]
 HelpCmd=server
-HelpOneLiner=Network game server
+HelpOneLiner=เซิร์ฟเวอร์เกมผ่านเครือข่าย
 HelpUsage=server map.unr[?game=gametype] [-option...] [parm=value]...
 HelpWebLink=http://unreal.epicgames.com/servertips.htm
 HelpParm[0]=Log
-HelpDesc[0]=Specify the log file to generate
+HelpDesc[0]=ระบุไฟล์บันทึกประวัติที่จะสร้าง
 HelpParm[1]=AllAdmin
-HelpDesc[1]=Give all players admin privelages
+HelpDesc[1]=มอบสิทธิ์ผู้ดูแลระบบให้แก่ผู้เล่นทุกคน

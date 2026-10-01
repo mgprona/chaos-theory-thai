@@ -1,37 +1,37 @@
 [GENERAL]
-MapName=LIGHTHOUSE
-Briefing_LAMBERT=LAMBERT - Fisher, an American engineer named Bruce Morgenholt has been kidnapped by a Peruvian separatist group called the "People's Voice". Their suspected leader, Hugo Lacerda, is a hard-core revolutionary preaching information warfare as the only realistic means to achieve revolution in modern society. We need to you get in there and recover or destroy any information Morgenholt may have been forced to divulge, and, if possible, rescue him. As for Lacerda... he's just been bumped onto our target of opportunity list, so if you have a shot, take it.
-Briefing_GRIMSDOTTIR=GRIMSDOTTIR - Hostage rescue isn't normally our bag, but Morgenholt was part of Project Watson, the UN Committee that studied Phillip Masse's handiwork after Georgia. Some people are worried that this kidnapping is just a cover-up and that Morgenholt is being interrogated for classified information about the Masse Kernels. Fact is that some of the tricks Masse came up with could be used to do a lot of damage. We need to contain that information at all costs.
-Briefing_REDDING=REDDING - The target area is a lighthouse attached to an abandoned Spanish Colonial era fortification and some nearby structures. We don't have an exact location on Morgenholt, so you'll have to find him yourself. Insertion will be at night by zodiac onto the beach beneath the fort itself. Thermal imaging shows that there are some old natural and semi-natural caves under the fort, so you may be able to use those for infiltration.
-Briefing_PATRIDGE=PARTRIDGE - Alright Fisher, the helicopter will drop you a few kilometers off shore in the Zodiac  you have one of my zodiacs and logistical support in and out of the target area. Extraction will be by helicopter from the top of the lighthouse
-Briefing_SHETLAND=SHETLAND - Displace International holds the contract with Wright-Pritchard Technologies to protect their VIP's in potentially hostile situations. We did a thorough threat evaluation for their project in Peru and we accepted the VIP detail on Morgenholt. The guys who came after him knew what they were doing. This was not a tourist grab. I lost three good men in the snatch, and I'm currently preparing a rescue plan for approval from Morgenholt's family and Wright-Pritchard. This is gonna cost Displace a lot of money.
+MapName=ประภาคาร
+Briefing_LAMBERT=แลมเบิร์ต - ฟิชเชอร์ วิศวกรชาวอเมริกันชื่อ บรูซ มอร์เกนโฮลต์ ถูกกลุ่มแบ่งแยกดินแดนเปรูที่เรียกตัวเองว่า 'เสียงแห่งประชาชน' (People's Voice) ลักพาตัวไป ผู้ต้องสงสัยว่าเป็นผู้นำกลุ่มคือ ฮูโก ลาแซร์ดา นักปฏิวัติหัวรุนแรงที่เชื่อมั่นว่าสงครามข้อมูลข่าวสารคือหนทางเดียวที่ทำได้จริงในการปฏิวัติสังคมยุคใหม่ เราต้องการให้คุณแทรกซึมเข้าไปที่นั่น กู้คืนหรือทำลายข้อมูลใดๆ ก็ตามที่มอร์เกนโฮลต์อาจถูกบีบให้เปิดเผย และหากเป็นไปได้ จงช่วยชีวิตเขาออกมา ส่วนเรื่องลาแซร์ดา... เขาเพิ่งถูกจัดขึ้นมาอยู่ในรายชื่อเป้าหมายที่มีโอกาสจัดการได้ ถ้าคุณสบโอกาส ก็ลงมือได้เลย
+Briefing_GRIMSDOTTIR=กริมส์ดอตเตียร์ - ปกติแล้วการชิงตัวประกันไม่ใช่งานถนัดของเรา แต่มอร์เกนโฮลต์เคยอยู่ในโครงการวัตสัน ซึ่งเป็นคณะกรรมการของสหประชาชาติที่ศึกษาผลงานของ ฟิลลิป มาสส์ หลังวิกฤตการณ์จอร์เจีย บางคนกังวลว่าการลักพาตัวครั้งนี้เป็นเพียงฉากบังหน้า และมอร์เกนโฮลต์กำลังถูกเค้นข้อมูลลับเกี่ยวกับมาสส์เคอร์เนล ความจริงก็คือ ลูกเล่นบางอย่างที่มาสส์คิดค้นขึ้นมาสามารถนำไปใช้สร้างความเสียหายได้อย่างมหาศาล เราต้องกักกันข้อมูลนั้นไว้ไม่ให้รั่วไหลโดยเด็ดขาด ไม่ว่าจะต้องแลกด้วยอะไรก็ตาม
+Briefing_REDDING=เรดดิง - พื้นที่เป้าหมายคือประภาคารที่ตั้งติดอยู่กับป้อมปราการร้างยุคอาณานิคมสเปนและสิ่งปลูกสร้างใกล้เคียง เราไม่มีพิกัดที่แน่นอนของมอร์เกนโฮลต์ ดังนั้นคุณต้องหาตัวเขาด้วยตัวเอง การแทรกซึมจะเริ่มขึ้นในเวลากลางคืนโดยใช้เรือยางโซดิแอกเข้าสู่ชายหาดใต้ตัวป้อม ภาพสแกนความร้อนแสดงให้เห็นว่ามีถ้ำเก่าตามธรรมชาติและกึ่งธรรมชาติอยู่ใต้ป้อมปราการ คุณอาจใช้เส้นทางเหล่านั้นในการแทรกซึมเข้าไปได้
+Briefing_PATRIDGE=พาร์ทริดจ์ - เอาล่ะ ฟิชเชอร์ เฮลิคอปเตอร์จะปล่อยแกพร้อมเรือโซดิแอกห่างจากชายฝั่งสองสามกิโลเมตร แกจะได้เรือโซดิแอกลำหนึ่งของฉันและมีฝ่ายส่งกำลังบำรุงคอยสนับสนุนทั้งขาเข้าและขาออกจากพื้นที่เป้าหมาย ส่วนการถอนกำลังจะใช้เฮลิคอปเตอร์มารับจากด้านบนสุดของประภาคาร
+Briefing_SHETLAND=เชตแลนด์ - ดิสเพลซ อินเตอร์เนชันแนล มีสัญญาผูกพันกับ ไรท์-พริตชาร์ด เทคโนโลยีส์ ในการคุ้มกันบุคคลสำคัญในสถานการณ์ที่อาจเป็นภัย เราได้ประเมินภัยคุกคามอย่างละเอียดสำหรับโครงการของพวกเขาในเปรู และเรารับหน้าที่คุ้มกันบุคคลสำคัญอย่างมอร์เกนโฮลต์ คนพวกที่บุกมาจับตัวเขารู้ดีว่าตัวเองกำลังทำอะไร นี่ไม่ใช่การจับตัวนักท่องเที่ยวทั่วไป ฉันเสียลูกน้องฝีมือดีไปสามคนในการชิงตัวครั้งนี้ และตอนนี้ฉันกำลังเตรียมแผนช่วยเหลือเพื่อขออนุมัติจากครอบครัวของมอร์เกนโฮลต์และไรท์-พริตชาร์ด เรื่องนี้จะทำให้ดิสเพลซต้องเสียเงินมหาศาล
 
 
 [Interaction]
-IntExfiltrate=Call Extraction
-IntScanCrate=Scan Crate
+IntExfiltrate=เรียกเฮลิคอปเตอร์ถอนกำลัง
+IntScanCrate=สแกนลังสินค้า
 
 [Computer]
-CompEraseData=Erase Morgenholt Data
-CompObjective=Objective
-CompNews=News
-CompEmail=Email
+CompEraseData=ลบข้อมูลมอร์เกนโฮลต์
+CompObjective=เป้าหมาย
+CompNews=ข่าวสาร
+CompEmail=อีเมล
 
 [Email]
-EmailISSBody=Contact with the International Space Station has been lost. Technicians fear the station may have been struck by a micrometeor.
-EmailISSDate=June 23, 2007
-EmailISSFrom=WNM News Wire
-EmailISSSubject=Contact With ISS Lost
-EmailISSTo=Subscriber
+EmailISSBody=ขาดการติดต่อกับสถานีอวกาศนานาชาติ (ISS) แล้ว ช่างเทคนิคเกรงว่าสถานีอาจถูกอุกกาบาตขนาดเล็กพุ่งชน
+EmailISSDate=23 มิถุนายน 2007
+EmailISSFrom=สำนักข่าว WNM
+EmailISSSubject=ขาดการติดต่อกับสถานีอวกาศนานาชาติ
+EmailISSTo=สมาชิกผู้รับข่าว
 
-EmailMorgenholtBody=The Peruvian government has communicated their suspicions that American Bruce Morgenholt was kidnapped by an organization known as the "People's Voice". The group itself has not released any public statements.
-EmailMorgenholtDate=June 23, 2007
-EmailMorgenholtFrom=WNM News Wire
-EmailMorgenholtSubject="People's Voice" Suspected in Morgenholt Kidnapping
-EmailMorgenholtTo=Subscriber
+EmailMorgenholtBody=รัฐบาลเปรูได้แจ้งข้อสงสัยว่า บรูซ มอร์เกนโฮลต์ ชาวอเมริกัน ถูกลักพาตัวโดยองค์กรที่รู้จักกันในชื่อ 'เสียงแห่งประชาชน' (People's Voice) ขณะนี้กลุ่มดังกล่าวยังไม่ได้ออกแถลงการณ์ต่อสาธารณะแต่อย่างใด
+EmailMorgenholtDate=23 มิถุนายน 2007
+EmailMorgenholtFrom=สำนักข่าว WNM
+EmailMorgenholtSubject=สงสัยกลุ่ม 'เสียงแห่งประชาชน' อยู่เบื้องหลังการลักพาตัวมอร์เกนโฮลต์
+EmailMorgenholtTo=สมาชิกผู้รับข่าว
 
-EmailJimboBody=Hey Jimbo. So I took Piedro up on his offer and came camping with his buddies. Turns out they're a bunch of half-organized revolutionaries... kinda harmless though. Anyway, I was looking around in some caves here and spotted some bioluminescent fungus. Or maybe it was fungus that was host to Photobacterium Phosphorium... not sure. I'll try and get you a sample.
-EmailJimboDate=June 23, 2007
-EmailJimboFrom=Alphonse
+EmailJimboBody=หวัดดี จิมโบ สรุปว่าฉันตอบรับคำชวนของปิเอโดรแล้วมาตั้งแคมป์กับพวกเพื่อนๆ ของเขา ปรากฏว่าพวกนี้เป็นแค่กบฏปฏิวัติแบบครึ่งๆ กลางๆ... แต่ก็ดูไม่มีพิษมีภัยอะไรหรอกนะ ยังไงก็ตาม ฉันเดินสำรวจแถวๆ ถ้ำแถวนี้แล้วเจอเห็ดเรืองแสงเข้า หรือบางทีอาจเป็นเห็ดที่มีเชื้อแบคทีเรีย Photobacterium Phosphorium เกาะอยู่... ไม่แน่ใจเหมือนกัน เดี๋ยวจะพยายามเก็บตัวอย่างไปฝากนะ
+EmailJimboDate=23 มิถุนายน 2007
+EmailJimboFrom=อัลฟองส์
 EmailJimboSubject=PP
-EmailJimboTo=Jim
+EmailJimboTo=จิม

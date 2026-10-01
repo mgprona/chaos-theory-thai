@@ -1,47 +1,47 @@
 [GENERAL]
-MapName=CARGO SHIP
-Briefing_LAMBERT=LAMBERT - Information you recovered in Peru makes it look like Hugo Lacerda was contracted by a third party to kidnap and interrogate Morgenholt. His payment was in weapons. He appears to be using those arms to equip his own men, and pay off debts to other guerilla groups. Maybe Lacerda is a nickel-ante loser... but maybe he learned things from Morgenholt that we don't want anyone to know. The Maria Narcissa is out to sea, so there's no escape. Board her, search her, find out who Lacerda has been dealing with, and then make sure he doesn't have an opportunity to spread what he knows. Fifth Freedom.
-Briefing_GRIMSDOTTIR=GRIMSDOTTIR - What Morgenholt knew about the Masse Kernels, recursive computation and weaponized algorithms is akin to what Oppenheimer knew about atoms, or what Turing knew about digital computers. Project Watson... the United Nations investigation into the Masse Kernels will be remembered for centuries alongside the Manhattan Project as fundamental research that changed the nature of warfare forever. Imagine if Che Guevara had kidnapped and interrogated Oppenhiemer in 1959 and you have a pretty accurate parallel of the situation we're in right now.
-Briefing_REDDING=REDDING - We're going to send the helicopter out about forty clicks ahead of the Maria Narcissa and leave you in the water on her course. You'll board covertly onto the bow. Search the ship and the holds. Find out what you can about the arms shipments and who Lacerda is dealing with. Satellite imaging shows the Maria Narcissa racks a small launch on the stern. That will be your primary extraction. If things go bad, we might be able to arrange to pluck you out of the sea.
-Briefing_PATRIDGE=PARTRIDGE - We'll keep the Walsh inside of helicopter range of the target vessel at all times. If something goes wrong, we should be able to assist in extraction. If you play it safe, we'll recover you in the ship's launch from open water once you're out of visual range of the ship.
+MapName=เรือสินค้า
+Briefing_LAMBERT=แลมเบิร์ต - ข้อมูลที่คุณกู้คืนมาจากเปรูชี้ว่า ฮูโก ลาแซร์ดา ได้รับการว่าจ้างจากบุคคลที่สามให้ลักพาตัวและเค้นข้อมูลมอร์เกนโฮลต์ โดยได้รับค่าตอบแทนเป็นอาวุธ ดูเหมือนเขาจะใช้อาวุธเหล่านั้นติดอาวุธให้คนของตัวเอง และชำระหนี้ให้กับกลุ่มกองโจรกลุ่มอื่น ลาแซร์ดาอาจเป็นแค่ไอ้ขี้แพ้ปลายแถว... แต่เขาอาจได้ล่วงรู้บางอย่างจากมอร์เกนโฮลต์ที่เราไม่ต้องการให้ใครหน้าไหนรู้ ตอนนี้เรือมาเรีย นาร์ซิสซา ออกสู่ทะเลแล้ว จึงไม่มีทางหนี จงลอบขึ้นเรือ ค้นเรือลำนั้น สืบหาว่าลาแซร์ดาติดต่อกับใคร และจัดการให้แน่ใจว่าเขาจะไม่มีโอกาสเผยแพร่สิ่งที่เขารู้ สิทธิเสรีภาพขั้นที่ 5 (Fifth Freedom)
+Briefing_GRIMSDOTTIR=กริมส์ดอตเตียร์ - สิ่งที่มอร์เกนโฮลต์รู้เกี่ยวกับมาสส์เคอร์เนล การคำนวณแบบเวียนเกิด และอัลกอริทึมระดับอาวุธสงครามนั้น เทียบได้กับสิ่งที่ออปเพนไฮเมอร์รู้เกี่ยวกับอะตอม หรือสิ่งที่ทัวริงรู้เกี่ยวกับคอมพิวเตอร์ดิจิทัล โครงการวัตสัน... ซึ่งเป็นการสืบสวนเรื่องมาสส์เคอร์เนลของสหประชาชาติ จะได้รับการจารึกไว้ไปอีกหลายศตวรรษเคียงคู่กับโครงการแมนฮัตตัน ในฐานะงานวิจัยรากฐานที่เปลี่ยนโฉมหน้าของการทำสงครามไปตลอดกาล ลองจินตนาการดูสิว่าถ้า เช เกวารา ลักพาตัวและเค้นข้อมูลจากออปเพนไฮเมอร์ในปี 1959 คุณก็จะได้ภาพเปรียบเทียบที่ตรงกับสถานการณ์ที่เรากำลังเผชิญอยู่ในตอนนี้เลยล่ะ
+Briefing_REDDING=เรดดิง - เราจะส่งเฮลิคอปเตอร์บินนำหน้าเรือมาเรีย นาร์ซิสซา ไปราวสี่สิบกิโลเมตร แล้วหย่อนคุณลงน้ำในเส้นทางเดินเรือของมัน คุณจะต้องลอบขึ้นเรือทางหัวเรือ ค้นเรือและห้องเก็บสินค้าใต้ท้องเรือ หาข้อมูลให้ได้มากที่สุดเกี่ยวกับการลักลอบส่งอาวุธและคนที่ลาแซร์ดาติดต่อด้วย ภาพถ่ายดาวเทียมแสดงว่าเรือมาเรีย นาร์ซิสซา มีเรือยนต์ขนาดเล็กแขวนอยู่ที่ท้ายเรือ นั่นจะเป็นจุดถอนกำลังหลักของคุณ แต่ถ้าสถานการณ์เลวร้ายลง เราอาจหาทางช่วยดึงตัวคุณขึ้นมาจากทะเลได้
+Briefing_PATRIDGE=พาร์ทริดจ์ - เราจะคุมเรือวอลช์ให้อยู่ในระยะบินของเฮลิคอปเตอร์จากเรือเป้าหมายตลอดเวลา หากมีอะไรผิดพลาด เราน่าจะช่วยสนับสนุนการถอนกำลังได้ แต่ถ้าแกเล่นอย่างรัดกุม เราจะไปรับแกบนเรือยนต์กลางทะเลเปิดทันทีที่แกพ้นระยะสายตาจากเรือลำนั้น
 
 
 [Interaction]
-IntActivatePumps=Activate Pumps
-IntReadbilloflading=Read bill of lading
-IntExtraction=Extraction
+IntActivatePumps=เดินเครื่องสูบน้ำ
+IntReadbilloflading=อ่านใบตราส่งสินค้า
+IntExtraction=ถอนกำลัง
 
 [Computer]
-CompTransitLedger=Transit Ledger
-CompRoomassignment=Room assignment
+CompTransitLedger=บัญชีรายการขนส่ง
+CompRoomassignment=การจัดสรรห้องพัก
 
 [Email]
-EmailFloodedBody=There is a problem with the main bilge. I think I have managed a work-around. If any of the compartments flood again, try activating the secondary pump in the forecastle.
-EmailFloodedDate=June 28th, 2007
-EmailFloodedFrom=Gerardo
-EmailFloodedSubject=Flooding
-EmailFloodedTo=Ignacio
+EmailFloodedBody=ระบบสูบน้ำใต้ท้องเรือหลักมีปัญหา ฉันคิดว่าฉันพอจะแก้ปัญหาชั่วคราวได้แล้ว หากมีห้องไหนเกิดน้ำท่วมขึ้นมาอีก ให้ลองเปิดปั๊มสูบน้ำสำรองที่หัวเรือดู
+EmailFloodedDate=28 มิถุนายน 2007
+EmailFloodedFrom=เฆราร์โด
+EmailFloodedSubject=น้ำท่วม
+EmailFloodedTo=อิกนาซิโอ
 
-EmailLacerdaBody=I’ll arrive aboard your ship sometime tonight. Please keep your smelly hooligans out of my way. I don’t want to be disturbed.
-EmailLacerdaDate=June 28th, 2007
-EmailLacerdaFrom=Hugo Lacerda 
-EmailLacerdaSubject=Coming Aboard
-EmailLacerdaTo=Captain Diego
+EmailLacerdaBody=ผมจะขึ้นเรือของคุณคืนนี้ ช่วยกันไอ้พวกอันธพาลตัวเหม็นของพวกคุณไปให้พ้นทางผมด้วย ผมไม่อยากให้ใครมารบกวน
+EmailLacerdaDate=28 มิถุนายน 2007
+EmailLacerdaFrom=ฮูโก ลาแซร์ดา 
+EmailLacerdaSubject=การขึ้นเรือ
+EmailLacerdaTo=กัปตันดิเอโก
 
-EmailInfoBody=The body of American Bruce Morgenholt was recovered in Peru today. No cause of death has been announced, but the US State Department has demanded an apology from the Peruvian Army for their possible role in a botched rescue operation.
-EmailInfoDate=June 28th, 2007
-EmailInfoFrom=WNM News Wire
-EmailInfoSubject=Morgenholt Found Dead in Peru
-EmailInfoTo=Subscriber
+EmailInfoBody=มีการกู้ร่างของ บรูซ มอร์เกนโฮลต์ วิศวกรชาวอเมริกันในเปรูวันนี้ ยังไม่มีการประกาศสาเหตุการเสียชีวิต แต่กระทรวงการต่างประเทศสหรัฐฯ ได้เรียกร้องคำขอโทษจากกองทัพเปรูสำหรับบทบาทที่อาจเกี่ยวข้องกับปฏิบัติการช่วยเหลือที่ล้มเหลว
+EmailInfoDate=28 มิถุนายน 2007
+EmailInfoFrom=สำนักข่าว WNM
+EmailInfoSubject=พบศพมอร์เกนโฮลต์ในเปรู
+EmailInfoTo=ผู้รับข่าวสาร
 
-EmailInfo2Body=Japan’s I-SDF revealed their findings into the events surrounding ‘Black Gold Day’. The report alleges that North Korean and Chinese information warfare attacks may have manipulated worldwide markets to bring about the economic collapse in Japan.
-EmailInfo2Date=June 28th, 2007
-EmailInfo2From=WNM News Wire
-EmailInfo2Subject=I-SDF Alleges North Korean Involvement in Market Crash
-EmailInfo2To=Subscriber
+EmailInfo2Body=หน่วย I-SDF ของญี่ปุ่นเปิดเผยผลการสืบสวนเกี่ยวกับเหตุการณ์ที่เกี่ยวข้องกับ 'วันแบล็กโกลด์' โดยรายงานอ้างว่าการโจมตีทางสงครามข้อมูลข่าวสารจากเกาหลีเหนือและจีนอาจอยู่เบื้องหลังการปั่นป่วนตลาดโลก จนนำไปสู่ภาวะเศรษฐกิจล่มสลายในญี่ปุ่น
+EmailInfo2Date=28 มิถุนายน 2007
+EmailInfo2From=สำนักข่าว WNM
+EmailInfo2Subject=I-SDF อ้างเกาหลีเหนือมีส่วนพัวพันตลาดหุ้นดิ่งเหว
+EmailInfo2To=ผู้รับข่าวสาร
 
-EmailEngineRoomBody=I’m very worried about the sealant rings on the gas pipes. We already have several small gas leaks. If it gets worse, a single spark could sink this rat trap.
-EmailEngineRoomDate=June 28th, 2007
-EmailEngineRoomFrom=Pedro 
-EmailEngineRoomSubject=Engine Room
-EmailEngineRoomTo=Cornelio
+EmailEngineRoomBody=ฉันกังวลเรื่องแหวนซีลที่ท่อแก๊สมากเลย ตอนนี้เราพบแก๊สรั่วจุดเล็กๆ หลายแห่งแล้ว ถ้าอาการหนักขึ้น ประกายไฟเพียงจุดเดียวก็อาจทำให้เรือโกโรโกโสนี่จมได้เลย
+EmailEngineRoomDate=28 มิถุนายน 2007
+EmailEngineRoomFrom=เปโดร 
+EmailEngineRoomSubject=ห้องเครื่องยนต์
+EmailEngineRoomTo=คอร์เนลิโอ

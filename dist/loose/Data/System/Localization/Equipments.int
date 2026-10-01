@@ -1,247 +1,247 @@
 [CATEGORIES]
-Category[0]=UNKNOWN
-Category[1]=PERMANENT
-Category[2]=MAINGUN
-Category[3]=GADGETS
-Category[4]=ITEMS
+Category[0]=ไม่ทราบประเภท
+Category[1]=อุปกรณ์ติดตัวถาวร
+Category[2]=อาวุธหลัก
+Category[3]=แกดเจ็ต
+Category[4]=ไอเทม
 
 [FN2000]
 Name=SC-20K
 NameShort=SC-20K
-Description=SC-20k Prototype Modular Assault Weapon. 5.56x45mm jacketed cartridges in 30 round magazine with bull-pup configuration. Integral 1.5x reflex sight and silencer, mounts modular attachments. Binary trigger mechanism for auto or semi-auto fire. Ejection port supports ambidextrous operation.
-HowToUseMe=
+Description=ปืนเล็กยาวจู่โจมแบบโมดูลาร์ต้นแบบ SC-20k ใช้กระสุนเคลือบแข็ง 5.56x45 มม. ซองกระสุน 30 นัด โครงสร้างแบบบูลพัป (Bullpup) พร้อมกล้องเล็งสะท้อนแสง 1.5 เท่า และท่อเก็บเสียงในตัว สามารถติดตั้งอุปกรณ์เสริมแบบโมดูลาร์ได้ กลไกไกปืนแบบไบนารีสำหรับยิงอัตโนมัติหรือกึ่งอัตโนมัติ ช่องคัดปลอกรองรับการใช้งานได้ทั้งสองมือ
+HowToUseMe=กดปุ่มยิงเพื่อยิงกระสุน หรือกดปุ่มยิงโหมดพิเศษเพื่อใช้อุปกรณ์เสริมที่ติดตั้ง
 
 [FN2000AMMO]
-Name=SC-20K Ammo Clip
-NameShort=SC-20K Ammo Clip
-Description=SC-20K Ammo Clip
-HowToUseMe=
+Name=ซองกระสุน SC-20K
+NameShort=ซองกระสุน SC-20K
+Description=ซองกระสุนสำหรับปืน SC-20K บรรจุกระสุนขนาด 5.56x45 มม.
+HowToUseMe=บรรจุกระสุนเข้าสู่ปืน SC-20K โดยอัตโนมัติเมื่อกดรีโหลด
 
 [FN7]
-Name=SC Pistol
-NameShort=SC Pistol
-Description=SC Prototype Pistol. 5.7x28mm jacketed cartridges in 20 round magazine with integral silencer. Grip configured for ambidextrous use. Prototype OCP mounted under barrel. OCP causes electrical differential potential on target, electrical surge causes circuit interference. Capacitor recharges over time.
-HowToUseMe=
+Name=ปืนพก SC
+NameShort=ปืนพก SC
+Description=ปืนพกต้นแบบ SC ใช้กระสุนเคลือบแข็งขนาด 5.7x28 มม. ซองกระสุน 20 นัด พร้อมท่อเก็บเสียงในตัว ด้ามจับออกแบบให้ใช้งานได้ทั้งสองมือ ใต้ลำกล้องติดตั้งอุปกรณ์ต้นแบบ OCP ซึ่งจะสร้างความต่างศักย์ไฟฟ้าที่เป้าหมาย ก่อให้เกิดไฟกระชากเพื่อรบกวนวงจรอิเล็กทรอนิกส์ ตัวเก็บประจุจะชาร์จไฟใหม่ได้เองตามเวลา
+HowToUseMe=กดปุ่มยิงเพื่อยิงกระสุน 5.7 มม. หรือกดปุ่มยิงโหมดพิเศษเพื่อยิงลำแสง OCP รบกวนอุปกรณ์ไฟฟ้า
 
 [FN7AMMO]
-Name=5.7mm Pistol Ammo Clip
-NameShort=5.7mm Pistol Ammo Clip
-Description=5.7mm Pistol Ammo Clip
-HowToUseMe=
+Name=ซองกระสุนปืนพก 5.7 มม.
+NameShort=ซองกระสุนปืนพก 5.7 มม.
+Description=ซองกระสุนสำหรับปืนพก SC บรรจุกระสุนขนาด 5.7x28 มม.
+HowToUseMe=บรรจุกระสุนเข้าสู่ปืนพก SC โดยอัตโนมัติเมื่อกดรีโหลด
 
 [SCOPE]
-Name=20mm Sniper Attachment
-NameShort=Sniper
-Description=SC-20k Prototype 20mm attachment. 20mm APDS anti-materiel super-penetrator round for armored or emplaced targets. Dual stage sniper scope. Recoil is extreme. Hold breath for accurate fire. Cannot be silenced.
-HowToUseMe=
+Name=อุปกรณ์เสริมสไนเปอร์ 20 มม.
+NameShort=สไนเปอร์
+Description=อุปกรณ์เสริมลำกล้องสไนเปอร์ 20 มม. ต้นแบบสำหรับ SC-20k ใช้กระสุนเจาะเกราะทรงพลัง APDS ขนาด 20 มม. สำหรับทำลายเป้าหมายหุ้มเกราะหรือที่กำบัง กล้องเล็งสไนเปอร์แบบซูม 2 ระดับ แรงถอยหลังยิงรุนแรงมาก กลั้นหายใจเพื่อเล็งยิงอย่างแม่นยำ ไม่สามารถติดท่อเก็บเสียงได้
+HowToUseMe=กดปุ่มยิงโหมดพิเศษเพื่อสลับใช้งาน เล็งผ่านกล้องและกลั้นหายใจก่อนลั่นไก
 
 [FOREGRIP]
-Name=Foregrip Attachment
-NameShort=Foregrip
-Description=SC-20k Prototype Foregrip attachment. Provides increased stability to firing platform and controlled recoil. Improves rounds-on-target during sustained fire.
-HowToUseMe=
+Name=อุปกรณ์เสริมด้ามจับหน้า
+NameShort=ด้ามจับหน้า
+Description=อุปกรณ์เสริมด้ามจับด้านหน้าต้นแบบสำหรับ SC-20k เพิ่มความนิ่งมั่นคงขณะยิงและควบคุมแรงถอยได้ดียิ่งขึ้น ช่วยเพิ่มความแม่นยำของกระสุนเข้าเป้าขณะยิงต่อเนื่อง
+HowToUseMe=ติดตั้งเข้ากับปืน SC-20K เพื่อเพิ่มความนิ่งและลดแรงถอยโดยอัตโนมัติ
 
 [LAUNCHER]
-Name=Launcher Attachment 
-NameShort=Launcher
-Description=SC-20k Launcher attachment. Standard 40mm gas operated launcher deploys a variety of Less-Than-Lethal 40mm devices. Silent operation.
-HowToUseMe=
+Name=อุปกรณ์เสริมเครื่องยิงลูกระเบิด 
+NameShort=เครื่องยิงลูกระเบิด
+Description=อุปกรณ์เสริมเครื่องยิงสำหรับ SC-20k เครื่องยิงระบบแก๊สขนาดมาตรฐาน 40 มม. ใช้ยิงกระสุนและแกดเจ็ตขนาด 40 มม. แบบไม่ถึงตายได้หลากหลายชนิด ทำงานได้อย่างเงียบเชียบ
+HowToUseMe=กดปุ่มยิงโหมดพิเศษเพื่อยิงแกดเจ็ตขนาด 40 มม. ที่เลือกไว้ผ่านเครื่องยิง
 
 [SHOTGUN]
-Name=Shotgun Attachment
-NameShort=Shotgun
-Description=SC-20k Shotgun attachment. 12 Guage Triple Ought loads offer exceptional stopping power at close range. Affords dual barrel firing in tandem with SC-20k for multi-range engagement.
-HowToUseMe=
+Name=อุปกรณ์เสริมลูกซอง
+NameShort=ลูกซอง
+Description=อุปกรณ์เสริมลูกซองสำหรับ SC-20k บรรจุกระสุนลูกปรายเก้าเม็ดขนาด 12 เกจ มอบอำนาจการหยุดยั้งที่ยอดเยี่ยมในระยะประชิด ทำงานผสานลำกล้องคู่ร่วมกับปืนหลัก SC-20k สำหรับการปะทะในหลากหลายระยะ
+HowToUseMe=กดปุ่มยิงโหมดพิเศษเพื่อยิงกระสุนลูกซองระยะประชิด
 
 [GUNBAREL]
-Name=GUNBAREL
-NameShort=GUNBAREL
-Description=GUNBAREL attachment
-HowToUseMe=
+Name=ชุดลำกล้องปืน
+NameShort=ลำกล้องปืน
+Description=อุปกรณ์เสริมชุดลำกล้องปืน
+HowToUseMe=อุปกรณ์เสริมส่วนลำกล้องสำหรับประกอบเข้ากับโครงสร้างตัวปืน
 
 [GUNGRIP]
-Name=GUNGRIP
-NameShort=GUNGRIP
-Description=GUNGRIP attachment
-HowToUseMe=
+Name=ชุดด้ามจับปืน
+NameShort=ด้ามจับปืน
+Description=อุปกรณ์เสริมชุดด้ามจับปืน
+HowToUseMe=ช่วยเพิ่มการควบคุมและความกระชับมือขณะใช้งานอาวุธ
 
 [GUNSCOPE]
-Name=GUNSCOPE
-NameShort=GUNSCOPE
-Description=GUNSCOPE attachment
-HowToUseMe=
+Name=ชุดกล้องเล็งปืน
+NameShort=กล้องเล็งปืน
+Description=อุปกรณ์เสริมกล้องเล็งขยายระยะไกล
+HowToUseMe=ใช้สำหรับซูมและเล็งเป้าหมายระยะไกลได้อย่างแม่นยำ
 
 [SHOTGUNAMMO]
-Name=Shotgun attachment Ammo
-NameShort=Shotgun attachment Ammo
-Description=Shotgun attachment Ammo
-HowToUseMe=
+Name=กระสุนอุปกรณ์เสริมลูกซอง
+NameShort=กระสุนอุปกรณ์เสริมลูกซอง
+Description=กระสุนลูกซองขนาด 12 เกจ สำหรับอุปกรณ์เสริมลูกซอง SC-20K
+HowToUseMe=บรรจุกระสุนเข้าสู่อุปกรณ์เสริมลูกซองโดยอัตโนมัติ
 
 [SCOPEAMMO]
-Name=Sniper attachment Ammo
-NameShort=Sniper attachment Ammo
-Description=Sniper attachment Ammo
-HowToUseMe=
+Name=กระสุนอุปกรณ์เสริมสไนเปอร์
+NameShort=กระสุนอุปกรณ์เสริมสไนเปอร์
+Description=กระสุนเจาะเกราะขนาด 20 มม. สำหรับอุปกรณ์เสริมสไนเปอร์ SC-20K
+HowToUseMe=บรรจุกระสุนเข้าสู่อุปกรณ์เสริมสไนเปอร์โดยอัตโนมัติ
 
 
 [AK47]
-Name=AK 47
-NameShort=AK 47
-Description=The AK-47 is chambered in 7.62x39 and features hardwood furniture with a fixed stock.
-HowToUseMe=
+Name=AK-47
+NameShort=AK-47
+Description=ปืนเล็กยาว AK-47 ใช้กระสุนขนาด 7.62x39 มม. ประกอบด้วยพานท้ายและประกับไม้เนื้อแข็งแบบตายตัว ทนทานและมีอานุภาพสูง
+HowToUseMe=กดปุ่มยิงเพื่อยิงกระสุน 7.62 มม. ในโหมดอัตโนมัติ
 
 [BERETTA]
-Name=Beretta 92FS
-NameShort=Beretta 92FS
-Description=Hand Gun
-HowToUseMe=
+Name=เบเร็ตต้า 92FS
+NameShort=เบเร็ตต้า 92FS
+Description=ปืนพกกึ่งอัตโนมัติขนาดมาตรฐาน 9 มม.
+HowToUseMe=กดปุ่มยิงเพื่อยิงกระสุนกึ่งอัตโนมัติทีละนัด
 
 [C4]
-Name=C4
+Name=ระเบิด C4
 NameShort=C4
-Description=C4
-HowToUseMe=
+Description=วัตถุระเบิดพลาสติกสังเคราะห์ C4 ให้แรงระเบิดสูงสำหรับทำลายโครงสร้างและสิ่งกีดขวาง
+HowToUseMe=ติดตั้งบนพื้นผิวเป้าหมายแล้วจุดชนวนระเบิดจากระยะไกล
 
 [FLARE]
-Name=Flare
-NameShort=Flare
-Description=A standard flare that emits both light and heat.
-HowToUseMe=
+Name=พลุไฟส่องสว่าง
+NameShort=พลุไฟ
+Description=พลุไฟมาตรฐานที่แผ่ทั้งแสงสว่างและความร้อน สามารถใช้เบี่ยงเบนความสนใจของศัตรูหรือเซ็นเซอร์จับความร้อนได้
+HowToUseMe=จุดชนวนและขว้างไปยังตำแหน่งที่ต้องการส่องสว่างหรือล่อเป้าหมาย
 
 [CHEMICALFLARE]
-Name=Chemical Flare
-NameShort=Chemical Flare
-Description=A break-open chemical flare for illuminating dark environments.
-HowToUseMe=
+Name=แท่งเรืองแสงเคมี
+NameShort=แท่งเรืองแสงเคมี
+Description=แท่งสารเคมีเรืองแสงแบบหักหลอดเพื่อให้แสงสว่างในพื้นที่มืดโดยไม่แผ่ความร้อนสูง
+HowToUseMe=หักแท่งเคมีเพื่อเปิดใช้งาน แล้วขว้างหรือวางในจุดที่ต้องการแสงสว่าง
 
 [DISPOSABLEPICK]
-Name=Disposable Pick
-NameShort=Disposable Pick
-Description=
+Name=ชุดสะเดาะกุญแจใช้แล้วทิ้ง
+NameShort=สะเดาะกุญแจใช้แล้วทิ้ง
+Description=อุปกรณ์สะเดาะกุญแจแบบอิเล็กทรอนิกส์ขนาดพกพาแบบใช้ครั้งเดียว สำหรับปลดล็อกกลอนประตูได้อย่างรวดเร็วในทันที
 
 [FLASHGRENADE]
-Name=Flash Grenade
-NameShort=Flashbang
-Description=SC-82 Series non-lethal flashbang grenade. Explosion blinds, deafens and stuns. Safe distance, approximately 8m.
-HowToUseMe=
+Name=ระเบิดแสง
+NameShort=ระเบิดแสง
+Description=ระเบิดแสงแบบไม่ถึงตายซีรีส์ SC-82 แรงระเบิดจะทำให้เป้าหมายตาพร่า หูดับ และมึนงงชั่วขณะ ระยะปลอดภัยประมาณ 8 เมตร
+HowToUseMe=ดึงสลักแล้วขว้างเข้าสู่พื้นที่เป้าหมายเพื่อทำให้ศัตรูไร้ความสามารถในการต่อสู้ชั่วคราว
 
 [FLASHLIGNT]
-Name=Flashlight
-NameShort=Flashlight
-Description=Cop flashlight
-HowToUseMe=
+Name=ไฟฉาย
+NameShort=ไฟฉาย
+Description=ไฟฉายพกพาสำหรับเจ้าหน้าที่ตำรวจ ให้แสงสว่างลำกล้องเข้มข้น
+HowToUseMe=เปิดเพื่อส่องสว่างในที่มืด หรือปิดเพื่อคงการพรางตัวในเงามืด
 
 [FRAGGRENADE]
-Name=Frag Grenade
-NameShort=Frag
-Description=SC-60 Series fragmentation grenade. 5.5cm steel sphere wrapped around comp B charge and high-explosive fuze. Explosion casts fragments in circular pattern, lethal to 2m.
-HowToUseMe=
+Name=ระเบิดสังหาร
+NameShort=ระเบิดสังหาร
+Description=ระเบิดสังหารลูกปรายซีรีส์ SC-60 ทรงกลมเหล็กขนาด 5.5 ซม. หุ้มดินระเบิด Composition B พร้อมชนวนระเบิดแรงสูง กระจายสะเก็ดระเบิดเป็นวงกลม รัศมีสังหาร 2 เมตร
+HowToUseMe=ดึงสลักแล้วขว้างไปยังกลุ่มเป้าหมายเพื่อทำลายล้างในรัศมีระเบิด
 
 [REVIVESYRINGE]
-Name=Adrenalin Syringe
-NameShort=Adrenalin Syringe
-Description=SC Experimental Adrenalin Boost. Injected into torso of incapacitated person increases survivability for most wounds.
-HowToUseMe=
+Name=เข็มฉีดยาอะดรีนาลีน
+NameShort=เข็มฉีดยาอะดรีนาลีน
+Description=สารกระตุ้นอะดรีนาลีนทดลองของ SC เมื่อฉีดเข้าสู่ลำตัวของผู้บาดเจ็บจนหมดสติ จะช่วยเพิ่มโอกาสรอดชีวิตจากบาดแผลส่วนใหญ่ได้
+HowToUseMe=ฉีดใส่เพื่อนร่วมทีมที่หมดสติเพื่อฟื้นฟูสภาพและชุบชีวิตกลับเข้าสู่ภารกิจ
 
 [GAZGRENADE]
-Name=Gas Grenade
-NameShort=Gas
-Description=SC-40 Series Less-Than-Lethal CS-Gas grenade. Releases a cloud of incapacitating CS gas for dispatching unprotected targets. Use with caution. Gas can cause damage to respiratory system.
-HowToUseMe=
+Name=ระเบิดแก๊ส
+NameShort=แก๊ส
+Description=ระเบิดแก๊ส CS แบบไม่ถึงตายซีรีส์ SC-40 ปล่อยกลุ่มควันแก๊ส CS ทำให้เป้าหมายที่ไม่มีอุปกรณ์ป้องกันหมดสติและสิ้นฤทธิ์ ควรใช้อย่างระมัดระวังเนื่องจากแก๊สอาจทำลายระบบทางเดินหายใจ
+HowToUseMe=ดึงสลักแล้วขว้างไปยังพื้นที่เป้าหมายเพื่อปล่อยควันแก๊สหยุดการเคลื่อนไหวของศัตรู
 
 [LASERMIC]
-Name=Laser Mic
-NameShort=Laser Mic
-Description=
-HowToUseMe=
+Name=ไมโครโฟนเลเซอร์
+NameShort=ไมโครโฟนเลเซอร์
+Description=ไมโครโฟนเลเซอร์ระยะไกล ใช้ยิงลำแสงสะท้อนกับกระจกหน้าต่างเพื่อดักฟังเสียงสนทนาภายในห้องจากระยะปลอดภัย
+HowToUseMe=เล็งลำแสงเลเซอร์ไปที่กระจกหน้าต่างของห้องเป้าหมายเพื่อดักฟังเสียงสนทนา
 
 [LIQUIDNITROGEN]
-Name=Liquid nitrogen
-NameShort=Liquid nitrogen
-Description=
-HowToUseMe=
+Name=ไนโตรเจนเหลว
+NameShort=ไนโตรเจนเหลว
+Description=สารทำความเย็นไนโตรเจนเหลวอุณหภูมิต่ำยิ่งยวด ใช้แช่แข็งกลไกล็อกหรืออุปกรณ์ให้เปราะแตกหักง่าย
+HowToUseMe=ฉีดพ่นลงบนเป้าหมายหรือกลไกที่ต้องการลดอุณหภูมิลงอย่างรวดเร็ว
 
 [LOCKPICK]
-Name=Lock Pick
-NameShort=Lock Pick
-Description=
-HowToUseMe=
+Name=ชุดสะเดาะกุญแจ
+NameShort=ชุดสะเดาะกุญแจ
+Description=ชุดเครื่องมือสะเดาะกลอนกุญแจมาตรฐาน สำหรับเปิดประตูล็อกทั่วไปได้อย่างเงียบเชียบและไม่ทิ้งร่องรอย
+HowToUseMe=ใช้กับประตูล็อก หมุนแกนและดันสลักเพื่อปลดล็อกกลอนทีละขั้น
 
 [M18SMOKEGRENADE]
-Name=M18 Colored Smoke Grenade
-NameShort=M18 Colored Smoke
-Description=
-HowToUseMe=
+Name=ระเบิดควันสี M18
+NameShort=ควันสี M18
+Description=ระเบิดควันสีทางยุทธวิธี M18 ใช้สร้างกลุ่มควันหนาทึบสำหรับส่งสัญญาณพิกัดหรืออำพรางทัศนวิสัย
+HowToUseMe=ดึงสลักแล้วขว้างเพื่อสร้างม่านควันสัญญาณหรือบดบังสายตา
 
 [MEDKIT]
-Name=Medical Kit
-NameShort=Medical Kit
-Description=
-HowToUseMe=
+Name=ชุดปฐมพยาบาล
+NameShort=ชุดปฐมพยาบาล
+Description=ชุดปฐมพยาบาลภาคสนามฉุกเฉิน บรรจุเวชภัณฑ์สำหรับฟื้นฟูพลังชีวิตและรักษาบาดแผลจากการปะทะ
+HowToUseMe=เปิดใช้งานเมื่อได้รับบาดเจ็บเพื่อฟื้นฟูแถบพลังชีวิตของแซม
 
 [OPTICCABLE]
-Name=OpticCable
-NameShort=OpticCable
-Description=
-HowToUseMe=
+Name=กล้องสายเคเบิล
+NameShort=กล้องสายเคเบิล
+Description=กล้องสายเคเบิลใยแก้วนำแสงแบบยืดหยุ่น สามารถสอดลอดใต้บานประตูเพื่อสอดแนมห้องฝั่งตรงข้ามได้อย่างปลอดภัย
+HowToUseMe=สอดเข้าใต้บานประตูที่ปิดอยู่เพื่อตรวจดูกำลังคนและเส้นทางลาดตระเวนของศัตรูก่อนเปิดประตู
 
 [RINGAIRFOILROUND]
-Name=Airfoil Round
-NameShort=Airfoil Round
-Description=40mm launchable high-impact, zero penetration round. Severe impacts can render targets unconscious. Silent operation.
-HowToUseMe=
+Name=กระสุนยางกระแทกแอร์ฟอยล์
+NameShort=กระสุนยางแอร์ฟอยล์
+Description=กระสุนทรงแอร์ฟอยล์ขนาด 40 มม. สำหรับยิงจากเครื่องยิง ให้แรงปะทะสูงโดยไม่เจาะทะลุ แรงกระแทกอย่างแรงสามารถทำให้เป้าหมายหมดสติได้ทันที ทำงานอย่างเงียบเชียบ
+HowToUseMe=ยิงใส่เป้าหมายเพื่อทำให้ล้มลงหรือมึนงงชั่วคราว จากนั้นเข้าประชิดเพื่อทำให้หมดสติ
 
 [SMOKEGRENADE]
-Name=Smoke Grenade
-NameShort=Smoke
-Description=SC-81 Series Smoke Grenade. Releases a cloud of visibility obscuring smoke, harmless when inhaled. Use to provide visibility cover when crossing open ground.
-HowToUseMe=
+Name=ระเบิดควัน
+NameShort=ระเบิดควัน
+Description=ระเบิดควันซีรีส์ SC-81 ปล่อยกลุ่มควันหนาทึบเพื่อบดบังการมองเห็น ควันไม่เป็นอันตรายเมื่อสูดดม ใช้สำหรับกำบังการมองเห็นขณะเคลื่อนที่ผ่านพื้นที่เปิดโล่ง
+HowToUseMe=ดึงสลักแล้วขว้างเพื่อสร้างม่านควันอำพรางสายตาทหารยามและกล้องวงจรปิด
 
 [STICKYCAMERA]
-Name=Sticky Camera
-NameShort=Sticky Camera
-Description=40mm launchable surveillance camera with real-time live wireless feed to OPSAT. Full Thermal, EMF and Night Vision capability, with pan and zoom functionality. Noise making and CS-gas release functionality for Less-Than-Lethal utility. Cameras can be recovered if Gas canister has not been ruptured. Wireless signal reacquisition possible if within range.
-HowToUseMe=
+Name=กล้องสติ๊กกี้
+NameShort=กล้องสติ๊กกี้
+Description=กล้องสอดแนมขนาด 40 มม. แบบยิงติดพื้นผิว ส่งสัญญาณภาพไร้สายสดแบบเรียลไทม์ไปยัง OPSAT รองรับโหมดกล้องมองความร้อน, ตรวจจับคลื่นแม่เหล็กไฟฟ้า (EMF) และมองกลางคืนอย่างสมบูรณ์ พร้อมฟังก์ชันหมุนส่ายและซูมภาพ สามารถส่งเสียงล่อศัตรูและปล่อยแก๊ส CS เพื่อสยบเป้าหมายแบบไม่ถึงตาย เก็บกล้องกลับมาใช้ใหม่ได้หากกระเปาะแก๊สยังไม่แตก สามารถเชื่อมต่อสัญญาณไร้สายใหม่ได้หากอยู่ในระยะ
+HowToUseMe=ยิงติดกับผนังหรือเพดาน สลับมุมมองเพื่อตรวจดูพื้นที่ ส่งเสียงล่อ หรือปล่อยแก๊สใส่ศัตรู
 
 [STICKYSHOCKER]
-Name=Sticky Shocker
-NameShort=Sticky Shocker
-Description=40mm launchable high-voltage, low-amperage adhesive round. Electrical discharge incapacitates target on impact. Charge can be conducted through water.
-HowToUseMe=
+Name=กระสุนช็อตไฟฟ้า
+NameShort=กระสุนช็อตไฟฟ้า
+Description=กระสุนหัวเหนียวขนาด 40 มม. ปล่อยกระแสไฟฟ้าแรงดันสูงแต่กระแสต่ำ ทำให้เป้าหมายหมดสติทันทีที่กระทบ สามารถส่งผ่านกระแสไฟฟ้าช็อตทหารยามหลายคนได้เมื่อยิงลงในแอ่งน้ำ
+HowToUseMe=ยิงใส่ตัวศัตรูโดยตรงหรือยิงลงในผืนน้ำเพื่อช็อตเป้าหมายให้หมดสติทันที
 
 
 [INFRAREDSTRESSGEN]
-Name=Stress Generator
-NameShort=Stress Generator
-Description=Stress Generator
-HowToUseMe=
+Name=เครื่องกำเนิดสัญญาณรบกวนอินฟราเรด
+NameShort=เครื่องกวนอินฟราเรด
+Description=อุปกรณ์รบกวนคลื่นอินฟราเรดแบบพกพา สำหรับสร้างสัญญาณหลอกหรือกระตุ้นความระแวดระวังของระบบรักษาความปลอดภัย
+HowToUseMe=เปิดใช้งานเพื่อสร้างสัญญาณหลอกเบี่ยงเบนความสนใจของทหารยามและอุปกรณ์ตรวจจับ
 
 [WALLMINE]
-Name=Wall Mine
-NameShort=Wall Mine
-Description=A motion sensitive high explosive adhesive mine, lethal to 3m. Can be disabled manually while green light is flashing.
-HowToUseMe=
+Name=กับระเบิดติดผนัง
+NameShort=กับระเบิดติดผนัง
+Description=กับระเบิดแรงสูงชนิดตรวจจับความเคลื่อนไหวแบบยึดติดพื้นผิว รัศมีสังหาร 3 เมตร สามารถเข้าไปปลดชนวนได้ด้วยมือขณะที่ไฟสัญญาณสีเขียวกำลังกะพริบ
+HowToUseMe=ติดตั้งบนผนังหรือพื้นผิวในเส้นทางเดินของศัตรู ระวังอย่าเคลื่อนที่เร็วขณะอยู่ใกล้เซ็นเซอร์
 
 [TARGETBEACON]
-Name=Target Beacon
-NameShort=Target Beacon
-Description=
-HowToUseMe=
+Name=บีคอนระบุเป้าหมาย
+NameShort=บีคอนระบุเป้าหมาย
+Description=อุปกรณ์ส่งสัญญาณวิทยุระบุพิกัดเป้าหมาย สำหรับนำวิถีการโจมตีทางอากาศหรือระบุจุดรับส่งกำลัง
+HowToUseMe=ติดตั้งหรือขว้างไปยังตำแหน่งที่ต้องการระบุพิกัดเป้าหมายอย่างแม่นยำ
 
 [UMP]
-Name=UMP
+Name=ปืนกลมือ UMP
 NameShort=UMP
-Description=UMP Short Machine Gun
-HowToUseMe=
+Description=ปืนกลมือขนาดกะทัดรัด UMP อัตราการยิงเสถียรและคล่องตัวสูงในระยะประชิด
+HowToUseMe=กดปุ่มยิงเพื่อยิงกระสุนทำลายล้างเป้าหมายในระยะใกล้ถึงปานกลาง
 
 [UZI]
-Name=Uzi
-NameShort=Uzi
-Description=SMG
-HowToUseMe=
+Name=ปืนกลมืออูซี่
+NameShort=อูซี่
+Description=ปืนกลมือขนาดกะทัดรัด อัตราการยิงรวดเร็วสูงสำหรับการต่อสู้ระยะประชิด
+HowToUseMe=กดปุ่มยิงเพื่อกราดกระสุนอย่างรวดเร็วในระยะประชิด
 
 [CRYOBLOODVIAL]
-Name=Cryo Blood Vial
-NameShort=Cryo Blood Vial
-Description=Cryo bla
-HowToUseMe=Cryo bla
+Name=หลอดเก็บตัวอย่างเลือดแช่แข็ง
+NameShort=หลอดเลือดแช่แข็ง
+Description=หลอดบรรจุตัวอย่างเซรั่มเลือดแช่แข็งสำหรับกระบวนการวิเคราะห์ต่อต้านไวรัส
+HowToUseMe=ใช้ร่วมกับถังเก็บความเย็นเพื่อผสมสารตามโพรโทคอลแอนติไวรัส

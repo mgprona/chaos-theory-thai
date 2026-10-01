@@ -1,169 +1,169 @@
 [MESSAGEBOX]
-DefaultAccept=OK
-DefaultCancel=CANCEL
-Yes=YES
-No=NO
+DefaultAccept=ตกลง
+DefaultCancel=ยกเลิก
+Yes=ใช่
+No=ไม่
 
 [SAVELOAD]
-SaveMsg=SAVING GAME...
-SaveInfo=YOU CAN SAVE OR LOAD YOUR GAME AT ANY TIME FROM THE PAUSE MENU
-SaveWarning=PLEASE DON'T TURN OFF YOUR XBOX CONSOLE.
-LoadMsg=LOADING...
-LoadGameMsg=LOADING GAME...
-CachingShaders=CACHING SM 3.0 SHADERS...
-CachingShaders2=CACHING SM 2.0 SHADERS...
+SaveMsg=กำลังบันทึกเกม...
+SaveInfo=คุณสามารถบันทึกหรือโหลดเกมได้ตลอดเวลาจากเมนูหยุดเกมชั่วคราว
+SaveWarning=โปรดอย่าปิดเครื่องคอนโซลของคุณ
+LoadMsg=กำลังโหลด...
+LoadGameMsg=กำลังโหลดเกม...
+CachingShaders=กำลังจัดเก็บแคชเชเดอร์ SM 3.0...
+CachingShaders2=กำลังจัดเก็บแคชเชเดอร์ SM 2.0...
 
 [CONTROLLER]
-ControllerLostTitle=CONTROLLER DISCONNECTED
-ControllerLostMsg=PLEASE RECONNECT THE CONTROLLER TO PORT [ %i ] AND PRESS START TO CONTINUE
-RemoteControllerLostMsg=TEAMMATE CONTROLLER HAS BEEN DISCONNECTED. WAITING FOR YOUR TEAMMATE
-ControllerTitle=CONTROLLER
-ControllerChoiceMsg=PLEASE CHOOSE ANOTHER CONTROLLER AND PRESS START TO CONTINUE
+ControllerLostTitle=คอนโทรลเลอร์ถูกตัดการเชื่อมต่อ
+ControllerLostMsg=โปรดเชื่อมต่อคอนโทรลเลอร์เข้ากับพอร์ต [ %i ] อีกครั้ง แล้วกด START เพื่อดำเนินการต่อ
+RemoteControllerLostMsg=คอนโทรลเลอร์ของเพื่อนร่วมทีมถูกตัดการเชื่อมต่อ กำลังรอเพื่อนร่วมทีมของคุณ
+ControllerTitle=คอนโทรลเลอร์
+ControllerChoiceMsg=โปรดเลือกคอนโทรลเลอร์ตัวอื่นแล้วกด START เพื่อดำเนินการต่อ
 
 [NAVIGATION]
-MsgBox_A=SELECT
-MsgBox_B=CANCEL
-MsgBoxYes_A=YES
-MsgBoxNo_B=NO
+MsgBox_A=เลือก
+MsgBox_B=ยกเลิก
+MsgBoxYes_A=ใช่
+MsgBoxNo_B=ไม่
 
-POPUP_A=SELECT
-POPUP_B=BACK
+POPUP_A=เลือก
+POPUP_B=ย้อนกลับ
 
-Common_A=SELECT
-Common_B=BACK
+Common_A=เลือก
+Common_B=ย้อนกลับ
 
-Main_A=SELECT
+Main_A=เลือก
 
-MatchList_A=JOIN
-MatchList_B=BACK
-MatchList_Y=CREATE
-MatchList_X=REFRESH
+MatchList_A=เข้าร่วม
+MatchList_B=ย้อนกลับ
+MatchList_Y=สร้างห้อง
+MatchList_X=รีเฟรช
 
-CreateMatch_A=SELECT
-CreateMatch_B=BACK
+CreateMatch_A=เลือก
+CreateMatch_B=ย้อนกลับ
 
-Lobby_A=SELECT
-Lobby_B=QUIT
-Lobby_X=READY
-LobbySetup_A=CHANGE
+Lobby_A=เลือก
+Lobby_B=ออก
+Lobby_X=พร้อม
+LobbySetup_A=เปลี่ยน
 
-Profile_A=SELECT
-Profile_B=BACK
-Profile_X=DELETE
-Profile_Y=CREATE
+Profile_A=เลือก
+Profile_B=ย้อนกลับ
+Profile_X=ลบ
+Profile_Y=สร้าง
 
-VKeyboard_A=SELECT
-VKeyboard_B=BACK
-VKeyboard_X=DELETE
-VKeyboard_Y=SWITCH
-VKeyboardNumbers_Y=NUMBERS
-VKeyboardLetters_Y=LETTERS
+VKeyboard_A=เลือก
+VKeyboard_B=ย้อนกลับ
+VKeyboard_X=ลบ
+VKeyboard_Y=สลับ
+VKeyboardNumbers_Y=ตัวเลข
+VKeyboardLetters_Y=ตัวอักษร
 
 
-StickyCamera_X=NOISE
-StickyCamera_Y=GAS
-StickyCamera_B=OUT
-StickyCamera_LT=PREVIOUS
-StickyCamera_RT=NEXT
-StickyCamera_DL=NIGHT
-StickyCamera_DR=HEAT
-StickyCamera_AL=ZOOM
+StickyCamera_X=เสียงล่อ
+StickyCamera_Y=แก๊ส
+StickyCamera_B=ออก
+StickyCamera_LT=ก่อนหน้า
+StickyCamera_RT=ถัดไป
+StickyCamera_DL=มองกลางคืน
+StickyCamera_DR=มองความร้อน
+StickyCamera_AL=ซูม
 
-OpticCable_DL=NIGHT
-OpticCable_DR=HEAT
+OpticCable_DL=มองกลางคืน
+OpticCable_DR=มองความร้อน
 OpticCable_DU=EMF
 
-OpsatMenu_A=SELECT
-OpsatMenu_B=BACK
+OpsatMenu_A=เลือก
+OpsatMenu_B=ย้อนกลับ
 
-OpsatMenuMap_A=HIDE
-OpsatMenuMap_LT=PREVIOUS
-OpsatMenuMap_RT=NEXT
-OpsatMenuMap_AL=ZOOM
-OpsatMenuMap_AR=CAMERA
-
-
-EEV_A=SELECT
-EEV_DL=NIGHT
-EEV_DR=HEAT
-EEV_AR_clic=OUT
-EEV_AL_clic=ZOOM
+OpsatMenuMap_A=ซ่อน
+OpsatMenuMap_LT=ก่อนหน้า
+OpsatMenuMap_RT=ถัดไป
+OpsatMenuMap_AL=ซูม
+OpsatMenuMap_AR=กล้อง
 
 
-Authentication_A=SELECT
-Authentication_B=BACK
-
-Friends_A=SELECT
-Friends_B=BACK
-Friends_Y=ADD
-
-RecentPlayers_A=SELECT
-RecentPlayers_B=BACK
-
-OnlineMain_X=SIGN OUT
-OnlineMain_B=BACK
-OnlineMain_A=SELECT
-
-OptiMatch_B=BACK
-OptiMatch_A=SELECT
-
-QuickMatch_Y=CREATE
-QuickMatch_X=REFRESH
-QuickMatch_B=BACK
-QuickMatch_A=JOIN
-
-MissionReview_A=CONTINUE
-MissionReview_B=BACK
-MissionReview_Y=RESTART
-MissionReview_X=QUIT
-MissionReviewFinish_A=END
+EEV_A=เลือก
+EEV_DL=มองกลางคืน
+EEV_DR=มองความร้อน
+EEV_AR_clic=ออก
+EEV_AL_clic=ซูม
 
 
-CreateMsg_A=SELECT
-CreateMsg_B=BACK
-CreateMsg_Y=PLAY
-Inbox_X=DELETE
-Inbox_A=READ
-Inbox_B=BACK
-ReadMsg_X=DELETE
-ReadMsg_Y=PLAY
-ReadMsg_A=SELECT
-ReadMsg_B=BACK
-VoiceRecorder_A=SELECT
-VoiceRecorder_B=BACK
-VoiceRecorder_X=DELETE
+Authentication_A=เลือก
+Authentication_B=ย้อนกลับ
 
-LoadOut_A=CONTINUE
-LoadOut_B=BRIEFING
-LoadOut_Y=INFO
-LoadOutSel_A=INFO
-LoadOutSel_X=REMOVE
-LoadOutSel_Y=ADD
-LoadOutSel_B=BACK
+Friends_A=เลือก
+Friends_B=ย้อนกลับ
+Friends_Y=เพิ่ม
 
-LoadGame_A=LOAD
-LoadGame_B=BACK
+RecentPlayers_A=เลือก
+RecentPlayers_B=ย้อนกลับ
 
-SaveGame_A=SAVE
-SaveGame_B=BACK
+OnlineMain_X=ลงชื่อออก
+OnlineMain_B=ย้อนกลับ
+OnlineMain_A=เลือก
 
-Hacking_A=ACCEPT
-Hacking_B=ABORT
-Hacking_X=LOCK
-Hacking_AL=SELECT
+OptiMatch_B=ย้อนกลับ
+OptiMatch_A=เลือก
+
+QuickMatch_Y=สร้างห้อง
+QuickMatch_X=รีเฟรช
+QuickMatch_B=ย้อนกลับ
+QuickMatch_A=เข้าร่วม
+
+MissionReview_A=ดำเนินการต่อ
+MissionReview_B=ย้อนกลับ
+MissionReview_Y=เริ่มใหม่
+MissionReview_X=ออก
+MissionReviewFinish_A=สิ้นสุด
 
 
-UserOffline=NOT SIGNED IN
-UserLoginPassword=NOT SIGNED IN : PASSCODE NEEDED
-UserLoginSuccess=SIGNED IN : %s
-UserLoginFail=SIGN-IN FAILED
+CreateMsg_A=เลือก
+CreateMsg_B=ย้อนกลับ
+CreateMsg_Y=เล่น
+Inbox_X=ลบ
+Inbox_A=อ่าน
+Inbox_B=ย้อนกลับ
+ReadMsg_X=ลบ
+ReadMsg_Y=เล่น
+ReadMsg_A=เลือก
+ReadMsg_B=ย้อนกลับ
+VoiceRecorder_A=เลือก
+VoiceRecorder_B=ย้อนกลับ
+VoiceRecorder_X=ลบ
 
-Missile_A=CUT
-Missile_B=BACK
-CryoTank_A=MIX
-CryoTank_B=EXIT
-Crane_AL=SELECT
-Crane_RT=MOVE DOWN
-Crane_LT=MOVE UP
-Bomb_A=CUT
-Bomb_B=EXIT
+LoadOut_A=ดำเนินการต่อ
+LoadOut_B=สรุปภารกิจ
+LoadOut_Y=ข้อมูล
+LoadOutSel_A=ข้อมูล
+LoadOutSel_X=นำออก
+LoadOutSel_Y=เพิ่ม
+LoadOutSel_B=ย้อนกลับ
+
+LoadGame_A=โหลด
+LoadGame_B=ย้อนกลับ
+
+SaveGame_A=บันทึก
+SaveGame_B=ย้อนกลับ
+
+Hacking_A=ยืนยัน
+Hacking_B=ยกเลิก
+Hacking_X=ล็อก
+Hacking_AL=เลือก
+
+
+UserOffline=ยังไม่ได้ลงชื่อเข้าใช้
+UserLoginPassword=ยังไม่ได้ลงชื่อเข้าใช้ : ต้องใช้รหัสผ่าน
+UserLoginSuccess=ลงชื่อเข้าใช้แล้ว : %s
+UserLoginFail=การลงชื่อเข้าใช้ล้มเหลว
+
+Missile_A=ตัดสายไฟ
+Missile_B=ย้อนกลับ
+CryoTank_A=ผสม
+CryoTank_B=ออก
+Crane_AL=เลือก
+Crane_RT=เลื่อนลง
+Crane_LT=เลื่อนขึ้น
+Bomb_A=ตัดสายไฟ
+Bomb_B=ออก

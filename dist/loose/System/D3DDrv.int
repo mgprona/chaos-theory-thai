@@ -4,6 +4,6 @@ Preferences=(Caption="Rendering",Parent="Advanced Options")
 Preferences=(Caption="Rendering",Parent="Advanced Options")
 
 [D3DRenderDevice]
-ClassCaption="Direct3D Support"
-AskInstalled=Do you want to use Direct3D?
-AskUse=
+ClassCaption="การรองรับ Direct3D"
+AskInstalled=คุณต้องการใช้ Direct3D หรือไม่?
+AskUse=คุณต้องการเปิดใช้ Direct3D หรือไม่?

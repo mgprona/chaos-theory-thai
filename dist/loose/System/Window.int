@@ -1,74 +1,74 @@
 [Errors]
-Critical=Critical Error
-FailedConfigLoad=%s (failed load)
+Critical=ข้อผิดพลาดร้ายแรง
+FailedConfigLoad=%s (โหลดล้มเหลว)
 
 [General]
 BrowseButton=...
-UseButton=Use
-ClearButton=Clear
-ColorButton=Color
-PickButton=Pick
-FindButton=Find
-OkButton=Ok
-AddButton=Add
-EmptyButton=Empty
-InsertButton=Insert
-DeleteButton=Delete
-DefaultsButton=Reset To Defaults
-BackButton=< &Back
-NextButton=&Next >
-FinishButton=&Finish
-CancelButton=Cancel
-InstallButton=&Install
-YesButton=&Yes
-NoButton=&No
-AgreeButton=I &Agree
-LanguagePrompt=Language:
-LanguageWindow=Language Selection
-LogWindow=%s Log Window
-PropNone=Nothing Selected
-PropSingle=%s Properties
-PropMulti=%s Properties (%i selected)
-InsertCdText=Please insert the Unreal CD-Rom into your drive and press OK to continue, or Cancel to exit.
-InsertCdTitle=Cd Required At Startup
-AdvancedOptionsTitle=Advanced Options
-Low=Low
-High=High
-New=New
-OtherInstanceRunning=Another instance of Tom Clancy's Splinter Cell Chaos Theory is already running.
+UseButton=ใช้งาน
+ClearButton=ล้าง
+ColorButton=สี
+PickButton=เลือก
+FindButton=ค้นหา
+OkButton=ตกลง
+AddButton=เพิ่ม
+EmptyButton=ว่างเปล่า
+InsertButton=แทรก
+DeleteButton=ลบ
+DefaultsButton=รีเซ็ตเป็นค่าเริ่มต้น
+BackButton=< ย้อนกลับ (&B)
+NextButton=ถัดไป (&N) >
+FinishButton=เสร็จสิ้น (&F)
+CancelButton=ยกเลิก
+InstallButton=ติดตั้ง (&I)
+YesButton=ใช่ (&Y)
+NoButton=ไม่ (&N)
+AgreeButton=ฉันยอมรับ (&A)
+LanguagePrompt=ภาษา:
+LanguageWindow=การเลือกภาษา
+LogWindow=หน้าต่างบันทึกประวัติ %s
+PropNone=ไม่ได้เลือกรายการใด
+PropSingle=คุณสมบัติของ %s
+PropMulti=คุณสมบัติของ %s (เลือก %i รายการ)
+InsertCdText=กรุณาใส่แผ่นซีดีรอม Unreal ลงในไดรฟ์ของคุณ แล้วกด ตกลง เพื่อดำเนินการต่อ หรือ ยกเลิก เพื่อออก
+InsertCdTitle=ต้องใช้แผ่นซีดีตอนเริ่มต้น
+AdvancedOptionsTitle=ตัวเลือกขั้นสูง
+Low=ต่ำ
+High=สูง
+New=ใหม่
+OtherInstanceRunning=เกม Tom Clancy's Splinter Cell Chaos Theory กำลังทำงานอยู่แล้วในอีกหน้าต่าง
 
 [FirstRun]
-Caption=Initial Configuration
-LowMemory=Unreal has detected that you have %i megabytes of memory available. To improve performance, the "Low Detail Textures" and "Low Sound Quality" options have been enabled.  You may change this settings in the "Performance Settings" menu.
-NonMMX=Unreal has detected that you're using a non-MMX PC. Based on this, the sound playback rate has been set to use the least CPU power. You may change this settings in the "Advanced Options / Audio" menu.
-Starting=Unreal is starting up with new settings. If you experience any problems, please read the Troubleshooting section of the Release Notes in the "Start" menu.
+Caption=การกำหนดค่าเริ่มต้น
+LowMemory=Unreal ตรวจพบว่าคุณมีหน่วยความจำที่ใช้งานได้ %i เมกะไบต์ เพื่อปรับปรุงประสิทธิภาพการทำงาน ระบบจึงเปิดใช้ตัวเลือก "พื้นผิวรายละเอียดต่ำ" และ "คุณภาพเสียงต่ำ" คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในเมนู "การตั้งค่าประสิทธิภาพ"
+NonMMX=Unreal ตรวจพบว่าคุณใช้พีซีที่ไม่รองรับชุดคำสั่ง MMX ด้วยเหตุนี้ อัตราการเล่นเสียงจึงถูกตั้งให้ใช้พลังงาน CPU น้อยที่สุด คุณสามารถเปลี่ยนการตั้งค่านี้ได้ในเมนู "ตัวเลือกขั้นสูง / ระบบเสียง"
+Starting=Unreal กำลังเริ่มต้นด้วยการตั้งค่าใหม่ หากคุณพบปัญหาใดๆ โปรดอ่านหัวข้อการแก้ไขปัญหาในเอกสารข้อมูลประจำรุ่นจากเมนู "Start"
 
 [IDDIALOG_Directory]
-IDC_Directory=Installation Folder
-IDC_ChoosePrompt=Please choose the installation folder.
-IDC_PathTitle=&Path:
-IDC_DirectoryTitle=&Directories:
-IDC_DrivesTitle=Dri&ves:
-IDC_NetworkButton=&Network
+IDC_Directory=โฟลเดอร์สำหรับติดตั้ง
+IDC_ChoosePrompt=โปรดเลือกโฟลเดอร์สำหรับติดตั้ง
+IDC_PathTitle=เส้นทาง (&P):
+IDC_DirectoryTitle=ไดเรกทอรี (&D):
+IDC_DrivesTitle=ไดรฟ์ (&V):
+IDC_NetworkButton=เครือข่าย (&N)
 
 [IDDIALOG_Password]
-IDC_Password=Password Check
-IDC_Prompt=Please enter your name and password.
-IDC_Name=&Name:
-IDC_Password=Password Check
+IDC_Password=ตรวจสอบรหัสผ่าน
+IDC_Prompt=โปรดป้อนชื่อและรหัสผ่านของคุณ
+IDC_Name=ชื่อ (&N):
+IDC_Password=ตรวจสอบรหัสผ่าน
 
 [IDMENU_NotifyIcon]
-ID_NotifyIcon=Menu
-ID_NotifyShowLog=&UnrealServer Console
-ID_NotifyAdvancedOptions=&Advanced Options
-ID_NotifyExit=E&xit UnrealServer
+ID_NotifyIcon=เมนู
+ID_NotifyShowLog=คอนโซล UnrealServer (&U)
+ID_NotifyAdvancedOptions=ตัวเลือกขั้นสูง (&A)
+ID_NotifyExit=ออกจาก UnrealServer (&X)
 
 [IDMENU_Log]
-ID_LogFile=&File
-ID_LogAdvancedOptions=&Advanced Options
-ID_LogFileExit=E&xit
+ID_LogFile=ไฟล์ (&F)
+ID_LogAdvancedOptions=ตัวเลือกขั้นสูง (&A)
+ID_LogFileExit=ออก (&X)
 
 [IDDIALOG_CrashBox]
-IDC_Copy=Copy
-IDC_BugReport=Support website
+IDC_Copy=คัดลอก
+IDC_BugReport=เว็บไซต์ฝ่ายสนับสนุน
 BugReportURL=http://support.ubi.com/
