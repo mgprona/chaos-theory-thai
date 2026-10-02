@@ -25,7 +25,7 @@
         "de": "AUFGABE",
         "es": "TODO",
         "it": "INCARICO",
-        "th": "TODO"
+        "th": "รอดำเนินการ"
       },
       "Briefing_LAMBERT": {
         "en": "LAMBERT - Fisher, I know you think the shortest distance to solving this problem is to go after Shetland, and you might be right. Unfortunately, the diplomatic situation surrounding the Walsh incident is not softening. We are less than twenty-four hours from open war on the Korean Peninsula. We've located the battery that launched the missile against the Walsh. If there is any credence to the North Korean claim that the launch was unintentional, we need to prove it...and fast.",
@@ -41,7 +41,7 @@
         "de": "Ich habe die Daten untersucht, die du auf Zherkezhis Computer in New York sicher gestellt hast. Zherkezhis Algorithmus ist eine hochentwickelte Weiterentwicklung von Masses Kernels, deren Komplexität von Dvorak mittels Rekursion unendlich erhöht wurde. Wenn es dir gelänge, auf das BIOS der Startanlage in der Batterie zuzugreifen, müsste ich den Fingerprint dieses Algorithmus im System identifizieren können.",
         "es": "He estado analizando los datos del ordenador de Zherkezhi en Nueva York. El algoritmo de Zherkezhi es una extrapolación de los kernels de Masse, convertidos en algo infinitamente más complejo gracias a las iteraciones de Dvorak. Si consigues acceder a la BIOS de los lanzamisiles de esa batería, podré identificar la huella que el algoritmo debió dejar en el sistema.",
         "it": "Abbiamo decodificato i dati che hai recuperato dal computer di Zherkezhi a New York. L'algoritmo di Zherkezhi è un'estrapolazione avanzata dei kernel di Masse resa infinitamente più complessa dalla ricorsione attraverso Dvorak. Credo che se potessi accedere al BIOS del lanciamissili della batteria, potrei identificare l'impronta lasciata dall'algoritmo sul sistema.",
-        "th": "กริมส์ดอตเตียร์ - ฉันถอดรหัสย้อนกลับข้อมูลที่คุณกู้มาจากคอมพิวเตอร์ของเซอร์เคซีในนิวยอร์ก อัลกอริทึมของเซอร์เคซีเป็นการคาดการณ์ขั้นสูงจากมาส์สเคอร์เนล ที่ซับซ้อนขึ้นอย่างมหาศาลจากการเวียนเกิดผ่านดโวรัก ฉันคิดว่าถ้าคุณเข้าถึงหน่วยความจำ BIOS ของเครื่องยิงขีปนาวุธที่ฐานยิงได้ ฉันน่าจะระบุลายนิ้วมือที่อัลกอริทึมทิ้งไว้ในระบบได้"
+        "th": "กริมส์ดอตเตียร์ - ฉันถอดรหัสย้อนกลับข้อมูลที่คุณกู้มาจากคอมพิวเตอร์ของเซอร์เคซีในนิวยอร์ก อัลกอริทึมของเซอร์เคซีเป็นการคาดการณ์ขั้นสูงจากมาสส์เคอร์เนล ที่ซับซ้อนขึ้นอย่างมหาศาลจากการเวียนเกิดผ่านดโวรัก ฉันคิดว่าถ้าคุณเข้าถึงหน่วยความจำ BIOS ของเครื่องยิงขีปนาวุธที่ฐานยิงได้ ฉันน่าจะระบุลายนิ้วมือที่อัลกอริทึมทิ้งไว้ในระบบได้"
       },
       "Briefing_REDDING": {
         "en": "REDDING - You'll be doing a HALO insertion into a forest two clicks east of the battery. You'll enter the battery's secure perimeter and infiltrate via the main air shaft. The battery itself has been around since World War Two, but intelligence and satellite imaging shows its been retrofitted several times since then. We have some limited mapping data... we don't know what you'll find. ",
@@ -234,7 +234,7 @@
         "de": "Feng, ich habe mir heute die Gewehrmunition angesehen, die ins Lager geliefert wurde. Sieht so aus, als hättest du NATO-Patronen des Kalibers 5,56 mm bestellt. Ich hätte gar nicht gedacht, dass so was geht... Aber wir haben natürlich nicht die passenden Waffen dafür. Was machen wir jetzt damit?",
         "es": "Feng, he echado un vistazo a la zona de municiones en el almacén y parece que has pedido cartuchos de calibre 5.56 OTAN. No creo que sea posible, pero aunque lo fuera no tenemos armas para esa munición. ¿Qué piensas hacer con ellas?",
         "it": "Feng, stavo controllando le munizioni consegnate al magazzino e vedo che hai ordinato le NATO 5.56. Non credevo fosse possibile... il problema è che non abbiamo armi con cui usarle. E ora che ci facciamo?",
-        "th": "เฟิง ฉันตรวจของส่งมอบอาวุธขนาดเล็กในคลังแล้ว ดูเหมือนคุณสั่ง NATO 5.56 มา ฉันไม่คิดว่ามันจะเป็นไปได้... แต่ช่างเถอะ เรามีปืนที่ยิงกระสุนแบบนั้นไหมล่ะ? เราจะเอามันไปทำอะไร?"
+        "th": "เฟิง ฉันตรวจของส่งมอบอาวุธขนาดเล็กในคลังแล้ว ดูเหมือนคุณสั่ง NATO 5.56 มา ฉันไม่คิดว่ามันจะเป็นไปได้... แต่ช่างเถอะ เราไม่มีอาวุธที่ยิงกระสุนแบบนั้นได้เลย เราจะเอามันไปทำอะไร?"
       },
       "EmailMunitionsDate": {
         "en": "July 6, 2007",
@@ -274,7 +274,7 @@
         "de": "Bong, ich weiSS, dass du Probleme mit deiner Nase bekommst, wenn du lange unter der Erde bist. Deswegen habe ich noch einen Erste-Hilfe-Schrank bestellt und für den Fall der Fälle im Raketenkontrollraum anbringen lassen.",
         "es": "Bong, sé que tienes problemas respiratorios cuando estás mucho tiempo bajo tierra, así que he pedido otro botiquín y lo hemos puesto en la sala de control de la plataforma de misiles, por si lo necesitas.",
         "it": "Bong, so che hai problemi al naso quando resti sotto terra troppo a lungo, così ho ordinato un altro kit medico e l'ho fatto installare nella stanza di controllo della baia di lancio, nel caso ne avessi bisogno.",
-        "th": "บง ฉันรู้ว่าคุณมีปัญหาเรื่องเลือดกำเดาเวลาอยู่ใต้ดินนานๆ ฉันเลยสั่งชุดปฐมพยาบาลมาเพิ่มและติดตั้งไว้ในห้องควบคุมห้องขีปนาวุธ เผื่อคุณต้องใช้"
+        "th": "บง ฉันรู้ว่าคุณมีปัญหาเรื่องเลือดกำเดาเวลาอยู่ใต้ดินนานๆ ฉันเลยสั่งชุดปฐมพยาบาลมาเพิ่มและติดตั้งไว้ในห้องควบคุมขีปนาวุธ เผื่อคุณต้องใช้"
       },
       "EmailBloodyDate": {
         "en": "July 6, 2007",
@@ -365,7 +365,7 @@
         "de": "Ich habe die Daten untersucht, die du auf Zherkezhis Computer in New York sicher gestellt hast. Zherkezhis Algorithmus ist eine hochentwickelte Weiterentwicklung von Masses Kernels, deren Komplexität von Dvorak mittels Rekursion unendlich erhöht wurde. Wenn es dir gelänge, auf das BIOS der Startanlage in der Batterie zuzugreifen, müsste ich den Fingerprint dieses Algorithmus im System identifizieren können.",
         "es": "He estado analizando los datos del ordenador de Zherkezhi en Nueva York. El algoritmo de Zherkezhi es una extrapolación de los kernels de Masse, convertidos en algo infinitamente más complejo gracias a las iteraciones de Dvorak. Si consigues acceder a la BIOS de los lanzamisiles de esa batería, podré identificar la huella que el algoritmo debió dejar en el sistema.",
         "it": "Abbiamo decodificato i dati che hai recuperato dal computer di Zherkezhi a New York. L'algoritmo di Zherkezhi è un'estrapolazione avanzata dei kernel di Masse resa infinitamente più complessa dalla ricorsione attraverso Dvorak. Credo che se potessi accedere al BIOS del lanciamissili della batteria, potrei identificare l'impronta lasciata dall'algoritmo sul sistema.",
-        "th": "กริมส์ดอตเตียร์ - ฉันถอดรหัสย้อนกลับข้อมูลที่คุณกู้มาจากคอมพิวเตอร์ของเซอร์เคซีในนิวยอร์ก อัลกอริทึมของเซอร์เคซีเป็นการคาดการณ์ขั้นสูงจากมาส์สเคอร์เนล ที่ซับซ้อนขึ้นอย่างมหาศาลจากการเวียนเกิดผ่านดโวรัก ฉันคิดว่าถ้าคุณเข้าถึงหน่วยความจำ BIOS ของเครื่องยิงขีปนาวุธที่ฐานยิงได้ ฉันน่าจะระบุลายนิ้วมือที่อัลกอริทึมทิ้งไว้ในระบบได้"
+        "th": "กริมส์ดอตเตียร์ - ฉันถอดรหัสย้อนกลับข้อมูลที่คุณกู้มาจากคอมพิวเตอร์ของเซอร์เคซีในนิวยอร์ก อัลกอริทึมของเซอร์เคซีเป็นการคาดการณ์ขั้นสูงจากมาสส์เคอร์เนล ที่ซับซ้อนขึ้นอย่างมหาศาลจากการเวียนเกิดผ่านดโวรัก ฉันคิดว่าถ้าคุณเข้าถึงหน่วยความจำ BIOS ของเครื่องยิงขีปนาวุธที่ฐานยิงได้ ฉันน่าจะระบุลายนิ้วมือที่อัลกอริทึมทิ้งไว้ในระบบได้"
       },
       "Speech_0003L": {
         "en": "REDDING - You'll be doing a HALO insertion into a forest two clicks east of the battery. You'll enter the battery's secure perimeter and infiltrate via the vehicle entrance. The battery itself has been around since World War Two, but intelligence and satellite imaging shows its been retrofitted several times since then. We have some limited mapping data... we don't know what you'll find.",
@@ -373,7 +373,7 @@
         "de": "Du wirst das Gebiet aus großer Höhe per Fallschirm infiltrieren, zwei Klicks östlich der Raketenbatterie. Anschließend wirst du in den Sicherheitsbereich der Anlage eindringen und die Stellung durch die Fahrzeugzufahrt betreten. Die Batterie selbst besteht schon seit dem Zweiten Weltkrieg, aber Geheimdienstinformationen und Satellitenaufnahmen zeigen, dass sie seitdem mehrmals modernisiert wurde. Wir besitzen nur begrenztes Kartenmaterial ... wir wissen nicht, was dich erwartet.",
         "es": "Te soltaremos en paracaídas en un bosque, dos kilómetros al este de la batería. Penetrarás en su perímetro de seguridad y te infiltrarás por la entrada de aire principal. La batería lleva allí desde la Segunda Guerra Mundial, pero el satélite indica que ha sido readaptada varias veces. Tenemos datos cartográficos, pero limitados. Ignoramos qué vas a encontrarte.",
         "it": "Dovrai effettuare un inserimento HALO in una foresta a due clic a est della batteria. Entrerai nel perimetro di sicurezza della batteria e ti infiltrerai attraverso il condotto di ventilazione principale. La batteria è in servizio più o meno dalla Seconda Guerra Mondiale, ma l'intelligence e il satellite indicano che è stata aggiornata diverse volte. Abbiamo pochi dati sulla locazione... non sappiamo cosa troverai.",
-        "th": "เรดดิง - คุณจะแทรกซึมแบบ HALO ลงในป่าสองคลิกทางตะวันออกของฐานยิง คุณจะเข้าไปในเขตรักษาความปลอดภัยของฐานยิงและแทรกซึมทางทางเข้ายานพาหนะ ตัวฐานยิงมีมาตั้งแต่สมัยสงครามโลกครั้งที่สอง แต่ข่าวกรองและภาพดาวเทียมแสดงว่ามันถูกปรับปรุงหลายครั้งตั้งแต่นั้น เรามีข้อมูลแผนที่จำกัด... เราไม่รู้ว่าคุณจะเจออะไร"
+        "th": "เรดดิง - คุณจะแทรกซึมแบบ HALO ลงในป่าสองคลิกทางตะวันออกของฐานยิง คุณจะเข้าไปในเขตรักษาความปลอดภัยของฐานยิงและแทรกซึมทางประตูยานพาหนะ ตัวฐานยิงมีมาตั้งแต่สมัยสงครามโลกครั้งที่สอง แต่ข่าวกรองและภาพดาวเทียมแสดงว่ามันถูกปรับปรุงหลายครั้งตั้งแต่นั้น เรามีข้อมูลแผนที่จำกัด... เราไม่รู้ว่าคุณจะเจออะไร"
       },
       "Speech_0004L": {
         "en": "MASON - Since the destruction of the Walsh, USS Ronald Reagan has assumed C and C duties for the Battle Group in the Yellow Sea. Our fleet is on Red Alert. In case of war, we are prepared to conduct precision sorties against high-value targets aimed at reducing North Korean coastal defenses for insertion behind their advancing front. If intelligence indicates that the Koreans are picking a fight, then it's a fight they'll get. Anyone in that battery when the whistle blows better find himself a tin hat and a bible.",
@@ -381,7 +381,7 @@
         "de": "Seit der Zerstörung der Walsh hat die USS Ronald Reagan das Kommando über den Einsatzverband im Gelben Meer übernommen. Für unsere Flotte gilt Alarmstufe Rot. Im Falle eines Kriegsausbruchs sind wir bereit, Präzisionsangriffe auf wichtige Ziele durchzuführen und die Küstenbefestigungen Nordkoreas zu schwächen, um einen Einsatz hinter der vorrückenden Front zu ermöglichen. Falls es tatsächlich so aussieht, als wollten die Koreaner einen Kampf, dann werden sie den auch bekommen. Wenn es losgeht, sollte sich jeder in dieser Batterie schnell einen Stahlhelm und eine Bibel besorgen.",
         "es": "Desde la destrucción del Walsh, el USS Ronald Reagan ha asumido el mando del Grupo de Portaaviones del Mar Amarillo. Nuestra flota está en Alerta Roja. En caso de guerra, estamos preparados para lanzar ataques de precisión para castigar las defensas costeras norcoreanas y facilitar infiltraciones tras su frente. Si Inteligencia dice que los coreanos buscan una guerra, la tendrán. Todo aquel que esté en las baterías cuando suene la sirena hará bien en buscarse un casco y una Biblia.",
         "it": "Dopo la distruzione della Walsh, la USS Ronald Reagan ha assunto il controllo delle operazioni nel Mar Giallo. La nostra flotta è in allarme rosso. In caso di guerra, siamo pronti a condurre attacchi di precisione contro obiettivi sensibili, mirati a indebolire le difese costiere nordcoreane allo scopo di inserirci dietro le loro linee. Lo spionaggio riferisce che i Coreani cercano lo scontro; bene, è quello che avranno. Chiunque si trovi in quella batteria farà meglio a cercarsi un elmetto e una bibbia.",
-        "th": "นับตั้งแต่เรือวอลช์ถูกทำลาย เรือยูเอสเอส โรนัลด์ เรแกนเข้ารับหน้าที่บังคับบัญชาและควบคุมกลุ่มรบในทะเลเหลือง กองเรือของเราอยู่ในระดับเตือนภัยแดง ในกรณีสงคราม เราพร้อมปฏิบัติการบินโจมตีแม่นยำต่อเป้าหมายสำคัญ เพื่อลดขีดความสามารถการป้องกันชายฝั่งของเกาหลีเหนือสำหรับการแทรกซึมหลังแนวรบที่รุกเข้ามา ถ้าข่าวกรองชี้ว่าพวกเกาหลีหาที่ตาย พวกเขาก็จะได้เจอ ใครก็ตามที่อยู่ในฐานยิงนั้นตอนนกหวีดดัง ควรหาหมวกเหล็กกับไบเบิลไว้ให้ตัวเอง"
+        "th": "เมสัน - นับตั้งแต่เรือวอลช์ถูกทำลาย เรือยูเอสเอส โรนัลด์ เรแกนเข้ารับหน้าที่บังคับบัญชาและควบคุมกลุ่มรบในทะเลเหลือง กองเรือของเราอยู่ในระดับเตือนภัยแดง ในกรณีสงคราม เราพร้อมปฏิบัติการบินโจมตีแม่นยำต่อเป้าหมายสำคัญ เพื่อลดขีดความสามารถการป้องกันชายฝั่งของเกาหลีเหนือสำหรับการแทรกซึมหลังแนวรบที่รุกเข้ามา ถ้าข่าวกรองชี้ว่าพวกเกาหลีหาที่ตาย พวกเขาก็จะได้เจอ ใครก็ตามที่อยู่ในฐานยิงนั้นตอนนกหวีดดัง ควรหาหมวกเหล็กกับไบเบิลไว้ให้ตัวเอง"
       },
       "Speech_0005L": {
         "en": "OTOMO - Japanese I-SDF has been instrumental in determining that the missile that sank the Walsh was indeed fired from this battery.  You have the complete support of all branches of the Japanese Self Defense Force in order to determine the rationale for this insane move by the Korean aggressors. We do not have the capability to strike the facility directly, but I-SDF will use any means at our disposal to interfere with their capabilities in the event that our great American allies are forced to declare war.",
@@ -389,7 +389,7 @@
         "de": "Die japanische I-SDF hat maßgeblich dazu beigetragen zu ermitteln, dass die Rakete, welche die Walsh zerstört hat, tatsächlich von dieser Batterie abgefeuert wurde. Sie genießen bei Ihrem Bemühen, die Motivation hinter dieser wahnwitzigen Aktion der koreanischen Aggressoren herauszufinden, die vollste Unterstützung aller Teile der japanischen Armee. Uns fehlen die Kapazitäten für einen direkten Angriff auf die Anlage, aber die I-SDF wird, für den Fall, dass unsere amerikanischen Verbünden zu einem Krieg gezwungen werden sollten, alles tun, um die Ressourcen des Feindes einzuschränken.",
         "es": "La Inteligencia japonesa ha sido vital para determinar que el misil que hundió al Walsh fue disparado desde esta batería. Tendrán el apoyo sin reservas de todas las secciones de las Fuerzas de Autodefensa de Japón para esclarecer las razones de la infame agresión coreana. No tenemos capacidad para atacar directamente esa batería, pero utilizaremos todos nuestros medios para interferir en sus instalaciones en el caso de que nuestros aliados americanos tengan que declarar la guerra.",
         "it": "L'I-SDF giapponese è stato fondamentale per determinare che il missile che ha affondato la Walsh proveniva realmente da questa batteria. Avete il completo supporto di tutti i settori della Forza di Autodifesa Giapponese per determinare la ragione di questa folle mossa da parte degli aggressori coreani. Non abbiamo la possibilità di colpire direttamente la struttura, ma l'I-SDF userà tutti i mezzi a propria disposizione per interferire con la loro operatività nel caso che i nostri grandi alleati americani siano costretti a dichiarare guerra.",
-        "th": "หน่วย I-SDF ของญี่ปุ่นมีบทบาทสำคัญในการยืนยันว่าขีปนาวุธที่จมเรือวอลช์ถูกยิงจากฐานยิงแห่งนี้จริง คุณจะได้รับการสนับสนุนเต็มที่จากทุกเหล่าทัพของกองกำลังป้องกันตนเองญี่ปุ่น เพื่อพิสูจน์เหตุผลเบื้องหลังการกระทำอันบ้าคลั่งของฝ่ายรุกรานเกาหลี เราไม่มีความสามารถโจมตีฐานนี้โดยตรง แต่ I-SDF จะใช้ทุกวิถีทางที่เรามีเพื่อรบกวนขีดความสามารถของพวกเขา ในกรณีที่พันธมิตรอเมริกันผู้ยิ่งใหญ่ของเราถูกบังคับให้ประกาศสงคราม"
+        "th": "โอโตโม - หน่วย I-SDF ของญี่ปุ่นมีบทบาทสำคัญในการยืนยันว่าขีปนาวุธที่จมเรือวอลช์ถูกยิงจากฐานยิงแห่งนี้จริง คุณจะได้รับการสนับสนุนเต็มที่จากทุกเหล่าทัพของกองกำลังป้องกันตนเองญี่ปุ่น เพื่อพิสูจน์เหตุผลเบื้องหลังการกระทำอันบ้าคลั่งของฝ่ายรุกรานเกาหลี เราไม่มีความสามารถโจมตีฐานนี้โดยตรง แต่ I-SDF จะใช้ทุกวิถีทางที่เรามีเพื่อรบกวนขีดความสามารถของพวกเขา ในกรณีที่พันธมิตรอเมริกันผู้ยิ่งใหญ่ของเราถูกบังคับให้ประกาศสงคราม"
       }
     },
     "P_07_Battery_Communications": {
@@ -416,7 +416,7 @@
         "de": "Der Kommandant der Basis sollte aktuelle Daten über die Divisionsstärke der NKA bei Kaesong-Munsan besitzen.",
         "es": "El jefe de la base quiere saber cuántas divisiones tienen las tropas norcoreanas que avanzan hacia Kaesong-Musan.",
         "it": "Il comandante della base dovrebbe avere informazioni aggiornate sulla forza delle divisioni nordcoreane sulla tratta Kaesong-Munsan.",
-        "th": "แลมเบิร์ต - ผู้บัญชาการฐานน่าจะมีข่าวกรองล่าสุดเกี่ยวกับกำลังระดับกองพลของ NKA ตามแนวทางแคซอง-มุนซัน"
+        "th": "แลมเบิร์ต - ผู้บัญชาการฐานน่าจะมีข่าวกรองล่าสุดเกี่ยวกับกำลังระดับกองพลของ NKA ตามแนวรุกแคซอง-มุนซัน"
       },
       "Speech_0006L": {
         "en": "FISHER - I'll try to schedule an appointment with his secretary.",
@@ -432,7 +432,7 @@
         "de": "Finden Sie heraus, ob die Koreaner die Rakete absichtlich abgefeuert haben.",
         "es": "Confirma si los coreanos lanzaron intencionadamente el misil.",
         "it": "Scopri se i coreani hanno lanciato il missile intenzionalmente.",
-        "th": "ตัดสินว่าพวกเกาหลีตั้งใจยิงขีปนาวุธหรือไม่."
+        "th": "พิจารณาว่าพวกเกาหลีตั้งใจยิงขีปนาวุธหรือไม่."
       },
       "Speech_0099L": {
         "en": "REDDING - Fisher, since everyone is asking everyone for intel, I'd love to have a few chips at the big table.",
@@ -440,7 +440,7 @@
         "de": "Fisher, da Informationen im Moment überall so heiß begehrt sind, wäre es schön, wenn ich auch auch was anzubieten hätte.",
         "es": "Fisher, ya que todo el mundo está pidiendo datos de inteligencia, no quiero ser menos.",
         "it": "Fisher, visto che tutti chiedono informazioni ho pensato di giocare un po' anch'io.",
-        "th": "เรดดิง - ฟิชเชอร์ ในเมื่อทุกคนกำลังขอข่าวกรองจากทุกคน ฉันก็อยากมีเบี้ยในโต๊ะใหญ่อยู่บ้าง"
+        "th": "เรดดิง - ฟิชเชอร์ ในเมื่อทุกคนกำลังขอข่าวกรองจากทุกคน ฉันก็อยากมีชิปอยู่ในเกมใหญ่บ้าง"
       },
       "Speech_0100L": {
         "en": "FISHER - What can I get you, Will?",
@@ -496,7 +496,7 @@
         "de": "Versuche, die Protokolle der anderen drei zu finden.",
         "es": "Intenta encontrar los registros de los otros tres.",
         "it": "Cerca di recuperare i registri degli altri tre.",
-        "th": "เรดดิง - ลองเอบันทึกจากอีกสามฝ่ายให้ได้"
+        "th": "เรดดิง - ลองเอาบันทึกจากอีกสามฝ่ายให้ได้"
       },
       "Speech_0106L": {
         "en": "FISHER - Now serving number 67.",
@@ -616,7 +616,7 @@
         "de": "Du meine Güte, Fisher ... die NKA hat gerade ... sie rücken über die DMZ vor ... wir befinden uns im Krieg.",
         "es": "Los norcoreanos acaban de entrar en la Zona Desmilitarizada. Estamos en guerra.",
         "it": "Fisher... l'esercito nordcoreano l'ha fatto... stanno oltrepassando la zona demilitarizzata... siamo in guerra.",
-        "th": "แลมเบิร์ต - พระเยซูเจ้า ฟิชเชอร์... NKA เพิ่งลงมือ... พวกเขากำลังข้าม DMZ ตลอดแนวเส้นที่สามสิบแปด... เราอยู่ในสงครามแล้ว"
+        "th": "แลมเบิร์ต - พระเยซูเจ้า ฟิชเชอร์... NKA เพิ่งลงมือ... พวกเขากำลังข้าม DMZ ตลอดแนวเส้นขนานที่สามสิบแปด... เราอยู่ในสงครามแล้ว"
       },
       "Speech_0023L": {
         "en": "FISHER - Why? We just found proof they didn't launch the missile.",
@@ -720,7 +720,7 @@
         "de": "Dieser Jemand ist doch vermutlich Doug Shetland, Zherkezhis Algorithmen benutzt.",
         "es": "Por ejemplo, Doug Shetland usando los algoritmos de Zherkezhi.",
         "it": "Quel qualcuno è per caso Douglas Shetland con gli algoritmi di Zherkezhi?",
-        "th": "ฟิชเชอร์ - คนคนนั้นคือดั๊ก เชตแลนด์ที่ใช้อัลกอริทึมของเซอร์เคซีไม่ใช่เหรอ?"
+        "th": "ฟิชเชอร์ - คนคนนั้นคือดักลาส เชตแลนด์ที่ใช้อัลกอริทึมของเซอร์เคซีไม่ใช่เหรอ?"
       },
       "Speech_0064L": {
         "en": "GRIMSDOTTIR - That seems likely, but I still need to see if there's a Dvorak fingerprint on the BIOS of the launcher that fired the missile.",
@@ -768,7 +768,7 @@
         "de": "Auch wenn es gute Männer sind... ich hoffe, sie haben ihre Lebensversicherungen bezahlt.",
         "es": "Lo siento, son buenos chicos... Pero espero que tengan su seguro de vida al día.",
         "it": "Sono bravi soldati... ma spero che la loro polizza di assicurazione sulla vita sia aggiornata.",
-        "th": "แลมเบิร์ต - พวกเขาเป็นคนดี... แต่ฉันหวังว่าเบี้ยประกันชีวิตของพวกเขาจะอัปเดตแล้ว"
+        "th": "แลมเบิร์ต - พวกเขาเป็นคนดี... แต่ฉันหวังว่ากรมธรรม์ประกันชีวิตของพวกเขาจะยังไม่ขาดอายุ"
       },
       "Speech_0220L": {
         "en": "LAMBERT - Fisher, that's the intel we needed about the Kaesong-Munsan approach... but it's not good. If this thing blows up in our faces, we're in big trouble.",
@@ -776,7 +776,7 @@
         "de": "Fisher, das sind die Informationen, die wir über den Kaesong-Munsan-Vorstoß brauchen ... aber sie sehen nicht gut aus ... wenn diese Geschichte außer Kontrolle gerät, dann stecken wir ernsthaft in der Klemme.",
         "es": "Son los datos de inteligencia sobre el avance hacia Kaesong/Munsan. No me gustan. Si esto nos estalla en la cara, tendremos un gran problema.",
         "it": "Fisher, quelle erano le informazioni che ci servivano sul corridoio Kaesong-Munsan... ma non sono buone. Se questa roba ci esplode in faccia saremo in grossi guai.",
-        "th": "แลมเบิร์ต - ฟิชเชอร์ นั่นคือข่าวกรองที่เราต้องการเกี่ยวกับแนวทางแคซอง-มุนซัน... แต่มันไม่ดี ถ้าเรื่องนี้ระเบิดใส่หน้าเรา เราจะเจ็บหนัก"
+        "th": "แลมเบิร์ต - ฟิชเชอร์ นั่นคือข่าวกรองที่เราต้องการเกี่ยวกับแนวรุกแคซอง-มุนซัน... แต่มันไม่ดี ถ้าเรื่องนี้ระเบิดใส่หน้าเรา เราจะเจ็บหนัก"
       },
       "Speech_0054L": {
         "en": "GRIMSDOTTIR - Why did you do that? That technician could have answered some important questions...",
@@ -784,7 +784,7 @@
         "de": "Warum hast du das getan? Dieser Techniker hätte einige wichtige Fragen beantworten können ...",
         "es": "¿Por qué lo has hecho? Ese técnico podría habernos dado algunas respuestas...",
         "it": "Perché l'hai fatto? Quel tecnico avrebbe potuto rispondere a qualche domanda importante...",
-        "th": "กริมส์ดอตเตียร์ - ทำไมคุณทำแบบนั้น? ช่างเทคนิคคนนั้นตอบคำถามสำคัญได้"
+        "th": "กริมส์ดอตเตียร์ - ทำไมคุณทำแบบนั้น? ช่างเทคนิคคนนั้นน่าจะตอบคำถามสำคัญได้"
       },
       "Speech_0055L": {
         "en": "FISHER - Like what?",
@@ -1232,7 +1232,7 @@
         "de": "Du meine Güte, Fisher ... die NKA hat gerade ... sie rücken über die DMZ vor ... wir befinden uns im Krieg.",
         "es": "Los norcoreanos acaban de entrar en la Zona Desmilitarizada. Estamos en guerra.",
         "it": "Fisher... l'esercito nordcoreano l'ha fatto... stanno oltrepassando la zona demilitarizzata... siamo in guerra.",
-        "th": "แลมเบิร์ต - พระเยซูเจ้า ฟิชเชอร์... NKA เพิ่งลงมือ... พวกเขากำลังข้าม DMZ ตลอดแนวเส้นที่สามสิบแปด... เราอยู่ในสงครามแล้ว"
+        "th": "แลมเบิร์ต - พระเยซูเจ้า ฟิชเชอร์... NKA เพิ่งลงมือ... พวกเขากำลังข้าม DMZ ตลอดแนวเส้นขนานที่สามสิบแปด... เราอยู่ในสงครามแล้ว"
       },
       "Speech_0261L": {
         "en": "FISHER - Why? We just found proof they didn't launch the missile.",
@@ -1448,7 +1448,7 @@
         "de": "Ich dachte, per Anhalter fahren sei in Nordkorea verboten.",
         "es": "Aquí está prohibido el autostop.",
         "it": "Credo che l'autostop sia vietato in Corea del Nord.",
-        "th": "ฟิชเชอร์ - ฉันว่านั่งรถโบกรถผิดกฎหมายในเกาหลีเหนือนะ"
+        "th": "ฟิชเชอร์ - ฉันว่าโบกรถผิดกฎหมายในเกาหลีเหนือนะ"
       },
       "Speech_0115L": {
         "en": "REDDING - Then I'd recommend hiding under a tarp or strapping yourself to a chassis.",
@@ -1600,7 +1600,7 @@
         "de": "Weitere Meldungen ... die landesweite Baumarktkette Handy Hardwood startete heute ihre offizielle Kampagne zur Unterstützung unserer Truppen. Die Kunden sind eingeladen, Karten und Briefe an die kämpfenden Männer und Frauen unseres Landes auszufüllen. Für jede ausgefüllte Karte bietet Handy Hardwood Holz und Material im Wert von ungefähr zehn Dollar. Unterstützen Sie unsere Truppen und Sie bekommen Holz ...",
         "es": "Otras noticias. El empresario de bricolaje Handy Hardwood ha lanzado hoy su campaña oficial Apoya A Nuestras Tropas. Los clientes pueden escribir postales y cartas de apoyo a los hombres y mujeres que combaten por nuestro país. Por cada postal, Handy Hardwood ofrece madera y materiales valorados en diez dólares. Da tu apoyo a nuestros chicos, y ellos te darán madera.",
         "it": "Cambiamo argomento... il produttore di materiali e attrezzature per la casa Handy Hardwood ha lanciato oggi ufficialmente la sua campagna Supportiamo i Nostri Soldati. I clienti sono invitati a scrivere lettere e cartoline di incoraggiamento ai combattenti della nostra nazione. Per ogni cartolina Handy Hardwood offre legno e materiali per un valore di dieci dollari. Date una mano ai nostri ragazzi e loro vi daranno il legno.",
-        "th": "โอเดลล์ - มาที่ข่าวอื่น... วันนี้ผู้จำหน่ายวัสดุปรับปรุงบ้านและฮาร์ดแวร์รายใหญ่ แฮนดี ฮาร์ดวูด เปิดตัวแคมเปญสนับสนุนทหารของเราอย่างเป็นทางการ ลูกค้าได้รับเชิญมาเขียนการ์ดและจดหมายให้กำลังใจทหารชายหญิงของชาติ สำหรับการ์ดแต่ละใบ แฮนดี ฮาร์ดวูดมอบไม้และวัสดุมูลค่าสิบดอลลาร์ ช่วยทหารของเรา แล้วพวกเขาจะให้ไม้คุณ"
+        "th": "โอเดลล์ - มาที่ข่าวอื่น... วันนี้ผู้จำหน่ายวัสดุปรับปรุงบ้านและฮาร์ดแวร์รายใหญ่ แฮนดี ฮาร์ดวูด เปิดตัวแคมเปญสนับสนุนทหารของเราอย่างเป็นทางการ ลูกค้าได้รับเชิญมาเขียนการ์ดและจดหมายให้กำลังใจทหารชายหญิงของชาติ สำหรับการ์ดแต่ละใบ แฮนดี ฮาร์ดวูดมอบไม้และวัสดุมูลค่าสิบดอลลาร์ ช่วยทหารของเรา แล้วพวกเขาจะให้ไม้กับคุณ"
       },
       "Speech_0119L": {
         "en": "O'DELL - We have reports coming in now from all along the DMZ of a massive North Korean advance. Fighting is on a reportedly unprecedented scale, with US and South Korean troops ...quote- laying down a tidal wave of fire ...unquote- against the juggernaut advance of the NKA.",
@@ -1632,7 +1632,7 @@
         "de": "Unteroffizier Dak-po bei der Wache melden. Unteroffizier Dak-po zur Wache.",
         "es": "Cabo Dak-po, preséntese en Recepción. Cabo Dak-po, a Recepción.",
         "it": "Caporale Dak-po a rapporto in fureria. Caporale Dak-po in fureria.",
-        "th": "ทหาร - สิบโทดักโพ รายงานตัวที่ฝ่ายรับของ สิบโทดักโพ ไปที่ฝ่ายรับของ"
+        "th": "ทหาร - สิบโทดักโพ รายงานตัวที่แผนกรับของ สิบโทดักโพ ไปที่แผนกรับของ"
       },
       "Speech_0183L": {
         "en": "GEN SOLDIER - We are the fierce and loyal siblings of a great and indefatigable nation.",
@@ -1640,7 +1640,7 @@
         "de": "Wir sind die tapferen und treuen Kinder einer großen und unbesiegbaren Nation.",
         "es": "Somos los hijos valientes y leales de una nación indestructible.",
         "it": "Siamo i figli fieri e orgogliosi di una nazione grande e instancabile.",
-        "th": "ทหาร - เราเป็นพี่น้องที่ดุร้ายและภักดีของชาติที่ยิ่งใหญ่และไม่ย่อท้อ"
+        "th": "ทหาร - เราเป็นพี่น้องที่ห้าวหาญและภักดีของชาติที่ยิ่งใหญ่และไม่ย่อท้อ"
       },
       "Speech_0184L": {
         "en": "GEN SOLDIER - Reminder to all enlisted personnel. Tomorrow is new toothbrush day.",
@@ -1656,7 +1656,7 @@
         "de": "Erinnerung. Es dürfen ohne Genehmigung durch Unteroffizier Pok keine Zettel an den Pinnwänden der Einrichtung angebracht werden.",
         "es": "Aviso: no podrán pincharse notas en los tablones de corcho sin la aprobación del cabo primero Pok.",
         "it": "Attenzione. È vietato attaccare memo sui tabelloni senza l'approvazione del sottoufficiale Pok.",
-        "th": "ทหาร - ประกาศ ห้ามติดประกาศใดๆ บนกระดานประกาศของฐาน หากไม่ได้รับอนุมัติจากเจ้าหน้าที่ฝ่ายยุทธการพก"
+        "th": "ทหาร - ประกาศ ห้ามติดประกาศใดๆ บนกระดานประกาศของฐาน หากไม่ได้รับอนุมัติจากพันจ่าพก"
       },
       "Speech_0186L": {
         "en": "GEN SOLDIER - Technician Lop-Pong report to loading bay four. Technician Lop-Pong to loading bay four.",
@@ -1784,7 +1784,7 @@
         "de": "Fisher, das sind die Informationen, die wir über den Kaesong-Munsan-Vorstoß brauchen ... aber sie sehen nicht gut aus ... wenn diese Geschichte außer Kontrolle gerät, dann stecken wir ernsthaft in der Klemme.",
         "es": "Son los datos de inteligencia sobre el avance hacia Kaesong/Munsan. No me gustan. Si esto nos estalla en la cara, tendremos un gran problema.",
         "it": "Fisher, quelle erano le informazioni che ci servivano sul corridoio Kaesong-Munsan... ma non sono buone. Se questa roba ci esplode in faccia saremo in grossi guai.",
-        "th": "แลมเบิร์ต - ฟิชเชอร์ นั่นคือข่าวกรองที่เราต้องการเกี่ยวกับแนวทางแคซอง-มุนซัน... แต่มันไม่ดี ถ้าเรื่องนี้ระเบิดใส่หน้าเรา เราจะเจ็บหนัก"
+        "th": "แลมเบิร์ต - ฟิชเชอร์ นั่นคือข่าวกรองที่เราต้องการเกี่ยวกับแนวรุกแคซอง-มุนซัน... แต่มันไม่ดี ถ้าเรื่องนี้ระเบิดใส่หน้าเรา เราจะเจ็บหนัก"
       },
       "Speech_0122L": {
         "en": "LAMBERT - Fisher, we're close to war. JCOS wants all sources to grab any intelligence they can get their fingers on. Ask the base commander what he knows about NKA's Divisional strength along the Kaesong-Munsan approach.",
@@ -1792,7 +1792,7 @@
         "de": "Fisher, ein Krieg steht unmittelbar bevor. Der Generalstab braucht alle Informationen, die wir in die Finger bekommen können. Versuche, aus dem Basiskommandeur herauszubekommen, was er über die Divisionsstärken der NKA bei Kaesong-Munsan weiß.",
         "es": "Fisher, estamos al borde de la guerra. El JCOS quiere todos los datos de inteligencia que le podamos dar. Pregunta al jefe de la base qué sabe sobre las divisiones norcoreanas que avanzan hacia Kaesong-Munsan.",
         "it": "Fisher, manca poco alla guerra. Lo Stato Maggiore vuole usare tutte le risorse per ottenere qualsiasi genere di informazione. Chiedi al comandante della base tutto ciò che sa sulla forza delle divisioni nordcoreane nel corridoio di Kaesong-Munsan.",
-        "th": "แลมเบิร์ต - ฟิชเชอร์ เราใกล้สงครามแล้ว JCOS ต้องการให้ทุกแหล่งเก็บข่าวกรองเท่าที่จะคว้าได้ ถามผู้บัญชาการฐานว่าเขารู้อะไรเกี่ยวกับกำลังระดับกองพลของ NKA ตามแนวทางแคซอง-มุนซัน"
+        "th": "แลมเบิร์ต - ฟิชเชอร์ เราใกล้สงครามแล้ว JCOS ต้องการให้ทุกแหล่งเก็บข่าวกรองเท่าที่จะคว้าได้ ถามผู้บัญชาการฐานว่าเขารู้อะไรเกี่ยวกับกำลังระดับกองพลของ NKA ตามแนวรุกแคซอง-มุนซัน"
       },
       "Speech_0123L": {
         "en": "LAMBERT - Good thinking Fisher. Now if we have to, we can remote detonate those missiles and at least take the battery out of commission for a little while.",
@@ -2443,7 +2443,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück – Nehmen Helme ab",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza - Se quita el casco.",
         "it": "Livello di allarme ridotto - I nemici rientrano e tolgono l'elmetto",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ - ถอดหมวกกันน็อก"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ - ถอดหมวกกันน็อก"
       },
       "POPUPMESSAGE_0026": {
         "en": "Alarm Stage Reduced - Enemies Standing Down - Removing Body Armor",
@@ -2451,7 +2451,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück – Legen Körperpanzer ab",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza - Se quita el chaleco.",
         "it": "Livello di allarme ridotto - I nemici rientrano e tolgono il giubbotto antiproiettile",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ - ถอดเกราะป้องกัน"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ - ถอดเกราะป้องกัน"
       },
       "POPUPMESSAGE_0027": {
         "en": "Alarm Stage Reduced - Enemies Standing Down",
@@ -2459,7 +2459,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza.",
         "it": "Livello di allarme ridotto - I nemici rientrano",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ"
       }
     },
     "P_07_Battery_ConvoBatteryEast": {
@@ -2470,7 +2470,7 @@
         "de": "Ziel verfolgen. Primärziel. Flugzeugträger. Richtung 2-1-8. Entfernung 1-2-0 Kilometer. Bestätigen.",
         "es": "Blanco primario. Portaaviones. Rumbo 2-1-8. Distancia 1-1-2-0 kilómetros. Confirmar.",
         "it": "Bersaglio inquadrato. Primario. Portaerei. Direzione 2-1-8. Raggio. 1-1-2-0 chilometri. Confermato.",
-        "th": "ซึง - ติดตามเป้าหมาย เป้าหมายหลัก เรือบรรทุกเครื่องบิน แบริ่ง 2-1-8 ระยะ 1-1-2-0 กิโลเมตร ยืนยัน"
+        "th": "ซึง - ติดตามเป้าหมาย เป้าหมายหลัก เรือบรรทุกเครื่องบิน มุมทิศ 2-1-8 ระยะ 1-1-2-0 กิโลเมตร ยืนยัน"
       },
       "Speech_0002L": {
         "en": "WEN - Primary target is on scope, all green. Set to track one through twelve.",
@@ -2574,7 +2574,7 @@
         "de": "Primärziel. Flugzeugträger. Richtung 2-1-8. Entfernung 1-2-0 Kilometer.",
         "es": "Blanco primario. Portaaviones. Rumbo 2-1-8. Distancia 1-2-0 kilómetros. Confirmar.",
         "it": "Bersaglio inquadrato. Primario. Portaerei. Direzione 2-1-8. Raggio. 1-1-2-0 chilometri. ",
-        "th": "เวน - เป้าหมายหลัก เรือบรรทุกเครื่องบิน แบริ่ง 2-1-8 ระยะ 1-2-0 กิโลเมตร"
+        "th": "เวน - เป้าหมายหลัก เรือบรรทุกเครื่องบิน มุมทิศ 2-1-8 ระยะ 1-2-0 กิโลเมตร"
       },
       "Speech_0015L": {
         "en": "SEUNG - Your read back is correct.",
@@ -2630,7 +2630,7 @@
         "de": "Ziel verfolgen. Primärziel. Zerstörer. Richtung 2-1-8. Entfernung 1-1-2 Kilometer. Bestätigen.",
         "es": "Blanco primario. Destructor. Rumbo 2-1-8. Distancia 1-1-2 kilómetros. Confirmar.",
         "it": "Bersaglio inquadrato. Primario. Cacciatorpediniere. Direzione 2-1-8. Raggio. 1-1-2 chilometri. Confermato.",
-        "th": "ซึง - ติดตามเป้าหมาย เป้าหมายหลัก เรือพิฆาต แบริ่ง 2-1-8 ระยะ 1-1-2 กิโลเมตร ยืนยัน"
+        "th": "ซึง - ติดตามเป้าหมาย เป้าหมายหลัก เรือพิฆาต มุมทิศ 2-1-8 ระยะ 1-1-2 กิโลเมตร ยืนยัน"
       },
       "Speech_0022L": {
         "en": "WEN - Primary target is on scope, all green. Set to track one through twelve.",
@@ -2734,7 +2734,7 @@
         "de": "Primärziel. Zerstörer. Richtung 2-1-8. Entfernung 1-1-2 Kilometer.",
         "es": "Blanco primario. Destructor. Rumbo 2-1-8. Distancia 1-1-2 kilómetros. Confirmar.",
         "it": "Bersaglio inquadrato. Primario. Cacciatorpediniere. Direzione 2-1-8. Raggio. 1-1-2 chilometri. ",
-        "th": "เวน - เป้าหมายหลัก เรือพิฆาต แบริ่ง 2-1-8 ระยะ 1-1-2 กิโลเมตร"
+        "th": "เวน - เป้าหมายหลัก เรือพิฆาต มุมทิศ 2-1-8 ระยะ 1-1-2 กิโลเมตร"
       },
       "Speech_0035L": {
         "en": "SEUNG - Your read back is correct.",
@@ -2790,7 +2790,7 @@
         "de": "Ziel verfolgen. Primärziel. Kreuzer. Richtung 2-1-9. Entfernung 1-1-6 Kilometer. Bestätigen.",
         "es": "Blanco primario. Crucero. Rumbo 2-1-9. Distancia 1-1-6 kilómetros. Confirmar.",
         "it": "Bersaglio inquadrato. Primario. Incrociatore. Direzione 2-1-9. Raggio. 1-1-6 chilometri. Confermato.",
-        "th": "ซึง - ติดตามเป้าหมาย เป้าหมายหลัก เรือลาดตระเวน แบริ่ง 2-1-9 ระยะ 1-1-6 กิโลเมตร ยืนยัน"
+        "th": "ซึง - ติดตามเป้าหมาย เป้าหมายหลัก เรือลาดตระเวน มุมทิศ 2-1-9 ระยะ 1-1-6 กิโลเมตร ยืนยัน"
       },
       "Speech_0042L": {
         "en": "WEN - Primary target is on scope, all green. Set to track one through twelve.",
@@ -2894,7 +2894,7 @@
         "de": "Primärziel. Kreuzer. Richtung 2-1-9. Entfernung 1-1-6 Kilometer.",
         "es": "Blanco primario. Crucero. Rumbo 2-1-9. Distancia 1-1-6 kilómetros. Confirmar.",
         "it": "Bersaglio inquadrato. Primario. Incrociatore. Direzione 2-1-9. Raggio. 1-1-6 chilometri. ",
-        "th": "เวน - เป้าหมายหลัก เรือลาดตระเวน แบริ่ง 2-1-9 ระยะ 1-1-6 กิโลเมตร"
+        "th": "เวน - เป้าหมายหลัก เรือลาดตระเวน มุมทิศ 2-1-9 ระยะ 1-1-6 กิโลเมตร"
       },
       "Speech_0055L": {
         "en": "SEUNG - Your read back is correct.",
@@ -2950,7 +2950,7 @@
         "de": "Ziel verfolgen. Primärziel. Kreuzer. Richtung 2-1-7. Entfernung 1-1-6 Kilometer. Bestätigen.",
         "es": "Blanco primario. Crucero. Rumbo 2-1-7. Distancia 1-1-6 kilómetros. Confirmar.",
         "it": "Bersaglio inquadrato. Primario. Incrociatore. Direzione 2-1-7. Raggio. 1-1-6 chilometri. Confermato.",
-        "th": "ซึง - ติดตามเป้าหมาย เป้าหมายหลัก เรือลาดตระเวน แบริ่ง 2-1-7 ระยะ 1-1-6 กิโลเมตร ยืนยัน"
+        "th": "ซึง - ติดตามเป้าหมาย เป้าหมายหลัก เรือลาดตระเวน มุมทิศ 2-1-7 ระยะ 1-1-6 กิโลเมตร ยืนยัน"
       },
       "Speech_0062L": {
         "en": "WEN - Primary target is on scope, all green. Set to track one through twelve.",
@@ -3054,7 +3054,7 @@
         "de": "Primärziel. Kreuzer. Richtung 2-1-7. Entfernung 1-1-6 Kilometer.",
         "es": "Blanco primario. Crucero. Rumbo 2-1-7. Distancia 1-1-6 kilómetros. Confirmar.",
         "it": "Bersaglio inquadrato. Primario. Incrociatore. Direzione 2-1-7. Raggio. 1-1-6 chilometri. ",
-        "th": "เวน - เป้าหมายหลัก เรือลาดตระเวน แบริ่ง 2-1-7 ระยะ 1-1-6 กิโลเมตร"
+        "th": "เวน - เป้าหมายหลัก เรือลาดตระเวน มุมทิศ 2-1-7 ระยะ 1-1-6 กิโลเมตร"
       },
       "Speech_0075L": {
         "en": "SEUNG - Your read back is correct.",
@@ -3330,7 +3330,7 @@
         "de": "Jawohl, Oberst!",
         "es": "¡Sí, señor!",
         "it": "Sì signore!",
-        "th": "เฉิน - ครับท่าน! ครับท่าน!"
+        "th": "เสิน - ครับท่าน! ครับท่าน!"
       },
       "Speech_0017L": {
         "en": "KWAN - Get out of my sight...",
@@ -3448,7 +3448,7 @@
         "de": "Im Kontrollraum des Raketenschachts befindet sich ein Erste-Hilfe-Schrank.",
         "es": "Hay un botiquín en la sala de control de la plataforma del misil.",
         "it": "C'è un kit medico nella stanza di controllo nell'hangar missili.",
-        "th": "มีชุดปฐมพยาบาลในห้องควบคุมห้องขีปนาวุธ"
+        "th": "มีชุดปฐมพยาบาลในห้องควบคุมขีปนาวุธ"
       }
     },
     "P_07_Battery_InteroBatteryEast": {
@@ -3649,7 +3649,7 @@
         "de": "B... bitte ... ich bin ein Feigling.",
         "es": "Por favor... Soy un cobarde...",
         "it": "Ti p... ti prego... sono un codardo...",
-        "th": "เฉิน - ด... ได้โปรด... ผมเป็นคนขี้ขลาด..."
+        "th": "เสิน - ด... ได้โปรด... ผมเป็นคนขี้ขลาด..."
       },
       "Speech_0005L": {
         "en": "FISHER - That's apparent. Tell me something interesting and you have nothing to be afraid of.",
@@ -3665,7 +3665,7 @@
         "de": "Sie sind Amerikaner ... Sie sind zweifellos wegen der Rakete hier, die Ihr Schiff versenkt hat ...",
         "es": "Eres americano. Seguro que estás aquí por el misil que hundió vuestro barco.",
         "it": "Sei americano... e scommetto che sei qui perché il missile ha affondato la vostra nave...",
-        "th": "เฉิน - คุณเป็นชาวอเมริกัน... มาที่นี่เพราะขีปนาวุธที่จมเรือคุณแน่..."
+        "th": "เสิน - คุณเป็นชาวอเมริกัน... มาที่นี่เพราะขีปนาวุธที่จมเรือคุณแน่..."
       },
       "Speech_0007L": {
         "en": "FISHER - Maybe.",
@@ -3681,7 +3681,7 @@
         "de": "Sie wurde von hier aus abgeschossen ... aber wir haben den Start nicht veranlasst ... ich habe keine Ahnung, was passiert ist. Ich habe die Theorie, dass das BIOS der Startanlage eine digitale Spur dessen enthalten müsste, was unsere Systeme übernommen hat.",
         "es": "Fue disparado desde aquí... pero no lo hicimos nosotros. No sé lo que pasó, pero sospecho que en la BIOS de la plataforma quedan restos del programa que atacó y alteró nuestros sistemas.",
         "it": "L'hanno lanciato da qui... ma non abbiamo effettuato noi il lancio... non ho idea di come sia successo. La mia teoria è che il BIOS del lanciamissili contenga una traccia digitale dell'attacco che ha corrotto il sistema.",
-        "th": "เฉิน - มันถูกยิงจากที่นี่... แต่เราไม่ได้ควบคุมการยิง... ผมไม่รู้เลยว่ามันเกิดขึ้นได้ยังไง ผมมีทฤษฎีว่า BIOS ของเครื่องยิงอาจมีร่องรอยดิจิทัลของการโจมตีที่ทำให้ระบบเราเสียหาย"
+        "th": "เสิน - มันถูกยิงจากที่นี่... แต่เราไม่ได้ควบคุมการยิง... ผมไม่รู้เลยว่ามันเกิดขึ้นได้ยังไง ผมมีทฤษฎีว่า BIOS ของเครื่องยิงอาจมีร่องรอยดิจิทัลของการโจมตีที่ทำให้ระบบเราเสียหาย"
       },
       "Speech_0009L": {
         "en": "FISHER - Thanks... that's what I wanted to know.",
@@ -3697,7 +3697,7 @@
         "de": "Ich bin eine Schande. Töten Sie mich.",
         "es": "Estoy avergonzado. Mátame.",
         "it": "Mi vergogno. Uccidimi.",
-        "th": "เฉิน - ผมละอาย ฆ่าผมเถอะ"
+        "th": "เสิน - ผมละอาย ฆ่าผมเถอะ"
       },
       "Speech_0011L": {
         "en": "SHEN - I am a worthless cowardly lackey...",
@@ -3705,7 +3705,7 @@
         "de": "Ich bin ein wertloser, feiger Lakai ...",
         "es": "Soy un cobarde sin dignidad...",
         "it": "Sono un inutile codardo leccapiedi...",
-        "th": "เฉิน - ผมเป็นขี้ข้าขี้ขลาดไร้ค่า..."
+        "th": "เสิน - ผมเป็นขี้ข้าขี้ขลาดไร้ค่า..."
       }
     },
     "P_07_Battery_InteroCmdCenter_01": {
@@ -3780,7 +3780,7 @@
         "de": "Junge ... du bist ja schlimmer als die Ledernacken.",
         "es": "Chico, eres un cabeza cuadrada.",
         "it": "Sei più indottrinato di un cappellano militare.",
-        "th": "ฟิชเชอร์ - ให้ตาย... คุณยิ่งกว่าไอ้พวกหัวสมองกลวงอีก"
+        "th": "ฟิชเชอร์ - ให้ตาย... คุณยิ่งกว่าไอ้พวกนาวิกโยธินหัวทึบอีก"
       },
       "Speech_0010L": {
         "en": "JUNG - Do not compare me to a cowardly American marine!",
@@ -3895,7 +3895,7 @@
         "de": "Wir sind Ihrer Zweiten Infanteriedivision hinsichtlich Panzer, Artillerie und Infanterie auf der gesamten Breite des Vorstoßes 8:1 überlegen.",
         "es": "Tenemos una superioridad de 8 a 1 en blindados, artillería e infantería contra vuestra Segunda División de Infantería.",
         "it": "Abbiamo un rapporto di forza di 8 a 1 contro la vostra seconda divisione di fanteria, tra meccanizzati, artiglieria e fanteria lungo il percorso.",
-        "th": "ควาน - เรามีอัตรากำลัง 8-1 ต่อกองพลทหารราบที่สองของคุณ ทั้งยานเกราะ ปืนใหญ่ และทหารราบ ตลอดความยาวของแนวทาง"
+        "th": "ควาน - เรามีอัตรากำลัง 8-1 ต่อกองพลทหารราบที่สองของคุณ ทั้งยานเกราะ ปืนใหญ่ และทหารราบ ตลอดความยาวของแนวรุก"
       },
       "Speech_0012L": {
         "en": "FISHER - Eight to one?!",
@@ -4002,7 +4002,7 @@
         "de": "Ich bin praktisch veranlagt. Nicht feige.",
         "es": "No soy un cobarde: soy práctico.",
         "it": "È senso pratico, non codardia.",
-        "th": "เฉิน - ผมเป็นคนปฏิบัติได้จริง ไม่ใช่ขี้ขลาด"
+        "th": "เฉิน - ผมเป็นคนยอมรับความจริง ไม่ใช่ขี้ขลาด"
       }
     },
     "P_07_Battery_InteroGarage": {
@@ -4045,7 +4045,7 @@
         "de": "Na gut ... dann danke für deine Hilfe.",
         "es": "Claro. Gracias por ser tan servicial.",
         "it": "Giusto... Beh, allora grazie.",
-        "th": "ฟิชเชอร์ - เอาล่ะ... งั้นก็ขอบคุณสำหรับเวลา"
+        "th": "ฟิชเชอร์ - เอาล่ะ... งั้นก็ขอบคุณที่สละเวลา"
       },
       "Note_0009L": {
         "en": "The key code for the shipping area door is 1879.",
@@ -4251,7 +4251,7 @@
         "de": "Danke für den Hinweis.",
         "es": "Muchas gracias.",
         "it": "Grazie del consiglio.",
-        "th": "ฟิชเชอร์ - ขอบใจสำหรับเบาะแส"
+        "th": "ฟิชเชอร์ - ขอบใจที่ให้เบาะแส"
       },
       "Speech_0011L": {
         "en": "MANCHU - Please... don't hurt me...",
@@ -4607,7 +4607,7 @@
         "de": "Ja, ja, Angst und Entsetzen ... beantworte einfach die Frage, was ist in den Kisten?",
         "es": "Ahórrate los lloriqueos y contéstame a la pregunta. ¿Qué hay en esas cajas?",
         "it": "Sì, sì, colpisci e terrorizza... ma ora rispondi... cosa c'è nelle casse?",
-        "th": "ฟิชเชอร์ - ใช่ ใช่ ตกใจสะพรึงกลัว... แค่ตอบคำถาม... ในกล่องมีอะไร?"
+        "th": "ฟิชเชอร์ - ใช่ ใช่ ช็อกแอนด์ออ... แค่ตอบคำถาม... ในกล่องมีอะไร?"
       },
       "Speech_0004L": {
         "en": "DONG - I swear... I don't know... it's just my job to guard the room.",
@@ -4666,7 +4666,7 @@
         "de": "Stellen Sie fest, ob die Koreaner die Rakete absichtlich gestartet haben.",
         "es": "Averigua si los coreanos lanzaron el misil intencionadamente.",
         "it": "Cerca di capire se i coreani hanno lanciato il missile intenzionalmente.",
-        "th": "ตัดสินว่าพวกเกาหลีตั้งใจยิงขีปนาวุธหรือไม่."
+        "th": "พิจารณาว่าพวกเกาหลีตั้งใจยิงขีปนาวุธหรือไม่."
       },
       "Objective_0026": {
         "en": "Despite North Korean claims, satellite shows conclusively that the missile that sank the Walsh came from this battery. Check the Command Center to determine if it was intentional.",
@@ -4690,7 +4690,7 @@
         "de": "Das Einholen von Informationen mit niedriger Geheimhaltungsstufe zu Nachschub- und Reparaturvorgängen aus vier ungesicherten Computern ermöglicht Echelon ein besseres Verständnis der Möglichkeiten der Nordkoreaner in dieser Region.",
         "es": "Si consigues información aparentemente inocua sobre tareas de envíos y reparaciones de ordenadores no protegidos, los expertos de Echelon pueden usarla para hacerse una idea de la capacidad norcoreana en la región.",
         "it": "Recuperando informazioni di spionaggio di basso livello sulle consegne e le riparazioni dai quattro computer non protetti darai agli analisti di Echelon un'immagine più chiara delle capacità dei nordcoreani in quella regione.",
-        "th": "การเก็บกู้ข่าวกรองระดับต่ำเกี่ยวกับหน้าที่ขนส่งและซ่อมบำรุงจากคอมพิวเตอร์ที่ไม่มีการรักษาความปลอดภัยสี่เครื่อง จะทำให้นักวิเคราะห์ของอีเชลอนเห็นภาพขีดความสามารถของ NKA ในภูมิภาคนี้ดีขึ้น"
+        "th": "การเก็บกู้ข่าวกรองระดับต่ำเกี่ยวกับหน้าที่ขนส่งและซ่อมบำรุงจากคอมพิวเตอร์ที่ไม่มีการรักษาความปลอดภัยสี่เครื่อง จะทำให้นักวิเคราะห์ของเธิร์ดเอเชลอนเห็นภาพขีดความสามารถของ NKA ในภูมิภาคนี้ดีขึ้น"
       },
       "Objective_0015": {
         "en": "Tap the launcher BIOS for a fingerprint of Dvorak algorithm fragments.",
@@ -4794,7 +4794,7 @@
         "de": "Stellen Sie die Divisionsstärke der Nordkoreaner bei Kaesong-Munsan fest.",
         "es": "Evalúa la capacidad de las divisiones norcoreanas frente a la operación Kaesong-Munsan.",
         "it": "Determina la forza delle divisioni nordcoreane nel passaggio Kaesong-Munsan.",
-        "th": "ตัดสินกำลังระดับกองพลของเกาหลีเหนือตามแนวทางแคซอง-มุนซัน"
+        "th": "พิจารณากำลังระดับกองพลของเกาหลีเหนือตามแนวรุกแคซอง-มุนซัน"
       },
       "Objective_0024": {
         "en": "Prime a missile in each of the missile bays.",
@@ -4802,7 +4802,7 @@
         "de": "Aktivieren Sie je eine Rakete in den verschiedenen Raketenschachten.",
         "es": "Prepara un misil en cada una de las plataformas.",
         "it": "Carica un missile in ogni piattaforma.",
-        "th": "ติดตั้งหัวรบให้ขีปนาวุธในแต่ละห้องขีปนาวุธ"
+        "th": "เตรียมขีปนาวุธให้พร้อมยิงในแต่ละห้องขีปนาวุธ"
       },
       "Objective_0019": {
         "en": "Exfiltrate to any available extraction point.",
@@ -4853,7 +4853,7 @@
         "de": "Finden Sie heraus, ob die Koreaner die Rakete absichtlich abgefeuert haben.",
         "es": "Confirma si los coreanos lanzaron el misil intencionadamente.",
         "it": "Scopri se i coreani hanno lanciato il missile intenzionalmente.",
-        "th": "ตัดสินว่าพวกเกาหลีตั้งใจยิงขีปนาวุธหรือไม่."
+        "th": "พิจารณาว่าพวกเกาหลีตั้งใจยิงขีปนาวุธหรือไม่."
       },
       "POPUPMESSAGE_0002": {
         "en": "Stop the missile launch.",

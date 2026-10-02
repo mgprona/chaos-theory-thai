@@ -25,7 +25,7 @@
         "de": "Willkommen bei den Profis. Ich weiß, dass ihr beide euch noch in der Ausbildung befindet, aber es hat einen Zwischenfall gegeben und ihr seid die zurzeit einzig verfügbaren Einsatzkräfte. Vor kurzem haben wir in der MCAS-Bank von Panama Beweise sichergestellt, die darauf hinweisen, dass Vizepräsident Señor Segundo Ruiz de Medeiros Bestechungsgelder dafür angenommen hat, dass er Schiffe auf ihrem Weg durch die Kanalzone vor Inspektionen schützte. Wir müssen alle Unterlagen finden, die Señor de Medeiros über diese Vorgänge aufbewahrt haben könnte.",
         "es": "Bienvenidos a primera división, muchachos. Sé que aún os estáis entrenando, pero ha surgido algo y no tenemos a más agentes, así que os toca jugar. Nos han llegado pruebas del Banco MCAS de Panamá que demuestran que el vicepresidente Segundo Ruiz de Medeiros ha estado recibiendo sobornos para permitir que algunos barcos atraviesen el canal sin ser inspeccionados. Hay que encontrar los registros de cuentas de Medeiros.",
         "it": "Benvenuti in serie A. So che siete entrambi ancora in addestramento, ma è successo qualcosa di grave e non abbiamo altro personale disponibile. Recentemente abbiamo saputo, tramite la MCAS Bank di Panama, che il vice presidente Señor Segundo Ruiz de Medeiros ha accettato bustarelle per permettere a certe navi di oltrepassare punti di ispezione nella zona del Canale. Dobbiamo trovare qualunque tipo di registrazione che il Señor de Medeiros ha conservato.",
-        "th": "แลมเบิร์ต - ยินดีต้อนรับสู่ลีกใหญ่ ผมรู้ว่าคุณทั้งคู่ยังฝึกอยู่ แต่มีเรื่องด่วนเข้ามา และเราไม่มีกำลังคนอื่นให้ใช้แล้ว เมื่อไม่นานมานี้เราพบหลักฐานจากธนาคาร MCAS แห่งปานามา ที่บ่งชี้ว่า รองประธานเซญอร์ เซกุนโด รุยซ์ เด เมเดรอส รับสินบนเพื่อให้เรือผ่านการตรวจสอบแบบสุ่ม ได้ขณะเคลื่อนผ่านเขตคลองปานามา เราต้องหาบันทึกทั้งหมดที่เซญอร์ เด เมเดรอส อาจเก็บไว้"
+        "th": "แลมเบิร์ต - ยินดีต้อนรับสู่ลีกใหญ่ ผมรู้ว่าพวกนายทั้งคู่ยังฝึกอยู่ แต่มีเรื่องด่วนเข้ามา และเราไม่มีกำลังคนอื่นให้ใช้แล้ว เมื่อไม่นานมานี้เราพบหลักฐานจากธนาคาร MCAS แห่งปานามา ที่บ่งชี้ว่า รองประธานเซญอร์ เซกุนโด รุยซ์ เด เมเดรอส รับสินบนเพื่อให้เรือผ่านการตรวจสอบแบบสุ่ม ได้ขณะเคลื่อนผ่านเขตคลองปานามา เราต้องหาบันทึกทั้งหมดที่เซญอร์ เด เมเดรอส อาจเก็บไว้"
       }
     },
     "Computer": {
@@ -277,7 +277,7 @@
         "de": "Hört zu. Um euch endgültig als offizielle, oder besser gesagt, inoffizielle Splinter Cell zu beweisen, müsst ihr unbedingt unauffällig vorgehen. Euer erstes Missionsziel ist die Sicherstellung von Informationen aus dem Archiv. Ihr dürft Vizepräsident de Medeiros unter keinen Umständen töten.",
         "es": "Para licenciaros como agentes Splinter Cell, tenéis que actuar con mucha discreción. Vuestro primer objetivo es conseguir información de los archivos. Pase lo que pase, no debéis matar al vicepresidente Medeiros.",
         "it": "Ascoltatemi bene. Per diventare Splinter Cell ufficiali... o meglio, non ufficiali, dovete imparare a non farvi notare. Il vostro primo obiettivo è ottenere informazioni dagli Archivi. In nessun caso dovrete uccidere il vice presidente de Medeiros.",
-        "th": "ฟังให้ดี การจะได้เป็นสปลินเตอร์เซลเต็มตัว (ซึ่งก็ไม่เป็นทางการอยู่ดี) คุณต้องเก็บตัวให้เงียบ เป้าหมายแรกคือไปเอาข้อมูลจากคลังเอกสาร และไม่ว่ากรณีใดทั้งสิ้น ห้ามฆ่ารองประธานเด เมเดรอส"
+        "th": "ฟังให้ดี การจะได้เป็นสปลินเตอร์เซลเต็มตัว (ซึ่งก็ไม่เป็นทางการอยู่ดี) พวกนายต้องเก็บตัวให้เงียบ เป้าหมายแรกคือไปเอาข้อมูลจากคลังเอกสาร และไม่ว่ากรณีใดทั้งสิ้น ห้ามฆ่ารองประธานเด เมเดรอส"
       },
       "Speech_0007L": {
         "en": "This is the Archive room. The easiest way in will be to use the Vice President himself on one of those scanners. Anyone else in the building will do for the other.",
@@ -293,7 +293,7 @@
         "de": "Das ist das Archiv. Aber da der Vizepräsident bewusstlos ist, werdet ihr diese Scanner hacken müssen.",
         "es": "Ésa es la sala del archivo. Como el vicepresidente está inconsciente, tendréis que hackear esos escáners.",
         "it": "Beh, questo è l'Archivio, ma se il vice presidente è svenuto dovrete cercare di manomettere gli scanner.",
-        "th": "เอาล่ะ นี่คือห้องคลังเอกสาร แต่ในเมื่อรองประธานสลบไปแล้ว คุณจะต้องแฮกเครื่องสแกนพวกนั้นแทน"
+        "th": "เอาล่ะ นี่คือห้องคลังเอกสาร แต่ในเมื่อรองประธานสลบไปแล้ว พวกนายจะต้องแฮกเครื่องสแกนพวกนั้นแทน"
       },
       "Speech_0009L": {
         "en": "Here's the Archive room. Use the Vice President on one of the scanners. Anyone else in the building will do for the other.",
@@ -317,7 +317,7 @@
         "de": "Ihr müsst beide Scanner gleichzeitig aktivieren.",
         "es": "Tenéis que activar los dos escáners a la vez.",
         "it": "Dovete attivare entrambi gli scanner nello stesso momento.",
-        "th": "คุณต้องเปิดเครื่องสแกนทั้งสองตัวพร้อมกัน"
+        "th": "พวกนายต้องเปิดเครื่องสแกนทั้งสองตัวพร้อมกัน"
       },
       "Speech_0012L": {
         "en": "Good job. Now access the Archives and we'll see what we can find out.",
@@ -333,7 +333,7 @@
         "de": "Verdammt. Sieht so aus, als seien die Daten unvollständig. Sie wurden heute Morgen zusätzlich auf dem Hauptserver gesichert. Ihr müsst ihn anzapfen. Er ist im Erdgeschoss, auf der anderen Seite des Gebäudes.",
         "es": "Me temo que esos archivos están incompletos. Esta mañana hicieron un volcado al servidor principal. Tenéis que entrar en él. Primer piso, al otro lado del edificio.",
         "it": "Maledizione. Questi file non sono completi. L'Archivio è stato copiato nel Server Principale stamattina. Dovrete accedere a quello. Primo piano, dall'altra parte dell'edificio.",
-        "th": "ให้ตายสิ ไฟล์พวกนี้ดูจะไม่ครบถ้วน เอกสารในคลังถูกแบ็กอัปไว้ที่เซิร์ฟเวอร์หลักเมื่อเช้านี้ คุณต้องเข้าไปที่นั่น ชั้นหนึ่ง อีกฝั่งของตึก"
+        "th": "ให้ตายสิ ไฟล์พวกนี้ดูจะไม่ครบถ้วน เอกสารในคลังถูกแบ็กอัปไว้ที่เซิร์ฟเวอร์หลักเมื่อเช้านี้ พวกนายต้องเข้าไปที่นั่น ชั้นหนึ่ง อีกฝั่งของตึก"
       },
       "Speech_0025L": {
         "en": "You're straying out of you're A.O. You need to access the Archives before we can plan our next move.",
@@ -341,7 +341,7 @@
         "de": "Ihr verlasst euer Einsatzgebiet. Ihr müsst das Archiv durchsuchen, bevor wir unseren nächsten Schritt planen können.",
         "es": "Os estáis alejando del área de operaciones. Tenéis que entrar al archivo antes de seguir adelante.",
         "it": "State deviando dall'obiettivo assegnato. Dovete accedere agli Archivi prima che possiamo pianificare la vostra prossima mossa.",
-        "th": "คุณกำลังออกนอกพื้นที่ปฏิบัติการ ต้องเข้าถึงคลังเอกสารก่อน เราถึงจะวางแผนขั้นต่อไปได้"
+        "th": "พวกนายกำลังออกนอกพื้นที่ปฏิบัติการ ต้องเข้าถึงคลังเอกสารก่อน เราถึงจะวางแผนขั้นต่อไปได้"
       },
       "Speech_0026L": {
         "en": "This is some kind of emergency fire door. Don't stray from you're A.O. Get to the Archive room.",
@@ -365,7 +365,7 @@
         "de": "Verdammt noch mal. Ich hatte euch doch gesagt, dass ihr den Vizepräsidenten nicht töten sollt. Keiner von euch wird sich jemals als Splinter Cell qualifizieren. Mission beendet!",
         "es": "¡Os dije que no matarais al vicepresidente! Ninguno de los dos va a licenciarse como Splinter Cell. ¡Misión cancelada!",
         "it": "Maledizione! Vi avevo detto di non uccidere il vice presidente! Nessuno di voi due si qualificherà mai come Splinter Cell. Missione terminata!",
-        "th": "เวรเอ๊ย! ผมบอกแล้วว่าอย่าฆ่ารองประธาน พวกคุณทั้งคู่ไม่มีวันได้เป็นสปลินเตอร์เซลเต็มตัวอย่างแน่นอน จบภารกิจ!"
+        "th": "เวรเอ๊ย! ผมบอกแล้วว่าอย่าฆ่ารองประธาน พวกนายทั้งคู่ไม่มีวันได้เป็นสปลินเตอร์เซลเต็มตัวอย่างแน่นอน จบภารกิจ!"
       },
       "Speech_0016L": {
         "en": "Well, too late now, but someone with that level of access is usually more useful to you when he's conscious. Keep it in mind for next time.",
@@ -373,7 +373,7 @@
         "de": "Nun, jetzt ist es zu spät, aber jemand mit solchen Befugnissen ist normalerweise von größerem Nutzen, wenn er bei Bewusstsein ist. Merkt euch das für das nächste Mal.",
         "es": "Aunque ya es un poco tarde, os recuerdo que una persona que tiene acceso a niveles reservados suele ser más útil cuando no está inconsciente.",
         "it": "Beh, adesso è troppo tardi, ma qualcuno con quel livello di accesso di solito vi è più utile quando è sveglio. Ricordatevelo la prossima volta.",
-        "th": "เอาล่ะ สายไปแล้ว แต่คนที่มีสิทธิ์เข้าถึงระดับนั้น ปกติแล้วจะมีประโยชน์กับคุณมากกว่าตอนที่ยังรู้สึกตัว จำไว้ใช้ครั้งหน้าละกัน"
+        "th": "เอาล่ะ สายไปแล้ว แต่คนที่มีสิทธิ์เข้าถึงระดับนั้น ปกติแล้วจะมีประโยชน์กับพวกนายมากกว่าตอนที่ยังรู้สึกตัว จำไว้ใช้ครั้งหน้าละกัน"
       },
       "Speech_0027L": {
         "en": "What are you doing? Now you won't be able to use him on the retinal scanners outside the Archive room. Not smart.",
@@ -397,7 +397,7 @@
         "de": "Willkommen bei den Profis. Ich weiß, dass ihr beide euch noch in der Ausbildung befindet, aber es hat einen Zwischenfall gegeben und ihr seid die zurzeit einzig verfügbaren Einsatzkräfte. Vor kurzem haben wir in der MCAS-Bank von Panama Beweise sichergestellt, die darauf hinweisen, dass Vizepräsident Señor Segundo Ruiz de Medeiros Bestechungsgelder dafür angenommen hat, dass er Schiffe auf ihrem Weg durch die Kanalzone vor Inspektionen schützte. Wir müssen alle Unterlagen finden, die Señor de Medeiros über diese Vorgänge aufbewahrt haben könnte.",
         "es": "Bienvenidos a primera división, muchachos. Sé que aún os estáis entrenando, pero ha surgido algo y no tenemos a más agentes, así que os toca jugar. Nos han llegado pruebas del Banco MCAS de Panamá que demuestran que el vicepresidente Segundo Ruiz de Medeiros ha estado recibiendo sobornos para permitir que algunos barcos atraviesen el canal sin ser inspeccionados. Hay que encontrar los registros de cuentas de Medeiros.",
         "it": "Benvenuti in serie A. So che siete entrambi ancora in addestramento, ma è successo qualcosa di grave e non abbiamo altro personale disponibile. Recentemente abbiamo saputo, tramite la MCAS Bank di Panama, che il vice presidente Señor Segundo Ruiz de Medeiros ha accettato bustarelle per permettere a certe navi di oltrepassare punti di ispezione nella zona del Canale. Dobbiamo trovare qualunque tipo di registrazione che il Señor de Medeiros ha conservato.",
-        "th": "ยินดีต้อนรับสู่ลีกใหญ่ ผมรู้ว่าคุณทั้งคู่ยังฝึกอยู่ แต่มีเรื่องด่วนเข้ามา และเราไม่มีกำลังคนอื่นให้ใช้แล้ว เมื่อไม่นานมานี้เราพบหลักฐานจากธนาคาร MCAS แห่งปานามา ที่บ่งชี้ว่า รองประธานเซญอร์ เซกุนโด รุยซ์ เด เมเดรอส รับสินบนเพื่อให้เรือผ่านการตรวจสอบแบบสุ่ม ได้ขณะเคลื่อนผ่านเขตคลองปานามา เราต้องหาบันทึกทั้งหมดที่เซญอร์ เด เมเดรอส อาจเก็บไว้"
+        "th": "ยินดีต้อนรับสู่ลีกใหญ่ ผมรู้ว่าพวกนายทั้งคู่ยังฝึกอยู่ แต่มีเรื่องด่วนเข้ามา และเราไม่มีกำลังคนอื่นให้ใช้แล้ว เมื่อไม่นานมานี้เราพบหลักฐานจากธนาคาร MCAS แห่งปานามา ที่บ่งชี้ว่า รองประธานเซญอร์ เซกุนโด รุยซ์ เด เมเดรอส รับสินบนเพื่อให้เรือผ่านการตรวจสอบแบบสุ่ม ได้ขณะเคลื่อนผ่านเขตคลองปานามา เราต้องหาบันทึกทั้งหมดที่เซญอร์ เด เมเดรอส อาจเก็บไว้"
       },
       "Speech_0022L": {
         "en": "...in other news, Director Liu of the Chinese National Space Administration publicly offered to attempt a rescue of the astronauts stranded aboard the International Space Station, stating that the CNSA has a Shenzhue rocket which could be fueled and prepped for emergency launch within seventy-two hours... as yet there has been no response from NASA or ESA officials.",
@@ -405,7 +405,7 @@
         "de": "... weitere Meldungen: ... Direktor Liu von der Nationalen Chinesischen Raumfahrtbehörde hat heute offiziell die Hilfe seines Landes bei der Rettung der Astronauten angeboten, die in der Internationalen Weltraumstation festsitzen. Er erklärte, dass eine Shenzhue-Rakete innerhalb von 72 Stunden für einen Notfallstart betankt und vorbereitet werden könne ... zurzeit gibt es dazu weder von der NASA noch von der ESA eine Stellungnahme.",
         "es": "El señor Liu, director de la Agencia Espacial China, ha ofrecido sus servicios para intentar el rescate de los astronautas atrapados en la Estación Espacial Internacional. Según Liu, China dispone de un cohete Shen Zhue que podría estar listo para un lanzamiento de emergencia en setenta y dos horas. Ni la NASA ni la Agencia Espacial Europea han respondido por el momento.",
         "it": "...cambiamo argomento... Il direttore dell'Agenzia Spaziale Nazionale Cinese Liu si è offerto pubblicamente di tentare il recupero degli astronauti bloccati sulla stazione spaziale internazionale, sostenendo che l'ASNC ha a disposizione un razzo Shenzhue che potrebbe essere rifornito e preparato per un lancio di emergenza entro settantadue ore... ancora non si è avuta risposta da parte delle autorità della NASA e dell'ESA.",
-        "th": "...ในข่าวอื่น ผู้อำนวยการหลิวแห่งองค์การอวกาศแห่งชาติจีน (CNSA) ประกาศต่อสาธารณะว่า พร้อมจะลองช่วยเหลือนักบินอวกาศที่ติดค้างอยู่บนสถานีอวกาศนานาชาติ (ISS) โดยระบุว่าทาง CNSA มีจรวดเสินโจวที่สามารถเติมเชื้อเพลิงและเตรียมพร้อมสำหรับการยิงฉุกเฉิน ได้ภายในเจ็ดสิบสองชั่วโมง... จนถึงตอนนี้ยังไม่มีการตอบรับจากเจ้าหน้าที่ NASA หรือ ESA"
+        "th": "...ต่อไปเป็นข่าวอื่น ผู้อำนวยการหลิวแห่งองค์การอวกาศแห่งชาติจีน (CNSA) ประกาศต่อสาธารณะว่า พร้อมจะลองช่วยเหลือนักบินอวกาศที่ติดค้างอยู่บนสถานีอวกาศนานาชาติ (ISS) โดยระบุว่าทาง CNSA มีจรวดเสินโจวที่สามารถเติมเชื้อเพลิงและเตรียมพร้อมสำหรับการยิงฉุกเฉิน ได้ภายในเจ็ดสิบสองชั่วโมง... จนถึงตอนนี้ยังไม่มีการตอบรับจากเจ้าหน้าที่ NASA หรือ ESA"
       },
       "Speech_0023L": {
         "en": "MCAS Banco de Panama filed an insurance claim today against the theft of fifty-million dollars in negotiable government bearer bonds from their vault last night. The bonds are reported to be the property of the government of France. Investigation into the spectacular theft, and who might have committed it, are ongoing. ",
@@ -456,7 +456,7 @@
         "de": "Gut zu wissen. Wo ist er?",
         "es": "Es bueno saberlo. ¿Dónde está?",
         "it": "Buono a sapersi. Dov'è?",
-        "th": "ดีที่บอก ท่านอยู่ไหน?"
+        "th": "รู้ไว้ก็ดี ท่านอยู่ไหน?"
       },
       "Speech_0005L": {
         "en": "His office is down one floor, opposite the second floor security post.",
@@ -788,7 +788,7 @@
         "de": "Also, was glaubst du, was mit Señor de Medeiros in letzter Zeit los ist?",
         "es": "¿Qué crees que le pasa últimamente a Medeiros?",
         "it": "Cosa pensi stia succedendo al Señor de Medeiros di questi tempi?",
-        "th": "แล้วนายคิดว่าคุณเด เมเดรอส ช่วงนี้เป็นอะไรไป?"
+        "th": "แล้วนายคิดว่าท่านเซญอร์ เด เมเดรอส ช่วงนี้เป็นอะไรไป?"
       },
       "Speech_0003L": {
         "en": "What do you mean?",
@@ -1157,7 +1157,7 @@
         "de": "Gott, ich brauche einen Drink ... aber der Arzt sagt, ich soll weniger trinken.",
         "es": "Necesito una copa. Pero el médico dice que tengo que dejarlo.",
         "it": "Dio, ho bisogno di un bicchierino... ma il medico dice che devo cercare di smettere.",
-        "th": "พระเจ้า ฉันอยากดื่มสักแก้ว... แต่หมอบอกว่าฉันต้องลดลง"
+        "th": "พระเจ้า ฉันอยากดื่มสักแก้ว... แต่หมอบอกว่าฉันต้องดื่มให้น้อยลง"
       },
       "Speech_0012L": {
         "en": "Here I am talking to myself... repeating myself...",
@@ -1363,7 +1363,7 @@
         "de": "Ich schwöre, mehr weiß ich nicht. Sie werden mich töten müssen.",
         "es": "No sé nada más, lo juro. Tendrás que matarme.",
         "it": "Giuro che è tutto quel che so... Dovrete uccidermi.",
-        "th": "ฉันสาบาน นั่นคือทั้งหมดที่ฉันรู้ คุณต้องฆ่าฉันแล้วล่ะ"
+        "th": "ฉันสาบาน นั่นคือทั้งหมดที่ฉันรู้ งั้นคงต้องฆ่าฉันแล้วล่ะ"
       },
       "Speech_0003L": {
         "en": "I gave you all the codes... kill me now.",
@@ -1379,7 +1379,7 @@
         "de": "Oh, Gott! Ich wusste, dass Sie kommen würden! Hören Sie zu ... ich weiß von nichts ... Sie werden mich töten müssen. Bitte ... bringen Sie mich einfach um und erlösen Sie mich von meinem Leiden!",
         "es": "¡Lo sabía, te estaba esperando! No sé nada. Tendrás que matarme. ¡Vamos, acaba conmigo! ¡No lo soporto más!",
         "it": "Oh, dio! Sapevo che sareste arrivati! Sentite, non so niente... Dovrete uccidermi. Vi prego... uccidetemi e levatemi quest'angoscia!",
-        "th": "โอ้ พระเจ้า! ฉันรู้ว่าคุณต้องมา! ฟังนะ... ฉันไม่รู้อะไรเลย... คุณต้องฆ่าฉันแล้วล่ะ ได้โปรด... ฆ่าฉันเลย ปลดปล่อยฉันจากความทรมานนี้ที!"
+        "th": "โอ้ พระเจ้า! ฉันรู้ว่าคุณจะต้องมา! ฟังนะ... ฉันไม่รู้อะไรเลย... งั้นคงต้องฆ่าฉันแล้วล่ะ ได้โปรด... ฆ่าฉันเลย ปลดปล่อยฉันจากความทรมานนี้ที!"
       },
       "Speech_0005L": {
         "en": "I won't talk... I want to die.",

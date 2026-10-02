@@ -25,7 +25,7 @@
         "de": "AUFGABE",
         "es": "TODO",
         "it": "INCARICO",
-        "th": "TODO"
+        "th": "รอดำเนินการ"
       },
       "Briefing_LAMBERT": {
         "en": "LAMBERT - Fisher, I'm afraid we might be facing an orchestrated attempt to push the world into a major crisis. Zherkezhi might know more about information warfare than anyone on earth, and the fact that Displace is combat-ready, essentially stateless, and better equipped than most governments...we need to find out fast whether this is a coincidence, or whether someone inside Displace is making a major move. That said, State Department has several very significant contracts with Displace. This thing is extremely political. I hate to do this to you, but keep it clean. Recon only. No fatalities.",
@@ -346,7 +346,7 @@
         "de": "Verteidigungsminister Frank Mason lieSS verlauten, dass die Nationalgarde eine \"sehr dünne\" Personaldecke habe. Da die Nationalgardisten die regulären US-Truppen in elf Ländern weltweit unterstützen müssen, hätten die jüngsten Notfalleinsätze in fünf Bundesstaaten eine \"äuSSerst negative Auswirkung auf die innere Verteidigungsbereitschaft.\"",
         "es": "El Secretario de Defensa Frank Mason ha afirmado que la Guardia Nacional \"está atada de pies y manos\". Con miles de efectivos de este cuerpo cubriendo al ejército regular en once países extranjeros, las recientes situaciones de emergencia en cinco estados han \"mermado seriamente la capacidad de la Guardia Nacional para defender al pueblo\".",
         "it": "Il Segretario alla Difesa Frank Mason ha dichiarato che la Guardia Nazionale \"è veramente al limite\". Attualmente la Guardia Nazionale rinforza le truppe regolari in undici paesi oltremare, e i recenti interventi di emergenza in cinque stati \"limitano seriamente la sua possibilità di proteggere la popolazione.\"",
-        "th": "รัฐมนตรีกลาโหมแฟรงก์ เมสันถูกอ้างคำพูดว่ากล่าวว่าเนชันนัลการ์ดถูกใช้งานจนตึงเกินไปจนเป็นไปไม่ได้ โดยมีเจ้าหน้าที่เนชันนัลการ์ดเสริมกำลังกองทัพสหรัฐฯ ในสิบเอ็ดประเทศทั่วโลก การส่งกำลังฉุกเฉินในห้ารัฐเมื่อไม่นานนี้จึง'บั่นทอนขีดความสามารถในการปกป้องประชาชนอย่างร้ายแรง'"
+        "th": "แฟรงก์ เมสัน รัฐมนตรีกลาโหม ให้สัมภาษณ์ว่าเนชันนัลการ์ดถูกใช้งานจนตึงเกินไปจนเป็นไปไม่ได้ โดยมีเจ้าหน้าที่เนชันนัลการ์ดเสริมกำลังกองทัพสหรัฐฯ ในสิบเอ็ดประเทศทั่วโลก การส่งกำลังฉุกเฉินในห้ารัฐเมื่อไม่นานนี้จึง'บั่นทอนขีดความสามารถในการปกป้องประชาชนอย่างร้ายแรง'"
       },
       "EmailWNMMasonDate": {
         "en": "Fri, June 29th, 2007",
@@ -386,7 +386,7 @@
         "de": "Julian... Wegen Toms Besuch habe ich die Türcodes zwischen dem Betriebsraum und der Hauptlobby geändert. Der neue Code lautet 8136. Er gilt für beide Türen.",
         "es": "Julian, para la visita de Tom he cambiado los códigos de las puertas entre la sala de operaciones y el vestíbulo principal. El nuevo código es 8136. Es el mismo para las dos.",
         "it": "Julian... per la visita di Tom ho cambiato i codici tra la stanza delle operazioni e la lobby. Il nuovo codice è 8136, e vale su entrambe le porte.",
-        "th": "จูเลียน... สำหรับการมาเยือนของทอม ฉันเปลี่ยนรหัสประตูระหว่างห้องปฏิบัติการกับล็อบบี้หลักแล้ว รหัสใหม่คือ 8136 ใช้รหัสเดียวกันทั้งสองบาน"
+        "th": "จูเลียน... สำหรับการมาเยือนของทอม ฉันเปลี่ยนรหัสประตูระหว่างห้องควบคุมปฏิบัติการกับล็อบบี้หลักแล้ว รหัสใหม่คือ 8136 ใช้รหัสเดียวกันทั้งสองบาน"
       },
       "EmailLobbyCodeDate": {
         "en": "Sat, June 30th, 2007",
@@ -485,7 +485,7 @@
         "de": "Fisher ... sieh dich vor! Noch ein Alarm und du bekommst eine Menge Ärger.",
         "es": "¡Cuidado, Sam! Si salta una alarma más tendrás problemas.",
         "it": "Fisher... sii prudente! Al prossimo allarme sarai davvero nei guai.",
-        "th": "แลมเบิร์ต - ฟิชเชอร์... ระวัง! อีกครั้งเดียวคุณจะเจ็บตัวหนัก"
+        "th": "แลมเบิร์ต - ฟิชเชอร์... ระวัง! อีกครั้งเดียวคุณงานเข้าแน่"
       },
       "POPUPMESSAGE_0011": {
         "en": "Alarm Stage Four - Full Alert - Enemies Fortifying Positions",
@@ -517,7 +517,7 @@
         "de": "Verdammt, Sam. Die haben Großalarm ausgelöst ... schnell raus da.",
         "es": "Sam, se ha activado la alarma general. ¡Sal de ahí, rápido!",
         "it": "Dannazione, Sam. È l'allarme generale... esci di lì, e in fretta!",
-        "th": "แลมเบิร์ต - ให้ตายสิ แซม พวกเขาเปิดสัญญาณเตือนภัยทั่วไป... รีบออกไปจากที่นั่น"
+        "th": "แลมเบิร์ต - ให้ตายสิ แซม พวกเขาประกาศสัญญาณเตือนภัยทั่วไป... รีบออกไปจากที่นั่น"
       },
       "Objective_0017": {
         "en": "Insert tracer programs into Displace's division servers",
@@ -560,7 +560,7 @@
         "de": "Hey ... die NASA hat gerade verkündet, dass die Astronauten auf der ISS das Lebenserhaltungssystem wieder in Gang bekommen haben.",
         "es": "Por lo visto, los astronautas han logrado recuperar el soporte vital de la Estación Espacial.",
         "it": "Ehi... la NASA dice che gli astronauti della stazione spaziale sono riusciti a riaccendere il supporto vitale.",
-        "th": "พลทหารดิสเพลสไลฟ์ - เฮ้... NASA เพิ่งรายงานว่านักบินอวกาศบนสถานีอวกาศนานาชาติทำให้ระบบช่วยชีวิตกลับมาทำงานได้แล้ว"
+        "th": "พลทหารดิสเพลสลีฟ - เฮ้... NASA เพิ่งรายงานว่านักบินอวกาศบนสถานีอวกาศนานาชาติทำให้ระบบช่วยชีวิตกลับมาทำงานได้แล้ว"
       },
       "Speech_0010L": {
         "en": "-DisSol_Jeff- So they're gonna make it?",
@@ -576,7 +576,7 @@
         "de": "Nun ... vermutlich nicht ... aber wenigstens haben sie jetzt Zeit für einen Rettungsversuch.",
         "es": "No. Pero al menos han ganado algo de tiempo para intentar el rescate.",
         "it": "Beh... probabilmente no... ma almeno c'è tempo per tentare di salvarli...",
-        "th": "พลทหารดิสเพลสไลฟ์ - เอาเถอะ... คงไม่... แต่อย่างน้อยพวกเขาก็มีเวลาลองกู้ภัย..."
+        "th": "พลทหารดิสเพลสลีฟ - เอาเถอะ... คงไม่... แต่อย่างน้อยพวกเขาก็มีเวลาลองกู้ภัย..."
       },
       "Speech_0012L": {
         "en": "-DisSol_Jeff- The shuttle?",
@@ -592,7 +592,7 @@
         "de": "Ja ... die NASA arbeitet an der Reparatur des Raketensystems ... sie denken, dass sie rechtzeitig werden starten können.",
         "es": "Sí. La NASA está reparando el ensamblaje del cohete, para ver si pueden despegar a tiempo.",
         "it": "Sì... la NASA sta riparando il razzo... pensano di poterlo lanciare in tempo.",
-        "th": "พลทหารดิสเพลสไลฟ์ - ใช่... NASA กำลังซ่อมชุดจรวด... พวกเขาคิดว่าอาจยิงได้ทันเวลา"
+        "th": "พลทหารดิสเพลสลีฟ - ใช่... NASA กำลังซ่อมชุดจรวด... พวกเขาคิดว่าอาจยิงได้ทันเวลา"
       },
       "Speech_0014L": {
         "en": "-DisSol_Jeff- What about the Chinese rescue?",
@@ -608,7 +608,7 @@
         "de": "Sieht so aus, als würden wir die nicht mehr brauchen.",
         "es": "Supongo que ya no nos hacen falta.",
         "it": "Direi che non ci servono più.",
-        "th": "พลทหารดิสเพลสไลฟ์ - สงสัยเราไม่ต้องใช้พวกเขาแล้ว"
+        "th": "พลทหารดิสเพลสลีฟ - สงสัยเราไม่ต้องใช้พวกเขาแล้ว"
       },
       "Speech_0016L": {
         "en": "-DisSol_Jeff- Hm. Well, here's hoping nothing else goes wrong.",
@@ -1047,7 +1047,7 @@
         "de": "Äh ... ich habe todsicheres Geld auf einem Pferd ... Fancy Nancy morgen im dritten Rennen in Belmont ...",
         "es": "He apostado por Fancy Nancy en la tercera carrera de mañana.",
         "it": "Ehm... ho scommesso su un cavallo... Fancy Nancy, terzo a Belmont, domani...",
-        "th": "พลทหารดิสเพลสจอร์แดน - เอ่อ... ผมได้เบาะแสม้าตัวหนึ่ง... แฟนซี แนนซี ในการแข่งที่เบลมอนต์พรุ่งนี้..."
+        "th": "พลทหารดิสเพลสจอร์แดน - เอ่อ... ผมได้เบาะแสม้าตัวหนึ่ง... แฟนซี แนนซี ในการแข่งม้าลำดับที่ 3 ที่เบลมอนต์พรุ่งนี้..."
       },
       "Speech_0005L": {
         "en": "-FISHER- I think you can do better",
@@ -1277,7 +1277,7 @@
         "de": "Nun, stellen Sie sich vor, dass die Stadt, anstatt bei einer Bande stiernackiger Banditen mit Stiletts, in der Schuld einer Armee von schlangenfressenden Soziopathen stünde, deren Loyalität dem höchsten Bieter gehört. ",
         "es": "Imagínese que la ciudad no está en deuda con una pandilla de matones italianos, sino con un ejército de psicópatas armados. Y leales al mejor postor.",
         "it": "Ecco, pensa se invece che con un gruppo di sicari dal collo grosso armati di pugnale, la città fosse in debito con un esercito di sociopatici mangiatori di serpenti fedeli al miglior offerente.",
-        "th": "ฟิชเชอร์ - ลองจินตนาการว่าถ้าแทนที่จะเป็นพวกอันธพาลคอหนาๆ ถือมีดสติลเลตโต เมืองกลับเป็นหนี้บุญคุณกองทัพของพวกโรคจิตชอบกินงูที่ภักดีต่อผู้ให้ราคาสูงสุด..."
+        "th": "ฟิชเชอร์ - ลองจินตนาการว่าถ้าแทนที่จะเป็นพวกอันธพาลคอหนาๆ ถือมีดสติลเลตโต เมืองกลับเป็นหนี้บุญคุณกองทัพหน่วยรบพิเศษโรคจิตที่ภักดีต่อผู้ให้ราคาสูงสุด..."
       },
       "Speech_0008L": {
         "en": "-NYCCiv_Tom- That doesn't sound good.",
@@ -1408,7 +1408,7 @@
         "de": "Ah! ... Äh ... ich war auf dem Weg zum Konferenzraum ...",
         "es": "¡Ah! Yo... iba al centro de operaciones.",
         "it": "Ah!... ehm... stavo andando nella sala conferenze...",
-        "th": "ผู้บริหารดิสเพลสจูเลียน - อ๊ะ!... เอ่อ... ผมจะไปห้องปฏิบัติการ..."
+        "th": "ผู้บริหารดิสเพลสจูเลียน - อ๊ะ!... เอ่อ... ผมจะไปห้องควบคุมปฏิบัติการ..."
       },
       "Speech_0012L": {
         "en": "-FISHER- What's in the conference room?",
@@ -1758,7 +1758,7 @@
         "de": "W... wir entwickeln eine Sendeanlage ... gegen Aufstände ... aber der Prototyp ist für den Einzeleinsatz ... 40 Millimeter für Werfer.",
         "es": "Estamos desarrollando un equipo de emisión colectiva, para disturbios. Pero el prototipo es individual.",
         "it": "S... stiamo sviluppando una sistema broadcast... anti-rivolta... ma il prototipo è singolo... 40 milioni, chiavi in mano...",
-        "th": "ช่างเทคนิคดิสเพลสวาซลาฟ - เร... เรากำลังพัฒนาชุดเครื่องกระจายเสียง...สำหรับควบคุมฝูงชน... แต่ต้นแบบเป็นแบบพกพา... ยิงได้ไกล 40 เมตร..."
+        "th": "ช่างเทคนิคดิสเพลสวาซลาฟ - เร... เรากำลังพัฒนาชุดเครื่องกระจายเสียง...สำหรับควบคุมฝูงชน... แต่ต้นแบบเป็นแบบพกพา... ยิงได้ 40 มม...."
       },
       "Speech_0011L": {
         "en": "-FISHER- Convenient.",
@@ -1897,7 +1897,7 @@
         "de": "Vergessen Sie nicht, ihren 27B-Strich-6 auszufüllen.",
         "es": "No olvides rellenar el impreso 6, párrafo 27 bis.",
         "it": "Non scordarti di compilare il 27B barra 6.",
-        "th": "พลทหารดิสเพลสวอลเตอร์ - อย่าลืมกรอกแบบฟอร์ม 27 บี สโตรก 6 ด้วย"
+        "th": "พลทหารดิสเพลสวอลเตอร์ - อย่าลืมกรอกแบบฟอร์ม 27 บี/6 ด้วย"
       }
     },
     "P_05_Displace01_InterroSecGuard": {
@@ -2304,7 +2304,7 @@
         "de": "Vergessen Sie es ... Ich werde Ihnen gar nichts sagen.",
         "es": "Olvídalo. No pienso decirte nada.",
         "it": "Scordatelo... non ti dirò niente.",
-        "th": "พลทหารดิสเพลสพอล - ฝันไปเถอะ... ฉันไม่บอกอะไรแกทั้งนั้น"
+        "th": "พลทหารดิสเพลสพอล - ฝันไปเถอะ... ผมไม่บอกอะไรคุณทั้งนั้น"
       },
       "Speech_0005L": {
         "en": "-FISHER- Are you crazy? We're on the sixtieth floor...",
@@ -2368,7 +2368,7 @@
         "de": "Bitte ... ich habe Höhenangst ...",
         "es": "Tengo pánico a las alturas...",
         "it": "Ti prego... soffro di vertigini...",
-        "th": "พลทหารดิสเพลสพอล - ได้โปรด... ผมกลัวที่สูง..."
+        "th": "พลทหารดิสเพลสพอล - ได้โปรด... ผมกลัวความสูง..."
       },
       "Speech_0015L": {
         "en": "-DisSol_Paul- I won't tell anyone you were here.",
@@ -2803,7 +2803,7 @@
         "de": "Sam, du wirst die Aufzüge manuell wieder in Gang bringen müssen, bevor du die oberen Etagen erreichen kannst.",
         "es": "Sam, para subir a los pisos superiores tienes que restablecer la corriente de los ascensores de Displace.",
         "it": "Sam, dovrai ridare la corrente manualmente agli ascensori di Displace se vuoi arrivare ai piani superiori.",
-        "th": "แซม คุณต้องจ่ายไฟให้ลิฟต์ของดิสเพลสด้วยตัวเองก่อนจึงจะขึ้นไปชั้นบนได้"
+        "th": "กริมส์ดอตเตียร์ - แซม คุณต้องจ่ายไฟให้ลิฟต์ของดิสเพลสด้วยตัวเองก่อนจึงจะขึ้นไปชั้นบนได้"
       },
       "Speech_0042L": {
         "en": "FISHER - Will do.",
@@ -2891,7 +2891,7 @@
         "de": "Sam, du musst die Aufzüge manuell wieder in Gang bringen, bevor du die oberen Etagen erreichen kannst.",
         "es": "Sam, para subir a los pisos superiores tienes que restablecer la corriente de los ascensores de Displace.",
         "it": "Sam, dovrai ridare la corrente manualmente agli ascensori di Displace se vuoi arrivare sul tetto.",
-        "th": "แซม คุณต้องจ่ายไฟให้ลิฟต์ของดิสเพลสด้วยตัวเองก่อนจึงจะขึ้นไปชั้นบนได้"
+        "th": "กริมส์ดอตเตียร์ - แซม คุณต้องจ่ายไฟให้ลิฟต์ของดิสเพลสด้วยตัวเองก่อนจึงจะขึ้นไปชั้นบนได้"
       },
       "Speech_0061L": {
         "en": "GRIMSDOTTIR - Sam, you need the access codes form the Executive's laptop. See if you can tap into it wirelessly.",
@@ -2934,7 +2934,7 @@
         "de": "-NYCCiv_Tom- So what did you wanna show me?",
         "es": "-NYCCiv_Tom- So what did you wanna show me?",
         "it": "-NYCCiv_Tom- So what did you wanna show me?",
-        "th": "-NYCCiv_Tom- แล้วคุณอยากให้ผมดูอะไรเหรอ?"
+        "th": "สมาชิกสภาเทศบาลทอม - แล้วคุณอยากให้ผมดูอะไรเหรอ?"
       },
       "Speech_0002L": {
         "en": "-DisExc_Julian- In the lobby of the Empire State Building there are four brass rondelles. Art Deco pieces. Each rondelle represents one of the four disciplines of skyscraper construction.",
@@ -2942,7 +2942,7 @@
         "de": "In der Lobby des Empire State Building befindet sich ein Messing-Relief, Art Deco. Es zeigt unter anderem die vier Eckpfeiler des Wolkenkratzer-Baus.",
         "es": "En el vestíbulo del Empire State puede ver cuatro obras de latón. Piezas de Art Deco. Cada una representa una de las cuatro máximas en la construcción de rascacielos.",
         "it": "Nell'atrio dell'Empire State Building ci sono quattro targhe in ottone stile Art Deco. Ogni targa rappresenta una delle quattro discipline della costruzione di grattacieli.",
-        "th": "-DisExc_Julian- ในล็อบบี้ของตึกเอ็มไพร์สเตตมีจานกลมทองเหลืองสี่แผ่น เป็นงานศิลปะแบบอาร์ตเดโค แต่ละแผ่นแทนหนึ่งในสี่ศาสตร์ของการสร้างตึกระฟ้า"
+        "th": "ผู้บริหารดิสเพลสจูเลียน - ในล็อบบี้ของตึกเอ็มไพร์สเตตมีจานกลมทองเหลืองสี่แผ่น เป็นงานศิลปะแบบอาร์ตเดโค แต่ละแผ่นแทนหนึ่งในสี่ศาสตร์ของการสร้างตึกระฟ้า"
       },
       "Speech_0003L": {
         "en": "-NYCCiv_Tom- What? Like engineering? Financing? Real-estate...?",
@@ -2950,7 +2950,7 @@
         "de": "Und die wären? Statik? Finanzierung? Grundstücke? Und ...?",
         "es": "¿Máximas? ¿Se refiere a ingeniería, finanzas, propiedades?",
         "it": "Cioè? Ingegneria, finanziamenti, proprietà immibiliare...",
-        "th": "-NYCCiv_Tom- อะไรนะ? อย่างวิศวกรรม? การเงิน? อสังหาริมทรัพย์...?"
+        "th": "สมาชิกสภาเทศบาลทอม - อะไรนะ? อย่างวิศวกรรม? การเงิน? อสังหาริมทรัพย์...?"
       },
       "Speech_0004L": {
         "en": "-DisExc_Julian- Machines. Concrete. Decoration. Elevators. Elevators like this one here.",
@@ -2958,7 +2958,7 @@
         "de": "Nein. Maschinen. Beton. Dekoration. Und Aufzüge. Aufzüge wie dieser hier.",
         "es": "No, no, no. Maquinaria. Hormigón. Decoración. Y ascensores. Ascensores como éste de aquí.",
         "it": "Macchine. Cemento. Arredamento. Ascensori. Ascensori come questo.",
-        "th": "-DisExc_Julian- เครื่องจักร คอนกรีต การตกแต่ง ลิฟต์ ลิฟต์อย่างตัวที่เราอยู่ในนี้"
+        "th": "ผู้บริหารดิสเพลสจูเลียน - เครื่องจักร คอนกรีต การตกแต่ง ลิฟต์ ลิฟต์อย่างตัวที่เราอยู่ในนี้"
       },
       "Speech_0005L": {
         "en": "-NYCCiv_Tom- Hunh. Ok, Julian. What's your point?",
@@ -2966,7 +2966,7 @@
         "de": "Hmm. Okay, Julian. Worauf wollen Sie hinaus?",
         "es": "Lo siento, no le comprendo...",
         "it": "OK, Julian. Arriva al punto.",
-        "th": "-NYCCiv_Tom- หืม เอาล่ะ จูเลียน ประเด็นของคุณคืออะไร?"
+        "th": "สมาชิกสภาเทศบาลทอม - หืม เอาล่ะ จูเลียน ประเด็นของคุณคืออะไร?"
       },
       "Speech_0006L": {
         "en": "-DisExc_Julian- My point is that every single day five million New York executives ride elevators. Elevators that they can't do their jobs without.",
@@ -2974,7 +2974,7 @@
         "de": "5 Millionen Menschen, die in New York arbeiten, benutzen täglich einen Aufzug. Ohne Aufzüge können sie ihre Arbeit nicht machen.",
         "es": "Verá, cada día, cinco millones de ejecutivos neoyorquinos suben y bajan en ascensores. Ascensores sin los cuales no podrían hacer su trabajo.",
         "it": "Il punto è che ogni giorno cinque milioni di impiegati newyorkesi usano gli ascensori. Senza gli ascensori non potrebbero svolgere il loro lavoro.",
-        "th": "-DisExc_Julian- ประเด็นของผมคือ ทุกๆ วันมีผู้บริหารนิวยอร์กห้าล้านคนขึ้นลิฟต์ ลิฟต์ที่พวกเขาขาดไม่ได้ในการทำงาน"
+        "th": "ผู้บริหารดิสเพลสจูเลียน - ประเด็นของผมคือ ทุกๆ วันมีผู้บริหารนิวยอร์กห้าล้านคนขึ้นลิฟต์ ลิฟต์ที่พวกเขาขาดไม่ได้ในการทำงาน"
       },
       "Speech_0007L": {
         "en": "-NYCCiv_Tom- So...",
@@ -2982,7 +2982,7 @@
         "de": "Und ...",
         "es": "¿Y...?",
         "it": "Quindi...?",
-        "th": "-NYCCiv_Tom- งั้น..."
+        "th": "สมาชิกสภาเทศบาลทอม - งั้น..."
       }
     },
     "P_05_Displace01_LobbyMezzConvo": {
@@ -3001,7 +3001,7 @@
         "de": "Also, was wollten Sie mir zeigen?",
         "es": "¿Y bien? ¿Qué iba a enseñarme?",
         "it": "Allora, cosa volevi farmi vedere?",
-        "th": "-NYCCiv_Tom- แล้วคุณอยากให้ผมดูอะไรเหรอ?"
+        "th": "สมาชิกสภาเทศบาลทอม - แล้วคุณอยากให้ผมดูอะไรเหรอ?"
       },
       "Speech_0002L": {
         "en": "-DisExc_Julian- In the lobby of the Empire State Building there are four brass rondelles. Art Deco pieces. Each rondelle represents one of the four disciplines of skyscraper construction.",
@@ -3009,7 +3009,7 @@
         "de": "In der Lobby des Empire State Building befindet sich ein Messing-Relief, Art Deco. Es zeigt unter anderem die vier Eckpfeiler des Wolkenkratzer-Baus.",
         "es": "En el vestíbulo del Empire State puede ver cuatro obras de latón. Piezas de Art Deco. Cada una representa una de las cuatro máximas en la construcción de rascacielos.",
         "it": "Nell'atrio dell'Empire State Building ci sono quattro targhe in ottone stile Art Deco. Ogni targa rappresenta una delle quattro discipline della costruzione di grattacieli.",
-        "th": "-DisExc_Julian- ในล็อบบี้ของตึกเอ็มไพร์สเตตมีจานกลมทองเหลืองสี่แผ่น เป็นงานศิลปะแบบอาร์ตเดโค แต่ละแผ่นแทนหนึ่งในสี่ศาสตร์ของการสร้างตึกระฟ้า"
+        "th": "ผู้บริหารดิสเพลสจูเลียน - ในล็อบบี้ของตึกเอ็มไพร์สเตตมีจานกลมทองเหลืองสี่แผ่น เป็นงานศิลปะแบบอาร์ตเดโค แต่ละแผ่นแทนหนึ่งในสี่ศาสตร์ของการสร้างตึกระฟ้า"
       },
       "Speech_0003L": {
         "en": "-NYCCiv_Tom- What? Like engineering? Financing? Real-estate...?",
@@ -3017,7 +3017,7 @@
         "de": "Und die wären? Statik? Finanzierung? Grundstücke? Und ...?",
         "es": "¿Máximas? ¿Se refiere a ingeniería, finanzas, propiedades?",
         "it": "Cioè? Ingegneria, finanziamenti, proprietà immibiliare...",
-        "th": "-NYCCiv_Tom- อะไรนะ? อย่างวิศวกรรม? การเงิน? อสังหาริมทรัพย์...?"
+        "th": "สมาชิกสภาเทศบาลทอม - อะไรนะ? อย่างวิศวกรรม? การเงิน? อสังหาริมทรัพย์...?"
       },
       "Speech_0004L": {
         "en": "-DisExc_Julian- Machines. Concrete. Decoration. Elevators. Elevators like this one here.",
@@ -3025,7 +3025,7 @@
         "de": "Nein. Maschinen. Beton. Dekoration. Und Aufzüge. Aufzüge wie dieser hier.",
         "es": "No, no, no. Maquinaria. Hormigón. Decoración. Y ascensores. Ascensores como éste de aquí.",
         "it": "Macchine. Cemento. Arredamento. Ascensori. Ascensori come questo.",
-        "th": "-DisExc_Julian- เครื่องจักร คอนกรีต การตกแต่ง ลิฟต์ ลิฟต์อย่างตัวที่เราอยู่ในนี้"
+        "th": "ผู้บริหารดิสเพลสจูเลียน - เครื่องจักร คอนกรีต การตกแต่ง ลิฟต์ ลิฟต์อย่างตัวที่เราอยู่ในนี้"
       },
       "Speech_0005L": {
         "en": "-NYCCiv_Tom- Hunh. Ok, Julian. What's your point?",
@@ -3033,7 +3033,7 @@
         "de": "Hmm. Okay, Julian. Worauf wollen Sie hinaus?",
         "es": "Lo siento, no le comprendo...",
         "it": "OK, Julian. Arriva al punto.",
-        "th": "-NYCCiv_Tom- หืม เอาล่ะ จูเลียน ประเด็นของคุณคืออะไร?"
+        "th": "สมาชิกสภาเทศบาลทอม - หืม เอาล่ะ จูเลียน ประเด็นของคุณคืออะไร?"
       },
       "Speech_0006L": {
         "en": "-DisExc_Julian- My point is that every single day five million New York executives ride elevators. Elevators that they can't do their jobs without.",
@@ -3041,7 +3041,7 @@
         "de": "5 Millionen Menschen, die in New York arbeiten, benutzen täglich einen Aufzug. Ohne Aufzüge können sie ihre Arbeit nicht machen.",
         "es": "Verá, cada día, cinco millones de ejecutivos neoyorquinos suben y bajan en ascensores. Ascensores sin los cuales no podrían hacer su trabajo.",
         "it": "Il punto è che ogni giorno cinque milioni di impiegati newyorkesi usano gli ascensori. Senza gli ascensori non potrebbero svolgere il loro lavoro.",
-        "th": "-DisExc_Julian- ประเด็นของผมคือ ทุกๆ วันมีผู้บริหารนิวยอร์กห้าล้านคนขึ้นลิฟต์ ลิฟต์ที่พวกเขาขาดไม่ได้ในการทำงาน"
+        "th": "ผู้บริหารดิสเพลสจูเลียน - ประเด็นของผมคือ ทุกๆ วันมีผู้บริหารนิวยอร์กห้าล้านคนขึ้นลิฟต์ ลิฟต์ที่พวกเขาขาดไม่ได้ในการทำงาน"
       },
       "Speech_0007L": {
         "en": "-NYCCiv_Tom- So...",
@@ -3049,7 +3049,7 @@
         "de": "Und ...",
         "es": "¿Y...?",
         "it": "Quindi...?",
-        "th": "-NYCCiv_Tom- งั้น..."
+        "th": "สมาชิกสภาเทศบาลทอม - งั้น..."
       },
       "POPUPMESSAGE_0010": {
         "en": "Retrieve the server access algorithm.",
@@ -3103,7 +3103,7 @@
         "de": "Verdammt, Fisher ... ich sagte doch, keine Toten. Ich breche die Aktion ab. Mission beendet.",
         "es": "Te dije que no quería muertos, Fisher. Se acabó. Misión cancelada.",
         "it": "Cristo, Fisher... avevo detto niente vittime. Stacco la spina. Missione finita.",
-        "th": "แลมเบิร์ต - พระเยซูคริสต์ ฟิชเชอร์... ฉันบอกว่าห้ามฆ่า ฉันจะตัดไฟ ภารกิจจบ"
+        "th": "แลมเบิร์ต - พระเยซูคริสต์ ฟิชเชอร์... ฉันบอกว่าห้ามฆ่า ฉันจะยุติภารกิจ ภารกิจจบ"
       }
     },
     "P_05_Displace01_Objectives": {
@@ -3242,7 +3242,7 @@
         "de": "Damit würdest du mir eine große Freude bereiten.",
         "es": "Te estaría muy agradecida.",
         "it": "Lo apprezzerei molto.",
-        "th": "กริมส์ดอตเตียร์ - ฉันจะขอบคุณมาก"
+        "th": "กริมส์ดอตเตียร์ - ถ้าอย่างนั้นฉันจะขอบคุณมากเลย"
       },
       "Speech_0050L": {
         "en": "FISHER - Since you asked so nice...",
@@ -3378,7 +3378,7 @@
         "de": "-LAMBERT- Hmm... the data appears to have been moved to the terminal of Mnedich...Displace VP of Protection Operations... we'll need access to his computer in the Upper Offices.",
         "es": "-LAMBERT- Hmm... the data appears to have been moved to the terminal of Mnedich...Displace VP of Protection Operations... we'll need access to his computer in the Upper Offices.",
         "it": "-LAMBERT- Hmm... the data appears to have been moved to the terminal of Mnedich...Displace VP of Protection Operations... we'll need access to his computer in the Upper Offices.",
-        "th": "แลมเบิร์ต - หืม... ข้อมูลดูเหมือนถูกย้ายไปที่เครื่องปลายทางของ Mnedich... รองประธานฝ่ายปฏิบัติการคุ้มกันของดิสเพลส... เราต้องเข้าถึงคอมพิวเตอร์ของเขาในสำนักงานชั้นบน"
+        "th": "แลมเบิร์ต - หืม... ข้อมูลดูเหมือนถูกย้ายไปที่เครื่องปลายทางของเอ็ม เนดิช... รองประธานฝ่ายปฏิบัติการคุ้มกันของดิสเพลส... เราต้องเข้าถึงคอมพิวเตอร์ของเขาในสำนักงานชั้นบน"
       },
       "Speech_0058L": {
         "en": "FISHER - M Nedich? Who's that?",
@@ -3410,7 +3410,7 @@
         "de": "Echelon hat nichts über ihn. Sieht aus, als hätte man alles über ihn gelöscht.",
         "es": "En Echelon no hay nada sobre él. Es como si lo hubieran borrado.",
         "it": "Echelon non sa niente su di lui. È come se fosse stato azzerato.",
-        "th": "แลมเบิร์ต - อีเชลอนไม่มีข้อมูลของเขาเลย ดูเหมือนชื่อของเขาถูกกวาดเรียบ"
+        "th": "แลมเบิร์ต - เธิร์ดเอเชลอนไม่มีข้อมูลของเขาเลย ดูเหมือนชื่อของเขาถูกกวาดเรียบ"
       },
       "Speech_0062L": {
         "en": "-FISHER- Probably a pseudonym. I'll see if I can find out who he really is.",
@@ -3458,7 +3458,7 @@
         "de": "Hmm ... die scheinen auf das Terminal von M Nedich transferiert worden zu sein ... Displace Vizepräsident für Personenschutz ... wir werden Zugriff auf seinen Computer in den oberen Büros benötigen.",
         "es": "Los datos han sido desviados a la terminal de M. Nedich. Vicepresidente de Seguridad de Displace. Hay que acceder a su ordenador. Está en las oficinas de arriba.",
         "it": "Hmm... sembra che i dati siano stati trasferiti sul terminale di M Nedich... vice presidente di Displace per le operazioni di protezione... dovremo entrare nel suo computer negli uffici superiori.",
-        "th": "แลมเบิร์ต - หืม... ข้อมูลดูเหมือนถูกย้ายไปที่เครื่องปลายทางของ Mnedich... รองประธานฝ่ายปฏิบัติการคุ้มกันของดิสเพลส... เราต้องเข้าถึงคอมพิวเตอร์ของเขาในสำนักงานชั้นบน"
+        "th": "แลมเบิร์ต - หืม... ข้อมูลดูเหมือนถูกย้ายไปที่เครื่องปลายทางของเอ็ม เนดิช... รองประธานฝ่ายปฏิบัติการคุ้มกันของดิสเพลส... เราต้องเข้าถึงคอมพิวเตอร์ของเขาในสำนักงานชั้นบน"
       },
       "Objective_0128": {
         "en": "Exfiltrate from the primary extraction point.",
@@ -3562,7 +3562,7 @@
         "de": "-REDDING- Milan Nowak... that's Nedich's real name. Turns out he's the Barber of Bosnia. Suspected war criminal from the Bosnian conflict.",
         "es": "-REDDING- Milan Nowak... that's Nedich's real name. Turns out he's the Barber of Bosnia. Suspected war criminal from the Bosnian conflict.",
         "it": "-REDDING- Milan Nowak... that's Nedich's real name. Turns out he's the Barber of Bosnia. Suspected war criminal from the Bosnian conflict.",
-        "th": "เรดดิง - มิลาน โนวัก... นั่นคือชื่อจริงของเนดิช กลายเป็นว่าเขาเป็นเพชฌฆาตแห่งบอสเนีย ผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย"
+        "th": "เรดดิง - มิลาน โนวัก... นั่นคือชื่อจริงของเนดิช กลายเป็นว่าเขาเป็นช่างตัดผมแห่งบอสเนีย ผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย"
       },
       "Speech_0073L": {
         "en": "REDDING - Good grab Fisher. Milan Nedich's real name... Jesus... Milos Nowak...",
@@ -3586,7 +3586,7 @@
         "de": "Der Barbier von Bosnien. Mutmaßlicher Kriegsverbrecher im Balkankrieg. Hat angeblich einige seiner Gefangenen skalpiert.",
         "es": "El Peluquero de Bosnia. Acusado de arrancar el cuero cabelludo a los prisioneros en la Guerra de Bosnia.",
         "it": "Il \"barbiere di Bosnia\". È sospettato di essere un criminale di guerra del conflitto in Bosnia. Pare che abbia fatto lo scalpo ad alcuni dei suoi prigionieri.",
-        "th": "เรดดิง - เพชฌฆาตแห่งบอสเนีย ผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย มีข้อกล่าวหาว่าเขาถลกหนังศีรษะเชลยบางคน"
+        "th": "เรดดิง - ช่างตัดผมแห่งบอสเนีย ผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย มีข้อกล่าวหาว่าเขาถลกหนังศีรษะเชลยบางคน"
       },
       "Speech_0078L": {
         "en": "FISHER - Wanted in The Hague?",
@@ -3626,7 +3626,7 @@
         "de": "Milos Nowak ... so lautet Nedichs wahrer Name. Es hat sich herausgestellt, dass er der Barbier von Bosnien ist. Mutmaßlicher Kriegsverbrecher im Balkankrieg.",
         "es": "El verdadero nombre de Nedich es Milos Nowak. Llamado el Peluquero de Bosnia. Acusado de crímenes de guerra.",
         "it": "Milos Nowak... ecco il vero nome di Nedich. È saltato fuori che è il \"barbiere di Bosnia\". Sospetto criminale di guerra nel conflitto bosniaco.",
-        "th": "เรดดิง - มิลาน โนวัก... นั่นคือชื่อจริงของเนดิช กลายเป็นว่าเขาเป็นเพชฌฆาตแห่งบอสเนีย ผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย"
+        "th": "เรดดิง - มิลาน โนวัก... นั่นคือชื่อจริงของเนดิช กลายเป็นว่าเขาเป็นช่างตัดผมแห่งบอสเนีย ผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย"
       },
       "Objective_0092": {
         "en": "Recover technical specifications for the Infrasound Generator",
@@ -3634,7 +3634,7 @@
         "de": "Suchen Sie die technischen Spezifikationen für den Infraschall-Generator.",
         "es": "Consigue las especificaciones técnicas del generador de ultrasonidos.",
         "it": "Recupera le specifiche tecniche del generatore di infrasuoni",
-        "th": "เก็บกู้ข้อมูลจำเพาะทางเทคนิคของเครื่องกำเนิดอินฟราซาวด์"
+        "th": "กู้คืนข้อมูลจำเพาะทางเทคนิคของเครื่องกำเนิดอินฟราซาวด์"
       },
       "Objective_0103": {
         "en": "Displace\u0019s R&D Division is prototyping a new LTL munition that uses infrasound. Try to find the technical specifications.",
@@ -3650,7 +3650,7 @@
         "de": "Suchen Sie nach technischen Berichten über die laufende Gefechtsturm-Forschung von Displace.",
         "es": "Consigue los informes técnicos de las investigaciones de Displace sobre torretas.",
         "it": "Recupera i rapporti tecnici sulle ricerche delle torrette Displace in corso",
-        "th": "เก็บกู้รายงานทางเทคนิคเกี่ยวกับงานวิจัยป้อมปืนที่ดิสเพลสกำลังทำอยู่"
+        "th": "กู้คืนรายงานทางเทคนิคเกี่ยวกับงานวิจัยป้อมปืนที่ดิสเพลสกำลังทำอยู่"
       },
       "Objective_0104": {
         "en": "Displace's R&D Division is conducting research into automated turrets. Try to find the technical specifications.",
@@ -3714,7 +3714,7 @@
         "de": "Danke, Sam ... das war der Letzte. Ich kann es gar nicht erwarten, in ihrem Wäschekorb herumzuschnüffeln.",
         "es": "Gracias, Sam. Ése era el último. Estoy deseando husmear en los trapos sucios de Displace.",
         "it": "Grazie, Sam... quello era l'ultimo. Non vedo l'ora di dare un'occhiata ai panni sporchi di Displace.",
-        "th": "กริมส์ดอตเตียร์ - ขอบใจ แซม... นั่นคือตัวสุดท้าย ฉันแทบรอไม่ไหวที่จะได้คุ้ยตะกร้าผ้าซักของดิสเพลส"
+        "th": "กริมส์ดอตเตียร์ - ขอบใจ แซม... นั่นคือตัวสุดท้าย ฉันแทบรอไม่ไหวที่จะได้คุ้ยตะกร้าใส่ผ้าของดิสเพลส"
       },
       "Speech_0089L": {
         "en": "FISHER - Awww...",
@@ -3773,7 +3773,7 @@
         "de": "Im Gegenteil. Die Menschen wollen Schutz. Sie brauchen Schutz ... aber sie wollen den Schutz nicht sehen. Er macht ihnen Angst. Die Nationalgarde an jeder Straßenecke wird den Frieden sichern ... aber um welchen Preis?",
         "es": "Al contrario. La gente quiere seguridad y necesita seguridad, pero sin percibirla. Los hombres armados les asustan. Desplegar a la Guardia Nacional por todos los rincones mantendrá el orden, pero ¿a qué precio?",
         "it": "Al contrario. La gente vuole protezione... gli serve.... ma non vogliono vedere la protezione. Li spaventa. Mettere la Guardia Nazionale ad ogni angolo manterrà la pace... ma a che prezzo?",
-        "th": "ผู้บริหารดิสเพลสจูเลียน - ตรงกันข้าม ประชาชนอยากได้การคุ้มกัน... พวกเขาต้องการการคุ้มกัน... แต่พวกเขาไม่อยากเห็นการคุ้มกัน มันทำให้กลัว การมีเนชันนัลการ์ดอยู่ทุกหัวมุมถนนจะรักษาความสงบได้... แต่แลกด้วยอะไร?"
+        "th": "ผู้บริหารดิสเพลสจูเลียน - ตรงกันข้าม ประชาชนอยากได้การคุ้มกัน... พวกเขาต้องการการคุ้มกัน... แต่พวกเขาไม่อยากเห็นการคุ้มกัน มันทำให้พวกเขากลัว การมีเนชันนัลการ์ดอยู่ทุกหัวมุมถนนจะรักษาความสงบได้... แต่แลกด้วยอะไร?"
       },
       "Speech_0021L": {
         "en": "-NYCCiv_Tom- They'll get over it Julian. In the end, the thing they'll remember is that the National Guard is cheap. I'm dealing with tax payers here... the last thing I need is another fiscal accountability scandal.",
@@ -3824,7 +3824,7 @@
         "de": "Hey, Mike. Habe dir Tom vorbeigebracht.",
         "es": "Hola, Mike. Te he traído a Tom.",
         "it": "Ehi, Mike. Tom voleva vederti.",
-        "th": "ผู้บริหารดิสเพลสจูเลียน - เฮ้ ไมก์ พาฉันทอมมาหาคุณ"
+        "th": "ผู้บริหารดิสเพลสจูเลียน - เฮ้ ไมก์ พาทอมมาหาคุณ"
       },
       "Speech_0002L": {
         "en": "-DisTech_Micheal- Hi Jules. Hi Tom. Look, I think we're about ready to go with the presentation...",
@@ -3891,7 +3891,7 @@
         "de": "Der Kerl ist nicht mehr hier. Er hat die Stadt verlassen.",
         "es": "No está aquí. Se ha ido de la ciudad.",
         "it": "Il tizio non è più qui. È fuori città.",
-        "th": "พลทหารดิสเพลสเอ - หมอนั่นไม่อยู่แล้ว เข้าออกตัวเมืองไปแล้ว"
+        "th": "พลทหารดิสเพลสเอ - หมอนั่นไม่อยู่แล้ว เขาออกจากเมืองไปแล้ว"
       },
       "Speech_0022L": {
         "en": "-DisSol_B- What? So you're just watching his stuff?",
@@ -4033,7 +4033,7 @@
         "de": "Was schert mich, was Marco sagt? Ich kenne ihn nicht einmal.",
         "es": "Me importa un bledo lo que diga Marco. No lo conozco.",
         "it": "Me ne frega qualcosa di quello che dice Marco? Non lo conosco neanche.",
-        "th": "ช่างเทคนิคดิสเพลสรอล์ฟ - ฉันจะไปสนมาร์โกพูดอะไร? ฉันไม่รู้จักมันด้วยซ้ำ"
+        "th": "ช่างเทคนิคดิสเพลสรอล์ฟ - ฉันจะไปสนมาร์โกพูดอะไร? ฉันไม่รู้จักเขาเลยด้วยซ้ำ"
       },
       "Speech_0011L": {
         "en": "-DisSol_Walter- I'll tell him you said that.",
@@ -4140,7 +4140,7 @@
         "de": "Okay ... okay ... diesmal habe ich es ganz bestimmt. Plus, Nullleiter, Masse ... jetzt weiß ich, wo's langgeht.",
         "es": "Esta vez me voy a asegurar. A ver, la toma de tierra... Está todo listo.",
         "it": "Ok... ok... stavolta ci sono davvero. Rosso, blu, terra... Tutto sistemato.",
-        "th": "ช่างเทคนิคดิสเพลสแจ็ก - เอาล่ะ...เอาล่ะ... คราวนี้ผมทำได้แน่ สายมีไฟ สายกลาง สายดิน... จัดเรียงครบแล้ว"
+        "th": "ช่างเทคนิคดิสเพลสแจ็ก - เอาล่ะ...เอาล่ะ... คราวนี้ผมทำได้แน่ สายมีไฟ สายกลาง สายดิน... ต่อสายครบแล้ว"
       },
       "Speech_0022L": {
         "en": "-DisSol_Alex- I'm gonna sort you out if you don't open the damn door.",
@@ -4148,7 +4148,7 @@
         "de": "Ich zeig dir gleich, wo's langgeht, wenn du nicht bald die verdammte Tür aufmachst.",
         "es": "Tú sí que vas a estar listo como no abras la puerta.",
         "it": "Apri questa maledetta porta o sarò io a sistemarti.",
-        "th": "พลทหารดิสเพลสอเล็กซ์ - ฉันจะจัดเรียงแกเองถ้าแกไม่เปิดประตูบ้าๆ นี่"
+        "th": "พลทหารดิสเพลสอเล็กซ์ - ฉันจะจัดการแกเองถ้าแกไม่เปิดประตูบ้าๆ นี่"
       },
       "Speech_0023L": {
         "en": "-DisTech_Jack- No...I mean it...here...just connect this... yeah...now this... mm-hm... and...bingo!",
@@ -4247,7 +4247,7 @@
         "de": "Der Kerl ist nicht mehr hier. Er hat die Stadt verlassen.",
         "es": "No está aquí. Se ha ido de la ciudad.",
         "it": "Il tizio non è più qui. È fuori città.",
-        "th": "พลทหารดิสเพลสเอ - หมอนั่นไม่อยู่แล้ว เข้าออกตัวเมืองไปแล้ว"
+        "th": "พลทหารดิสเพลสเอ - หมอนั่นไม่อยู่แล้ว เขาออกจากเมืองไปแล้ว"
       },
       "Speech_0006L": {
         "en": "-DisSol_B- What? So you're just watching his stuff?",
@@ -4429,7 +4429,7 @@
         "de": "Nun, bis jetzt ist es nicht gerade optimal gelaufen ... Sie bekommen die volle VIP-Vergütung und werden ihren Dienst tun, als gäbe es dort jemanden zu bewachen.",
         "es": "Bueno, hasta ahora ha ido como la seda. Cobrará el complemento por escoltar a un VIP, y sin complicarse la vida.",
         "it": "Beh, fino ad ora non è andata benissimo... verrai pagato con la quota da VIP completa e dovrai lavorare come se ci fosse il pacchetto completo sul posto.",
-        "th": "ผู้บริหารดิสเพลสคาโรล - เอาเถอะ มันไม่ได้ราบรื่นนักจนถึงตอนนี้... คุณจะได้ค่าจ้างบุคคลสำคัญเต็มอัตรา และต้องปฏิบัติหน้าที่เสมือนมีสิ่งของอยู่ในพื้นที่"
+        "th": "ผู้บริหารดิสเพลสคาโรล - เอาเถอะ มันไม่ได้ราบรื่นนักจนถึงตอนนี้... คุณจะได้ค่าจ้างบุคคลสำคัญเต็มอัตรา และต้องปฏิบัติหน้าที่เสมือนมีบุคคลที่ต้องคุ้มกันอยู่ในพื้นที่"
       },
       "Speech_0008L": {
         "en": "-DisSol_Gerald- Ok. Got it.",

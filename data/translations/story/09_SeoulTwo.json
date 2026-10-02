@@ -25,7 +25,7 @@
         "de": "AUFGABE",
         "es": "TODO",
         "it": "INCARICO",
-        "th": "TODO"
+        "th": "รอดำเนินการ"
       }
     },
     "Computer": {
@@ -205,7 +205,7 @@
         "de": "Schalten Sie alle Kampfpanzer vom Typ 86 aus, um die Kampfkraft der Nordkoreaner zu schwächen.",
         "es": "Neutraliza los tanques de tipo 86 para ayudar a cercar a los norcoreanos.",
         "it": "Disattiva tutti i carri armati Tipo 86 per aiutare a sconfiggere i nordcoreani.",
-        "th": "ปิดการทำงานรถถังรบแบบ 86 ทั้งหมดเพื่อช่วยทุพพลภาพเกาหลีเหนือ"
+        "th": "ปิดการทำงานรถถังรบแบบ 86 ทั้งหมดเพื่อช่วยทอนกำลังเกาหลีเหนือ"
       }
     },
     "P_09_SeoulTwo_HQcom": {
@@ -784,7 +784,7 @@
         "de": "Viel Glück noch. Postman Ende. ",
         "es": "Que tenga un buen día. Corto. ",
         "it": "Buona fortuna. Postino chiude. ",
-        "th": "นักบินสหรัฐฯ - ขอให้เจอสิ่งที่ดีกว่านะ บุรุษไปรษณีย์ออก "
+        "th": "นักบินสหรัฐฯ - ขอให้เจอสิ่งที่ดีกว่านะ บุรุษไปรษณีย์จบการติดต่อ "
       }
     },
     "P_09_SeoulTwo_Imprison": {
@@ -1044,7 +1044,7 @@
         "de": "Nur unsere Zusatzversorgung. Wir haben ein bisschen 5-5-6er-Munition, falls wir amerikanische Gewehre erbeuten.",
         "es": "El kit de reabastecimiento. También llevamos munición OTAN 5.56 de 45, por si encontramos fusiles americanos.",
         "it": "Il kit di rifornimento. Abbiamo dei caricatori di 5.56x45 NATO, nel caso recuperassimo fucili americani.",
-        "th": "ชุดเสบียงของเรา เรามี NATO 5.56 คูณ 45 อยู่ในนั้น เผื่อเราเก็บปืนอเมริกันได้"
+        "th": "ชุดส่งกำลังบำรุงของเรา เรามีกระสุน NATO 5.56 x 45 อยู่ในนั้น เผื่อเราเก็บปืนอเมริกันได้"
       },
       "Speech_0009L": {
         "en": "I found that already... anything else?",
@@ -1202,7 +1202,7 @@
         "de": "Hast du jemals daran gedacht, den Pannendienst zu rufen?",
         "es": "¿Por qué no llamas a los de ayuda en carretera?",
         "it": "Hai pensato di chiamare un carro attrezzi?",
-        "th": "คุณเคยคิดจะเรียกบริการช่วยเหลือ roadside บ้างไหม?"
+        "th": "คุณเคยคิดจะเรียกบริการช่วยเหลือรถเสียข้างทางบ้างไหม?"
       },
       "Speech_0002L": {
         "en": "Ah! Hey... let me go you American pig!",
@@ -1226,7 +1226,7 @@
         "de": "Ihr verspottet uns mit eurem aufwändigen, kapitalistischen Lebensstil ... ihr lebt wie Könige und nutzt dabei mein Volk aus ... nimm deinen Pannendienst und schieb ihn dir in den ...",
         "es": "Vosotros los capitalistas vivís como parásitos, chupando la sangre a mi pueblo, y encima os reís. Métete tu ayuda en carretera por donde...",
         "it": "Tu scherzi sul tuo bello stile di vita capitalista... vivi da re sulle spalle della mia gente... prendi il tuo carro attrezzi e infilatelo nel...",
-        "th": "แกเล่นมุกเรื่องสไตล์ทุนนิยมหรูหราของพวกแก... ใช้ชีวิตเหมือนราชาบนหลังประชาชนของฉัน... เอาบริการ roadside ของแกไปยัดใส่ตูดแก-"
+        "th": "แกเล่นมุกเรื่องสไตล์ทุนนิยมหรูหราของพวกแก... ใช้ชีวิตเหมือนราชาบนหลังประชาชนของฉัน... เอาบริการช่วยเหลือรถเสียข้างทางของแกไปยัดใส่ตูดแก-"
       },
       "Speech_0005L": {
         "en": "Calm down, or I'll knock you down.",
@@ -1432,7 +1432,7 @@
         "de": "Vier weitere ... Verbündete ... Verbündete ... wir sind stark dezimiert worden ... können Sie uns helfen?",
         "es": "Cuatro más. Somos muy pocos. ¿Puedes ayudarnos, americano?",
         "it": "Altri quattro... alleati... alleati... siamo ridotti male... puoi aiutarci?",
-        "th": "อีกสี่คน... พันธมิตร... พันธมิตร... เราบาดเจ็บลดจำนวนลงมาก... คุณช่วยเราได้ไหม?"
+        "th": "อีกสี่คน... พันธมิตร... พันธมิตร... เราสูญเสียกำลังไปมาก... คุณช่วยเราได้ไหม?"
       },
       "Speech_0007L": {
         "en": "I'm afraid I'm a little busy.",
@@ -1665,7 +1665,7 @@
         "de": "Buh.",
         "es": "¡Búu!",
         "it": "Bu!",
-        "th": "จ๊ะเอ๋"
+        "th": "ตุ๊!"
       },
       "Speech_0002L": {
         "en": "Oh... no... please... be quiet... you might set off the bomb.",
@@ -2443,7 +2443,7 @@
         "de": "Ich habe Höhenangst ...",
         "es": "Sufro de vértigo...",
         "it": "Ho paura delle altezze...",
-        "th": "ผมกลัวที่สูง..."
+        "th": "ผมกลัวความสูง..."
       }
     },
     "P_09_SeoulTwo_NKGuard": {
@@ -2545,7 +2545,7 @@
         "de": "What stranded astronauts?",
         "es": "What stranded astronauts?",
         "it": "What stranded astronauts?",
-        "th": "นักบินอวกาศที่ติดอยู่คนไหน?"
+        "th": "นักบินอวกาศที่ติดอยู่พวกไหน?"
       },
       "Speech_0005L": {
         "en": "The ones on the ISS...",

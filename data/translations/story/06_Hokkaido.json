@@ -111,7 +111,7 @@
         "de": "Vorsicht ist besser als Nachsicht, Fisher.",
         "es": "La discreción es parte del valor, Fisher.",
         "it": "La discrezione è la parte migliore del tuo lavoro, Fisher...",
-        "th": "แลมเบิร์ต - ความรอบคอบเป็นส่วนที่ดีกว่าของความกล้าหาญ ฟิชเชอร์..."
+        "th": "แลมเบิร์ต - ความรอบคอบเป็นส่วนหนึ่งของความกล้าหาญ ฟิชเชอร์..."
       },
       "POPUPMESSAGE_0005": {
         "en": "Alarm Stage Three - Enemies Equipping Helmets",
@@ -242,7 +242,7 @@
         "de": "Die Regierung Nordkoreas dementiert weiterhin, dass die Raketen, die zur Versenkung des US-Zerstörers USS Walsh führten, von nordkoreanischem Boden abgefeuert worden seien. Obwohl stündlich aus aller Welt neue Beweise für eben diesen Vorgang auftauchen, ist es Nordkorea noch nicht gelungen, auch nur einen davon zu entkräften.",
         "es": "Las autoridades norcoreanas siguen negando que el misil que destruyó al USS Walsh fuera suyo. Sin embargo, no han ofrecido ninguna explicación convincente para contradecir las abrumadoras pruebas en su contra que llegan de diversas partes del mundo.",
         "it": "Le autorità nordcoreane continuano a negare che l'attacco missilistico che ha colpito e distrutto la USS Walsh sia partito dai loro confini. Non è stato fornito alcun chiarimento rispetto alle prove incontestabili che stanno emergendo da varie fonti nel mondo. ",
-        "th": "เจ้าหน้าที่เกาหลีเหนือยังคงปฏิเสธว่าการโจมตีด้วยขีปนาวุธที่รายงานว่ายิงโดนและทำลายเรือยูเอสเอส วอลช์นั้นเริ่มต้นจากภายในพรมแดนของตน ยังไม่มีคำอธิบายโต้แย้งใดๆ ถูกเสนอออกมา ต่อหน้าหลักฐาน overwhelming ที่กำลังไหลเข้ามาจากหลายแหล่งทั่วโลก"
+        "th": "เจ้าหน้าที่เกาหลีเหนือยังคงปฏิเสธว่าการโจมตีด้วยขีปนาวุธที่รายงานว่ายิงโดนและทำลายเรือยูเอสเอส วอลช์นั้นเริ่มต้นจากภายในพรมแดนของตน ยังไม่มีคำอธิบายโต้แย้งใดๆ ถูกเสนอออกมา ต่อหน้าหลักฐานท่วมท้น ที่กำลังไหลเข้ามาจากหลายแหล่งทั่วโลก"
       },
       "Speech_0027L": {
         "en": "Reports indicate that over five thousand Americans are still without power in the aftermath of the blackout that struck both Japan and the Eastern United States five nights ago. Electrical workers report ongoing difficulties in sequencing the restart of several large power stations in the Maine, New Hampshire and Rhode Island.",
@@ -525,7 +525,7 @@
         "de": "Hmm ... nichts ... absolut nichts Verdächtiges ... Moment ... der bosnische Barbier ...",
         "es": "Hmm... No hay nada sospechoso... ¡Espera! El Peluquero de Bosnia...",
         "it": "Hm... niente... niente di sospetto su... aspetta un minuto... il Barbiere di Bosnia...",
-        "th": "เรดดิง - หืม... ไม่ได้ผล... ไม่มีอะไรน่าสงสัยเกี่ยวกับ... เดี๋ยวนะ... เพชฌฆาตแห่งบอสเนีย..."
+        "th": "เรดดิง - หืม... ไม่ได้ผล... ไม่มีอะไรน่าสงสัยเกี่ยวกับ... เดี๋ยวนะ... ช่างตัดผมแห่งบอสเนีย..."
       },
       "Speech_0066L": {
         "en": "FISHER - I already have a barber - but I think he's Italian... that place next to the donut shop--",
@@ -541,7 +541,7 @@
         "de": "Die Papiere der Leasingfirma verweisen auf eine Scheinfirma, die von einem gewissen Milos Nowak gegründet wurde. Diesen Herrn Nowak kennen wir unter dem Namen Milan Nedich. Nowak ist ein Kriegsverbrecher aus den Tagen des Bosnienkrieges. Er wird der \"Barbier von Bosnien\" genannt, weil er Berichten zufolge einige seiner Kriegsgefangenen skalpiert hat.",
         "es": "En el contrato de alquiler aparece una empresa ficticia fundada por un tal Milos Nowak, alias Milan Nedich. Nowak es sospechoso de crímenes de guerra. Apodado el Peluquero de Bosnia. Arrancaba el cuero cabelludo a los prisioneros.",
         "it": "Le carte della ditta di leasing indicano una ditta fantasma creata da un certo Milos Nowak, alias Milan Nedich. Nowak è sospettato di essere un criminale di guerra del conflitto in Bosnia. Lo chiamano il Barbiere di Bosnia perché pare abbia fatto lo scalpo ad alcuni prigionieri...",
-        "th": "เรดดิง - เอกสารของบริษัทให้เช่าระบุบริษัทเปลือกที่ก่อตั้งโดยมิโลส โนวัก หรือที่รู้จักในชื่อมิลาน เนดิช โนวักเป็นผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย เขาถูกเรียกว่าเพชฌฆาตแห่งบอสเนีย เพราะมีข้อกล่าวหาว่าเขาถลกหนังศีรษะเชลยบางคน..."
+        "th": "เรดดิง - เอกสารของบริษัทให้เช่าระบุบริษัทเปลือกที่ก่อตั้งโดยมิโลส โนวัก หรือที่รู้จักในชื่อมิลาน เนดิช โนวักเป็นผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย เขาถูกเรียกว่าช่างตัดผมแห่งบอสเนีย เพราะมีข้อกล่าวหาว่าเขาถลกหนังศีรษะเชลยบางคน..."
       },
       "Speech_0068L": {
         "en": "FISHER - Well I guess he won't be making an appearance in The Hague anytime soon...",
@@ -549,7 +549,7 @@
         "de": "Der Knabe wird sich wohl nicht so schnell freiwillig dem Internationalen Gerichtshof in Den Haag stellen, was?",
         "es": "Supongo que de momento no piensa entregarse al Tribunal de La Haya...",
         "it": "Beh, immagino che non si presenterà all'Aia nei prossimi giorni...",
-        "th": "ฟิชเชอร์ - งั้นฉันว่าอีกไม่นานเขาคงไม่ได้ไปโผล่ที่กรุงเฮก..."
+        "th": "ฟิชเชอร์ - งั้นฉันว่าคงอีกนานกว่าเขาจะได้ไปขึ้นศาลที่กรุงเฮก..."
       },
       "Speech_0069L": {
         "en": "REDDING - Guess not.",
@@ -677,7 +677,7 @@
         "de": "Vorsicht ist besser als Nachsicht, Fisher.",
         "es": "La discreción es parte del valor, Fisher.",
         "it": "La discrezione è la parte migliore del tuo lavoro, Fisher...",
-        "th": "แลมเบิร์ต - ความรอบคอบเป็นส่วนที่ดีกว่าของความกล้าหาญ ฟิชเชอร์..."
+        "th": "แลมเบิร์ต - ความรอบคอบเป็นส่วนหนึ่งของความกล้าหาญ ฟิชเชอร์..."
       },
       "POPUPMESSAGE_0140": {
         "en": "Alarm Stage Three - Enemies Equipping Helmets",
@@ -1254,7 +1254,7 @@
         "de": "Das war ja wirklich sehr informativ ... fällt dir vielleicht auch was ein, mit dem sich etwas anfangen lässt?",
         "es": "Muy instructivo, pero prefiero que me digas algo útil.",
         "it": "Molto interessante... ma adesso qualcosa di utile.",
-        "th": "ให้ข้อมูลดีมาก... แต่คุณรู้อะไรที่มีประโยชน์บ้างไหม?"
+        "th": "ข้อมูลดีมากเลย... แต่คุณรู้อะไรที่มีประโยชน์บ้างไหม?"
       },
       "Speech_0010L": {
         "en": "I think there's a first aid kit in one of the bedrooms.",
@@ -2115,7 +2115,7 @@
         "de": "Wenn Sie mich töten wollen, dann nehmen Sie bitte Ihr cooles Blasrohr.",
         "es": "Si vas a matarme, hazlo con tu shurikén.",
         "it": "Se devi uccidermi, puoi farlo con la cerbottana?",
-        "th": "ถ้าต้องฆ่าฉัน ก็ใช้ blow-pipe ของคุณฆ่าเถอะ"
+        "th": "ถ้าต้องฆ่าฉัน ก็ใช้กระบอกเป่าลูกดอกของคุณฆ่าเถอะ"
       }
     },
     "P_06_Hokkaido_InterroOldShoin": {
@@ -2233,7 +2233,7 @@
         "de": "He ... sparen Sie sich Ihre Predigten, Mann. Ihr Boss hat mit Sicherheit auch einige Leute auf dem Gewissen ...",
         "es": "No intentes que me sienta culpable. Seguro que tus superiores también tienen muertos sobre su conciencia.",
         "it": "Ehi... risparmiami la predica... non so per chi lavori ma sicuramente ha ucciso anche lui... cosa ti dà il diritto...",
-        "th": "เฮ้... เก็บคำเทศนาเรื่องความผิดไว้เถอะ ไอ้พวกเก่ง ไม่ว่าคุณทำงานให้ใคร พวกเขาก็ฆ่าคนมาไม่น้อยกว่ากัน... อะไรให้สิทธิ์คุณ?"
+        "th": "เฮ้... เก็บคำเทศนาเรื่องความผิดไว้เถอะ ไอ้ตัวเก่ง ไม่ว่าคุณทำงานให้ใคร พวกเขาก็ฆ่าคนมาไม่น้อยกว่ากัน... อะไรให้สิทธิ์คุณ?"
       },
       "Speech_0009L": {
         "en": "The people I work for are elected...",
@@ -2407,7 +2407,7 @@
         "de": "Fünfgang, 240 PS mit automatischem Getriebe ...",
         "es": "Cinco marchas, 240 caballos, transmisión automática...",
         "it": "Cinque marce, 240 cavalli, cambio automatico.",
-        "th": "เกียร์ห้าสปีด เกียร์อัตโนมัติ 240 แรงม้า"
+        "th": "เกียร์ห้าสปีด อัตโนมัติ 240 แรงม้า"
       },
       "Speech_0002L": {
         "en": "Eight liter turbo diesel V8 with four hundred and sixty ",
@@ -2447,7 +2447,7 @@
         "de": "Auf die Windschutzscheibe projiziertes Head-Up-Display mit Wärmebildgerät ... ",
         "es": "Parabrisas con visión de infrarrojos, pantalla de aviso... ",
         "it": "HUD a proiezione infrarossa sul parabrezza... ",
-        "th": "จออินฟราเรดมองกลางคืนฉายบนกระจกหน้าแบบ heads-up "
+        "th": "จออินฟราเรดมองกลางคืนแบบแสดงผลบนกระจกหน้า "
       },
       "Speech_0007L": {
         "en": "And a 640 gig MP3 player.",
@@ -2514,7 +2514,7 @@
         "de": "... nein ... nein ... das ist okay ... gut, damit können wir leben.",
         "es": "...no pasa nada... podemos aceptar ese acuerdo...",
         "it": "... no, no... va bene... possiamo accettarlo...",
-        "th": "... ไม่ ไม่... อย่างนั้นก็ได้... ข้อตกลงที่เราอยู่ด้วยได้..."
+        "th": "... ไม่ ไม่... อย่างนั้นก็ได้... ข้อตกลงที่เราพอรับได้..."
       },
       "Speech_0005L": {
         "en": "...I think we can commit to that...that will be fine...",
@@ -2685,7 +2685,7 @@
         "de": "...  gut gemacht ...",
         "es": "Tranquilo.",
         "it": "Bella mossa...",
-        "th": "ดีเหมือนกัน..."
+        "th": "มุกดีนี่..."
       },
       "Speech_0033L": {
         "en": "They're only Yen...not worth anything since the market crash...",
@@ -3210,7 +3210,7 @@
         "de": "Eliminieren Sie Milan Nedich.",
         "es": "Elimina a Milan Nedich.",
         "it": "Elimina Milan Nedich.",
-        "th": "กำจัดมิลาน เนดิช."
+        "th": "กำจัดมิลาน เนดิช"
       }
     },
     "P_06_Hokkaido_SRC": {
@@ -3253,7 +3253,7 @@
         "de": "Die Walsh! Es gibt Krieg! Und wo ein Krieg ist, gibt es Geld zu verdienen, mein Freund!",
         "es": "¡El Walsh! ¡La guerra! Tengo acciones en la empresa, así que me voy a forrar.",
         "it": "La Walsh! Azioni della compagnia! Guerra! C'è da fare soldi, amico!",
-        "th": "เรือวอลช์ไง! หุ้นในบริษัท! สงคราม! มีเงินให้ทำนะเพื่อน!"
+        "th": "เรือวอลช์ไง! หุ้นในบริษัท! สงคราม! มีเงินให้หาได้นะเพื่อน!"
       },
       "Speech_0006L": {
         "en": "I don't understand... we're not going to be fighting a war... the military is...",
@@ -3285,7 +3285,7 @@
         "de": "Na klar ... die wollen doch nicht, dass ihre Soldaten Geschirr spülen. Die überlassen das den anderen ...",
         "es": "Claro que sí. No quieren que los combatientes frieguen platos. Prefieren que se lo hagan los paletos del centro de Texas.",
         "it": "Ma certo... non vogliono che i soldati lavino i piatti... vogliono dei contadini del Texas per farlo...",
-        "th": "แน่นอนสิ... พวกเขาไม่อยากให้ทหารรบมาล้างจาน... พวกเขาอยากให้เด็กไร่จากเท็กซัสกลางมาทำเรื่องไร้สาระพวกนั้น"
+        "th": "แน่นอนสิ... พวกเขาไม่อยากให้ทหารรบมาล้างจาน... พวกเขาอยากให้กรรมกรไร่จากตอนกลางของเท็กซัสมาทำเรื่องไร้สาระพวกนั้น"
       },
       "Speech_0010L": {
         "en": "That makes sense...",
@@ -3317,7 +3317,7 @@
         "de": "Du meinst die vom Spiel? Vergiss es. Das Spiel wurde nicht beendet ... die haben es wegen des Stromausfalls abgeblasen.",
         "es": "¿Te refieres al dinero del partido? Olvídalo. La partida se cortó por culpa del apagón..",
         "it": "Parli della partita? Scordatelo. La partita non è finita... l'hanno interrotta per il blackout...",
-        "th": "หมายถึงจากเกมเหรอ? ฝันไปเถอะ เกมยังไม่จบ... พวกเขาเรียกเลิกเพราะไฟดับ"
+        "th": "หมายถึงจากเกมเหรอ? ฝันไปเถอะ เกมยังไม่จบ... พวกเขาสั่งจบเกมเพราะไฟดับ"
       },
       "Speech_0014L": {
         "en": "It was in the eighth inning, the game was over...",
@@ -3325,7 +3325,7 @@
         "de": "Das Spiel war schon im achten Inning, es war vorbei ...",
         "es": "Ya había acabado, estaban en el octavo...",
         "it": "Era l'ottavo inning, era finita...",
-        "th": "มันอยู่อินนิ่งที่แปด เกมจบแล้ว..."
+        "th": "มันอยู่ในอินนิ่งที่แปด เกมจบแล้ว..."
       },
       "Speech_0015L": {
         "en": "It ain't over til it's over.",

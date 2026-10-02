@@ -25,7 +25,7 @@
         "de": "AUFGABE",
         "es": "TODO",
         "it": "INCARICO",
-        "th": "TODO"
+        "th": "รอดำเนินการ"
       },
       "Briefing_LAMBERT": {
         "en": "LAMBERT - Fisher, the arms that Lacerda had were purchased by someone using a Panamanian offshore bank as proxy. I want to take a peek inside their records... unfortunately, it's not as simple as that. This op can't look like a US intelligence gig, so to cover it up you'll need to crack the bank's vault and lift some bearer bonds - property of the French Government.",
@@ -49,7 +49,7 @@
         "de": "Zuerst die gute Nachricht. Du warst schon einmal in dieser Bank. Du gehörtest damals zu einer Einsatzgruppe der CIA, die 1989 dort rein ging, um nach einem Teil von Noriegas Drogengeldern zu suchen. Ein Großteil der Informationen, die wir über die Bank haben, stammen von deinem damaligen Team. Die schlechte Nachricht bei der ganzen Sache, die Bank ist gut gesichert. Laser, Bewegungsmelder, verschlossene Türen, Kameras, das ganze Programm. Nichts dabei, das es bereits 1989 schon gab ... Wir haben außerdem einen ... na ja ... Spezialisten ... kontaktiert, der dir beim Öffnen des Tresorraums helfen wird. Du solltest dich mit dem Knaben unterhalten.",
         "es": "Primero, las buenas noticias. Ya has estado en ese banco, cuando penetraste con un equipo de la CÍA buscando el dinero de Noriega. La mayoría de la información que tenemos sobre el banco procede de tu equipo. Ahora, las malas: la seguridad es excelente. Lásers, sensores de movimiento, puertas acorazadas, cámaras... En el 89 no había nada de eso. Hemos contactado también con un especialista para que te ayude a reventar la cámara. Habla con él.",
         "it": "Prima le buone notizie. Sei già stato in questa banca. Facevi parte della squadra CIA che è entrata nell'89 alla ricerca dei fondi neri di Noriega. Gran parte delle informazioni che abbiamo sulla banca vengono proprio dalla tua squadra. La brutta notizia è che c'è un sacco di sorveglianza elettronica. Laser, sensori di movimento, porte chiuse a chiave, telecamere, tutto il possibile, e tutto nuovo rispetto all'89... Abbiamo anche contattato uno... ehm... specialista... per aiutarti ad aprire il caveau. Dovresti parlare con lui.",
-        "th": "เรดดิง - เริ่มจากข่าวดีก่อน คุณเคยเข้าไปในธนาคารนี้มาก่อน คุณเป็นส่วนหนึ่งของทีมบุกของ CIA ที่เข้าไปในปี '89 เพื่อตามหาเงินยาเสพติดของนอริเอกา ข้อมูลข่าวกรองเกือบทั้งหมดที่เรามีเกี่ยวกับธนาคารนี้มาจากทีมของคุณจริงๆ ข่าวร้ายคือเรามีระบบรักษาความปลอดภัยทางกายภาพเต็มไปหมด เลเซอร์ เซ็นเซอร์ตรวจจับการเคลื่อนไหว ประตูล็อก กล้อง ครบทุกอย่าง และไม่มีสักอย่างที่อยู่ในนั้นตอนปี '89... เรายังติดต่อ... เอ่อ... ผู้เชี่ยวชาญ... คนหนึ่งมาช่วยงัดตู้นิรภัย คุณน่าจะไปคุยกับเขา"
+        "th": "เรดดิง - เริ่มจากข่าวดีก่อน คุณเคยเข้าไปในธนาคารนี้มาก่อน คุณเป็นส่วนหนึ่งของทีมบุกของ CIA ที่เข้าไปในปี '89 เพื่อตามหาเงินยาเสพติดของนอริเอกา ข้อมูลข่าวกรองเกือบทั้งหมดที่เรามีเกี่ยวกับธนาคารนี้มาจากทีมของคุณจริงๆ ข่าวร้ายคือที่นั่นมีระบบรักษาความปลอดภัยทางกายภาพเต็มไปหมด เลเซอร์ เซ็นเซอร์ตรวจจับการเคลื่อนไหว ประตูล็อก กล้อง ครบทุกอย่าง และไม่มีสักอย่างที่อยู่ในนั้นตอนปี '89... เรายังติดต่อ... เอ่อ... ผู้เชี่ยวชาญ... คนหนึ่งมาช่วยงัดตู้นิรภัย คุณน่าจะไปคุยกับเขา"
       },
       "Briefing_PATRIDGE": {
         "en": "PARTRIDGE - We'll continue on our course for the Yellow Sea and send you back by helicopter to Panama City. I have no authorization to act inside Panamanian borders, so you'll be operating covertly out of the Embassy. You and your partner will be on your own in Panama.",
@@ -501,7 +501,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück – Nehmen Helme ab",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza - Se quita el casco.",
         "it": "Livello di allarme ridotto - I nemici rientrano e tolgono l'elmetto",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ - ถอดหมวกกันน็อก"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ - ถอดหมวกกันน็อก"
       },
       "POPUPMESSAGE_0002": {
         "en": "Alarm Stage Reduced - Enemies Standing Down - Removing Body Armor",
@@ -509,7 +509,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück – Legen Körperpanzer ab",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza - Se quita el chaleco.",
         "it": "Livello di allarme ridotto - I nemici rientrano e tolgono il giubbotto antiproiettile",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ - ถอดเกราะป้องกัน"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ - ถอดเกราะป้องกัน"
       },
       "POPUPMESSAGE_0003": {
         "en": "Alarm Stage Reduced - Enemies Standing Down",
@@ -517,7 +517,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza.",
         "it": "Livello di allarme ridotto - I nemici rientrano",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ"
       }
     },
     "P_03_Bank_Communications": {
@@ -576,7 +576,7 @@
         "de": "Zum Sport ... Pitcher Akira Watanabe erschien gestern zum ersten Training mit seinem neuen Team in New York. Nach den ersten Trainingseinheiten sagte Trainer Mathieu Ferland, Watanabe sei vermutlich der beste Werfer aller Zeiten.",
         "es": "Deportes. Akira Watanabe llegó ayer a Nueva York para su primer entrenamiento con su nuevo equipo. Tras las pruebas del primer día, el entrenador Mathieu Ferland ha declarado que Watanabe puede ser el mejor lanzador de la historia del béisbol.",
         "it": "E ora lo sport... il lanciatore Akira Watanabe è arrivato ieri a New York per il primo allenamento con la sua nuova squadra. Dopo una giornata di valutazioni, l'allenatore Mathieu Ferland ha affermato che Watanabe è senza dubbio il miglior lanciatore di sempre...",
-        "th": "โอเดลล์ - มาที่ข่าวกีฬา... พิชเชอร์อากิระ วาตานาเบะ เดินทางถึงนิวยอร์กเมื่อวานนี้เพื่อฝึกซ้อมครั้งแรกกับทีมใหม่ หลังการประเมินตลอดทั้งวัน โค้ชพิชเชอร์คนแรกมาธิเยอ แฟร์ล็องด์ กล่าวว่าวาตานาเบะเป็นนักขว้างเบสบอลที่เก่งที่สุดเท่าที่เคยมีมาแบบไม่ต้องคิดเลย"
+        "th": "โอเดลล์ - มาที่ข่าวกีฬา... พิชเชอร์อากิระ วาตานาเบะ เดินทางถึงนิวยอร์กเมื่อวานนี้เพื่อฝึกซ้อมครั้งแรกกับทีมใหม่ หลังการประเมินตลอดทั้งวัน โค้ชหัวหน้าฝ่ายขว้างมาธิเยอ แฟร์ล็องด์ กล่าวว่าวาตานาเบะเป็นนักขว้างเบสบอลที่เก่งที่สุดเท่าที่เคยมีมาแบบไม่ต้องคิดเลย"
       },
       "POPUPMESSAGE_0265": {
         "en": "Alarm Stage One",
@@ -824,7 +824,7 @@
         "de": "Ich habe die Seriennummer. Nun müssen Sie die Autorisierungsschlösser im Wachbüro, dem Büro des Bankdirektors und in dem des Schatzmeisters deaktivieren.",
         "es": "Ya tenemos el número de serie. Ahora tienes que buscar las llaves de autorización en la oficina de seguridad y los despachos del presidente y el tesorero.",
         "it": "Ho il numero di serie. Ora devi bloccare le chiusure ad autorizzazione negli uffici della sicurezza, del presidente e del tesoriere.",
-        "th": "เทิร์ทเทิล - ได้เลขซีเรียลแล้ว ตอนนี้คุณต้องแตะล็อกอนุญาตในห้องรักษาความปลอดภัย ห้องทำงานประธานาธิบดี และห้องทำงานเหรัญญิก"
+        "th": "เทิร์ทเทิล - ได้เลขซีเรียลแล้ว ตอนนี้คุณต้องแตะล็อกอนุญาตในห้องรักษาความปลอดภัย ห้องทำงานประธานธนาคาร และห้องทำงานเหรัญญิก"
       },
       "Speech_0050L": {
         "en": "LAMBERT - Fisher, here's our advisor. He'll walk you through the steps that will get you into that vault... be patient with him...",
@@ -984,7 +984,7 @@
         "de": "Ich habe die Seriennummer. Nun müssen Sie die Autorisierungsschlösser im Wachbüro, dem Büro des Bankdirektors und in dem des Schatzmeisters deaktivieren.",
         "es": "Ya tenemos el número de serie. Ahora tienes que buscar las llaves de autorización en la oficina de seguridad y los despachos del presidente y el tesorero.",
         "it": "Ho il numero di serie. Ora devi bloccare le chiusure ad autorizzazione negli uffici della sicurezza, del presidente e del tesoriere.",
-        "th": "เทิร์ทเทิล - ได้เลขซีเรียลแล้ว ตอนนี้คุณต้องแตะล็อกอนุญาตในห้องรักษาความปลอดภัย ห้องทำงานประธานาธิบดี และห้องทำงานเหรัญญิก"
+        "th": "เทิร์ทเทิล - ได้เลขซีเรียลแล้ว ตอนนี้คุณต้องแตะล็อกอนุญาตในห้องรักษาความปลอดภัย ห้องทำงานประธานธนาคาร และห้องทำงานเหรัญญิก"
       },
       "Note_0260L": {
         "en": "Guards patrolling laser grids have beacons that disable the grid locally.",
@@ -1064,7 +1064,7 @@
         "de": "Damit sind zwei geschafft. Jetzt zum Büro des Direktors.",
         "es": "Ya van dos. Falta la autorización del despacho del presidente.",
         "it": "Due sono andate. Ora serve l'autorizzazione dell'ufficio del presidente.",
-        "th": "เทิร์ทเทิล - สองอันเรียบร้อยแล้ว ตอนนี้แค่อนุญาตจากห้องทำงานประธานาธิบดี"
+        "th": "เทิร์ทเทิล - สองอันเรียบร้อยแล้ว ตอนนี้แค่อนุญาตจากห้องทำงานประธานธนาคาร"
       },
       "Speech_0078L": {
         "en": "TURTLE - That's two down. Now just authorize from the Treasurer's office.",
@@ -1616,7 +1616,7 @@
         "de": "Ich habe hier Fragmente einer Nachricht von jemandem namens 'Dvorak'. Echelon besitzt keine Akte über ihn ... Warte ... das ist seltsam.",
         "es": "Tengo fragmentos de un mensaje enviado por un tal 'Dvorak'. Su nombre no aparece en Echelon. Espera... Qué raro...",
         "it": "Ho trovato i frammenti di un messaggio da un tizio chiamato 'Dvorak'. Echelon non ha niente su di lui... Aspetta... che strano.",
-        "th": "กริมส์ดอตเตียร์ - ฉันมีชิ้นส่วนข้อความจากคนชื่อ 'ดโวรัก' อีเชลอนไม่มีแฟ้มของเขา... เดี๋ยวนะ... แปลกจริง"
+        "th": "กริมส์ดอตเตียร์ - ฉันมีชิ้นส่วนข้อความจากคนชื่อ 'ดโวรัก' เอเชลอนไม่มีแฟ้มของเขา... เดี๋ยวนะ... แปลกจริง"
       },
       "Speech_0043L": {
         "en": "FISHER - What?",
@@ -1632,7 +1632,7 @@
         "de": "Die gelöschten Nachrichten. Sie sind 10-24 verschlüsselt ... 10-24 Bit habe ich das letzte Mal bei Phillip Masse gesehen.",
         "es": "Los mensajes borrados. Están encriptados con algoritmo cinco doce. No había visto un cinco doce desde Phillip Masse.",
         "it": "I messaggi cancellati. Hanno una cifratura a 512 bit. Non ne ho più viste dai tempi di Phillip Masse.",
-        "th": "กริมส์ดอตเตียร์ - ข้อความที่ถูกลบ พวกมันเข้ารหัสแบบห้า-สิบสอง... ฉันไม่เคยเห็นห้า-สิบสองตั้งแต่ฟิลิป แมสส์"
+        "th": "กริมส์ดอตเตียร์ - ข้อความที่ถูกลบ พวกมันเข้ารหัสแบบห้า-สิบสอง... ฉันไม่เคยเห็นห้า-สิบสองตั้งแต่ฟิลิป มาสส์"
       },
       "Speech_0045L": {
         "en": "FISHER - I killed Masse outside Severomorsk.",
@@ -1640,7 +1640,7 @@
         "de": "Ich habe Masse vor Severomorsk getötet.",
         "es": "Yo maté a Masse a las afueras de Severomorsk.",
         "it": "Ho ucciso Masse fuori da Severomorsk.",
-        "th": "ฟิชเชอร์ - ฉันฆ่าแมสส์นอกเมืองเซเวโรมอร์สก์"
+        "th": "ฟิชเชอร์ - ฉันฆ่ามาสส์นอกเมืองเซเวโรมอร์สก์"
       },
       "Speech_0046L": {
         "en": "GRIMSDOTTIR - I remember. And it's confirmed... so this is someone with access to some seriously classified information...",
@@ -2481,7 +2481,7 @@
         "de": "N'abend.",
         "es": "Buenas...",
         "it": "'sera.",
-        "th": "ฟิชเชอร์ - ราตรีสวัสดิ์"
+        "th": "ฟิชเชอร์ - สวัสดีตอนค่ำ"
       },
       "Speech_0002L": {
         "en": "SOLDIER - Ah... how did you... ahhh...",
@@ -2620,7 +2620,7 @@
         "de": "Die Lüftungsschächte über dem Ventilator ... ich glaube, sie führen nach draußen ... ich kann Vögel hören, die in ihnen nisten ...",
         "es": "El conducto encima del ventilador debe llevar al exterior. Hay pájaros que anidan en él.",
         "it": "I condotti di ventilazione sopra il ventilatore... credo che conducano fuori... sento il rumore degli uccelli...",
-        "th": "พันเอก - ท่อระบายอากาศเหนือพัดลม... ผมว่าน่าจะออกไปข้างนอกได้... ผมได้ยินเสียนกทำรังอยู่ในนั้น..."
+        "th": "พันเอก - ท่อระบายอากาศเหนือพัดลม... ผมว่าน่าจะออกไปข้างนอกได้... ผมได้ยินเสียงนกทำรังอยู่ในนั้น..."
       },
       "Note_0019L": {
         "en": "There is a vent that connects to the security room from the outside.",
@@ -2906,7 +2906,7 @@
         "de": "Paco gibt diese Nummer nicht jedem ...",
         "es": "Paco no le dice el código a cualquiera.",
         "it": "Paco non dà i suoi numeri al primo che passa...",
-        "th": "ช่างเทคนิค - ปาโกไม่ให้เบอร์ใครง่ายๆ หรอก..."
+        "th": "ช่างเทคนิค - ปาโกไม่ให้รหัสใครง่ายๆ หรอก..."
       }
     },
     "P_03_Bank_InterroLobby": {
@@ -3032,7 +3032,7 @@
         "de": "Madre de Dios ...",
         "es": "Madre de Dios... ",
         "it": "Madre de Dios... ",
-        "th": "ทหาร - พระแม่มารี..."
+        "th": "ทหาร - พระแม่เจ้าช่วย..."
       },
       "Speech_0007L": {
         "en": "FISHER - Answer the question...",
@@ -3214,7 +3214,7 @@
         "de": "Netter Trick, wie du das mit den Lasern machst ...",
         "es": "Bonito truco el de los lásers...",
         "it": "Bello quel trucchetto coi laser...",
-        "th": "ฟิชเชอร์ - ท่าไม้ตายกับเลเซอร์พวกนั้นเก๋ดีนะ..."
+        "th": "ฟิชเชอร์ - กลเม็ดกับเลเซอร์พวกนั้นเก๋ดีนะ..."
       },
       "Speech_0002L": {
         "en": "SOLDIER - Que? Wha... uh... the grids... they detect some kind of signal emitted by a transmitter stitched into my uniform.",
@@ -3222,7 +3222,7 @@
         "de": "Que? Waa ... äh ... das Lasernetz ... das reagiert auf irgendein Signal von einem Transmitter, der in meine Uniform eingenäht ist.",
         "es": "¿Qué? Ah, la rejilla... Los lásers detectan una señal que emite el transmisor pegado a mi uniforme.",
         "it": "Que? Cos... ehm... le griglie... rilevano un segnale che viene da un trasmettitore cucito nella mia uniforme...",
-        "th": "ทหาร - หา? อะ... เอ่อ... ตาข่ายพวกนั้น... มันตรวจจับสัญญาณบางอย่างที่ส่งออกมาจากเครื่องส่งสัญญาณที่เย็บอยู่ในเครื่องแบบของผม"
+        "th": "ทหาร - หา? อะ... เอ่อ... แนวเลเซอร์พวกนั้น... มันตรวจจับสัญญาณบางอย่างที่ส่งออกมาจากเครื่องส่งสัญญาณที่เย็บอยู่ในเครื่องแบบของผม"
       },
       "Speech_0005L": {
         "en": "FISHER - Gimme the transmitter...",
@@ -3543,7 +3543,7 @@
         "de": "Sie verlassen den Schauplatz über die äuSSere Mauer an der Vorderseite der Bank, wo Ihr Infiltrationspunkt lag.",
         "es": "Sal por la pared exterior, desde el punto frontal por el que has entrado al banco.",
         "it": "Esci passando sopra al muro esterno dalla facciata della banca da dove sei entrato.",
-        "th": "ถอนกำลังข้ามกำแพงชั้นนอกทางด้านหน้าธนาคารจุดที่คุณเข้ามา"
+        "th": "ถอนกำลังข้ามกำแพงชั้นนอกตรงด้านหน้าธนาคาร จุดที่คุณเข้ามา"
       },
       "Objective_0041": {
         "en": "Exfiltrate to the primary extraction point.",
@@ -3559,7 +3559,7 @@
         "de": "Sie verlassen den Schauplatz über die äuSSere Mauer an der Vorderseite der Bank, wo Ihr Infiltrationspunkt lag.",
         "es": "Sal por la pared exterior, desde el punto frontal por el que has entrado al banco.",
         "it": "Esci passando sopra al muro esterno dalla facciata della banca da dove sei entrato.",
-        "th": "ถอนกำลังข้ามกำแพงชั้นนอกทางด้านหน้าธนาคารจุดที่คุณเข้ามา"
+        "th": "ถอนกำลังข้ามกำแพงชั้นนอกตรงด้านหน้าธนาคาร จุดที่คุณเข้ามา"
       },
       "POPUPMESSAGE_0046": {
         "en": "Find the name of Lacerda's Panamanian contact.",
@@ -3599,7 +3599,7 @@
         "de": "Sie verlassen den Schauplatz über die äuSSere Mauer an der Vorderseite der Bank, wo Ihr Infiltrationspunkt lag.",
         "es": "Sal por la pared exterior, desde el punto frontal por el que has entrado al banco.",
         "it": "Esci passando sopra al muro esterno dalla facciata della banca da dove sei entrato.",
-        "th": "ถอนกำลังข้ามกำแพงชั้นนอกทางด้านหน้าธนาคารจุดที่คุณเข้ามา"
+        "th": "ถอนกำลังข้ามกำแพงชั้นนอกตรงด้านหน้าธนาคาร จุดที่คุณเข้ามา"
       },
       "POPUPMESSAGE_0045": {
         "en": "Exfiltrate to the primary extraction point.",
@@ -3623,7 +3623,7 @@
         "de": "Der Tresorzugang muss vom Büro des Präsidenten, dem Sicherheitsbüro und dem Schatzmeisterbüro aus autorisiert werden. Die Reihenfolge der Genehmigung ist egal.",
         "es": "El acceso a las cámaras acorazadas se autoriza desde el despacho del presidente, la oficina de seguridad y la oficina del tesorero. No importa en qué orden se hace la autorización.",
         "it": "L'accesso al caveau deve essere autorizzato dall'ufficio del presidente, dall'ufficio principale della sicurezza e dall'ufficio del tesoriere. Non importa in quale ordine viene autorizzato l'accesso.",
-        "th": "ต้องอนุญาตการเข้าถึงตู้นิรภัยจากห้องทำงานประธานาธิบดี ห้องรักษาความปลอดภัยหลัก และห้องทำงานเหรัญญิก ลำดับการอนุญาตไม่สำคัญ"
+        "th": "ต้องอนุญาตการเข้าถึงตู้นิรภัยจากห้องทำงานประธานธนาคาร ห้องรักษาความปลอดภัยหลัก และห้องทำงานเหรัญญิก ลำดับการอนุญาตไม่สำคัญ"
       },
       "POPUPMESSAGE_0048": {
         "en": "Authorize the vault access from three officers' panels.",
@@ -3690,7 +3690,7 @@
         "de": "Was soll ich den sonst tun? Wenn du willst, dass ich überprüfe, ob der Direktor die Klimaanlage in seinem Büro angelassen hat, dann muss ich ja wohl in den Raum hinein! Natürlich habe ich den Türcode benutzt. Sicher. Was meinst du, unsicher? Niemand hört zu! Du bist paranoid. Was? Den Code nicht aussprechen? 3490! 3490! 3490! 3490! Da, ich habe es gesagt! Ich habe den Code ausgesprochen! Was wirst du jetzt dagegen tun ... oh ... oh ... ja ... ooooh ... Ich hab' ja so Angst. Idiot.",
         "es": "¿Y qué quieres que haga? Si quiero ver si el presidente se ha dejado puesto el aire acondicionado del despacho, tendré que entrar. Claro que tengo que usar el código de la puerta. ¿Que me calle? ¡Nadie está escuchando! No seas paranoico. ¿Cómo que no diga el código? ¡3490! ¡3490! ¡3490! ¡3490! ¡Hala, ya he dicho el código! ¿Y ahora, qué piensas hacer? Oh, síiiii. Qué miedo tengo.",
         "it": "Che altro potevo fare?! Se volete che controlli se il presidente ha lasciato acceso il condizionatore nel suo ufficio, dovrò pure entrarci, no? Certo che ho usato il codice della porta. Ma certo. Cosa significa rischioso? Non ci sente nessuno! Sei paranoico. Cosa? Non dire il codice? 3490! 3490! 3490! 3490! Ecco, l'ho detto! Ho detto il codice! Cosa fai adesso? Oh... oh... sì... ooooh... che paura! Idiota.",
-        "th": "ทหาร - แล้วผมจะทำอะไรได้อีกล่ะ?! คุณอยากให้ผมตรวจว่าประธานาธิบดีเปิดแอร์ในห้องทำงานทิ้งไว้ไหม ผมก็ต้องเข้าไปในห้องจริงๆ นั่นแหละ ใช่ ผมใช้รหัสประตู แน่นอน ที่ว่ามันไม่ปลอดภัยน่ะหมายความว่ายังไง? ไม่มีใครฟังหรอก คุณวิตกไปเอง อะไรนะ? อย่าบอกรหัสประตูงั้นเหรอ? 3490! 3490! 3490! 3490! นั่นไง ผมพูดแล้ว! ผมบอกรหัสแล้ว! คุณจะทำไมล่ะ... โอ้... โอ้... ใช่... โอ้ววว... ผมกลัวจะตาย ไอ้โง่"
+        "th": "ทหาร - แล้วผมจะทำอะไรได้อีกล่ะ?! คุณอยากให้ผมตรวจว่าประธานธนาคารเปิดแอร์ในห้องทำงานทิ้งไว้ไหม ผมก็ต้องเข้าไปในห้องจริงๆ นั่นแหละ ใช่ ผมใช้รหัสประตู แน่นอน ที่ว่ามันไม่ปลอดภัยน่ะหมายความว่ายังไง? ไม่มีใครฟังหรอก คุณวิตกไปเอง อะไรนะ? อย่าบอกรหัสประตูงั้นเหรอ? 3490! 3490! 3490! 3490! นั่นไง ผมพูดแล้ว! ผมบอกรหัสแล้ว! คุณจะทำไมล่ะ... โอ้... โอ้... ใช่... โอ้ววว... ผมกลัวจะตาย ไอ้โง่"
       },
       "Note_0024L": {
         "en": "The door code to the President's office is 3490.",
@@ -3698,7 +3698,7 @@
         "de": "Der Türcode für das Büro des Präsidenten lautet 3490.",
         "es": "El código de la puerta del despacho del presidente es 3490.",
         "it": "Il codice della porta dell'ufficio del Presidente è 3490.",
-        "th": "รหัสประตูห้องทำงานประธานาธิบดีคือ 3490"
+        "th": "รหัสประตูห้องทำงานประธานธนาคารคือ 3490"
       },
       "Speech_0002L": {
         "en": "COLONEL - Hmm... who is that dashing new guard on the monitor there?",
@@ -3794,7 +3794,7 @@
         "de": "Blödes Stück Schrott ... wie kommt es, dass die Klimaanlage im Büro des Direktors nie versagt, während unser Ventilator jeden Abend den Geist aufgibt?",
         "es": "¿Cómo es que el aire del despacho del presidente nunca falla, y nuestro ventilador se rompe todas las noches?",
         "it": "Stupido rottame... perché il condizionatore nell'ufficio del presidente è sempre a posto mentre il nostro ventilatore si rompe ogni sera?",
-        "th": "พันเอก - เศษเหล็กโง่ๆ... ทำไมแอร์ในห้องทำงานประธานาธิบดีไม่เคยเสีย แต่พัดลมของเราเสียทุกคืน?"
+        "th": "พันเอก - เศษเหล็กโง่ๆ... ทำไมแอร์ในห้องทำงานประธานธนาคารไม่เคยเสีย แต่พัดลมของเราเสียทุกคืน?"
       },
       "Speech_0018L": {
         "en": "SOLDIER - He's the President and we're just security guards. Might as well have Noriega back...",
@@ -3818,7 +3818,7 @@
         "de": "Musst du mir nicht sagen ... nun ... wie auch immer ... wir sollten ihn besser reparieren.",
         "es": "Dímelo a mí. Aún así, deberíamos arreglarlo.",
         "it": "A me lo dici... Beh... comunque sia... meglio sistemarlo...",
-        "th": "ทหาร - บอกมาเลย... เอาเถอะ... ยังไงเราก็ต้องซ่อมมันให้ได้..."
+        "th": "ทหาร - ไม่ต้องบอกก็รู้... เอาเถอะ... ยังไงเราก็ต้องซ่อมมันให้ได้..."
       },
       "Speech_0022L": {
         "en": "COLONEL - No way. I ain't getting my hands dirty. Call that loser Paco up here and make him do it.",
@@ -3928,7 +3928,7 @@
         "de": "Nein ... da war niemand. Aber kennst du die Lüftung im Archiv? Ich glaube die reicht auf diese Seite herüber ... zur Männertoilette ... Ich glaube, deshalb konnte ich Rodrigo hören.",
         "es": "No, no había nadie. ¿Te acuerdas del conducto de ventilación, en el archivo? Creo que está conectado con el servicio de caballeros. Por eso pude oír a Rodrigo.",
         "it": "No... lì non c'era nessuno. Ma hai presente la presa d'aria nell'archivio? Credo che sia collegata a questo lato... nel bagno degli uomini... credo sia per questo che ho sentito Rodrigo...",
-        "th": "ทหาร - ไม่... ไม่มีใครอยู่ตรงนั้น แต่รู้อะไรไหม ท่อระบายอากาศในห้องแม่บ้านน่ะ ฉันว่ามันท่อนั้นเชื่อมมาฝั่งนี้... มาที่ห้องน้ำชาย... ฉันว่าฉันได้ยินโรดริโกทางนั้นแหละ..."
+        "th": "ทหาร - ไม่... ไม่มีใครอยู่ตรงนั้น แต่รู้อะไรไหม ท่อระบายอากาศในห้องแม่บ้านน่ะ ฉันว่าท่อนั้นเชื่อมมาฝั่งนี้... มาที่ห้องน้ำชาย... ฉันว่าฉันได้ยินโรดริโกทางนั้นแหละ..."
       },
       "Speech_0014L": {
         "en": "SOLDIER - You mean Rodrigo sings while he's going to the bathroom? Eeuuww.",

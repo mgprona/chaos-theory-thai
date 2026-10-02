@@ -71,7 +71,7 @@
         "de": "Ich habe Ihnen eine genaue Positionierungsanweisung für den Sprengsatz geschickt. Sorgen Sie dafür, dass er während der Versammlung am heutigen Abend hochgeht.",
         "es": "He enviado un plano que detalla dónde colocar la bomba. Hay que asegurarse de que estalla durante la asamblea de esta noche.",
         "it": "Ti ho inviato un piano preciso su dove piazzare la bomba. Assicurati che la bomba esploda durante la riunione di stasera.",
-        "th": "ฉันส่งแผนที่ละเอียดให้คุณแล้วว่าให้วางระเบิดไว้ตรงไหน ตรวจสอบให้แน่ใจว่าระเบิดทำงานระหว่างการประชุมคืนนี้"
+        "th": "ฉันส่งแผนที่ละเอียดให้คุณแล้วว่าให้วางระเบิดไว้ตรงไหน ตรวจสอบให้แน่ใจว่าระเบิดทำงานระหว่างการประชุมสมัชชาคืนนี้"
       },
       "EmailJinDate": {
         "en": "31/10/2005",
@@ -154,7 +154,7 @@
         "de": "LAMBERT - Verdammt! Da ist uns jemand zuvor gekommen. Das muss Kim sein. Halte ihn um jeden Preis auf.",
         "es": "LAMBERT - ¡Maldición! Alguien se nos ha adelantado, debe ser Kim. Detenedle a toda costa.",
         "it": "LAMBERT - Dannazione! Qualcuno è arrivato prima di noi. Dev'essere stato Kim. Fermatelo ad ogni costo.",
-        "th": "แลมเบิร์ต - ให้ตายสิ! มีคนมาก่อนเรา ต้องเป็นคิมแน่ หยุดมันให้ได้ไม่ว่าด้วยวิธีใด"
+        "th": "แลมเบิร์ต - ให้ตายสิ! มีคนมาก่อนเรา ต้องเป็นคิมแน่ หยุดเขาให้ได้ไม่ว่าด้วยวิธีใด"
       }
     },
     "P_07_UNhq_Cameranetmessage": {
@@ -187,7 +187,7 @@
         "de": "LAMBERT - Denke daran, dass du keine UNO-Wachen oder Zivilisten töten darfst. Außerdem kommst du nicht mehr an die Bombe, wenn der Großalarm losgeht. Sei so unsichtbar und lautlos, wie es nur ein Splinter Cell sein kann.",
         "es": "LAMBERT - Os recuerdo que no podéis matar a civiles o guardias de la ONU. Es más, si salta la alarma general no podréis llegar hasta la bomba, así que sed sigilosos como sólo un splinter cell sabe ser.",
         "it": "LAMBERT - Vi ricordo che uccidere le guardie dell'ONU o i civili non è permesso. Inoltre, se scatta l'allarme generale non potrete più raggiungere la bomba. Siate invisibili e silenziosi come solo gli Splinter Cell sanno essere.",
-        "th": "แลมเบิร์ต - ฉันขอเตือนว่าการฆ่าทหารยามหรือพลเรือนของสหประชาชาติไม่อนุญาต และถ้าสัญญาณเตือนภัยทั่วไปดังขึ้น คุณจะไปถึงระเบิดไม่ได้อีก จงเป็นผู้ที่มองไม่เห็นและเงียบกริบอย่างที่สปลินเตอร์เซลทำได้เท่านั้น"
+        "th": "แลมเบิร์ต - ฉันขอเตือนว่าการฆ่าทหารยามหรือพลเรือนของสหประชาชาติไม่อนุญาต และถ้าสัญญาณเตือนภัยทั่วไปดังขึ้น คุณจะไปถึงระเบิดไม่ได้อีก จงล่องหนและเงียบกริบอย่างที่สปลินเตอร์เซลทำได้"
       }
     },
     "P_07_UNhq_ElevatorMessage": {
@@ -198,7 +198,7 @@
         "de": "LAMBERT - Der Sicherheitskontrollraum ist auf der anderen Seite des Stockwerks. Wenn du aus dem Aufzug kommst, folge dem Hauptkoridor. Dann wirst du ihn finden.",
         "es": "LAMBERT - La sala de control de seguridad está al otro lado de la planta. Cuando salgáis del ascensor, id por el pasillo principal y la encontraréis.",
         "it": "LAMBERT - La sala della sicurezza è dall'altra parte del piano. Quando uscite dall'ascensore seguite il corridoio principale e la troverete.",
-        "th": "แลมเบิร์ต - ห้องควบคุมรักษาความปลอดภัยอยู่อีกฟากของชั้นนี้ พอออกจากลิฟต์แล้วให้เดินตามทางเดินหลัก แล้วคุณจะเจอมัน"
+        "th": "แลมเบิร์ต - ห้องควบคุมรักษาความปลอดภัยอยู่อีกฟากของชั้นนี้ พอออกจากลิฟต์แล้วให้เดินตามทางเดินหลัก แล้วคุณจะเจอห้องนั้น"
       }
     },
     "P_07_UNhq_Missioncompleted": {
@@ -220,7 +220,7 @@
         "de": "LAMBERT - Verdammt noch mal! Der allgemeine Alarm wurde ausgelöst. Der Einsatz ist beendet.",
         "es": "LAMBERT - ¡Maldita sea! ¡Han dado la alarma general! Se acabó la misión.",
         "it": "LAMBERT - Dannazione! È l'allarme generale. Missione annullata.",
-        "th": "แลมเบิร์ต - ให้ตายสิ! พวกเขาเปิดสัญญาณเตือนภัยทั่วไป ภารกิจจบแล้ว"
+        "th": "แลมเบิร์ต - ให้ตายสิ! พวกเขาประกาศสัญญาณเตือนภัยทั่วไป ภารกิจจบแล้ว"
       }
     },
     "P_07_UNhq_NOkill": {
@@ -390,7 +390,7 @@
         "de": "Suchen Sie nach der verschlüsselten Botschaft von Jin Soo",
         "es": "Recuperad los datos encriptados enviados por Jin Soo.",
         "it": "Recupera i dati codificati inviati da Jin Soo",
-        "th": "เก็บกู้ข้อมูลที่เข้ารหัสซึ่งจิน ซูส่งมา"
+        "th": "กู้คืนข้อมูลที่เข้ารหัสซึ่งจิน ซูส่งมา"
       },
       "Objective_0025": {
         "en": "Third Echelon intercepted an encrypted communication between Jin Soo and the UN Headquarters. Recover any data sent by Jin Soo.",
@@ -398,7 +398,7 @@
         "de": "Third Echelon hat eine verschlüsselte Botschaft von Jin Soo an das UNO-Hauptquartier abgefangen. Sichern Sie alle von Jin Soo gesendeten Daten.",
         "es": "Third Echelon interceptó una comunicación encriptada entre Jin Soo y la sede de la ONU. Recuperad cualquier dato enviado por Soo.",
         "it": "Third Echelon ha intercettato una comunicazione codificata tra Jin Soo e il quartier generale delle Nazioni Unite. Recupera i dati spediti da Jin Soo.",
-        "th": "เธิร์ดเอเชลอนดักจับการสื่อสารที่เข้ารหัสระหว่างจิน ซูกับสำนักงานใหญ่สหประชาชาติ เก็บกู้ข้อมูลใดก็ตามที่จิน ซูส่งมา"
+        "th": "เธิร์ดเอเชลอนดักจับการสื่อสารที่เข้ารหัสระหว่างจิน ซูกับสำนักงานใหญ่สหประชาชาติ กู้คืนข้อมูลใดก็ตามที่จิน ซูส่งมา"
       },
       "Objective_0032": {
         "en": "Defuse the bomb before it blows",
@@ -519,7 +519,7 @@
         "de": "LAMBERT - Gut gemacht. Das ist schon die halbe Miete. Und jetzt auf zur anderen Seite des Raums. Dort gibt es einen Durchgang, aber man muss nach unten, um ihn zu finden.",
         "es": "LAMBERT - Bien, habéis hecho la mitad del trabajo. Ahora debéis llegar al otro lado de la sala. Hay un camino, pero tenéis que volver abajo para encontrarlo.",
         "it": "LAMBERT - Ben fatto. Questa era metà del lavoro. Ora dovete andare dall'altra parte della stanza. C'è un passaggio, ma dovete ridiscendere per trovarlo.",
-        "th": "แลมเบิร์ต - ทำได้ดี นั่นคือครึ่งหนึ่งของงาน ตอนนี้คุณต้องไปให้ถึงอีกฟากของห้อง มีทางผ่านอยู่ แต่คุณต้องย้อนลงไปชั้นล่างเพื่อหามัน"
+        "th": "แลมเบิร์ต - ทำได้ดี นั่นคือครึ่งหนึ่งของงาน ตอนนี้คุณต้องไปให้ถึงอีกฟากของห้อง มีทางผ่านอยู่ แต่คุณต้องย้อนลงไปชั้นล่างเพื่อหาทางนั้น"
       }
     },
     "P_07_UNhq_BaseAlert": {

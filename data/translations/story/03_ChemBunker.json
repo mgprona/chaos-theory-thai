@@ -47,7 +47,7 @@
         "de": "Unsere Forschungsabteilung hat endlich ein funktionierendes Protokoll für den Antivirus entdeckt. Sie brauchen eine Serumprobe von den Affen und zwei unterschiedliche chemiische Komponenten. Die entsprechenden Protokollzutaten wurden an diese Mail angehängt.",
         "es": "Nuestra investigación nos ha llevado por fin a un protocolo funcional de una vacuna. Hay que extraer una muestra de sangre del mono y dos compuestos químicos diferentes. La composición correcta de la vacuna está en las notas adjuntas al correo.",
         "it": "I nostri ricercatori hanno finalmente scoperto un protocollo funzionante per l'antidoto al virus. Servono un campione di siero di sangue di scimmia e due componenti chimici. Gli ingredienti per il protocollo sono in allegato a questa mail come appunti.",
-        "th": "ในที่สุดงานวิจัยของเราก็ค้นพบสูตรที่ใช้ได้สำหรับแอนติไวรัส คุณจะต้องใช้ตัวอย่างเซรั่มเลือดลิงกับสารเคมีอีกสองชนิด ส่วนผสมที่ถูกต้องของสูตรแนบมากับเมลฉบับนี้ ในส่วนบันทึก"
+        "th": "ในที่สุดงานวิจัยของเราก็ค้นพบสูตรที่ใช้ได้สำหรับแอนติไวรัส คุณจะต้องใช้ตัวอย่างเซรั่มเลือดลิงกับสารเคมีอีกสองชนิด ส่วนผสมที่ถูกต้องของสูตรแนบมากับเมลฉบับนี้ในหัวข้อบันทึก"
       },
       "EmailVirusProtocolDate": {
         "en": "10/12/07",
@@ -127,7 +127,7 @@
         "de": "Um die neue Probe in den Träger einzusetzen, musst du den Sprengkopf öffnen. Der Code für das Gehäuse ist 1961. Halte ihn streng geheim. Dein Leben hängt davon ab.",
         "es": "Para insertar una nueva muestra en el vehículo de transporte tienes que abrir la cabeza del misil. El código es 1961. Guarda el código como si tu vida dependiera de ello... lo cual es cierto.",
         "it": "Per inserire il nuovo campione nel mezzo di trasferimento, devi aprire la testata. Il codice del corpo della testata del missile è 1961. Custodisci questo codice, perché ne va della tua vita...",
-        "th": "ในการใส่ตัวอย่างใหม่เข้าไปในหัวรบ คุณจะต้องเปิดหัวรบก่อน รหัสฝาครอบหัวรบขีปนาวุธคือ 1961 หวงรหัสนี้ไว้ให้เหมือนชีวิตคุณขึ้นอยู่กับมัน... เพราะมันขึ้นอยู่กับมันจริงๆ"
+        "th": "ในการใส่ตัวอย่างใหม่เข้าไปในหัวรบ คุณจะต้องเปิดหัวรบก่อน รหัสฝาครอบหัวรบขีปนาวุธคือ 1961 หวงรหัสนี้ไว้ให้เหมือนชีวิตคุณขึ้นอยู่กับมัน... เพราะชีวิตคุณขึ้นอยู่กับมันจริงๆ"
       },
       "EmailWarheadDate": {
         "en": "10/12/07",
@@ -365,7 +365,7 @@
         "de": "Begeben Sie sich durch einen der Silos zum Bunker.",
         "es": "Infíltrate en el búnker, bajo los silos.",
         "it": "Infiltrati nel bunker scendendo da uno dei silos.",
-        "th": "แทรกซึมเข้าบังเกอร์ทางปล่องยิงขีปนาวุธ"
+        "th": "แทรกซึมเข้าบังเกอร์ทางปล่องเก็บขีปนาวุธ"
       },
       "Speech_0003L": {
         "en": "LAMBERT: Good lord. That all but proves it. They must have a specific agent in mind if they are conducting payload thermographic tests. Recover the viral protocol from their main lab so we can analyze it.",
@@ -421,7 +421,7 @@
         "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Antivirus-Probe herzustellen.",
         "es": "Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.",
         "it": "Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.",
-        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้มันออกมาจากห้องแช่แข็ง"
+        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้ออกมาจากห้องแช่แข็ง"
       },
       "Speech_0005L": {
         "en": "LAMBERT: Good. Now take that serum and test it against the anti-virus they have stored in their cryogenic chamber.",
@@ -437,7 +437,7 @@
         "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Antivirus-Probe herzustellen.",
         "es": "Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.",
         "it": "Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.",
-        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้มันออกมาจากห้องแช่แข็ง"
+        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้ออกมาจากห้องแช่แข็ง"
       },
       "Speech_0006L": {
         "en": "LAMBERT: You're going to need to follow the protocol to manufacture a sample of the anti-virus.",
@@ -493,7 +493,7 @@
         "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
         "es": "Ve al punto de extracción primario.",
         "it": "Vai al punto di estrazione primario.",
-        "th": "ถอนกำลังไปยังจุดรับตัวหลัก"
+        "th": "ถอนกำลังไปยังจุดถอนกำลังหลัก"
       },
       "Speech_0010L": {
         "en": "LAMBERT: Good thinking. If CDC can see the procedure they used in the operation, it'll make figuring out the exact nature of the virus a lot easier.",
@@ -638,7 +638,7 @@
         "de": "Antiviren-Protokoll Bestandteil Eins = Blutserum der Blutgruppe 0.",
         "es": "Compuesto uno del protocolo antivírico = Plasma sanguíneo tipo O.",
         "it": "Componente Uno del protocollo anti-virale = Siero sanguigno tipo 0.",
-        "th": "โพรโทคอลต้านไวรัส ส่วนประกอบที่หนึ่ง = เซรั่มเลือดกลุ่ม O"
+        "th": "สูตรแอนติไวรัส ส่วนประกอบที่หนึ่ง = เซรั่มเลือดกลุ่ม O"
       },
       "Note_0010L": {
         "en": "Protocol Sequence - User One = ",
@@ -766,7 +766,7 @@
         "de": "Begeben Sie sich durch einen der Silos zum Bunker.",
         "es": "Infíltrate en el búnker, bajo los silos.",
         "it": "Infiltrati nel bunker scendendo da uno dei silos.",
-        "th": "แทรกซึมเข้าบังเกอร์ทางปล่องยิงขีปนาวุธ"
+        "th": "แทรกซึมเข้าบังเกอร์ทางปล่องเก็บขีปนาวุธ"
       },
       "POPUPMESSAGE_0027": {
         "en": "Recover the viral protocol from the main laboratory.",
@@ -790,7 +790,7 @@
         "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Antivirus-Probe herzustellen.",
         "es": "Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.",
         "it": "Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.",
-        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้มันออกมาจากห้องแช่แข็ง"
+        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้ออกมาจากห้องแช่แข็ง"
       },
       "POPUPMESSAGE_0030": {
         "en": "A sample of the anti-virus must be manufactured from the protocol and recovered from the cryogenic chamber.",
@@ -798,7 +798,7 @@
         "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Antivirus-Probe herzustellen.",
         "es": "Prepara una muestra de la vacuna con el protocolo y sácala de la cámara criogénica.",
         "it": "Crea un campione di antidoto usando il protocollo e il materiale della camera criogenica.",
-        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้มันออกมาจากห้องแช่แข็ง"
+        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้ออกมาจากห้องแช่แข็ง"
       },
       "POPUPMESSAGE_0031": {
         "en": "Retrieve a viral sample from one of the missiles.",
@@ -814,7 +814,7 @@
         "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
         "es": "Ve al punto de extracción primario.",
         "it": "Vai al punto di estrazione primario.",
-        "th": "ถอนกำลังไปยังจุดรับตัวหลัก"
+        "th": "ถอนกำลังไปยังจุดถอนกำลังหลัก"
       }
     },
     "P_03_Chemical_MiniLab": {
@@ -1045,7 +1045,7 @@
         "de": "Er beschuldigte den General, dass er den chinesischen Bürokraten, auf Kosten von fünftausend loyalen Soldaten, in den Hintern kriechen würde.",
         "es": "Acusó al general de inclinarse ante la burocracia china a costa de cinco mil soldados leales.",
         "it": "Ha accusato il Generale di inchinarsi ai burocrati cinesi tradendo la fiducia di cinquemila soldati leali.",
-        "th": "เขากล่าวหาว่านายพลก้มหัวยอมสยบพวกข้าราชการจีน โดยเอาทหารที่จงรักภักดีห้าพันนายเป็นเดิมพัน"
+        "th": "เขากล่าวหาว่านายพลก้มหัวยอมสยบพวกข้าราชการจีน โดยสังเวยทหารที่จงรักภักดีห้าพันนาย"
       },
       "Speech_0045L": {
         "en": "Well... it's kind of true.",
@@ -1104,7 +1104,7 @@
         "de": "Begeben Sie sich durch einen der Silos zum Bunker.",
         "es": "Infíltrate en el búnker, bajo los silos.",
         "it": "Infiltrati nel bunker scendendo da uno dei silos.",
-        "th": "แทรกซึมเข้าบังเกอร์ทางปล่องยิงขีปนาวุธ"
+        "th": "แทรกซึมเข้าบังเกอร์ทางปล่องเก็บขีปนาวุธ"
       },
       "Objective_0026": {
         "en": "The only way to infiltrate the bunker is down one of the launch tubes.",
@@ -1160,7 +1160,7 @@
         "de": "Sie brauchen Serum aus der Kryo-Kammer, um eine Probe des Antivirus mithilfe des Protokolls herzustellen.",
         "es": "Debes preparar una muestra de la vacuna contra el virus con el protocolo, y sacarla de la cámara criogénica.",
         "it": "Devi creare un campione di antidoto usando il protocollo e prendendo del materiale dalla camera criogenica.",
-        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้มันออกมาจากห้องแช่แข็ง"
+        "th": "ต้องผลิตตัวอย่างแอนติไวรัสตามสูตรและเก็บกู้ออกมาจากห้องแช่แข็ง"
       },
       "Objective_0019": {
         "en": "Retrieve a viral sample from one of the missiles.",
@@ -1184,7 +1184,7 @@
         "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
         "es": "Ve al punto de extracción principal.",
         "it": "Vai al punto di estrazione primario.",
-        "th": "ถอนกำลังไปยังจุดรับตัวหลัก"
+        "th": "ถอนกำลังไปยังจุดถอนกำลังหลัก"
       },
       "Objective_0022": {
         "en": "Get to the Zodiac at the end of the Missile Boat dock in order to extract.",
@@ -1200,7 +1200,7 @@
         "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
         "es": "Sal al punto de extracción principal.",
         "it": "Vai al punto di estrazione primario.",
-        "th": "ถอนกำลังไปยังจุดรับตัวหลัก"
+        "th": "ถอนกำลังไปยังจุดถอนกำลังหลัก"
       },
       "Objective_0030": {
         "en": "Get to the Zodiac at the end of the Missile Boat dock in order to extract.",
@@ -1251,7 +1251,7 @@
         "de": "Wirklich? Ich hörte, sie sollen ziemlich human sein.",
         "es": "¿Sí? Tenía entendido que eran humanitarias.",
         "it": "Davvero? Ho sentito dire che sono abbastanza benigne.",
-        "th": "จริงเหรอ? ฉันได้ยินว่ามันค่อนข้างเมตตาคนนะ"
+        "th": "จริงเหรอ? ฉันได้ยินว่ามันค่อนข้างเมตตานะ"
       },
       "Speech_0013L": {
         "en": "If by humane you mean six hours of having your immune system turn against you, liquefy your internal organs and cause you to explosively hemorrhage infectious goop out of every orifice until you boil to death, sure.",

@@ -2594,7 +2594,7 @@
         "de": "ANISOTROPISCH 2X",
         "es": "ANISOTRÓPICO 2X",
         "it": "FILTRO ANISOTROPICO 2X",
-        "th": "ANISOTROPIC 2X"
+        "th": "กรองพื้นผิว 2X"
       },
       "ANISO 4X": {
         "en": "ANISOTROPIC 4X",
@@ -2602,7 +2602,7 @@
         "de": "ANISOTROPISCH 4X",
         "es": "ANISOTRÓPICO 4X",
         "it": "FILTRO ANISOTROPICO 4X",
-        "th": "ANISOTROPIC 4X"
+        "th": "กรองพื้นผิว 4X"
       },
       "ANISO 8X": {
         "en": "ANISOTROPIC 8X",
@@ -2610,7 +2610,7 @@
         "de": "ANISOTROPISCH 8X",
         "es": "ANISOTRÓPICO 8X",
         "it": "FILTRO ANISOTROPICO 8X",
-        "th": "ANISOTROPIC 8X"
+        "th": "กรองพื้นผิว 8X"
       },
       "ANISO 16X": {
         "en": "ANISOTROPIC 16X",
@@ -2618,7 +2618,7 @@
         "de": "ANISOTROPISCH 16X",
         "es": "ANISOTRÓPICO 16X",
         "it": "FILTRO ANISOTROPICO 16X",
-        "th": "ANISOTROPIC 16X"
+        "th": "กรองพื้นผิว 16X"
       },
       "AA 1X": {
         "en": "ANTIALIASING 1X",
@@ -2626,7 +2626,7 @@
         "de": "ANTIALIASING 1X",
         "es": "ANTIALIASING 1X",
         "it": "ANTIALIAS 1X",
-        "th": "ANTIALIASING 1X"
+        "th": "ลบรอยหยัก 1X"
       },
       "AA 2X": {
         "en": "ANTIALIASING 2X",
@@ -2634,7 +2634,7 @@
         "de": "ANTIALIASING 2X",
         "es": "ANTIALIASING 2X",
         "it": "ANTIALIAS 2X",
-        "th": "ANTIALIASING 2X"
+        "th": "ลบรอยหยัก 2X"
       },
       "AA 3X": {
         "en": "ANTIALIASING 3X",
@@ -2642,7 +2642,7 @@
         "de": "ANTIALIASING 3X",
         "es": "ANTIALIASING 3X",
         "it": "ANTIALIAS 3X",
-        "th": "ANTIALIASING 3X"
+        "th": "ลบรอยหยัก 3X"
       },
       "AA 4X": {
         "en": "ANTIALIASING 4X",
@@ -2650,7 +2650,7 @@
         "de": "ANTIALIASING 4X",
         "es": "ANTIALIASING 4X",
         "it": "ANTIALIAS 4X",
-        "th": "ANTIALIASING 4X"
+        "th": "ลบรอยหยัก 4X"
       },
       "AA 5X": {
         "en": "ANTIALIASING 5X",
@@ -2658,7 +2658,7 @@
         "de": "ANTIALIASING 5X",
         "es": "ANTIALIASING 5X",
         "it": "ANTIALIAS 5X",
-        "th": "ANTIALIASING 5X"
+        "th": "ลบรอยหยัก 5X"
       },
       "AA 6X": {
         "en": "ANTIALIASING 6X",
@@ -2666,7 +2666,7 @@
         "de": "ANTIALIASING 6X",
         "es": "ANTIALIASING 6X",
         "it": "ANTIALIAS 6X",
-        "th": "ANTIALIASING 6X"
+        "th": "ลบรอยหยัก 6X"
       },
       "AA 7X": {
         "en": "ANTIALIASING 7X",
@@ -2674,7 +2674,7 @@
         "de": "ANTIALIASING 7X",
         "es": "ANTIALIASING 7X",
         "it": "ANTIALIAS 7X",
-        "th": "ANTIALIASING 7X"
+        "th": "ลบรอยหยัก 7X"
       },
       "AA 8X": {
         "en": "ANTIALIASING 8X",
@@ -2682,7 +2682,7 @@
         "de": "ANTIALIASING 8X",
         "es": "ANTIALIASING 8X",
         "it": "ANTIALIAS 8X",
-        "th": "ANTIALIASING 8X"
+        "th": "ลบรอยหยัก 8X"
       },
       "AA 9X": {
         "en": "ANTIALIASING 9X",
@@ -2690,7 +2690,7 @@
         "de": "ANTIALIASING 9X",
         "es": "ANTIALIASING 9X",
         "it": "ANTIALIAS 9X",
-        "th": "ANTIALIASING 9X"
+        "th": "ลบรอยหยัก 9X"
       },
       "AA 10X": {
         "en": "ANTIALIASING 10X",
@@ -2698,7 +2698,7 @@
         "de": "ANTIALIASING 10X",
         "es": "ANTIALIASING 10X",
         "it": "ANTIALIAS 10X",
-        "th": "ANTIALIASING 10X"
+        "th": "ลบรอยหยัก 10X"
       },
       "AA 11X": {
         "en": "ANTIALIASING 11X",
@@ -2706,7 +2706,7 @@
         "de": "ANTIALIASING 11X",
         "es": "ANTIALIASING 11X",
         "it": "ANTIALIAS 11X",
-        "th": "ANTIALIASING 11X"
+        "th": "ลบรอยหยัก 11X"
       },
       "AA 12X": {
         "en": "ANTIALIASING 12X",
@@ -2714,7 +2714,7 @@
         "de": "ANTIALIASING 12X",
         "es": "ANTIALIASING 12X",
         "it": "ANTIALIAS 12X",
-        "th": "ANTIALIASING 12X"
+        "th": "ลบรอยหยัก 12X"
       },
       "AA 13X": {
         "en": "ANTIALIASING 13X",
@@ -2722,7 +2722,7 @@
         "de": "ANTIALIASING 13X",
         "es": "ANTIALIASING 13X",
         "it": "ANTIALIAS 13X",
-        "th": "ANTIALIASING 13X"
+        "th": "ลบรอยหยัก 13X"
       },
       "AA 14X": {
         "en": "ANTIALIASING 14X",
@@ -2730,7 +2730,7 @@
         "de": "ANTIALIASING 14X",
         "es": "ANTIALIASING 14X",
         "it": "ANTIALIAS 14X",
-        "th": "ANTIALIASING 14X"
+        "th": "ลบรอยหยัก 14X"
       },
       "AA 15X": {
         "en": "ANTIALIASING 15X",
@@ -2738,7 +2738,7 @@
         "de": "ANTIALIASING 15X",
         "es": "ANTIALIASING 15X",
         "it": "ANTIALIAS 15X",
-        "th": "ANTIALIASING 15X"
+        "th": "ลบรอยหยัก 15X"
       },
       "AA 16X": {
         "en": "ANTIALIASING 16X",
@@ -2746,7 +2746,7 @@
         "de": "ANTIALIASING 16X",
         "es": "ANTIALIASING 16X",
         "it": "ANTIALIAS 16X",
-        "th": "ANTIALIASING 16X"
+        "th": "ลบรอยหยัก 16X"
       },
       "LOW": {
         "en": "LOW",
@@ -2962,7 +2962,7 @@
         "de": "HIGH QUALITY SKIN",
         "es": "APARIENCIA DE ALTA CALIDAD",
         "it": "SKIN DI ALTA QUALITÀ",
-        "th": "ผิวหนังคุณภาพสูง"
+        "th": "ผิวตัวละครคุณภาพสูง"
       },
       "ShaderOptions": {
         "en": "SHADER OPTIONS",
@@ -3058,7 +3058,7 @@
         "de": "ORIGINALSPRACHE",
         "es": "USO DE IDIOMAS NATIVOS",
         "it": "LINGUA MADRE",
-        "th": "ใช้เสียงภาษาดั้งเดิม"
+        "th": "ใช้เสียงพากย์ภาษาต้นฉบับ"
       }
     },
     "Keys": {

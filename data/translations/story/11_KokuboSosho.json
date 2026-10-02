@@ -25,7 +25,7 @@
         "de": "AUFGABE",
         "es": "TODO",
         "it": "INCARICO",
-        "th": "TODO"
+        "th": "รอดำเนินการ"
       },
       "Briefing_LAMBERT": {
         "en": "LAMBERT - State Department has lost contact with all of the US Officers who work at the Kokubo Sosho with the Japanese Self Defense Force. It looks like the SDF have taken them prisoner and they're refusing to answer our calls. In typical fashion, the Japanese are circling their wagons... either they're afraid to admit they've lost control of Otomo, or they're actually sanctioning him. If that's the case we'll have to come clean with North Korea, which will spark a massive war in Asia. If not... we need to find out what our officers know and figure out what to do about Otomo before North Korea finds out what's going on.",
@@ -60,7 +60,7 @@
         "de": "Objekt umschalten",
         "es": "Prender/Apagar",
         "it": "Accendi/spegni",
-        "th": "สับสวิตช์วัตถุ"
+        "th": "เปิด/ปิดวัตถุ"
       }
     },
     "Computer": {
@@ -389,7 +389,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück – Nehmen Helme ab",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza - Se quita el casco.",
         "it": "Livello di allarme ridotto - I nemici rientrano e tolgono l'elmetto",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ - ถอดหมวกกันน็อก"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ - ถอดหมวกกันน็อก"
       },
       "POPUPMESSAGE_0002": {
         "en": "Alarm Stage Reduced - Enemies Standing Down - Removing Body Armor",
@@ -397,7 +397,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück – Legen Körperpanzer ab",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza - Se quita el chaleco.",
         "it": "Livello di allarme ridotto - I nemici rientrano e tolgono il giubbotto antiproiettile",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ - ถอดเกราะป้องกัน"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ - ถอดเกราะป้องกัน"
       },
       "POPUPMESSAGE_0003": {
         "en": "Alarm Stage Reduced - Enemies Standing Down",
@@ -405,7 +405,7 @@
         "de": "Alarmstufe herabgesetzt – Feinde ziehen sich zurück",
         "es": "Disminuye el nivel de alarma - El enemigo se tranquiliza.",
         "it": "Livello di allarme ridotto - I nemici rientrano",
-        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ"
+        "th": "ระดับสัญญาณเตือนภัยลดลง - ศัตรูหยุดปฏิบัติการ"
       }
     },
     "P_11_KokuboSosho_BasementGuards": {
@@ -416,7 +416,7 @@
         "de": "Pass auf, wo du mit dem Ding hinzielst.",
         "es": "Apunta con eso a otra parte.",
         "it": "Guarda dove punti quell'affare.",
-        "th": "ทหาร - ระวังอย่าให้มันเล็งมาที่ฉันสิ"
+        "th": "ทหาร - ระวังอย่าให้มันเล็งไปทั่วสิ"
       },
       "Speech_0002L": {
         "en": "SOLDIER - Ah... relax... it's non-lethal anyway.",
@@ -555,7 +555,7 @@
         "de": "... wie sind Sie hier hineingekommen? Sie müssen mir etwas sagen, bevor ich mich für Sie einsetzen kann ... Soldat?",
         "es": "¿Cómo has entrado aquí? Tendrás que contar algo si quieres que empiece a negociar en tu favor... Sargento...",
         "it": "Come sei arrivato qui? Devi dirmi qualcosa se vuoi che  inizi a negoziare per te... sergente.",
-        "th": "พันเอก - ...คุณเข้ามาที่นี่ได้ยังไง? คุณต้องบอกอะไรฉันหน่อย ก่อนที่ฉันจะเริ่มเจรจาแทนคุณได้... สิบโท"
+        "th": "พันเอก - ...คุณเข้ามาที่นี่ได้ยังไง? คุณต้องบอกอะไรฉันหน่อย ก่อนที่ฉันจะเริ่มเจรจาแทนคุณได้... สิบเอก"
       },
       "Speech_0007L": {
         "en": "COLONEL - Give him a little... extra, Sergeant...",
@@ -563,7 +563,7 @@
         "de": "Geben Sie ihm eine kleine ... Zugabe, Soldat ...",
         "es": "Una dosis más, sargento.",
         "it": "Persuadilo... un altro po', sergente...",
-        "th": "พันเอก - ให้เขาเพิ่มอีกหน่อย... พิเศษ... สิบโท..."
+        "th": "พันเอก - ให้เขาเพิ่มอีกหน่อย... พิเศษ... สิบเอก..."
       },
       "Speech_0008L": {
         "en": "SOLDIER - Yes sir.",
@@ -782,7 +782,7 @@
         "de": "Fisher, ich kann das gar nicht deutlich genug betonen ... wenn auch nur ein einziger japanischer Soldat stirbt, riskieren wir den Dritten Weltkrieg. Sollte es Opfer geben, werde ich die Mission sofort abbrechen.",
         "es": "Quiero que te quede claro: si muere un solo soldado japonés, nos arriesgamos a la Tercera Guerra Mundial. Si hay bajas, cancelaré la misión.",
         "it": "Fisher, non mi stancherò di ripeterlo. Se muore anche solo un soldato giapponese, rischiamo la Terza Guerra Mondiale. Annullerò la missione alla prima vittima.",
-        "th": "แลมเบิร์ต - ฟิชเชอร์ ฉันย้ำไม่พอ... ถ้าทหารญี่ปุ่นตายแม้แต่คนเดียว เราเสี่ยงสงครามโลกครั้งที่สาม ถ้ามีผู้เสียชีวิต ฉันยกเลิกภารกิจทันที"
+        "th": "แลมเบิร์ต - ฟิชเชอร์ ฉันย้ำเท่าไรก็ไม่พอ... ถ้าทหารญี่ปุ่นตายแม้แต่คนเดียว เราเสี่ยงสงครามโลกครั้งที่สาม ถ้ามีผู้เสียชีวิต ฉันยกเลิกภารกิจทันที"
       },
       "Speech_0002L": {
         "en": "FISHER - I understand.",
@@ -838,7 +838,7 @@
         "de": "LAMBERT - Fisher you need to record everything that happens in Japanese War Room in the sub levels under the main floor.",
         "es": "LAMBERT - Fisher you need to record everything that happens in Japanese War Room in the sub levels under the main floor.",
         "it": "LAMBERT - Fisher you need to record everything that happens in Japanese War Room in the sub levels under the main floor.",
-        "th": "แลมเบิร์ต - ฟิชเชอร์ คุณต้องบันทึกทุกอย่างที่เกิดขึ้นในห้องสงครามญี่ปุ่นในชั้นใต้ดินใต้ชั้นหลัก"
+        "th": "แลมเบิร์ต - ฟิชเชอร์ คุณต้องบันทึกทุกอย่างที่เกิดขึ้นในห้องสงครามญี่ปุ่นชั้นใต้ดินใต้ชั้นหลัก"
       },
       "Speech_0007L": {
         "en": "LAMBERT - Sam, we need to record everything that happens in that meeting so we can present it to the Joint Chiefs.",
@@ -878,7 +878,7 @@
         "de": "Vergiss es, Fisher. Bevor wir nicht wissen, wer der Feind ist, gibt es keinen Feind. Kein Feind bedeutet keine Toten. Finde dich damit ab.",
         "es": "No. Mientras no sepamos quién es el enemigo, no hay enemigo. Y eso quiere decir que no puede haber muertes.",
         "it": "Scordatelo, Fisher. Finché non sappiamo chi è il nemico non c'è nessun nemico. Niente nemici significa niente morti. Rassegnati.",
-        "th": "แลมเบิร์ต - ลืมไปได้เลย ฟิชเชอร์ จนกว่าเราจะรู้ว่าใครคือศัตรู ก็ไม่มีศัตรู ไม่มีศัตรูก็ไม่มีการฆ่า รับไป"
+        "th": "แลมเบิร์ต - ลืมไปได้เลย ฟิชเชอร์ จนกว่าเราจะรู้ว่าใครคือศัตรู ก็ไม่มีศัตรู ไม่มีศัตรูก็ไม่มีการฆ่า ทำใจซะ"
       },
       "Speech_0132L": {
         "en": "LAMBERT - Fisher you need to record everything that happens in Japanese War Room in the sub levels under the main floor.",
@@ -886,7 +886,7 @@
         "de": "Fisher, du musst alles aufzeichnen, was in der japanischen Operationszentrale im Untergeschoss unter der Hauptebene geschieht.",
         "es": "Graba todo lo que ocurra en la Oficina de Guerra japonesa. Está en un nivel subterráneo bajo la planta principal.",
         "it": "Fisher, devi registrare tutto quello che accade nella sala operativa giapponese, nei livelli del sottomarino sotto il piano principale.",
-        "th": "แลมเบิร์ต - ฟิชเชอร์ คุณต้องบันทึกทุกอย่างที่เกิดขึ้นในห้องสงครามญี่ปุ่นในชั้นใต้ดินใต้ชั้นหลัก"
+        "th": "แลมเบิร์ต - ฟิชเชอร์ คุณต้องบันทึกทุกอย่างที่เกิดขึ้นในห้องสงครามญี่ปุ่นชั้นใต้ดินใต้ชั้นหลัก"
       },
       "Note_0162L": {
         "en": "The SDF soldiers in the basement area are using non-lethal weaponry.",
@@ -910,7 +910,7 @@
         "de": "Fisher, wie es aussieht, sind diese Wachen mit nicht-tödlichen Waffen ausgerüstet.",
         "es": "Fisher, esos guardias están equipados con armas NL.",
         "it": "Fisher, sembra che quelle guardie abbiano dell'ENL.",
-        "th": "เรดดิง - ฟิชเชอร์ จากที่เห็น ทหารยามพวกนี้ติดตั้งอุปกรณ์ไม่ร้ายแรง"
+        "th": "เรดดิง - ฟิชเชอร์ จากที่เห็น ทหารยามพวกนี้ติดอาวุธแบบไม่ร้ายแรง"
       },
       "Speech_0013L": {
         "en": "FISHER - Less-Than-Lethal? Why?",
@@ -974,7 +974,7 @@
         "de": "Ja. Kaneda arbeitete direkt für Otomo ... das bestätigt Otomos Verbindung zu Shetland und die Verwicklung in die Angriffe mit den Algorithmen von Masse ... Aber wir müssen immer noch herausfinden, ob seine Handlungen von der Regierung gebilligt wurden.",
         "es": "Sí. Kaneda trabajaba para Otomo. Eso confirma que Otomo tiene que ver con Shetland y con los ataques informáticos. Pero hay que averiguar si el gobierno autoriza sus actos.",
         "it": "Sì. Kaneda lavorava direttamente per Otomo... conferma il coinvolgimento di Otomo con Shetland e gli attacchi a base Masse... ma dobbiamo ancora scoprire se è stato autorizzato dal governo.",
-        "th": "แลมเบิร์ต - ใช่ คาเนดะทำงานให้โอโตโมโดยตรง... นี่ยืนยันว่าโอโตโมเกี่ยวข้องกับเชตแลนด์และการโจมตีที่ใช้มาสส์... แต่เรายังต้องรู้ว่าการกระทำของเขาได้รับอนุมัติจากรัฐบาลหรือไม่"
+        "th": "แลมเบิร์ต - ใช่ คาเนดะทำงานให้โอโตโมโดยตรง... นี่ยืนยันว่าโอโตโมเกี่ยวข้องกับเชตแลนด์และการโจมตีที่อาศัยมาสส์... แต่เรายังต้องรู้ว่าการกระทำของเขาได้รับอนุมัติจากรัฐบาลหรือไม่"
       },
       "Speech_0133L": {
         "en": "LAMBERT - You just downloaded the orders for the I-SDF strike team that went after Shetland. This confirms Otomo's involvement... but we still need to discover if his actions are sanctioned by the government.",
@@ -1174,7 +1174,7 @@
         "de": "LAMBERT - Otomo is going to force launch North Korean ballistic missiles at Japan. We need to destroy his severs in the Command Center at the bottom of the elevator.",
         "es": "LAMBERT - Otomo is going to force launch North Korean ballistic missiles at Japan. We need to destroy his severs in the Command Center at the bottom of the elevator.",
         "it": "LAMBERT - Otomo is going to force launch North Korean ballistic missiles at Japan. We need to destroy his severs in the Command Center at the bottom of the elevator.",
-        "th": "แลมเบิร์ต - โอโตโมจะบังคับยิงขีปนาวุธขีปนาวุธของเกาหลีเหนือใส่ญี่ปุ่น เราต้องทำลายเซิร์ฟเวอร์ของเขาในศูนย์บัญชาการที่ปลายล่างของลิฟต์"
+        "th": "แลมเบิร์ต - โอโตโมจะบังคับยิงขีปนาวุธของเกาหลีเหนือใส่ญี่ปุ่น เราต้องทำลายเซิร์ฟเวอร์ของเขาในศูนย์บัญชาการที่ปลายล่างของลิฟต์"
       },
       "Speech_0035L": {
         "en": "LAMBERT - Good lord! Otomo is going to launch a North Korean missile at his own country!",
@@ -1246,7 +1246,7 @@
         "de": "Halber Plan wäre wohl noch übertrieben ...",
         "es": "Me encantan los planes improvisados.",
         "it": "Adoro i piani lasciati a metà.",
-        "th": "ฟิชเชอร์ - นั่นเป็นแผนแค่ครึ่งเดียว ถ้าฉันเคยได้ยิน..."
+        "th": "ฟิชเชอร์ - นั่นเป็นแผนที่ครึ่งๆ กลางๆ ที่สุดเท่าที่ฉันเคยได้ยินมา..."
       },
       "Speech_0137L": {
         "en": "LAMBERT - Otomo is going to force launch North Korean ballistic missiles at Japan. We need to destroy his severs in the Command Center at the bottom of the elevator.",
@@ -1398,7 +1398,7 @@
         "de": "Wir brauchen ihn lebend. Sein Profil ist ziemlich eindeutig. Er würde angesichts der Beweise vor einem Kriegsverbrecher-Tribunal nicht lügen. Das würde sein Ehrgefühl verletzen.",
         "es": "Hay que capturarlo con vida. Según su perfil, no mentirá cuando un tribunal lo juzgue por crímenes de guerra. Su sentido del honor se lo impedirá.",
         "it": "Dobbiamo catturarlo vivo. Il suo profilo è piuttosto chiaro. Non mentirà di fronte a un tribunale per crimini di guerra, davanti alle prove. Offenderebbe il suo senso dell'onore.",
-        "th": "แลมเบิร์ต - เราต้องจับเขามาเป็นๆ ประวัติของเขาชัดเจนมาก เขาจะไม่โกหกต่อศาลอาชญากรรมสงครามเมื่อมีหลักฐานต่อหน้า มันจะขัดกับความรู้สึกเรื่องเกียรติของเขา"
+        "th": "แลมเบิร์ต - เราต้องจับเขามาเป็นๆ ข้อมูลตัวเขาชัดเจนมาก เขาจะไม่โกหกต่อศาลอาชญากรรมสงครามเมื่อมีหลักฐานต่อหน้า มันจะขัดกับความรู้สึกเรื่องเกียรติของเขา"
       },
       "POPUPMESSAGE_0169": {
         "en": "Capture Otomo alive.",
@@ -1478,7 +1478,7 @@
         "de": "Beeil dich!",
         "es": "¡Rápido!",
         "it": "Muoviti!",
-        "th": "แลมเบิร์ต - รีบเข้า!"
+        "th": "แลมเบิร์ต - เร็วเข้า!"
       },
       "POPUPMESSAGE_0182": {
         "en": "Cripple Otomo's I-SDF servers.",
@@ -1542,7 +1542,7 @@
         "de": "Beeil dich!",
         "es": "¡Rápido!",
         "it": "Muoviti!",
-        "th": "แลมเบิร์ต - รีบเข้า!"
+        "th": "แลมเบิร์ต - เร็วเข้า!"
       },
       "Speech_0143L": {
         "en": "LAMBERT - They say thirty seconds until it's away!",
@@ -1638,7 +1638,7 @@
         "de": "Jede Information über die Vorgänge hier kann uns nur von Nutzen sein.",
         "es": "Cualquier idea que nos ayude a descubrir qué pasa aquí parece buena.",
         "it": "Ogni informazione può aiutare.",
-        "th": "ฟิชเชอร์ - สายใดก็ตามที่เข้าไปในที่นี่ได้มีแต่ช่วย"
+        "th": "ฟิชเชอร์ - ข้อมูลอะไรก็ตามเกี่ยวกับที่นี่มีแต่ช่วยได้ทั้งนั้น"
       },
       "Speech_0155L": {
         "en": "LAMBERT - Absolutely.",
@@ -1782,7 +1782,7 @@
         "de": "Verdammt, Fisher! Wenn du nicht besser aufpasst, sorgst du noch dafür, dass dieser Krieg wieder neu entflammt!",
         "es": "¡Maldita sea, Fisher, si no tienes más cuidado vas a empezar la guerra tú solito!",
         "it": "Maledizione, Fisher! Finirai per riaccendere la guerra da solo se non stai più attento!",
-        "th": "แลมเบิร์ต - ให้ตายสิ ฟิชเชอร์! คุณจะจุดสงครามนี้ขึ้นใหม่ด้วยมือเดียวถ้าไม่ระวังมากกว่านี้!"
+        "th": "แลมเบิร์ต - ให้ตายสิ ฟิชเชอร์! คุณจะจุดสงครามนี้ขึ้นใหม่คนเดียวถ้าไม่ระวังมากกว่านี้!"
       },
       "Speech_0158L": {
         "en": "LAMBERT - Dammit Fisher... be careful with the alarms.",
@@ -1961,7 +1961,7 @@
         "de": "Es ist nicht so, als könnten Sie mich einfach kräftig durchschütteln und anschließend meine Munition vom Boden aufheben ...",
         "es": "No pensarás sacudirme y hacer que tire la munición al suelo...",
         "it": "Cosa vuoi fare, scuotermi e far cadere a terra le mie munizioni?",
-        "th": "ทหาร - มันไม่เหมือนคุณเขย่าผมแล้วกระสุนผมร่วงลงพื้นให้เก็บได้สักหน่อย"
+        "th": "ทหาร - คุณจะเขย่าผมให้กระสุนร่วงลงพื้นแล้วเก็บไปก็ไม่ได้หรอก"
       },
       "Speech_0009L": {
         "en": "FISHER - You're awfully flippant for someone with a knife to his throat...",
@@ -3513,7 +3513,7 @@
         "de": "Äh ... nun, die japanische Armee hat das gesamte amerikanische Personal zusammengetrieben und uns eingesperrt. Zuvor haben wir einige Generäle und Minister eintreffen sehen.",
         "es": "No estoy seguro. Las FAD han confinado a todo el personal americano. Hace un rato he visto a varios generales y ministros.",
         "it": "Ehm... ecco, l'SDF ha preso tutto il personale americano e ci ha rinchiusi. Abbiamo visto arrivare dei generali e dei ministri, poco fa.",
-        "th": "เจ้าหน้าที่ - เอ่อ... เอาเถอะ SDF รวบตัวเจ้าหน้าที่สหรัฐฯ ทั้งหมดและขังเราไว้ เราเห็นนายพลและรัฐมนตรีบางคนถูกพาเข้ามาก่อนหน้านี้"
+        "th": "เจ้าหน้าที่ - เอ่อ... คือ SDF รวบตัวเจ้าหน้าที่สหรัฐฯ ทั้งหมดและขังเราไว้ เราเห็นนายพลและรัฐมนตรีบางคนถูกพาเข้ามาก่อนหน้านี้"
       },
       "Speech_0012L": {
         "en": "FISHER - Where did they go?",

@@ -614,7 +614,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_REQUEST_TOO_SMALL": {
         "en": "",
@@ -622,7 +622,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_INVALID_MESSAGE_TYPE": {
         "en": "",
@@ -630,7 +630,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_NO_ADDRESS": {
         "en": "",
@@ -638,7 +638,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_INVALID_PUID": {
         "en": "",
@@ -646,7 +646,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_NO_CONNECTION": {
         "en": "",
@@ -654,7 +654,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_SEND_FAILED": {
         "en": "",
@@ -662,7 +662,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_RECV_FAILED": {
         "en": "",
@@ -670,7 +670,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_MESSAGE_TRUNCATED": {
         "en": "",
@@ -678,7 +678,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_SERVER_BUSY": {
         "en": "",
@@ -686,7 +686,7 @@
         "de": "BITTE VERSUCHEN SIE ES SPÄTER ERNEUT.",
         "es": "INTÉNTALO MÁS TARDE.",
         "it": "RIPROVA PIÙ TARDI.",
-        "th": "โปรดลองใหม่อีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_LIST_FULL": {
         "en": "UNABLE TO ADD THE SPECIFIED FRIEND BECAUSE YOUR FRIENDS LIST IS FULL. SELECT \"OK\" TO CONTINUE. ",
@@ -718,7 +718,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": "ล้างตั๋วแจ้งเตือน"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_TOO_MANY_REQUESTS": {
         "en": "",
@@ -726,7 +726,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": "คำขอบ่อยเกินไป โปรดลองอีกครั้งในภายหลัง"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_USER_ALREADY_EXISTS": {
         "en": "USER ALREADY EXISTS.",
@@ -766,7 +766,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": "เกมเดียวกัน"
+        "th": ""
       },
       "XONLINE_E_NOTIFICATION_NO_TASK": {
         "en": "",
@@ -774,7 +774,7 @@
         "de": "",
         "es": "",
         "it": "",
-        "th": "ไม่มีงานที่พร้อมใช้งาน"
+        "th": ""
       },
       "XONLINE_E_MATCH_INVALID_SESSION_ID": {
         "en": "THIS GAME SESSION IS NO LONGER AVAILABLE. SELECT \"OK\" TO CONTINUE.",

@@ -368,7 +368,7 @@
         "de": "Ich meine es ernst, Sam. Wenn der Alarm zu oft losgeht, werden dir die Söldner die Hölle heiß machen. ",
         "es": "Lo digo en serio. Si saltan demasiadas alarmas, esos tipos iran a por ti. ",
         "it": "Dico sul serio, Sam... troppi allarmi e ti troverai addosso tutti quei mercenari. ",
-        "th": "แลมเบิร์ต - ฉันพูดจริงนะแซม... สัญญาณเตือนภัยดังมากเกินไป พวกทหารรับจ้างจะตามล่าคุณ "
+        "th": "แลมเบิร์ต - ฉันพูดจริงนะแซม... สัญญาณเตือนภัยดังบ่อยเกินไป พวกทหารรับจ้างจะตามล่าคุณ "
       },
       "POPUPMESSAGE_0008": {
         "en": "Alarm Stage Three - Enemies Equipping Helmets",
@@ -669,7 +669,7 @@
         "de": "Und was heißt das für uns?",
         "es": "¿Y eso en qué situación nos deja?",
         "it": "E questo cosa significa per noi?",
-        "th": "งั้นเราจะเหลืออะไรล่ะ?"
+        "th": "แล้วเราจะทำยังไงต่อ?"
       },
       "Speech_0006L": {
         "en": "In the dark...as usual.",
@@ -720,7 +720,7 @@
         "de": "Hey ... dich kenne ich gar nicht. Wie lange arbeitest du schon bei Displace?",
         "es": "Eh, no te conozco. ¿Cuánto tiempo llevas en Displace?",
         "it": "Ehi... non ti conosco. Da quanto lavori in Displace?",
-        "th": "เฮ้... ฉันจำคุณไม่ได้ อยู่กับดิสเพลสมาบ่อยแค่ไหน?"
+        "th": "เฮ้... ฉันจำคุณไม่ได้ คุณอยู่กับดิสเพลสมานานแค่ไหนแล้ว?"
       },
       "Speech_0004L": {
         "en": "Three months... I just got transferred up from Peru... I was on the... ahem... VIP detail down there.",
@@ -1071,7 +1071,7 @@
         "de": "Das glaube ich Ihnen gerne ... ich möchte es aber trotzdem wissen.",
         "es": "Seguro que no, pero inténtelo, de todos modos.",
         "it": "Scommetto di no... ma sentiamo, giusto per la cronaca...",
-        "th": "ฟิชเชอร์ - ฉันแน่ใจว่าคุณพูดถูก... แต่เล่ามาให้ครบเป็นทางการหน่อย"
+        "th": "ฟิชเชอร์ - ฉันแน่ใจว่าคุณพูดถูก... แต่เล่าให้ฟังเพื่อบันทึกไว้หน่อยก็แล้วกัน"
       },
       "Speech_0030L": {
         "en": "GNOME - Dvorak is a mechanical representation of a self-referential axiom of number theory. Dvorak encodes its own logical structure within its own executable cycle and recursively derives a more accurate representation of itself with each successive execution.",
@@ -1365,7 +1365,7 @@
         "de": "Sieht aus wie eine endliche Zustandsmaschine. Diese Dinger wurden in den Sechzigern von Wissenschaftlern gebaut, um dann später in Universitätskellern zu verrotten.",
         "es": "Parece una máquina de estado finito. Un engendro matemático diseñado en los sesenta.",
         "it": "Sembra una macchina a stati finiti... Roba da cantine universitarie degli anni sessanta.",
-        "th": "กริมส์ดอตเตียร์ - มันดูเหมือนเครื่องจักรสถานะจำกัด... ของเก่าๆ สไตล์มหาวิทยาลัยยุคหกสิบที่น่าประหลาด"
+        "th": "กริมส์ดอตเตียร์ - มันดูเหมือนเครื่องจักรสถานะจำกัด... ของเก่าๆ น่าประหลาดจากห้องใต้ดินมหาวิทยาลัยยุคหกสิบ"
       },
       "Speech_0031L": {
         "en": "FISHER - What should I do?",
@@ -1397,7 +1397,7 @@
         "de": "Sieht aus wie eine endliche Zustandsmaschine. Diese Dinger wurden in den Sechzigern von Wissenschaftlern gebaut, um dann später in Universitätskellern zu verrotten.",
         "es": "Parece una máquina de estado finito. Un engendro matemático diseñado en los sesenta.",
         "it": "Sembra una macchina a stati finiti... Roba da cantine universitarie degli anni sessanta.",
-        "th": "กริมส์ดอตเตียร์ - มันดูเหมือนเครื่องจักรสถานะจำกัด... ของเก่าๆ สไตล์มหาวิทยาลัยยุคหกสิบที่น่าประหลาด"
+        "th": "กริมส์ดอตเตียร์ - มันดูเหมือนเครื่องจักรสถานะจำกัด... ของเก่าๆ น่าประหลาดจากห้องใต้ดินมหาวิทยาลัยยุคหกสิบ"
       },
       "Speech_0054L": {
         "en": "FISHER - What should I do?",
@@ -1707,7 +1707,7 @@
         "de": "Ah ... Okay., wir sind zum Schutz der VIPs auf dieser Etage eingeteilt. Wir müssen sie sichern ... weil wir sie vom Penthouse aus nicht abriegeln können.",
         "es": "Vale, vale. Somos escoltas. Tenemos que asegurar este piso, porque no podemos cerrarlo desde el ático.",
         "it": "Ah... ok... facciamo protezione VIP... questo piano... dobbiamo metterlo in sicurezza perché non possiamo chiuderlo dall'attico.",
-        "th": "อ่า... เอาล่ะ... เราดูแลคุ้มกันบุคคลสำคัญ... ชั้นนี้... เราต้องรักษาความปลอดภัยเพราะเราล็อกไม่ให้แยกจากเพนต์เฮาส์ไม่ได้"
+        "th": "อ่า... เอาล่ะ... เราดูแลคุ้มกันบุคคลสำคัญ... ชั้นนี้... เราต้องรักษาความปลอดภัย เพราะปิดกั้นมันแยกจากเพนต์เฮาส์ไม่ได้"
       },
       "Speech_0005L": {
         "en": "FISHER - Does the architect or engineer keep an office or a desk down here?",
@@ -1755,7 +1755,7 @@
         "de": "Sie legen sich mit den falschen Leuten an, mein Freund.",
         "es": "Te has metido con quien no debías, amigo.",
         "it": "Stai dando fastidio alla gente sbagliata, bello mio.",
-        "th": "คุณกำลังยุ่งกับบริษัทผิดคนแล้วเพื่อน"
+        "th": "คุณกำลังไปยุ่งกับพวกผิดคนแล้วเพื่อน"
       }
     },
     "P_04_Penthouse_Interro_Construction2": {
@@ -2731,7 +2731,7 @@
         "de": "Ich habe Höhenangst. Bitte.",
         "es": "Por favor, tengo vértigo.",
         "it": "Soffro di vertifigini, ti prego.",
-        "th": "ผมกลัวที่สูง ได้โปรด"
+        "th": "ผมกลัวความสูง ได้โปรด"
       }
     },
     "P_04_Penthouse_Lambert_Comm": {
@@ -2862,7 +2862,7 @@
         "de": "Fisher, der Knabe sieht mir nicht gerade wie ein Nachtwächter aus.",
         "es": "Fisher, apuesto a que ese tipo es un mercenario.",
         "it": "Fisher, quello era un professionista, non c'è dubbio.",
-        "th": "แลมเบิร์ต - ฟิชเชอร์ นั่นคือมือปืนรับจ้างชัดๆ ถ้าเคยมี"
+        "th": "แลมเบิร์ต - ฟิชเชอร์ นั่นคือมือปืนรับจ้างชัดๆ ถ้าเคยมีสักคน"
       },
       "Speech_0003L": {
         "en": "FISHER - He's no night watchman either...he's a merc. He's got the same kit as the guys who were protecting Lacerda.",
@@ -2870,7 +2870,7 @@
         "de": "Er ist auf jeden Fall kein gewöhnlicher Wachmann ... vermutlich ein Söldner ... Er hat die gleiche Ausrüstung wie die Typen, die Lacerda beschützt haben.",
         "es": "Tienes razón, no es un vigilante normal. Lleva el mismo armamento que los guardaespaldas de Lacerda.",
         "it": "E non è certo la guardia notturna... è un mercenario... ha lo stesso equipaggiamento di quelli che proteggevano Lacerda.",
-        "th": "ฟิชเชอร์ - เขาก็ไม่ใช่นายทหารยามกลางคืน... เขาเป็นทหารรับจ้าง เขามีอุปกรณ์ชุดเดียวกับพวกที่คุ้มกันลาแซร์ดา"
+        "th": "ฟิชเชอร์ - เขาก็ไม่ใช่ยามเฝ้ากลางคืน... เขาเป็นทหารรับจ้าง เขามีอุปกรณ์ชุดเดียวกับพวกที่คุ้มกันลาแซร์ดา"
       },
       "Speech_0037L": {
         "en": "LAMBERT - This whole situation is getting uglier by the second. See if you can find out who these characters work for.",
@@ -2910,7 +2910,7 @@
         "de": "Sam, Zherkezhis Penthouse befindet sich oben in diesem Gebäude. Er hat auch Baugenehmigungen für andere Etagen. Vielleicht findest du ja irgendwelche Blaupausen.",
         "es": "El ático de Zherkezhi está en en este edificio. También tiene permisos de construcción en otros pisos. Puede que encuentres planos.",
         "it": "Sam, l'attico di Zherkezhi è in cima a questo edificio. Ha anche il permesso di costruzione sugli altri piani. Forse puoi trovare qualche pianta di progetto.",
-        "th": "แลมเบิร์ต - แซม เพนต์เฮาส์ของเซอร์เคซีอยู่บนยอดอาคารนี้ เขายังมีใบอนุญาตก่อสร้างในชั้นอื่นๆ ด้วย บางทีคุณอาจขุดแบบแปลนได้"
+        "th": "แลมเบิร์ต - แซม เพนต์เฮาส์ของเซอร์เคซีอยู่บนยอดอาคารนี้ เขายังมีใบอนุญาตก่อสร้างในชั้นอื่นๆ ด้วย บางทีคุณอาจหาแบบแปลนได้"
       },
       "Speech_0162L": {
         "en": "REDDING - Zherkezhi has IR cameras. You should be able to see the projected beam with night vision. If you can tap each of the cameras, it would be a big help.",
@@ -2918,7 +2918,7 @@
         "de": "REDDING - Zherkezhi has IR cameras. You should be able to see the projected beam with night vision. If you can tap each of the cameras, it would be a big help.",
         "es": "REDDING - Zherkezhi has IR cameras. You should be able to see the projected beam with night vision. If you can tap each of the cameras, it would be a big help.",
         "it": "REDDING - Zherkezhi has IR cameras. You should be able to see the projected beam with night vision. If you can tap each of the cameras, it would be a big help.",
-        "th": "เรดดิง - เซอร์เคซีมีกล้องอินฟราเรด คุณน่าจะเห็นลำแสงที่มันฉายได้ด้วยมองกลางคืน ถ้าคุณดักสัญญาณกล้องได้ทุกตัว จะช่วยเราได้มาก"
+        "th": "เรดดิง - เซอร์เคซีมีกล้องอินฟราเรด คุณน่าจะเห็นลำแสงที่มันฉายได้ด้วยโหมดมองกลางคืน ถ้าคุณดักสัญญาณกล้องได้ทุกตัว จะช่วยเราได้มาก"
       },
       "Speech_0006L": {
         "en": "REDDING - Fisher... Zherkezhi cameras project an infrared beam so they can see in the dark.",
@@ -2934,7 +2934,7 @@
         "de": "Wenn die Dinger einen Infrarotstrahl einsetzen, dann müsste ich den doch mit meinem Nachtsichtgerät sehen können.",
         "es": "Si es un infrarrojo, lo captaré con el visor nocturno.",
         "it": "Se è un raggio a infrarossi posso usare il visore notturno.",
-        "th": "ฟิชเชอร์ - ถ้ามันเป็นลำแสงอินฟราเรด ฉันมองเห็นได้ด้วยมองกลางคืน"
+        "th": "ฟิชเชอร์ - ถ้ามันเป็นลำแสงอินฟราเรด ฉันมองเห็นได้ด้วยโหมดมองกลางคืน"
       },
       "Speech_0008L": {
         "en": "REDDING - Exactly... and listen... it would help us keep tabs on Zherkezhi if we could use these cameras against him.",
@@ -2958,7 +2958,7 @@
         "de": "Zherkezhis setzt Infrarotkameras ein. Du müsstest ihre Strahlen eigentlich mit deinem Nachtsichtgerät sehen können. Wenn du die Kameras anzapfen könntest, wäre uns das eine große Hilfe.",
         "es": "Zherkezhi tiene cámaras infrarrojas. Con el visor nocturno puedes ver el haz que proyectan. Nos vendría muy bien que hackearas esas cámaras.",
         "it": "Zherkezhi usa telecamere a infrarossi. Dovresti riuscire a vedere il raggio proiettato con la visione notturna. Sarebbe utile riuscire a mettere delle cimici su tutte le telecamere.",
-        "th": "เรดดิง - เซอร์เคซีมีกล้องอินฟราเรด คุณน่าจะเห็นลำแสงที่มันฉายได้ด้วยมองกลางคืน ถ้าคุณดักสัญญาณกล้องได้ทุกตัว จะช่วยเราได้มาก"
+        "th": "เรดดิง - เซอร์เคซีมีกล้องอินฟราเรด คุณน่าจะเห็นลำแสงที่มันฉายได้ด้วยโหมดมองกลางคืน ถ้าคุณดักสัญญาณกล้องได้ทุกตัว จะช่วยเราได้มาก"
       },
       "Speech_0013L": {
         "en": "GRIMSDOTTIR - Fisher, looks like Zherkezhi has these doors mag-locked on a remote switch. You'll need to find the computer that controls the magnetic lock.",
@@ -3038,7 +3038,7 @@
         "de": "LAMBERT - Sam, Zherkezhi's penthouse is atop this building. He also has construction permits on other floors. Maybe you can dig up some blueprints.",
         "es": "LAMBERT - Sam, Zherkezhi's penthouse is atop this building. He also has construction permits on other floors. Maybe you can dig up some blueprints.",
         "it": "LAMBERT - Sam, Zherkezhi's penthouse is atop this building. He also has construction permits on other floors. Maybe you can dig up some blueprints.",
-        "th": "แลมเบิร์ต - แซม เพนต์เฮาส์ของเซอร์เคซีอยู่บนยอดอาคารนี้ เขายังมีใบอนุญาตก่อสร้างในชั้นอื่นๆ ด้วย บางทีคุณอาจขุดแบบแปลนได้"
+        "th": "แลมเบิร์ต - แซม เพนต์เฮาส์ของเซอร์เคซีอยู่บนยอดอาคารนี้ เขายังมีใบอนุญาตก่อสร้างในชั้นอื่นๆ ด้วย บางทีคุณอาจหาแบบแปลนได้"
       },
       "Speech_0014L": {
         "en": "LAMBERT - Fisher, satellite shows you've reached Zherkezhi's building. County Clerk's office has construction permits on file for the floors below the penthouse and in the neighboring structure.",
@@ -3086,7 +3086,7 @@
         "de": "LAMBERT - Fisher, the mercenaries here all work for Displace International. That's Doug Shetland's company. I'm guessing that someone inside Displace is working both sides. See if you can find out who is in charge of the protection detail.",
         "es": "LAMBERT - Fisher, the mercenaries here all work for Displace International. That's Doug Shetland's company. I'm guessing that someone inside Displace is working both sides. See if you can find out who is in charge of the protection detail.",
         "it": "LAMBERT - Fisher, the mercenaries here all work for Displace International. That's Doug Shetland's company. I'm guessing that someone inside Displace is working both sides. See if you can find out who is in charge of the protection detail.",
-        "th": "แลมเบิร์ต - ทหารรับจ้างที่นี่ทำงานให้ดิสเพลส อินเทอร์เนชันแนลทั้งหมด นั่นคือบริษัทของดั๊ก เชตแลนด์ ฉันเดาว่ามีคนในดิสเพลสเล่นสองฝ่าย ลองหาว่าใครดูแลทีมคุ้มกันนี้"
+        "th": "แลมเบิร์ต - ทหารรับจ้างที่นี่ทำงานให้ดิสเพลส อินเทอร์เนชันแนลทั้งหมด นั่นคือบริษัทของดักลาส เชตแลนด์ ฉันเดาว่ามีคนในดิสเพลสเล่นสองฝ่าย ลองหาว่าใครดูแลทีมคุ้มกันนี้"
       },
       "Speech_0015L": {
         "en": "LAMBERT - Displace? That's Doug Shetland's company.",
@@ -3094,7 +3094,7 @@
         "de": "Displace? Das ist doch die Firma von Doug Shetland.",
         "es": "¿Displace? Es la compañía de Doug Shetland.",
         "it": "Displace? Ma è la compagnia di Shetland.",
-        "th": "แลมเบิร์ต - ดิสเพลสเหรอ? นั่นบริษัทของดั๊ก เชตแลนด์นี่"
+        "th": "แลมเบิร์ต - ดิสเพลสเหรอ? นั่นบริษัทของดักลาส เชตแลนด์นี่"
       },
       "Speech_0039L": {
         "en": "FISHER - I know.",
@@ -3142,7 +3142,7 @@
         "de": "Displace ist die Firma von Doug Shetland. Finde heraus, wer für den Sicherungsauftrag verantwortlich ist. Hoffentlich stellt sich nicht heraus, dass jemand bei Displace ein doppeltes Spiel treibt.",
         "es": "Displace es la empresa de Doug Shetland. Intenta averiguar quién está al mando de esos hombres. Me temo que alguien de Displace lleva a cabo un doble juego.",
         "it": "Displace è la compagnia di Doug Shetland. Cerca di scoprire chi si occupa di questa storia. Non vorrei scoprire che qualcuno in Displace fa il doppio gioco.",
-        "th": "แลมเบิร์ต - ดิสเพลสคือบริษัทของดั๊ก เชตแลนด์ ลองหาว่าใครดูแลทีมคุ้มกันนี้ ฉันไม่อยากรู้เลยว่ามีคนในดิสเพลสเล่นสองฝ่าย"
+        "th": "แลมเบิร์ต - ดิสเพลสคือบริษัทของดักลาส เชตแลนด์ ลองหาว่าใครดูแลทีมคุ้มกันนี้ ฉันไม่อยากรู้เลยว่ามีคนในดิสเพลสเล่นสองฝ่าย"
       },
       "Speech_0099L": {
         "en": "LAMBERT - Fisher, the mercenaries here all work for Displace International. That's Doug Shetland's company. I'm guessing that someone inside Displace is working both sides. See if you can find out who is in charge of the protection detail.",
@@ -3150,7 +3150,7 @@
         "de": "Fisher, die Söldner hier arbeiten alle für Displace International. Das ist die Firma von Doug Shetland. Ich vermute, dass ein Angestellter von Displace für beide Seiten arbeitet. Finde heraus, wer für den Sicherungsauftrag verantwortlich ist.",
         "es": "Fisher, esos mercenarios trabajan para Displace International. Es la compañía de Doug Shetland. Sospecho que alguien de Displace está jugando a dos bandas. Intenta averiguar quién está al mando de esos hombres.",
         "it": "Fisher, tutti questi mercenari lavorano per Displace International. È la compagnia di Doug Shetland. Credo che qualcuno in Displace stia facendo il doppio gioco. Cerca di scoprire chi si occupa di questa storia.",
-        "th": "แลมเบิร์ต - ทหารรับจ้างที่นี่ทำงานให้ดิสเพลส อินเทอร์เนชันแนลทั้งหมด นั่นคือบริษัทของดั๊ก เชตแลนด์ ฉันเดาว่ามีคนในดิสเพลสเล่นสองฝ่าย ลองหาว่าใครดูแลทีมคุ้มกันนี้"
+        "th": "แลมเบิร์ต - ทหารรับจ้างที่นี่ทำงานให้ดิสเพลส อินเทอร์เนชันแนลทั้งหมด นั่นคือบริษัทของดักลาส เชตแลนด์ ฉันเดาว่ามีคนในดิสเพลสเล่นสองฝ่าย ลองหาว่าใครดูแลทีมคุ้มกันนี้"
       },
       "Speech_0106L": {
         "en": "GRIMSDOTTIR - Uh oh...",
@@ -3398,7 +3398,7 @@
         "de": "GRIMSDOTTIR - Echelon has nothing on Milan Nedich. Looks like he's dirty and using Displace International for cover.",
         "es": "GRIMSDOTTIR - Echelon has nothing on Milan Nedich. Looks like he's dirty and using Displace International for cover.",
         "it": "GRIMSDOTTIR - Echelon has nothing on Milan Nedich. Looks like he's dirty and using Displace International for cover.",
-        "th": "กริมส์ดอตเตียร์ - อีเชลอนไม่มีข้อมูลมิลาน เนดิชเลย ดูเหมือนเขาเปื้อนและใช้ดิสเพลส อินเทอร์เนชันแนลเป็นฉากบังหน้า"
+        "th": "กริมส์ดอตเตียร์ - เอเชลอนไม่มีข้อมูลมิลาน เนดิชเลย ดูเหมือนเขาเปื้อนและใช้ดิสเพลส อินเทอร์เนชันแนลเป็นฉากบังหน้า"
       },
       "Speech_0019L": {
         "en": "GRIMSDOTTIR - Milan Nedich... Echelon's got nothing...he doesn't even exist.",
@@ -3406,7 +3406,7 @@
         "de": "Milan Nedich ... Echelon hat gar keine Daten über ihn. Der Kerl existiert dort nicht einmal.",
         "es": "Milan Nedich. No hay nada en Echelon. Ni siquiera existe.",
         "it": "Milan Nedich... non c'è niente su Echelon... Quell'uomo non esiste.",
-        "th": "กริมส์ดอตเตียร์ - มิลาน เนดิช... อีเชลอนไม่มีข้อมูลเลย... เขาไม่มีอยู่จริงด้วยซ้ำ"
+        "th": "กริมส์ดอตเตียร์ - มิลาน เนดิช... เอเชลอนไม่มีข้อมูลเลย... เขาไม่มีอยู่จริงด้วยซ้ำ"
       },
       "Speech_0065L": {
         "en": "FISHER - Hm... well whoever he is, he's playing both sides. We need to inform Shetland.",
@@ -3454,7 +3454,7 @@
         "de": "Echelon konnte nichts über Milan Nedich finden. An dem Kerl ist irgendwas faul. Er scheint Displace International als Tarnung zu benutzen. ",
         "es": "Milan Nedich no aparece en Echelon. Al parecer, está usando a Displace International como tapadera. ",
         "it": "Echelon non ha niente su Milan Nedich. C'è qualcosa che puzza, credo stia usando Displace International come copertura. ",
-        "th": "กริมส์ดอตเตียร์ - อีเชลอนไม่มีข้อมูลมิลาน เนดิชเลย ดูเหมือนเขาเปื้อนและใช้ดิสเพลส อินเทอร์เนชันแนลเป็นฉากบังหน้า "
+        "th": "กริมส์ดอตเตียร์ - เอเชลอนไม่มีข้อมูลมิลาน เนดิชเลย ดูเหมือนเขาเปื้อนและใช้ดิสเพลส อินเทอร์เนชันแนลเป็นฉากบังหน้า "
       },
       "Speech_0167L": {
         "en": "GRIMSDOTTIR - Those plans you found were the architectural plans for the penthouse. I've uploaded them to your OPSAT.",
@@ -3905,7 +3905,7 @@
         "de": "Durch ein Anzapfen der von Zherkezhi installierten  Überwachungskameras kann Echelon sich ein besseres Bild von seinen Aktivitäten machen.",
         "es": "Si pinchas las cámaras de seguridad que Zherkezhi tiene instaladas, Third Echelon podrá seguir de cerca sus actividades.",
         "it": "Inserendoti nelle telecamere di sicurezza installate da Zherkezhi, Echelon potrà seguire più da vicino le sue attività.",
-        "th": "การดักสัญญาณกล้องรักษาความปลอดภัยที่เซอร์เคซีติดตั้งจะช่วยให้อีเชลอนติดตามความเคลื่อนไหวของเขาได้ใกล้ชิดขึ้น"
+        "th": "การดักสัญญาณกล้องรักษาความปลอดภัยที่เซอร์เคซีติดตั้งจะช่วยให้เอเชลอนติดตามความเคลื่อนไหวของเขาได้ใกล้ชิดขึ้น"
       },
       "POPUPMESSAGE_0057": {
         "en": "Tap the Penthouse video cameras.",
@@ -3921,7 +3921,7 @@
         "de": "Sie können das von den IR-Kameras abgestrahlte Licht mit Ihrem Nachtsichtgerät erkennen.",
         "es": "Con el visor nocturno podrás ver el haz de luz que proyectan las cámaras infrarrojas.",
         "it": "Puoi vedere la luce infrarossa proiettata dalle telecamere a infrarossi con la visione notturna.",
-        "th": "คุณเห็นแสงอินฟราเรดที่กล้อง IR ฉายได้ด้วยมองกลางคืน"
+        "th": "คุณเห็นแสงอินฟราเรดที่กล้อง IR ฉายได้ด้วยโหมดมองกลางคืน"
       },
       "Objective_0008": {
         "en": "Discover who is in charge of the Zherkezhi protection detail.",
@@ -4119,7 +4119,7 @@
         "de": "Wir können uns keine Unfälle leisten. Pass gefälligst auf.",
         "es": "No podemos permitirnos accidentes. Contrólate.",
         "it": "Non possiamo permetterci incidenti. Non sparare.",
-        "th": "แลมเบิร์ต - เราไม่มีที่ให้กับอุบัติเหตุ ระวังการยิงของตัวเอง"
+        "th": "แลมเบิร์ต - เราไม่อาจมีอุบัติเหตุได้ ระวังการยิงของตัวเอง"
       },
       "Speech_0004L": {
         "en": "LAMBERT - Dammit, Sam. You killed a civilian. Watch your fire.",
@@ -4194,7 +4194,7 @@
         "de": "Wir können uns keine Unfälle leisten. Pass gefälligst auf.",
         "es": "No podemos permitirnos accidentes. Contrólate.",
         "it": "Non possiamo permetterci incidenti. Non sparare.",
-        "th": "แลมเบิร์ต - เราไม่มีที่ให้กับอุบัติเหตุ ระวังการยิงของตัวเอง"
+        "th": "แลมเบิร์ต - เราไม่อาจมีอุบัติเหตุได้ ระวังการยิงของตัวเอง"
       },
       "Speech_0004L": {
         "en": "LAMBERT - Dammit, Sam. You killed a civilian. Watch your fire.",
@@ -4269,7 +4269,7 @@
         "de": "Wir können uns keine Unfälle leisten. Pass gefälligst auf.",
         "es": "No podemos permitirnos accidentes. Contrólate.",
         "it": "Non possiamo permetterci incidenti. Non sparare.",
-        "th": "แลมเบิร์ต - เราไม่มีที่ให้กับอุบัติเหตุ ระวังการยิงของตัวเอง"
+        "th": "แลมเบิร์ต - เราไม่อาจมีอุบัติเหตุได้ ระวังการยิงของตัวเอง"
       },
       "Speech_0004L": {
         "en": "LAMBERT - Dammit, Sam. You killed a civilian. Watch your fire.",
@@ -4470,7 +4470,7 @@
         "de": "Ja, genau ... das hat uns gerade noch gefehlt. Der Nachbau einer uralten russischen Rakete ohne Sprengkopf und komplett aus Dosenblech geschweißt.",
         "es": "Ya, lo que nos hacía falta. La versión china de un misil de hierro de la era soviética, cambiándole la cabeza nuclear por un sillón de dentista.",
         "it": "Già... proprio quello che ci serviva... una copia cinese da due soldi di un rottame di missile russo dell'era sovietica senza la testata e con una poltrona da dentista saldata dentro.",
-        "th": "ใช่... นั่นแหละที่เราต้องการ... จรวดโซเวียตสมัยเก่าที่จีนก๊อปมา โดยถอดหัวรบออกแล้วเชื่อมเก้าอี้ทำฟันไว้ข้างใน..."
+        "th": "ใช่... นั่นแหละที่เราต้องการ... จรวดเหล็กดัดโซเวียตยุคเก่าที่จีนก๊อปมา โดยถอดหัวรบออกแล้วเชื่อมเก้าอี้ทำฟันไว้ข้างใน..."
       },
       "Speech_0007L": {
         "en": "Better than an over-engineered ceramic shell full of parts designed by 30 different firms, sub-contracted out to the lowest bidders that the lowest bidders could find, manufactured in 12 different states by members of 8 different unions, still suing each other over the last 4 cent plastic widget that cracked in transport and ended up costing the tax-payers a hundred million dollars because it was machined to a tolerance of 1 mm instead of 1/25th of an inch.",

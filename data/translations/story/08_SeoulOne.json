@@ -33,7 +33,7 @@
         "de": "Der Computer-Eingriff, der die Rakete auf die Walsh umgelenkt hat, kam über Seoul. Ich konnte seinen Ursprung leider nur bis zur Vermittlungszentrale zurückverfolgen, und selbst da bin ich mir nicht ganz sicher, ob ich überhaupt richtig liege. Es kann sein, dass Südkorea uns in den Krieg gezogen hat und der nordkoreanischen Angriff auf die USA manipuliert war. Ich würde mich ja einfach in die Systeme hacken, aber wir haben es hier mit einer sehr gut gesicherten Datenleitung zu tun, und durch die Kampfhandlungen wurden bereits jetzt einige meiner Zugangsknoten zerstört. Du musst schnellstens dort hingehen, die Daten manuell bergen und sie dann an uns übertragen, damit wir sie uns näher ansehen können.",
         "es": "El ataque informático que disparó el misil contra el Walsh provenía de Seúl. No he conseguido rastrear su fuente más allá del repetidor, y ni siquiera estoy segura de que no se originara allí. No es descabellado pensar que se trate de una maniobra de Corea del Sur para obligarnos a entrar en guerra contra sus vecinos. He intentado hackear su sistema, pero se trata de un canal seguro, y los daños provocados por el combate han aislado la mayoría de los puertos de entrada. Tendrás que ir allí, recuperar los datos manualmente y después mandarlos por conexión directa para que podamos estudiarlos.",
         "it": "Le incursioni informatiche che hanno lanciato il missile contro la Walsh sono passate da Seul. Non sono riuscita a tracciarle oltre la stazione di smistamento, e non sono nemmeno sicura che non siano effettivamente partite da lì. È possibile che la Corea del Sud ci abbia spinto a una guerra forzando il Nord ad attaccare gli Stati Uniti. Io ci proverei ad inserirmi, ma questa è una linea dati solida e sicura, e i danni causati dai combattimenti hanno già isolato quasi tutti i miei ingressi. Devi entrare e recuperare i dati manualmente, poi trasmetterli punto a punto per permetterci di esaminarli meglio.",
-        "th": "กริมส์ดอตเตียร์ -  การโจมตีทางสงครามข้อมูลข่าวสารที่ยิงขีปนาวุธจมเรือวอลช์ผ่านโซล ฉันตามรอยมันย้อนกลับไปไกลกว่าสถานีสวิตช์ไม่ได้ และฉันก็ไม่แน่ใจด้วยซ้ำว่ามันไม่ได้เริ่มต้นที่นั่น มันเป็นไปได้ทีเดียวว่าเกาหลีใต้บงการให้เราเข้าสู่สงครามโดยบีบให้ฝ่ายเหนือโจมตีสหรัฐฯ ฉันจะลองแฮกเข้าไปเอง แต่ท่อข้อมูลนี้ใหญ่และปลอดภัยดี และความเสียหายจากการสู้รบก็ตัดช่องทางเข้าออกส่วนใหญ่ออกไปแล้ว คุณต้องเข้าไปเก็บข้อมูลด้วยมือ แล้วส่งมันออกแบบจุดต่อจุดเพื่อให้เราดูใกล้ๆ"
+        "th": "กริมส์ดอตเตียร์ - การโจมตีทางสงครามข้อมูลข่าวสารที่ยิงขีปนาวุธจมเรือวอลช์ผ่านโซล ฉันตามรอยมันย้อนกลับไปไกลกว่าสถานีสวิตช์ไม่ได้ และฉันก็ไม่แน่ใจด้วยซ้ำว่ามันไม่ได้เริ่มต้นที่นั่น มันเป็นไปได้ทีเดียวว่าเกาหลีใต้บงการให้เราเข้าสู่สงครามโดยบีบให้ฝ่ายเหนือโจมตีสหรัฐฯ ฉันจะลองแฮกเข้าไปเอง แต่ท่อข้อมูลนี้ใหญ่และปลอดภัยดี และความเสียหายจากการสู้รบก็ตัดช่องทางเข้าออกส่วนใหญ่ออกไปแล้ว คุณต้องเข้าไปเก็บข้อมูลด้วยมือ แล้วส่งมันออกแบบจุดต่อจุดเพื่อให้เราดูใกล้ๆ"
       },
       "Briefing_REDDING": {
         "en": "REDDING -  CIA maintains several safe houses in Seoul to facilitate insertion of agents and recovery of possible defectors. Usually they are set up to look like ordinary residences. I'm currently working out a plan to have you forward-inserted into one of these safe houses before 2 I.D. performs another major retrograde. Once you're in, our boys will retreat, and the NKA front will overrun and bypass your location, leaving you in the wake of the main force, but still in advance of the support troops. You'll have a small zone of comfort and I would strongly advise you not to stray from you're A.O. You don't want to encounter a battalion sized force.",
@@ -90,7 +90,7 @@
         "de": "Es ist jetzt bereits 38 Stunden her, dass die nordkoreanische Armee den Entschluss gefasst hat, die koreanische Halbinsel in einen Krieg zu stürzen. Wir wissen seit knapp fünfzig Jahren, dass ihr Primärziel darin bestehen wird, Seoul innerhalb der ersten zweiundsiebzig Stunden einzunehmen. So wie es aussieht, sind die Jungs verrückt genug, genau das auch zu versuchen. Zusammen mit der südkoreanischen Armee haben US-Verbände damit begonnen, an ausgewählten Grenzabschnitten den geordneten Rückzug anzutreten, um so einzelne nordkoreanische Divisionen entlang speziell dafür vorgesehener Korridore ins Land vorrücken zu lassen. Vor sechs Stunden ist eine der nordkoreanischen Divisionen in Seoul angelangt. Sie haben es anscheinend auf wichtige Gebäude Seouls abgesehen. Zu ihren potentiellen Zielen zählt ausgerechnet auch die Telekommunikations-vermittlung, über die der Angriff auf die Walsh ausgeführt wurde. Wenn die nordkoreanische Armee die Daten dieser Vermittlung in die Finger bekommt, wird es Nordkorea damit möglicherweise gelingen, den Einmarsch zu rechtfertigen und das Land so dauerhaft zu besetzen. Wir müssen an die Informationen dort gelangen, bevor es die Nordkoreaner tun.",
         "es": "Hace treinta y ocho horas, el ejército norcoreano declaró la guerra en la Península de Corea. Su objetivo es conquistar Seúl en setenta y dos horas. Las fuerzas americanas y surcoreanas han ejecutado maniobras de retirada para llevar a las divisiones norcoreanas por rutas separadas. Hace seis horas, la primera de esas divisiones ha alcanzado Seúl, y ahora intenta apoderarse de infraestructuras vitales. La primera es un repetidor de telecomunicaciones al norte de la ciudad. Por desgracia, el ataque informático que hundió al Walsh se difundió a través de ese repetidor. Si el ejército norcoreano consigue esa información, tendrá un pretexto para justificar su invasión y obligar al resto del mundo a que acepte la ocupación de Corea del Sur. Tenemos que adelantarnos.",
         "it": "38 ore fa, l'esercito nordcoreano ha invaso la Corea del Sud. Da cinquant'anni a questa parte, il loro obiettivo è catturare Seul. Sembra che ci stiano riuscendo. Le forze americane e sudcoreane stanno tentando, mediante ritirate strategiche, di frammentare le singole divisioni nemiche in corridoi separati. Sei ore fa le prime divisioni hanno raggiunto Seul e stanno colpendo le strutture critiche. In cima alla lista c'è una stazione di telecomunicazioni a nord della città. Purtroppo, l'incursione informatica che ha causato l'affondamento della Walsh viene proprio da quella stazione. Se i nordcoreani riuscissero a mettere le mani sulla stazione, otterrebbero una giustificazione per l'invasione agli occhi del mondo. Dobbiamo ottenere quelle informazioni prima di loro.",
-        "th": "สามสิบแปดชั่วโมงก่อน NKA ลงมือทำสงครามเปิดแนวรบเต็มรูปแบบบนคาบสมุทรเกาหลี เรารู้มาห้าสิบปีแล้วว่าเป้าหมายของพวกเขาคือการยึดโซลภายในเจ็ดสิบสองชั่วโมง ดูเหมือนคราวนี้พวกเขามีโอกาสจริง กองกำลังเกาหลีใต้และสหรัฐฯ ใช้การถอยร่นแบบจัดฉากเพื่อบีบให้แต่ละกองพลของ NKA เคลื่อนไปตามเส้นทางที่กำหนด หกชั่วโมงก่อน กองพลแรกในนั้นมาถึงโซลและกำลังพยายามยึดโครงสร้างพื้นฐานสำคัญ อันดับต้นๆ ในรายการของพวกเขาคือสถานีสวิตช์โทรคมนาคมทางเหนือของเมือง น่าเสียดายที่การโจมตีทางสงครามข้อมูลข่าวสารที่จมเรือวอลช์ผ่านสถานีสวิตช์นี้ ถ้า NKA ได้ข้อมูลนั้นไป พวกเขาจะอ้างความชอบธรรมในการรุกรานและอาจบีบให้โลกยอมให้พวกเขายึดประเทศไว้ เราต้องได้ข้อมูลนั้นก่อนพวกเขา"
+        "th": "แลมเบิร์ต - สามสิบแปดชั่วโมงก่อน NKA ลงมือทำสงครามเปิดแนวรบเต็มรูปแบบบนคาบสมุทรเกาหลี เรารู้มาห้าสิบปีแล้วว่าเป้าหมายของพวกเขาคือการยึดโซลภายในเจ็ดสิบสองชั่วโมง ดูเหมือนคราวนี้พวกเขามีโอกาสจริง กองกำลังเกาหลีใต้และสหรัฐฯ ใช้การถอยร่นแบบจัดฉากเพื่อบีบให้แต่ละกองพลของ NKA เคลื่อนไปตามเส้นทางที่กำหนด หกชั่วโมงก่อน กองพลแรกในนั้นมาถึงโซลและกำลังพยายามยึดโครงสร้างพื้นฐานสำคัญ อันดับต้นๆ ในรายการของพวกเขาคือสถานีสวิตช์โทรคมนาคมทางเหนือของเมือง น่าเสียดายที่การโจมตีทางสงครามข้อมูลข่าวสารที่จมเรือวอลช์ผ่านสถานีสวิตช์นี้ ถ้า NKA ได้ข้อมูลนั้นไป พวกเขาจะอ้างความชอบธรรมในการรุกรานและอาจบีบให้โลกยอมให้พวกเขายึดประเทศไว้ เราต้องได้ข้อมูลนั้นก่อนพวกเขา"
       },
       "Speech_0002L": {
         "en": "GRIMSDOTTIR - The information warfare attacks that launched the missile that sank the Walsh came through Seoul. I wasn't able to trace them back any further than the switching station, and I don't even know for sure that they didn't originate there. It's entirely possible that South Korea has manipulated us into war by forcing the North to attack the US. I would just try and hack my way in, but this is a fat, secure data pipe, and damage caused by the fighting has already isolated most of the entry ports. You need to get in there and recover the data manually, then broadcast it out point-to-point so we can take a closer look.",
@@ -98,7 +98,7 @@
         "de": "Der Computer-Eingriff, der die Rakete auf die Walsh umgelenkt hat, kam über Seoul. Ich konnte seinen Ursprung leider nur bis zur Vermittlungszentrale zurückverfolgen, und selbst da bin ich mir nicht ganz sicher, ob ich überhaupt richtig liege. Es kann sein, dass Südkorea uns in den Krieg gezogen hat und der nordkoreanischen Angriff auf die USA manipuliert war. Ich würde mich ja einfach in die Systeme hacken, aber wir haben es hier mit einer sehr gut gesicherten Datenleitung zu tun, und durch die Kampfhandlungen wurden bereits jetzt einige meiner Zugangsknoten zerstört. Du musst schnellstens dort hingehen, die Daten manuell bergen und sie dann an uns übertragen, damit wir sie uns näher ansehen können.",
         "es": "El ataque informático que disparó el misil contra el Walsh provenía de Seúl. No he conseguido rastrear su fuente más allá del repetidor, y ni siquiera estoy segura de que no se originara allí. No es descabellado pensar que se trate de una maniobra de Corea del Sur para obligarnos a entrar en guerra contra sus vecinos. He intentado hackear su sistema, pero se trata de un canal seguro, y los daños provocados por el combate han aislado la mayoría de los puertos de entrada. Tendrás que ir allí, recuperar los datos manualmente y después mandarlos por conexión directa para que podamos estudiarlos.",
         "it": "Le incursioni informatiche che hanno lanciato il missile contro la Walsh sono passate da Seul. Non sono riuscita a tracciarle oltre la stazione di smistamento, e non sono nemmeno sicura che non siano effettivamente partite da lì. È possibile che la Corea del Sud ci abbia spinto a una guerra forzando il Nord ad attaccare gli Stati Uniti. Io ci proverei ad inserirmi, ma questa è una linea dati solida e sicura, e i danni causati dai combattimenti hanno già isolato quasi tutti i miei ingressi. Devi entrare e recuperare i dati manualmente, poi trasmetterli punto a punto per permetterci di esaminarli meglio.",
-        "th": "การโจมตีทางสงครามข้อมูลข่าวสารที่ยิงขีปนาวุธจมเรือวอลช์ผ่านโซล ฉันตามรอยมันย้อนกลับไปไกลกว่าสถานีสวิตช์ไม่ได้ และฉันก็ไม่แน่ใจด้วยซ้ำว่ามันไม่ได้เริ่มต้นที่นั่น มันเป็นไปได้ทีเดียวว่าเกาหลีใต้บงการให้เราเข้าสู่สงครามโดยบีบให้ฝ่ายเหนือโจมตีสหรัฐฯ ฉันจะลองแฮกเข้าไปเอง แต่ท่อข้อมูลนี้ใหญ่และปลอดภัยดี และความเสียหายจากการสู้รบก็ตัดช่องทางเข้าออกส่วนใหญ่ออกไปแล้ว คุณต้องเข้าไปเก็บข้อมูลด้วยมือ แล้วส่งมันออกแบบจุดต่อจุดเพื่อให้เราดูใกล้ๆ"
+        "th": "กริมส์ดอตเตียร์ - การโจมตีทางสงครามข้อมูลข่าวสารที่ยิงขีปนาวุธจมเรือวอลช์ผ่านโซล ฉันตามรอยมันย้อนกลับไปไกลกว่าสถานีสวิตช์ไม่ได้ และฉันก็ไม่แน่ใจด้วยซ้ำว่ามันไม่ได้เริ่มต้นที่นั่น มันเป็นไปได้ทีเดียวว่าเกาหลีใต้บงการให้เราเข้าสู่สงครามโดยบีบให้ฝ่ายเหนือโจมตีสหรัฐฯ ฉันจะลองแฮกเข้าไปเอง แต่ท่อข้อมูลนี้ใหญ่และปลอดภัยดี และความเสียหายจากการสู้รบก็ตัดช่องทางเข้าออกส่วนใหญ่ออกไปแล้ว คุณต้องเข้าไปเก็บข้อมูลด้วยมือ แล้วส่งมันออกแบบจุดต่อจุดเพื่อให้เราดูใกล้ๆ"
       },
       "Speech_0003L": {
         "en": "REDDING - CIA maintains several safe houses in Seoul to facilitate insertion of agents and recovery of possible defectors. Usually they are set up to look like ordinary residences. I'm currently working out a plan to have you forward-inserted into one of these safe houses before 2 I.D. performs another major retrograde. Once you're in, our boys will retreat, and the NKA front will overrun and bypass your location, leaving you in the wake of the main force, but still in advance of the support troops. You'll have a small zone of comfort and I would strongly advise you not to stray from you're A.O. You don't want to encounter a battalion sized force.",
@@ -106,7 +106,7 @@
         "de": "Die CIA besitzt einige Gebäude in Seoul, um von dort Agenten einzuschleusen und mögliche Überläufer in Sicherheit zu bringen. Für gewöhnlich sehen diese Gebäude wie ganz normale Wohnhäuser aus. Der Plan, den ich gerade ausarbeite, sieht vor, dass wir dich in einem dieser Häuser absetzen, bevor die 2. Infanteriedivision mit dem weiteren Rückzug beginnt. Sobald du im Haus bist, ziehen sich unsere Jungs zurück. Dann wird das Gebiet von der nordkoreanischen Armee überrannt. Du bleibst auf diese Weise hinter der ersten Angriffswelle, aber vor dem Nachschub der Nordkoreaner... das dürfte dir ein wenig Luft verschaffen. Ich rate dir allerdings dringend davon ab, dein Einsatzgebiet zu verlassen. Du willst dich doch sicher nicht mit einem Gegner in Bataillonsstärke anlegen, oder?",
         "es": "La CÍA tiene varios refugios en Seúl que sirven para facilitar la entrada a sus agentes y esconder disidentes. Suelen camuflarlos como domicilios normales. Estoy preparando un plan para introducirte en uno de esos refugios antes de que se produzca otra retirada masiva de agentes dobles. Cuando estés dentro, nuestros hombres se retirarán, y el frente norcoreano sobrepasará tu posición. Eso te dejará detrás de la fuerza principal, pero por delante de las tropas de apoyo. Tendrás una pequeña zona de seguridad, así que te recomiendo que no salgas de ella si no quieres encontrarte con un batallón enemigo entero.",
         "it": "La CIA ha diverse basi sicure a Seul per facilitare l'inserimento di agenti e il recupero di possibili disertori. Di solito hanno l'aspetto di case normali. Sto pianificando il tuo inserimento in una di queste case prima che la 2a Divisione di Fanteria effettui un'altra ritirata. Quando sarai dentro i ragazzi si ritireranno e i nordcoreani supereranno la tua posizione, lasciandoti nella scia della forza principale ma davanti alle truppe di supporto. Disporrai di una piccola zona di sicurezza e ti suggerisco di non deviare dall'obiettivo assegnato. Non ti conviene scontrarti con un battaglione al completo.",
-        "th": "CIA มีเซฟเฮาส์หลายแห่งในโซลเพื่ออำนวยความสะดวกในการส่งเจ้าหน้าที่เข้าไปและรับตัวผู้แปรพักตร์ ปกติพวกเขาจัดให้ดูเหมือนบ้านพักธรรมดา ตอนนี้ฉันกำลังวางแผนส่งคุณล่วงหน้าเข้าไปในเซฟเฮาส์แห่งหนึ่ง ก่อนที่ 2 I.D. จะถอยร่นครั้งใหญ่อีกครั้ง พอคุณเข้าไปแล้ว คนของเราจะถอย และแนวหน้าของ NKA จะบุกผ่านและข้ามตำแหน่งของคุณไป ทำให้คุณอยู่ข้างหลังกองกำลังหลัก แต่ยังอยู่หน้ากองหนุน คุณจะมีพื้นที่ปลอดภัยแคบๆ และฉันขอแนะนำอย่างยิ่งว่าอย่าไปนอกเขตปฏิบัติการของคุณ คุณไม่อยากเจอกองกำลังระดับกองพันหรอก"
+        "th": "เรดดิง - CIA มีเซฟเฮาส์หลายแห่งในโซลเพื่ออำนวยความสะดวกในการส่งเจ้าหน้าที่เข้าไปและรับตัวผู้แปรพักตร์ ปกติพวกเขาจัดให้ดูเหมือนบ้านพักธรรมดา ตอนนี้ฉันกำลังวางแผนส่งคุณล่วงหน้าเข้าไปในเซฟเฮาส์แห่งหนึ่ง ก่อนที่ 2 I.D. จะถอยร่นครั้งใหญ่อีกครั้ง พอคุณเข้าไปแล้ว คนของเราจะถอย และแนวหน้าของ NKA จะบุกผ่านและข้ามตำแหน่งของคุณไป ทำให้คุณอยู่ข้างหลังกองกำลังหลัก แต่ยังอยู่หน้ากองหนุน คุณจะมีพื้นที่ปลอดภัยแคบๆ และฉันขอแนะนำอย่างยิ่งว่าอย่าไปนอกเขตปฏิบัติการของคุณ คุณไม่อยากเจอกองกำลังระดับกองพันหรอก"
       },
       "Speech_0004L": {
         "en": "SECRETARY MASSON - USS Ronald Reagan is ready to launch an EA-6B Prowler rigged with a point-to-point laser receiver rig. Your man will be given a special transmitter that will track the plane and transmit the data. This comms set-up is 100 per cent secure. Nothing is broadcast, so nothing can be intercepted... never mind decrypted. Once your man is in position, we'll send in the plane and get the data... but this is still a highly risky operation... whatever you're promising me better be worth it. These planes are worth sixty-million dollars you know.",
@@ -1015,7 +1015,7 @@
         "de": "Verstanden ... fragen Sie ihn, wo sie Jong hingebracht haben.",
         "es": "Recibido. Pregúntale dónde cogieron a Jong.",
         "it": "Ricevuto... gli chieda dove hanno portato Jong.",
-        "th": "สายลับทหารหนึ่ง - รับทราบ... ถามมันว่าพวกมันพาจงไปที่ไหน"
+        "th": "ทหารสารวัตร - รับทราบ... ถามมันว่าพวกมันพาจงไปที่ไหน"
       },
       "Speech_0034L": {
         "en": "FISHER - Where did you take Jong?",
@@ -1023,7 +1023,7 @@
         "de": "Wo habt ihr Jong hingebracht?",
         "es": "¿Dónde cogisteis a Jong?",
         "it": "Dove avete portato Jong?",
-        "th": "พวกแกพาจงไปที่ไหน?"
+        "th": "ฟิชเชอร์ - พวกแกพาจงไปที่ไหน?"
       },
       "Speech_0035L": {
         "en": "NKElite_Soo - I... I don't know what you're talking about...",
@@ -1039,7 +1039,7 @@
         "de": "Er weiß es nicht ... soll ich ihn umlegen?",
         "es": "No contesta. ¿Lo elimino?",
         "it": "Non risponde... devo ucciderlo?",
-        "th": "มันไม่ยอมตอบ... ฉันฆ่ามันเลยไหม?"
+        "th": "ฟิชเชอร์ - มันไม่ยอมตอบ... ฉันฆ่ามันเลยไหม?"
       },
       "Speech_0137L": {
         "en": "MP_One - Negative! Negative!",
@@ -1047,7 +1047,7 @@
         "de": "Negativ! Negativ!",
         "es": "¡Negativo! ¡Negativo!",
         "it": "Negativo! Negativo!",
-        "th": "สายลับทหารหนึ่ง - ไม่! ไม่!"
+        "th": "ทหารสารวัตร - ไม่! ไม่!"
       },
       "Speech_0038L": {
         "en": "FISHER - Alright... they say I should kill you, so--",
@@ -1055,7 +1055,7 @@
         "de": "Okay ... sie sagen, dass ich dich umlegen soll, also ...",
         "es": "Me han dicho que te elimine, así que...",
         "it": "Ricevuto... dicono che devo ucciderti, quindi...",
-        "th": "เอาล่ะ... พวกเขาบอกให้ฉันฆ่าแก งั้น--"
+        "th": "ฟิชเชอร์ - เอาล่ะ... พวกเขาบอกให้ฉันฆ่าแก งั้น--"
       },
       "Speech_0039L": {
         "en": "NKElite_Soo - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
@@ -1071,7 +1071,7 @@
         "de": "War es das, was ihr wissen wolltet, Jungs?",
         "es": "¿Era lo que queríais saber, chicos?",
         "it": "È quello che volevate sapere, ragazzi?",
-        "th": "นั่นคือสิ่งที่พวกคุณอยากรู้หรือเปล่า?"
+        "th": "ฟิชเชอร์ - นั่นคือสิ่งที่พวกคุณอยากรู้หรือเปล่า?"
       },
       "Speech_0139L": {
         "en": "MP_One - Ah... affirmative... thanks a lot, sir. We owe you one.",
@@ -1079,7 +1079,7 @@
         "de": "Äh ... bestätigt ... danke sehr, Sir. Wir schulden Ihnen was.",
         "es": "Afirmativo, señor. Muchas gracias. Le debemos una.",
         "it": "Ehm... affermativo... grazie, signore. Le siamo in debito.",
-        "th": "สายลับทหารหนึ่ง - อ่า... ถูกต้องครับ... ขอบคุณมากครับท่าน เราติดหนี้คุณหนึ่งครั้ง"
+        "th": "ทหารสารวัตร - อ่า... ถูกต้องครับ... ขอบคุณมากครับท่าน เราติดหนี้คุณหนึ่งครั้ง"
       },
       "Speech_0140L": {
         "en": "FISHER - Welcome to the team.",
@@ -1087,7 +1087,7 @@
         "de": "Willkommen im Team.",
         "es": "Bienvenidos al equipo.",
         "it": "Benvenuti nella squadra.",
-        "th": "ยินดีต้อนรับสู่ทีม"
+        "th": "ฟิชเชอร์ - ยินดีต้อนรับสู่ทีม"
       },
       "Speech_0141L": {
         "en": "FISHER - Shut it... LAMBERT... I've got one.",
@@ -1111,7 +1111,7 @@
         "de": "Wo habt ihr Jong hingebracht?",
         "es": "¿Dónde cogisteis a Jong?",
         "it": "Dove avete portato Jong?",
-        "th": "พวกแกพาจงไปที่ไหน?"
+        "th": "ฟิชเชอร์ - พวกแกพาจงไปที่ไหน?"
       },
       "Speech_0144L": {
         "en": "NKElite_Soo - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
@@ -1234,7 +1234,7 @@
         "de": "Verstanden ... fragen Sie ihn, wo sie Jong hingebracht haben.",
         "es": "Recibido. Pregúntale dónde cogieron a Jong.",
         "it": "Ricevuto... gli chieda dove hanno portato Jong.",
-        "th": "สายลับทหารหนึ่ง - รับทราบ... ถามมันว่าพวกมันพาจงไปที่ไหน"
+        "th": "ทหารสารวัตร - รับทราบ... ถามมันว่าพวกมันพาจงไปที่ไหน"
       },
       "Speech_0010L": {
         "en": "FISHER - Where did you take Jong?",
@@ -1242,7 +1242,7 @@
         "de": "Wo habt ihr Jong hingebracht?",
         "es": "¿Dónde cogisteis a Jong?",
         "it": "Dove avete portato Jong?",
-        "th": "พวกแกพาจงไปที่ไหน?"
+        "th": "ฟิชเชอร์ - พวกแกพาจงไปที่ไหน?"
       },
       "Speech_0011L": {
         "en": "NKElite_Li - I... I don't know what you're talking about...",
@@ -1258,7 +1258,7 @@
         "de": "Er weiß es nicht ... soll ich ihn umlegen?",
         "es": "No contesta. ¿Lo elimino?",
         "it": "Non risponde... devo ucciderlo?",
-        "th": "มันไม่ยอมตอบ... ฉันฆ่ามันเลยไหม?"
+        "th": "ฟิชเชอร์ - มันไม่ยอมตอบ... ฉันฆ่ามันเลยไหม?"
       },
       "Speech_0013L": {
         "en": "MP_One - Negative! Negative!",
@@ -1266,7 +1266,7 @@
         "de": "Negativ! Negativ!",
         "es": "¡Negativo! ¡Negativo!",
         "it": "Negativo! Negativo!",
-        "th": "สายลับทหารหนึ่ง - ไม่! ไม่!"
+        "th": "ทหารสารวัตร - ไม่! ไม่!"
       },
       "Speech_0014L": {
         "en": "FISHER - Alright... they say I should kill you, so--",
@@ -1274,7 +1274,7 @@
         "de": "Okay ... sie sagen, dass ich dich umlegen soll, also ...",
         "es": "Me han dicho que te elimine, así que...",
         "it": "Ricevuto... dicono che devo ucciderti, quindi...",
-        "th": "เอาล่ะ... พวกเขาบอกให้ฉันฆ่าแก งั้น--"
+        "th": "ฟิชเชอร์ - เอาล่ะ... พวกเขาบอกให้ฉันฆ่าแก งั้น--"
       },
       "Speech_0015L": {
         "en": "NKElite_Li - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
@@ -1290,7 +1290,7 @@
         "de": "War es das, was ihr wissen wolltet, Jungs?",
         "es": "¿Era lo que queríais saber, chicos?",
         "it": "È quello che volevate sapere, ragazzi?",
-        "th": "นั่นคือสิ่งที่พวกคุณอยากรู้หรือเปล่า?"
+        "th": "ฟิชเชอร์ - นั่นคือสิ่งที่พวกคุณอยากรู้หรือเปล่า?"
       },
       "Speech_0017L": {
         "en": "MP_One - Ah... affirmative... thanks a lot, sir. We owe you one.",
@@ -1298,7 +1298,7 @@
         "de": "Äh ... bestätigt ... danke sehr, Sir. Wir schulden Ihnen was.",
         "es": "Afirmativo, señor. Muchas gracias. Le debemos una.",
         "it": "Ehm... affermativo... grazie, signore. Le siamo in debito.",
-        "th": "สายลับทหารหนึ่ง - อ่า... ถูกต้องครับ... ขอบคุณมากครับท่าน เราติดหนี้คุณหนึ่งครั้ง"
+        "th": "ทหารสารวัตร - อ่า... ถูกต้องครับ... ขอบคุณมากครับท่าน เราติดหนี้คุณหนึ่งครั้ง"
       },
       "Speech_0018L": {
         "en": "FISHER - Welcome to the team.",
@@ -1306,7 +1306,7 @@
         "de": "Willkommen im Team.",
         "es": "Bienvenidos al equipo.",
         "it": "Benvenuti nella squadra.",
-        "th": "ยินดีต้อนรับสู่ทีม"
+        "th": "ฟิชเชอร์ - ยินดีต้อนรับสู่ทีม"
       },
       "Speech_0028L": {
         "en": "FISHER - Shut it... LAMBERT... I've got one.",
@@ -1330,7 +1330,7 @@
         "de": "Wo habt ihr Jong hingebracht?",
         "es": "¿Dónde cogisteis a Jong?",
         "it": "Dove avete portato Jong?",
-        "th": "พวกแกพาจงไปที่ไหน?"
+        "th": "ฟิชเชอร์ - พวกแกพาจงไปที่ไหน?"
       },
       "Speech_0031L": {
         "en": "NKElite_Li - Wait... okay... Jong... we moved him to a cyber café just off the fish market by the river.",
@@ -1837,7 +1837,7 @@
         "de": "Unsere mutigen und stolzen chinesischen Brüder haben den amerikanischen Unterdrückern die Stirn geboten!",
         "es": "¡Nuestros nobles hermanos chinos se han resistido a los opresores americanos!",
         "it": "I nostri fieri e nobili fratelli cinesi hanno superato gli oppressori americani!",
-        "th": "พลทหารเกาหลีเหนือเอ - พี่น้องจีนผู้ดุร้ายและสูงส่งของเราลุกขึ้นต่อสู้ผู้กดขี่อเมริกันแล้ว!"
+        "th": "พลทหารเกาหลีเหนือเอ - พี่น้องจีนผู้ห้าวหาญและสูงส่งของเราลุกขึ้นต่อสู้ผู้กดขี่อเมริกันแล้ว!"
       },
       "Speech_0004L": {
         "en": "NKSol_B - You mean... they have entered the war!?",

@@ -36,7 +36,7 @@
         "de": "Sie brauchen zwei Männer, um eine Bombe im Notfall zu entschärfen. Die beiden müssen den aktiven Draht zur selben Zeit durchtrennen. Dieser Vorgang muss zweimal durchgeführt werden. Beim ersten Mal kommt es zur Deaktivierung der Laserverbindung, und unser zweites Sicherheitssystem wird eingeschaltet... Ich weiSS, das ist ein bisschen kompliziert, aber es soll hier ja schlieSSlich kein Unberufener reinschneien und unsere Bomben deaktivieren, oder?... Ach, das hätte ich fast vergessen, das aktive Kabel bleibt nicht lang aktiv... VG",
         "es": "Para desarmar la bomba en caso de emergencia son necesarios dos hombres, pues tienen que cortar el cable activo al mismo tiempo. Esta acción deberá hacerse dos veces; el primer corte desactiva el haz láser, pero pone en marcha nuestro segundo sistema de seguridad... Sé que parece complejo, pero no queremos que un fisgón pueda entrar y desactivar nuestras bombas, ¿verdad? Ah, lo olvidaba: el cable activo no está así durante mucho tiempo. Hay que tener cuidado.",
         "it": "In caso d'emergenza, per disinnescare una bomba servono due uomini. I due devono tagliare contemporaneamente il cavo attivo. Bisogna eseguire l'azione due volte. Il primo taglio disattiverà il collegamento laser ma attiverà il secondo sistema di sicurezza... so che è difficile, ma non vogliamo che qualche nemico solitario entri di nascosto e disinneschi le bombe, giusto? Ah, dimenticavo, il cavo attivo non resterà acceso a lungo... fai attenzione.",
-        "th": "การปลดระเบิดในกรณีฉุกเฉินต้องใช้คนสองคน ทั้งสองต้องตัดสายไฟที่มีกระแสไฟฟ้าพร้อมกัน การทำเช่นนี้จะปิดการเชื่อมต่อด้วยเลเซอร์และเริ่มระบบรักษาความปลอดภัยชุดที่สอง ในการปลดระบบนั้น พวกเขาต้องตัดสายไฟที่มีกระแสไฟฟ้าเส้นที่สองพร้อมกันอีกครั้ง สายไฟที่มีกระแสจะสลับไปมาเป็นครั้งคราว ระวังให้ดี ฉันรู้ว่ามันยุ่งยาก แต่เราไม่อยากให้ใครที่คิดจะเล่นคนเดียวแอบเข้ามาปลดระเบิดของเรา ใช่ไหมล่ะ..."
+        "th": "การปลดระเบิดในกรณีฉุกเฉินต้องใช้คนสองคน ทั้งสองต้องตัดสายไฟที่มีกระแสไฟฟ้าพร้อมกัน การทำเช่นนี้จะปิดการเชื่อมต่อด้วยเลเซอร์และเริ่มระบบรักษาความปลอดภัยชุดที่สอง ในการปลดระบบนั้น พวกเขาต้องตัดสายไฟที่มีกระแสไฟฟ้าเส้นที่สองพร้อมกันอีกครั้ง สายไฟที่มีกระแสจะสลับไปมาเป็นครั้งคราว ระวังให้ดี ฉันรู้ว่ามันยุ่งยาก แต่เราไม่อยากให้คนที่ชอบทำอะไรคนเดียวแอบเข้ามาปลดระเบิดของเรา ใช่ไหมล่ะ..."
       },
       "EmailDiffusalDate": {
         "en": "October 18",
@@ -149,7 +149,7 @@
         "de": "Wie es aussieht, hat Kim seine Männer über das gesamte Gebiet verteilt. Ihr werdet eine schöne Strecke zurücklegen müssen, um den Bahnhof zu erreichen.",
         "es": "Sabemos que Kim tiene hombres por toda la zona. Tendréis que cubrir cierta distancia para llegar a la propia estación.",
         "it": "A quanto ci risulta, Kim ha uomini in tutta l'area. Dovrete coprire una certa distanza per arrivare all'edificio della stazione vero e proprio.",
-        "th": "แลมเบิร์ต - เท่าที่เราบอกได้ คิมมีคนกระจายอยู่ทั่วพื้นที่ คุณต้องฝ่าพื้นที่ไปพอสมควรกว่าจะถึงตัวสถานี"
+        "th": "แลมเบิร์ต - เท่าที่เราพอจะบอกได้ คิมมีคนกระจายอยู่ทั่วพื้นที่ คุณต้องฝ่าพื้นที่ไปพอสมควรกว่าจะถึงตัวสถานี"
       },
       "Speech_0002L": {
         "en": "LAMBERT - My god... they aren't fooling around. It looks like they've rigged the subway tunnels under the station with bombs. You'll need to disarm them all before going eavesdropping on that phone call.",
@@ -368,7 +368,7 @@
         "de": "Beeilt euch ... und seid vorsichtig. Diese Dinger sind empfindlich. Ich will nicht, dass der Laden hier einstürzt, solange ich mich noch in seinem Inneren befinde.",
         "es": "Tened cuidado. Esas cosas son muy sensibles. No quiero que este lugar vuele conmigo dentro.",
         "it": "Beh, sbrigatevi... e state attenti. Quegli affari sono sensibili, non voglio che questo posto mi crolli in testa.",
-        "th": "ชู - งั้นก็รีบๆ... และระวังด้วย ของพวกนั้นไวต่อการสั่นสะเทือน ฉันไม่อยากให้ที่นี่ถล่มลงมาตอนที่ฉันยังอยู่ข้างใน"
+        "th": "ชู - งั้นก็รีบๆ... และระวังด้วย ของพวกนั้นไวมาก ฉันไม่อยากให้ที่นี่ถล่มลงมาตอนที่ฉันยังอยู่ข้างใน"
       },
       "Speech_0004L": {
         "en": "SOLDIER - Yes sir.",
@@ -805,7 +805,7 @@
         "de": "Chu, ein Agent von Kim, wird einen Anruf an einem öffentlichen Telefon in der Haupthalle entgegennehmen. Verwanzen Sie das Telefon vor dem Anruf, damit das Gespräch mitgehört werden kann.",
         "es": "Chu, uno de los hombres de Kim, recibirá una llamada de teléfono en un teléfono público de la entrada principal. Pincha el teléfono antes de que se produzca la llamada para espiar la conversación.",
         "it": "Chu, uno degli agenti di Kim, riceverà una chiamata in un telefono a gettoni nell'atrio. Metti una cimice nel telefono prima che arrivi la chiamata per poter ascoltare la conversazione.",
-        "th": "ชู เจ้าหน้าที่ของคิม จะรับสายโทรศัพท์ที่ตู้สาธารณะในห้องโถงหลัก ติดเครื่องดักฟังที่โทรศัพท์ก่อนสายจะเข้ามาเพื่อดักฟังบทสนทนา"
+        "th": "ชู คนของคิม จะรับสายโทรศัพท์ที่ตู้สาธารณะในห้องโถงหลัก ติดเครื่องดักฟังที่โทรศัพท์ก่อนสายจะเข้ามาเพื่อดักฟังบทสนทนา"
       },
       "POPUPMESSAGE_0031": {
         "en": "Deactivate the bombs under Train Station.",

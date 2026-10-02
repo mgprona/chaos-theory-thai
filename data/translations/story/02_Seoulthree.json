@@ -253,7 +253,7 @@
         "de": "Wie lange müssen wir für ihn den Babysitter spielen?",
         "es": "¿Cuánto tiempo tenemos que hacer de niñeras?",
         "it": "Per quanto ancora dovermo fargli da balia?",
-        "th": "พลทหารจิน - เราต้องคอยเฝ้าเลี้ยงดูเขาไปอีกนานแค่ไหน?"
+        "th": "พลทหารจิน - เราต้องคอยเฝ้าดูแลเขาไปอีกนานแค่ไหน?"
       },
       "Speech_0004L": {
         "en": "NKSol_Ming- Those special forces guys said that another team will come pick him up at dawn... once the fighting calms down for the day.",
@@ -315,7 +315,7 @@
         "de": "Die Aufklärung meldet, dass Jong sich in einem kleinen Hotel in der Nähe Ihres Absetzpunkts aufhält. Jong muss lebend gefangen genommen werden.",
         "es": "Inteligencia dice que Jong se aloja en un pequeño hotel, cerca del punto de inserción. Debes capturarlo vivo.",
         "it": "Le nostre informazioni dicono che Jong alloggia in un alberghetto non lontano dal punto di inserimento. Jong deve essere catturato vivo.",
-        "th": "หน่วยข่าวกรองระบุว่าจงพักอยู่ในโรงแรมเล็กๆ ไม่ไกลจากจุดแทรกซึม ต้องจับตัวจงให้ได้ทั้งเป็น"
+        "th": "หน่วยข่าวกรองระบุว่าจงพักอยู่ในโรงแรมเล็กๆ ไม่ไกลจากจุดเริ่มปฏิบัติการ ต้องจับตัวจงให้ได้ทั้งเป็น"
       },
       "POPUPMESSAGE_0042": {
         "en": "Capture Jong Pom-chu",
@@ -459,7 +459,7 @@
         "de": "Schalten Sie die Panzer aus, indem einer dem anderen auf die Schultern klettert.",
         "es": "Desactiva los tanques subiendo a hombros de alguien.",
         "it": "Mettete fuori uso i carri armati arrampicandovi uno sulle spalle dell'altro",
-        "th": "ปีนไต่บ่าของอีกคนเพื่อขึ้นไปทำให้รถถังใช้การไม่ได้"
+        "th": "ปีนขึ้นไปบนบ่าของอีกคนเพื่อทำให้รถถังใช้การไม่ได้"
       },
       "Objective_0055": {
         "en": "Interrogate the North Korean Officer to find out where Jong is",
@@ -483,7 +483,7 @@
         "de": "Begeben sie sich zu dem internetcafé wo sich Jong bewacht wird.",
         "es": "Ve al cibercafé donde tienen vigilado a Jong.",
         "it": "Vai al cyber-café in cui viene tenuto prigioniero Jong",
-        "th": "ไปให้ถึงร้านอินเทอร์เน็ตคาเฟ่ที่จงถูกคุ้มกันอยู่"
+        "th": "ไปให้ถึงร้านอินเทอร์เน็ตที่จงถูกคุ้มกันอยู่"
       },
       "Objective_0018": {
         "en": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
@@ -491,7 +491,7 @@
         "de": "Nordkoreanische Spezialeinheiten haben Jong zum Internetcafé gebracht, um ihn aus Seoul zu entführen. Holen Sie Jong lebend dort heraus.",
         "es": "Las fuerzas especiales norcoreanas se han llevado a Jong a otro lugar y preparan su extracción desde Seúl. Ve al cibercafé y atrápale vivo.",
         "it": "Le forze speciali nordcoreane hanno spostato Jong in preparazione alla sua estrazione da Seul. Vai al cyber-café e cattura Jong vivo.",
-        "th": "หน่วยรบพิเศษเกาหลีเหนือย้ายตัวจงเพื่อเตรียมพาเขาออกจากโซล ไปให้ถึงร้านอินเทอร์เน็ตคาเฟ่และจับตัวจงให้ได้ทั้งเป็น"
+        "th": "หน่วยรบพิเศษเกาหลีเหนือย้ายตัวจงเพื่อเตรียมพาเขาออกจากโซล ไปให้ถึงร้านอินเทอร์เน็ตและจับตัวจงให้ได้ทั้งเป็น"
       },
       "POPUPMESSAGE_0045": {
         "en": "Get to the cyber café where Jong is being protected.",
@@ -499,7 +499,7 @@
         "de": "Begeben Sie sich zu dem Internetcafè, in dem Jong bewacht wird.",
         "es": "Ve al cibercafé donde tienen escondido a Jong.",
         "it": "Raggiungi il cyber cafè dove Jong viene protetto.",
-        "th": "ไปให้ถึงร้านอินเทอร์เน็ตคาเฟ่ที่จงถูกคุ้มกันอยู่"
+        "th": "ไปให้ถึงร้านอินเทอร์เน็ตที่จงถูกคุ้มกันอยู่"
       },
       "Objective_0009": {
         "en": "Get to extraction with Jong",
@@ -515,7 +515,7 @@
         "de": "Führen Sie Jong zu dem Lkw vor dem Internetcafé und bringen Sie ihn in Sicherheit. ",
         "es": "Lleva a Jong al camión que hay fuera del café para su extracción. ",
         "it": "Porta Jong al camion fuori dal cyber-café per portarlo in salvo. ",
-        "th": "พาจงไปที่รถบรรทุกนอกร้านอินเทอร์เน็ตคาเฟ่เพื่อพาเขาออกไปอย่างปลอดภัย "
+        "th": "พาจงไปที่รถบรรทุกนอกร้านอินเทอร์เน็ตเพื่อพาเขาออกไปอย่างปลอดภัย "
       },
       "POPUPMESSAGE_0046": {
         "en": "Get to extraction with Jong",
@@ -531,7 +531,7 @@
         "de": "Get to the cyber café where Jong is being protected.",
         "es": "Get to the cyber café where Jong is being protected.",
         "it": "Get to the cyber café where Jong is being protected.",
-        "th": "ไปให้ถึงร้านอินเทอร์เน็ตคาเฟ่ที่จงถูกคุ้มกันอยู่"
+        "th": "ไปให้ถึงร้านอินเทอร์เน็ตที่จงถูกคุ้มกันอยู่"
       },
       "Objective_0058": {
         "en": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
@@ -539,7 +539,7 @@
         "de": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
         "es": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
         "it": "North Korean Special Forces have relocated Jong in preparation to extract him from Seoul. Get to the cyber café and capture Jong alive.",
-        "th": "หน่วยรบพิเศษเกาหลีเหนือย้ายตัวจงเพื่อเตรียมพาเขาออกจากโซล ไปให้ถึงร้านอินเทอร์เน็ตคาเฟ่และจับตัวจงให้ได้ทั้งเป็น"
+        "th": "หน่วยรบพิเศษเกาหลีเหนือย้ายตัวจงเพื่อเตรียมพาเขาออกจากโซล ไปให้ถึงร้านอินเทอร์เน็ตและจับตัวจงให้ได้ทั้งเป็น"
       },
       "Note_0021L": {
         "en": "Jong will escape by boat",
@@ -555,7 +555,7 @@
         "de": "Sabotieren Sie den Motor von Jongs Schiff.",
         "es": "Sabotea el motor de la barca de Jong.",
         "it": "Sabota il motore della barca di Jong",
-        "th": "ทำลายเครื่องยนต์บนเรือของจง"
+        "th": "ทำให้เครื่องยนต์บนเรือของจงใช้การไม่ได้"
       },
       "Objective_0023": {
         "en": "Jong's emergency escape plan is to take the boat docked in the fish market.",
@@ -571,7 +571,7 @@
         "de": "Sabotieren Sie Jongs Fluchtschiff.",
         "es": "Sabotea la lancha de huída de Jong.",
         "it": "Sabota la barca per la fuga di Jong.",
-        "th": "ทำลายเรือหลบหนีของจง"
+        "th": "ทำให้เรือหลบหนีของจงใช้การไม่ได้"
       },
       "Objective_0020": {
         "en": "Jong's emergency escape plan is to take the boat docked in the fish market.",
@@ -991,7 +991,7 @@
         "de": "He, Moment! Okay ... Jong ... wir haben ihn in das Internetcafe beim Fischmarkt am Fluss gebracht ...",
         "es": "Un momento... Jong... Lo llevamos a un cibercafé, junto al mercado del  río.",
         "it": "Aspetta... ok... Jong... l'abbiamo portato in un Internet point appena fuori dal mercato del pesce, vicino al fiume.",
-        "th": "ทหารหน่วยพิเศษซู - เดี๋ยว... เอาล่ะ... จง... เราย้ายเขาไปที่ร้านอินเทอร์เน็ตคาเฟ่แถวตลาดปลาใกล้แม่น้ำ"
+        "th": "ทหารหน่วยพิเศษซู - เดี๋ยว... เอาล่ะ... จง... เราย้ายเขาไปที่ร้านอินเทอร์เน็ตแถวตลาดปลาใกล้แม่น้ำ"
       },
       "Speech_0025L": {
         "en": "Fisher- Is that what you needed to know guys?",
@@ -1031,7 +1031,7 @@
         "de": "Muss sein Codename sein ...",
         "es": "Será su nombre de guerra.",
         "it": "Sarà il suo codice...",
-        "th": "สายลับสอง - คงเป็นสัญญาณเรียกของเขา..."
+        "th": "สายลับสอง - คงเป็นรหัสเรียกขานของเขา..."
       },
       "Speech_0030L": {
         "en": "AgentOne- You think there are other Splinter Cells?",
@@ -1055,7 +1055,7 @@
         "de": "He, ihr zwei, hört auf zu quatschen. Macht, dass ihr zu dem Internetcafe kommt ... und zwar schnell.",
         "es": "Vosotros dos, cortad la charla. Al cibercafé, rápido.",
         "it": "Piantatela di chiacchierare, voi due. Andate a quel cyber café... e in fretta.",
-        "th": "แลมเบิร์ต - เลิกคุยเล่นได้แล้วทั้งสองคน รีบไปที่ร้านอินเทอร์เน็ตคาเฟ่... เร็วเข้า"
+        "th": "แลมเบิร์ต - เลิกคุยเล่นได้แล้วทั้งสองคน รีบไปที่ร้านอินเทอร์เน็ต... เร็วเข้า"
       },
       "Speech_0047L": {
         "en": "Lambert- It looks like Jong has a boat down there in case he needs to make an emergency escape. Might be a good idea to cut off his exit scenario.",
@@ -1095,7 +1095,7 @@
         "de": "Jong versucht zu seinem Boot zu kommen. Zum Glück, habt ihr es stillgelegt. Los, schnappt ihn euch bei der Anlegestelle und bringt ihn zurück zum Lastwagen.",
         "es": "¡Jong intenta llegar a su barca! Menos mal que la habéis inutilizado. Sacadle del muelle y llevadlo al camión.",
         "it": "Jong sta cercando di arrivare alla sua barca. Avete fatto bene a metterla fuori uso. Andate a prenderlo al molo e riportatelo al camion.",
-        "th": "แลมเบิร์ต - จงกำลังพยายามไปที่เรือของเขา ดีที่คุณทำลายมันไว้แล้ว ไปจับเขาที่ท่าเรือแล้วพากลับมาที่รถบรรทุก"
+        "th": "แลมเบิร์ต - จงกำลังพยายามไปที่เรือของเขา ดีที่คุณทำให้มันใช้การไม่ได้ ไปจับเขาที่ท่าเรือแล้วพากลับมาที่รถบรรทุก"
       },
       "Speech_0034L": {
         "en": "Lambert- My God! What are you thinking?! I told you we needed Jong alive! Neither of you will ever qualify as Splinter Cell operatives! Mission Over!",

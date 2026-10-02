@@ -678,7 +678,7 @@
         "de": "QUIT TO DEMOS MENU",
         "es": "QUIT TO DEMOS MENU",
         "it": "QUIT TO DEMOS MENU",
-        "th": "ออกจากเกม"
+        "th": "ออกไปเมนูเดโม"
       },
       "PressStart": {
         "en": "PRESS START TO CONTINUE",
@@ -2969,7 +2969,7 @@
         "de": "ANNA GRIMSDOTTIR",
         "es": "ANNA GRIMSDOTTIR",
         "it": "ANNA GRIMSDOTTIR",
-        "th": "แอนนา กริมสดอตตีร์"
+        "th": "แอนนา กริมส์ดอตเตียร์"
       },
       "REDDING": {
         "en": "WILLIAM REDDING",
@@ -2993,7 +2993,7 @@
         "de": "ADMIRAL TOSHIRO OTOMO",
         "es": "ALMIRANTE TOSHIRO OTOMO",
         "it": "AMMIRAGLIO TOSHIRO OTOMO",
-        "th": "พลเรือเอก โทชิโร โอโตโมะ"
+        "th": "พลเรือเอก โทชิโร โอโตโม"
       },
       "PATRIDGE": {
         "en": "CAPTAIN ARTHUR PARTRIDGE",
@@ -3033,7 +3033,7 @@
         "de": "EINSATZBESPRECHUNG - ANNA GRIMSDOTTIR",
         "es": "EXPEDIENTE DE ANNA GRIMSDOTTIR",
         "it": "BRIEFING DI ANNA GRIMSDOTTIR",
-        "th": "ข้อมูลสรุปจากแอนนา กริมสดอตตีร์"
+        "th": "ข้อมูลสรุปจากแอนนา กริมส์ดอตเตียร์"
       },
       "Briefing_REDDING": {
         "en": "WILLIAM REDDING BRIEFING",
@@ -3057,7 +3057,7 @@
         "de": "EINSATZBESPRECHUNG - ADMIRAL TOSHIRO OTOMO",
         "es": "ALMIRANTE TOSHIRO OTOMO",
         "it": "BRIEFING DELL'AMMIRAGLIO TOSHIRO OTOMO",
-        "th": "ข้อมูลสรุปจากพลเรือเอก โทชิโร โอโตโมะ"
+        "th": "ข้อมูลสรุปจากพลเรือเอก โทชิโร โอโตโม"
       },
       "Briefing_PATRIDGE": {
         "en": "CAPTAIN ARTHUR PARTRIDGE BRIEFING",
