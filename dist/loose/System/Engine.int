@@ -71,8 +71,8 @@ UpgradeQuestion=คุณต้องการเปิดเว็บเบราว์เซอร์เพื่อไปยังหน้าอัปเดตตอนนี้หรือไม่?
 Version=เวอร์ชัน %i
 
 [Menu]
-HelpMessage=คำแนะนำช่วยเหลือ
-MenuList=รายการเมนู
+HelpMessage=
+MenuList=
 LeftString=ซ้าย
 RightString=ขวา
 CenterString=กึ่งกลาง
@@ -90,7 +90,7 @@ M_Deactivated=" ปิดใช้งานแล้ว"
 ItemArticle=ชิ้น
 
 [WarpZoneInfo]
-OtherSideURL=URL ปลายทาง
+OtherSideURL=
 
 [GameInfo]
 SwitchLevelMessage=กำลังสลับด่าน
@@ -127,10 +127,10 @@ CompleteMessage=เสร็จสมบูรณ์แล้ว!
 PickupMessage=คุณเก็บกระสุนได้
 
 [Pickup]
-ExpireMessage=ไอเทมหมดอายุ
+ExpireMessage=
 
 [SpecialEvent]
-DamageString=ความเสียหาย
+DamageString=
 
 [DamageType]
 Name=ถูกสังหาร
