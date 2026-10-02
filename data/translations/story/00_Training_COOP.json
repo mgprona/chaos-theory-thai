@@ -17,7 +17,7 @@
         "de": "KOOP-TRAINING",
         "es": "ENTRENAM. COOP",
         "it": "ADDESTRAMENTO",
-        "th": ""
+        "th": "การฝึก"
       },
       "Briefing_LAMBERT": {
         "en": "As Splinter Cells in training, you must learn to trust each other to complete your objectives. The only things standing between you and failure are your wits, and your partner. Learn to work together to accomplish missions that could not be completed by an individual Agent.",
@@ -25,7 +25,7 @@
         "de": "ALS SPLITTERGRUPPEN IN DER AUSBILDUNG MÜSSEN SIE LERNEN, IHREM PARTNER ZU VERTRAUEN. JEDER MISSIONSERFOLG HÄNGT ALLEIN VON IHRER CLEVERNESS UND IHREM PARTNER AB. TEAMARBEIT WIRD VERLANGT, WENN EIN AGENT NICHT GENÜGT.",
         "es": "TODO SPLINTER CELL EN PRÁCTICAS DEBE APRENDER A TRABAJAR EN EQUIPO. EN EL CAMPO DE OPERACIONES LO ÚNICO QUE TE SEPARA DEL FRACASO SON TUS HABILIDADES... Y TU COMPAÑERO. APRENDE A CONFIAR EN ÉL PARA FORMAR UN BUEN EQUIPO CAPAZ DE LOGRAR MISIONES EN LAS QUE UN AGENTE SOLO FRACASARÍA.",
         "it": "COME AGENTI SPLINTER CELL IN ADDESTRAMENTO, DOVETE IMPARARE A LAVORARE ASSIEME PER COMPLETARE GLI OBIETTIVI. SUL CAMPO, TRA VOI E IL FALLIMENTO AVRETE SOLO LA VOSTRA ASTUZIA E IL VOSTRO COMPAGNO. IMPARATE A FIDARVI E A LAVORARE ASSIEME PER COMPLETARE MISSIONI IMPOSSIBILI PER UN AGENTE ISOLATO.",
-        "th": ""
+        "th": "ในฐานะสายลับสปลินเตอร์เซลที่อยู่ระหว่างการฝึก คุณต้องเรียนรู้ที่จะไว้วางใจซึ่งกันและกันเพื่อบรรลุเป้าหมาย สิ่งเดียวที่ขวางกั้นระหว่างคุณกับความล้มเหลวคือไหวพริบของคุณและคู่หู จงเรียนรู้การทำงานร่วมกันเพื่อพิชิตภารกิจที่สายลับเพียงลำพังไม่อาจทำสำเร็จได้"
       }
     },
     "Email": {
@@ -36,7 +36,7 @@
         "de": "Um den Befehl \"Ausrüstung teilen\" auszuführen, müssen Sie sich neben den anderen Agenten stellen und mit ihm interagieren (A). Der andere Agent schlieSSt die Aktion über eine Interaktion (A) ab. Danach wird das gewählte Objekt aus dem Inventar übertragen.",
         "es": "Para iniciar el movimiento cooperativo Compartir equipo, ponte junto al otro agente y presiona (A) para interactuar. Para completar el movimiento, el otro agente debe presionar también (A), así el objeto elegido del inventario será transferido.",
         "it": "Per avviare la manovra di Condivisione Equipaggiamento, stai vicino all'altro Agente e Interagisci (A). Per completare la manovra di Condivisione Equipaggiamento, l'altro Agente deve Interagire (A). La manovra verrà eseguita e verrà trasferito l'oggetto selezionato nell'inventario.",
-        "th": ""
+        "th": "ในการเริ่มท่าแบ่งปันอุปกรณ์ ให้ยืนข้างเจ้าหน้าที่อีกคนแล้วกดปุ่มปฏิสัมพันธ์ ในการทำท่าแบ่งปันอุปกรณ์ให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องกดปุ่มปฏิสัมพันธ์ การทำเช่นนี้จะทำท่าดังกล่าวและโอนไอเทมในช่องเก็บของที่เลือกไว้"
       },
       "EmailShareEquipDate": {
         "en": "06/23/07",
@@ -44,7 +44,7 @@
         "de": "23/06/2007",
         "es": "23/06/2007",
         "it": "23/06/07",
-        "th": ""
+        "th": "06/23/07"
       },
       "EmailShareEquipFrom": {
         "en": "Dan",
@@ -52,7 +52,7 @@
         "de": "Dan",
         "es": "Dan",
         "it": "Dan",
-        "th": ""
+        "th": "แดน"
       },
       "EmailShareEquipSubject": {
         "en": "Share Equipment",
@@ -60,7 +60,7 @@
         "de": "Ausrüstung teilen",
         "es": "Compartir equipo",
         "it": "Condivisione Equipaggiamento",
-        "th": ""
+        "th": "แบ่งปันอุปกรณ์"
       },
       "EmailShareEquipTo": {
         "en": "Seb",
@@ -68,7 +68,7 @@
         "de": "Seb",
         "es": "Seb",
         "it": "Seb",
-        "th": ""
+        "th": "เซบ"
       }
     },
     "Computer": {
@@ -79,7 +79,7 @@
         "de": "Lasernetz deaktivieren",
         "es": "Desactivar rejilla láser",
         "it": "Disattiva la griglia laser",
-        "th": ""
+        "th": "ปิดตาข่ายเลเซอร์"
       }
     },
     "Interaction": {
@@ -90,7 +90,7 @@
         "de": "Wiederholungs-Tipps",
         "es": "VOLVER A LOS CONSEJOS",
         "it": "Limiti replay",
-        "th": ""
+        "th": "เล่นคำแนะนำซ้ำ"
       }
     },
     "P_00_Training_Coop_GoalsActiv": {
@@ -101,7 +101,7 @@
         "de": "Auf die Schalttafeln zugreifen, um Details über Aktionen und Ausrüstung zu erhalten.",
         "es": "Accede a los paneles para conseguir detalles sobre movimientos y equipos.",
         "it": "Accedi ai Pannelli per avere informazioni dettagliate sulle mosse e sull'equipaggiamento.",
-        "th": ""
+        "th": "เข้าถึงแผงข้อมูลเพื่อดูรายละเอียดเกี่ยวกับท่าปฏิบัติและอุปกรณ์"
       },
       "Objective_0081": {
         "en": "The wall mounted panels can provide detailed information about the moves and equipment at your disposal. Check the panels to get through each area.",
@@ -109,7 +109,7 @@
         "de": "Sie können die Schalttafeln an der Wand verwenden, um detaillierte Informationen über die verfügbaren Aktionstechniken und Ausrüstungen zu erhalten. Sehen Sie sich die Schalttafeln genau an, um durch die einzelnen Bereiche zu kommen.",
         "es": "Los paneles de la pared pueden tener información sobre los movimientos y el equipo a tu disposición. Compruébalos cada vez que llegues a una nueva área. ",
         "it": "I pannelli montati sul muro possono darti informazioni dettagliate sulle mosse e sull'equipaggiamento che hai a disposizione. Leggi i pannelli per superare le varie aree.",
-        "th": ""
+        "th": "แผงที่ติดอยู่บนผนังจะให้ข้อมูลโดยละเอียดเกี่ยวกับท่าปฏิบัติและอุปกรณ์ที่คุณมี ตรวจดูแผงเหล่านี้เพื่อผ่านแต่ละพื้นที่"
       },
       "Objective_0068": {
         "en": "Jump over the wall using the Short Scale",
@@ -117,7 +117,7 @@
         "de": "Springen Sie mithilfe des \"Schnell-Aufstiegs\" über die Wand.",
         "es": "Salta hacia la pared usando la escalada corta.",
         "it": "Salta oltre il muro usando la scalata breve.",
-        "th": ""
+        "th": "ใช้สเกลสั้นกระโดดข้ามกำแพง"
       },
       "Objective_0069": {
         "en": "Work together to get one Agent over the wall. The door can be opened form the other side.",
@@ -125,7 +125,7 @@
         "de": "Arbeiten Sie zusammen, um einen Agenten über die Mauer zu bekommen. Die Tür lässt sich von der anderen Seite aus öffnen.",
         "es": "Trabajad juntos para que un agente pueda saltar la pared. La puerta puede abrirse desde el otro lado.",
         "it": "Lavorate insieme per far arrivare un agente oltre il muro. La porta può essere aperta dall'altra parte.",
-        "th": ""
+        "th": "ร่วมมือกันพาเจ้าหน้าที่คนหนึ่งข้ามกำแพง ประตูสามารถเปิดได้จากอีกด้านหนึ่ง"
       },
       "Objective_0006": {
         "en": "Use the Jammer to avoid detection by the camera",
@@ -133,7 +133,7 @@
         "de": "Setzen Sie Störsender zur Täuschung der Kamera ein.",
         "es": "Usa el interferidor para evitar que te detecte la cámara.",
         "it": "Usa il jammer per non essere individuato dalla telecamera.",
-        "th": ""
+        "th": "ใช้อุปกรณ์ตัดสัญญาณเพื่อหลบเลี่ยงการตรวจจับของกล้อง"
       },
       "Objective_0016": {
         "en": "Synchronize yourselves using the Jammer to avoid being detected by the camera.",
@@ -141,7 +141,7 @@
         "de": "Synchronisieren Sie Ihre Bewegungen mit dem Störsender, damit Sie nicht von der Kamera entdeckt werden.",
         "es": "Sincronizaros al usar el interferidor para que no os detecte la cámara a ninguno.",
         "it": "Sincronizzatevi con il jammer per evitare di essere individuati dalla telecamera.",
-        "th": ""
+        "th": "ประสานจังหวะกันโดยใช้อุปกรณ์ตัดสัญญาณเพื่อไม่ให้กล้องตรวจจับได้"
       },
       "Note_0076L": {
         "en": "Use the Jammer to disable the camera while your partner moves.",
@@ -149,7 +149,7 @@
         "de": "Mit dem Störsender deaktivieren Sie die Kamera, während Ihr Partner sich bewegt.",
         "es": "Usa el interferidor para desactivar la cámara mientras tu compañero se mueve.",
         "it": "Usa il jammer per disattivare la telecamera mentre il tuo partner si sposta.",
-        "th": ""
+        "th": "ใช้อุปกรณ์ตัดสัญญาณปิดกล้องขณะที่คู่หูของคุณเคลื่อนที่"
       },
       "Objective_0007": {
         "en": "Complete the Tomoe Nage move",
@@ -157,7 +157,7 @@
         "de": "BEENDEN SIE DEN \"TOMO NAGE\".",
         "es": "Completa el movimiento Tomonage.",
         "it": "Completa la mossa Tomoe Nage.",
-        "th": ""
+        "th": "ทำท่าทุ่มโทโมเอะนาเงะให้สำเร็จ"
       },
       "Objective_0017": {
         "en": "Use the Tomoe Nage to throw your teammate over the laser and deactivate the laser using the switch.",
@@ -165,7 +165,7 @@
         "de": "Werfen Sie Ihren Partner mit dem \"Tomo Nage\" über die Lasersperre, und deaktivieren Sie sie mithilfe des Schalters. ",
         "es": "Usa el Tomonage para lanzar a tu compañero por encima del láser y desactivarlo usando el interruptor.",
         "it": "Usa la mossa Tomoe Nage per lanciare il tuo compagno di squadra al di sopra dei laser e disattivare i laser con l'interruttore.",
-        "th": ""
+        "th": "ใช้โทโมเอะนาเงะทุ่มคู่ทีมของคุณข้ามเลเซอร์ แล้วปิดการทำงานของเลเซอร์ด้วยสวิตช์"
       },
       "Note_0077L": {
         "en": "Throw your partner with Tomoe Nage to cross the lasers.",
@@ -173,7 +173,7 @@
         "de": "Werfen Sie Ihren Partner mit dem \"Tomo Nage\" über die Lasersperre.",
         "es": "Lanza a tu compañero con un movimiento Tomonage para cruzar los lásers.",
         "it": "Lancia il tuo partner usando il Tomoe Nage per superare i laser.",
-        "th": ""
+        "th": "ทุ่มคู่หูของคุณด้วยโทโมเอะนาเงะเพื่อข้ามแนวกั้นเลเซอร์"
       },
       "Objective_0008": {
         "en": "Hack the computer to deactivate the laser using the Hangover Move",
@@ -181,7 +181,7 @@
         "de": "Um den Laser zu deaktivieren, verwenden Sie den \"Kopfüber-Abstieg\", um sich in den Computer zu hacken.",
         "es": "Hackea el ordenador para desactivar el láser usando el movimiento de colgarse.",
         "it": "Sabota il computer per disattivare il laser aggrappandoti.",
-        "th": ""
+        "th": "แฮกคอมพิวเตอร์เพื่อปิดการทำงานของเลเซอร์ด้วยท่าโหนตัวกลับหัว"
       },
       "Objective_0018": {
         "en": "Work together to deactivate the lasers before entering the small room.",
@@ -189,7 +189,7 @@
         "de": "Sie müssen zusammen die Laser deaktivieren, bevor Sie den kleinen Raum betreten.",
         "es": "Trabajad juntos para desactivar los láser antes de entrar en la sala pequeña.",
         "it": "Lavorate insieme per disattivare i laser prima di entrare nella stanza piccola.",
-        "th": ""
+        "th": "ร่วมมือกันปิดการทำงานของเลเซอร์ก่อนเข้าห้องเล็ก"
       },
       "Note_0087L": {
         "en": "Hack the computer to deactivate the laser using the Hangover Move.",
@@ -197,7 +197,7 @@
         "de": "Um den Laser zu deaktivieren, hacken Sie sich in den Computer unter Verwendung des \"Kopfüber-Abstiegs.",
         "es": "Hackea el ordenador para desactivar el láser usando el movimiento de colgarse.",
         "it": "Sabota il computer per disattivare il laser aggrappandoti.",
-        "th": ""
+        "th": "แฮกคอมพิวเตอร์เพื่อปิดการทำงานของเลเซอร์ด้วยท่าโหนตัวกลับหัว"
       },
       "Objective_0072": {
         "en": "Hack the dual retinal scan to unlock the door",
@@ -205,7 +205,7 @@
         "de": "Hacken Sie den doppelten Retina-Scanner, um die Tür zu öffnen.",
         "es": "Hackea el escáner de retina doble para desbloquear la puerta.",
         "it": "Sabota lo scanner retinico doppio per sbloccare la porta.",
-        "th": ""
+        "th": "แฮกเครื่องสแกนม่านตาคู่เพื่อปลดล็อกประตู"
       },
       "Objective_0073": {
         "en": "Each Agent will need to hack a retinal scanner to open the door. Failure is dangerous.",
@@ -213,7 +213,7 @@
         "de": "Jeder muss einen Retina-Scanner hacken, um die Tür zu öffnen. Ein Scheitern ist gefährlich.",
         "es": "Cada agente necesita hackear un escáner de retina para abrir la puerta. Pero fallar en este proceso es muy peligroso.",
         "it": "Ogni agente dovrà sabotare uno scanner retinico per aprire la porta. Il fallimento è pericoloso.",
-        "th": ""
+        "th": "เจ้าหน้าที่แต่ละคนต้องแฮกเครื่องสแกนม่านตาคนละเครื่องเพื่อเปิดประตู ความล้มเหลวเป็นเรื่องอันตราย"
       },
       "Note_0078L": {
         "en": "Pass the double retinal scanner to get through the door.",
@@ -221,7 +221,7 @@
         "de": "Sie müssen an dem doppelten Retina-Scanner vorbei, um durch die Tür zu gelangen.",
         "es": "Pasa el escáner de retina doble para abrir la puerta.",
         "it": "Oltrepassa il doppio scanner retinico per entrare.",
-        "th": ""
+        "th": "ผ่านเครื่องสแกนม่านตาคู่เพื่อให้ผ่านประตูไปได้"
       },
       "Note_0012L": {
         "en": "When your partner dies, you can heal him if you have a syringe. Stand on your teammate and press the Interact Key.",
@@ -229,7 +229,7 @@
         "de": "Wenn Ihr Partner ausgeschaltet wurde, können Sie ihn mit einer Spritze wiederbeleben. Stellen Sie sich auf Ihren Teamkollegen und drücken Sie die Aktionstaste.",
         "es": "Si tu compañero muere, puedes reanimarle con una jeringuilla de adrenalina. Ponte junto al compañero y pulsa la tecla de acción.",
         "it": "Quando il tuo partner muore puoi rianimarlo, se hai una siringa. Resta in piedi vicino al tuo compagno di squadra e premi il tasto di interazione.",
-        "th": ""
+        "th": "เมื่อคู่หูของคุณล้มลง คุณสามารถรักษาเขาได้ถ้ามีเข็มฉีดยา ยืนบนตัวคู่ทีมแล้วกดปุ่มปฏิสัมพันธ์"
       },
       "Objective_0074": {
         "en": "Complete the dual rappelling move",
@@ -237,7 +237,7 @@
         "de": "SchlieSSen Sie das Doppel-Abseilen.",
         "es": "Completa el movimiento de rápel doble.",
         "it": "Completa la doppia scalata.",
-        "th": ""
+        "th": "ทำท่าโรยตัวคู่ให้สำเร็จ"
       },
       "Objective_0075": {
         "en": "Help your teammate to reach the upper part using the dual rappeling.",
@@ -245,7 +245,7 @@
         "de": "Helfen Sie Ihrem Teamkameraden, um mithilfe des Doppel-Abseilens den oberen Abschnitt zu erreichen.",
         "es": "Ayuda al compañero a alcanzar la parte superior usando rápel doble.",
         "it": "Aiuta il tuo compagno di squadra a raggiungere la parte superiore usando la doppia scalata.",
-        "th": ""
+        "th": "ช่วยคู่ทีมของคุณขึ้นไปยังส่วนบนด้วยการโรยตัวคู่"
       },
       "Note_0088L": {
         "en": "Approach the rope or the other Agent to perform the Dual Rappelling move.",
@@ -253,7 +253,7 @@
         "de": "Gehen Sie auf das Seil oder den anderen Agenten zu, um das Doppel-Abseilen auszuführen.",
         "es": "Acércate a la cuerda o al otro agente para realizar el movimiento de rápel doble.",
         "it": "Avvicinati alla corda o all'altro agente per effettuare la doppia scalata.",
-        "th": ""
+        "th": "เข้าใกล้เชือกหรือเจ้าหน้าที่อีกคนเพื่อทำท่าโรยตัวคู่"
       },
       "Objective_0084": {
         "en": "Reach the end of the level with success",
@@ -261,7 +261,7 @@
         "de": "Erreichen Sie den Endpunkt der Mission.",
         "es": "Llega al final del nivel y hazlo todo bien.",
         "it": "Supera il livello completando la missione con successo.",
-        "th": ""
+        "th": "ไปถึงจุดสิ้นสุดของด่านได้สำเร็จ"
       },
       "Objective_0085": {
         "en": "Work together to reach the end of the level",
@@ -269,7 +269,7 @@
         "de": "Arbeiten Sie zusammen, um den Endpunkt der Mission zu erreichen.",
         "es": "Juntos podréis llegar al final del nivel.",
         "it": "Lavorate insieme per completare il livello.",
-        "th": ""
+        "th": "ร่วมมือกันไปให้ถึงจุดสิ้นสุดของด่าน"
       },
       "Note_0086L": {
         "en": "Get to the end of the training area.",
@@ -277,7 +277,7 @@
         "de": "Begeben Sie sich ans Ende des Trainingsbereichs.",
         "es": "Ve al final del área de entrenamiento.",
         "it": "Arriva in fondo all'area di addestramento.",
-        "th": ""
+        "th": "ไปให้ถึงจุดสิ้นสุดของพื้นที่ฝึก"
       },
       "Note_0079L": {
         "en": "Try sharing objects with your partner.",
@@ -285,7 +285,7 @@
         "de": "Versuchen Sie, Objekte mit Ihrem Partner zu teilen.",
         "es": "Intenta compartir objetos con tu compañero.",
         "it": "Prova a suddividere gli obiettivi tra te e il tuo partner.",
-        "th": ""
+        "th": "ลองแบ่งปันสิ่งของกับคู่หูของคุณ"
       },
       "Note_0027L": {
         "en": "Get to the end of the training area.",
@@ -293,7 +293,7 @@
         "de": "Begeben Sie sich ans Ende des Trainingsbereichs.",
         "es": "Ve al final del área de entrenamiento.",
         "it": "Arriva in fondo all'area di addestramento.",
-        "th": ""
+        "th": "ไปให้ถึงจุดสิ้นสุดของพื้นที่ฝึก"
       },
       "Note_0029L": {
         "en": "If your partner goes down, you can heal him.",
@@ -301,7 +301,7 @@
         "de": "Wenn Ihr Partner fällt, können Sie ihn wiederbeleben.",
         "es": "Si tu compañero cae, puedes reanimarlo.",
         "it": "Se il tuo partner viene colpito puoi risuscitarlo.",
-        "th": ""
+        "th": "ถ้าคู่หูของคุณล้มลง คุณสามารถรักษาเขาได้"
       }
     },
     "P_00_Training_Coop_Popups": {
@@ -312,7 +312,7 @@
         "de": "Koop-Aktionen werden immer von einem Agenten eingeleitet, durch den anderen bestätigt und dann ausgeführt.",
         "es": "Los movimientos cooperativos funcionan así: los inicia un agente, los completa el otro y se realizan.",
         "it": "Le mosse cooperative devono sempre essere iniziate da un agente, completate dall'altro e infine eseguite.",
-        "th": ""
+        "th": "ท่าปฏิบัติการร่วมจะเริ่มโดยเจ้าหน้าที่คนหนึ่งเสมอ อีกคนทำให้สมบูรณ์ แล้วจึงลงมือทำ"
       },
       "POPUPMESSAGE_0008": {
         "en": "When a move has been Initiated, the Co-op Move Icon will appear on the screen to inform you there is an action to be Completed. To cancel a Co-op Move, simply press the Co-op Move Key again.",
@@ -320,7 +320,7 @@
         "de": "Wenn eine Bewegung eingeleitet wurde, erscheint das Koop-Symbol auf dem Bildschirm, um Sie darauf hinzuweisen, dass eine Aktion ausgeführt werden kann. Wenn Sie die Bewegung nicht durchführen wollen, drücken Sie einfach noch mal die Taste für Koop-Aktion.",
         "es": "Cuando se inicia un movimiento aparece el icono de movimiento cooperativo para informarte de que hay que terminar una acción. Para cancelarlo, pulsa de nuevo la tecla de acción cooperativa.",
         "it": "Quando viene iniziata una mossa, vedrai apparire l'icona di mossa cooperativa che ti informa dell'azione da completare. Per annullare una mossa cooperativa premi di nuovo il tasto di mossa cooperativa.",
-        "th": ""
+        "th": "เมื่อเริ่มท่าแล้ว ไอคอนท่าปฏิบัติการร่วมจะปรากฏบนหน้าจอเพื่อบอกคุณว่ามีการกระทำที่ต้องทำให้สมบูรณ์ หากต้องการยกเลิกท่าปฏิบัติการร่วม เพียงกดปุ่ม Co-op อีกครั้ง"
       },
       "POPUPMESSAGE_0043": {
         "en": "When a coop move is initiated by an agent, the other will receive an icon at the bottom of his screen. This icon means that the agent is waiting for you to complete a coop action.",
@@ -328,7 +328,7 @@
         "de": "Wenn ein Spieler eine Koop-Aktion einleitet, erscheint bei seinem Partner unten am Bildschirm ein Symbol. Dieses Symbol zeigt an, dass der Mitspieler auf die Bestätigung der Aktion wartet.",
         "es": "Cuando un agente inicia un movimiento cooperativo, el otro agente verá un icono en la parte inferior de su pantalla. El icono significa que el compañero está esperando que completes el movimiento cooperativo.",
         "it": "Quando un agente inizia una mossa cooperativa, l'altro vedrà un'icona in fondo al suo schermo. Questa icona significa che l'altro agente sta aspettando che l'azione cooperativa venga completata.",
-        "th": ""
+        "th": "เมื่อเจ้าหน้าที่คนหนึ่งเริ่มท่าปฏิบัติการร่วม อีกคนจะได้รับไอคอนที่ด้านล่างของหน้าจอ ไอคอนนี้หมายความว่าเจ้าหน้าที่กำลังรอให้คุณทำท่าปฏิบัติการร่วมให้สมบูรณ์"
       },
       "POPUPMESSAGE_0044": {
         "en": "When an agent gets information in a computer, Both agents OPSAT are updated with the new information.",
@@ -336,7 +336,7 @@
         "de": "Wenn sich ein Agent Informationen von einem Computer beschafft, werden die OPSATS beider Agenten aktualisiert.",
         "es": "Cuando un agente consigue información de un ordenador, el ENSAT de ambos se actualiza con los nuevos datos.",
         "it": "Quando un agente ottiene informazioni da un computer, entrambi gli OPSAT vengono aggiornati.",
-        "th": ""
+        "th": "เมื่อเจ้าหน้าที่คนหนึ่งได้รับข้อมูลจากคอมพิวเตอร์ OPSAT ของทั้งสองคนจะอัปเดตข้อมูลใหม่นั้นด้วย"
       },
       "POPUPMESSAGE_0002": {
         "en": "To Initiate the Stand On Shoulders move, position yourself correctly and Interact.",
@@ -344,7 +344,7 @@
         "de": "Um die Aktion Auf der Schulter stehen einzuleiten, müssen Sie sich richtig positionieren und dann die Aktionstaste drücken.   ",
         "es": "Para iniciar el movimiento subir a hombros, colócate correctamente e inicia la acción.",
         "it": "Per iniziare la mossa di appoggio, posizionati correttamente e premi il tasto di interazione.",
-        "th": ""
+        "th": "ในการเริ่มท่าเหยียบไหล่ ให้จัดตำแหน่งตัวเองให้ถูกต้องแล้วกดปุ่มปฏิสัมพันธ์"
       },
       "POPUPMESSAGE_0009": {
         "en": "To Complete the Stand On Shoulders move, the other player has to position himself close to the Agent and Interact. This will Perform the move.",
@@ -352,7 +352,7 @@
         "de": "Um auf die Schultern seines Partners zu klettern, muss der andere Spieler sich nah an den Agenten heranstellen und die Aktionstaste drücken. Dadurch wird die Bewegung ausgeführt.",
         "es": "Para completar el movimiento subir a hombros, el otro jugador debe colocarse cerca del agente y pulsar la tecla de acción. Eso completará el movimiento.",
         "it": "Per completare l'appoggio, il secondo agente deve portarsi vicino all'altro e interagire. Questo farà eseguire la mossa.",
-        "th": ""
+        "th": "ในการทำท่าเหยียบไหล่ให้สมบูรณ์ ผู้เล่นอีกคนต้องจัดตำแหน่งตัวเองให้ใกล้เจ้าหน้าที่แล้วกดปุ่มปฏิสัมพันธ์ การทำเช่นนี้จะทำท่าให้สำเร็จ"
       },
       "POPUPMESSAGE_0007": {
         "en": "Certain co-op moves require the use of the Balance Meter. While standing on your partner's shoulders, the lower Agent will need to maintain the balance while the higher Agent observes or fires over the wall. The better balanced you are, the less noise you will make.",
@@ -360,7 +360,7 @@
         "de": "Einige Koop-Aktionen erfordern die Beachtung der Balance-Anzeige. Während Sie auf den Schultern Ihres Partners stehen, muss der untere Agent das Gleichgewicht halten, während Sie über die Wand blicken oder feuern. Je mehr Sie sich im Gleichgewicht befinden, desto weniger Geräusche verursachen Sie.",
         "es": "Algunos movimientos cooperativos exigen el uso del medidor de equilibrio. Cuando te subes a hombros del compañero, el agente que está debajo debe mantener el equilibrio mientras el de arriba dispara o espía por encima de la valla. Cuanto más equilibrio haya, menor ruido se produce.",
         "it": "Per alcune mosse cooperative è necessario usare l'indicatore di equilibrio. Quando sei sulle spalle del tuo compagno, l'agente che si trova sotto dovrà mantenere l'equilibrio mentre l'agente di sopra osserva o spara dal muro. Maggiore è l'equilibrio e minore sarà il rumore provocato.",
-        "th": ""
+        "th": "ท่าปฏิบัติการร่วมบางท่าต้องใช้มาตรวัดการทรงตัว ขณะยืนบนบ่าของคู่หู เจ้าหน้าที่ที่อยู่ล่างจะต้องรักษาการทรงตัว ขณะที่เจ้าหน้าที่ที่อยู่บนสังเกตการณ์หรือยิงข้ามกำแพง ยิ่งทรงตัวได้ดีเท่าไร เสียงที่คุณทำก็จะน้อยลงเท่านั้น"
       },
       "POPUPMESSAGE_0003": {
         "en": "To Initiate a Short Scale, one Agent must Crouch and position himself facing away from a wall, under a ledge or under a pipe and press the Co-op Move Key.",
@@ -368,7 +368,7 @@
         "de": "Um einen Schnell-Aufstieg zu einzuleiten, muss der eine Agent sich ducken, sich von einer Mauer abgewandt, unter einem Vorsprung oder unter einem Rohr positionieren und die Taste für Koop-Aktion drücken.",
         "es": "Para iniciar una escalada corta, un agente debe agacharse y colocarse mirando hacia el otro lado de una pared, bajo un saliente o una tubería, y usar la tecla de acción cooperativa.",
         "it": "Per iniziare una scalata breve, un agente deve chinarsi, portarsi sotto una sporgenza o un tubo dando le spalle al muro e premere il tasto di mossa cooperativa.",
-        "th": ""
+        "th": "ในการเริ่มสเกลสั้น เจ้าหน้าที่คนหนึ่งต้องย่อตัวและจัดตำแหน่งโดยหันหลังให้กำแพง อยู่ใต้ขอบหรือใต้ท่อ แล้วกดปุ่ม Co-op"
       },
       "POPUPMESSAGE_0010": {
         "en": "To Complete a Short Scale, the other Agent must approach the first and press the Co-op Move Key. This will Perform the move.",
@@ -376,7 +376,7 @@
         "de": "Um einen Schnell-Aufstieg durchzuführen, muss der eine Agent sich dem anderen nähern und die Taste für Koop-Aktion drücken. Dadurch wird die Bewegung ausgeführt.",
         "es": "Para completar una escalada corta, el otro jugador debe acercarse al primero y usar la tecla de acción cooperativa. Eso completará el movimiento.",
         "it": "Per completare una scalata breve, il secondo agente deve avvicinarsi al primo e premere il tasto di mossa cooperativa. Questo farà eseguire la mossa.",
-        "th": ""
+        "th": "ในการทำสเกลสั้นให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องเข้าใกล้คนแรกแล้วกดปุ่ม Co-op การทำเช่นนี้จะทำท่าให้สำเร็จ"
       },
       "POPUPMESSAGE_0011": {
         "en": "To Initiate the Share Equipment move, stand next to the other Agent and Interact. To Complete the Share Equipment move, the other Agent must Interact. This will Perform the move and transfer the selected inventory item. Only inventory items marked with a dot can be shared.",
@@ -384,7 +384,7 @@
         "de": "Wenn Sie die Aktion \"Ausrüstung gemeinsam benutzen\" einleiten  wollen, stellen Sie sich neben den anderen Agenten und drücken die Aktionstaste. Dazu muss der andere Agent ebenfalls die Aktionstaste drücken. Der ausgewählte Inventarobjekt wird nun transferiert. Nur mit einem Punkt markierte Objekte können ausgetauscht werden.",
         "es": "Para iniciar la acción de compartir equipo, ponte junto al otro agente y pulsa la tecla de acción. Para completar la acción de compartir equipo, el otro agente debe pulsar la tecla de acción. Esto completa el proceso y pasa el objeto elegido del inventario de un agente al otro. Sólo pueden compartirse los elementos marcados con un punto.",
         "it": "Per iniziare lo scambio dell'equipaggiamento, portati vicino all'altro agente e interagisci. Per completare la mossa, l'altro agente deve interagire. Questo farà eseguire la mossa e trasferirà l'oggetto selezionato. Si possono scambiare solo gli oggetti nell'inventario indicati dal punto.",
-        "th": ""
+        "th": "ในการเริ่มท่าแบ่งปันอุปกรณ์ ให้ยืนข้างเจ้าหน้าที่อีกคนแล้วกดปุ่มปฏิสัมพันธ์ ในการทำท่าแบ่งปันอุปกรณ์ให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องกดปุ่มปฏิสัมพันธ์ การทำเช่นนี้จะทำท่าและโอนไอเทมในช่องเก็บของที่เลือกไว้ เฉพาะไอเทมที่มีจุดกำกับเท่านั้นที่แบ่งปันได้"
       },
       "POPUPMESSAGE_0023": {
         "en": "To temporarily deactivate electronic devices, equip your secondary weapon and Press and Hold the Right Mouse Button. The device will stay disabled while you are targeting it, until the charge of the Jammer runs out, or until you move.",
@@ -392,7 +392,7 @@
         "de": "Um elektrische Geräte vorübergehend zu deaktivieren, müssen Sie Ihre Sekundärwaffe wählen und die rechte Maustaste gedrückt halten. Das Gerät bleibt solange deaktiviert, wie sie es anvisieren, bis die Batterie des Störsenders leer ist oder Sie sich bewegen.",
         "es": "Para desactivar temporalmente dispositivos electrónicos, saca tu arma secundaria y mantén pulsado el botón derecho del ratón. El dispositivo se mantendrá inactivo mientras le apuntes, hasta que dure la carga del interferidor, o hasta que te muevas.",
         "it": "Per disattivare temporaneamente i dispositivi elettronici, impugna l'arma secondaria e tieni premuto il tasto destro del mouse. Il dispositivo rimarrà disattivato finché lo inquadri o fino a quando la carica del jammer si esaurisce o ti muovi.",
-        "th": ""
+        "th": "ในการปิดการทำงานอุปกรณ์อิเล็กทรอนิกส์ชั่วคราว ให้ติดตั้งอาวุธรองแล้วกดปุ่มเมาส์ขวาค้างไว้ อุปกรณ์จะยังถูกปิดการทำงานขณะที่คุณเล็งไปที่มัน จนกว่าประจุของอุปกรณ์ตัดสัญญาณจะหมด หรือจนกว่าคุณจะเคลื่อนที่"
       },
       "POPUPMESSAGE_0012": {
         "en": "To Initiate the Tomoe Nage move and throw the other Agent, face the other agent in a standing position and press the Co-op Move Key. Once in position, move the Mouse to position the target.",
@@ -400,7 +400,7 @@
         "de": "Um die Aktion \"Tome Nage\" einzuleiten und den anderen Agenten zu werfen, müssen Sie sich stehend ihm gegenüber positionieren und die Taste für Koop-Aktion drücken. Sobald Sie sich in Position befinden, benutzen Sie die Maus, um die Wurfrichtung zu bestimmen.",
         "es": "Para iniciar el movimiento Tomenage y lanzar al otro agente, ponte frente al otro de pie, pulsa la tecla de acción cooperativa y, una vez en posición, usa el ratón para situar el objetivo.",
         "it": "Per iniziare la mossa Tomoe Nage e lanciare l'altro agente, portati in piedi davanti a lui e premi il tasto di mossa cooperativa. Quando sei in posizione, usa il mouse per posizionare il bersaglio.",
-        "th": ""
+        "th": "ในการเริ่มท่าโทโมเอะนาเงะและทุ่มเจ้าหน้าที่อีกคน ให้หันหน้าเข้าหาเจ้าหน้าที่อีกคนในท่ายืนแล้วกดปุ่ม Co-op เมื่อเข้าที่แล้ว ให้เลื่อนเมาส์เพื่อกำหนดตำแหน่งเป้าหมาย"
       },
       "POPUPMESSAGE_0013": {
         "en": "To Complete the Tome Nage, the other Agent must approach the first and press the Co-op Move Key. If you throw your partner into an enemy, the enemy will be knocked unconscious.",
@@ -408,7 +408,7 @@
         "de": "Um den \"Tome Nage\" auszuführen, muss ein Agent sich seinem Partner nähern und die Taste für Koop-Aktion drücken. Wenn Sie Ihren Partner gegen einen Feind schleudern, wird der Gegner durch die Wucht des Aufpralls bewusstlos.",
         "es": "Para completar el Tomenage, el otro agente debe aproximarse al primero y usar la tecla de acción cooperativa. Si lanzas a tu compañero contra un enemigo, éste quedará neutralizado.",
         "it": "Per completare la Tomoe Nage, il secondo agente deve avvicinarsi al primo e premere il tasto di mossa cooperativa. Se lanci il tuo compagno contro un nemico, questo verrà messo fuori combattimento.",
-        "th": ""
+        "th": "ในการทำโทโมเอะนาเงะให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องเข้าใกล้คนแรกแล้วกดปุ่ม Co-op ถ้าคุณทุ่มคู่หูของคุณใส่มือศัตรู ศัตรูจะหมดสติ"
       },
       "POPUPMESSAGE_0014": {
         "en": "To see through the other Agent's Optic Cable or Sticky Camera, Interact when the action is available. The receiving player can exit the shared view at any time. If the sending player exits, both players automatically exit the shared view.",
@@ -416,7 +416,7 @@
         "de": "Um durch das optische Kabel oder die Haftkamera Ihres Partners zu blicken, müssen Sie die Aktionstaste drücken, wenn  die Aktion verfügbar ist. Der empfangende Spieler kann diesen Sichtmodus jederzeit verlassen. Wenn der sendende Spieler den Modus verlässt, tut dies automatisch auch sein Partner.",
         "es": "Para ver con el cable óptico del otro agente o recibir la imagen de su cámara de seguimiento, pulsa la tecla de acción cuando la acción aparezca en la ventana. El receptor puede salir de la vista compartida en cualquier momento. Si el emisor sale, ambos abandonarán la vista compartida.",
         "it": "Per vedere attraverso il cavo ottico o la microcamera dell'altro agente, interagisci quando l'azione è disponibile. L'agente che riceve può uscire dalla visuale condivisa in ogni momento. Se l'agente che fornisce la visuale esce, entrambi gli agenti usciranno dalla visuale.",
-        "th": ""
+        "th": "หากต้องการมองผ่านกล้องสายเคเบิลหรือกล้องสติ๊กกี้ของเจ้าหน้าที่อีกคน ให้กดปุ่มปฏิสัมพันธ์เมื่อมีการกระทำนั้น ผู้เล่นที่รับชมสามารถออกจากมุมมองที่แชร์ได้ทุกเมื่อ หากผู้เล่นที่แชร์ออก ทั้งสองฝ่ายจะออกจากมุมมองที่แชร์โดยอัตโนมัติ"
       },
       "POPUPMESSAGE_0015": {
         "en": "While hanging from a ledge or a pipe, the Agent can press the Co-op Move Key to Initiate the Climb on Teammate move. The other agent can Complete the Climb on Teammate move by standing beneath him and pressing the Co-op Move Key. This will Perform the move.",
@@ -424,7 +424,7 @@
         "de": "Während ein Agent an einem Vorsprung oder einem Rohr hängt, kann er auf seinen Partner klettern, indem er die Taste für Koop-Aktion drückt. Der andere Spieler kann diese Aktion zur Durchführung bringen, indem er sich unter ihn stellt und ebenfalls die Taste für Koop-Aktion benutzt. Dadurch wird die Bewegung ausgeführt.",
         "es": "Cuando te cuelgues de un saliente o una tubería, el agente puede usar la tecla de acción cooperativa para iniciar el movimiento de trepar por el compañero. El otro agente puede completarlo moviéndose para colocarse de pie bajo el agente colgado y usando la tecla de acción cooperativa.   ",
         "it": "Quando è appeso a una sporgenza o a un tubo, un agente può premere il tasto di mossa cooperativa per iniziare la salita sul compagno. L'altro agente può completare la mossa portandosi sotto di lui e premendo il tasto di mossa cooperativa. Questo farà eseguire la manovra.",
-        "th": ""
+        "th": "ขณะโหนอยู่ที่ขอบหรือท่อ เจ้าหน้าที่สามารถกดปุ่ม Co-op เพื่อเริ่มท่าปีนขึ้นบนตัวคู่ทีม เจ้าหน้าที่อีกคนสามารถทำท่าปีนขึ้นบนตัวคู่ทีมให้สมบูรณ์ได้โดยยืนอยู่ใต้เขาแล้วกดปุ่ม Co-op การทำเช่นนี้จะทำท่าให้สำเร็จ"
       },
       "POPUPMESSAGE_0004": {
         "en": "To Initiate an Inverted Descent, the first Agent has to position himself near the hole and Interact.",
@@ -432,7 +432,7 @@
         "de": "Um einen \"Kopfüber-Abstieg\" einzuleiten, muss sich der erste Agent in der Nähe des Loches platzieren und die Aktionstaste drücken.",
         "es": "Para iniciar un descenso inverso, el primer agente se coloca cerca del hueco e inicia la acción.",
         "it": "Per iniziare una discesa inversa, il primo agente deve portarsi vicino al buco e interagire.",
-        "th": ""
+        "th": "ในการเริ่มการโหนตัวกลับหัว เจ้าหน้าที่คนแรกต้องจัดตำแหน่งตัวเองใกล้ช่องแล้วกดปุ่มปฏิสัมพันธ์"
       },
       "POPUPMESSAGE_0016": {
         "en": "To Complete an Inverted Descent, the other Agent has to position himself facing the first and Interact.",
@@ -440,7 +440,7 @@
         "de": "Um einen \"Kopfüber-Abstieg\" durchzuführen, muss der eine Agent sich seinem Partner gegenüber platzieren und die Aktionstaste drücken.",
         "es": "Para completar un descenso inverso, el otro agente debe colocarse mirando al primer agente y pulsar la tecla de acción.",
         "it": "Per completare una discesa invertita, il secondo agente deve portarsi davanti al primo e interagire.",
-        "th": ""
+        "th": "ในการทำการโหนตัวกลับหัวให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องจัดตำแหน่งโดยหันหน้าเข้าหาคนแรกแล้วกดปุ่มปฏิสัมพันธ์"
       },
       "POPUPMESSAGE_0017": {
         "en": "While in an Inverted Descent, the top Agent can raise or lower his partner by pressing the Mouse Buttons. The agent on the rope can get cover by pressing the Right Mouse Button.",
@@ -448,7 +448,7 @@
         "de": "Während eines Kopfüber-Abstiegs kann der obere Agent seinen Partner mit den Maustasten hoch- oder herunterlassen. Der am Seil hängende Spieler kann mit der rechten Maustaste Deckung suchen.",
         "es": "En un descenso inverso, el agente que está encima puede elevar o bajar a su compañero con los botones del ratón. El agente de la cuerda puede cubrirse pulsando el botón derecho del ratón.",
         "it": "Durante una discesa invertita, l'agente più in alto può alzare o abbassare il compagno usando i tasti del mouse. L'agente sulla fune può coprirsi premendo il tasto destro del mouse.",
-        "th": ""
+        "th": "ขณะอยู่ในท่าโหนตัวกลับหัว เจ้าหน้าที่ด้านบนสามารถยกหรือหย่อนคู่หูได้โดยกดปุ่มเมาส์ เจ้าหน้าที่บนเชือกสามารถหาที่กำบังได้โดยกดปุ่มเมาส์ขวา"
       },
       "POPUPMESSAGE_0018": {
         "en": "While hanging in an Inverted Descent, you can perform different actions using Interact.  You can access computers, grab guards and also use your secondary weapon.",
@@ -456,7 +456,7 @@
         "de": "Während eines Kopfüber-Abstiegs können Sie mittels der Aktionstaste verschiedene Aktionen durchführen. Sie können auf Computer zugreifen, Wachen ergreifen oder Ihre Sekundärwaffe benutzen.",
         "es": "Mientras estás colgado en un descenso inverso, puedes pulsar la tecla de acción para acceder a ordenadores, agarrar a guardias e incluso usar tu arma secundaria.",
         "it": "Durante una discesa invertita, puoi effettuare diverse azioni interagendo. Puoi accedere ai computer, afferrare le guardie o usare l'arma secondaria.",
-        "th": ""
+        "th": "ขณะโหนอยู่ในท่าโหนตัวกลับหัว คุณสามารถทำการกระทำต่างๆ ได้ด้วยปุ่มปฏิสัมพันธ์  คุณสามารถใช้งานคอมพิวเตอร์ จับตัวทหารยาม และใช้อาวุธรองได้"
       },
       "POPUPMESSAGE_0005": {
         "en": "To pass through a door locked with two retinal scanners, each Agent must simultaneously use a guard on one of the retinal scanners.",
@@ -464,7 +464,7 @@
         "de": "Um durch eine verschlossene Tür zu gehen, die mit zwei Retinascannern ausgerüstet ist, müssen beide Agenten gleichzeitig eine Wache an den Scannern verwenden.",
         "es": "Para abrir una puerta protegida por doble escáner de retina, cada agente debe usar un guardia en cada escáner, al mismo tiempo.",
         "it": "Per superare una porta chiusa da un doppio scanner retinico, i due agenti devono usare contemporaneamente una guardia su ogni scanner retinico.",
-        "th": ""
+        "th": "หากต้องการผ่านประตูที่ล็อกด้วยเครื่องสแกนม่านตาสองเครื่อง เจ้าหน้าที่แต่ละคนต้องใช้ทหารยามกดที่เครื่องสแกนม่านตาคนละเครื่องพร้อมกัน"
       },
       "POPUPMESSAGE_0019": {
         "en": "If either one of the Agents is unable to find a guard, then one (or both) of the scanners will need to be hacked. This is dangerous.",
@@ -472,7 +472,7 @@
         "de": "Wenn einer oder beide Agenten keine Wache finden, müssen ein (oder beide) Scanner gehackt werden. Dies ist gefährlich.",
         "es": "Si alguno de los agentes no puede encontrar un guardia, uno de los escáners o los dos tendrán que ser hackeados, cosa poco recomendable.",
         "it": "Se uno dei due agenti non riesce a trovare una guardia, allora è possibile sabotare uno o entrambi gli scanner. L'azione è rischiosa.",
-        "th": ""
+        "th": "ถ้าเจ้าหน้าที่คนใดคนหนึ่งหาทหารยามไม่ได้ จะต้องแฮกเครื่องสแกนหนึ่งเครื่อง (หรือทั้งสองเครื่อง) ซึ่งเป็นเรื่องอันตราย"
       },
       "POPUPMESSAGE_0006": {
         "en": "To Initiate a Dual Rappel, one Agent must Interact while in the Dual Rappelling zone.",
@@ -480,7 +480,7 @@
         "de": "Um ein doppeltes Abseilen einzuleiten, muss ein Agent die Aktionstaste drücken, während er sich in der \"Doppel-Abseilen\"-Zone befindet.",
         "es": "Para hacer un rappel doble, un agente debe iniciar la acción en la zona de rappel.",
         "it": "Per iniziare una doppia scalata su un muro, un agente deve interagire mentre si trova nel punto adatto alla doppia scalata.",
-        "th": ""
+        "th": "ในการเริ่มโรยตัวคู่ เจ้าหน้าที่คนหนึ่งต้องกดปุ่มปฏิสัมพันธ์ขณะอยู่ในพื้นที่โรยตัวคู่"
       },
       "POPUPMESSAGE_0020": {
         "en": "To Complete a Dual Rappel, approach the rope or the other Agent and Interact. This will Perform the move.",
@@ -488,7 +488,7 @@
         "de": "Um ein doppeltes Abseilen durchzuführen, nähern Sie sich dem Seil und Ihrem Partner und drücken die Aktionstaste. Dadurch wird die Aktion ausgeführt.",
         "es": "Para completar un rappel doble, acércate a la cuerda o al otro agente y pulsa la tecla de acción. Así realizarás el movimiento.",
         "it": "Per completare una doppia scalata, avvicinati alla fune o all'altro agente e interagisci. Questo farà eseguire la manovra.",
-        "th": ""
+        "th": "ในการทำโรยตัวคู่ให้สมบูรณ์ ให้เข้าใกล้เชือกหรือเจ้าหน้าที่อีกคนแล้วกดปุ่มปฏิสัมพันธ์ การทำเช่นนี้จะทำท่าให้สำเร็จ"
       },
       "POPUPMESSAGE_0021": {
         "en": "The Agent at the top can move from side to side by pressing the Left or Right Mouse Button.",
@@ -496,7 +496,7 @@
         "de": "Der obere Agent kann sich mit den Maustasten seitwärts bewegen.",
         "es": "El agente que está arriba puede moverse de un lado a otro con los botones izquierdo o derecho del ratón.",
         "it": "L'agente più in alto può muoversi da un lato all'altro usando il tasto destro e il tasto sinistro del mouse.",
-        "th": ""
+        "th": "เจ้าหน้าที่ที่อยู่ด้านบนสามารถเคลื่อนไปด้านข้างได้โดยกดปุ่มเมาส์ซ้ายหรือขวา"
       },
       "POPUPMESSAGE_0022": {
         "en": "The Agent on the rope can move Up or Down and use his weapon normally.",
@@ -504,7 +504,7 @@
         "de": "Der Agent am Seil kann sich nach oben oder unten bewegen und seine Waffe benutzen.",
         "es": "El agente de la cuerda puede moverse arriba o abajo y usar su arma con normalidad.",
         "it": "L'agente sulla fune può muoversi su e giù e usare normalmente la sua arma.",
-        "th": ""
+        "th": "เจ้าหน้าที่บนเชือกสามารถเคลื่อนขึ้นหรือลงและใช้อาวุธได้ตามปกติ"
       },
       "POPUPMESSAGE_0045": {
         "en": "These rooms can be used to calibrate your microphone sensitivity. The more sensitive, the more likely it is that guards will hear you talking to your partner over your microphone.",
@@ -512,7 +512,7 @@
         "de": "Diese Räume können benutzt werden, um die Empfindlichkeit Ihres Mikrofons zu kalibrieren. Je höher die Empfindlichkeit, desto wahrscheinlicher ist es, dass die Wachen Sie hören, wenn Sie über das Mikrofon mit Ihrem Partner sprechen.",
         "es": "En estas salas puedes calibrar la sensibilidad del micrófono. Cuanto más sensible, más posibilidades hay de que los guardias te oigan hablar con tu compañero a través de tu auricular.",
         "it": "Queste stanze possono essere usate per calibrare la sensibilità del microfono. Maggiore è la sensibilità e più sarà possibile che le guardie sentano parlare il tuo compagno.",
-        "th": ""
+        "th": "ห้องเหล่านี้ใช้ปรับความไวของไมโครโฟนได้ ยิ่งตั้งความไวสูงเท่าไร ก็ยิ่งมีโอกาสที่ทหารยามจะได้ยินคุณพูดกับคู่หูผ่านไมโครโฟนมากขึ้นเท่านั้น"
       },
       "POPUPMESSAGE_0046": {
         "en": "Your microphone sensitivity can also be calibrated in the Options Menu.",
@@ -520,7 +520,7 @@
         "de": "Die Empfindlichkeit des Mikrofons kann auch über das Optionsmenü kalibriert werden,",
         "es": "La sensibilidad del micrófono se puede ajustar en el menú de opciones.",
         "it": "La sensibilità del microfono può essere calibrata anche nel menu delle opzioni.",
-        "th": ""
+        "th": "คุณยังปรับความไวของไมโครโฟนได้ในเมนูการตั้งค่าด้วย"
       },
       "POPUPMESSAGE_0047": {
         "en": "Each player must enter one of the rooms.",
@@ -528,7 +528,7 @@
         "de": "Jeder Spieler muss einen der Räume betreten.",
         "es": "Cada jugador debe entrar en una de las salas.",
         "it": "Ogni giocatore deve entrare in una delle stanze.",
-        "th": ""
+        "th": "ผู้เล่นแต่ละคนต้องเข้าห้องคนละห้อง"
       },
       "POPUPMESSAGE_0048": {
         "en": "Adjust the sensitivity by talking normally and observing the lights on the wall. The more lights that are lit, the louder and further your voice will travel when talking into your microphone. Adjust the sensitivity and exit the room when done.",
@@ -536,7 +536,7 @@
         "de": "Regeln Sie die Empfindlichkeit, indem Sie in normaler Lautstärke sprechen und auf die Lichter an der Wand achten. Je mehr Lichter angehen, desto weiter trägt Ihre Stimme. Stellen Sie die gewünschte Empfindlichkeit ein, und verlassen Sie dann den Raum.",
         "es": "Ajusta la sensibilidad hablando de forma normal y observando las  luces de la pared. Cuantas más luces se enciendan, más alto llegará tu voz cuando hables por el micrófono. Cuando termines, sal de la habitación.",
         "it": "Regola la sensibilità parlando normalmente e osservando le luci sul muro. Più luci si accendono, più forte e lontano si sente la voce quando parli nel comunicatore. Regola la sensibilità ed esci dalla stanza quando hai finito.",
-        "th": ""
+        "th": "ปรับความไวโดยพูดตามปกติและสังเกตไฟบนผนัง ยิ่งไฟติดมากเท่าไร เสียงของคุณก็จะดังและไปได้ไกลขึ้นเท่านั้นเมื่อพูดใส่ไมโครโฟน ปรับความไวแล้วออกจากห้องเมื่อเสร็จ"
       },
       "POPUPMESSAGE_0049": {
         "en": "To tell the other Agent what to do, talk into your microphone.",
@@ -544,7 +544,7 @@
         "de": "Benutzen Sie Ihr Mikrofon , um Ihrem Partner zu sagen, was er tun soll.",
         "es": "Para darle una orden al otro agente, habla por tu micrófono.",
         "it": "Per dire all'altro agente cosa fare, parla nel microfono.",
-        "th": ""
+        "th": "หากต้องการบอกเจ้าหน้าที่อีกคนว่าต้องทำอะไร ให้พูดใส่ไมโครโฟนของคุณ"
       },
       "POPUPMESSAGE_0050": {
         "en": "To tell the other Agent what to do, use the Chat interface.",
@@ -552,7 +552,7 @@
         "de": "Um Ihrem Partner zu sagen, was er tun soll, können Sie das Chat-interface verwenden.",
         "es": "Para decirle al otro agente lo que debe hacer, usa el interfaz de chat.",
         "it": "Per dire all'altro agente cosa fare, usa l'interfaccia di Chat.",
-        "th": ""
+        "th": "หากต้องการบอกเจ้าหน้าที่อีกคนว่าต้องทำอะไร ให้ใช้หน้าจอแชท"
       },
       "POPUPMESSAGE_0051": {
         "en": "Using a microphone in the coop mode can have a direct impact in your session. If you speak loud, you will be detected by the guards around you.",
@@ -560,7 +560,7 @@
         "de": "Die Verwendung des Mikrofons kann im Koop-Modus kann einen direkten Einfluss auf das Spiel haben. Wenn Sie zu laut sprechen, werden die sich in der Nähe befindlichen Wachen Sie entdecken.",
         "es": "Usar el micrófono en el modo cooperativo puede tener un impacto directo en la partida: si hablas alto, te detectarán los guardias.",
         "it": "Usare il microfono in modalità cooperativa può avere effetti diretti sulla sessione. Se parli forte, verrai sentito dalle guardie attorno a te.",
-        "th": ""
+        "th": "การใช้ไมโครโฟนในโหมดร่วมมือส่งผลโดยตรงต่อเซสชันของคุณ ถ้าคุณพูดเสียงดัง ทหารยามรอบตัวจะตรวจจับคุณได้"
       },
       "POPUPMESSAGE_0052": {
         "en": "If you don't use a microphone, use the Chat interface to communicate with your partner.",
@@ -568,7 +568,7 @@
         "de": "Wenn Sie kein Mikrofon benutzen, können Sie das Chat-Interface verwenden, um mit Ihrem Partner zu reden.",
         "es": "Si no tienes micrófono, usa el interfaz de chat para comunicarte con tu compañero.",
         "it": "Se non usi il microfono verrà attivato un sistema di comunicazioni automatiche. Durante mosse particolari, premi e tieni premuta la levetta sinistra e muovila nella direzione corretta per comunicare con il compagno.",
-        "th": ""
+        "th": "ถ้าคุณไม่ใช้ไมโครโฟน ให้ใช้หน้าจอแชทสื่อสารกับคู่หูของคุณ"
       },
       "POPUPMESSAGE_0053": {
         "en": "When a Co-op Move is Initiated by an Agent, the other will see an Icon at the bottom of his screen. This Icon means that the Agent is waiting for you to complete a Co-op Move.",
@@ -576,7 +576,7 @@
         "de": "Wenn ein Spieler eine Koop-Aktion einleitet, erscheint bei seinem Partner im unteren Bildschirmbereich ein Symbol. Dieses Symbol zeigt an, dass der Mitspieler auf die Bestätigung der Aktion wartet.",
         "es": "Cuando un agente inicia un movimiento cooperativo, el otro agente verá un icono en la parte inferior de su pantalla. El icono significa que el compañero está esperando que completes el movimiento cooperativo.",
         "it": "Quando un agente inizia una mossa cooperativa, l'altro vedrà un'icona in fondo al suo schermo. Questa icona significa che l'altro agente sta aspettando che l'azione cooperativa venga completata.",
-        "th": ""
+        "th": "เมื่อเจ้าหน้าที่คนหนึ่งเริ่มท่าปฏิบัติการร่วม อีกคนจะเห็นไอคอนที่ด้านล่างของหน้าจอ ไอคอนนี้หมายความว่าเจ้าหน้าที่กำลังรอให้คุณทำท่าปฏิบัติการร่วมให้สมบูรณ์"
       },
       "POPUPMESSAGE_0054": {
         "en": "A greyed-out Icon means that you're out of the range to perform the action. A flashing Icon means that you can complete the action by Pressing the Co-op Move Key.",
@@ -584,7 +584,7 @@
         "de": "Ist das Symbol abgeblendet, heisst das, dass Sie zu weit entfernt sind, um die Aktion durchzuführen. Ein blinkendes Symbol bedeutet, dass Sie die Aktion bestätigen können, indem Sie die Taste für Koop-Aktion drücken.",
         "es": "Un icono de color gris indica que estás demasiado lejos para llevar a cabo esa acción. Un icono que parpadea indica que puedes completar la acción con la tecla de acción cooperativa.",
         "it": "L'icona in grigio significa che sei troppo distante per effettuare l'azione. L'icona lampeggiante significa che puoi completare l'azione premendo il tasto di mossa cooperativa.",
-        "th": ""
+        "th": "ไอคอนสีเทาหมายความว่าคุณอยู่นอกระยะที่จะทำการกระทำนั้น ไอคอนกะพริบหมายความว่าคุณทำการกระทำนั้นให้สมบูรณ์ได้โดยกดปุ่ม Co-op"
       },
       "POPUPMESSAGE_0056": {
         "en": "When one Agent uses a Sticky Camera, the other Agent can see the view by selecting Interact.",
@@ -592,7 +592,7 @@
         "de": "Wenn ein Agent eine Haftkamera verwendet, kann sein Partner das Bild ebenfalls abrufen, indem er die Aktionstaste drückt.",
         "es": "Cuando un agente usa una cámara adhesiva de seguimiento, el otro agente puede ver lo mismo que su compañero eligiendo esta acción.",
         "it": "Quando un agente usa una microcamera, l'altro può vederne le immagini interagendo.",
-        "th": ""
+        "th": "เมื่อเจ้าหน้าที่คนหนึ่งใช้กล้องสติ๊กกี้ เจ้าหน้าที่อีกคนสามารถดูภาพได้โดยเลือกปุ่มปฏิสัมพันธ์"
       },
       "POPUPMESSAGE_0057": {
         "en": "When a Co-op Move has been Initiated, the Co-op Move Icon will appear on the screen to inform you there is an action to be completed. To cancel Co-op Move, simply press the Co-op Move Key again.",
@@ -600,7 +600,7 @@
         "de": "Wenn eine Bewegung eingeleitet wurde, erscheint das Koop-Symbol auf dem Bildschirm und weist Sie darauf hin, dass eine Aktion auf Bestätigung wartet. Wenn Sie die Bewegung nicht durchführen wollen, drücken Sie einfach noch mal die Taste für Koop-Aktion.",
         "es": "Cuando se inicia un movimiento cooperativo, aparecerá en tu pantalla un icono de movimiento cooperativo para indicar que hay una acción que debe ser completada. Para cancelar el movimiento cooperativo, pulsa la tecla de acción cooperativa otra vez.",
         "it": "Quando viene iniziata una mossa, vedrai apparire l'icona di mossa cooperativa che ti informa dell'azione da completare. Per annullare una mossa cooperativa premi di nuovo il tasto di mossa cooperativa.",
-        "th": ""
+        "th": "เมื่อเริ่มท่าปฏิบัติการร่วมแล้ว ไอคอนท่าปฏิบัติการร่วมจะปรากฏบนหน้าจอเพื่อบอกคุณว่ามีการกระทำที่ต้องทำให้สมบูรณ์ หากต้องการยกเลิกท่าปฏิบัติการร่วม เพียงกดปุ่ม Co-op อีกครั้ง"
       },
       "POPUPMESSAGE_0058": {
         "en": "If one Agent goes down, the other can get close to him and Heal him by Pressing Interact. Each Agent carries one Adrenaline Boost, so the Revive move can only be performed twice per mission.",
@@ -608,7 +608,7 @@
         "de": "Wenn ein Agent verletzt zu Boden geht, kann sein Partner ihn wieder beleben, indem er sich in seine Nähe begibt und die Aktionstaste drückt. Jeder Agent trägt nur einen Adrenalin-Booster bei sich, die Aktion kann also nur zweimal pro Mission durchgeführt werden.",
         "es": "Si un agente cae, el otro puede acercarse y reanimar a su compañero pulsando la tecla de acción. Cada agente lleva una dosis de adrenalina, así que sólo puede hacerse esta \"maniobra de resucitación\" dos veces por misión.",
         "it": "Se un agente cade sul campo, l'altro può avvicinarsi e rianimarlo interagendo. Ogni agente ha con sé solo una carica di adrenalina, quindi la rianimazione può avvenire solo due volte per missione.",
-        "th": ""
+        "th": "ถ้าเจ้าหน้าที่คนหนึ่งล้มลง อีกคนสามารถเข้าใกล้และรักษาเขาได้โดยกดปุ่มปฏิสัมพันธ์ เจ้าหน้าที่แต่ละคนมีสารกระตุ้นอะดรีนาลีนติดตัวหนึ่งชุด ดังนั้นท่าชุบชีวิตจึงทำได้เพียงสองครั้งต่อภารกิจ"
       },
       "POPUPMESSAGE_0024": {
         "en": "Co-op moves are always Initiated by one Agent, Completed by the other, and then Performed.",
@@ -616,7 +616,7 @@
         "de": "Koop-Aktionen werden immer von einem Agenten eingeleitet, durch den anderen bestätigt und dann ausgeführt.",
         "es": "Los movimientos cooperativos funcionan así: los inicia un agente, los completa el otro y se realizan.",
         "it": "Le mosse cooperative vengono sempre iniziate da un agente, completate dall'altro e poi eseguite.",
-        "th": ""
+        "th": "ท่าปฏิบัติการร่วมจะเริ่มโดยเจ้าหน้าที่คนหนึ่งเสมอ อีกคนทำให้สมบูรณ์ แล้วจึงลงมือทำ"
       },
       "POPUPMESSAGE_0025": {
         "en": "When a move has been Initiated, the Co-op Move Icon will appear on the screen to inform you there is an action to be Completed. To cancel a coop move, simply press the Co-op Move Key again.",
@@ -624,7 +624,7 @@
         "de": "Wenn eine Bewegung eingeleitet wurde, erscheint das Koop-Bewegungs-Symbol auf dem Bildschirm, um Sie darauf hinzuweisen, dass eine Aktion ausgeführt werden kann. Um eine Aktion abzubrechen, drücken Sie  noch einmal die Taste für Koop-Aktion.",
         "es": "Cuando se inicia un movimiento aparece el icono de movimiento cooperativo para informarte de que hay que terminar una acción. Para cancelarlo, pulsa de nuevo la tecla de acción cooperativa.",
         "it": "Quando viene iniziata una mossa, vedrai apparire l'icona di mossa cooperativa che ti informa dell'azione da completare. Per annullare una mossa cooperativa premi di nuovo il tasto di mossa cooperativa.",
-        "th": ""
+        "th": "เมื่อเริ่มท่าแล้ว ไอคอนท่าปฏิบัติการร่วมจะปรากฏบนหน้าจอเพื่อบอกคุณว่ามีการกระทำที่ต้องทำให้สมบูรณ์ หากต้องการยกเลิกท่าปฏิบัติการร่วม เพียงกดปุ่ม Co-op อีกครั้ง"
       },
       "POPUPMESSAGE_0026": {
         "en": "To Initiate a Short Scale, one Agent must Crouch and position himself below a wall, ledge or pipe and press the Co-op Move Key.",
@@ -632,7 +632,7 @@
         "de": "Um einen Schnell-Aufstieg einzuleiten, muss ein Agent sich ducken und sich unter einer Mauer, einem Vorsprung oder einem Rohr positionieren und die Taste für Koop-Aktion drücken.",
         "es": "Para iniciar una escalada corta, un agente debe agacharse y colocarse bajo una pared, un saliente o una tubería, y usar la tecla de acción cooperativa.",
         "it": "Per iniziare una scalata breve, un agente deve chinarsi, portarsi sotto una sporgenza o un tubo dando le spalle al muro e premere il tasto di mossa cooperativa.",
-        "th": ""
+        "th": "ในการเริ่มสเกลสั้น เจ้าหน้าที่คนหนึ่งต้องย่อตัวและจัดตำแหน่งตัวเองใต้กำแพง ขอบ หรือท่อ แล้วกดปุ่ม Co-op"
       },
       "POPUPMESSAGE_0027": {
         "en": "To Complete a Short Scale, the other Agent must approach the first and press the Co-op Move Key. This will Perform the move.",
@@ -640,7 +640,7 @@
         "de": "Um einen Schnell-Aufstieg  durchzuführen, muss der eine Agent sich dem anderen nähern und die Taste für Koop-Aktion drücken. Dadurch wird die Bewegung ausgeführt.",
         "es": "Para completar una escalada corta, el otro jugador debe acercarse al primero y usar la tecla de acción cooperativa. Eso completará el movimiento.",
         "it": "Per completare una scalata breve, il secondo agente deve avvicinarsi al primo e premere il tasto di mossa cooperativa. Questo farà eseguire la mossa.",
-        "th": ""
+        "th": "ในการทำสเกลสั้นให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องเข้าใกล้คนแรกแล้วกดปุ่ม Co-op การทำเช่นนี้จะทำท่าให้สำเร็จ"
       },
       "POPUPMESSAGE_0028": {
         "en": "To Initiate the Share Equipment move, stand next to the other Agent and Interact. To Complete the Share Equipment move, the other Agent must Interact. This will Perform the move and transfer the selected inventory item.",
@@ -648,7 +648,7 @@
         "de": "Wenn Sie die Aktion \"Ausrüstung gemeinsam benutzen\" einleiten  wollen, stellen Sie sich neben den anderen Agenten und drücken die Aktionstaste. Dazu muss der andere Agent ebenfalls die Aktionstaste drücken. Der ausgewählte Inventarobjekt wird nun transferiert. Nur mit einem Punkt markierte Objekte können ausgetauscht werden.",
         "es": "Para iniciar la acción de compartir equipo, ponte junto al otro agente y pulsa la tecla de acción. Para completar la acción de compartir equipo, el otro agente debe pulsar la tecla de acción. Esto completa el proceso y pasa el objeto elegido del inventario de un agente al otro.   ",
         "it": "Per iniziare lo scambio dell'equipaggiamento, portati vicino all'altro agente e interagisci. Per completare la mossa, l'altro agente deve interagire. Questo farà eseguire la mossa e trasferirà l'oggetto selezionato.",
-        "th": ""
+        "th": "ในการเริ่มท่าแบ่งปันอุปกรณ์ ให้ยืนข้างเจ้าหน้าที่อีกคนแล้วกดปุ่มปฏิสัมพันธ์ ในการทำท่าแบ่งปันอุปกรณ์ให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องกดปุ่มปฏิสัมพันธ์ การทำเช่นนี้จะทำท่าและโอนไอเทมในช่องเก็บของที่เลือกไว้"
       },
       "POPUPMESSAGE_0029": {
         "en": "To temporarily deactivate electronic devices, equip your secondary weapon and press and Hold the Right Mouse Button. The device will stay disabled while you are targeting it, until the charge of the Jammer runs out, or until you move.",
@@ -656,7 +656,7 @@
         "de": "Um elektrische Geräte vorübergehend zu deaktivieren, müssen Sie Ihre Sekundärwaffe wählen und die rechte Maustaste gedrückt halten. Dadurch wird das anvisierte Gerät vorübergehend ausser Betrieb gesetzt. Wenn Sie sich während der Benutzung des Störsenders bewegen, verliert er seine Wirkung.",
         "es": "Para desactivar temporalmente dispositivos electrónicos, saca tu arma secundaria y mantén pulsado el botón derecho del ratón. El dispositivo se mantendrá inactivo mientras le apuntes, hasta que dure la carga del interferidor, o hasta que te muevas.",
         "it": "Per disattivare temporaneamente i dispositivi elettronici, impugna l'arma secondaria e tieni premuto il tasto destro del mouse. Questo disattiverà il bersaglio per un certo tempo. Se ti muovi quando usi il jammer, questo smetterà di funzionare.",
-        "th": ""
+        "th": "ในการปิดการทำงานอุปกรณ์อิเล็กทรอนิกส์ชั่วคราว ให้ติดตั้งอาวุธรองแล้วกดปุ่มเมาส์ขวาค้างไว้ อุปกรณ์จะยังถูกปิดการทำงานขณะที่คุณเล็งไปที่มัน จนกว่าประจุของอุปกรณ์ตัดสัญญาณจะหมด หรือจนกว่าคุณจะเคลื่อนที่"
       },
       "POPUPMESSAGE_0030": {
         "en": "To Initiate the Tome Nage move and throw the other Agent, face the other agent in a standing position then press the Co-op Move Key. Once in position, use the Mouse to move the target in the desired position.",
@@ -664,7 +664,7 @@
         "de": "Um die Aktion \"Tome Nage\" einzuleiten und den anderen Agenten zu werfen, müssen Sie sich stehend ihm gegenüber positionieren und die Taste für Koop-Aktion drücken. Sobald Sie sich in Position befinden, benutzen Sie die Maus, um die Wurfrichtung zu bestimmen.",
         "es": "Para iniciar el movimiento Tomenage y lanzar al otro agente, ponte frente al otro de pie, pulsa la tecla de acción cooperativa y, una vez en posición, usa el ratón para mover el objetivo a la posición que quieras.",
         "it": "Per iniziare la mossa Tomoe Nage e lanciare l'altro agente, portati in piedi davanti a lui e premi il tasto di mossa cooperativa. Quando sei in posizione, usa il mouse per posizionare il bersaglio.",
-        "th": ""
+        "th": "ในการเริ่มท่าโทโมเอะนาเงะและทุ่มเจ้าหน้าที่อีกคน ให้หันหน้าเข้าหาเจ้าหน้าที่อีกคนในท่ายืน แล้วกดปุ่ม Co-op เมื่อเข้าที่แล้ว ให้ใช้เมาส์เลื่อนเป้าหมายไปยังตำแหน่งที่ต้องการ"
       },
       "POPUPMESSAGE_0031": {
         "en": "To Complete the Tome Nage, the other Agent must approach the first and press the Co-op Move Key. If you throw your partner into an enemy, the enemy will be knocked unconscious.",
@@ -672,7 +672,7 @@
         "de": "Um den \"Tome Nage\" auszuführen, muss der eine Agent sich seinem Partner nähern und die Taste für Koop-Aktion drücken. Wenn Sie ihren Partner gegen einen Feind schleudern, wird der Gegner durch die Wucht des Aufpralls bewusstlos.",
         "es": "Para completar el Tomenage, el otro agente debe aproximarse al primero y usar la tecla de acción cooperativa. Si lanzas a tu compañero contra un enemigo, éste quedará neutralizado.",
         "it": "Per completare la Tomoe Nage, il secondo agente deve avvicinarsi al primo e premere il tasto di mossa cooperativa. Se lanci il tuo compagno contro un nemico, questo verrà messo fuori combattimento.",
-        "th": ""
+        "th": "ในการทำโทโมเอะนาเงะให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องเข้าใกล้คนแรกแล้วกดปุ่ม Co-op ถ้าคุณทุ่มคู่หูของคุณใส่มือศัตรู ศัตรูจะหมดสติ"
       },
       "POPUPMESSAGE_0032": {
         "en": "While hanging from a ledge or a pipe, the Agent can press the Co-op Move Key to Initiate the Climb on Teammate move. The other agent can complete the Climb on Teammate move by standing beneath him and pressing the Co-op Move Key. This will Perform the move.",
@@ -680,7 +680,7 @@
         "de": "Während ein Agent an einem Vorsprung oder einem Rohr hängt, kann er auf seinen Partner klettern, indem er die Taste für Koop-Aktion drückt. Der andere Spieler kann diese Aktion zur Durchführung bringen, indem er sich unter ihn stellt und ebenfalls die Taste für Koop-Aktion benutzt. Dadurch wird die Bewegung ausgeführt.",
         "es": "Cuando te cuelgues de un saliente o una tubería, el agente puede usar la tecla de acción cooperativa para iniciar el movimiento de trepar por el compañero. El otro agente puede completarlo moviéndose para colocarse de pie bajo el agente colgado y usando la tecla de acción cooperativa.   ",
         "it": "Quando è appeso a una sporgenza o a un tubo, un agente può premere il tasto di mossa cooperativa per iniziare la salita sul compagno. L'altro agente può completare la mossa portandosi sotto di lui e premendo il tasto di mossa cooperativa. Questo farà eseguire la manovra.",
-        "th": ""
+        "th": "ขณะโหนอยู่ที่ขอบหรือท่อ เจ้าหน้าที่สามารถกดปุ่ม Co-op เพื่อเริ่มท่าปีนขึ้นบนตัวคู่ทีม เจ้าหน้าที่อีกคนสามารถทำท่าปีนขึ้นบนตัวคู่ทีมให้สมบูรณ์ได้โดยยืนอยู่ใต้เขาแล้วกดปุ่ม Co-op การทำเช่นนี้จะทำท่าให้สำเร็จ"
       },
       "POPUPMESSAGE_0033": {
         "en": "To Initiate an Inverted Descent, the first agent has to position himself near the hole and Interact.",
@@ -688,7 +688,7 @@
         "de": "Um einen \"Kopfüber-Abstieg\" einzuleiten, muss sich der erste Agent in der Nähe des Loches platzieren und die Aktionstaste drücken.",
         "es": "Para iniciar un descenso invverso, el primer agente se coloca cerca del hueco e inicia la acción.",
         "it": "Per iniziare una discesa inversa, il primo agente deve portarsi vicino al buco e interagire.",
-        "th": ""
+        "th": "ในการเริ่มการโหนตัวกลับหัว เจ้าหน้าที่คนแรกต้องจัดตำแหน่งตัวเองใกล้ช่องแล้วกดปุ่มปฏิสัมพันธ์"
       },
       "POPUPMESSAGE_0034": {
         "en": "To Complete an Inverted Descent, the other agent has to position himself facing his partner and Interact.",
@@ -696,7 +696,7 @@
         "de": "Um einen \"Kopfüber-Abstieg\" durchzuführen, muss der eine Agent sich seinem Partner gegenüber platzieren und die Aktionstaste drücken.",
         "es": "Para completar un descenso inverso, el otro agente debe colocarse mirando al primer agente y pulsar la tecla de acción.",
         "it": "Per completare una discesa invertita, il secondo agente deve portarsi davanti al primo e interagire.",
-        "th": ""
+        "th": "ในการทำการโหนตัวกลับหัวให้สมบูรณ์ เจ้าหน้าที่อีกคนต้องจัดตำแหน่งโดยหันหน้าเข้าหาคู่หูแล้วกดปุ่มปฏิสัมพันธ์"
       },
       "POPUPMESSAGE_0035": {
         "en": "To Complete an Inverted Descent, position yourself facing your partner and Interact.",
@@ -704,7 +704,7 @@
         "de": "Um einen Kopfüber-Abstieg durchzuführen, positionieren Sie sich Ihrem Partner gegenüber und drücken die Aktionstaste.",
         "es": "Para completar un descenso inverso, colócate mirando a tu compañero y pulsa la tecla de acción.",
         "it": "Per completare una discesa invertita, portati davanti al tuo compagno e interagisci.",
-        "th": ""
+        "th": "ในการทำการโหนตัวกลับหัวให้สมบูรณ์ ให้จัดตำแหน่งโดยหันหน้าเข้าหาคู่หูของคุณแล้วกดปุ่มปฏิสัมพันธ์"
       },
       "POPUPMESSAGE_0036": {
         "en": "While hanging in an Inverted Descent, you can perform different actions using Interact.  You can access computers, grab on a guard and also use your secondary weapon.",
@@ -712,7 +712,7 @@
         "de": "Während eines Kopfüber-Abstiegs können Sie mittels der Aktionstaste verschiedene Aktionen durchführen. Sie können auf Computer zugreifen, Wachen ergreifen oder Ihre Sekundärwaffe benutzen.",
         "es": "Mientras estás colgado en un descenso inverso, puedes realizar acciones. Pulsa la tecla de acción para acceder a ordenadores, agarrar a guardias e incluso usar tu arma secundaria.",
         "it": "Durante una discesa invertita, puoi effettuare diverse azioni interagendo. Puoi accedere ai computer, afferrare le guardie o usare l'arma secondaria.",
-        "th": ""
+        "th": "ขณะโหนอยู่ในท่าโหนตัวกลับหัว คุณสามารถทำการกระทำต่างๆ ได้ด้วยปุ่มปฏิสัมพันธ์  คุณสามารถใช้งานคอมพิวเตอร์ จับตัวทหารยาม และใช้อาวุธรองได้"
       },
       "POPUPMESSAGE_0037": {
         "en": "To unlock dual retinal scanners, each Agent will need to have a guard to use on the retinal Scanner, and they will need to force the guards onto the scanners at the same time.",
@@ -720,7 +720,7 @@
         "de": "Um zwei Retina-Scanner gleichzeitig zu benutzen, müssen beide Agenten gleichzeitig einen Wachen vor das Gerät zwingen.",
         "es": "Si quieres abrir dos escáners de retina, cada agente debe secuestrar a un guardia que tenga acceso al escáner, y obligarles a que los dos los usen al mismo tiempo.",
         "it": "Per superare un doppio scanner retinico, i due agenti devono costringere contemporaneamente a collaborare una guardia su ogni scanner retinico.",
-        "th": ""
+        "th": "ในการปลดล็อกเครื่องสแกนม่านตาคู่ เจ้าหน้าที่แต่ละคนจะต้องมีทหารยามไว้ใช้กับเครื่องสแกนม่านตา และต้องบังคับทหารยามเหล่านั้นเข้าเครื่องสแกนพร้อมกัน"
       },
       "POPUPMESSAGE_0038": {
         "en": "If either one of the Agents is unable to find a guard, then one (or both) of the scanners will need to be hacked. This is dangerous.",
@@ -728,7 +728,7 @@
         "de": "Wenn einer oder beide Agenten keineWache finden, müssen ein (oder beide) Scanner gehackt werden. Dies ist gefährlich.",
         "es": "Si alguno de los agentes no puede encontrar un guardia, habrá que hackear uno de los escáners o los dos, cosa poco recomendable.",
         "it": "Se uno dei due agenti non riesce a trovare una guardia, allora è possibile sabotare uno o entrambi gli scanner. L'azione è rischiosa.",
-        "th": ""
+        "th": "ถ้าเจ้าหน้าที่คนใดคนหนึ่งหาทหารยามไม่ได้ จะต้องแฮกเครื่องสแกนหนึ่งเครื่อง (หรือทั้งสองเครื่อง) ซึ่งเป็นเรื่องอันตราย"
       },
       "POPUPMESSAGE_0039": {
         "en": "To Initiate a Dual Rappel, one Agent must Interact while in the Dual Rappelling zone.",
@@ -736,7 +736,7 @@
         "de": "Um ein doppeltes Abseilen einzuleiten, muss ein Agent die Aktionstaste drücken, während er sich in der \"Doppel-Abseilen\"-Zone befindet.",
         "es": "Para iniciar un rappel doble, un agente debe pulsar la tecla de acción en la zona de rappel de dúo.",
         "it": "Per iniziare una doppia scalata su un muro, un agente deve interagire mentre si trova nel punto adatto alla doppia scalata.",
-        "th": ""
+        "th": "ในการเริ่มโรยตัวคู่ เจ้าหน้าที่คนหนึ่งต้องกดปุ่มปฏิสัมพันธ์ขณะอยู่ในพื้นที่โรยตัวคู่"
       },
       "POPUPMESSAGE_0040": {
         "en": "To Complete a Dual Rappel, approach the rope or the other Agent and Interact. This will Perform the move.",
@@ -744,7 +744,7 @@
         "de": "Um ein doppeltes Abseilen durchzuführen, nähern Sie sich dem Seil oder Ihrem Partner und drücken die Aktionstaste. Dadurch wird die Aktion ausgeführt.",
         "es": "Para completar un rappel doble, acércate a la cuerda o al otro agente y pulsa la tecla de acción. Así realizarás el movimiento.",
         "it": "Per completare una doppia scalata, avvicinati alla fune o all'altro agente e interagisci. Questo farà eseguire la manovra.",
-        "th": ""
+        "th": "ในการทำโรยตัวคู่ให้สมบูรณ์ ให้เข้าใกล้เชือกหรือเจ้าหน้าที่อีกคนแล้วกดปุ่มปฏิสัมพันธ์ การทำเช่นนี้จะทำท่าให้สำเร็จ"
       },
       "POPUPMESSAGE_0041": {
         "en": "The Agent at the top can move from side to side by pressing the Left or Right Mouse Button.",
@@ -752,7 +752,7 @@
         "de": "Der obere Agent kann sich mit den Maustasten seitwärts bewegen.",
         "es": "El agente que está arriba puede moverse de un lado a otro con los botones izquierdo o derecho del ratón.",
         "it": "L'agente più in alto può muoversi da un lato all'altro usando tasto destro e il tasto sinistro del mouse.",
-        "th": ""
+        "th": "เจ้าหน้าที่ที่อยู่ด้านบนสามารถเคลื่อนไปด้านข้างได้โดยกดปุ่มเมาส์ซ้ายหรือขวา"
       },
       "POPUPMESSAGE_0042": {
         "en": "The Agent on the rope can move Up or Down and use his weapon normally.",
@@ -760,7 +760,7 @@
         "de": "Der Agent am Seil kann sich nach oben oder unten bewegen und seine Waffe benutzen.",
         "es": "El agente de la cuerda puede moverse arriba o abajo y usar su arma con normalidad.",
         "it": "L'agente sulla fune può muoversi su e giù e usare normalmente la sua arma.",
-        "th": ""
+        "th": "เจ้าหน้าที่บนเชือกสามารถเคลื่อนขึ้นหรือลงและใช้อาวุธได้ตามปกติ"
       },
       "POPUPMESSAGE_0059": {
         "en": "Using a microphone in the coop mode can have a direct impact in your session. If you speak loud, you will be detected by the guards around you.",
@@ -768,7 +768,7 @@
         "de": "Die Verwendung des Mikrofons kann im Koop-Modus kann einen direkten Einfluss auf das Spiel haben. Wenn Sie zu laut sprechen, werden die sich in der Nähe befindlichen Wachen Sie entdecken.",
         "es": "Usar el micrófono en el modo cooperativo puede tener un impacto directo en la partida: si hablas alto, te detectarán los guardias.",
         "it": "Usare il microfono in modalità cooperativa può avere effetti diretti sulla sessione. Se parli forte, verrai sentito dalle guardie attorno a te.",
-        "th": ""
+        "th": "การใช้ไมโครโฟนในโหมดร่วมมือส่งผลโดยตรงต่อเซสชันของคุณ ถ้าคุณพูดเสียงดัง ทหารยามรอบตัวจะตรวจจับคุณได้"
       },
       "POPUPMESSAGE_0060": {
         "en": "If you don't use a microphone, use the Chat interface to communicate with your partner.",
@@ -776,7 +776,7 @@
         "de": "Wenn Sie kein Mikrofon benutzen, können Sie das Chat-Interface verwenden, um mit Ihrem Partner zu reden.",
         "es": "Si no tienes micrófono, usa el interfaz de chat para comunicarte con tu compañero.",
         "it": "Se non usi il microfono, verrà attivato un sistema di comunicazioni automatiche. Durante mosse particolari, usa l'interfaccia di Chat per comunicare con il compagno.",
-        "th": ""
+        "th": "ถ้าคุณไม่ใช้ไมโครโฟน ให้ใช้หน้าจอแชทสื่อสารกับคู่หูของคุณ"
       }
     }
   }

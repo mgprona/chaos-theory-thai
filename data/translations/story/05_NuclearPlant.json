@@ -17,7 +17,7 @@
         "de": "LAMBERT - Wir sind gerade rechtzeitig angekommen, um den B-Waffen-Angriff auf die Grand Central Station zu stoppen. Aber es gibt noch keine Entwarnung. Oberst Kim ist geflohen, und wir wissen nicht genau, ob und wo er noch einmal angreifen wird. Die einzige Spur, über die wir verfügen, stammt von den Bomben, die du entschärft hast. Es gibt da eine Spur zu einem Atomkraftwerk in Jongbjon in Nordkorea. Die drei bei dem Angriff verwendeten Doppel-Laserzünder stammen von dort. Die CIA glaubt, dass es sich dabei um ein geheimes militärisches Forschungsprojekt gehandelt hat. Jetzt haben wir den Beweis. Oberst Kim kann das nicht alles allein organisiert haben. In Jongbjon hat ihm bestimmt jemand dabei geholfen. Finde heraus, über wie viele Zünder Kim verfügt, und wer ihm geholfen hat.",
         "es": "LAMBERT - Hemos llegado justo a tiempo para detener el ataque biológico de la Estación Central. Pero aún no podemos dormirnos. El coronel Kim ha escapado y tal vez planee otro ataque. La única pista que tenemos está en el análisis de las bombas que habéis desactivado: al parecer hay una relación con la central nuclear de Yongbyon, en Corea del Norte. Los tres detonadores láser dobles usados en el ataque provienen de allí. La CIA sospecha que era un centro de investigación armamentística encubierto, y ahora tenemos las pruebas. Pero no creo que el coronel Kim lo haya organizado solo, alguien de Yongbyon ha tenido que ayudarle. Averiguad cuántos detonadores tiene Kim y quién le está ayudando.",
         "it": "LAMBERT - Siamo arrivati giusto in tempo per impedire l'attacco biologico alla Grand Central Station, ma non è ancora il momento di riposare. Il colonnello Kim è scappato, e non sappiamo se e dove potrebbe attaccare di nuovo. L'unica traccia che abbiamo viene dall'analisi delle bombe che avete disinnescato. Abbiamo trovato un collegamento con la centrale nucleare di Yongbyon, in Corea del Nord. I 3 detonatori a doppio laser usati nell'attacco vengono da lì. La CIA sospettava che la centrale nascondesse ricerche militari. Ora ne abbiamo le prove. Il colonnello Kim non può aver organizzato tutto da solo. Qualcuno a Yongbyon deve averlo aiutato. Scoprite quanti detonatori aveva Kim e chi l'ha aiutato.",
-        "th": ""
+        "th": "แลมเบิร์ต - เรามาถึงทันเวลาหยุดการโจมตีทางชีวภาพที่แกรนด์เซ็นทรัลสเตชันพอดี แต่นี่ไม่ใช่เวลาผ่อนคลาย พันเอกคิมหนีไปแล้ว และเราไม่รู้ว่าเขาจะโจมตีอีกหรือไม่ และที่ไหน ร่องรอยเดียวที่เรามีมาจากการวิเคราะห์ระเบิดที่คุณปลดไว้ มันเผยความเชื่อมโยงกับโรงไฟฟ้านิวเคลียร์ที่ยงบยอนในเกาหลีเหนือ ตัวจุดชนวนแบบเลเซอร์คู่สามตัวที่ใช้ในการโจมตีมาจากที่นั่น CIA สงสัยมานานแล้วว่ามันเป็นฉากบังหน้าของงานวิจัยทางทหาร ตอนนี้เรามีหลักฐานแล้ว พันเอกคิมไม่สามารถจัดฉากทุกอย่างได้ด้วยตัวเอง ต้องมีคนที่ยงบยอนช่วยเขา หาว่าคิมได้ตัวจุดชนวนไปกี่ตัวและใครช่วยเขา"
       },
       "MapName": {
         "en": "NUCLEAR PLANT",
@@ -25,7 +25,7 @@
         "de": "ATOMKRAFTWERK",
         "es": "CENTRAL NUCLEAR",
         "it": "CENTRALE NUCLEARE",
-        "th": ""
+        "th": "โรงไฟฟ้านิวเคลียร์"
       }
     },
     "Interaction": {
@@ -36,7 +36,7 @@
         "de": "Exfiltration",
         "es": "Extracción",
         "it": "Estrazione",
-        "th": ""
+        "th": "ถอนกำลัง"
       }
     },
     "Computer": {
@@ -47,7 +47,7 @@
         "de": "Server für das Zentralarchiv öffnen",
         "es": "Abrir servidor del archivo central",
         "it": "Apri i server degli archivi centrali",
-        "th": ""
+        "th": "เปิดเซิร์ฟเวอร์คลังข้อมูลกลาง"
       },
       "CompBlueprints": {
         "en": "Yongbyon Complex’s Blueprints",
@@ -55,7 +55,7 @@
         "de": "Blaupausen des Komplexes in Jongbjon",
         "es": "Planos del complejo de Yongbyon",
         "it": "Schemi del complesso di Yongbyon",
-        "th": ""
+        "th": "แบบแปลนของกลุ่มอาคารยงบยอน"
       },
       "CompFans": {
         "en": "Stop Ventilation Fans",
@@ -63,7 +63,7 @@
         "de": "Ventilatoren stoppen",
         "es": "Detención de los ventiladores",
         "it": "Blocca il sistema di ventilazione",
-        "th": ""
+        "th": "หยุดพัดลมระบายอากาศ"
       },
       "CompSecurityDoors": {
         "en": "Open security doors",
@@ -71,7 +71,7 @@
         "de": "Sicherheitstüren öffnen",
         "es": "Abrir las puertas de seguridad",
         "it": "Apri le porte di sicurezza.",
-        "th": ""
+        "th": "เปิดประตูรักษาความปลอดภัย"
       }
     },
     "Email": {
@@ -82,7 +82,7 @@
         "de": "Heute habe ich auftragsgemäss vier Doppel-Laserzünder an Kim Pak-tu geliefert. Ich bitte um Aktualisierung des Bestands der Waffenprototypen. Wen Bae-su, Leiter des radiochemischen Labors in Jongbjon",
         "es": "Hoy he recibido órdenes de entregar 4 detonadores láser dobles al coronel Kim Pak-tu. Por favor, actualicen el inventario de prototipo de armas. Wen Bae-su, Director del Laboratorio Radioquímico de Yongbyon",
         "it": "Oggi, come da ordini ricevuti, ho consegnato 4 detonatori a doppio laser al colonnello Kim Pak-tu. È necessario aggiornare l'inventario dei prototipi d'arma. Wen Bae-su, Direttore del Laboratorio di Radiochimica, Yongbyon",
-        "th": ""
+        "th": "วันนี้ ตามคำสั่งที่ได้รับ ฉันส่งมอบตัวจุดชนวนแบบเลเซอร์คู่ 4 ตัวให้พันเอกคิม พักทู โปรดอัปเดตบัญชีต้นแบบอาวุธ เวน แบซู - ผู้อำนวยการห้องปฏิบัติการรังสีเคมี - ยงบยอน"
       },
       "EmailControlRoomDate": {
         "en": "10/10/2007",
@@ -90,7 +90,7 @@
         "de": "10.10.2007",
         "es": "10/10/2007",
         "it": "10/10/2007",
-        "th": ""
+        "th": "10/10/2007"
       },
       "EmailControlRoomFrom": {
         "en": "Wen Bae-su",
@@ -98,7 +98,7 @@
         "de": "Wen Bae-su",
         "es": "Wen Bae-su",
         "it": "Wen Bae-su",
-        "th": ""
+        "th": "เวน แบซู"
       },
       "EmailControlRoomSubject": {
         "en": "Prototype inventory update",
@@ -106,7 +106,7 @@
         "de": "Aktualisierung des Prototypenbestands",
         "es": "Actualizar inventario de prototipos",
         "it": "Aggiornamento inventario prototipi",
-        "th": ""
+        "th": "อัปเดตบัญชีต้นแบบ"
       },
       "EmailControlRoomTo": {
         "en": "Central Archives",
@@ -114,7 +114,7 @@
         "de": "Zentralarchiv",
         "es": "Archivos centrales",
         "it": "Archivi centrali",
-        "th": ""
+        "th": "คลังข้อมูลกลาง"
       },
       "EmailLabBody": {
         "en": "Dear Director Wen, I’m very interested in the detonators you showed me the last time I came to Yongbyon. Deliver as many detonators as you can to Colonel Kim Pak-tu for a test mission. Best regards. Jin Soo - Research Department for External Intelligence - Cabinet General Intelligence Bureau",
@@ -122,7 +122,7 @@
         "de": "Verehrter Direktor Wen, ich bin sehr an den Zündern interessiert, die Sie mir bei meinem letzten Besuch gezeigt haben. Liefern Sie so viele wie möglich an Oberst Kim Pak-tu, der einige Tests durchführen wird. Mit freundlichen Grüssen, Jin Soo - Forschungsabteilung für externe Aufklärung - Zentraler Nachrichtendienst des Kabinetts",
         "es": "Querido director Wen, estoy muy interesado en los detonadores que me mostró en mi última visita a Yongbyon. Envíe tantos detonadores como pueda al coronel Kim Pak-tu para un test. Saludos. Jin Soo - Departamento de Investigación de Información Internacional, Oficina General de Inteligencia",
         "it": "Spettabile direttore Wen, sono molto interessato ai detonatori che mi ha mostrato nella mia ultima visita a Yongbyon. Consegnate più detonatori possibili al colonnello Kim Pak-tu per una missione di prova. Cordiali saluti. Jin Soo - Dipartimento di Ricerca per lo Spionaggio Esterno - Ufficio Generale per i Servizi Segreti Governativi",
-        "th": ""
+        "th": "เรียนท่านผู้อำนวยการเวน ฉันสนใจตัวจุดชนวนที่ท่านให้ดูครั้งล่าสุดที่ฉันไปยงบยอนมาก ส่งตัวจุดชนวนมาให้พันเอกคิม พักทูให้มากที่สุดเท่าที่จะทำได้เพื่อภารกิจทดสอบ ขอแสดงความนับถือ จิน ซู - ฝ่ายวิจัยข่าวกรองต่างประเทศ - สำนักข่าวกรองกลางคณะรัฐมนตรี"
       },
       "EmailLabDate": {
         "en": "08/10/2007",
@@ -130,7 +130,7 @@
         "de": "08.10.2007",
         "es": "10/10/2007",
         "it": "08/10/2007",
-        "th": ""
+        "th": "08/10/2007"
       },
       "EmailLabFrom": {
         "en": "Jin Soo",
@@ -138,7 +138,7 @@
         "de": "Jin Soo",
         "es": "Jin Soo",
         "it": "Jin Soo",
-        "th": ""
+        "th": "จิน ซู"
       },
       "EmailLabSubject": {
         "en": "Detonator prototypes",
@@ -146,7 +146,7 @@
         "de": "Zünder-Prototypen",
         "es": "Prototipos del detonador",
         "it": "Prototipi di detonatore",
-        "th": ""
+        "th": "ต้นแบบตัวจุดชนวน"
       },
       "EmailLabTo": {
         "en": "Wen Bae-su",
@@ -154,7 +154,7 @@
         "de": "Wen Bae-su",
         "es": "Wen Bae-su",
         "it": "Wen Bae-su",
-        "th": ""
+        "th": "เวน แบซู"
       }
     },
     "P_05_NuclearPlant_AlarmCheck": {
@@ -165,7 +165,7 @@
         "de": "Die Gegner tragen eine Körperpanzerung.",
         "es": "Los enemigos llevan chalecos blindados.",
         "it": "I NEMICI INDOSSANO IL GIUBBOTTO ANTIPROIETTILE.",
-        "th": ""
+        "th": "ศัตรูสวมเกราะป้องกัน"
       },
       "Note_0006L": {
         "en": "Enemies are wearing helmets",
@@ -173,7 +173,7 @@
         "de": "Die Gegner tragen Helme.",
         "es": "Los enemigos llevan cascos.",
         "it": "I NEMICI INDOSSANO L'ELMETTO.",
-        "th": ""
+        "th": "ศัตรูสวมหมวกกันน็อก"
       },
       "Note_0007L": {
         "en": "Enemies have fortified their positions",
@@ -181,7 +181,7 @@
         "de": "Die Gegner haben ihre Stellungen befestigt.",
         "es": "Los enemigos han reforzado sus posiciones.",
         "it": "I NEMICI HANNO CREATO DELLE DIFESE.",
-        "th": ""
+        "th": "ศัตรูเสริมกำลังที่มั่นแล้ว"
       },
       "POPUPMESSAGE_0001": {
         "en": "Alarm Stage One",
@@ -189,7 +189,7 @@
         "de": "Alarmstufe Eins",
         "es": "Alarma de nivel uno",
         "it": "Allarme di primo livello",
-        "th": ""
+        "th": "ระดับสัญญาณเตือนภัยขั้นที่หนึ่ง"
       },
       "POPUPMESSAGE_0002": {
         "en": "Alarm Stage Two",
@@ -197,7 +197,7 @@
         "de": "Alarmstufe Zwei",
         "es": "Alarma de nivel dos",
         "it": "Allarme di secondo livello",
-        "th": ""
+        "th": "ระดับสัญญาณเตือนภัยขั้นที่สอง"
       },
       "POPUPMESSAGE_0003": {
         "en": "Alarm Stage Three",
@@ -205,7 +205,7 @@
         "de": "Alarmstufe Drei",
         "es": "Alarma de nivel tres",
         "it": "Allarme di terzo livello",
-        "th": ""
+        "th": "ระดับสัญญาณเตือนภัยขั้นที่สาม"
       },
       "POPUPMESSAGE_0004": {
         "en": "Alarm Stage Four - Full Alert - Enemies Fortifying Positions",
@@ -213,7 +213,7 @@
         "de": "Alarmstufe Vier – Grossalarm – Feinde nehmen befestigte Positionen ein",
         "es": "Alarma de nivel cuatro - Alerta general - El enemigo refuerza posiciones.",
         "it": "Allarme di quarto livello - Allerta - I nemici stanno creando delle difese",
-        "th": ""
+        "th": "ระดับสัญญาณเตือนภัยขั้นที่สี่ - เตรียมพร้อมเต็มอัตรา - ศัตรูเสริมกำลังที่มั่น"
       }
     },
     "P_05_NuclearPlant_LambertConv": {
@@ -224,7 +224,7 @@
         "de": "Die Treppe im Turbinenbereich wird mit einer Sicherheitskamera überwacht.",
         "es": "Una cámara de seguridad cubre las escaleras en el área de la turbina.",
         "it": "Una telecamera a circuito chiuso copre le scale nell'area della turbina.",
-        "th": ""
+        "th": "มีกล้องวงจรปิดคลุมบันไดในพื้นที่กังหัน"
       },
       "Note_0010L": {
         "en": "The door that leads to the Main Control Room is locked by a retinal scanner.",
@@ -232,7 +232,7 @@
         "de": "Die Tür zum Hauptkontrollraum wird durch einen Retina-Scanner gesichert.",
         "es": "La puerta de la sala de control principal está protegida por escáner de retina.",
         "it": "La porta che conduce alla sala controllo è chiusa da uno scanner retinico.",
-        "th": ""
+        "th": "ประตูที่นำไปสู่ห้องควบคุมหลักถูกล็อกด้วยเครื่องสแกนม่านตา"
       },
       "Note_0012L": {
         "en": "The Radiochemistry Laboratory's Server Room is locked by a retinal scanner.",
@@ -240,7 +240,7 @@
         "de": "Der Serverraum des radiochemischen Labors ist durch einen Retina-Scanner gesichert.",
         "es": "La sala del servidor del laboratorio radioquímico tiene un escáner de retina.",
         "it": "La stanza dei server del Laboratorio di Radiochimica è chiusa da uno scanner retinico.",
-        "th": ""
+        "th": "ห้องเซิร์ฟเวอร์ของห้องปฏิบัติการรังสีเคมีถูกล็อกด้วยเครื่องสแกนม่านตา"
       },
       "Speech_0002L": {
         "en": "LAMBERT - The security doors are blocked. There should be a computer around here to control them.",
@@ -248,7 +248,7 @@
         "de": "LAMBERT - Die Sicherheitstüren sind blockiert. Sie müssten sich von einem Computer in der Nähe aus steuern lassen.",
         "es": "LAMBERT - Las puertas de seguridad están cerradas. Tiene que haber un ordenador cerca que las controla.",
         "it": "LAMBERT - Le porte di sicurezza sono chiuse. Qui attorno dovrebbe esserci il computer che le controlla.",
-        "th": ""
+        "th": "แลมเบิร์ต - ประตูรักษาความปลอดภัยถูกปิดกั้น น่าจะมีคอมพิวเตอร์แถวนี้สำหรับควบคุมมัน"
       },
       "Speech_0004L": {
         "en": "LAMBERT - The turbine is just above your heads. Reach the stairs on the other side of this room.",
@@ -256,7 +256,7 @@
         "de": "LAMBERT - Die Turbine ist direkt über deinem Kopf. Laufe zur Treppe auf der anderen Seite des Raums.",
         "es": "LAMBERT - La turbina está justo encima de vosotros. Subid por las escaleras del otro lado de la sala.",
         "it": "LAMBERT - La turbina è proprio sopra le vostre teste. Raggiungete le scale dall'altra parte della stanza.",
-        "th": ""
+        "th": "แลมเบิร์ต - กังหันอยู่เหนือหัวคุณขึ้นไปนิดเดียว ไปให้ถึงบันไดอีกฟากของห้องนี้"
       },
       "Speech_0005L": {
         "en": "LAMBERT - Good. Now cross the turbine room and you'll be on the way to the control room.",
@@ -264,7 +264,7 @@
         "de": "LAMBERT - Gut. Durchquere jetzt den Turbinenraum und laufe dann in Richtung Kontrollraum.",
         "es": "LAMBERT - Bien, ahora cruzad la sala de la turbina y estaréis cerca de la sala de control.",
         "it": "LAMBERT - Bene. Una volta attraversata la stanza della turbina sarete sulla strada per la sala controllo.",
-        "th": ""
+        "th": "แลมเบิร์ต - ดี ตอนนี้ข้ามห้องกังหันมา แล้วคุณจะอยู่บนเส้นทางไปห้องควบคุม"
       },
       "Speech_0007L": {
         "en": "LAMBERT - From the blueprints it looks like you can reach the Lab's server from a trap-door in the ceiling.",
@@ -272,7 +272,7 @@
         "de": "LAMBERT - Anhand der Blaupausen lässt sich der Serverraum des Labors über eine Falltür in der Decke erreichen.",
         "es": "LAMBERT - Según los planos, podríais llegar al servidor del laboratorio usando una trampilla del techo.",
         "it": "LAMBERT - Dagli schemi sembra che il server del laboratorio si possa raggiungere da una botola nel soffitto.",
-        "th": ""
+        "th": "แลมเบิร์ต - จากแบบแปลน ดูเหมือนคุณเข้าถึงเซิร์ฟเวอร์ของห้องแล็บได้ทางประตูกลบนเพดาน"
       },
       "Speech_0008L": {
         "en": "LAMBERT - Jin Soo? He is a CGIB officer. Well done. He could lead us to Kim. Now exit the Lab from the side door and we'll bring you home.",
@@ -280,7 +280,7 @@
         "de": "LAMBERT - Jin Soo? Er ist Offizier beim CIGB. Gut gemacht. Er könnte uns zu Kim führen. Verlasse jetzt das Labor durch die Seitentür, wir bringen dich nach Hause.",
         "es": "LAMBERT - ¿Jin Soo? Es de la Oficina General de Inteligencia. Bien hecho, puede que nos lleve hasta Kim. Ahora salid del laboratorio por la puerta lateral y os recogeremos.",
         "it": "LAMBERT - Jin Soo? è un ufficiale del Servizio Segreto. Potrebbe portarci a Kim. Ben fatto. Ora uscite dalla porta laterale del laboratorio e vi riportiamo a casa.",
-        "th": ""
+        "th": "แลมเบิร์ต - จิน ซู? เขาเป็นเจ้าหน้าที่ CGIB ทำได้ดี เขาอาจนำเราไปถึงคิมได้ ตอนนี้ออกจากห้องแล็บทางประตูด้านข้าง แล้วเราจะพาคุณกลับบ้าน"
       },
       "Speech_0011L": {
         "en": "LAMBERT - Today is not your lucky day. The elevator cannot be called from here. Find another way to reach the upper floor.",
@@ -288,7 +288,7 @@
         "de": "LAMBERT - Heute ist nicht dein Glückstag. Den Aufzug kann man nicht von hier aus anfordern. Du musst einen anderen Weg ins obere Stockwerk finden.",
         "es": "LAMBERT - Hoy no es vuestro día de suerte. No podemos llamar al ascensor desde aquí, buscad otra forma de subir.",
         "it": "LAMBERT - Oggi non è il vostro giorno fortunato. L'ascensore non si può chiamare da qui. Bisogna trovare un altro modo di raggiungere il piano superiore.",
-        "th": ""
+        "th": "แลมเบิร์ต - วันนี้ไม่ใช่วันดีของคุณ ลิฟต์เรียกจากที่นี่ไม่ได้ หาวิธีอื่นขึ้นไปชั้นบน"
       },
       "Speech_0013L": {
         "en": "LAMBERT - Stop kidding around! I told you to go upstairs. This is not the time to play with radioactive toys.",
@@ -296,7 +296,7 @@
         "de": "LAMBERT - Hör' mit dem Quatsch auf! Ich sagte, du sollst nach oben gehen. Wir haben keine Zeit für alberne Spielchen mit radioaktivem Material.",
         "es": "LAMBERT - ¡Dejad de hacer el tonto! Os he dicho que subáis al piso de arriba, no hay tiempo para jugar con esos trastos. ",
         "it": "LAMBERT - Smettetela di giocare! Vi ho detto di andare di sopra. Non è ora di scherzare con la radioattività.",
-        "th": ""
+        "th": "แลมเบิร์ต - เลิกเล่นได้แล้ว! ฉันบอกให้ขึ้นไปชั้นบน นี่ไม่ใช่เวลามาเล่นกับของเล่นกัมมันตรังสี"
       },
       "Speech_0014L": {
         "en": "LAMBERT - The security doors are blocked. There should be a computer around here to control them.",
@@ -304,7 +304,7 @@
         "de": "LAMBERT - Die Sicherheitstüren sind blockiert. Sie müssten sich von einem Computer in der Nähe aus steuern lassen.",
         "es": "LAMBERT - Las puertas de seguridad están cerradas. Tiene que haber un ordenador cerca que las controla.",
         "it": "LAMBERT - Le porte di sicurezza sono chiuse. Qui attorno dovrebbe esserci il computer che le controlla.",
-        "th": ""
+        "th": "แลมเบิร์ต - ประตูรักษาความปลอดภัยถูกปิดกั้น น่าจะมีคอมพิวเตอร์แถวนี้สำหรับควบคุมมัน"
       }
     },
     "P_05_NuclearPlant_OBJ": {
@@ -315,7 +315,7 @@
         "de": "Das Zentralarchiv ist im Hauptkontrollraum.",
         "es": "Los archivos centrales están en la sala de control principal.",
         "it": "Gli archivi centrali sono nella sala controllo.",
-        "th": ""
+        "th": "คลังข้อมูลกลางอยู่ในห้องควบคุมหลัก"
       },
       "Note_0025L": {
         "en": "The Main Control Room is close to the turbine area.",
@@ -323,7 +323,7 @@
         "de": "Der Hauptkontrollraum ist in der Nähe des Turbinenbereichs.",
         "es": "La sala de control principal está cerca de la zona de la turbina.",
         "it": "La sala controllo è vicina all'area della turbina.",
-        "th": ""
+        "th": "ห้องควบคุมหลักอยู่ใกล้พื้นที่กังหัน"
       },
       "Note_0026L": {
         "en": "The Radiochemistry Laboratory is connected to the Power Plant by an external footbridge.",
@@ -331,7 +331,7 @@
         "de": "Das radiochemische Labor und das Kraftwerk sind durch einen aussen gelegenen Steg miteinander verbunden.",
         "es": "El laboratorio radioquímico está conectado a la central nuclear por una pasarela externa.",
         "it": "Il laboratorio di radiochimica è collegato alla centrale nucleare da una passerella esterna.",
-        "th": ""
+        "th": "ห้องปฏิบัติการรังสีเคมีเชื่อมต่อกับโรงไฟฟ้าด้วยสะพานลอยเดินเท้าภายนอก"
       },
       "Note_0027L": {
         "en": "Lasers protect the corridor leading to the footbridge.",
@@ -339,7 +339,7 @@
         "de": "Der Gang zum Steg ist durch Laser gesichert.",
         "es": "Una red de láser protege el pasillo que lleva a la pasarela.",
         "it": "Il corridoio che porta alla passerella è protetto dai laser.",
-        "th": ""
+        "th": "มีเลเซอร์ป้องกันทางเดินที่นำไปสู่สะพานลอย"
       },
       "Note_0028L": {
         "en": "The primary extraction point is out of the Radiochemistry Laboratory's side door.",
@@ -347,7 +347,7 @@
         "de": "Die Exfiltration findet durch die Seitentür des radiochemischen\u0019Labors statt.",
         "es": "El punto de extracción primario está en la puerta lateral del laboratorio radioquímico.",
         "it": "Il punto di estrazione è oltre la porta laterale del laboratorio di radiochimica.",
-        "th": ""
+        "th": "จุดถอนกำลังหลักอยู่ที่ประตูด้านข้างของห้องปฏิบัติการรังสีเคมี"
       },
       "Objective_0003": {
         "en": "Discover if Kim can attack again",
@@ -355,7 +355,7 @@
         "de": "Finden Sie heraus, ob Kim erneut zuschlagen kann.",
         "es": "Averiguad si Kim podría volver a atacar.",
         "it": "Scopri se Kim può attaccare di nuovo",
-        "th": ""
+        "th": "ค้นหาว่าคิมจะโจมตีได้อีกหรือไม่"
       },
       "Objective_0004": {
         "en": "Kim placed 3 bombs in New York. You must discover how many bombs Colonel Kim got.",
@@ -363,7 +363,7 @@
         "de": "Kim hat drei Bomben in New York gelegt. Finden Sie heraus, über wie viele Bomben Oberst Kim verfügt.",
         "es": "Kim puso tres bombas en Nueva York. Hay que descubrir cuántas bombas tiene el coronel.",
         "it": "Il colonnello Kim ha collocato 3 bombe a New York. Dovete scoprire quante ne aveva.",
-        "th": ""
+        "th": "คิมวางระเบิดไว้ 3 ลูกในนิวยอร์ก คุณต้องค้นหาว่าพันเอกคิมได้ระเบิดไปกี่ลูก"
       },
       "Objective_0012": {
         "en": "Exfiltrate to the primary extraction point",
@@ -371,7 +371,7 @@
         "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
         "es": "Id al punto de extracción primario.",
         "it": "Vai al punto di estrazione primario.",
-        "th": ""
+        "th": "ถอนกำลังไปยังจุดถอนกำลังหลัก"
       },
       "Objective_0013": {
         "en": "Reach the extraction zone out of the Radiochemistry Laboratory's side door.",
@@ -379,7 +379,7 @@
         "de": "Zur Abholzone kommen Sie durch die Seitentür des radiochemischen Labors.",
         "es": "Id a la zona de extracción, por la puerta lateral del laboratorio radioquímico.",
         "it": "Raggiungi il punto di estrazione oltre la porta laterale del laboratorio di radiochimica.",
-        "th": ""
+        "th": "ไปให้ถึงเขตถอนกำลังที่ประตูด้านข้างของห้องปฏิบัติการรังสีเคมี"
       },
       "Objective_0015": {
         "en": "Gather Yongbyon complex's blueprints",
@@ -387,7 +387,7 @@
         "de": "Beschaffen Sie die Blaupausen des Jongbjon-Komplexes\u0019",
         "es": "Conseguid los planos de Yongbyon.",
         "it": "Trova gli schemi del complesso di Yongbyon",
-        "th": ""
+        "th": "รวบรวมแบบแปลนของกลุ่มอาคารยงบยอน"
       },
       "Objective_0016": {
         "en": "With the blueprints, Lambert can give you valuable advice about the complex.",
@@ -395,7 +395,7 @@
         "de": "Wenn Lambert die Blaupausen hat, kann er Ihnen wertvolle Ratschläge über den Komplex geben.",
         "es": "Con los planos, Lambert puede daros información precisa sobre el complejo.",
         "it": "Con gli schemi Lambert potrà darti utili consigli riguardo al complesso.",
-        "th": ""
+        "th": "เมื่อมีแบบแปลน แลมเบิร์ตจะให้คำแนะนำที่มีค่าเกี่ยวกับกลุ่มอาคารนี้ได้"
       },
       "Objective_0020": {
         "en": "Find out who helped Kim",
@@ -403,7 +403,7 @@
         "de": "Finden Sie heraus, wer Kim geholfen hat.",
         "es": "Buscad al que pudo ayudar a Kim.",
         "it": "Scopri chi ha aiutato Kim",
-        "th": ""
+        "th": "ค้นหาว่าใครช่วยคิม"
       },
       "Objective_0021": {
         "en": "Colonel Kim cannot have organized everything by himself. Someone must have helped him. Find out who.",
@@ -411,7 +411,7 @@
         "de": "Oberst Kim kann das nicht alles allein organisiert haben. Es hat ihm bestimmt jemand dabei geholfen. Finden Sie heraus, wer das war.",
         "es": "El coronel Kim no ha podido organizarlo sólo. Alguien de dentro ha tenido que ayudarle. Buscadle.",
         "it": "Il colonnello Kim non può aver organizzato tutto da solo. Qualcuno deve averlo aiutato. Scopri chi.",
-        "th": ""
+        "th": "พันเอกคิมไม่สามารถจัดฉากทุกอย่างได้ด้วยตัวเอง ต้องมีคนช่วยเขา หาว่าเป็นใคร"
       },
       "POPUPMESSAGE_0019": {
         "en": "Exfiltrate to the primary extraction point",
@@ -419,7 +419,7 @@
         "de": "Begeben Sie sich zum primären Exfiltrationspunkt.",
         "es": "Id al punto de extracción primario.",
         "it": "Vai al punto di estrazione primario.",
-        "th": ""
+        "th": "ถอนกำลังไปยังจุดถอนกำลังหลัก"
       },
       "POPUPMESSAGE_0022": {
         "en": "Find out who helped Kim",
@@ -427,7 +427,7 @@
         "de": "Finden Sie heraus, wer Kim geholfen hat.",
         "es": "Buscad al que ayudó a Kim.",
         "it": "Scopri chi ha aiutato Kim",
-        "th": ""
+        "th": "ค้นหาว่าใครช่วยคิม"
       },
       "Speech_0005L": {
         "en": "LAMBERT - We do not have the blueprints of the complex. Infiltrate the building and locate the main control room. The intelligence we are looking for should be there.",
@@ -435,7 +435,7 @@
         "de": "LAMBERT - Uns fehlen die Blaupausen des Komplexes. Infiltriere das Gebäude und suche den Hauptkontrollraum. Dort sollten die fehlenden Hinweise zu finden sein.",
         "es": "LAMBERT - No  tenemos los planos del complejo, infiltraos en el edificio y encontrad la sala de control principal. Los datos que buscamos estarán ahí.",
         "it": "LAMBERT - Non abbiamo gli schemi progettuali del complesso. Infiltratevi nell'edificio e trovate la sala controllo. Le informazioni che ci servono potrebbero essere lì.",
-        "th": ""
+        "th": "แลมเบิร์ต - เราไม่มีแบบแปลนของกลุ่มอาคารนี้ แทรกซึมเข้าอาคารแล้วหาห้องควบคุมหลัก ข้อมูลที่เราตามหาน่าจะอยู่ที่นั่น"
       },
       "Speech_0008L": {
         "en": "LAMBERT - God Dammit! Kim still has one bomb and he will surely attack again. We absolutely need to find out who helped Kim. Proceed to the Lab.",
@@ -443,7 +443,7 @@
         "de": "LAMBERT - Verdammt noch mal! Kim hat immer noch eine Bombe und wird sicher noch einmal zuschlagen. Wir müssen unbedingt herausfinden, wer Kim geholfen hat. Geh' ins Labor.",
         "es": "LAMBERT - ¡Maldita sea! Kim aún tiene una bomba en su poder y seguro que atacará de nuevo. Hay que averiguar quién ayudó a Kim. Id al laboratorio.",
         "it": "LAMBERT - Dannazione! Kim ha ancora una bomba, e sicuramente attaccherà di nuovo. Dobbiamo assolutamente scoprire chi l'ha aiutato. Andate al laboratorio.",
-        "th": ""
+        "th": "แลมเบิร์ต - ให้ตายสิ! คิมยังมีระเบิดอีกหนึ่งลูกและเขาจะโจมตีอีกแน่ เราจำเป็นต้องรู้ว่าใครช่วยคิม มุ่งหน้าไปที่ห้องแล็บ"
       },
       "Speech_0014L": {
         "en": "LAMBERT - Jin Soo...he is a CGIB officer. He could lead us to Kim. Well done. Now exit the Lab from the side door and we'll bring you home.",
@@ -451,7 +451,7 @@
         "de": "LAMBERT - Jin Soo ... Er ist Offizier beim ZNDK. Er könnte uns zu Kim führen. Gut gemacht. Verlasse jetzt das Labor durch die Seitentür. Wir bringen dich nach Hause.",
         "es": "LAMBERT - Jin Soo... Es del CGIB, podría llevarnos hasta Kim. Bien hecho, ahora salid del laboratorio por la puerta lateral y os sacaremos de ahí.",
         "it": "LAMBERT - Jin Soo... è un ufficiale del Servizio Segreto. Potrebbe portarci a Kim. Ben fatto. Ora uscite dalla porta laterale del laboratorio e vi riportiamo a casa.",
-        "th": ""
+        "th": "แลมเบิร์ต - จิน ซู... เขาเป็นเจ้าหน้าที่ CGIB เขาอาจนำเราไปถึงคิมได้ ทำได้ดี ตอนนี้ออกจากห้องแล็บทางประตูด้านข้าง แล้วเราจะพาคุณกลับบ้าน"
       },
       "Speech_0023L": {
         "en": "LAMBERT - We have the blueprints. Good. Now I can lead you to the control room. Go on to the turbine zone.",
@@ -459,7 +459,7 @@
         "de": "LAMBERT - Wir haben die Blaupausen. Gut. Jetzt kann ich dich in den Kontrollraum führen. Gehe weiter in die Turbinenzone.",
         "es": "LAMBERT - Ya tenemos los planos. Estupendo, ahora puedo guiaros hasta la sala de control. Id a la zona de la turbina.",
         "it": "LAMBERT - Abbiamo gli schemi progettuali. Ben fatto. Ora posso guidarvi alla sala controllo. Andate nell'area della turbina.",
-        "th": ""
+        "th": "แลมเบิร์ต - เราได้แบบแปลนมาแล้ว ดี ตอนนี้ฉันนำคุณไปห้องควบคุมได้ ไปที่เขตกังหันต่อ"
       }
     }
   }

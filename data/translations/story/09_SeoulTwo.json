@@ -17,7 +17,7 @@
         "de": "SEOUL",
         "es": "SEÚL",
         "it": "SEUL",
-        "th": ""
+        "th": "โซล"
       },
       "Briefing": {
         "en": "TODO",
@@ -25,7 +25,7 @@
         "de": "AUFGABE",
         "es": "TODO",
         "it": "INCARICO",
-        "th": ""
+        "th": "TODO"
       }
     },
     "Computer": {
@@ -36,7 +36,7 @@
         "de": "Radar deaktivieren",
         "es": "Desactivar radar",
         "it": "Disattiva radar",
-        "th": ""
+        "th": "ปิดเรดาร์"
       },
       "CompUploadTap": {
         "en": "Upload Tap",
@@ -44,7 +44,7 @@
         "de": "Angezapfte Daten hochladen",
         "es": "Cargar programa",
         "it": "Carica intercettazioni",
-        "th": ""
+        "th": "อัปโหลดเครื่องดักฟัง"
       },
       "CompUAVData": {
         "en": "UAV Data",
@@ -52,7 +52,7 @@
         "de": "Drohnen-Daten",
         "es": "Datos del avión teledirigido ",
         "it": "Dati UAV",
-        "th": ""
+        "th": "ข้อมูล UAV"
       }
     },
     "Interaction": {
@@ -63,7 +63,7 @@
         "de": "Flugzeug visieren",
         "es": "Designar el avión",
         "it": "Designa l'aereo",
-        "th": ""
+        "th": "กำหนดเป้าหมายเครื่องบิน"
       }
     },
     "P_09_SeoulTwo_Bombdrop": {
@@ -74,7 +74,7 @@
         "de": "Äh ... Shing?",
         "es": "Eh... ¿Shing?",
         "it": "Ehm... Shing?",
-        "th": ""
+        "th": "จุง - เอ่อ... ชิง?"
       },
       "Speech_0002L": {
         "en": "Yeah, what is... ah!",
@@ -82,7 +82,7 @@
         "de": "Ja, was ist ... (sieht die Bombe) ah!",
         "es": "Sí, ¿qué...? ¡Aaaah!",
         "it": "Sì, cosa... ah!",
-        "th": ""
+        "th": "ใช่ อะไร... อ๊ะ!"
       },
       "Speech_0003L": {
         "en": "I found out what that beeping sound was...",
@@ -90,7 +90,7 @@
         "de": "Ich habe herausgefunden, was das piepsende Geräusch ist ...",
         "es": "He descubierto qué era ese zumbido...",
         "it": "Ho scoperto cos'era quel rumore...",
-        "th": ""
+        "th": "ฉันรู้แล้วว่าเสียงบี๊บนั่นคืออะไร..."
       },
       "Speech_0004L": {
         "en": "Is it... is it a dud?",
@@ -98,7 +98,7 @@
         "de": "Ist das ... ist das ein Blindgänger?",
         "es": "¿Una bomba sin explotar?",
         "it": "È... è a salve?",
-        "th": ""
+        "th": "มัน... มันเป็นลูกที่ไม่ระเบิดเหรอ?"
       },
       "Speech_0005L": {
         "en": "I don't know...",
@@ -106,7 +106,7 @@
         "de": "Keine Ahnung ...",
         "es": "No lo sé.",
         "it": "Non lo so...",
-        "th": ""
+        "th": "ไม่รู้สิ..."
       },
       "Speech_0006L": {
         "en": "Check it...",
@@ -114,7 +114,7 @@
         "de": "Schau nach ...",
         "es": "Compruébalo.",
         "it": "Controlla...",
-        "th": ""
+        "th": "ลองไปดูสิ..."
       },
       "Speech_0007L": {
         "en": "You check it.",
@@ -122,7 +122,7 @@
         "de": "Schau du nach.",
         "es": "Compruébalo tú.",
         "it": "Controlla tu...",
-        "th": ""
+        "th": "แกไปดูเองสิ"
       },
       "Speech_0008L": {
         "en": "Okay...",
@@ -130,7 +130,7 @@
         "de": "Okay ...",
         "es": "Vale...",
         "it": "Ok...",
-        "th": ""
+        "th": "ก็ได้..."
       },
       "Speech_0009L": {
         "en": "Easy...",
@@ -138,7 +138,7 @@
         "de": "Vorsichtig ...",
         "es": "Cuidado...",
         "it": "Calma...",
-        "th": ""
+        "th": "ใจเย็นๆ..."
       },
       "Speech_0010L": {
         "en": "Take cover!",
@@ -146,7 +146,7 @@
         "de": "In Deckung!",
         "es": "¡A cubierto!",
         "it": "Al riparo!",
-        "th": ""
+        "th": "หาที่กำบัง!"
       },
       "Speech_0011L": {
         "en": "I want my mom...",
@@ -154,7 +154,7 @@
         "de": "Ich will zu meiner Mama ...",
         "es": "Madre mía...",
         "it": "Voglio la mamma...",
-        "th": ""
+        "th": "ฉันอยากกลับไปหาคุณแม่..."
       },
       "Speech_0012L": {
         "en": "We're still alive...",
@@ -162,7 +162,7 @@
         "de": "Wir leben noch ...",
         "es": "Estamos vivos...",
         "it": "Siamo ancora vivi...",
-        "th": ""
+        "th": "เรายังมีชีวิตอยู่..."
       },
       "Speech_0013L": {
         "en": "Easy...",
@@ -170,7 +170,7 @@
         "de": "Vorsichtig ...",
         "es": "Calma...",
         "it": "Calma...",
-        "th": ""
+        "th": "ใจเย็นๆ..."
       },
       "Speech_0014L": {
         "en": "Look... let's just bake that patrol data into the UAV and get out of here before it does go off.",
@@ -178,7 +178,7 @@
         "de": "Hör zu ... lass uns einfach die Patrouillendaten in die Drohne packen und dann verschwinden wir hier, bevor das Ding hochgeht.",
         "es": "Vamos a meter los datos en el avión teledirigido y a salir de aquí antes de que explote.",
         "it": "Senti... inseriamo il rapporto del pattugliamento nell'UAV e andiamocene prima che esploda.",
-        "th": ""
+        "th": "ฟังนะ... รีบใส่ข้อมูลการลาดตระเวนนั่นลง UAV แล้วออกไปจากที่นี่ ก่อนที่มันจะระเบิดจริงๆ"
       },
       "Speech_0015L": {
         "en": "Good idea.",
@@ -186,7 +186,7 @@
         "de": "Gute Idee.",
         "es": "Buena idea.",
         "it": "Buona idea.",
-        "th": ""
+        "th": "ความคิดดี"
       }
     },
     "P_09_SeoulTwo_Fin": {
@@ -197,7 +197,7 @@
         "de": "Retten Sie die Piloten der EA-6B.",
         "es": "Rescata a los pilotos del EA-6B.",
         "it": "Salva i piloti dell'EA-6B.",
-        "th": ""
+        "th": "ช่วยนักบินของ EA-6B"
       },
       "Objective_0002": {
         "en": "Disable all Type 86 Battle Tanks to aid in crippling the North Koreans",
@@ -205,7 +205,7 @@
         "de": "Schalten Sie alle Kampfpanzer vom Typ 86 aus, um die Kampfkraft der Nordkoreaner zu schwächen.",
         "es": "Neutraliza los tanques de tipo 86 para ayudar a cercar a los norcoreanos.",
         "it": "Disattiva tutti i carri armati Tipo 86 per aiutare a sconfiggere i nordcoreani.",
-        "th": ""
+        "th": "ปิดการทำงานรถถังรบแบบ 86 ทั้งหมดเพื่อช่วยทุพพลภาพเกาหลีเหนือ"
       }
     },
     "P_09_SeoulTwo_HQcom": {
@@ -216,7 +216,7 @@
         "de": "Fisher ... es tut mir wirklich Leid ... aber wir können dich noch nicht herausholen.",
         "es": "Fisher... Odio decirte esto, pero aún no podemos sacarte de ahí.",
         "it": "Fisher... odio farti questo... ma non possiamo procedere all'estrazione.",
-        "th": ""
+        "th": "แลมเบิร์ต - ฟิชเชอร์... ฉันไม่อยากทำแบบนี้กับคุณ... แต่เรายังถอนกำลังคุณไม่ได้"
       },
       "Speech_0025L": {
         "en": "FISHER - You're lucky I'm not unionized...overtime would come out to double and a half.",
@@ -224,7 +224,7 @@
         "de": "Du hast Glück, dass ich nicht in der Gewerkschaft bin ... Überstunden würden dich das Anderthalbfache kosten.",
         "es": "Voy a quejarme al sindicato. Las horas extras las cobro el doble.",
         "it": "Ringrazia che non sono iscritto al sindacato... lo straordinario è pagato due volte e mezzo.",
-        "th": ""
+        "th": "ฟิชเชอร์ - คุณโชคดีที่ฉันไม่ได้อยู่ในสหภาพแรงงาน... ค่าล่วงเวลาคงเป็นสองเท่าครึ่ง"
       },
       "Speech_0020L": {
         "en": "LAMBERT - We lost contact with the EA-6B before they could purge the data. It's still in the wreckage.",
@@ -232,7 +232,7 @@
         "de": "Wir haben den Kontakt mit der Prowler verloren, bevor sie die Daten übertragen konnte. Sie befinden sich immer noch im Wrack.",
         "es": "Hemos perdido contacto con el EA-6B antes de extraer los datos. Aún están entre los restos.",
         "it": "Abbiamo perso il contatto con l'EA-6B prima che potessero cancellare i dati. Sono ancora nel relitto.",
-        "th": ""
+        "th": "แลมเบิร์ต - เราขาดการติดต่อกับ EA-6B ก่อนที่พวกเขาจะล้างข้อมูลได้ ข้อมูลยังอยู่ในซากเครื่อง"
       },
       "Speech_0021L": {
         "en": "FISHER - So I have to go there and delete it?",
@@ -240,7 +240,7 @@
         "de": "Ich muss also da hingehen und sie löschen?",
         "es": "¿Tengo que ir a borrarlos?",
         "it": "Quindi devo andare a cancellarli?",
-        "th": ""
+        "th": "ฟิชเชอร์ - งั้นฉันต้องไปที่นั่นและลบมัน?"
       },
       "Speech_0023L": {
         "en": "LAMBERT - Before the North Koreans get their hands on it.",
@@ -248,7 +248,7 @@
         "de": "Bevor sie den Nordkoreanern in die Hände fallen.",
         "es": "Antes de que caigan en manos de los norcoreanos.",
         "it": "Prima che i nordcoreani ci mettano le mani sopra.",
-        "th": ""
+        "th": "แลมเบิร์ต - ก่อนที่พวกเกาหลีเหนือจะได้มันไป"
       },
       "Speech_0047L": {
         "en": "LAMBERT - Fisher, the plane went down before they could purge the data. You need to get to the wreckage and make sure the North Korean's don't recover it.",
@@ -256,7 +256,7 @@
         "de": "Fisher, das Flugzeug ist abgestürzt, bevor wir die Daten löschen konnten. Du musst zum Wrack gehen und dafür sorgen, dass die Nordkoreaner sie nicht bekommen.",
         "es": "Fisher, el avión cayó antes de que pudiera controlar la información. Ve al lugar del accidente y evita que caigan en manos de los norcoreanos.",
         "it": "Fisher, l'aereo è caduto prima che fossero cancellati i dati. Devi raggiungere i rottami e assicurarti che i nordcoreani non li recuperino.",
-        "th": ""
+        "th": "แลมเบิร์ต - ฟิชเชอร์ เครื่องบินตกก่อนที่พวกเขาจะล้างข้อมูลได้ คุณต้องไปที่ซากและทำให้แน่ใจว่าพวกเกาหลีเหนือกู้มันไม่ได้"
       },
       "Speech_0182L": {
         "en": "REDDING - NK regulars are setting up Portable Radar Reconnaissance Receivers. See if you can take them all out.",
@@ -264,7 +264,7 @@
         "de": "Sieht so aus, als würden Truppen der NKA tragbare Radarempfänger aufstellen. Versuche, sie alle zu zerstören.",
         "es": "Soldados norcoreanos están montando radares móviles. Tienes que intentar destruirlos.",
         "it": "Le truppe nordcoreane stanno posizionando dei ricevitori radar portatili. Cerca di eliminarli tutti.",
-        "th": ""
+        "th": "เรดดิง - ทหารประจำการของเกาหลีเหนือกำลังติดตั้งเครื่องรับเรดาร์ลาดตระเวนแบบพกพา ลองทำลายให้หมด"
       },
       "Speech_0183L": {
         "en": "REDDING - Sam, it would be helpful if you could recover technical specification on these new North Korean UAV's.",
@@ -272,7 +272,7 @@
         "de": "Sam, es wäre sehr hilfreich, wenn du die technischen Spezifikationen dieser neuen nordkoreanischen Drohnen besorgen könntest.",
         "es": "Nos gustaría que consiguieras las características técnicas de los nuevos aviones teledirigidos norcoreanos.",
         "it": "Sam, sarebbe utile recuperare le specifiche tecniche di questi nuovi UAV nordcoreani.",
-        "th": ""
+        "th": "เรดดิง - แซม จะช่วยได้มากถ้าคุณเก็บกู้ข้อมูลจำเพาะทางเทคนิคของ UAV รุ่นใหม่ของเกาหลีเหนือ"
       },
       "Speech_0184L": {
         "en": "FISHER - You bet.",
@@ -280,7 +280,7 @@
         "de": "Definitiv.",
         "es": "Seguro.",
         "it": "Puoi scommetterci.",
-        "th": ""
+        "th": "ฟิชเชอร์ - จัดให้"
       },
       "Note_0168L": {
         "en": "IFV's can be destroyed by lobbing a grenade in an open hatch.",
@@ -288,7 +288,7 @@
         "de": "Schützenpanzer können zerstört werden, indem man eine Granate in eine offene Luke wirft.",
         "es": "Los vehícullos de infantería pueden destruirse tirando dentro una granada, por la escotilla.",
         "it": "I corazzati possono essere distrutti lanciando una granata nell'oblò aperto.",
-        "th": ""
+        "th": "รถรบทหารราบทำลายได้โดยโยนระเบิดเข้าช่องเปิด"
       },
       "Speech_0073L": {
         "en": "REDDING - We have multiple reports of more active armor in your immediate A.O.",
@@ -296,7 +296,7 @@
         "de": "Wir haben mehrere Berichte über weitere gepanzerte Einheiten in deiner unmittelbaren Nähe erhalten.",
         "es": "Tenemos varios informes de más blindados activos en tu área.",
         "it": "Ci hanno riferito di altri mezzi corazzati nelle vicinanze dell'obiettivo assegnato.",
-        "th": ""
+        "th": "เรดดิง - เรามีรายงานหลายฉบับว่ามียานเกราะที่ยังเคลื่อนไหวอยู่ในเขตปฏิบัติการของคุณ"
       },
       "Speech_0074L": {
         "en": "FISHER - Great.",
@@ -304,7 +304,7 @@
         "de": "Großartig.",
         "es": "Genial.",
         "it": "Magnifico.",
-        "th": ""
+        "th": "ฟิชเชอร์ - เยี่ยมไปเลย"
       },
       "Speech_0162L": {
         "en": "REDDING - Good job, Fisher...you've seriously impaired North Korea's armored advance.",
@@ -312,7 +312,7 @@
         "de": "Gute Arbeit, Fisher ... es ist dir gelungen, den Panzervorstoß der Nordkoreaner stark zu behindern.",
         "es": "Buen trabajo. Has retrasado mucho el avance de los blindados norcoreanos.",
         "it": "Bel lavoro, Fisher... hai danneggiato seriamente l'avanzata corazzata nemica.",
-        "th": ""
+        "th": "เรดดิง - ทำได้ดี ฟิชเชอร์... คุณทำให้การรุกด้วยยานเกราะของเกาหลีเหนือเสียหายอย่างหนัก"
       },
       "Speech_0081L": {
         "en": "REDDING - Good job, Fisher...you've seriously impaired North Korea's armored advance.",
@@ -320,7 +320,7 @@
         "de": "Gute Arbeit, Fisher ... es ist dir gelungen, den Panzervorstoß der Nordkoreaner stark zu behindern.",
         "es": "Buen trabajo. Has retrasado mucho el avance de los blindados norcoreanos.",
         "it": "Bel lavoro, Fisher... hai danneggiato seriamente l'avanzata corazzata nemica.",
-        "th": ""
+        "th": "เรดดิง - ทำได้ดี ฟิชเชอร์... คุณทำให้การรุกด้วยยานเกราะของเกาหลีเหนือเสียหายอย่างหนัก"
       },
       "Speech_0163L": {
         "en": "REDDING - My god, Sam... how many of those things have you taken out today?",
@@ -328,7 +328,7 @@
         "de": "Mein Gott, Sam ... wie viele von den Dingern hast du heute schon außer Gefecht  gesetzt?",
         "es": "Dios mío, Sam. ¿Cuántos de ésos te has llevado por delante hoy?",
         "it": "Mio dio, Sam... quanti ne hai fatti fuori di quelli, oggi?",
-        "th": ""
+        "th": "เรดดิง - พระเจ้า แซม... วันนี้คุณทำลายของพวกนั้นไปกี่คันแล้ว?"
       },
       "Speech_0164L": {
         "en": "FISHER - I lost count.",
@@ -336,7 +336,7 @@
         "de": "Ich habe aufgehört zu zählen.",
         "es": "Perdí la cuenta.",
         "it": "Ho perso il conto.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ฉันนับไม่ถ้วนแล้ว"
       },
       "Speech_0165L": {
         "en": "REDDING - You're reducing a North Korean mechanized division to scrap metal.",
@@ -344,7 +344,7 @@
         "de": "Du verwandelst gerade eine ganze nordkoreanische Panzerdivision in einen Schrotthaufen.",
         "es": "Estás reduciendo a chatarra a una división mecanizada entera.",
         "it": "Stai riducendo le divisioni corazzate nordcoreane a rottami.",
-        "th": ""
+        "th": "เรดดิง - คุณกำลังเปลี่ยนกองพลยานยนต์ของเกาหลีเหนือให้กลายเป็นเศษเหล็ก"
       },
       "Speech_0166L": {
         "en": "FISHER - And I cost less than a single thousand pound bomb.",
@@ -352,7 +352,7 @@
         "de": "Und ich koste weniger als eine einzige Lenkrakete.",
         "es": "Y soy más barato que una bomba de 500 kilos.",
         "it": "E costo meno di una sola bomba da mezza tonnellata. ",
-        "th": ""
+        "th": "ฟิชเชอร์ - และฉันมีต้นทุนต่ำกว่าระเบิดหนึ่งพันปอนด์หนึ่งลูกด้วยซ้ำ"
       },
       "Speech_0167L": {
         "en": "REDDING - Only if you don't count the cost of your life insurance policy. That's almost half our budget.",
@@ -360,7 +360,7 @@
         "de": "Nur wenn man die Kosten für deine Lebensversicherung nicht mitrechnet. Das ist beinahe die Hälfte unsere Budgets.",
         "es": "Sólo si olvidas el coste de tu seguro de vida. Se lleva la mitad de nuestro presupuesto.",
         "it": "Solo se non conti il costo della tua assicurazione sulla vita. È quasi metà del nostro budget.",
-        "th": ""
+        "th": "เรดดิง - ก็ต่อเมื่อคุณไม่นับค่าเบี้ยประกันชีวิตของคุณ นั่นเกือบครึ่งหนึ่งของงบเราเลย"
       },
       "Speech_0017L": {
         "en": "REDDING - Good job Sam. RF monitoring indicates at least four more P3R's active in your A.O.",
@@ -368,7 +368,7 @@
         "de": "Gute Arbeit, Sam. Unsere Signalabteilung meldet noch drei weitere TREs in deinem Zielgebiet.",
         "es": "Bien, Sam. Las frecuencias de radio indican que hay al menos cuatro radares más.",
         "it": "Bel lavoro, Sam. Il monitoraggio radio indica almeno altri quattro radar nell'area delle operazioni.",
-        "th": ""
+        "th": "เรดดิง - ทำได้ดี แซม การเฝ้าติดตาม RF บ่งชี้ว่ามี P3R ทำงานอยู่อีกอย่างน้อยสี่ตัวในเขตปฏิบัติการของคุณ"
       },
       "Speech_0107L": {
         "en": "REDDING - Sam, we have RF confirmation that there are only two P3R's left in your area.",
@@ -376,7 +376,7 @@
         "de": "Sam, wir haben Bestätigung von der Signalabteilung, dass sich nur noch zwei weitere TREs in deiner Umgebung befinden.",
         "es": "Sam, nos confirman que ya sólo quedan dos radares móviles en tu área.",
         "it": "Sam, abbiamo la conferma che sono rimasti solo due radar.",
-        "th": ""
+        "th": "เรดดิง - แซม เรามีการยืนยันด้วย RF ว่าเหลือ P3R แค่สองตัวในพื้นที่ของคุณ"
       },
       "Speech_0109L": {
         "en": "REDDING - One more P3R to go, Fisher.",
@@ -384,7 +384,7 @@
         "de": "Noch ein TRE übrig, Fisher.",
         "es": "Sólo te queda un radar, Sam.",
         "it": "Ancora un radar, Fisher.",
-        "th": ""
+        "th": "เรดดิง - เหลือ P3R อีกตัวเดียว ฟิชเชอร์"
       },
       "Speech_0110L": {
         "en": "FISHER - I'll find it...",
@@ -392,7 +392,7 @@
         "de": "Ich werde ihn finden.",
         "es": "Lo encontraré.",
         "it": "Lo troverò.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ฉันจะหามัน..."
       },
       "Speech_0018L": {
         "en": "REDDING - Way to go, Sam. With those P3R's out of commission it'll be a lot safer to extract you.",
@@ -400,7 +400,7 @@
         "de": "Gut gemacht, Sam. Jetzt, wo diese TREs keine Gefahr mehr darstellen, wird es um einiges leichter sein, dich da rauszuholen.",
         "es": "Hora de irse, Sam. Con esos radares fuera de servicio, tu extracción será mucho más segura.",
         "it": "Avanti così, Sam. Senza quei radar tra i piedi la tua estrazione sarà molto più sicura.",
-        "th": ""
+        "th": "เรดดิง - เยี่ยมมาก แซม เมื่อ P3R พวกนั้นใช้งานไม่ได้แล้ว การถอนกำลังคุณจะปลอดภัยขึ้นมาก"
       },
       "Speech_0111L": {
         "en": "FISHER - Wow... you mean you're actually planning to get me out of here alive one day?",
@@ -408,7 +408,7 @@
         "de": "Wow ... du meinst, ihr habt tatsächlich vor, mich hier eines Tages lebend rauszuholen?",
         "es": "¡Vaya! Por fin estáis pensando en sacarme vivo de aquí, es una sorpresa.",
         "it": "Ha... vuoi dire che pensate veramente di tirarmi fuori di qui vivo, un giorno?",
-        "th": ""
+        "th": "ฟิชเชอร์ - ว้าว... หมายความว่าจริงๆ แล้วคุณวางแผนจะพาฉันออกไปจากที่นี่แบบมีชีวิตสักวันหนึ่งเหรอ?"
       },
       "Speech_0114L": {
         "en": "REDDING - Fisher, it looks like you just bypassed one of the P3R's. There's no way back... you might as well forget the objective.",
@@ -416,7 +416,7 @@
         "de": "Fisher, sieht so aus, als hättest du einen der TREs verpasst. Es gibt keinen Weg zurück ... du kannst dieses Missionsziel also vergessen.",
         "es": "Fisher, te has pasado por alto uno de los radares. No puedes retroceder, así que olvídate del objetivo.",
         "it": "Fisher, a quanto pare hai perso uno di quei radar. È impossibile tornare indietro. Tanto vale lasciar perdere l'obiettivo.",
-        "th": ""
+        "th": "เรดดิง - ฟิชเชอร์ ดูเหมือนคุณเพิ่งข้าม P3R ตัวหนึ่งไป ทางย้อนกลับไม่มีแล้ว... คุณลืมวัตถุประสงค์นั้นไปได้เลย"
       },
       "Speech_0112L": {
         "en": "REDDING - That was the last P3R, Sam. Good job.",
@@ -424,7 +424,7 @@
         "de": "Das war der letzte TRE, Sam. Gute Arbeit.",
         "es": "Ése era el último radar. Buen trabajo.",
         "it": "Quello era l'ultimo radar, Sam. Bel lavoro.",
-        "th": ""
+        "th": "เรดดิง - นั่นคือ P3R ตัวสุดท้าย แซม ทำได้ดี"
       },
       "Speech_0113L": {
         "en": "REDDING - NK regulars are setting up Portable Radar Reconnaissance Receivers. See if you can take them all out.",
@@ -432,7 +432,7 @@
         "de": "Sieht so aus, als würden Truppen der NKA tragbare Radarempfänger aufstellen. Versuche, sie alle zu zerstören.",
         "es": "Soldados norcoreanos están montando radares móviles. Tienes que intentar destruirlos.",
         "it": "Le truppe nordcoreane stanno posizionando dei ricevitori radar portatili. Cerca di eliminarli tutti.",
-        "th": ""
+        "th": "เรดดิง - ทหารประจำการของเกาหลีเหนือกำลังติดตั้งเครื่องรับเรดาร์ลาดตระเวนแบบพกพา ลองทำลายให้หมด"
       },
       "Speech_0120L": {
         "en": "REDDING - Whoa... good grab, Sam. Looks like complete technical specification on North Korean UAV's.",
@@ -440,7 +440,7 @@
         "de": "Wow ... nicht schlecht, Sam. Sieht aus wie die kompletten technischen Daten der koreanischen Drohnen.",
         "es": "Bien. Son las características técnicas completas de los aviones teledirigidos norcoreanos.",
         "it": "Wow... bel colpo, Sam. Dovrebbero essere le specifiche tecniche complete degli UAV nordcoreani.",
-        "th": ""
+        "th": "เรดดิง - โว้ว... ได้ของดีนะ แซม ดูเหมือนข้อมูลจำเพาะทางเทคนิคครบชุดของ UAV เกาหลีเหนือ"
       },
       "Speech_0123L": {
         "en": "FISHER - So, what, we can just switch them all off now?",
@@ -448,7 +448,7 @@
         "de": "Heißt dass, wir können die Dinger jetzt alle abschalten?",
         "es": "¿Por qué no los desconectamos, y ya está?",
         "it": "Quindi adesso possiamo spegnerli tutti?",
-        "th": ""
+        "th": "ฟิชเชอร์ - งั้นอะไร เราปิดพวกมันทั้งหมดได้เลยเหรอ?"
       },
       "Speech_0124L": {
         "en": "REDDING - Ha. No. But we can pass it up the chain and inside of a few months find ways to disable them...",
@@ -456,7 +456,7 @@
         "de": "Ha. Nein. Aber wir können die Daten an die Experten weitergeben und so vielleicht in einigen Monaten einen Weg finden, sie zu deaktivieren ...",
         "es": "Aún no podemos. Pero con estos datos, en unos meses encontraremos la forma de desactivarlos.",
         "it": "Ha! No. Ma possiamo iniziare a studiare i piani e tra qualche mese troveremo un modo per disattivarli...",
-        "th": ""
+        "th": "เรดดิง - ฮ่า ไม่ได้ แต่เราส่งเรื่องขึ้นไปตามสายงานได้ และภายในไม่กี่เดือนก็หาวิธีปิดการทำงานพวกมันได้..."
       },
       "Speech_0125L": {
         "en": "FISHER - Well, that's not much help to me then, is it.",
@@ -464,7 +464,7 @@
         "de": "Schön, das hilft mir jetzt aber auch nicht, oder?",
         "es": "Un poco tarde para mí, ¿no?",
         "it": "Non mi sei di grande aiuto.",
-        "th": ""
+        "th": "ฟิชเชอร์ - งั้นก็ช่วยฉันได้ไม่มากเท่าไร ใช่ไหม"
       },
       "Speech_0126L": {
         "en": "REDDING - Sam, it would be helpful if you could recover technical specification on these new North Korean UAV's.",
@@ -472,7 +472,7 @@
         "de": "Sam, es wäre sehr hilfreich, wenn du die technischen Spezifikationen dieser neuen nordkoreanischen Drohnen besorgen könntest.",
         "es": "Nos gustaría que consiguieras las características técnicas de los nuevos aviones teledirigidos norcoreanos.",
         "it": "Sam, sarebbe utile recuperare le specifiche tecniche di questi nuovi UAV nordcoreani.",
-        "th": ""
+        "th": "เรดดิง - แซม จะช่วยได้มากถ้าคุณเก็บกู้ข้อมูลจำเพาะทางเทคนิคของ UAV รุ่นใหม่ของเกาหลีเหนือ"
       },
       "Speech_0096L": {
         "en": "LAMBERT - Sam... get back to the building. You can designate the wreckage with your EEV from there.",
@@ -480,7 +480,7 @@
         "de": "Sam ... geh zu dem Gebäude zurück. Du kannst das Wrack mit deinem EEV vom Dach aus markieren.",
         "es": "Sam, vuelve al edificio. Desde allí puedes marcar los restos del avión con el visor electrónico.",
         "it": "Sam... torna all'edificio. Puoi designare il punto di impatto con l'EEV da lì.",
-        "th": ""
+        "th": "แลมเบิร์ต - แซม... กลับไปที่อาคาร จากที่นั่นคุณกำหนดเป้าหมายซากได้ด้วย EEV"
       },
       "Speech_0097L": {
         "en": "LAMBERT - Sam... you need to designate the--",
@@ -488,7 +488,7 @@
         "de": "Sam ... du musst das Wrack ...",
         "es": "Sam, tienes que marcar los...",
         "it": "Sam... devi designare il...",
-        "th": ""
+        "th": "แลมเบิร์ต - แซม... คุณต้องกำหนดเป้าหมาย-"
       },
       "Speech_0098L": {
         "en": "FISHER - No point in rescuing one and leaving the other.",
@@ -496,7 +496,7 @@
         "de": "Es hat keinen Sinn, den einen zu retten und den anderen zurückzulassen.",
         "es": "Es absurdo rescatar a uno y abandonar al otro.",
         "it": "Non ha senso salvarne uno e lasciare l'altro.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ไม่มีเหตุผลที่จะช่วยคนหนึ่งแล้วทิ้งอีกคน"
       },
       "Speech_0106L": {
         "en": "LAMBERT - Sam, you need to get to the plane and try to recover that data before we can extract you.",
@@ -504,7 +504,7 @@
         "de": "Sam, du musst zu dem Flugzeug gehen und die Daten sichern, bevor wir dich rausholen können.",
         "es": "Sam, antes de la extracción tienes que llegar al avión y recuperar esos datos.",
         "it": "Sam, devi raggiungere l'aereo e cercare di recuperare i dati prima che possiamo estrarti.",
-        "th": ""
+        "th": "แลมเบิร์ต - แซม คุณต้องไปที่เครื่องบินและพยายามกู้ข้อมูลนั้นก่อนที่เราจะถอนกำลังคุณได้"
       },
       "Note_0161L": {
         "en": "The pilots will be safe from the air strike in the side alley.",
@@ -512,7 +512,7 @@
         "de": "Die Piloten sind in der Seitengasse vor dem Luftangriff geschützt.",
         "es": "Los pilotos estarán a salvo del ataque aéreo en el callejón cercano.",
         "it": "I piloti saranno al sicuro dall'attacco aereo nella strada secondaria.",
-        "th": ""
+        "th": "นักบินจะปลอดภัยจากการโจมตีทางอากาศในตรอกด้านข้าง"
       },
       "Speech_0129L": {
         "en": "LAMBERT - Fisher... if you compromise this mission for those men...",
@@ -520,7 +520,7 @@
         "de": "Fisher ... wenn du die Mission wegen dieser Männer gefährdest ...",
         "es": "Fisher... si pones en peligro la misión por esos hombres...",
         "it": "Fisher... se comprometti la missione per quegli uomini...",
-        "th": ""
+        "th": "แลมเบิร์ต - ฟิชเชอร์... ถ้าคุณทำให้ภารกิจนี้เสียเพราะคนพวกนั้น..."
       },
       "Speech_0130L": {
         "en": "FISHER - Save it Irving... you gave me my orders already.",
@@ -528,7 +528,7 @@
         "de": "Schon gut, Irving ... du hast mir meine Befehle bereits gegeben.",
         "es": "No sigas, Irving. Ya conozco mis órdenes.",
         "it": "Risparmiamela, Irving... mi hai già dato gli ordini.",
-        "th": ""
+        "th": "ฟิชเชอร์ - เก็บคำพูดไว้เถอะเออร์วิง... คุณให้คำสั่งฉันไปแล้ว"
       },
       "Speech_0133L": {
         "en": "LAMBERT - Forget him, Fisher. He's dead.",
@@ -536,7 +536,7 @@
         "de": "Vergiss ihn, Fisher. Er ist tot.",
         "es": "Déjalo, Fisher. Está muerto.",
         "it": "Lascialo perdere, Fisher. È morto.",
-        "th": ""
+        "th": "แลมเบิร์ต - ลืมเขาเถอะ ฟิชเชอร์ เขาตายแล้ว"
       },
       "Speech_0134L": {
         "en": "LAMBERT - Alright Fisher, good job. He should be safe from the blast. Designate the wreckage with your EEV.",
@@ -544,7 +544,7 @@
         "de": "In Ordnung, Fisher, gute Arbeit. Er sollte dort vor der Explosion sicher sein. Markiere mit deinem EEV vom Dach aus das Wrack als Ziel.",
         "es": "Buen trabajo, Fisher. Ahí estará a salvo de la explosión. Usa el visor electrónico para marcar los restos desde el tejado.",
         "it": "Bene Fisher, bel lavoro. Qui dovrebbe essere al sicuro dall'esplosione. Designa il punto di impatto con l'EEV dal tetto.",
-        "th": ""
+        "th": "แลมเบิร์ต - เอาล่ะ ฟิชเชอร์ ทำได้ดี เขาน่าจะปลอดภัยจากแรงระเบิด กำหนดเป้าหมายซากด้วย EEV ของคุณ"
       },
       "Speech_0135L": {
         "en": "LAMBERT - You don't even exist, Fisher... you can't get a medal for this.",
@@ -552,7 +552,7 @@
         "de": "Du existierst nicht einmal, Fisher ... du wirst dafür keinen Orden bekommen.",
         "es": "Sam, tú ni siquiera existes, no te darán una medalla por eso.",
         "it": "Tu non esisti nemmeno, Fisher... non ti daranno una medaglia per questo.",
-        "th": ""
+        "th": "แลมเบิร์ต - คุณไม่มีอยู่จริงด้วยซ้ำ ฟิชเชอร์... คุณรับเหรียญรางวัลไม่ได้"
       },
       "Speech_0136L": {
         "en": "FISHER - Medals don't help me sleep at night, Lambert.",
@@ -560,7 +560,7 @@
         "de": "Mir egal, mit 'nem Orden würde ich nachts auch nicht ruhiger schlafen, Lambert.",
         "es": "No son las medallas las que me quitan el sueño.",
         "it": "Le medaglie non mi aiutano a dormire la notte, Lambert.",
-        "th": ""
+        "th": "ฟิชเชอร์ - เหรียญรางวัลไม่ได้ช่วยให้ฉันหลับตอนกลางคืน แลมเบิร์ต"
       },
       "Speech_0137L": {
         "en": "LAMBERT - Alright, the pilots are safe, already. Now take out that plane.",
@@ -568,7 +568,7 @@
         "de": "In Ordnung, die Piloten sind jetzt in Sicherheit. Und jetzt kümmere dich um das Wrack.",
         "es": "Los pilotos ya están a salvo. Ahora, encárgate del avión.",
         "it": "Bene, finalmente i piloti sono al sicuro. Ora elimina l'aereo.",
-        "th": ""
+        "th": "แลมเบิร์ต - เอาล่ะ นักบินปลอดภัยแล้ว ตอนนี้จัดการเครื่องบินนั่นซะ"
       },
       "Speech_0138L": {
         "en": "FISHER - With pleasure.",
@@ -576,7 +576,7 @@
         "de": "Mit Vergnügen.",
         "es": "Será un placer.",
         "it": "Con piacere.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ด้วยความยินดี"
       },
       "POPUPMESSAGE_0171": {
         "en": "Tap a Mobile Command Center",
@@ -584,7 +584,7 @@
         "de": "Zapfen Sie eine mobile Kommando-zentrale an",
         "es": "Hackea un Centro de Mando Móvil (CMM)..",
         "it": "Utilizza un Centro di Comando Mobile",
-        "th": ""
+        "th": "เจาะระบบศูนย์บัญชาการเคลื่อนที่"
       },
       "Speech_0127L": {
         "en": "GRIMSDOTTIR - Fisher, there's another Mobile Command Center up ahead. This might be your last opportunity to tap into one. ",
@@ -592,7 +592,7 @@
         "de": "Fisher, weiter vorne befindet sich ein weiteres mobiles Kommandozentrum. Dies könnte deine letzte Chance sein, das Kommandonetzwerk anzuzapfen. ",
         "es": "Fisher, tienes otro Centro Móvil de Mando delante de ti. Puede ser la última oportunidad de hackear uno. ",
         "it": "Fisher, più avanti c'è un altro centro di comando mobile. Potrebbe essere l'ultima possibilità che hai per metterne uno sotto controllo. ",
-        "th": ""
+        "th": "กริมส์ดอตเตียร์ - ฟิชเชอร์ มีศูนย์บัญชาการเคลื่อนที่อีกแห่งอยู่ข้างหน้า นี่อาจเป็นโอกาสสุดท้ายของคุณที่จะเจาะมัน "
       },
       "Speech_0128L": {
         "en": "FISHER - Those Predator drones are busy little bees, aren't they.",
@@ -600,7 +600,7 @@
         "de": "Diese Predator-Drohnen sind wirklich emsig, was?",
         "es": "Esos Predator son como abejitas laboriosas.",
         "it": "Quei droni Predator si danno proprio da fare, non c'è che dire.",
-        "th": ""
+        "th": "ฟิชเชอร์ - โดรนเพรเดเตอร์พวกนั้นขยันจังเลยนะ"
       },
       "Speech_0115L": {
         "en": "GRIMSDOTTIR - Good job Sam. Never hurts to have another line into the NKA command network.",
@@ -608,7 +608,7 @@
         "de": "Gut gemacht, Sam. Es kann nie schaden, noch eine Verbindung ins NKA-Kommandonetzwerk zu haben.",
         "es": "Bien hecho, Sam. No viene mal tener otra línea en la red de mando enemiga.",
         "it": "Ben fatto, Sam. Avere un'altra linea nella rete di comando nemica non fa mai male.",
-        "th": ""
+        "th": "กริมส์ดอตเตียร์ - ทำได้ดี แซม มีสายเข้าสู่เครือข่ายบัญชาการของ NKA เพิ่มอีกเส้นก็ไม่เสียหาย"
       },
       "Speech_0011L": {
         "en": "GRIMSDOTTIR - Good job, Sam. With an inside line on the NKA's command network we should be able to funnel useful intelligence to the reg's.",
@@ -616,7 +616,7 @@
         "de": "Gute Arbeit, Sam. Mit dieser Verbindung ins Innere des NKA-Kommandonetzwerks werden wir wichtige Informationen an die Armee weitergeben können.",
         "es": "Buen trabajo. Una línea abierta en la red de mando enemiga nos permitirá suministrar información muy útil a nuestro ejército.",
         "it": "Bel lavoro, Sam. Ora che abbiamo una linea interna alla rete di comando nemica riusciremo a recuperare dati preziosi.",
-        "th": ""
+        "th": "กริมส์ดอตเตียร์ - ทำได้ดี แซม ด้วยสายตรงเข้าระบบบัญชาการของ NKA เราน่าจะส่งข่าวกรองที่เป็นประโยชน์ให้หน่วยรบได้"
       },
       "Speech_0066L": {
         "en": "FISHER - Always happy to lend a hand.",
@@ -624,7 +624,7 @@
         "de": "Helfe immer wieder gerne.",
         "es": "Me gusta ayudar al tío Sam.",
         "it": "È sempre un piacere essere utile.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ยินดีช่วยเสมอ"
       },
       "POPUPMESSAGE_0172": {
         "en": "Tap a Mobile Command Center",
@@ -632,7 +632,7 @@
         "de": "Zapfen Sie eine mobile Kommando-zentrale an",
         "es": "Hackea un Centro de Mando Móvil (CMM)..",
         "it": "Utilizza un Centro di Comando Mobile",
-        "th": ""
+        "th": "เจาะระบบศูนย์บัญชาการเคลื่อนที่"
       },
       "Speech_0067L": {
         "en": "GRIMSDOTTIR - I hate to be a pain, Fisher, but I really need you to tap that MCC before you go any further.",
@@ -640,7 +640,7 @@
         "de": "Fisher, ich nerve dich ja nur ungern, aber du musst unbedingt dieses MKZ anzapfen, bevor du weitergehst.",
         "es": "Siento ser pesada, pero necesito que hackees ese CMM antes de que sigas adelante.",
         "it": "Mi spiace insistere, Sam, ma devi proprio mettere sotto controllo quel centro di comando prima di procedere.",
-        "th": ""
+        "th": "กริมส์ดอตเตียร์ - ฉันไม่อยากกวน ฟิชเชอร์ แต่ฉันต้องให้คุณเจาะ MCC นั้นก่อนไปต่อจริงๆ"
       },
       "Speech_0068L": {
         "en": "FISHER - I'll double back.",
@@ -648,7 +648,7 @@
         "de": "Ich werde zurückgehen.",
         "es": "Retrocederé.",
         "it": "Torno indietro.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ฉันจะย้อนกลับไป"
       },
       "Speech_0069L": {
         "en": "GRIMSDOTTIR - Fisher, you need to tap the MCC before we'll be able to extract you.",
@@ -656,7 +656,7 @@
         "de": "Fisher, du musst das MKZ anzapfen, bevor wir dich rausholen können.",
         "es": "Fisher, antes de que te saquemos tienes que hackear ese CMM.",
         "it": "Fisher, devi mettere sotto controllo quel centro di comando prima che possiamo estrarti.",
-        "th": ""
+        "th": "กริมส์ดอตเตียร์ - ฟิชเชอร์ คุณต้องเจาะ MCC ก่อนที่เราจะถอนกำลังคุณได้"
       },
       "Speech_0070L": {
         "en": "GRIMSDOTTIR - Good job, Sam. With an inside line on the NKA's command network we should be able to funnel useful intelligence to the reg's.",
@@ -664,7 +664,7 @@
         "de": "Gut gemacht, Sam. Die direkte Verbindung zum Kommandonetzwerk der Nordkoreaner ermöglicht es uns bestimmt, die eine oder andere wichtige Information aufzuschnappen.",
         "es": "Buen trabajo. Con una línea en la red de mando enemiga podremos suministrar información muy útil a nuestro ejército.",
         "it": "Bel lavoro, Sam. Con una linea interna alla rete nordcoreana riusceremo a recuperare informazioni molto utili.",
-        "th": ""
+        "th": "กริมส์ดอตเตียร์ - ทำได้ดี แซม ด้วยสายตรงเข้าระบบบัญชาการของ NKA เราน่าจะส่งข่าวกรองที่เป็นประโยชน์ให้หน่วยรบได้"
       },
       "Speech_0175L": {
         "en": "LAMBERT - Sweet Jesus Fisher...what did you do?",
@@ -672,7 +672,7 @@
         "de": "Um Himmels Willen, Fisher! Was hast du getan?",
         "es": "Dios Santo, Fisher, ¿qué has hecho?",
         "it": "Buon Dio, Fisher... cos'hai fatto?",
-        "th": ""
+        "th": "แลมเบิร์ต - พระเยซูเจ้า ฟิชเชอร์... คุณไปทำอะไรลงไป?"
       },
       "Speech_0176L": {
         "en": "FISHER - It was an accident.",
@@ -680,7 +680,7 @@
         "de": "Das war ein Unfall.",
         "es": "Ha sido un accidente.",
         "it": "È stato un incidente.",
-        "th": ""
+        "th": "ฟิชเชอร์ - มันเป็นอุบัติเหตุ"
       },
       "Speech_0177L": {
         "en": "LAMBERT - We don't have room for accidents. Watch your fire.",
@@ -688,7 +688,7 @@
         "de": "Wir können uns keine Unfälle leisten. Pass gefälligst auf.",
         "es": "No podemos permitirnos accidentes. Contrólate.",
         "it": "Non possiamo permetterci incidenti. Non sparare.",
-        "th": ""
+        "th": "แลมเบิร์ต - เราไม่มีที่ให้กับอุบัติเหตุ ระวังการยิงของตัวเอง"
       },
       "Speech_0178L": {
         "en": "LAMBERT - Dammit Fisher...that's the second civilian you've killed.",
@@ -696,7 +696,7 @@
         "de": "Verdammt, Fisher! Das war jetzt schon der zweite, den du getötet hast.",
         "es": "Maldita sea, Fisher. Es el segundo civil que matas.",
         "it": "Dannazione, Fisher... è il secondo civile che uccidi.",
-        "th": ""
+        "th": "แลมเบิร์ต - ให้ตายสิ ฟิชเชอร์... นั่นคือพลเรือนคนที่สองที่คุณฆ่า"
       },
       "Speech_0179L": {
         "en": "FISHER - Lambert...I...",
@@ -704,7 +704,7 @@
         "de": "Lambert ... ich ...",
         "es": "Lambert, yo...",
         "it": "Lambert... io...",
-        "th": ""
+        "th": "ฟิชเชอร์ - แลมเบิร์ต... ฉัน..."
       },
       "Speech_0180L": {
         "en": "LAMBERT - You should be able to designate the wreckage with your EEV from the top of this structure.",
@@ -712,7 +712,7 @@
         "de": "Du solltest das Wrack mit deinem EEV vom Dach dieses Gebäudes aus markieren können.",
         "es": "Si subes a ese edificio, podrás marcar los restos del avión con el visor electrónico.",
         "it": "Dovresti riuscire a designare il punto di impatto usando l'EEV dalla cima di questa struttura.",
-        "th": ""
+        "th": "แลมเบิร์ต - คุณน่าจะกำหนดเป้าหมายซากได้ด้วย EEV จากยอดอาคารนี้"
       },
       "Speech_0181L": {
         "en": "FISHER - Alright.",
@@ -720,7 +720,7 @@
         "de": "Verstanden.",
         "es": "De acuerdo.",
         "it": "Bene.",
-        "th": ""
+        "th": "ฟิชเชอร์ - เอาล่ะ"
       },
       "Speech_0185L": {
         "en": "FISHER - God forgive me. ",
@@ -728,7 +728,7 @@
         "de": "Gott vergib mir. ",
         "es": "Dios me perdone. ",
         "it": "Dio, perdonami. ",
-        "th": ""
+        "th": "ฟิชเชอร์ - พระเจ้าจงยกโทษให้ฉัน "
       },
       "Speech_0186L": {
         "en": "LAMBERT - Alright, Fisher, you have an F-117 inbound...standby.",
@@ -736,7 +736,7 @@
         "de": "Achtung, Fisher, Nighthawk im Anflug ... warte auf weitere Anweisungen.",
         "es": "Fisher, un F-117 va de camino. Espérale ahí.",
         "it": "Bene, Fisher, c'è un F-117 in arrivo... attendi.",
-        "th": ""
+        "th": "แลมเบิร์ต - เอาล่ะ ฟิชเชอร์ คุณมี F-117 กำลังมา... เตรียมพร้อม"
       },
       "Speech_0187L": {
         "en": "FISHER - Roger. Target is painted.",
@@ -744,7 +744,7 @@
         "de": "Verstanden. Ziel ist markiert.",
         "es": "Recibido. Blanco marcado.",
         "it": "Ricevuto. Ho colorato il bersaglio.",
-        "th": ""
+        "th": "ฟิชเชอร์ - รับทราบ เป้าหมายถูกทำเครื่องหมายแล้ว"
       },
       "Speech_0188L": {
         "en": "US_PILOT - Hello there paperboy. This is postman. We have your glare. Stay on target.",
@@ -752,7 +752,7 @@
         "de": "Paperboy, hier spricht Postman. Ich sehe Ihr Signal. Markierung fortsetzen.",
         "es": "Hola, repartidor. Aquí el cartero. Tenemos la posición. Siga sobre el blanco.",
         "it": "Salve, fattorino. È il postino che parla. Abbiamo il tuo segnale. Stai sul bersaglio.",
-        "th": ""
+        "th": "นักบินสหรัฐฯ - สวัสดี คนส่งหนังสือนี่คือบุรุษไปรษณีย์ เรารับแสงสะท้อนของคุณแล้ว อยู่กับเป้าหมาย"
       },
       "Speech_0189L": {
         "en": "FISHER - Affirmative, postman.",
@@ -760,7 +760,7 @@
         "de": "Verstanden, Postman.",
         "es": "Afirmativo, cartero.",
         "it": "Affermativo, postino.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ยืนยัน บุรุษไปรษณีย์"
       },
       "Speech_0147L": {
         "en": "US_PILOT - And... there you go paperboy. The package is in the mail.",
@@ -768,7 +768,7 @@
         "de": "Und ... los! Das Paket ist unterwegs, Paperboy.",
         "es": "Allá va, repartidor. El paquete está en el buzón.",
         "it": "E... ecco qui, fattorino. Il pacco è in buca.",
-        "th": ""
+        "th": "นักบินสหรัฐฯ - และ... เรียบร้อย คนส่งหนังสือ พัสดุอยู่ในระหว่างส่ง"
       },
       "Speech_0148L": {
         "en": "FISHER - Confirm visual on the package postman.",
@@ -776,7 +776,7 @@
         "de": "Sichtkontakt mit Paket bestätigt, Postman.",
         "es": "Confirmación visual del paquete, cartero.",
         "it": "Confermo la visuale sul pacco, postino.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ยืนยันการมองเห็นพัสดุ บุรุษไปรษณีย์"
       },
       "Speech_0149L": {
         "en": "US_PILOT - Have a better one. Postman out. ",
@@ -784,7 +784,7 @@
         "de": "Viel Glück noch. Postman Ende. ",
         "es": "Que tenga un buen día. Corto. ",
         "it": "Buona fortuna. Postino chiude. ",
-        "th": ""
+        "th": "นักบินสหรัฐฯ - ขอให้เจอสิ่งที่ดีกว่านะ บุรุษไปรษณีย์ออก "
       }
     },
     "P_09_SeoulTwo_Imprison": {
@@ -795,7 +795,7 @@
         "de": "Es kann sein, dass der gefangene Südkoreaner nach seiner Befreiung den Feind angreift.",
         "es": "El prisionero surcoreano puede atacar al enemigo si le liberas.",
         "it": "Il prigioniero sudcoreano potrebbe attaccare il nemico se venisse liberato.",
-        "th": ""
+        "th": "เชลยชาวเกาหลีใต้อาจโจมตีศัตรูได้ถ้าถูกปล่อย"
       }
     },
     "P_09_SeoulTwo_Imprison_Com": {
@@ -806,7 +806,7 @@
         "de": "Okay! Okay! ",
         "es": "¡Está bien, está bien! ",
         "it": "Bene! Ok! ",
-        "th": ""
+        "th": "ก็ได้! โอเค! "
       },
       "Speech_0002L": {
         "en": "Shut up!",
@@ -814,7 +814,7 @@
         "de": "Sei still!",
         "es": "¡Calla!",
         "it": "Zitto!",
-        "th": ""
+        "th": "หุบปาก!"
       },
       "Speech_0003L": {
         "en": "I surrender. I surrender. Just... please don't hurt me",
@@ -822,7 +822,7 @@
         "de": "Ich ergebe mich. Nur ... bitte tu mir nicht weh.",
         "es": "Me rindo. Por favor, no me hagas daño.",
         "it": "Mi arrendo. Solo... non farmi male, ti prego.",
-        "th": ""
+        "th": "ฉันยอมแพ้ ฉันยอมแพ้ แค่... ได้โปรดอย่าทำร้ายฉัน"
       },
       "Speech_0006L": {
         "en": "You be quiet now! You're under arrest now!",
@@ -830,7 +830,7 @@
         "de": "Sei jetzt endlich still! Du bist festgenommen!",
         "es": "¡Cállate ya! Ahora estás bajo arresto.",
         "it": "Stai zitto! Sei in arresto!",
-        "th": ""
+        "th": "แกเงียบซะตอนนี้! แกถูกจับแล้วตอนนี้!"
       },
       "Speech_0007L": {
         "en": "Okay.",
@@ -838,7 +838,7 @@
         "de": "Okay.",
         "es": "Vale.",
         "it": "Ok.",
-        "th": ""
+        "th": "โอเค"
       },
       "Speech_0010L": {
         "en": "You're my prisoner!",
@@ -846,7 +846,7 @@
         "de": "Du bist mein Gefangener!",
         "es": "Eres mi prisionero.",
         "it": "Sei mio prigioniero!",
-        "th": ""
+        "th": "แกเป็นเชลยของฉัน!"
       },
       "Speech_0011L": {
         "en": "Okay. I surrender.",
@@ -854,7 +854,7 @@
         "de": "Okay. Ich ergebe mich.",
         "es": "Vale, me rindo.",
         "it": "Ok. Mi arrendo.",
-        "th": ""
+        "th": "โอเค ฉันยอมแพ้"
       },
       "Speech_0012L": {
         "en": "Good... now don't move.",
@@ -862,7 +862,7 @@
         "de": "Gut ... und jetzt keine Bewegung.",
         "es": "Ahora, no te muevas.",
         "it": "Bene... ora non muoverti.",
-        "th": ""
+        "th": "ดี... ทีนี้อย่าขยับ"
       },
       "Speech_0013L": {
         "en": "Okay.",
@@ -870,7 +870,7 @@
         "de": "Okay.",
         "es": "Vale.",
         "it": "Ok.",
-        "th": ""
+        "th": "โอเค"
       },
       "Speech_0014L": {
         "en": "Okay.",
@@ -878,7 +878,7 @@
         "de": "Okay.",
         "es": "Muy bien.",
         "it": "Ok.",
-        "th": ""
+        "th": "โอเค"
       },
       "Speech_0015L": {
         "en": "Now what do we do?",
@@ -886,7 +886,7 @@
         "de": "Und was machen wir jetzt?",
         "es": "¿Y ahora qué hacemos?",
         "it": "Ora che facciamo?",
-        "th": ""
+        "th": "ทีนี้เราจะทำยังไง?"
       },
       "Speech_0016L": {
         "en": "I don't know. You sit there... I'll figure something out.",
@@ -894,7 +894,7 @@
         "de": "Ich weiß es nicht. Du bleibst da sitzen ... ich werde mir was überlegen.",
         "es": "No sé. Siéntate ahí. Ya se me ocurrirá algo.",
         "it": "Non lo so. Tu siediti dietro... io penserò a qualcosa.",
-        "th": ""
+        "th": "ไม่รู้สิ แกนั่งตรงนั้น... ฉันจะคิดหาทางออกเอง"
       }
     },
     "P_09_SeoulTwo_Interog_Bae": {
@@ -905,7 +905,7 @@
         "de": "Was machst du hier?",
         "es": "¿Qué estás haciendo aquí?",
         "it": "Cosa ci fai qui?",
-        "th": ""
+        "th": "คุณมาทำอะไรที่นี่?"
       },
       "Speech_0002L": {
         "en": "Ah! Oh... just my luck...",
@@ -913,7 +913,7 @@
         "de": "Ah! Oh ... doch kein Glück gehabt ...",
         "es": "Vaya suerte que tengo...",
         "it": "Ah! Oh... la mia solita fortuna...",
-        "th": ""
+        "th": "อ๊ะ! โอ้... ซวยจริงๆ..."
       },
       "Speech_0003L": {
         "en": "What are you talking about?",
@@ -921,7 +921,7 @@
         "de": "Wovon sprichst du?",
         "es": "¿De qué diantres hablas?",
         "it": "Di cosa stai parlando?",
-        "th": ""
+        "th": "คุณพูดเรื่องอะไร?"
       },
       "Speech_0004L": {
         "en": "Sitting in there, minding my own business and 'crash'. ",
@@ -929,7 +929,7 @@
         "de": "Ich sitze hier, denke an nichts Böses und es macht RUMMS. ",
         "es": "Estaba aquí sentado, meditando, y ¡bummm! ",
         "it": "Me ne sto seduto, penso ai fatti miei e 'boom'. ",
-        "th": ""
+        "th": "นั่งอยู่ตรงนั้น ทำธุระของตัวเอง แล้วก็ 'โครม' "
       },
       "Speech_0005L": {
         "en": "What happened?",
@@ -937,7 +937,7 @@
         "de": "Was ist passiert?",
         "es": "¿Qué ha pasado?",
         "it": "Cosa è successo?",
-        "th": ""
+        "th": "เกิดอะไรขึ้น?"
       },
       "Speech_0006L": {
         "en": "You crazy maniacs drop a giant bomb on my head.",
@@ -945,7 +945,7 @@
         "de": "Ihr verrückten Wahnsinnigen habt mir eine riesige Bombe auf den Kopf geworfen.",
         "es": "Que una bomba gigante casi me cae en la cabeza.",
         "it": "Voi pazzi maniaci mi buttate un bomba gigante in testa.",
-        "th": ""
+        "th": "พวกคุณบ้าคลั่งทิ้งระเบิดยักษ์ลงมาบนหัวฉัน"
       },
       "Speech_0007L": {
         "en": "Bomb?",
@@ -953,7 +953,7 @@
         "de": "Bombe?",
         "es": "¿Una bomba?",
         "it": "Bomba?",
-        "th": ""
+        "th": "ระเบิด?"
       },
       "Speech_0008L": {
         "en": "The one in there! Went right through the room! Just missed me!",
@@ -961,7 +961,7 @@
         "de": "Die da drinnen! Ging genau durch den Raum durch! Hat mich nur knapp verfehlt!",
         "es": "¡Ésa de ahí! ¡Ha atravesado la habitación y casi me da!",
         "it": "Quella lì! Ha sfondato la stanza! Mi ha mancato per un pelo!",
-        "th": ""
+        "th": "ลูกที่อยู่ในนั้นไง! ทะลุห้องลงมาตรงๆ! พลาดตัวฉันไปนิดเดียว!"
       },
       "Speech_0009L": {
         "en": "It didn't explode?",
@@ -969,7 +969,7 @@
         "de": "Sie ist nicht explodiert?",
         "es": "¿No ha explotado?",
         "it": "Non è esplosa?",
-        "th": ""
+        "th": "มันไม่ระเบิดเหรอ?"
       },
       "Speech_0010L": {
         "en": "Not yet... doesn't matter now... you're probably going to kill me anyway...",
@@ -977,7 +977,7 @@
         "de": "Noch nicht ... ist ja jetzt auch nicht mehr wichtig ... Sie werden mich vermutlich sowieso töten ...",
         "es": "Aún no. Pero ya no importa. Seguro que vas a matarme.",
         "it": "Non ancora... ma che importa? Tu mi ucciderai comunque...",
-        "th": ""
+        "th": "ยัง... แต่ตอนนี้ไม่สำคัญแล้ว... คุณคงจะฆ่าฉันอยู่ดี..."
       },
       "Speech_0011L": {
         "en": "I knew I should have stayed in bed.",
@@ -985,7 +985,7 @@
         "de": "Ich wusste, dass ich besser im Bett geblieben wäre.",
         "es": "Para qué me levantaría hoy...",
         "it": "Sapevo che dovevo restare a letto...",
-        "th": ""
+        "th": "ฉันรู้ว่าฉันควรนอนต่อบนเตียง"
       },
       "Speech_0012L": {
         "en": "Fine... do you worst...",
@@ -993,7 +993,7 @@
         "de": "Na schön ... tun Sie, was Sie tun müssen ...",
         "es": "Haz lo que quieras.",
         "it": "Va bene... fai del tuo peggio...",
-        "th": ""
+        "th": "ก็ได้... ทำสิ่งที่แย่ที่สุดของแกมาเลย..."
       }
     },
     "P_09_SeoulTwo_Interog_Bo": {
@@ -1004,7 +1004,7 @@
         "de": "Bleib ruhig und du bleibst am Leben ...",
         "es": "No grites, y vivirás.",
         "it": "Stai calmo e vivrai...",
-        "th": ""
+        "th": "ใจเย็นๆ แล้วคุณจะรอด..."
       },
       "Speech_0002L": {
         "en": "Wh... who--",
@@ -1012,7 +1012,7 @@
         "de": "W... wer ...",
         "es": "¿Qui-quién...?",
         "it": "Ch... chi...",
-        "th": ""
+        "th": "อะ... ใคร-"
       },
       "Speech_0003L": {
         "en": "What unit are you with?",
@@ -1020,7 +1020,7 @@
         "de": "Zu welcher Einheit gehörst du?",
         "es": "¿De qué unidad eres?",
         "it": "A che unità appartieni?",
-        "th": ""
+        "th": "คุณอยู่หน่วยไหน?"
       },
       "Speech_0004L": {
         "en": "We're the second wave... we're here to reinforce the first battalion and secure the area.",
@@ -1028,7 +1028,7 @@
         "de": "Wir sind die zweite Welle ... wir sind hier, um das erste Bataillon zu verstärken und das Gebiet zu sichern.",
         "es": "De la segunda oleada. Venimos para reforzar al primer batallón y asegurar la zona.",
         "it": "Siamo la seconda ondata... dobbiamo rinforzare il primo battaglione e conquistare l'area.",
-        "th": ""
+        "th": "เราคือระลอกที่สอง... เรามาเสริมกำลังกองพันแรกและรักษาความปลอดภัยในพื้นที่"
       },
       "Speech_0005L": {
         "en": "Reinforcements? You must pack some supplies and extra equipment...",
@@ -1036,7 +1036,7 @@
         "de": "Verstärkung? Ihr müsst einige Vorräte und zusätzliche Ausrüstung dabeihaben ...",
         "es": "¿Refuerzos? Entonces debéis llevar suministros y equipo extra...",
         "it": "Rinforzi? Quindi avrete risorse ed equipaggiamenti extra...",
-        "th": ""
+        "th": "กำลังเสริมเหรอ? คุณคงมีเสบียงและอุปกรณ์เสริมติดตัว..."
       },
       "Speech_0006L": {
         "en": "Our resupply kit. We carry some NATO 5.56 by 45 in there, in case we recover American rifles.",
@@ -1044,7 +1044,7 @@
         "de": "Nur unsere Zusatzversorgung. Wir haben ein bisschen 5-5-6er-Munition, falls wir amerikanische Gewehre erbeuten.",
         "es": "El kit de reabastecimiento. También llevamos munición OTAN 5.56 de 45, por si encontramos fusiles americanos.",
         "it": "Il kit di rifornimento. Abbiamo dei caricatori di 5.56x45 NATO, nel caso recuperassimo fucili americani.",
-        "th": ""
+        "th": "ชุดเสบียงของเรา เรามี NATO 5.56 คูณ 45 อยู่ในนั้น เผื่อเราเก็บปืนอเมริกันได้"
       },
       "Speech_0009L": {
         "en": "I found that already... anything else?",
@@ -1052,7 +1052,7 @@
         "de": "Die habe ich bereits gefunden ... sonst noch was?",
         "es": "Eso ya lo he encontrado. ¿Algo más?",
         "it": "Ho già quella roba... altro?",
-        "th": ""
+        "th": "ฉันเจอนั่นแล้ว... มีอย่างอื่นอีกไหม?"
       },
       "Speech_0010L": {
         "en": "No... we travel light... the third wave will be better equipped.",
@@ -1060,7 +1060,7 @@
         "de": "Nein ... wir haben nur leichtes Gepäck ... die dritte Welle wird besser ausgerüstet sein.",
         "es": "No. Llevamos poco equipaje. La tercera oleada traerá más.",
         "it": "No... viaggiamo leggeri... la terza ondata avrà di meglio.",
-        "th": ""
+        "th": "ไม่มี... เราเดินทางแบบเบา... ระลอกที่สามจะติดตั้งดีกว่านี้"
       },
       "Speech_0014L": {
         "en": "Thanks for the tip.",
@@ -1068,7 +1068,7 @@
         "de": "Danke für den Hinweis.",
         "es": "Gracias por la información.",
         "it": "Grazie del consiglio.",
-        "th": ""
+        "th": "ขอบใจสำหรับเบาะแส"
       },
       "Note_0015L": {
         "en": "There is ammo beside the P3R on the office roof.",
@@ -1076,7 +1076,7 @@
         "de": "Munition liegt auf dem Bürodach neben dem TRE.",
         "es": "Hay munición junto al RRP, en el techo de la oficina.",
         "it": "Ci sono delle munizioni di fianco al radar sul tetto dell'ufficio.",
-        "th": ""
+        "th": "มีกระสุนอยู่ข้าง P3R บนดาดฟ้าสำนักงาน"
       },
       "Speech_0011L": {
         "en": "That's all we have... I swear...",
@@ -1084,7 +1084,7 @@
         "de": "Mehr haben wir nicht ... ich schwöre es!",
         "es": "Es todo lo que tengo, lo juro.",
         "it": "È tutto quello che abbiamo... lo giuro...",
-        "th": ""
+        "th": "เรามีแค่นั้น... ผมสาบาน..."
       },
       "Speech_0013L": {
         "en": "Look out for bombs...",
@@ -1092,7 +1092,7 @@
         "de": "Nehmen Sie sich vor Bomben in Acht.",
         "es": "Cuidado con las bombas.",
         "it": "Occhio alle bombe...",
-        "th": ""
+        "th": "ระวังระเบิดด้วย..."
       }
     },
     "P_09_SeoulTwo_Interog_Chen": {
@@ -1103,7 +1103,7 @@
         "de": "Was machst du hier?",
         "es": "¿Qué estás haciendo aquí?",
         "it": "Cosa ci fai qui?",
-        "th": ""
+        "th": "คุณมาทำอะไรที่นี่?"
       },
       "Speech_0002L": {
         "en": "Thank god, you're American.",
@@ -1111,7 +1111,7 @@
         "de": "Gott sei Dank, Sie sind Amerikaner.",
         "es": "¡Gracias a Dios, un americano!",
         "it": "Grazie a dio, sei americano.",
-        "th": ""
+        "th": "ขอบคุณพระเจ้า คุณเป็นชาวอเมริกัน"
       },
       "Speech_0003L": {
         "en": "I'm not here to rescue you.",
@@ -1119,7 +1119,7 @@
         "de": "Ich bin nicht hier, um dich zu retten.",
         "es": "No he venido a rescatarte.",
         "it": "Non sono qui per salvarti.",
-        "th": ""
+        "th": "ฉันไม่ได้มาช่วยคุณ"
       },
       "Speech_0004L": {
         "en": "Please... I want to help you.",
@@ -1127,7 +1127,7 @@
         "de": "Bitte ... ich möchte Ihnen helfen.",
         "es": "¡Por favor, quiero ayudarte!",
         "it": "Ti prego... voglio aiutarti.",
-        "th": ""
+        "th": "ได้โปรด... ผมอยากช่วยคุณ"
       },
       "Speech_0005L": {
         "en": "Too dangerous. Just tell me what you know.",
@@ -1135,7 +1135,7 @@
         "de": "Zu gefährlich. Sag mir einfach, was du weißt.",
         "es": "Es muy peligroso. Mejor, dime lo que sepas.",
         "it": "Troppo pericoloso. Dimmi solo quello che sai.",
-        "th": ""
+        "th": "อันตรายเกินไป แค่บอกสิ่งที่คุณรู้มา"
       },
       "Speech_0006L": {
         "en": "The MCC up ahead... they have some kind of flying drone protecting them.",
@@ -1143,7 +1143,7 @@
         "de": "Das MKZ weiter vorn ... sie haben irgend so eine Art Aufklärungsdrohne zu seinem Schutz.",
         "es": "Tienes un CMM adelante. Lo protegen con un avión por control remoto.",
         "it": "Il centro di comando più avanti... lo proteggono con una specie di drone volante.",
-        "th": ""
+        "th": "MCC ข้างหน้า... พวกมันมีโดรนบินได้บางชนิดคอยคุ้มกัน"
       },
       "Speech_0007L": {
         "en": "Thanks.",
@@ -1151,7 +1151,7 @@
         "de": "Danke.",
         "es": "Gracias.",
         "it": "Grazie.",
-        "th": ""
+        "th": "ขอบใจ"
       },
       "Speech_0008L": {
         "en": "Be careful... I called for a mortar strike on the alley by the MCC before I was captured... it could come any second.",
@@ -1159,7 +1159,7 @@
         "de": "Sehen Sie sich vor ... ich habe einen Mörserangriff auf die Gasse neben dem MKZ angefordert, bevor man mich gefangen nahm ... er könnte jede Sekunde stattfinden.",
         "es": "Antes de que me cogieran, pedí un ataque de mortero en el callejón donde está el CMM. Ten cuidado.",
         "it": "Sii prudente... ho chiesto un attacco di mortaio sul vicolo del centro di comando prima di essere catturato... potrebbe arrivare da un momento all'altro.",
-        "th": ""
+        "th": "ระวังตัวด้วย... ผมเรียกการยิงครกใส่ตรอกข้าง MCC ก่อนถูกจับ... มันอาจลงมาเมื่อไหร่ก็ได้"
       },
       "Speech_0009L": {
         "en": "I'll be careful.",
@@ -1167,7 +1167,7 @@
         "de": "Ich werde aufpassen.",
         "es": "Lo tendré.",
         "it": "Sarò prudente.",
-        "th": ""
+        "th": "ฉันจะระวัง"
       },
       "Speech_0010L": {
         "en": "We are brothers in arms.",
@@ -1175,7 +1175,7 @@
         "de": "Wir sind Waffenbrüder.",
         "es": "Somos camaradas de armas.",
         "it": "Siamo fratelli d'armi.",
-        "th": ""
+        "th": "เราเป็นพี่น้องร่วมรบ"
       },
       "Speech_0011L": {
         "en": "I am on your side.",
@@ -1183,7 +1183,7 @@
         "de": "Ich bin auf Ihrer Seite.",
         "es": "Estoy en tu bando.",
         "it": "Sono dalla tua parte.",
-        "th": ""
+        "th": "ฉันอยู่ฝ่ายคุณ"
       },
       "Speech_0012L": {
         "en": "I think there are snipers around.",
@@ -1191,7 +1191,7 @@
         "de": "Ich glaube, es gibt hier Scharfschützen.",
         "es": "Creo que hay francotiradores.",
         "it": "Credo ci siano dei cecchini qui intorno.",
-        "th": ""
+        "th": "ฉันว่ามีพลซุ่มยิงอยู่รอบๆ"
       }
     },
     "P_09_SeoulTwo_interog_chung": {
@@ -1202,7 +1202,7 @@
         "de": "Hast du jemals daran gedacht, den Pannendienst zu rufen?",
         "es": "¿Por qué no llamas a los de ayuda en carretera?",
         "it": "Hai pensato di chiamare un carro attrezzi?",
-        "th": ""
+        "th": "คุณเคยคิดจะเรียกบริการช่วยเหลือ roadside บ้างไหม?"
       },
       "Speech_0002L": {
         "en": "Ah! Hey... let me go you American pig!",
@@ -1210,7 +1210,7 @@
         "de": "Ah! He ... loslassen, du amerikanisches Schwein!",
         "es": "¡Suéltame, cerdo imperialista yanqui!",
         "it": "Ah! Ehi... lasciami andare, porco americano!",
-        "th": ""
+        "th": "อ๊ะ! เฮ้... ปล่อยฉันไปนะ ไอ้พวกอเมริกันหมู!"
       },
       "Speech_0003L": {
         "en": "I'm just trying to be helpful.",
@@ -1218,7 +1218,7 @@
         "de": "Ich wollte dir nur helfen.",
         "es": "Sólo intento ayudarte.",
         "it": "Sto solo cercando di aiutarti.",
-        "th": ""
+        "th": "ฉันแค่พยายามช่วย"
       },
       "Speech_0004L": {
         "en": "You make jokes about your fancy capitalist style... living like kings on the backs of my people... take your roadside assistance and shove it up your--",
@@ -1226,7 +1226,7 @@
         "de": "Ihr verspottet uns mit eurem aufwändigen, kapitalistischen Lebensstil ... ihr lebt wie Könige und nutzt dabei mein Volk aus ... nimm deinen Pannendienst und schieb ihn dir in den ...",
         "es": "Vosotros los capitalistas vivís como parásitos, chupando la sangre a mi pueblo, y encima os reís. Métete tu ayuda en carretera por donde...",
         "it": "Tu scherzi sul tuo bello stile di vita capitalista... vivi da re sulle spalle della mia gente... prendi il tuo carro attrezzi e infilatelo nel...",
-        "th": ""
+        "th": "แกเล่นมุกเรื่องสไตล์ทุนนิยมหรูหราของพวกแก... ใช้ชีวิตเหมือนราชาบนหลังประชาชนของฉัน... เอาบริการ roadside ของแกไปยัดใส่ตูดแก-"
       },
       "Speech_0005L": {
         "en": "Calm down, or I'll knock you down.",
@@ -1234,7 +1234,7 @@
         "de": "Beruhige dich, oder es gibt kräftig eins auf die Nase.",
         "es": "Cálmate o tendré que noquearte.",
         "it": "Calmati, o dovrò stenderti.",
-        "th": ""
+        "th": "ใจเย็นๆ ไม่งั้นฉันจะสับแกให้ล้ม"
       },
       "Speech_0006L": {
         "en": "Do your worst.",
@@ -1242,7 +1242,7 @@
         "de": "Nur zu!",
         "es": "Haz lo que quieras.",
         "it": "Fai del tuo peggio.",
-        "th": ""
+        "th": "ทำสิ่งที่แย่ที่สุดของแกมาเลย"
       },
       "Speech_0007L": {
         "en": "Intelligence first.",
@@ -1250,7 +1250,7 @@
         "de": "Zuerst die Informationen.",
         "es": "Antes, la información.",
         "it": "Prima le informazioni.",
-        "th": ""
+        "th": "ข่าวกรองมาก่อน"
       },
       "Speech_0008L": {
         "en": "There is an armored vehicle moving to secure the next street. How's that for intelligence! Ha! I hope it kills you.",
@@ -1258,7 +1258,7 @@
         "de": "Ein gepanzertes Fahrzeug ist unterwegs, um die nächste Straße zu sichern. Na, wie gefällt dir das? Ha! Ich hoffe, das Ding bringt dich um.",
         "es": "Un blindado viene de camino para asegurar la siguiente calle. ¿Te gusta esa información? ¡Espero que te mate!",
         "it": "Sta arrivando un corazzato per coprire la strada più avanti. Bell'informazione, eh? Ha! Spero che ti uccida.",
-        "th": ""
+        "th": "มียานเกราะกำลังเคลื่อนไปรักษาความปลอดภัยถนนเส้นถัดไป นั่นเป็นข่าวกรองที่พอใจไหม! ฮ่า! หวังว่ามันจะฆ่าแกนะ"
       },
       "Speech_0009L": {
         "en": "I don't like you.",
@@ -1266,7 +1266,7 @@
         "de": "Ich kann dich nicht leiden.",
         "es": "Me caes mal.",
         "it": "Non mi piaci.",
-        "th": ""
+        "th": "ฉันไม่ชอบคุณ"
       },
       "Speech_0010L": {
         "en": "It's mutual.",
@@ -1274,7 +1274,7 @@
         "de": "Das beruht auf Gegenseitigkeit.",
         "es": "El sentimiento es mutuo.",
         "it": "Neanche tu.",
-        "th": ""
+        "th": "รู้สึกเหมือนกัน"
       },
       "Speech_0011L": {
         "en": "Yeah... but I'm the one with the knife.",
@@ -1282,7 +1282,7 @@
         "de": "Ja ... aber ich habe das Messer.",
         "es": "Sí, pero el cuchillo lo tengo yo.",
         "it": "Sì... ma quello col coltello sono io.",
-        "th": ""
+        "th": "ใช่... แต่ฉันเป็นคนถือมีด"
       },
       "Speech_0012L": {
         "en": "I hate you, pig.",
@@ -1290,7 +1290,7 @@
         "de": "Ich hasse dich, du Schwein.",
         "es": "Te odio, cerdo.",
         "it": "Ti odio, porco.",
-        "th": ""
+        "th": "ฉันเกลียดแก ไอ้หมู"
       },
       "Speech_0013L": {
         "en": "You smell like milk and cookies.",
@@ -1298,7 +1298,7 @@
         "de": "Du riechst nach Milch und Keksen.",
         "es": "Hueles a palomitas y hamburguesas.",
         "it": "Puzzi di latte e biscotti.",
-        "th": ""
+        "th": "แกมีกลิ่นเหมือนนมกับคุกกี้"
       }
     },
     "P_09_SeoulTwo_Interog_Ho": {
@@ -1309,7 +1309,7 @@
         "de": "Was machst du hier?",
         "es": "¿Qué estás haciendo aquí?",
         "it": "Cosa stai facendo qui?",
-        "th": ""
+        "th": "คุณมาทำอะไรที่นี่?"
       },
       "Speech_0002L": {
         "en": "Ah! Who... uh... I'm... I just dropped off a some men to help secure the area.",
@@ -1317,7 +1317,7 @@
         "de": "Ah! Wer ... äh ... ich ... ich habe gerade einige Männer abgesetzt, die bei der Sicherung des Gebiets helfen sollen.",
         "es": "¡Ah! Acabo de enviar a unos cuantos hombres para controlar la zona.",
         "it": "Ah! Chi... ehm... sto... ho appena scaricato un po' di gente per coprire la zona.",
-        "th": ""
+        "th": "อ๊ะ! ใคร... เอ่อ... ผม... ผมเพิ่งส่งคนมาช่วยรักษาความปลอดภัยในพื้นที่"
       },
       "Speech_0003L": {
         "en": "How many men?",
@@ -1325,7 +1325,7 @@
         "de": "Wie viele Männer?",
         "es": "¿Cuántos hombres?",
         "it": "Quanti uomini?",
-        "th": ""
+        "th": "กี่คน?"
       },
       "Speech_0004L": {
         "en": "A sniper who went into the building... another guard to protect the MCC... and half a squad to scout ahead to the crash site.",
@@ -1333,7 +1333,7 @@
         "de": "Ein Scharfschütze ist in das Gebäude gegangen ... ein anderer bewacht das MKZ und eine halbe Gruppe ist zum Absturzort vorausgegangen.",
         "es": "Un francotirador dentro del edificio. Un guardia para proteger el CMM, y media sección para examinar los restos del avión.",
         "it": "Un cecchino nell'edificio... un'altra guardia dal centro di comando mobile... e mezza squadra per raggiungere il luogo dello schianto.",
-        "th": ""
+        "th": "พลซุ่มยิงคนหนึ่งเข้าไปในอาคาร... ยามอีกคนคุ้มกัน MCC... และครึ่งหน่วยไปลาดตระเวนข้างหน้าถึงจุดที่เครื่องบินตก"
       },
       "Speech_0005L": {
         "en": "How long until they reach the plane?",
@@ -1341,7 +1341,7 @@
         "de": "Wie lange wird es dauern, bis sie das Flugzeug erreichen?",
         "es": "¿Cuánto falta para que lleguen al avión?",
         "it": "Quanto ci metteranno a raggiungere l'aereo?",
-        "th": ""
+        "th": "อีกนานแค่ไหนพวกเขาจะถึงเครื่องบิน?"
       },
       "Speech_0006L": {
         "en": "I don't know... they have orders to overlook... wait for an IFV to support them.",
@@ -1349,7 +1349,7 @@
         "de": "Ich weiß es nicht ... sie haben Befehl, den Ort nur zu sichern ... und auf Unterstützung durch einen Schützenpanzer zu warten.",
         "es": "No lo sé. Tienen órdenes de esperar hasta que llegue un blindado de refuerzo.",
         "it": "Non lo so... devono seguire gli ordini... e aspettare che un IFV li appoggi.",
-        "th": ""
+        "th": "ไม่รู้สิ... พวกเขามีคำสั่งให้รอ... รอรถรบทหารราบมาสนับสนุน"
       },
       "Speech_0007L": {
         "en": "How long until the IFV arrives?",
@@ -1357,7 +1357,7 @@
         "de": "Wie lange, bis der Schützenpanzer eintrifft?",
         "es": "¿Cuándo va a llegar el blindado?",
         "it": "Quanto ci vorrà prima che arrivi l'IFV?",
-        "th": ""
+        "th": "อีกนานแค่ไหนรถรบจะมาถึง?"
       },
       "Speech_0008L": {
         "en": "It should be any minute.",
@@ -1365,7 +1365,7 @@
         "de": "Er sollte jede Minute da sein.",
         "es": "En cualquier momento.",
         "it": "Da un momento all'altro.",
-        "th": ""
+        "th": "น่าจะภายในไม่กี่นาที"
       },
       "Speech_0010L": {
         "en": "I surrender.",
@@ -1373,7 +1373,7 @@
         "de": "Ich ergebe mich.",
         "es": "Me rindo.",
         "it": "Mi arrendo.",
-        "th": ""
+        "th": "ผมยอมแพ้"
       },
       "Speech_0011L": {
         "en": "I'm just the driver.",
@@ -1381,7 +1381,7 @@
         "de": "Ich bin nur der Fahrer.",
         "es": "Sólo soy el conductor.",
         "it": "Sono solo l'autista.",
-        "th": ""
+        "th": "ผมเป็นแค่คนขับ"
       }
     },
     "P_09_SeoulTwo_Interog_Jin": {
@@ -1392,7 +1392,7 @@
         "de": "Was tust du hier?",
         "es": "¿Qué estás haciendo aquí?",
         "it": "Cosa ci fai qui?",
-        "th": ""
+        "th": "คุณมาทำอะไรที่นี่?"
       },
       "Speech_0002L": {
         "en": "Ah! Wait... you're American... I am South Korean... we're allies!",
@@ -1400,7 +1400,7 @@
         "de": "Ah! Warten Sie ... Sie sind Amerikaner ... ich bin Südkoreaner ... wir sind Verbündete.",
         "es": "¡Espera! Eres americano, y yo soy surcoreano. ¡Somos aliados!",
         "it": "Ah! Aspetta... sei americano... io sono sudcoreano... siamo alleati!",
-        "th": ""
+        "th": "อ๊ะ! เดี๋ยว... คุณเป็นชาวอเมริกัน... ผมเป็นเกาหลีใต้... เราพันธมิตรกัน!"
       },
       "Speech_0003L": {
         "en": "I can see that from the uniform, what are you doing here.",
@@ -1408,7 +1408,7 @@
         "de": "Das sehe ich an der Uniform. Was willst du hier?",
         "es": "Ya veo tu uniforme. Repito: ¿qué estás haciendo aquí?",
         "it": "Lo vedo dall'uniforme, ma cosa ci fai qui?",
-        "th": ""
+        "th": "ฉันเห็นได้จากเครื่องแบบ คุณมาทำอะไรที่นี่"
       },
       "Speech_0004L": {
         "en": "I'm the advance scout for my unit... they're not far behind... ",
@@ -1416,7 +1416,7 @@
         "de": "Ich bin die Vorhut meiner Einheit ... sie befindet sich nicht weit hinter uns ... ",
         "es": "Soy el explorador avanzado de mi unidad. Vienen detrás. ",
         "it": "Sono in ricognizione avanzata per la mia unità... non sono lontani... ",
-        "th": ""
+        "th": "ผมเป็นพลลาดตระเวนนำหน้าของหน่วย... พวกเขาตามมาไม่ไกล... "
       },
       "Speech_0005L": {
         "en": "How many?",
@@ -1424,7 +1424,7 @@
         "de": "Wie viele?",
         "es": "¿Cuántos?",
         "it": "Quanti?",
-        "th": ""
+        "th": "กี่คน?"
       },
       "Speech_0006L": {
         "en": "Four more... allies... allies... we're badly reduced... can you help us?",
@@ -1432,7 +1432,7 @@
         "de": "Vier weitere ... Verbündete ... Verbündete ... wir sind stark dezimiert worden ... können Sie uns helfen?",
         "es": "Cuatro más. Somos muy pocos. ¿Puedes ayudarnos, americano?",
         "it": "Altri quattro... alleati... alleati... siamo ridotti male... puoi aiutarci?",
-        "th": ""
+        "th": "อีกสี่คน... พันธมิตร... พันธมิตร... เราบาดเจ็บลดจำนวนลงมาก... คุณช่วยเราได้ไหม?"
       },
       "Speech_0007L": {
         "en": "I'm afraid I'm a little busy.",
@@ -1440,7 +1440,7 @@
         "de": "Ich fürchte, ich bin etwas zu beschäftigt.",
         "es": "Lo siento. Estoy ocupado.",
         "it": "Temo di essere troppo occupato.",
-        "th": ""
+        "th": "ฉันเกรงว่าฉันยุ่งอยู่นิดหน่อย"
       },
       "Speech_0008L": {
         "en": "Who are you?",
@@ -1448,7 +1448,7 @@
         "de": "Wer sind Sie?",
         "es": "¿Quién eres?",
         "it": "Chi sei?",
-        "th": ""
+        "th": "คุณเป็นใคร?"
       },
       "Speech_0009L": {
         "en": "I'm the guy you never saw.",
@@ -1456,7 +1456,7 @@
         "de": "Ich bin der Mann, den due nie gesehen hast.",
         "es": "El hombre al que nunca has visto.",
         "it": "Sono un tizio che non hai mai visto.",
-        "th": ""
+        "th": "ฉันคือคนที่คุณไม่เคยเห็น"
       },
       "Speech_0011L": {
         "en": "Please, we're allies...",
@@ -1464,7 +1464,7 @@
         "de": "Bitte, wir sind Verbündete ...",
         "es": "Por favor, somos aliados.",
         "it": "Ti prego, siamo alleati...",
-        "th": ""
+        "th": "ได้โปรด เราพันธมิตรกัน..."
       },
       "Speech_0012L": {
         "en": "If you don't let me tell my unit, they won't know you're on our side...",
@@ -1472,7 +1472,7 @@
         "de": "Wenn Sie nicht zulassen, dass ich es meiner Einheit sage, werden sie nicht wissen, dass Sie auf unserer Seite sind ...",
         "es": "Si no se lo digo a mi unidad, no sabrán que eres de nuestro bando.",
         "it": "Se non mi fai avvertire la mia unità, non sapranno mai che sei dalla nostra parte...",
-        "th": ""
+        "th": "ถ้าคุณไม่ให้ผมบอกหน่วยของผม พวกเขาจะไม่รู้ว่าคุณอยู่ฝ่ายเรา..."
       }
     },
     "P_09_SeoulTwo_Interog_Pong": {
@@ -1483,7 +1483,7 @@
         "de": "Nett hast du's hier. Wo ist dein Kollege?",
         "es": "Bonito nido tienes aquí. ¿Dónde está tu avistador?",
         "it": "Bel rifugio. Dov'è il vostro osservatore?",
-        "th": ""
+        "th": "ที่ซุ่มสวยดีนะ ผู้ช่วยสังเกตการณ์ของคุณอยู่ไหน?"
       },
       "Speech_0002L": {
         "en": "Ah! Uh... he... he's dead.",
@@ -1491,7 +1491,7 @@
         "de": "Ah! Äh ... er ... er ist tot.",
         "es": "¡Ah! Él está... está muerto.",
         "it": "Ah! Ehm... è... è morto.",
-        "th": ""
+        "th": "อ๊ะ! เอ่อ... เขา... เขาตายแล้ว"
       },
       "Speech_0005L": {
         "en": "Tell me something interesting, or you'll be reunited very shortly...",
@@ -1499,7 +1499,7 @@
         "de": "Erzähl mir was Interessantes, oder ihr seid bald wieder vereint ...",
         "es": "Cuéntame algo interesante, o te reunirás con él muy pronto.",
         "it": "Dimmi qualcosa di interessante o lo rivedrai presto...",
-        "th": ""
+        "th": "เล่าเรื่องน่าสนใจมา ไม่งั้นอีกไม่นานคุณจะได้ไปอยู่กับเขา..."
       },
       "Speech_0006L": {
         "en": "Uh... uh... you must be after the plane that crashed...",
@@ -1507,7 +1507,7 @@
         "de": "Äh ... äh ... Sie suchen bestimmt das abgestürzte Flugzeug ...",
         "es": "Debes estar buscando el avión que se estrelló...",
         "it": "Ehm... ehm... stai cercando l'aereo che si è schiantato?",
-        "th": ""
+        "th": "เอ่อ... เอ่อ... คุณต้องมาตามเครื่องบินที่ตกแน่..."
       },
       "Speech_0007L": {
         "en": "Maybe...",
@@ -1515,7 +1515,7 @@
         "de": "Kann sein ...",
         "es": "Tal vez.",
         "it": "Forse...",
-        "th": ""
+        "th": "อาจจะ..."
       },
       "Speech_0008L": {
         "en": "Out the other side of this building... down the street, left into the alley and over the wall... you can't miss it.",
@@ -1523,7 +1523,7 @@
         "de": "Auf der anderen Seite aus dem Gebäude heraus ... die Straße herunter, links in die Gasse und über die Mauer ... Sie können es nicht verfehlen.",
         "es": "Está al otro lado de este edificio. Baja la calle, entra al callejón de la izquierda y salta el muro. No tiene pérdida.",
         "it": "Esci dall'altra parte dell'edificio... giù dalla strada, vicolo a sinistra e supera il muro... non puoi sbagliare.",
-        "th": ""
+        "th": "ออกไปอีกด้านของอาคารนี้... ลงไปตามถนน เลี้ยวซ้ายเข้าตรอก แล้วข้ามกำแพง... คุณไม่พลาดหรอก"
       },
       "Speech_0009L": {
         "en": "Thanks for the directions...",
@@ -1531,7 +1531,7 @@
         "de": "Danke für die Wegbeschreibung.",
         "es": "Gracias por las indicaciones.",
         "it": "Grazie delle indicazioni...",
-        "th": ""
+        "th": "ขอบใจสำหรับการบอกทาง..."
       },
       "Speech_0010L": {
         "en": "Be careful. A QRF is heading to the crash site.",
@@ -1539,7 +1539,7 @@
         "de": "Seien Sie vorsichtig. Ein Bergungstrupp ist auf dem Weg zu der Absturzstelle.",
         "es": "Una fuerza de acción inmediata va hacia allá.",
         "it": "Stai attento. Sta arrivando una squadra di recupero.",
-        "th": ""
+        "th": "ระวังตัวด้วย กองกำลังตอบโต้เร็วกำลังมุ่งไปที่จุดเครื่องบินตก"
       },
       "Speech_0012L": {
         "en": "I promise, I won't shoot you.",
@@ -1547,7 +1547,7 @@
         "de": "Ich verspreche, ich werde nicht auf Sie schießen.",
         "es": "No te dispararé, lo prometo.",
         "it": "Prometto che non ti sparerò.",
-        "th": ""
+        "th": "ฉันสัญญา ฉันจะไม่ยิงคุณ"
       }
     },
     "P_09_SeoulTwo_Interog_Seung": {
@@ -1558,7 +1558,7 @@
         "de": "Netter Lastwagen.",
         "es": "Bonito camión.",
         "it": "Bel furgone.",
-        "th": ""
+        "th": "รถสวยดีนะ"
       },
       "Speech_0002L": {
         "en": "You can have it... the keys are over the visor.",
@@ -1566,7 +1566,7 @@
         "de": "Sie können ihn haben ... die Schlüssel befinden sich hinter der Sonnenblende.",
         "es": "Llévatelo. Las llaves están sobre el visor.",
         "it": "Puoi tenerlo... le chiavi sono dentro.",
-        "th": ""
+        "th": "เอาไปเลย... กุญแจอยู่บนที่บังแดด"
       },
       "Speech_0003L": {
         "en": "Wouldn't be very subtle to start driving around here.",
@@ -1574,7 +1574,7 @@
         "de": "Wäre etwas auffällig, hier in der Gegend mit einem LKW herumzufahren.",
         "es": "No sería muy prudente conducir por aquí.",
         "it": "Non sarebbe molto discreto andare in giro in furgone.",
-        "th": ""
+        "th": "ขับรถไปแถวนี้คงไม่เนียนเท่าไร"
       },
       "Speech_0004L": {
         "en": "It also wouldn't be subtle to kill me...",
@@ -1582,7 +1582,7 @@
         "de": "Es wäre auch ziemlich auffällig, mich zu töten.",
         "es": "Tampoco lo sería matarme...",
         "it": "Non lo sarebbe nemmeno uccidermi.",
-        "th": ""
+        "th": "การฆ่าฉันก็ไม่เนียนเหมือนกัน..."
       },
       "Speech_0005L": {
         "en": "Then tell me something useful...",
@@ -1590,7 +1590,7 @@
         "de": "Dann verrate mir etwas Nützliches.",
         "es": "Entonces cuéntame algo útil.",
         "it": "Allora dimmi qualcosa di utile.",
-        "th": ""
+        "th": "งั้นก็เล่าเรื่องที่มีประโยชน์มา..."
       },
       "Speech_0006L": {
         "en": "One of the snipers reported he had spotted two of the crewmen from the plane lying in the street.",
@@ -1598,7 +1598,7 @@
         "de": "Einer der Scharfschützen meldete, dass er zwei Besatzungsmitglieder des Flugzeugs auf der Straße hat liegen sehen.",
         "es": "Un francotirador ha informado de que hay dos tripulantes del avión tendidos en la calle.",
         "it": "Uno dei cecchini dice che ha inquadrato uno dei due sopravvissuti dell'aereo, a terra in mezzo alla strada.",
-        "th": ""
+        "th": "พลซุ่มยิงคนหนึ่งรายงานว่าเขาเห็นลูกเรือจากเครื่องบินสองคนนอนอยู่บนถนน"
       },
       "Speech_0007L": {
         "en": "And...",
@@ -1606,7 +1606,7 @@
         "de": "Und ...",
         "es": "Y...",
         "it": "E...?",
-        "th": ""
+        "th": "แล้ว..."
       },
       "Speech_0008L": {
         "en": "He thinks they're still alive...",
@@ -1614,7 +1614,7 @@
         "de": "Er glaubt, dass sie noch leben ...",
         "es": "Cree que aún están vivos.",
         "it": "Pensa che sia ancora vivo...",
-        "th": ""
+        "th": "เขาคิดว่าพวกเขายังมีชีวิตอยู่..."
       },
       "Speech_0009L": {
         "en": "Alive?!",
@@ -1622,7 +1622,7 @@
         "de": "Noch leben?!",
         "es": "¿Vivos?",
         "it": "Vivo?!",
-        "th": ""
+        "th": "มีชีวิตอยู่?!"
       },
       "Speech_0010L": {
         "en": "Yes... command told him to hold fire... they may be arranging to capture them.",
@@ -1630,7 +1630,7 @@
         "de": "Ja ... er erhielt den Befehl, nicht zu schießen ... vielleicht will man sie gefangen nehmen.",
         "es": "Sí. Le han dicho que no dispare. Creo que quieren hacerlos prisioneros.",
         "it": "Sì... il comando gli ha detto di non sparare... forse cercheranno di catturarli.",
-        "th": ""
+        "th": "ครับ... ฝ่ายบัญชาการสั่งให้เขางดยิง... พวกเขาอาจกำลังวางแผนจับตัว"
       },
       "Speech_0012L": {
         "en": "This war is terrible.",
@@ -1638,7 +1638,7 @@
         "de": "Dieser Krieg ist furchtbar.",
         "es": "Esta guerra es terrible.",
         "it": "Questa guerra è terribile.",
-        "th": ""
+        "th": "สงครามนี้น่ากลัวจริงๆ"
       },
       "Speech_0013L": {
         "en": "I never wanted to hurt anyone.",
@@ -1646,7 +1646,7 @@
         "de": "Ich wollte niemals jemandem wehtun.",
         "es": "Nunca he hecho daño a nadie.",
         "it": "Non ho mai voluto fare male a nessuno.",
-        "th": ""
+        "th": "ผมไม่เคยอยากทำร้ายใครเลย"
       }
     },
     "P_09_SeoulTwo_Interog_Shing": {
@@ -1657,7 +1657,7 @@
         "de": "Im Keller des Restaurants befindet sich ein Erste-Hilfe-Schrank.",
         "es": "Hay un botiquín en el sótano del restaurante.",
         "it": "C'è un kit medico nel sotterraneo del ristorante.",
-        "th": ""
+        "th": "มีชุดปฐมพยาบาลในชั้นใต้ดินของภัตตาคาร"
       },
       "Speech_0001L": {
         "en": "Boo.",
@@ -1665,7 +1665,7 @@
         "de": "Buh.",
         "es": "¡Búu!",
         "it": "Bu!",
-        "th": ""
+        "th": "จ๊ะเอ๋"
       },
       "Speech_0002L": {
         "en": "Oh... no... please... be quiet... you might set off the bomb.",
@@ -1673,7 +1673,7 @@
         "de": "Oh ... nein ... bitte ... seien Sie leise ... Sonst geht vielleicht die Bombe hoch. ",
         "es": "No, por favor. No hagas ruido, puedes activar la bomba.",
         "it": "Oh... no... ti prego... fai piano... la bomba potrebbe scoppiare.",
-        "th": ""
+        "th": "โอ้... ไม่นะ... ได้โปรด... เงียบๆ... คุณอาจทำให้ระเบิดทำงาน"
       },
       "Speech_0003L": {
         "en": "Tell me what I want to know and I'll let you leave.",
@@ -1681,7 +1681,7 @@
         "de": "Sag mir, was ich wissen will, dann lasse ich dich laufen.",
         "es": "Dime lo que quiero saber y te dejaré marchar.",
         "it": "Dimmi quello che voglio sapere e ti lascio andare.",
-        "th": ""
+        "th": "บอกสิ่งที่ฉันอยากรู้ แล้วฉันจะปล่อยคุณไป"
       },
       "Speech_0004L": {
         "en": "Anything... I just want to get out of here before--",
@@ -1689,7 +1689,7 @@
         "de": "Ich sage Ihnen alles ... ich will nur hier raus, bevor ...",
         "es": "Lo que sea. Quiero irme de aquí antes de que...",
         "it": "Quello che vuoi... voglio solo uscire di qui prima...",
-        "th": ""
+        "th": "อะไรก็ได้... ผมแค่อยากออกไปจากที่นี่ก่อน-"
       },
       "Speech_0005L": {
         "en": "Do you have any equipment or supplies?",
@@ -1697,7 +1697,7 @@
         "de": "Hast du irgendwelche Ausrüstung oder sonstige Gegenstände?",
         "es": "¿Tienes equipo o un botiquín?",
         "it": "Hai dell'equipaggiamento o dei medicinali?",
-        "th": ""
+        "th": "คุณมีอุปกรณ์หรือเสบียงอะไรไหม?"
       },
       "Speech_0006L": {
         "en": "There's some medical supplies in the basement I think...",
@@ -1705,7 +1705,7 @@
         "de": "Im Keller sollte sich einiges an Erste-Hilfe-Ausrüstung befinden ...",
         "es": "Creo que hay un botiquín en el sótano...",
         "it": "Credo ci siano dei medicinali nel seminterrato...",
-        "th": ""
+        "th": "มีเวชภัณฑ์อยู่ในชั้นใต้ดิน ฉันว่า..."
       },
       "Speech_0007L": {
         "en": "Thanks.",
@@ -1713,7 +1713,7 @@
         "de": "Danke.",
         "es": "Gracias.",
         "it": "Grazie.",
-        "th": ""
+        "th": "ขอบใจ"
       },
       "Speech_0008L": {
         "en": "And we have the UAV command unit in the kitchen.",
@@ -1721,7 +1721,7 @@
         "de": "Und in der Küche haben wir die Lenkeinheit für die Drohnen.",
         "es": "En la cocina está la unidad de mando del avión dirigido.",
         "it": "E l'unità di comando degli UAV è in cucina.",
-        "th": ""
+        "th": "และเรามีชุดควบคุม UAV อยู่ในครัว"
       },
       "Speech_0009L": {
         "en": "Interesting. You've been very helpful.",
@@ -1729,7 +1729,7 @@
         "de": "Interessant. Du hast mir sehr geholfen.",
         "es": "Interesante. Gracias por la ayuda.",
         "it": "Interessante. Sei stato molto utile.",
-        "th": ""
+        "th": "น่าสนใจ คุณมีประโยชน์มาก"
       },
       "Speech_0010L": {
         "en": "I'm very scared of that bomb.",
@@ -1737,7 +1737,7 @@
         "de": "Ich habe sehr viel Angst vor dieser Bombe.",
         "es": "Esa bomba me da pánico.",
         "it": "Ho molta paura di quella bomba.",
-        "th": ""
+        "th": "ผมกลัวระเบิดลูกนั้นมาก"
       },
       "Speech_0011L": {
         "en": "Well, if it goes off, you won't notice.",
@@ -1745,7 +1745,7 @@
         "de": "Nun, wenn sie hochgeht, wirst du es nicht einmal merken.",
         "es": "Si estalla, ni te darás cuenta.",
         "it": "Beh, se scoppia non te ne accorgerai.",
-        "th": ""
+        "th": "เอาเถอะ ถ้ามันระเบิดขึ้นมา คุณจะไม่รู้ตัวด้วยซ้ำ"
       },
       "Speech_0012L": {
         "en": "Please, don't leave me near that bomb.",
@@ -1753,7 +1753,7 @@
         "de": "Bitte, lassen Sie mich nicht in der Nähe der Bombe zurück.",
         "es": "No me dejes junto a esa bomba, por favor.",
         "it": "Ti prego, non lasciarmi vicino alla bomba.",
-        "th": ""
+        "th": "ได้โปรด อย่าทิ้งผมไว้ใกล้ระเบิดลูกนั้น"
       },
       "Speech_0013L": {
         "en": "I'm scared of giant explosions.",
@@ -1761,7 +1761,7 @@
         "de": "Ich fürchte mich vor gigantischen Explosionen.",
         "es": "Me aterrorizan las explosiones.",
         "it": "Ho paura delle esplosioni.",
-        "th": ""
+        "th": "ผมกลัวการระเบิดครั้งใหญ่"
       }
     },
     "P_09_SeoulTwo_Interog_Yuan": {
@@ -1772,7 +1772,7 @@
         "de": "Leise, ich werde dir nichts tun.",
         "es": "Calla, y no te haré daño.",
         "it": "Zitto... non ti farò del male.",
-        "th": ""
+        "th": "เงียบ... ฉันจะไม่ทำร้ายคุณ"
       },
       "Speech_0002L": {
         "en": "I'm not afraid of pain.",
@@ -1780,7 +1780,7 @@
         "de": "Ich fürchte mich nicht vor Schmerzen.",
         "es": "No temo al dolor.",
         "it": "Non ho paura del dolore.",
-        "th": ""
+        "th": "ผมไม่กลัวความเจ็บปวด"
       },
       "Speech_0003L": {
         "en": "Maybe you haven't been properly introduced...",
@@ -1788,7 +1788,7 @@
         "de": "Vielleicht kennst du einfach noch keine?",
         "es": "A lo mejor es que lo has probado poco.",
         "it": "Forse non te l'hanno presentato per bene.",
-        "th": ""
+        "th": "บางทีคุณอาจยังไม่ได้รับการแนะนำตัวอย่างเป็นทางการ..."
       },
       "Speech_0004L": {
         "en": "Ow... my wrist... arhghh... okay...",
@@ -1796,7 +1796,7 @@
         "de": "Au ... mein Handgelenk ... arhghh ... okay ...",
         "es": "¡Ay, mi mano! ¡Vale, vale!",
         "it": "Ah... il mio polso... arhghh... ok...",
-        "th": ""
+        "th": "โอ๊ย... ข้อมือผม... อ๊าก... โอเค..."
       },
       "Speech_0005L": {
         "en": "Tell me something interesting...",
@@ -1804,7 +1804,7 @@
         "de": "Erzähl mir was Interessantes ...",
         "es": "Cuéntame algo interesante...",
         "it": "Dimmi qualcosa di interessante...",
-        "th": ""
+        "th": "เล่าเรื่องน่าสนใจมา..."
       },
       "Speech_0006L": {
         "en": "I'm just supposed to make sure the roof is clear while the guys up top set up the P3R.",
@@ -1812,7 +1812,7 @@
         "de": "Ich soll nur sicherstellen, dass das Dach gesichert ist, während die anderen den TRE aufstellen.",
         "es": "Mi misión es asegurar el tejado es seguro mientras los otros preparan el radar portátil.",
         "it": "Devo assicurarmi che il tetto sia libero mentre i ragazzi posizionano i radar portatili.",
-        "th": ""
+        "th": "ผมแค่ต้องทำให้แน่ใจว่าดาดฟ้าปลอดคน ขณะที่พวกข้างบนติดตั้ง P3R"
       },
       "Speech_0007L": {
         "en": "You're not doing a very good job.",
@@ -1820,7 +1820,7 @@
         "de": "Das machst du aber nicht besonders gut.",
         "es": "No la estás cumpliendo muy bien.",
         "it": "Non stai facendo un bel lavoro.",
-        "th": ""
+        "th": "คุณทำได้ไม่ดีเท่าไร"
       },
       "Speech_0008L": {
         "en": "You're right... why don't you let me get back to work.",
@@ -1828,7 +1828,7 @@
         "de": "Sie haben Recht ... warum lassen Sie mich nicht zurück an meine Arbeit.",
         "es": "Cierto. ¿Por qué no me dejas volver al trabajo?",
         "it": "Hai ragione... perché non mi lasci ricominciare?",
-        "th": ""
+        "th": "คุณพูดถูก... ทำไมไม่ปล่อยให้ผมกลับไปทำงานล่ะ"
       },
       "Speech_0009L": {
         "en": "I don't know anything else.",
@@ -1836,7 +1836,7 @@
         "de": "Mehr weiß ich nicht.",
         "es": "No sé nada más.",
         "it": "Non so altro.",
-        "th": ""
+        "th": "ผมไม่รู้อะไรอีกแล้ว"
       },
       "Speech_0010L": {
         "en": "Ask the other guys... I'm just a private.",
@@ -1844,7 +1844,7 @@
         "de": "Fragen Sie die anderen ... ich bin bloß ein einfacher Soldat.",
         "es": "Pregunta a los otros. Sólo soy un soldado.",
         "it": "Chiedi agli altri... sono solo un soldato.",
-        "th": ""
+        "th": "ไปถามคนอื่นสิ... ผมเป็นแค่พลทหาร"
       }
     },
     "P_09_SeoulTwo_Laser": {
@@ -1855,7 +1855,7 @@
         "de": "Visieren Sie die EA-6B per Laser vom Gerüst am Ende der StraSSe aus an.",
         "es": "Haz una señal láser al EA-6B desde lo alto del cartel, al final de la calle.",
         "it": "Indica con il laser l'EA-6B dall'impalcatura in fondo alla strada.",
-        "th": ""
+        "th": "กำหนดเป้าหมาย EA-6B ด้วยเลเซอร์จากบนนั่งร้านที่ปลายถนน"
       },
       "Speech_0011L": {
         "en": "LAMBERT - What's the situation, Sam?",
@@ -1863,7 +1863,7 @@
         "de": "Lage, Sam?",
         "es": "¿Cuál es la situación, Sam?",
         "it": "Qual'è la situazione, Sam?",
-        "th": ""
+        "th": "แลมเบิร์ต - สถานการณ์เป็นยังไง แซม?"
       },
       "Speech_0012L": {
         "en": "FISHER - The plane is smashed... I don't think I can recover the data. But two of the crew are alive... looks like they crawled out of the wreckage.",
@@ -1871,7 +1871,7 @@
         "de": "Das Flugzeug ist vollkommen zerstört ... ich glaube nicht, dass ich die Daten sicherstellen kann. Zwei Mitglieder der Crew leben ... sie konnten offenbar aus dem Wrack herauskriechen.",
         "es": "El avión está destrozado. Es imposible recuperar los datos. Pero hay dos tripulantes vivos. Han debido arrastrarse fuera de los restos.",
         "it": "L'aereo è distrutto... non credo di poter recuperare qualcosa. Ma due dell'equipaggio sono vivi... sembra che siano strisciati fuori dai rottami.",
-        "th": ""
+        "th": "ฟิชเชอร์ - เครื่องบินพังยับ... ฉันว่าไม่สามารถกู้ข้อมูลได้ แต่ลูกเรือสองคนยังมีชีวิต... ดูเหมือนพวกเขาคลานออกมาจากซาก"
       },
       "Speech_0013L": {
         "en": "LAMBERT - If you can't recover the data, we need to make sure no one can. Fall back to a safe distance to designate the target. I'll get on the horn with Flight Ops on the Reagan.",
@@ -1879,7 +1879,7 @@
         "de": "Wenn du die Daten nicht sichern kannst, müssen wir sicherstellen, dass das niemand kann. Begib dich in eine sichere Distanz zum Wrack und markier das Ziel. Ich werde mich mit der Einsatzplanung auf der Reagan in Verbindung setzen.",
         "es": "Si no recuperas los datos, que nadie más lo haga. Ve a una distancia segura para marcar el blanco. Yo hablaré con los de Operaciones de Vuelo del Reagan.",
         "it": "Se non puoi recuperare i dati, allora meglio assicurarsi che nessuno possa farlo. Torna a distanza di sicurezza e designa il bersaglio. Io avvertirò il controllo di volo della Reagan.",
-        "th": ""
+        "th": "แลมเบิร์ต - ถ้าคุณกู้ข้อมูลไม่ได้ เราต้องทำให้แน่ใจว่าไม่มีใครกู้ได้ ถอยกลับไประยะปลอดภัยเพื่อกำหนดเป้าหมาย ฉันจะติดต่อฝ่ายปฏิบัติการบินบนเรือเรแกน"
       },
       "Speech_0024L": {
         "en": "LAMBERT - The plane is too badly damaged to recover the data. You need to fall back and designate the target for an air-strike. Use the structure down the street for your platform.",
@@ -1887,7 +1887,7 @@
         "de": "Das Flugzeug ist zu stark beschädigt, um die Daten retten zu können. Du musst dich zurückziehen und das Ziel für einen Luftangriff markieren. Nutze das Gebäude am Ende der Straße, um dir einen besseren Ausgangspunkt zu verschaffen.",
         "es": "El avión está demasiado dañado para recuperar los datos. Tienes que alejarte y marcar el blanco para un ataque aéreo. Usa como plataforma el edificio que hay calle abajo.",
         "it": "L'aereo ha subito troppi danni per recuperare i dati. Devi tornare indietro e designare il bersaglio per un attacco aereo. Usa la struttura in fondo alla strada come piattaforma.",
-        "th": ""
+        "th": "แลมเบิร์ต - เครื่องบินเสียหายหนักเกินกว่าจะกู้ข้อมูลได้ คุณต้องถอยกลับและกำหนดเป้าหมายสำหรับการโจมตีทางอากาศ ใช้สิ่งปลูกสร้างลงไปตามถนนเป็นแท่นของคุณ"
       },
       "Speech_0014L": {
         "en": "FISHER - Let me get the pilots to safety first.",
@@ -1895,7 +1895,7 @@
         "de": "Lass mich zuerst die Piloten in Sicherheit bringen.",
         "es": "Antes pondré a salvo a los pilotos.",
         "it": "Prima fammi portare al sicuro i piloti.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ให้ฉันพานักบินไปที่ปลอดภัยก่อน"
       },
       "Speech_0015L": {
         "en": "LAMBERT - We don't have a lot of time, Sam. An NKA recovery team is en route.",
@@ -1903,7 +1903,7 @@
         "de": "Wir haben nicht viel Zeit. Ein Bergungsteam der nordkoreanischen Armee ist auf dem Weg zum Wrack.",
         "es": "No hay mucho tiempo. Un equipo de rescate norcoreano va en camino.",
         "it": "Non abbiamo tempo, Sam. Sta arrivando una squadra di recupero nordcoreana.",
-        "th": ""
+        "th": "แลมเบิร์ต - เรามีเวลาไม่มาก แซม ทีมกู้ของ NKA กำลังมา"
       },
       "Speech_0016L": {
         "en": "FISHER - Are you ordering me to leave these guys here and call in an air-strike?",
@@ -1911,7 +1911,7 @@
         "de": "Befiehlst du mir etwa, diese Jungs zurückzulassen und einen Luftangriff anzufordern?",
         "es": "¿Me estás diciendo que los deje aquí y que solicite un ataque aéreo?",
         "it": "Mi stai ordinando di lasciare qui questi tizi e ordinare un bombardamento?",
-        "th": ""
+        "th": "ฟิชเชอร์ - คุณกำลังสั่งให้ฉันทิ้งคนพวกนี้ไว้ที่นี่และเรียกการโจมตีทางอากาศเหรอ?"
       },
       "Speech_0017L": {
         "en": "LAMBERT - I'm telling you what the objective is. I'm trusting you to complete it. You have your orders.",
@@ -1919,7 +1919,7 @@
         "de": "Ich sage dir nur, wie das Missionsziel aussieht. Ich vertraue darauf, dass du es erfüllst. Du hast deine Befehle.",
         "es": "Te estoy diciendo cuál es el objetivo. Confío en que lo completes. Ésas son tus órdenes.",
         "it": "Ti sto dicendo qual'è l'obiettivo. Confido che lo completerai. I tuoi ordini sono questi.",
-        "th": ""
+        "th": "แลมเบิร์ต - ฉันกำลังบอกคุณว่าวัตถุประสงค์คืออะไร ฉันเชื่อว่าคุณทำสำเร็จ คุณมีคำสั่งแล้ว"
       },
       "Speech_0018L": {
         "en": "LAMBERT - The plane is too badly damaged to recover the data. You need to fall back and designate the target for an air-strike. Use the structure down the street for your platform.",
@@ -1927,7 +1927,7 @@
         "de": "Das Flugzeug ist zu stark beschädigt, um die Daten retten zu können. Du musst dich zurückziehen und das Ziel für einen Luftangriff markieren. Nutze das Gebäude am Ende der Straße, um dir einen besseren Ausgangspunkt zu verschaffen.",
         "es": "El avión está demasiado dañado para recuperar los datos. Tienes que alejarte y marcar el blanco para un ataque aéreo. Usa como plataforma el edificio que hay calle abajo.",
         "it": "L'aereo ha subito troppi danni per recuperare i dati. Devi tornare indietro e designare il bersaglio per un attacco aereo. Usa la struttura in fondo alla strada come piattaforma.",
-        "th": ""
+        "th": "แลมเบิร์ต - เครื่องบินเสียหายหนักเกินกว่าจะกู้ข้อมูลได้ คุณต้องถอยกลับและกำหนดเป้าหมายสำหรับการโจมตีทางอากาศ ใช้สิ่งปลูกสร้างลงไปตามถนนเป็นแท่นของคุณ"
       },
       "Note_0023L": {
         "en": "Laser designate the EA-6B from atop the scaffold at the end of the street.",
@@ -1935,7 +1935,7 @@
         "de": "Laser designate the EA-6B from atop the scaffold at the end of the street.",
         "es": "Laser designate the EA-6B from atop the scaffold at the end of the street.",
         "it": "Laser designate the EA-6B from atop the scaffold at the end of the street.",
-        "th": ""
+        "th": "กำหนดเป้าหมาย EA-6B ด้วยเลเซอร์จากบนนั่งร้านที่ปลายถนน"
       },
       "Speech_0019L": {
         "en": "LAMBERT -  What's the situation, Sam?",
@@ -1943,7 +1943,7 @@
         "de": "Wie sieht es aus, Sam?",
         "es": "¿Cuál es la situación, Sam?",
         "it": "Qual'è la situazione, Sam?",
-        "th": ""
+        "th": "แลมเบิร์ต -  สถานการณ์เป็นยังไง แซม?"
       },
       "Speech_0020L": {
         "en": "FISHER - The plane is smashed... I don't think I can recover the data.",
@@ -1951,7 +1951,7 @@
         "de": "Das Flugzeug ist vollkommen zerstört ... Ich glaube nicht, dass ich die Daten sichern kann.",
         "es": "El avión está destrozado. Es imposible recuperar los datos.",
         "it": "L'aereo è distrutto... non credo di poter recuperare qualcosa. ",
-        "th": ""
+        "th": "ฟิชเชอร์ - เครื่องบินพังยับ... ฉันว่าไม่สามารถกู้ข้อมูลได้"
       },
       "Speech_0021L": {
         "en": "LAMBERT - If you can't recover it, we need to make sure no one can. Fall back to a safe distance to designate the target. I'll get on the horn with Flight Ops on the Reagan.",
@@ -1959,7 +1959,7 @@
         "de": "Wenn du die Daten nicht sichern kannst, müssen wir sicherstellen, dass das niemand kann. Begib dich in eine sichere Entfernung zum Wrack und markier das Ziel. Ich werde mich mit der Einsatzplanung auf der Reagan in Verbindung setzen.",
         "es": "Si no recuperas los datos, que nadie más lo haga. Ve a una distancia segura para marcar el blanco. Yo hablaré con los de Operaciones de Vuelo del Reagan.",
         "it": "Se non puoi recuperare i dati, allora meglio assicurarsi che nessuno possa farlo. Torna a distanza di sicurezza e designa il bersaglio. Io avvertirò il controllo di volo della Reagan.",
-        "th": ""
+        "th": "แลมเบิร์ต - ถ้าคุณกู้มันไม่ได้ เราต้องทำให้แน่ใจว่าไม่มีใครกู้ได้ ถอยกลับไประยะปลอดภัยเพื่อกำหนดเป้าหมาย ฉันจะติดต่อฝ่ายปฏิบัติการบินบนเรือเรแกน"
       },
       "Speech_0022L": {
         "en": "FISHER - On my way.",
@@ -1967,7 +1967,7 @@
         "de": "Schon unterwegs.",
         "es": "De acuerdo.",
         "it": "Subito.",
-        "th": ""
+        "th": "ฟิชเชอร์ - กำลังไป"
       },
       "Speech_0001L": {
         "en": "FISHER - God forgive me. ",
@@ -1975,7 +1975,7 @@
         "de": "Gott vergib mir. ",
         "es": "Dios me perdone. ",
         "it": "Dio, perdonami. ",
-        "th": ""
+        "th": "ฟิชเชอร์ - พระเจ้าจงยกโทษให้ฉัน "
       },
       "Speech_0002L": {
         "en": "LAMBERT - Alright, Fisher, you have an F-117 inbound...standby.",
@@ -1983,7 +1983,7 @@
         "de": "Achtung, Fisher, Nighthawk im Anflug ... warte auf weitere Anweisungen.",
         "es": "Fisher, un F-117 va de camino. Espérale ahí.",
         "it": "Bene, Fisher, c'è un F-117 in arrivo... attendi.",
-        "th": ""
+        "th": "แลมเบิร์ต - เอาล่ะ ฟิชเชอร์ คุณมี F-117 กำลังมา... เตรียมพร้อม"
       },
       "Speech_0003L": {
         "en": "FISHER - Roger. Target is painted.",
@@ -1991,7 +1991,7 @@
         "de": "Verstanden. Ziel ist markiert.",
         "es": "Recibido. Blanco marcado.",
         "it": "Ricevuto. Ho colorato il bersaglio.",
-        "th": ""
+        "th": "ฟิชเชอร์ - รับทราบ เป้าหมายถูกทำเครื่องหมายแล้ว"
       },
       "Speech_0004L": {
         "en": "US_PILOT - Hello there paperboy. This is postman. We have your glare. Stay on target.",
@@ -1999,7 +1999,7 @@
         "de": "Paperboy, hier spricht Postman. Ich sehe Ihr Signal. Markierung fortsetzen.",
         "es": "Hola, repartidor. Aquí el cartero. Tenemos la posición. Siga sobre el blanco.",
         "it": "Salve, fattorino. È il postino che parla. Abbiamo il tuo segnale. Stai sul bersaglio.",
-        "th": ""
+        "th": "นักบินสหรัฐฯ - สวัสดี คนส่งหนังสือนี่คือบุรุษไปรษณีย์ เรารับแสงสะท้อนของคุณแล้ว อยู่กับเป้าหมาย"
       },
       "Speech_0005L": {
         "en": "FISHER - Affirmative, postman.",
@@ -2007,7 +2007,7 @@
         "de": "Verstanden, Postman.",
         "es": "Afirmativo, cartero.",
         "it": "Affermativo, postino.",
-        "th": ""
+        "th": "ฟิชเชอร์ - ยืนยัน บุรุษไปรษณีย์"
       },
       "Speech_0006L": {
         "en": "US_PILOT - Uh... paperboy, where'd you go?",
@@ -2015,7 +2015,7 @@
         "de": "Äh ... Paperboy, was ist passiert?",
         "es": "Repartidor, ¿dónde se ha metido?",
         "it": "Ehm... fattorino, dove sei andato?",
-        "th": ""
+        "th": "นักบินสหรัฐฯ - เอ่อ... คนส่งหนังสือ คุณหายไปไหน?"
       },
       "Speech_0007L": {
         "en": "LAMBERT - What are you doing, Sam! Get that target painted.",
@@ -2023,7 +2023,7 @@
         "de": "Was tust du, Sam! Du musst das Ziel markieren.",
         "es": "¿Qué haces, Sam? Mantén el blanco marcado.",
         "it": "Cosa stai facendo, Sam! Colora quel bersaglio.",
-        "th": ""
+        "th": "แลมเบิร์ต - คุณทำอะไรอยู่ แซม! ทำเครื่องหมายเป้าหมายนั่นซะ"
       },
       "Speech_0008L": {
         "en": "FISHER - Just a second.",
@@ -2031,7 +2031,7 @@
         "de": "Eine Sekunde.",
         "es": "Un segundo.",
         "it": "Solo un istante.",
-        "th": ""
+        "th": "ฟิชเชอร์ - แป๊บเดียว"
       },
       "Speech_0009L": {
         "en": "FISHER - Okay. Target is painted.",
@@ -2039,7 +2039,7 @@
         "de": "Okay, Ziel ist markiert.",
         "es": "Bien. Blanco marcado.",
         "it": "Ok. Bersaglio colorato.",
-        "th": ""
+        "th": "ฟิชเชอร์ - โอเค เป้าหมายถูกทำเครื่องหมายแล้ว"
       }
     },
     "P_09_SeoulTwo_MasterController": {
@@ -2050,7 +2050,7 @@
         "de": "Töten Sie keine südkoreanischen Soldaten.",
         "es": "No mates a ningún soldado surcoreano.",
         "it": "Non uccidere soldati sud-coreani.",
-        "th": ""
+        "th": "อย่าฆ่าทหารเกาหลีใต้แม้แต่คนเดียว"
       },
       "Speech_0001L": {
         "en": "Meanwhile, as the first horrifying numbers for this tragic conflict begin to roll in, Americans are asking,'How did this happen?'. It's a question we'll ask of Secretary of Defense Frank Mason, tonight on WNM Flash when White House correspondent Montgomery Lewis sits down with the Secretary to talk about the war, the contracting scandal, and his alleged affair with Air Force Major Veronique Guilbault.",
@@ -2058,7 +2058,7 @@
         "de": "In der Zwischenzeit, da die ersten schrecklichen Zahlen dieses tragischen Konflikts eintreffen, stellt das amerikanische Volk die Frage: \"Wie konnte das passieren?\". Wir werden diese Frage heute Abend in einer WNM-Sondersendung Verteidigungsminister Frank Mason stellen, wenn Korrespondent Montgomery Lewis den Minister trifft, um mit ihm über den Krieg, den Ausschreibungsskandal und seine angebliche Affäre mit Air Force Major Veronique Guilbault zu sprechen.",
         "es": "Mientras llegan las escalofriantes cifras de este trágico conflicto, los ciudadanos se preguntan cómo ha podido suceder. Es la misma pregunta que esta noche, en el telediario de la WNM, le hará Montgomery Lewis al Secretario de Defensa Frank Mason, con quien hablará sobre la guerra, el escándalo de los contratos y sus presuntas relaciones con Verónica Guilbault, mayor del Ejército del Aire.",
         "it": "Nel frattempo, mentre i primi spaventosi numeri di questo tragico conflitto iniziano ad arrivare, gli americani si chiedono \"Come è potuto succedere?\". È una domanda che gireremo al Segretario alla Difesa Frank Mason, stasera su WNM Flash, quando Montgomery Lewis, corrispondente dalla Casa Bianca, discuterà con il segretario della guerra, dello scandalo degli appalti e della sua presunta relazione con il maggiore dell'aviazione Veronique Guilbault.",
-        "th": ""
+        "th": "ในขณะเดียวกัน ขณะที่ตัวเลขอันน่าสะพรึงช่วงแรกของความขัดแย้งอันน่าเศร้านี้เริ่มไหลเข้ามา ชาวอเมริกันกำลังถามว่า 'เรื่องนี้เกิดขึ้นได้อย่างไร' เป็นคำถามที่เราจะถามรัฐมนตรีกลาโหมแฟรงก์ เมสัน คืนนี้ใน WNM แฟลช เมื่อผู้สื่อข่าวทำเนียบขาว มอนต์โกเมอรี ลูอิส นั่งคุยกับรัฐมนตรีเรื่องสงคราม เรื่องอื้อฉาวด้านการจัดซื้อจัดจ้าง และเรื่องความสัมพันธ์ที่ถูกกล่าวหากับนาวาอากาศเอกหญิงเวโรนิก กิลโบลต์"
       },
       "Speech_0002L": {
         "en": "In sports news, New York pitcher Akira Watanabe formally requested exemption from his contract with his new team. The world's highest paid baseball player has announced his intention to return to his country to join the Japanese Self Defense Force to 'quote' help defend his people, his land, and his culture from the Korean aggressors.",
@@ -2066,7 +2066,7 @@
         "de": "Zum Sport: Der New Yorker Pitcher Akira Watanabe hat formell um die Aufhebung seines Vertrages mit seinem neuen Team gebeten. Der höchstbezahlte Baseball-Spieler der Welt hat die Absicht bekundet, in sein Heimatland zurückzukehren um der japanischen Armee beizutreten, um - Zitat - \"bei der Verteidigung seines Volkes, seines Landes und seiner Kultur vor den koreanischen Aggressoren zu helfen\".",
         "es": "Deportes. El lanzador Akira Watanabe ha solicitado la rescisión del contrato con su nuevo equipo. El jugador de béisbol mejor pagado del mundo ha anunciado su intención de volver a su país y alistarse en las Fuerzas de Autodefensa de Japón para, cito textualmente, 'defender a mi pueblo, mi tierra y mi cultura de los agresores coreanos'.",
         "it": "Passando allo sport, il lanciatore Akira Watanabe ha richiesto formalmente la risoluzione del contratto con la sua nuova squadra. Il giocatore di baseball più pagato al mondo ha annunciato la sua intenzione di tornare nel proprio paese per entrare nella Forza di Autodifesa Giapponese e, cito, \"contribuire a difendere il suo popolo, la sua terra e la sua cultura dagli aggressori coreani.\"",
-        "th": ""
+        "th": "มาที่ข่าวกีฬา พิชเชอร์นิวยอร์กอากิระ วาตานาเบะยื่นคำขอยกเว้นจากสัญญากับทีมใหม่อย่างเป็นทางการ นักเบสบอลค่าตัวสูงที่สุดในโลกประกาศเจตนาจะกลับประเทศเพื่อเข้าร่วมกองกำลังป้องกันตนเองญี่ปุ่น เพื่อ 'เปิดคำพูด' ช่วยปกป้องประชาชน แผ่นดิน และวัฒนธรรมของเขาจากผู้รุกรานเกาหลี"
       },
       "Speech_0003L": {
         "en": "The Chinese rocket is away!",
@@ -2074,7 +2074,7 @@
         "de": "Die chinesische Rakete ist unterwegs!",
         "es": "¡El cohete chino ha despegado!",
         "it": "Il razzo cinese è partito!",
-        "th": ""
+        "th": "จรวดจีนถูกปล่อยแล้ว!"
       },
       "Speech_0004L": {
         "en": "What rocket?",
@@ -2082,7 +2082,7 @@
         "de": "Welche Rakete?",
         "es": "¿Qué cohete?",
         "it": "Quale razzo?",
-        "th": ""
+        "th": "จรวดอะไร?"
       },
       "Speech_0005L": {
         "en": "The one being sent to rescue the stranded astronauts.",
@@ -2090,7 +2090,7 @@
         "de": "Die, die zur Rettung der gestrandeten Astronauten gestartet wurde.",
         "es": "El que iban a mandar para rescatar a los astronautas.",
         "it": "Quello mandato a recuperare gli astronauti bloccati.",
-        "th": ""
+        "th": "ลำที่ส่งไปช่วยนักบินอวกาศที่ติดอยู่ไง"
       },
       "Speech_0006L": {
         "en": "What stranded astronauts?",
@@ -2098,7 +2098,7 @@
         "de": "Welche gestrandeten Astronauten?",
         "es": "¿Qué astronautas?",
         "it": "Quali astronauti?",
-        "th": ""
+        "th": "นักบินอวกาศที่ติดอยู่คนไหน?"
       },
       "Speech_0007L": {
         "en": "The ones on the ISS...",
@@ -2106,7 +2106,7 @@
         "de": "Die in der ISS ...",
         "es": "Los de la Estación Espacial...",
         "it": "Quelli della stazione spaziale internazionale...",
-        "th": ""
+        "th": "พวกที่อยู่บนสถานีอวกาศนานาชาติ..."
       },
       "Speech_0008L": {
         "en": "I haven't heard about that... what happened?",
@@ -2114,7 +2114,7 @@
         "de": "Hab ich nichts von gehört ... was ist passiert?",
         "es": "No me he enterado de nada. ¿Qué ha pasado?",
         "it": "Non ne avevo sentito parlare... cos'è accaduto?",
-        "th": ""
+        "th": "ฉันไม่ได้ยินเรื่องนั้น... เกิดอะไรขึ้น?"
       },
       "Speech_0009L": {
         "en": "What do you mean you haven't heard? It's the biggest news story of the decade...",
@@ -2122,7 +2122,7 @@
         "de": "Wie meinst du das, du hast da nichts von gehört? Das ist die Story des Jahrzehnts  - läuft ständig in allen Nachrichten ...",
         "es": "¿Cómo que no te has enterado? Es la noticia más importante del siglo.",
         "it": "Come sarebbe non l'avevi sentito? È la notizia dell'anno...",
-        "th": ""
+        "th": "หมายความว่าไงที่ไม่ได้ยิน? มันเป็นข่าวใหญ่ที่สุดของทศวรรษ..."
       },
       "Speech_0010L": {
         "en": "Have you not noticed that we are in the middle of a war?",
@@ -2130,7 +2130,7 @@
         "de": "Ist dir noch nicht aufgefallen, dass wir uns mitten in einem Krieg befinden?",
         "es": "¿Te das cuenta de que estamos en mitad de una guerra?",
         "it": "Forse ti sfugge che siamo in mezzo a una guerra.",
-        "th": ""
+        "th": "คุณไม่สังเกตเหรอว่าเรากำลังอยู่กลางสงคราม?"
       },
       "Speech_0011L": {
         "en": "Wars happen all the time... this is important.",
@@ -2138,7 +2138,7 @@
         "de": "Kriege finden andauernd statt ... aber das ist wichtig.",
         "es": "Siempre hay guerras. Esto es más importante.",
         "it": "Di guerre ce ne sono in continuazione... questo è importante.",
-        "th": ""
+        "th": "สงครามเกิดขึ้นตลอดเวลา... เรื่องนี้สำคัญ"
       },
       "Speech_0013L": {
         "en": "Wow... your combat boots are really shiny.",
@@ -2146,7 +2146,7 @@
         "de": "Wow ... deine Kampfstiefel glänzen ja richtig.",
         "es": "Guau, qué botas más relucientes.",
         "it": "Wow... i tuoi stivali brillano.",
-        "th": ""
+        "th": "ว้าว... รองเท้าศึกของคุณเงางามจริงๆ"
       },
       "Speech_0014L": {
         "en": "They're new.",
@@ -2154,7 +2154,7 @@
         "de": "Sie sind neu.",
         "es": "Son nuevas.",
         "it": "Sono nuovi.",
-        "th": ""
+        "th": "มันใหม่"
       },
       "Speech_0015L": {
         "en": "What? How did you get new combat boots?",
@@ -2162,7 +2162,7 @@
         "de": "Was? Wie bist du an neue Kampfstiefel gekommen?",
         "es": "¿Cómo has conseguido botas nuevas?",
         "it": "Cosa? Dove hai trovato degli stivali nuovi?",
-        "th": ""
+        "th": "อะไรนะ? คุณได้รองเท้าศึกใหม่มาได้ยังไง?"
       },
       "Speech_0016L": {
         "en": "I took them off a dead American.",
@@ -2170,7 +2170,7 @@
         "de": "Ich habe sie einem toten Amerikaner ausgezogen.",
         "es": "Se las quité a un yanqui muerto.",
         "it": "Li ho tolti a un americano morto.",
-        "th": ""
+        "th": "ฉันถอดมันจากศพทหารอเมริกัน"
       },
       "Speech_0017L": {
         "en": "What?! That's horrible.",
@@ -2178,7 +2178,7 @@
         "de": "Was?! Das ist ja furchtbar.",
         "es": "¡Pero eso es horrible!",
         "it": "Cosa?! Ma è orribile.",
-        "th": ""
+        "th": "อะไรนะ?! นั่นมันแย่มาก"
       },
       "Speech_0018L": {
         "en": "Mine were worn out... and the army wasn't due to issue me a new pair until next year.",
@@ -2186,7 +2186,7 @@
         "de": "Meine waren schon ganz abgenutzt ... und die Armee hätte mir erst nächstes Jahr ein neues Paar zugeteilt.",
         "es": "Las mías estaban hechas polvo, y no me darán unas nuevas hasta el año que viene.",
         "it": "I miei erano consumati... e l'esercito me li sostituirà solo all'anno prossimo.",
-        "th": ""
+        "th": "ของฉันสึกหมด... และกองทัพก็ยังไม่ถึงกำหนดออกรองเท้าคู่ใหม่ให้ฉันจนถึงปีหน้า"
       },
       "Speech_0019L": {
         "en": "But... you took a dead mans boots... that must be bad luck or something...",
@@ -2194,7 +2194,7 @@
         "de": "Aber ... du hast die Stiefel eines toten Mannes genommen ...das muss doch Unglück bringen oder so was ...",
         "es": "Pero le has quitado las botas a un cadáver. Eso debe dar mala suerte.",
         "it": "Ma... hai preso gli stivali di un morto... credo che porti sfortuna, o qualcosa del genere.",
-        "th": ""
+        "th": "แต่... คุณถอดรองเท้าจากศพคนตาย... นั่นต้องเป็นลางร้ายอะไรสักอย่างแน่..."
       },
       "Speech_0020L": {
         "en": "Bad luck for him, I guess.",
@@ -2202,7 +2202,7 @@
         "de": "Unglück für ihn, würde ich sagen.",
         "es": "Supongo que a él sí.",
         "it": "Sfortuna per lui, direi.",
-        "th": ""
+        "th": "ลางร้ายของเขามากกว่า ฉันว่า"
       },
       "Speech_0026L": {
         "en": "Come and get me you bastards!",
@@ -2210,7 +2210,7 @@
         "de": "Kommt und holt mich, ihr Bastarde!",
         "es": "¡Venid a por mí, bastardos!",
         "it": "Venite a prendermi, bastardi!",
-        "th": ""
+        "th": "มาสิ พวกสารเลว!"
       },
       "Speech_0027L": {
         "en": "You'll never take me alive!",
@@ -2218,7 +2218,7 @@
         "de": "Ihr werdet mich niemals lebend bekommen!",
         "es": "¡No me cogeréis vivo!",
         "it": "Non mi avrete mai vivo!",
-        "th": ""
+        "th": "พวกแกจะไม่ได้ฉันไปแบบเป็นๆ!"
       }
     },
     "P_09_SeoulTwo_Mrkt1_com": {
@@ -2229,7 +2229,7 @@
         "de": "Verdammt!",
         "es": "¡Mierda!",
         "it": "Merda!",
-        "th": ""
+        "th": "แย่แล้ว!"
       },
       "Speech_0002L": {
         "en": "Fighting vehicle! Fall back!",
@@ -2237,7 +2237,7 @@
         "de": "Schützenpanzer! Rückzug!",
         "es": "¡Vehículo de combate! ¡Atrás!",
         "it": "Un corazzato! Tornare indietro!",
-        "th": ""
+        "th": "รถรบ! ถอยกลับ!"
       },
       "Speech_0003L": {
         "en": "Take cover!",
@@ -2245,7 +2245,7 @@
         "de": "In Deckung!",
         "es": "¡A cubierto!",
         "it": "In copertura!",
-        "th": ""
+        "th": "หาที่กำบัง!"
       },
       "Speech_0004L": {
         "en": "Oh god! Wen!",
@@ -2253,7 +2253,7 @@
         "de": "Oh, Gott! Wen!",
         "es": "¡Oh, no! ¡Wen!",
         "it": "Oddio! Wen!",
-        "th": ""
+        "th": "โอ้ พระเจ้า! เวน!"
       },
       "Speech_0005L": {
         "en": "Take cover, dammit!",
@@ -2261,7 +2261,7 @@
         "de": "In Deckung, verdammt!",
         "es": "¡A cubierto, a cubierto!",
         "it": "Al riparo, dannazione!",
-        "th": ""
+        "th": "หาที่กำบัง สิวะ!"
       },
       "Speech_0006L": {
         "en": "Dammit!",
@@ -2269,7 +2269,7 @@
         "de": "Oh, Scheiße!",
         "es": "¡Maldita sea!",
         "it": "Dannazione!",
-        "th": ""
+        "th": "ให้ตายสิ!"
       },
       "Speech_0007L": {
         "en": "Come on you commie bastards! Take that!",
@@ -2277,7 +2277,7 @@
         "de": "Kommt, ihr Kommunistenschweine! Nehmt das!",
         "es": "¡Tomad eso, bastardos comunistas!",
         "it": "Avanti, bastardi comunisti! Prendete questo!",
-        "th": ""
+        "th": "มาสิ พวกคอมมิวนิสต์สารเลว! รับนี่ไป!"
       },
       "Speech_0008L": {
         "en": "Get down!",
@@ -2285,7 +2285,7 @@
         "de": "Runter!",
         "es": "¡Abajo!",
         "it": "Giù!",
-        "th": ""
+        "th": "หมอบลง!"
       },
       "Speech_0009L": {
         "en": "In the alley!",
@@ -2293,7 +2293,7 @@
         "de": "In der Gasse!",
         "es": "¡En el callejón!",
         "it": "Nel vicolo!",
-        "th": ""
+        "th": "ในตรอก!"
       },
       "Speech_0010L": {
         "en": "Attack!",
@@ -2301,7 +2301,7 @@
         "de": "Angriff!",
         "es": "¡Al ataque!",
         "it": "Attaccare!",
-        "th": ""
+        "th": "โจมตี!"
       }
     },
     "P_09_SeoulTwo_Mrkt2_com": {
@@ -2312,7 +2312,7 @@
         "de": "Kinder der Demokratischen Partei! Seht nur, wie eure amerikanischen Beschützer die Flucht ergreifen! Sie fliehen wie Mastgänse, die man zur Schlachtbank bringen will! Lasst euch von ihren betrügerischen Ideen nicht blenden! Heißt uns als eure wahren Befreier willkommen!",
         "es": "¡Camarada coreano! ¡Observa cómo los opresores americanos huyen como cerdos cebados para la matanza! ¡Rechaza sus engaños y sus mentiras! ¡Recibe a tus auténticos libertadores!",
         "it": "Fratelli del Partito Democratico Coreano! Guardate i vostri alleati americani fuggire come anatre grasse dirette al macello! Rifiutate la loro codardia! Unitevi a noi, i vostri liberatori!",
-        "th": ""
+        "th": "พี่น้องเกาหลีแห่งพรรคประชาธิปไตย! จงดูผู้คุ้มครองอเมริกันของเจ้าหนีไปดั่งเป็ดอ้วนเนยที่นึ่งรอการฆ่า! จงปฏิเสธพวกหลบหนีหลอกลวงของพวกมัน! จงโอบรับเรา ผู้ปลดปล่อย ความจริงของเจ้า!"
       },
       "Speech_0017L": {
         "en": "Man... who writes this crap?",
@@ -2320,7 +2320,7 @@
         "de": "Mann ... wer schreibt diesen Dreck?",
         "es": "¿Quién escribe esta bazofia?",
         "it": "Ehi, ma chi scrive queste schifezze?",
-        "th": ""
+        "th": "เพื่อน... ใครเขียนเรื่องไร้สาระนี่?"
       },
       "Speech_0011L": {
         "en": "Our Democratic Party Army is your sibling Korean Army! The oppressor is your lazy American demon. Us and freedom, combine the life which is peaceful and eternal, united together forever!",
@@ -2328,7 +2328,7 @@
         "de": "In unserer Volksarmee dienen eure Brüder, koreanische Freunde! Der Unterdrücker trägt die Fratze der USA! Freiheit und ewiger Friede werden uns gemeinsam für immer zuteil werden!",
         "es": "¡El Ejército Popular es tu hermano, camarada coreano! Los decadentes americanos son vuestros opresores. ¡Uníos a nosotros, vuestros hermanos, en paz y libertad eternas!",
         "it": "Esercito Coreano, l'Esercito del Partito Democratico è vostro fratello! L'oppressore è il pigro demone americano. Noi siamo la libertà, la pace, uniti per sempre!",
-        "th": ""
+        "th": "กองทัพพรรคประชาธิปไตยของเราคือกองทัพเกาหลีพี่น้องของเจ้า! ผู้กดขี่คือปีศาจอเมริกันขี้เกียจของเจ้า เราและเสรีภาพ รวมชีวิตซึ่งสงบสุขและนิรันดร์ เข้าด้วยกันเป็นหนึ่งตลอดไป!"
       },
       "Speech_0012L": {
         "en": "Ugh... awful...",
@@ -2336,7 +2336,7 @@
         "de": "Ugh ... furchtbar ...",
         "es": "Buf, qué asco...",
         "it": "Ugh... terribile.",
-        "th": ""
+        "th": "อื๊บ... แย่จริง..."
       },
       "Speech_0014L": {
         "en": "Korean Sibling! Our combined enemy is the lard-mongering American person. By the effort which combines us, we shall them repulse from our homeland! Give them gifts of humiliating defeat and death most miserable!",
@@ -2344,7 +2344,7 @@
         "de": "Kinder Koreas! Unser gemeinsamer Feind sind die Amerikaner, mit ihren feigen Lügen. Gemeinsam werden wir sie aus unserer angestammten Heimat vertreiben! Fügt ihnen eine schmachvolle Niederlage zu, die sie nie vergessen werden!",
         "es": "¡Camarada coreano! ¡Nuestros enemigos son los cerdos imperialistas de Norteamérica! ¡Uniendo nuestras fuerzas los expulsaremos de nuestra patria! ¡Tan sólo debéis concederles la derrota y una muerte humillante!",
         "it": "Fratelli coreani! Il nostro nemico è il grasso americano. Uniti, li cacceremo dalla nostra madre terra! Infliggiamo loro la sconfitta più umiliante e la più miserabile delle morti!",
-        "th": ""
+        "th": "พี่น้องเกาหลี! ศัตรูร่วมของเราคือคนอเมริกันผู้ค้าไขมัน ด้วยความพยายามซึ่งรวมเราเข้าด้วยกัน เราจักขับไล่พวกมันจากบ้านเกิดของเรา! จงมอบของขวัญแห่งความพ่ายแพ้อันน่าอัปยศและความตายอันน่าสังเวชที่สุดแก่พวกมัน!"
       },
       "Speech_0018L": {
         "en": "A computer can translate better than this.",
@@ -2352,7 +2352,7 @@
         "de": "Da liest sich ja eine Computerübersetzung noch besser.",
         "es": "Mi loro se expresaría mejor.",
         "it": "Facevano meglio a usare un traduttore automatico.",
-        "th": ""
+        "th": "คอมพิวเตอร์ยังแปลได้ดีกว่านี้อีก"
       },
       "Speech_0015L": {
         "en": "American persons is the drunkard of the media deceits! Search your Northern part sibling and be opened and combine. The shackles of the pressure make we burn the West together in ten possibilities of the lock!",
@@ -2360,7 +2360,7 @@
         "de": "Die Amerikaner sind Sklaven ihrer falschen Medien! Verbündet euch mit euren nordkoreanischen Brüdern, ihr Kinder Koreas! Zusammen werden wir es schaffen, den Westen auf allen Fronten zu besiegen!",
         "es": "¡Los decadentes americanos os engañan con sus medios de manipulación de masas! ¡Uníos a nosotros, y con nuestras fuerzas combinadas expulsaremos a los diablos occidentales de nuestra patria!",
         "it": "L'americano ci ubriaca di inganni mediatici! Cercate i fratelli della parte settentrionale e siate aperti e pronti a unirvi. Bruceremo le catene dell'oppressione e assieme chiuderemo in gabbia l'Occidente!",
-        "th": ""
+        "th": "คนอเมริกันคือขี้เมาแห่งการหลอกลวงของสื่อ! จงค้นหาส่วนเหนือของเจ้าพี่น้อง แล้วจงเปิดออกและรวมเข้า ด้วยพันธนาการแห่งแรงกดดันทำให้เราจุดตะวันตกร่วมกันในสิบความเป็นไปได้ของกุญแจ!"
       },
       "Speech_0016L": {
         "en": "I thought being a DJ would be glamorous.",
@@ -2368,7 +2368,7 @@
         "de": "Und ich dachte immer, DJ wäre ein cooler Job.",
         "es": "Pensaba que ser disc-jockey era otra cosa.",
         "it": "Pensavo che fare il DJ fosse figo.",
-        "th": ""
+        "th": "ฉันนึกว่าการเป็นดีเจจะหรูหรา"
       }
     },
     "P_09_SeoulTwo_NDTinterog": {
@@ -2379,7 +2379,7 @@
         "de": "Du denkst doch nicht daran zu springen, oder?",
         "es": "No estarás pensando en saltar...",
         "it": "Non vorrai saltare, spero...",
-        "th": ""
+        "th": "คุณคงไม่ได้คิดจะกระโดดใช่ไหม?"
       },
       "Speech_0006L": {
         "en": "Ah... No...",
@@ -2387,7 +2387,7 @@
         "de": "Ah ... nein ...",
         "es": "¡Ah...! No...",
         "it": "Ah... no...",
-        "th": ""
+        "th": "อา... ไม่ครับ..."
       },
       "Speech_0007L": {
         "en": "Then what are you doing up here?",
@@ -2395,7 +2395,7 @@
         "de": "Was machst du hier oben?",
         "es": "¿Entonces qué haces aquí arriba?",
         "it": "Allora, cosa ci fai qui?",
-        "th": ""
+        "th": "งั้นคุณมาทำอะไรข้างบนนี้?"
       },
       "Speech_0008L": {
         "en": "I need to check the P3R... see if it tracked that plane that just flew over...",
@@ -2403,7 +2403,7 @@
         "de": "Ich muss den TRE überprüfen ... nachsehen, ob er das Flugzeug erfasst hat, das gerade vorbeigeflogen ist ...",
         "es": "Comprobar el RRP y ver si ha detectado al avión que acaba de pasar.",
         "it": "Devo controllare gli RRPR... sapere se hanno tracciato l'aereo che è appena passato.",
-        "th": ""
+        "th": "ผมต้องตรวจ P3R... ดูว่ามันติดตามเครื่องบินที่เพิ่งบินผ่านไปไหม..."
       },
       "Speech_0009L": {
         "en": "P3R?",
@@ -2411,7 +2411,7 @@
         "de": "TRE?",
         "es": "¿RRP?",
         "it": "RRPR?",
-        "th": ""
+        "th": "P3R?"
       },
       "Speech_0010L": {
         "en": "Portable Radar Reconnaissance Receiver.",
@@ -2419,7 +2419,7 @@
         "de": "Tragbarer Radarempfänger",
         "es": "Radar de Reconocimiento Portátil.",
         "it": "Ricevitori Radar Portatili da Ricognizione.",
-        "th": ""
+        "th": "เครื่องรับเรดาร์ลาดตระเวนแบบพกพา"
       },
       "Speech_0011L": {
         "en": "Tell you what... you take a nap, I'll check it for you.",
@@ -2427,7 +2427,7 @@
         "de": "Weißt du was ... mach mal ein Nickerchen, ich erledige das für dich.",
         "es": "Yo lo compruebo por ti. Échate una siestecita.",
         "it": "Sai cosa ti dico... fatti un sonnellino, ci penso io.",
-        "th": ""
+        "th": "เอางี้... คุณไปงีบสิ ฉันจะตรวจมันให้เอง"
       },
       "Speech_0012L": {
         "en": "Anything you say... just don't hurt me...",
@@ -2435,7 +2435,7 @@
         "de": "Ich tue alles, was Sie sagen ... nur tun Sie mir nicht weh ...",
         "es": "Lo que tú digas, pero no me hagas daño.",
         "it": "Tutto quello che vuoi... ma non farmi del male...",
-        "th": ""
+        "th": "แล้วแต่คุณ... แค่อย่าทำร้ายผม..."
       },
       "Speech_0013L": {
         "en": "I'm afraid of heights...",
@@ -2443,7 +2443,7 @@
         "de": "Ich habe Höhenangst ...",
         "es": "Sufro de vértigo...",
         "it": "Ho paura delle altezze...",
-        "th": ""
+        "th": "ผมกลัวที่สูง..."
       }
     },
     "P_09_SeoulTwo_NKGuard": {
@@ -2454,7 +2454,7 @@
         "de": "Wow... your combat boots are really shiny.",
         "es": "Wow... your combat boots are really shiny.",
         "it": "Wow... your combat boots are really shiny.",
-        "th": ""
+        "th": "ว้าว... รองเท้าศึกของคุณเงางามจริงๆ"
       },
       "Speech_0006L": {
         "en": "They're new.",
@@ -2462,7 +2462,7 @@
         "de": "They're new.",
         "es": "They're new.",
         "it": "They're new.",
-        "th": ""
+        "th": "มันใหม่"
       },
       "Speech_0007L": {
         "en": "What? How did you get new combat boots?",
@@ -2470,7 +2470,7 @@
         "de": "What? How did you get new combat boots?",
         "es": "What? How did you get new combat boots?",
         "it": "What? How did you get new combat boots?",
-        "th": ""
+        "th": "อะไรนะ? คุณได้รองเท้าศึกใหม่มาได้ยังไง?"
       },
       "Speech_0008L": {
         "en": "I took them off a dead American.",
@@ -2478,7 +2478,7 @@
         "de": "I took them off a dead American.",
         "es": "I took them off a dead American.",
         "it": "I took them off a dead American.",
-        "th": ""
+        "th": "ฉันถอดมันจากศพทหารอเมริกัน"
       },
       "Speech_0009L": {
         "en": "What?! That's horrible.",
@@ -2486,7 +2486,7 @@
         "de": "What?! That's horrible.",
         "es": "What?! That's horrible.",
         "it": "What?! That's horrible.",
-        "th": ""
+        "th": "อะไรนะ?! นั่นมันแย่มาก"
       },
       "Speech_0010L": {
         "en": "Mine were worn out... and the army wasn't due to issue me a new pair until next year.",
@@ -2494,7 +2494,7 @@
         "de": "Mine were worn out... and the army wasn't due to issue me a new pair until next year.",
         "es": "Mine were worn out... and the army wasn't due to issue me a new pair until next year.",
         "it": "Mine were worn out... and the army wasn't due to issue me a new pair until next year.",
-        "th": ""
+        "th": "ของฉันสึกหมด... และกองทัพก็ยังไม่ถึงกำหนดออกรองเท้าคู่ใหม่ให้ฉันจนถึงปีหน้า"
       },
       "Speech_0011L": {
         "en": "But... you took a dead mans boots... that must be bad luck or something...",
@@ -2502,7 +2502,7 @@
         "de": "But... you took a dead mans boots... that must be bad luck or something...",
         "es": "But... you took a dead mans boots... that must be bad luck or something...",
         "it": "But... you took a dead mans boots... that must be bad luck or something...",
-        "th": ""
+        "th": "แต่... คุณถอดรองเท้าจากศพคนตาย... นั่นต้องเป็นลางร้ายอะไรสักอย่างแน่..."
       },
       "Speech_0012L": {
         "en": "Bad luck for him, I guess.",
@@ -2510,7 +2510,7 @@
         "de": "Bad luck for him, I guess.",
         "es": "Bad luck for him, I guess.",
         "it": "Bad luck for him, I guess.",
-        "th": ""
+        "th": "ลางร้ายของเขามากกว่า ฉันว่า"
       }
     },
     "P_09_SeoulTwo_NKGuard_StateCheck": {
@@ -2521,7 +2521,7 @@
         "de": "The Chinese rocket is away!",
         "es": "The Chinese rocket is away!",
         "it": "The Chinese rocket is away!",
-        "th": ""
+        "th": "จรวดจีนถูกปล่อยแล้ว!"
       },
       "Speech_0002L": {
         "en": "What rocket?",
@@ -2529,7 +2529,7 @@
         "de": "What rocket?",
         "es": "What rocket?",
         "it": "What rocket?",
-        "th": ""
+        "th": "จรวดอะไร?"
       },
       "Speech_0003L": {
         "en": "The one being sent to rescue the stranded astronauts.",
@@ -2537,7 +2537,7 @@
         "de": "The one being sent to rescue the stranded astronauts.",
         "es": "The one being sent to rescue the stranded astronauts.",
         "it": "The one being sent to rescue the stranded astronauts.",
-        "th": ""
+        "th": "ลำที่ส่งไปช่วยนักบินอวกาศที่ติดอยู่ไง"
       },
       "Speech_0004L": {
         "en": "What stranded astronauts?",
@@ -2545,7 +2545,7 @@
         "de": "What stranded astronauts?",
         "es": "What stranded astronauts?",
         "it": "What stranded astronauts?",
-        "th": ""
+        "th": "นักบินอวกาศที่ติดอยู่คนไหน?"
       },
       "Speech_0005L": {
         "en": "The ones on the ISS...",
@@ -2553,7 +2553,7 @@
         "de": "The ones on the ISS...",
         "es": "The ones on the ISS...",
         "it": "The ones on the ISS...",
-        "th": ""
+        "th": "พวกที่อยู่บนสถานีอวกาศนานาชาติ..."
       },
       "Speech_0006L": {
         "en": "I haven't heard about that... what happened?",
@@ -2561,7 +2561,7 @@
         "de": "I haven't heard about that... what happened?",
         "es": "I haven't heard about that... what happened?",
         "it": "I haven't heard about that... what happened?",
-        "th": ""
+        "th": "ฉันไม่ได้ยินเรื่องนั้น... เกิดอะไรขึ้น?"
       },
       "Speech_0007L": {
         "en": "What do you mean you haven't heard? It's the biggest news story of the decade...",
@@ -2569,7 +2569,7 @@
         "de": "What do you mean you haven't heard? It's the biggest news story of the decade...",
         "es": "What do you mean you haven't heard? It's the biggest news story of the decade...",
         "it": "What do you mean you haven't heard? It's the biggest news story of the decade...",
-        "th": ""
+        "th": "หมายความว่าไงที่ไม่ได้ยิน? มันเป็นข่าวใหญ่ที่สุดของทศวรรษ..."
       },
       "Speech_0008L": {
         "en": "Have you not noticed that we are in the middle of a war?",
@@ -2577,7 +2577,7 @@
         "de": "Have you not noticed that we are in the middle of a war?",
         "es": "Have you not noticed that we are in the middle of a war?",
         "it": "Have you not noticed that we are in the middle of a war?",
-        "th": ""
+        "th": "คุณไม่สังเกตเหรอว่าเรากำลังอยู่กลางสงคราม?"
       },
       "Speech_0009L": {
         "en": "Wars happen all the time... this is important.",
@@ -2585,7 +2585,7 @@
         "de": "Wars happen all the time... this is important.",
         "es": "Wars happen all the time... this is important.",
         "it": "Wars happen all the time... this is important.",
-        "th": ""
+        "th": "สงครามเกิดขึ้นตลอดเวลา... เรื่องนี้สำคัญ"
       }
     },
     "P_09_SeoulTwo_Objectives": {
@@ -2596,7 +2596,7 @@
         "de": "Zapfen Sie eine mobile Kommando-zentrale an",
         "es": "Hackea un Centro de Mando Móvil (CMM)..",
         "it": "Utilizza un Centro di Comando Mobile",
-        "th": ""
+        "th": "เจาะระบบศูนย์บัญชาการเคลื่อนที่"
       },
       "Objective_0066": {
         "en": "Tap a Mobile Command Center",
@@ -2604,7 +2604,7 @@
         "de": "Zapfen Sie ein mobiles Kommandozentrum an.",
         "es": "Hackea un centro de mando móvil.",
         "it": "Inserisciti in un centro di comando mobile.",
-        "th": ""
+        "th": "เจาะระบบศูนย์บัญชาการเคลื่อนที่"
       },
       "Objective_0067": {
         "en": "Enter and tap a North Korean MCC to give Third Echelon access to the North Korean command networks.",
@@ -2612,7 +2612,7 @@
         "de": "Betreten und verwanzen Sie eine nordkoreanische mobile Kommandozentrale, damit Third Echelon Zugriff auf die nordkoreanischen Befehlsnetze erhält.",
         "es": "Pon un rastreador en un CMM norcoreano para que Third Echelon acceda a sus redes de comunicación.",
         "it": "Entra e inserisciti in un CCM nordcoreano per fornire a Third Echelon l'accesso alla rete di comando nordcoreana.",
-        "th": ""
+        "th": "เข้าไปเจาะศูนย์บัญชาการเคลื่อนที่ของเกาหลีเหนือ เพื่อให้เธิร์ดเอเชลอนเข้าถึงเครือข่ายบัญชาการของเกาหลีเหนือ"
       },
       "Objective_0068": {
         "en": "Locate and retrieve data drives from the NDT",
@@ -2620,7 +2620,7 @@
         "de": "Suchen und bergen Sie die Datenträger aus der Nationalen Datentransferstelle.",
         "es": "Localiza y recupera discos de datos del CND. ",
         "it": "Trova e recupera i drive dati dalla DDN.",
-        "th": ""
+        "th": "ค้นหาและเก็บกู้ไดรฟ์ข้อมูลจาก NDT"
       },
       "Objective_0069": {
         "en": "The National Data Trunk surfaces at a switching station in central Seoul. Recover the drives from the station to discover if the attack on the Walsh originated in South Korea.",
@@ -2628,7 +2628,7 @@
         "de": "Die Nationale Datentransferstelle befindet sich in einer Telekommunikations-vermittlung im Zentrum von Seoul. Bergen Sie die Datenträger aus der Vermittlung, damit geklärt werden kann, ob der Angriff auf die Walsh aus Südkorea erfolgt ist.",
         "es": "El Centro Nacional de Datos se encuentra en una estación de intercambio en el centro de Seúl. Recupera los discos de la estación para descubrir si el ataque del Walsh partió de Corea del Sur. ",
         "it": "La DDN riemerge come centralino nel centro di Seul. Recupera i drive dalla stazione per scoprire se l'attacco alla Walsh è iniziato nella Corea del Sud.",
-        "th": ""
+        "th": "โครงข่ายข้อมูลแห่งชาติโผล่ขึ้นที่สถานีสวิตช์ในใจกลางโซล เก็บกู้ไดรฟ์จากสถานีเพื่อค้นหาว่าการโจมตีเรือวอลช์เริ่มต้นในเกาหลีใต้หรือไม่"
       },
       "Objective_0070": {
         "en": "Interrogate a Special Forces agent to determine the location of Jong",
@@ -2636,7 +2636,7 @@
         "de": "Verhören Sie ein Mitglied der Spezialeinheiten, um herauszufinden, wo Jong sich aufhält.",
         "es": "Interroga a un agente de las fuerzas norcoreanas para averiguar dónde está Jong.",
         "it": "Interroga un agente delle forze speciali per scoprire la posizione di Jong.",
-        "th": ""
+        "th": "สอบปากคำทหารหน่วยรบพิเศษเพื่อหาที่อยู่ของจง"
       },
       "Objective_0071": {
         "en": "Third Echelon operatives operating elsewhere in Seoul need you to interrogate nearby Special Forces. The mission will be aborted if they die before interrogation.",
@@ -2644,7 +2644,7 @@
         "de": "Andere Agenten von Third Echelon, die sich in Seoul aufhalten, bitten Sie, in der Nähe stationierte Spezialeinheiten zu verhören. Die Mission wird abgebrochen, wenn sie vor dem Verhör sterben.",
         "es": "Hay unos agentes de Third Echelon operando en Seúl. Necesitan que interrogues a alguien de las fuerzas especiales. La misión será abortada si esta persona muere antes de finalizar el interrogatorio.",
         "it": "Gli agenti di Third Echelon che operano in altri punti di Seul hanno bisogno che tu interroghi le vicine Forze Speciali. La missione verrà interrotta se muoiono prima dell'interrogatorio.",
-        "th": ""
+        "th": "เจ้าหน้าที่เธิร์ดเอเชลอนที่ปฏิบัติการอยู่ที่อื่นในโซลต้องการให้คุณสอบปากคำหน่วยรบพิเศษที่อยู่ใกล้เคียง ภารกิจจะถูกยกเลิกถ้าพวกเขาตายก่อนถูกสอบปากคำ"
       },
       "Objective_0072": {
         "en": "Get to the rooftop to transfer the data to the EA-6B",
@@ -2652,7 +2652,7 @@
         "de": "Begeben Sie sich aufs Dach und übertragen Sie die Daten an die EA-6B.",
         "es": "Ve a la azotea para transmitir los datos al EA-6B.",
         "it": "Vai sul tetto per trasferire i dati a EA-6B",
-        "th": ""
+        "th": "ขึ้นไปบนดาดฟ้าเพื่อส่งข้อมูลไปยัง EA-6B"
       },
       "Objective_0073": {
         "en": "Broadcast the data from the NDT drives from the roof of the building to an EA-6B using a point-to-point secure laser communication link to prevent data interception.",
@@ -2660,7 +2660,7 @@
         "de": "Übertragen Sie die Informationen von den Datenträgern der Nationalen Datentransferstelle vom Dach des Gebäudes an eine EA-6B. Bauen Sie dazu eine sichere Verbindung per Laserstrahl auf, um ein Abhören der Übertragung zu verhindern.",
         "es": "Transmite los datos de los discos del CND de la azotea del edificio hasta un EA-6B usando un enlace de comunicación seguro por láser punto a punto para evitar que intercepten los datos.",
         "it": "Trasmetti i dati dei drive della DDN dal tetto dell'edificio ad un EA-6B usando un collegamento laser sicuro punto-a-punto per impedire l'intercettazione dei dati.",
-        "th": ""
+        "th": "ส่งข้อมูลจากไดรฟ์ NDT จากดาดฟ้าอาคารไปยัง EA-6B โดยใช้การเชื่อมต่อสื่อสารเลเซอร์แบบจุดต่อจุดที่ปลอดภัย เพื่อป้องกันการดักจับข้อมูล"
       },
       "Objective_0074": {
         "en": "Tap a Mobile Command Center",
@@ -2668,7 +2668,7 @@
         "de": "Zapfen Sie ein mobiles Kommandozentrum an.",
         "es": "Hackea un centro de mando móvil.",
         "it": "Inserisciti in un centro di comando mobile.",
-        "th": ""
+        "th": "เจาะระบบศูนย์บัญชาการเคลื่อนที่"
       },
       "Objective_0075": {
         "en": "Enter and tap a North Korean MCC to give Third Echelon access to the North Korean command networks.",
@@ -2676,7 +2676,7 @@
         "de": "Betreten und verwanzen Sie eine nordkoreanische mobile Kommandozentrale, damit Third Echelon Zugriff auf die nordkoreanischen Befehlsnetze erhält.",
         "es": "Pon un rastreador en un CMM norcoreano para que Third Echelon acceda a sus redes de comunicación.",
         "it": "Entra e inserisciti in un CCM nordcoreano per fornire a Third Echelon l'accesso alla rete di comando nordcoreana.",
-        "th": ""
+        "th": "เข้าไปเจาะศูนย์บัญชาการเคลื่อนที่ของเกาหลีเหนือ เพื่อให้เธิร์ดเอเชลอนเข้าถึงเครือข่ายบัญชาการของเกาหลีเหนือ"
       },
       "Objective_0082": {
         "en": "Stop the North Korean Propaganda Broadcasts",
@@ -2684,7 +2684,7 @@
         "de": "Unterbinden Sie die nordkoreanischen Propagandasendungen.",
         "es": "Bloquea la difusión de propaganda norcoreana.",
         "it": "Ferma le trasmissioni di propaganda nordcoreane.",
-        "th": ""
+        "th": "หยุดการกระจายเสียงโฆษณาชวนเชื่อของเกาหลีเหนือ"
       },
       "Objective_0083": {
         "en": "Disabling loud speakers broadcasting North Korean propaganda would dramatically improve the morale of allied troops.",
@@ -2692,7 +2692,7 @@
         "de": "Das Abschalten der Lautsprecher, mit denen die nordkoreanische Propaganda verbreitet wird, würde die Moral der alliierten Truppen erheblich steigern.",
         "es": "Acaba con los altavoces que emiten propaganda de guerra de Corea del Norte y la moral de las tropas aliadas mejorará notablemente.",
         "it": "Se disattivi gli altoparlanti che trasmettono la propaganda nordcoreana migliorerai notevolmente il morale delle truppe alleate.",
-        "th": ""
+        "th": "การปิดลำโพงที่กระจายโฆษณาชวนเชื่อของเกาหลีเหนือจะช่วยยกระดับขวัญกำลังใจของกองกำลังฝ่ายสัมพันธมิตรอย่างมาก"
       },
       "Objective_0047": {
         "en": "Get to the EA-6B crash site.",
@@ -2700,7 +2700,7 @@
         "de": "Begeben Sie sich zur Absturzstelle der EA-6B.",
         "es": "Ve al lugar del accidente del EA-6B.",
         "it": "Arriva al punto di impatto dell'EA-&B.",
-        "th": ""
+        "th": "ไปให้ถึงจุดที่ EA-6B ตก."
       },
       "Objective_0048": {
         "en": "Proceed East from the rooftop of the telecommunications building to locate the wreckage of the downed EA-6B.",
@@ -2708,7 +2708,7 @@
         "de": "Laufen Sie vom Dach des Telekommunikationsgebäudes nach Osten. Dort finden Sie das Wrack der abgeschossenen EA-6B.",
         "es": "Ve al este desde la azotea del edificio de telecomunicaciones para localizar los restos del EA-6B derribado.",
         "it": "Procedi verso est dal tetto dell'edificio delle telecomunicazioni per trovare il relitto dell'EA-6B abbattuto.",
-        "th": ""
+        "th": "มุ่งหน้าไปทางตะวันออกจากดาดฟ้าของอาคารโทรคมนาคม เพื่อหาซากของ EA-6B ที่ตก"
       },
       "Objective_0049": {
         "en": "Disable Portable Radar Reconnaissance Receivers",
@@ -2716,7 +2716,7 @@
         "de": "Deaktivieren Sie die tragbaren Radarempfänger.",
         "es": "Desactiva los radares de reconocimiento portátiles.",
         "it": "Disattiva i ricevitori radar portatili per ricognizione.",
-        "th": ""
+        "th": "ปิดการทำงานเครื่องรับเรดาร์ลาดตระเวนแบบพกพา"
       },
       "Objective_0050": {
         "en": "The NKA is using Portable Radar Reconnaissance Receivers (P3R\u0019s) to coordinate ground mapping and tracking of allied targets. Disable any P3R\u0019s you can find.",
@@ -2724,7 +2724,7 @@
         "de": "Die nordkoreanische Armee setzt tragbare Radarempfänger (TRE) zur Koordination am Boden und zum Verfolgen alliierter Ziele ein. Schalten Sie alle TREs aus, die Sie finden.",
         "es": "Los norcoreanos están usando RRP, Radares de Reconocimiento Portátiles, para coordinar el rastreo y localización de objetivos aliados. Desactiva los RRP que encuentres.",
         "it": "La Corea del Nord sta usando i ricevitori radar portatili per ricognizione per coordinare la mappatura del terreno e il tracciamento degli obiettivi alleati. Disattiva tutti i radar che trovi.",
-        "th": ""
+        "th": "NKA ใช้เครื่องรับเรดาร์ลาดตระเวนแบบพกพา (P3R) ในการประสานการทำแผนที่ภูมิประเทศและการติดตามเป้าหมายฝ่ายสัมพันธมิตร ปิดการทำงาน P3R ทุกตัวที่คุณหาเจอ"
       },
       "Objective_0084": {
         "en": "Gain Information about NK UAV's ",
@@ -2732,7 +2732,7 @@
         "de": "Holen Sie Informationen über die nordkoreanischen Drohnen ein. ",
         "es": "Consigue información sobre los aviones teledirigidos norcoreanos. ",
         "it": "Ottieni informazioni sugli UAV nord-coreani. ",
-        "th": ""
+        "th": "เก็บข้อมูลเกี่ยวกับ UAV ของเกาหลีเหนือ "
       },
       "Objective_0085": {
         "en": "North Korea has unveiled their new Unmanned Aerial Vehicles. They have extremely advanced technology. Try to recover a technical specification for Third Echelon.",
@@ -2740,7 +2740,7 @@
         "de": "Nordkorea hat seine neuen Drohnen vorgestellt. Sie sind technisch sehr weit fortgeschritten. Versuchen Sie, deren technische Daten für Third Echelon zu besorgen.",
         "es": "Corea del Norte ha construido nuevos aviones teledirigidos con una tecnología muy avanzada. Intenta conseguir sus especificaciones técnicas para Third Echelon.",
         "it": "La Corea del Nord ha svelato i suoi nuovi UAV (veicoli aerei senza pilota). Possiedono una tecnologia estremamente avanzata. Cerca di ottenere le specifiche tecniche per inviarle a Third Echelon.",
-        "th": ""
+        "th": "เกาหลีเหนือเปิดตัว UAV รุ่นใหม่ พวกมันมีเทคโนโลยีล้ำสมัยมาก ลองเก็บกู้ข้อมูลจำเพาะทางเทคนิคให้เธิร์ดเอเชลอน"
       },
       "POPUPMESSAGE_0051": {
         "en": "Get to the EA-6B crash site.",
@@ -2748,7 +2748,7 @@
         "de": "Begeben Sie sich zur Absturzstelle der EA-6B.",
         "es": "Ve al lugar donde se ha estrellado el EA-6B.",
         "it": "Raggiungi il luogo dello schianto dell'EA-6B.",
-        "th": ""
+        "th": "ไปให้ถึงจุดที่ EA-6B ตก."
       },
       "POPUPMESSAGE_0053": {
         "en": "Disable Portable Radar Reconnaissance Receivers",
@@ -2756,7 +2756,7 @@
         "de": "Deaktivieren Sie die tragbaren Radarempfänger.",
         "es": "Desactiva los Desactiva los radares de RRP..",
         "it": "Disattiva i ricevitori portatili di ricognizione radar",
-        "th": ""
+        "th": "ปิดการทำงานเครื่องรับเรดาร์ลาดตระเวนแบบพกพา"
       },
       "Objective_0018": {
         "en": "Prevent data aboard the EA-6B from being recovered by North Korea",
@@ -2764,7 +2764,7 @@
         "de": "Sorgen Sie dafür, dass die Daten an Bord der EA-6B den Nordkoreanern nicht in die Hände fallen.",
         "es": "No dejes que los norcoreanos capturen los datos cargados en el EA-6B.",
         "it": "Impedisci che i dati a bordo dell'EA-6B cadano in mano ai nordcoreani",
-        "th": ""
+        "th": "ป้องกันไม่ให้เกาหลีเหนือกู้ข้อมูลจาก EA-6B"
       },
       "Objective_0025": {
         "en": "The remnants of the data aboard the EA-6B must not fall into North Korean hands. Either recover the data, or ensure it cannot be recovered by the NKA.",
@@ -2772,7 +2772,7 @@
         "de": "Die Datenreste an Bord der EA-6B dürfen nicht in die Hände der Nordkoreaner fallen. Holen Sie die Daten entweder aus der Maschine oder sorgen Sie dafür, dass die Nordkoreaner nichts mehr damit anfangen können.",
         "es": "Los datos que quedaban en el EA-6B derribado no pueden caer en manos de los norcoreanos. O recuperas los datos o te aseguras de que no lo hagan ellos.",
         "it": "I resti dei dati conservati a bordo dell'EA-6B non devono cadere in mani nordcoreane. Recupera i dati o accertati che non possano essere recuperati dai nordcoreani.",
-        "th": ""
+        "th": "ข้อมูลที่เหลืออยู่ใน EA-6B ต้องไม่ตกไปอยู่ในมือเกาหลีเหนือ ไม่ว่าจะกู้ข้อมูลนั้น หรือทำให้แน่ใจว่า NKA กู้ไม่ได้"
       },
       "POPUPMESSAGE_0054": {
         "en": "Prevent data aboard the EA-6B from being recovered by North Korea",
@@ -2780,7 +2780,7 @@
         "de": "Sorgen Sie dafür, dass die Daten an Bord der EA-6B nicht in die Hände der Nordkoreaner fallen.",
         "es": "No dejes que los norcoreanos recuperen los datos del EA-6B.",
         "it": "Impedisci che i dati a bordo dell'EA-6B vengano recuperati dalla Corea del Nord",
-        "th": ""
+        "th": "ป้องกันไม่ให้เกาหลีเหนือกู้ข้อมูลจาก EA-6B"
       },
       "Objective_0035": {
         "en": "Designate the wreckage of the EA-6B for aerial bombardment",
@@ -2788,7 +2788,7 @@
         "de": "Markieren Sie das Wrack der EA-6B als Ziel für einen Luftangriff.",
         "es": "Indica el punto donde ha caído el EA-6B para un bombardeo aéreo.",
         "it": "Designa il rottame dell'EA-6B per un bombardamento aereo.",
-        "th": ""
+        "th": "กำหนดจุดซาก EA-6B สำหรับการทิ้งระเบิดทางอากาศ"
       },
       "Objective_0036": {
         "en": "The data aboard the downed EA-6B is not recoverable. Take a position atop the scaffolding to the West of the crash site and laser designate the wreckage for an air strike.",
@@ -2796,7 +2796,7 @@
         "de": "Die Daten an Bord der abgeschossenen EA-6B können nicht geborgen werden. Gehen Sie westlich der Absturzstelle auf dem Gerüst in Position und markieren Sie das Wrack mit Ihrem Laser als Ziel für einen Luftangriff.",
         "es": "Los datos que quedaban en el EA-6B derribado no se pueden recuperar. Sube al andamiaje de la calle al oeste del lugar del accidente e indica con láser su posición para pedir un ataque aéreo.",
         "it": "I dati a bordo dell'EA-6B non possono essere recuperati. Posizionati in cima all'impalcatura ad ovest del punto di impatto e con il laser designa l'area dell'incidente per un bombardamento aereo.",
-        "th": ""
+        "th": "ข้อมูลใน EA-6B ที่ตกไม่สามารถกู้ได้ ไปประจำที่บนยอดนั่งร้านทางทิศตะวันตกของจุดที่เครื่องบินตก และกำหนดเป้าหมายซากด้วยเลเซอร์สำหรับการโจมตีทางอากาศ"
       },
       "POPUPMESSAGE_0055": {
         "en": "Designate the wreckage of the EA-6B for aerial bombardment",
@@ -2804,7 +2804,7 @@
         "de": "Markieren Sie das Wrack der EA-6B als Ziel für einen Luftangriff.",
         "es": "Indica el lugar del accidente del EA-6B para un bombardeo aéreo.",
         "it": "Punta i rottami dell'EA-6B per il bombardamento aereo",
-        "th": ""
+        "th": "กำหนดจุดซาก EA-6B สำหรับการทิ้งระเบิดทางอากาศ"
       }
     },
     "P_09_SeoulTwo_Plane_Logic": {
@@ -2815,7 +2815,7 @@
         "de": "Markieren Sie das Wrack der EA-6B als Ziel für einen Luftangriff.",
         "es": "Indica el lugar del accidente del EA-6B para un bombardeo aéreo.",
         "it": "Punta i rottami dell'EA-6B per il bombardamento aereo",
-        "th": ""
+        "th": "กำหนดจุดซาก EA-6B สำหรับการทิ้งระเบิดทางอากาศ"
       }
     },
     "P_09_SeoulTwo_RoofCom": {
@@ -2826,7 +2826,7 @@
         "de": "Hattest du nicht gesagt, hier oben wären wir sicher?",
         "es": "Dijiste que aquí arriba estaríamos a salvo.",
         "it": "Non avevi detto che saremmo stati al sicuro qui?",
-        "th": ""
+        "th": "ฉันนึกว่าคุณบอกว่าเราจะปลอดภัยข้างบนนี้"
       },
       "Speech_0002L": {
         "en": "We are safe up here.",
@@ -2834,7 +2834,7 @@
         "de": "Wir sind hier oben sicher.",
         "es": "Y estamos a salvo.",
         "it": "Siamo al sicuro, qui.",
-        "th": ""
+        "th": "เราปลอดภัยข้างบนนี้จริงๆ"
       },
       "Speech_0003L": {
         "en": "What?! A bomb just hit the building!",
@@ -2842,7 +2842,7 @@
         "de": "Was?! Das Gebäude wurde gerade von einer Bombe getroffen!",
         "es": "¡Si acaba de caer una bomba!",
         "it": "Cosa?! Una bomba ha appena colpito l'edificio!",
-        "th": ""
+        "th": "อะไรนะ?! ระเบิดเพิ่งถล่มอาคาร!"
       },
       "Speech_0004L": {
         "en": "Oh... that... well... we're not safe from bombs...",
@@ -2850,7 +2850,7 @@
         "de": "Oh ... das ... nun ... vor Bomben sind wir nicht sicher ...",
         "es": "Bueno... No estamos a salvo de las bombas...",
         "it": "Oh... quella... va bene... non siamo al sicuro dalle bombe.",
-        "th": ""
+        "th": "อ้อ... เรื่องนั้น... เอาเถอะ... เราไม่ได้ปลอดภัยจากระเบิด..."
       },
       "Speech_0005L": {
         "en": "What are we safe from then?",
@@ -2858,7 +2858,7 @@
         "de": "Vor was sind wir dann sicher?",
         "es": "¿Y de qué estamos a salvo?",
         "it": "E allora da cosa lo siamo?",
-        "th": ""
+        "th": "งั้นเราปลอดภัยจากอะไร?"
       },
       "Speech_0006L": {
         "en": "Infantry. Listen... bombs don't want to kill you... it's purely statistical. But there is nothing in the world more dangerous than an infantryman with a rifle... I'd rather take my chances with the bombs.",
@@ -2866,7 +2866,7 @@
         "de": "Infanterie. Hör zu ... Bomben wollen dich nicht töten - das ist alles eine Frage der Wahrscheinlichkeit. Aber es gibt auf der Welt nichts Gefährlicheres als einen Soldaten mit einem Gewehr ... da halte ich mich lieber an die Bomben.",
         "es": "De la infantería. Las bombas no quieren matarte: son sólo máquinas. Pero no hay nada más peligroso que un soldado de infantería con un fusil. Prefiero correr el riesgo de las bombas.",
         "it": "Dalla fanteria. Ascoltami... le bombe non vogliono ucciderti, è solo una questione di probabilità. Ma la cosa più pericolosa al mondo è un fante con un fucile... preferisco rischiare con le bombe.",
-        "th": ""
+        "th": "ทหารราบ ฟังนะ... ระเบิดไม่ได้อยากฆ่าคุณ... มันเป็นสถิติล้วนๆ แต่ไม่มีอะไรในโลกที่อันตรายยิ่งกว่าทหารราบที่ถือปืน... ฉันยอมเสี่ยงกับระเบิดมากกว่า"
       },
       "Speech_0007L": {
         "en": "You're scaring the crap out of me.",
@@ -2874,7 +2874,7 @@
         "de": "Du jagst mir eine Heidenangst ein.",
         "es": "Estás consiguiendo asustarme.",
         "it": "Mi stai spaventando sul serio.",
-        "th": ""
+        "th": "คุณทำให้ฉันกลัวจนขี้ขึ้นสมองเลย"
       }
     }
   }
