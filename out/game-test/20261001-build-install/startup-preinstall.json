@@ -1,0 +1,31 @@
+[
+  {
+    "filename": "splintercell3logo.bmp",
+    "format": "BMP",
+    "mode": "P",
+    "size": [
+      640,
+      480
+    ],
+    "source_sha256": "171d98f2807ab7f05d4747cc69450228d643b0cb11d3590d9e2adb249a9bbcba",
+    "original_existed": true,
+    "original_sha256": "4da29c428743a9c8713d9ead4064e5220dc4a267b9d11c17dd9ca7fbb078a15e",
+    "original_size": [
+      640,
+      480
+    ],
+    "original_mode": "P"
+  },
+  {
+    "filename": "SplinterCell3Logo.tga",
+    "format": "TGA",
+    "mode": "RGB",
+    "size": [
+      640,
+      480
+    ],
+    "source_sha256": "4b7a2c19bef631b087c251cb3d95b7d31a90c7d42e60d8aa2f4265ce8d1d009a",
+    "original_existed": false,
+    "original_sha256": null
+  }
+]

@@ -1,0 +1,760 @@
+{
+  "result": "PASS",
+  "umd_entries": 20252,
+  "replacement_assets_verified": 65,
+  "unchanged_payloads_verified": 20187,
+  "installed_files_verified": 71,
+  "built_umd_bytes": 618346695,
+  "built_umd_sha256": "be37111eae13e1356be1b981b21f55cb5aa341dd2128f544497e532f124367bb",
+  "backup_umd_sha256": "f42c884dcef45fea70489c213e31fd1176c3d84ce27265da6cd718a8414005af",
+  "executable_unchanged": true,
+  "replacements": [
+    {
+      "path": "Data\\System\\Localization\\00_Training.int",
+      "size": 2826,
+      "sha256": "eff2a131198f2a4967294cdb29da26ee58780628ce9d82d31f1ad63358167752",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\00_Training_COOP.int",
+      "size": 1642,
+      "sha256": "21c5a00c428b4ddb4f984e92d1509bf85e113d431ad7969045d602ff179fcd14",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\01_Lighthouse.int",
+      "size": 5980,
+      "sha256": "6612375825bd0cb3489a1f4c522b93e1d87ae93aab32e1c9d977a46181729a41",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\01_Panama.int",
+      "size": 2946,
+      "sha256": "77f8facca8ff2cdc7ed0487c5765d1caa85d86879037cf0fb896e7d655656363",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\02_CargoShip.int",
+      "size": 6200,
+      "sha256": "7f636eb157ba234a20c3f920a7177aade1cbb62f1421673d8f7eb142ec340d5b",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\02_Seoulthree.int",
+      "size": 2446,
+      "sha256": "638c33ab19b2680374455d4bd2b39ff58c8a5c987c6764d65af84c6b1c8fd9a8",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\03_Bank.int",
+      "size": 9018,
+      "sha256": "a85b02216e8c1a1d90453746ca078647cb9253e134546db02b78842995cf86d6",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\03_ChemBunker.int",
+      "size": 6462,
+      "sha256": "a0a4ca7fbd48f3c642aef314b65d8849b42c85a710719493dd3580ee24c7ea8c",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\04_GCS.int",
+      "size": 2592,
+      "sha256": "0876a82565f0a4a208d5aaf948bf14d9ad89ed7cc81b64b15b7587f1ac2ab021",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\04_Penthouse.int",
+      "size": 5716,
+      "sha256": "13deb75211998560ec80269d0200fa4858ca171694b45a48cd26ad639e1f097e",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\05_Displace01.int",
+      "size": 8478,
+      "sha256": "fa52984310f243fa959dfb35aa85e4f401afadb227d7147145ba93801c0b499d",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\05_NuclearPlant.int",
+      "size": 3442,
+      "sha256": "3e36be70791b1d6b1ec8fcb3d0f59cde98e9a7b100a68f49a7c003b971f15194",
+      "changed_from_original": false
+    },
+    {
+      "path": "Data\\System\\Localization\\06_Hokkaido.int",
+      "size": 3534,
+      "sha256": "76bfb90364fb8a6165a659d9b416b446bab02cc060ff3953a862630fecc4142d",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\07_Battery.int",
+      "size": 8270,
+      "sha256": "831933aaaaa00417ad622968679fdcc2104755b17162775ae3da8653a4bf8855",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\07_UNhq.int",
+      "size": 3056,
+      "sha256": "27a1dfa1802474641c2b5181cb3269953300959508e30f6608659c23ac2e8f69",
+      "changed_from_original": false
+    },
+    {
+      "path": "Data\\System\\Localization\\08_SeoulOne.int",
+      "size": 5756,
+      "sha256": "1d4a19f4d0d4b641335f7351f0964c4db39e4cb46fdc8e2e7a3d39a4ace0b999",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\09_SeoulTwo.int",
+      "size": 366,
+      "sha256": "56019bd21283fd82301fcbd940f34d29aacf3a2e1b6d14cc28e8a5f789b12525",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\10_BathHouse.int",
+      "size": 7150,
+      "sha256": "98eab59631ba789aa6b922d2777b029ec708d15d3cc68bfdfc95aca2b9cd64bb",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\11_KokuboSosho.int",
+      "size": 6940,
+      "sha256": "81733f16f64448de4515df76e297092edcec55701e08db3202c74fa09a5fe638",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\Credits.int",
+      "size": 4146,
+      "sha256": "681139c68cc67cc0583c79b33e761fc155f809037121f9e1127c42a789f94664",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\Equipments.int",
+      "size": 18436,
+      "sha256": "eeb05034e7b32cbee15eb31fbfc5ad3d2bffa649e26abc8ddb6f1a527b5a989a",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\HUD.int",
+      "size": 6518,
+      "sha256": "ab2799149fde7fe6a3738aab61eed5f2e664cf1994c377f84844f5b6d112ee01",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\InGameMenus.int",
+      "size": 6424,
+      "sha256": "6de42697fce0c1037c3169c93c31b76e2ac337d1dc891ec52e7833f036f8b9dc",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\LoadingScreens.int",
+      "size": 21926,
+      "sha256": "619ccc39d401856de46d5306373aaf1fef4b25ce603c590797a2db5f6e1f1743",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\PreGameMenus.int",
+      "size": 26876,
+      "sha256": "2647f6b556fb0cf4e887b3800370f7eac383a354f33e55f099eab700939e1929",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\PreGame_PC.int",
+      "size": 92044,
+      "sha256": "7b1255e0211302ba8efa1f0d033d7b719efc4a026b4c6a86cb34bcb626f5d9b8",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_00_Training.int",
+      "size": 81024,
+      "sha256": "aa0cca085f9dfa0e02b5b175f03ef93b89c37f6408c2c2935b041a12c7d8edf5",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_00_Training_COOP.int",
+      "size": 23730,
+      "sha256": "4bc72a463147358678b69f5cc0239b1bb7490aae10c97a43cee999cf33b364fe",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_01_Lighthouse.int",
+      "size": 57014,
+      "sha256": "6ff4d9e73cd79016356506ac08dd7e0c62a53d4be110170fe7590ccf323badd1",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_01_Panama.int",
+      "size": 20516,
+      "sha256": "4ec309393c4e6069d076a2b4da943685fbd49c5f3d710900e1b622f2ba4f6979",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_02_CargoShip.int",
+      "size": 63708,
+      "sha256": "887ecf64af9ece0be93672e6b82ce8a9457ae460a1687a2220e8165172bc39ae",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_02_seoulthree.int",
+      "size": 26024,
+      "sha256": "6603dc430e7214ff3f6ddb4be8c4ad1deddcc30b0a8a18bce2ca93eebfcec05b",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_03_Bank.int",
+      "size": 91490,
+      "sha256": "8a18eb8a065159e84e45e1b2e88eded4f82bfb809dabe2d3423195a546edcb98",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_03_ChemBunker.int",
+      "size": 26066,
+      "sha256": "951f4782c32e73bc009d47b467f9f47279068fabaac5cc76927a5aac49e1b7b9",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_04_GCS.int",
+      "size": 23078,
+      "sha256": "f4f7886f16e137c83f9e4d5e08c3635083e4acc406c8f658b813ccac4841c24d",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_04_Penthouse.int",
+      "size": 95534,
+      "sha256": "3f9c609dc1f9890d4ad15e806a1cb803cb8bbd34538c86b9846f542b41e46d87",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_05_Displace01.int",
+      "size": 96768,
+      "sha256": "da543eba4416ec34f06dd33b8fef3698ecca6411bb7a6f85652f2858ff99e81c",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_05_NuclearPlant.int",
+      "size": 6772,
+      "sha256": "561299d18032e2ea8535a8f3c941733b2ebc1fc264020e7a3bd308769f3668e8",
+      "changed_from_original": false
+    },
+    {
+      "path": "Data\\System\\Localization\\P_06_Hokkaido.int",
+      "size": 69136,
+      "sha256": "8e157ec8b1f656b68f7bde875f77c93887d138b3f050b8e8038e894423557e07",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_07_Battery.int",
+      "size": 103116,
+      "sha256": "ba3307bdfb409bc2f27844b73969923921be480a7a662a3b9ee03329266440d1",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_07_UNhq.int",
+      "size": 9330,
+      "sha256": "2054be810b070c2d661851acb55ec7979245ccfe20aa37b810d694627491c597",
+      "changed_from_original": false
+    },
+    {
+      "path": "Data\\System\\Localization\\P_08_SeoulOne.int",
+      "size": 46370,
+      "sha256": "aefb12d6113adbdeb15c64d76fe3e2e3c9ddae85110806ae3aa1857322eeacf7",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_09_SeoulTwo.int",
+      "size": 53212,
+      "sha256": "9a6f971a0544c56cf5fb5b0e50761e921a879f226016f4b23cb42dc23f64f424",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_10_Bathhouse.int",
+      "size": 81410,
+      "sha256": "447c2108a5a54cb8b8656e2db3fa9a6b1f2f7ae6dbfb0c03872ee2c683f01fd8",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\P_11_KokuboSosho.int",
+      "size": 72150,
+      "sha256": "448119334efa97e97d25e6249b6f04f45265d236b1df9421ae4a88fd8f7d97f1",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\System.int",
+      "size": 5970,
+      "sha256": "ec531702c126c14e77fc413e3a137460624d349990aed33191f50c589f9ce683",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\Training.int",
+      "size": 2826,
+      "sha256": "eff2a131198f2a4967294cdb29da26ee58780628ce9d82d31f1ad63358167752",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\System\\Localization\\XBOXLive.int",
+      "size": 11227,
+      "sha256": "b1a93938dfc6d945dfe45d860758b64df54860ce8a0aebb4f3a7b9681ef2e925",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\bios three regular 20 -5-.tga",
+      "size": 1048594,
+      "sha256": "91897db88cf53125dd317fdbc5910ca0fd93d8c7c97a3ebdc931f2aac9151c3a",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 20 5.tga",
+      "size": 1048594,
+      "sha256": "91897db88cf53125dd317fdbc5910ca0fd93d8c7c97a3ebdc931f2aac9151c3a",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 32 2.tga",
+      "size": 1048594,
+      "sha256": "3c9f97ca399146fc72e81d9deeaab1e85ec99c9514a836de9081cdfb815fa7f5",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 48 6.tga",
+      "size": 1048594,
+      "sha256": "3282435ada7ff8150ad54b33b1c5c03f4c2c58c97529aacb875a8c199907be14",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 13 2.tga",
+      "size": 1048594,
+      "sha256": "dfcceba58102e7782333998b3fb319c7d9405cf0fedfa4332c71b84d1779ea0a",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 26 0.tga",
+      "size": 1048594,
+      "sha256": "6eed0600e7685fdc7ab5d5b0bc2832c72fe63b1995e39fabefd1f91c499c7747",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 36 0.tga",
+      "size": 1048594,
+      "sha256": "e391d6aba0656c2383b6e6494791f84c3fea82c4802b7b0817d71c02dc1685c8",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\bios three regular 20.mft",
+      "size": 22269,
+      "sha256": "3e020171e874f48e9c464acebbcbabc043cfaf7c9f6387c6a0a8143a6754252f",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 32.mft",
+      "size": 22257,
+      "sha256": "83ad0e93487816aa878aab83334a08d3b16e891be3332e253ac9e2f4352d924e",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 48.mft",
+      "size": 22273,
+      "sha256": "264a8abc97d36efa4e5c84af2868711456089478ff1d514156b16cb126d6abbd",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\prototype regular 13.mft",
+      "size": 22257,
+      "sha256": "01eda9e127ecc6f2a4e0a82d63960433ac5b34a61cf4c5b8a9bdcd9aa7e922a4",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 26.mft",
+      "size": 22249,
+      "sha256": "48f0b38aa27e36de74cdf92d116cb2d2f9483dbb7d0542ae776d1f7b4c77fe10",
+      "changed_from_original": true
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 36.mft",
+      "size": 22249,
+      "sha256": "f74987b7a21893cebc7128cb52310338169b6d15fc02771a74b94ff5d23ca426",
+      "changed_from_original": true
+    },
+    {
+      "path": "System\\D3DDrv.int",
+      "size": 370,
+      "sha256": "14475da85933d4f0c91df825bdd6e2678bebcd021a5b3cead18cd3da298adb85",
+      "changed_from_original": true
+    },
+    {
+      "path": "System\\Echelon.int",
+      "size": 87,
+      "sha256": "875db3fa9d411027c3647dcafadc59775c5ad3531ed8fa6b7635c1e5f89f90d8",
+      "changed_from_original": false
+    },
+    {
+      "path": "System\\Engine.int",
+      "size": 5001,
+      "sha256": "2fd419722cce8ea7e2d8c282a95e1bf819cf2f55c7fb4926838061081d96a9d5",
+      "changed_from_original": true
+    },
+    {
+      "path": "System\\Window.int",
+      "size": 2405,
+      "sha256": "31bff6fb90016dd5ce68eb5f4a965e9038ed28a35ca7735fd6a8320ea9dac60e",
+      "changed_from_original": true
+    }
+  ],
+  "installed": [
+    {
+      "path": "System\\dynamic-pc.umd",
+      "size": 618346695,
+      "sha256": "be37111eae13e1356be1b981b21f55cb5aa341dd2128f544497e532f124367bb"
+    },
+    {
+      "path": "Data\\System\\Localization\\00_Training.int",
+      "size": 2826,
+      "sha256": "eff2a131198f2a4967294cdb29da26ee58780628ce9d82d31f1ad63358167752"
+    },
+    {
+      "path": "Data\\System\\Localization\\00_Training_COOP.int",
+      "size": 1642,
+      "sha256": "21c5a00c428b4ddb4f984e92d1509bf85e113d431ad7969045d602ff179fcd14"
+    },
+    {
+      "path": "Data\\System\\Localization\\01_Lighthouse.int",
+      "size": 5980,
+      "sha256": "6612375825bd0cb3489a1f4c522b93e1d87ae93aab32e1c9d977a46181729a41"
+    },
+    {
+      "path": "Data\\System\\Localization\\01_Panama.int",
+      "size": 2946,
+      "sha256": "77f8facca8ff2cdc7ed0487c5765d1caa85d86879037cf0fb896e7d655656363"
+    },
+    {
+      "path": "Data\\System\\Localization\\02_CargoShip.int",
+      "size": 6200,
+      "sha256": "7f636eb157ba234a20c3f920a7177aade1cbb62f1421673d8f7eb142ec340d5b"
+    },
+    {
+      "path": "Data\\System\\Localization\\02_Seoulthree.int",
+      "size": 2446,
+      "sha256": "638c33ab19b2680374455d4bd2b39ff58c8a5c987c6764d65af84c6b1c8fd9a8"
+    },
+    {
+      "path": "Data\\System\\Localization\\03_Bank.int",
+      "size": 9018,
+      "sha256": "a85b02216e8c1a1d90453746ca078647cb9253e134546db02b78842995cf86d6"
+    },
+    {
+      "path": "Data\\System\\Localization\\03_ChemBunker.int",
+      "size": 6462,
+      "sha256": "a0a4ca7fbd48f3c642aef314b65d8849b42c85a710719493dd3580ee24c7ea8c"
+    },
+    {
+      "path": "Data\\System\\Localization\\04_GCS.int",
+      "size": 2592,
+      "sha256": "0876a82565f0a4a208d5aaf948bf14d9ad89ed7cc81b64b15b7587f1ac2ab021"
+    },
+    {
+      "path": "Data\\System\\Localization\\04_Penthouse.int",
+      "size": 5716,
+      "sha256": "13deb75211998560ec80269d0200fa4858ca171694b45a48cd26ad639e1f097e"
+    },
+    {
+      "path": "Data\\System\\Localization\\05_Displace01.int",
+      "size": 8478,
+      "sha256": "fa52984310f243fa959dfb35aa85e4f401afadb227d7147145ba93801c0b499d"
+    },
+    {
+      "path": "Data\\System\\Localization\\05_NuclearPlant.int",
+      "size": 3442,
+      "sha256": "3e36be70791b1d6b1ec8fcb3d0f59cde98e9a7b100a68f49a7c003b971f15194"
+    },
+    {
+      "path": "Data\\System\\Localization\\06_Hokkaido.int",
+      "size": 3534,
+      "sha256": "76bfb90364fb8a6165a659d9b416b446bab02cc060ff3953a862630fecc4142d"
+    },
+    {
+      "path": "Data\\System\\Localization\\07_Battery.int",
+      "size": 8270,
+      "sha256": "831933aaaaa00417ad622968679fdcc2104755b17162775ae3da8653a4bf8855"
+    },
+    {
+      "path": "Data\\System\\Localization\\07_UNhq.int",
+      "size": 3056,
+      "sha256": "27a1dfa1802474641c2b5181cb3269953300959508e30f6608659c23ac2e8f69"
+    },
+    {
+      "path": "Data\\System\\Localization\\08_SeoulOne.int",
+      "size": 5756,
+      "sha256": "1d4a19f4d0d4b641335f7351f0964c4db39e4cb46fdc8e2e7a3d39a4ace0b999"
+    },
+    {
+      "path": "Data\\System\\Localization\\09_SeoulTwo.int",
+      "size": 366,
+      "sha256": "56019bd21283fd82301fcbd940f34d29aacf3a2e1b6d14cc28e8a5f789b12525"
+    },
+    {
+      "path": "Data\\System\\Localization\\10_BathHouse.int",
+      "size": 7150,
+      "sha256": "98eab59631ba789aa6b922d2777b029ec708d15d3cc68bfdfc95aca2b9cd64bb"
+    },
+    {
+      "path": "Data\\System\\Localization\\11_KokuboSosho.int",
+      "size": 6940,
+      "sha256": "81733f16f64448de4515df76e297092edcec55701e08db3202c74fa09a5fe638"
+    },
+    {
+      "path": "Data\\System\\Localization\\Credits.int",
+      "size": 4146,
+      "sha256": "681139c68cc67cc0583c79b33e761fc155f809037121f9e1127c42a789f94664"
+    },
+    {
+      "path": "Data\\System\\Localization\\Equipments.int",
+      "size": 18436,
+      "sha256": "eeb05034e7b32cbee15eb31fbfc5ad3d2bffa649e26abc8ddb6f1a527b5a989a"
+    },
+    {
+      "path": "Data\\System\\Localization\\HUD.int",
+      "size": 6518,
+      "sha256": "ab2799149fde7fe6a3738aab61eed5f2e664cf1994c377f84844f5b6d112ee01"
+    },
+    {
+      "path": "Data\\System\\Localization\\InGameMenus.int",
+      "size": 6424,
+      "sha256": "6de42697fce0c1037c3169c93c31b76e2ac337d1dc891ec52e7833f036f8b9dc"
+    },
+    {
+      "path": "Data\\System\\Localization\\LoadingScreens.int",
+      "size": 21926,
+      "sha256": "619ccc39d401856de46d5306373aaf1fef4b25ce603c590797a2db5f6e1f1743"
+    },
+    {
+      "path": "Data\\System\\Localization\\PreGameMenus.int",
+      "size": 26876,
+      "sha256": "2647f6b556fb0cf4e887b3800370f7eac383a354f33e55f099eab700939e1929"
+    },
+    {
+      "path": "Data\\System\\Localization\\PreGame_PC.int",
+      "size": 92044,
+      "sha256": "7b1255e0211302ba8efa1f0d033d7b719efc4a026b4c6a86cb34bcb626f5d9b8"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_00_Training.int",
+      "size": 81024,
+      "sha256": "aa0cca085f9dfa0e02b5b175f03ef93b89c37f6408c2c2935b041a12c7d8edf5"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_00_Training_COOP.int",
+      "size": 23730,
+      "sha256": "4bc72a463147358678b69f5cc0239b1bb7490aae10c97a43cee999cf33b364fe"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_01_Lighthouse.int",
+      "size": 57014,
+      "sha256": "6ff4d9e73cd79016356506ac08dd7e0c62a53d4be110170fe7590ccf323badd1"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_01_Panama.int",
+      "size": 20516,
+      "sha256": "4ec309393c4e6069d076a2b4da943685fbd49c5f3d710900e1b622f2ba4f6979"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_02_CargoShip.int",
+      "size": 63708,
+      "sha256": "887ecf64af9ece0be93672e6b82ce8a9457ae460a1687a2220e8165172bc39ae"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_02_seoulthree.int",
+      "size": 26024,
+      "sha256": "6603dc430e7214ff3f6ddb4be8c4ad1deddcc30b0a8a18bce2ca93eebfcec05b"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_03_Bank.int",
+      "size": 91490,
+      "sha256": "8a18eb8a065159e84e45e1b2e88eded4f82bfb809dabe2d3423195a546edcb98"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_03_ChemBunker.int",
+      "size": 26066,
+      "sha256": "951f4782c32e73bc009d47b467f9f47279068fabaac5cc76927a5aac49e1b7b9"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_04_GCS.int",
+      "size": 23078,
+      "sha256": "f4f7886f16e137c83f9e4d5e08c3635083e4acc406c8f658b813ccac4841c24d"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_04_Penthouse.int",
+      "size": 95534,
+      "sha256": "3f9c609dc1f9890d4ad15e806a1cb803cb8bbd34538c86b9846f542b41e46d87"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_05_Displace01.int",
+      "size": 96768,
+      "sha256": "da543eba4416ec34f06dd33b8fef3698ecca6411bb7a6f85652f2858ff99e81c"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_05_NuclearPlant.int",
+      "size": 6772,
+      "sha256": "561299d18032e2ea8535a8f3c941733b2ebc1fc264020e7a3bd308769f3668e8"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_06_Hokkaido.int",
+      "size": 69136,
+      "sha256": "8e157ec8b1f656b68f7bde875f77c93887d138b3f050b8e8038e894423557e07"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_07_Battery.int",
+      "size": 103116,
+      "sha256": "ba3307bdfb409bc2f27844b73969923921be480a7a662a3b9ee03329266440d1"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_07_UNhq.int",
+      "size": 9330,
+      "sha256": "2054be810b070c2d661851acb55ec7979245ccfe20aa37b810d694627491c597"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_08_SeoulOne.int",
+      "size": 46370,
+      "sha256": "aefb12d6113adbdeb15c64d76fe3e2e3c9ddae85110806ae3aa1857322eeacf7"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_09_SeoulTwo.int",
+      "size": 53212,
+      "sha256": "9a6f971a0544c56cf5fb5b0e50761e921a879f226016f4b23cb42dc23f64f424"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_10_Bathhouse.int",
+      "size": 81410,
+      "sha256": "447c2108a5a54cb8b8656e2db3fa9a6b1f2f7ae6dbfb0c03872ee2c683f01fd8"
+    },
+    {
+      "path": "Data\\System\\Localization\\P_11_KokuboSosho.int",
+      "size": 72150,
+      "sha256": "448119334efa97e97d25e6249b6f04f45265d236b1df9421ae4a88fd8f7d97f1"
+    },
+    {
+      "path": "Data\\System\\Localization\\System.int",
+      "size": 5970,
+      "sha256": "ec531702c126c14e77fc413e3a137460624d349990aed33191f50c589f9ce683"
+    },
+    {
+      "path": "Data\\System\\Localization\\Training.int",
+      "size": 2826,
+      "sha256": "eff2a131198f2a4967294cdb29da26ee58780628ce9d82d31f1ad63358167752"
+    },
+    {
+      "path": "Data\\System\\Localization\\XBOXLive.int",
+      "size": 11227,
+      "sha256": "b1a93938dfc6d945dfe45d860758b64df54860ce8a0aebb4f3a7b9681ef2e925"
+    },
+    {
+      "path": "System\\D3DDrv.int",
+      "size": 370,
+      "sha256": "14475da85933d4f0c91df825bdd6e2678bebcd021a5b3cead18cd3da298adb85"
+    },
+    {
+      "path": "System\\Echelon.int",
+      "size": 87,
+      "sha256": "875db3fa9d411027c3647dcafadc59775c5ad3531ed8fa6b7635c1e5f89f90d8"
+    },
+    {
+      "path": "System\\Engine.int",
+      "size": 5001,
+      "sha256": "2fd419722cce8ea7e2d8c282a95e1bf819cf2f55c7fb4926838061081d96a9d5"
+    },
+    {
+      "path": "System\\Window.int",
+      "size": 2405,
+      "sha256": "31bff6fb90016dd5ce68eb5f4a965e9038ed28a35ca7735fd6a8320ea9dac60e"
+    },
+    {
+      "path": "Data\\Textures\\Font\\titre_bold_integration.pcx",
+      "size": 30393,
+      "sha256": "8d814e210342a50bed5e1e808101152bf5e27d937f6dafcd71fab2ebf9eb1a37"
+    },
+    {
+      "path": "Data\\Textures\\Font\\titre_regular_integration.pcx",
+      "size": 30331,
+      "sha256": "1b897ad5fcdae828ce9ac93d03cfac25f4d3f2688ffcb3adb5484c7287112cb6"
+    },
+    {
+      "path": "Data\\Textures\\Font\\txt_hud.pcx",
+      "size": 18268,
+      "sha256": "b7bb438083b01f8844378702d8d075a348775f130454519a23a97a636b0c823e"
+    },
+    {
+      "path": "Data\\Textures\\Font\\txt_integration.pcx",
+      "size": 23545,
+      "sha256": "40ba2676608e9fdf1132b0fafc87c52e9aed5564127167b1f17ed2e15168dc3e"
+    },
+    {
+      "path": "Data\\Textures\\Font\\txt_mission.pcx",
+      "size": 39038,
+      "sha256": "6b1185562ee7ee6865ab11c15311f377af6c19380d82d5450a5b66495c6bf0b7"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\bios three regular 20 -5-.tga",
+      "size": 1048594,
+      "sha256": "91897db88cf53125dd317fdbc5910ca0fd93d8c7c97a3ebdc931f2aac9151c3a"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 20 5.tga",
+      "size": 1048594,
+      "sha256": "91897db88cf53125dd317fdbc5910ca0fd93d8c7c97a3ebdc931f2aac9151c3a"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 20.mft",
+      "size": 22269,
+      "sha256": "3e020171e874f48e9c464acebbcbabc043cfaf7c9f6387c6a0a8143a6754252f"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 32 2.tga",
+      "size": 1048594,
+      "sha256": "3c9f97ca399146fc72e81d9deeaab1e85ec99c9514a836de9081cdfb815fa7f5"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 32.mft",
+      "size": 22257,
+      "sha256": "83ad0e93487816aa878aab83334a08d3b16e891be3332e253ac9e2f4352d924e"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 48 6.tga",
+      "size": 1048594,
+      "sha256": "3282435ada7ff8150ad54b33b1c5c03f4c2c58c97529aacb875a8c199907be14"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Bios Three Regular 48.mft",
+      "size": 22273,
+      "sha256": "264a8abc97d36efa4e5c84af2868711456089478ff1d514156b16cb126d6abbd"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 13 2.tga",
+      "size": 1048594,
+      "sha256": "dfcceba58102e7782333998b3fb319c7d9405cf0fedfa4332c71b84d1779ea0a"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\prototype regular 13.mft",
+      "size": 22257,
+      "sha256": "01eda9e127ecc6f2a4e0a82d63960433ac5b34a61cf4c5b8a9bdcd9aa7e922a4"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 26 0.tga",
+      "size": 1048594,
+      "sha256": "6eed0600e7685fdc7ab5d5b0bc2832c72fe63b1995e39fabefd1f91c499c7747"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 26.mft",
+      "size": 22249,
+      "sha256": "48f0b38aa27e36de74cdf92d116cb2d2f9483dbb7d0542ae776d1f7b4c77fe10"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 36 0.tga",
+      "size": 1048594,
+      "sha256": "e391d6aba0656c2383b6e6494791f84c3fea82c4802b7b0817d71c02dc1685c8"
+    },
+    {
+      "path": "Data\\Magma\\DataPC\\Fonts\\Prototype Regular 36.mft",
+      "size": 22249,
+      "sha256": "f74987b7a21893cebc7128cb52310338169b6d15fc02771a74b94ff5d23ca426"
+    }
+  ]
+}

@@ -57,6 +57,13 @@ python -m pip install -r requirements.txt
 คำนวณ GSUB/GPOS ตอนบิลด์ วาดกลุ่มอักษรไทยลง bitmap และแปลงเฉพาะไฟล์เกมเป็น UTF-16LE พร้อม BOM
 ไฟล์ JSON ต้นฉบับยังอ่านและแก้ไขเป็นภาษาไทยตามปกติ ดูรายละเอียดที่ [FONT_PIPELINE.md](FONT_PIPELINE.md)
 
+ไฟล์ภารกิจทั้งหมด (รวม `P_` และ co-op) เข้าระบบ UTF-16/PUA อัตโนมัติแล้ว แปลเพิ่มแล้วใช้ `build.py --umd --install` ได้เลย
+ไม่ต้องเพิ่มชื่อด่านใน config ก่อนแพ็ก ระบบจะตรวจค่าคอมไพล์และ PUA lookup ของฟอนต์ทั้งหกขนาด
+การตรวจในเกมเน้นตัวแทนชนิดหน้าจอ/renderer และข้อความล้นช่อง ดู [ผลการขยายระบบ](out/game-test/20261001-build-install/AUTOMATIC_COVERAGE.md)
+
+ตัวติดตั้งรวมภาพเปิดเกม `dist/System/splintercell3logo.bmp` และ `SplinterCell3Logo.tga` เมื่อมีไฟล์เหล่านี้
+เก็บภาพเดิมไว้ที่ `backups/System/` ก่อนแทนที่ครั้งแรก ภาพไทยที่ผู้ใช้ทำไว้ถูกติดตั้งด้วย `src/cli.py install` และ `build.py --umd --install` เช่นเดียวกัน
+
 องค์ความรู้สำหรับนำเทคนิคไปใช้กับเกมอื่น: [คู่มือม็อดฟอนต์ไทยสำหรับเกมเก่า](docs/THAI_FONT_MODDING.md)
 ครอบคลุมการตรวจ encoding/ฟอนต์ที่โหลดจริง, offline shaping, PUA, atlas, metrics และการทดสอบ
 

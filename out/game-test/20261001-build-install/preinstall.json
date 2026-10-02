@@ -1,0 +1,33 @@
+{
+  "game_dir": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Splintercell Chaos Theory",
+  "captured_local": "2026-10-01T21:06:50.783140",
+  "umd_sha256": "f42c884dcef45fea70489c213e31fd1176c3d84ce27265da6cd718a8414005af",
+  "executable_sha256": "54df25b238356024248085ca7fa6af9005b0be4ec40beef3c32faa8c06b6d4e5",
+  "loose_files": [
+    {
+      "path": "Data/Textures/Font/titre_bold_integration.pcx",
+      "size": 28095,
+      "sha256": "0c2f91d935ba07e5b2a4c01d21956f76c840bd59354bda22de09a03f2f6be31e"
+    },
+    {
+      "path": "Data/Textures/Font/titre_regular_integration.pcx",
+      "size": 28030,
+      "sha256": "9d426f193e77b7a24677b91373950c56e954fb60576ff36b668771250df441a2"
+    },
+    {
+      "path": "Data/Textures/Font/txt_hud.pcx",
+      "size": 15936,
+      "sha256": "e19e71042e40c9e315d6e37e693babb7dd9218a4ae6c6f89533cae47033f5956"
+    },
+    {
+      "path": "Data/Textures/Font/txt_integration.pcx",
+      "size": 21790,
+      "sha256": "59fa75c8995e03bd5bf0190c15fb7b701726be0ca1d6da5cd5f49740d99e4d51"
+    },
+    {
+      "path": "Data/Textures/Font/txt_mission.pcx",
+      "size": 34558,
+      "sha256": "100cca79196a1d3a437afe997b2648aa4b77c15020abf5eee314661c07921bea"
+    }
+  ]
+}
