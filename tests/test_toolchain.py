@@ -4,6 +4,7 @@ from __future__ import annotations
 import io
 import json
 import os
+import re
 import sys
 import unittest
 from pathlib import Path
@@ -288,7 +289,15 @@ class TestTranslationsJSON(unittest.TestCase):
                         continue
                     file_count += 1
                     th = v.get("th", "")
-                    self.assertTrue(th.strip(), f"Missing Thai translation in {fname} [{sec}] {k}")
+                    en = v.get("en", "") or ""
+                    if en.strip():
+                        self.assertTrue(th.strip(), f"Missing Thai translation in {fname} [{sec}] {k}")
+                    else:
+                        # Blank English templates must stay blank (docs/TRANSLATION_PLAN.md 5).
+                        self.assertEqual(
+                            th, en,
+                            f"Blank English template must stay blank in {fname} [{sec}] {k}: {th!r}",
+                        )
                     for fc in ["“", "”", "‘", "’"]:
                         self.assertNotIn(fc, th, f"Curly quote found in {fname} [{sec}] {k}: {th}")
                     raw_bytes = th.encode("cp874")
@@ -353,7 +362,15 @@ class TestTranslationsJSON(unittest.TestCase):
                         continue
                     file_count += 1
                     th = v.get("th", "")
-                    self.assertTrue(th.strip(), f"Missing Thai translation in {fname} [{sec}] {k}")
+                    en = v.get("en", "") or ""
+                    if en.strip():
+                        self.assertTrue(th.strip(), f"Missing Thai translation in {fname} [{sec}] {k}")
+                    else:
+                        # Blank English templates must stay blank (docs/TRANSLATION_PLAN.md 5).
+                        self.assertEqual(
+                            th, en,
+                            f"Blank English template must stay blank in {fname} [{sec}] {k}: {th!r}",
+                        )
                     for fc in ["“", "”", "‘", "’"]:
                         self.assertNotIn(fc, th, f"Curly quote found in {fname} [{sec}] {k}: {th}")
                     raw_bytes = th.encode("cp874")
@@ -380,10 +397,10 @@ class TestTranslationsJSON(unittest.TestCase):
         self.assertEqual(t01["GENERAL"]["MapName"]["th"], "ประภาคาร")
         self.assertEqual(t01["P_01_Lighthouse_Objectives"]["Objective_0024"]["th"], "ช่วยชีวิตมอร์เกนโฮลต์")
         self.assertEqual(t01["P_01_Lighthouse_Communications"]["Speech_0025L"]["th"], "ฟิชเชอร์ - ตายสนิทยิ่งกว่าเอลวิสอีก")
-        self.assertEqual(t01["P_01_Lighthouse_IntThunder"]["Speech_0001L"]["th"], "ฟิชเชอร์: จ๊ะเอ๋")
+        self.assertEqual(t01["P_01_Lighthouse_IntThunder"]["Speech_0001L"]["th"], "ฟิชเชอร์: ตุ๊!")
         self.assertIn("ลิง", t01["P_01_Lighthouse_IntCaveGuard"]["Speech_0003L"]["th"])
         self.assertEqual(t01["P_01_Lighthouse_CnvMariaNarcissa"]["Speech_0016L"]["th"], "วิทยุ: รับทราบ มาเรีย นาร์ซิสซา จบการติดต่อ")
-        self.assertIn("พวกบ้าเลือด", t01["P_01_Lighthouse_CnvWeather"]["Speech_0010L"]["th"])
+        self.assertIn("พวกฆ่าคนเป็นผักเป็นปลา", t01["P_01_Lighthouse_CnvWeather"]["Speech_0010L"]["th"])
         self.assertNotIn("คนชำแหละเนื้อสัตว์", t01["P_01_Lighthouse_CnvWeather"]["Speech_0010L"]["th"])
 
     def test_story_02_cargoship_translations_complete_and_cp874(self):
@@ -415,12 +432,12 @@ class TestTranslationsJSON(unittest.TestCase):
         t02 = data["sections"]
         self.assertEqual(t02["GENERAL"]["MapName"]["th"], "เรือสินค้า")
         self.assertIn("ฮูโก ลาแซร์ดา", t02["GENERAL"]["Briefing_LAMBERT"]["th"])
-        self.assertIn("Fifth Freedom", t02["GENERAL"]["Briefing_LAMBERT"]["th"])
+        self.assertIn("สิทธิเสรีภาพขั้นที่ 5", t02["GENERAL"]["Briefing_LAMBERT"]["th"])
         self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0018"]["th"], "กำจัด ฮูโก ลาแซร์ดา")
-        self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0001"]["th"], "เก็บกู้ใบตราส่งสินค้าสำหรับการขนส่งอาวุธของลาแซร์ดา")
+        self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0001"]["th"], "เก็บใบตราส่งสินค้าสำหรับการขนส่งอาวุธของลาแซร์ดา")
         self.assertEqual(t02["P_02_CargoShip_LambertComms"]["Speech_0012L"]["th"], "ฟิชเชอร์ - อย่าบอกนะว่า... สัญญาณเตือนภัยดังสามครั้งแล้วภารกิจล้มเหลว?")
         self.assertEqual(t02["P_02_CargoShip_LambertComms"]["Speech_0084L"]["th"], "ฟิชเชอร์ - ผมลืมเอาช่อดอกไม้ติดอกมาด้วยสิ")
-        self.assertEqual(t02["P_02_CargoShip_InterogMShopSailor"]["Speech_0001L"]["th"], "ฟิชเชอร์ - จ๊ะเอ๋")
+        self.assertEqual(t02["P_02_CargoShip_InterogMShopSailor"]["Speech_0001L"]["th"], "ฟิชเชอร์ - ตุ๊!")
         self.assertEqual(t02["P_02_CargoShip_InterogOfficeSoldier"]["Speech_0003L"]["th"], "ฟิชเชอร์ - ฉันมีมีด... นายตอบก่อน")
         self.assertEqual(t02["P_02_CargoShip_AlarmManager"]["POPUPMESSAGE_0001"]["th"], "ระดับสัญญาณเตือนภัยขั้นที่หนึ่ง")
         self.assertEqual(t02["Email"]["EmailLacerdaFrom"]["th"], "ฮูโก ลาแซร์ดา ")
@@ -471,7 +488,7 @@ class TestTranslationsJSON(unittest.TestCase):
             t["P_02_Seoulthree_goals_activ"]["POPUPMESSAGE_0042"]["th"],
             t["P_02_Seoulthree_goals_activ"]["Objective_0001"]["th"],
         )
-        self.assertIn("ร้านอินเทอร์เน็ตคาเฟ่", t["P_02_Seoulthree_goals_activ"]["Objective_0018"]["th"])
+        self.assertIn("ร้านอินเทอร์เน็ต", t["P_02_Seoulthree_goals_activ"]["Objective_0018"]["th"])
         self.assertIn("ชุนมา", t["P_02_Seoulthree_goals_activ"]["Objective_0006"]["th"])
         self.assertIn("7649", t["P_02_Seoulthree_goals_activ"]["Note_0012L"]["th"])
         self.assertIn("NKA", t["P_02_Seoulthree_Lambertcomms"]["Speech_0012L"]["th"])
@@ -581,6 +598,70 @@ class TestTranslationsJSON(unittest.TestCase):
             loading = json.load(f)["sections"]["01_panama"]["Overview"]["th"]
         self.assertEqual(t["P_01_Panama_Communications"]["Speech_0028L"]["th"], loading)
         self.assertEqual(t["P_01_Panama_MeetingRoom"]["Note_0004L"]["th"], loading)
+
+    def test_speaker_labels_mirror_english(self):
+        """Every story `th` must carry a speaker label iff its `en` does (docs/GLOSSARY.md 1)."""
+        en_label = re.compile(r"^\s*-?\s*([A-Za-z][A-Za-z0-9_'\.]*(?:[ ][A-Za-z][A-Za-z0-9_'\.]*){0,3})\s*[-:]\s+")
+        th_label = re.compile(r"^\s*([ก-๛][ก-๛\.\sA-Za-z0-9]{1,40}?)\s*[-:]\s+")
+        # English labels the regex cannot see (separator with no following space);
+        # their Thai labels are verified correct by review.
+        blind = {
+            ("02_CargoShip.json", "P_02_CargoShip_InterogateCaptain", "Speech_0006L"),
+            ("09_SeoulTwo.json", "P_09_SeoulTwo_Bombdrop", "Speech_0001L"),
+            ("11_KokuboSosho.json", "P_11_KokuboSosho_InterroISDF", "Speech_0018L"),
+        }
+        drift = []
+        for path in sorted((PROJECT_ROOT / "data" / "translations" / "story").glob("*.json")):
+            data = json.loads(path.read_text(encoding="utf-8"))
+            for sec, sd in data["sections"].items():
+                for k, v in sd.items():
+                    if k.startswith("_"):
+                        continue
+                    en = v.get("en", "") or ""
+                    th = v.get("th", "") or ""
+                    if not en.strip() or not th.strip() or (path.name, sec, k) in blind:
+                        continue
+                    latin_kept = th.lstrip().lower().startswith(en.split()[0].rstrip("-:").lower())
+                    if bool(en_label.match(en)) != bool(th_label.match(th)) and not latin_kept:
+                        drift.append(f"{path.name}::{sec}::{k} EN={en[:40]!r} TH={th[:40]!r}")
+        self.assertEqual(drift, [], f"speaker label drift: {drift[:5]}")
+
+    def test_verified_high_severity_fixes_remain(self):
+        """Regression lock for the defects confirmed in out/translation-review/REVIEW.md 3."""
+        cases = [
+            ("story/03_Bank.json", "P_03_Bank_AlarmCheck", "POPUPMESSAGE_0001", "ศัตรูหยุดปฏิบัติการ"),
+            ("story/11_KokuboSosho.json", "P_11_KokuboSosho_AlarmCheck", "POPUPMESSAGE_0003", "ศัตรูหยุดปฏิบัติการ"),
+            ("story/01_Lighthouse.json", "P_01_Lighthouse_CnvNoLacerda", "Speech_0002L", "ใช่ พวกนั้นออกไป"),
+            ("story/05_Displace01.json", "P_05_Displace01_SecurityEvents", "Speech_0022L", "ฉันจะจัดการแกเอง"),
+            ("story/02_Seoulthree.json", "P_02_Seoulthree_goals_activ", "Objective_0010", "ใช้การไม่ได้"),
+            ("story/09_SeoulTwo.json", "P_09_SeoulTwo_Fin", "Objective_0002", "ทอนกำลังเกาหลีเหนือ"),
+            ("story/07_Battery.json", "Email", "EmailMunitionsBody", "ไม่มีอาวุธที่ยิงกระสุนแบบนั้น"),
+            ("story/07_Battery.json", "P_07_Battery_Communications", "Speech_0185L", "พันจ่าพก"),
+            ("story/08_SeoulOne.json", "P_08_SeoulOne_Interro_Elite", "Speech_0135L", "ทหารสารวัตร"),
+            ("story/05_Displace01.json", "P_05_Displace01_RDEvents", "Speech_0021L", "เขาออกจากเมืองไปแล้ว"),
+            ("story/05_Displace01.json", "P_05_Displace01_InterroRDLounge", "Speech_0010L", "40 มม."),
+            ("story/06_Hokkaido.json", "P_06_Hokkaido_Communications", "Speech_0067L", "ช่างตัดผมแห่งบอสเนีย"),
+            ("story/06_Hokkaido.json", "P_06_Hokkaido_CommSummaries", "Speech_0026L", "หลักฐานท่วมท้น"),
+            ("story/09_SeoulTwo.json", "P_09_SeoulTwo_interog_chung", "Speech_0001L", "รถเสียข้างทาง"),
+            ("story/00_Training_COOP.json", "P_00_Training_Coop_Popups", "POPUPMESSAGE_0013", "พุ่งชนศัตรู"),
+            ("story/00_Training.json", "P_00_Training_CnvOff_Falko", "Speech_0002L", "ผู้ที่ได้รับอนุญาต"),
+            ("story/00_Training.json", "P_00_Training_CnvOff_Hantz", "Speech_0022L", "กระแสลมร้อน"),
+            ("story/10_BathHouse.json", "P_10_Bathhouse_Communications", "Speech_0062L", "โค้ดเรียกซ้ำไม่รู้จบ"),
+            ("story/10_BathHouse.json", "P_10_Bathhouse_Communications", "Speech_0122L", "คอมพิวเตอร์ของเจ้าของ"),
+            ("story/10_BathHouse.json", "P_10_Bathhouse_InterroPrivateBath02", "Speech_0007L", "เหล็กแทงไม่เข้า"),
+            ("story/11_KokuboSosho.json", "P_11_KokuboSosho_Communications", "Speech_0190L", "ขีปนาวุธของเกาหลีเหนือ"),
+            ("story/11_KokuboSosho.json", "P_11_KokuboSosho_Communications", "Speech_0154L", "มีแต่ช่วยได้ทั้งนั้น"),
+            ("story/11_KokuboSosho.json", "P_11_KokuboSosho_Communications", "Speech_0117L", "ครึ่งๆ กลางๆ"),
+        ]
+        for rel, sec, key, needle in cases:
+            data = json.loads((PROJECT_ROOT / "data" / "translations" / rel).read_text(encoding="utf-8"))
+            th = data["sections"][sec][key]["th"]
+            self.assertIn(needle, th, f"{rel}::{sec}::{key} regressed: {th[:60]!r}")
+        # the two duplicated-text defects must stay distinct from their twins
+        bath = json.loads((PROJECT_ROOT / "data" / "translations" / "story" / "10_BathHouse.json").read_text(encoding="utf-8"))["sections"]["P_10_Bathhouse_Communications"]
+        self.assertNotEqual(bath["Speech_0062L"]["th"], bath["Speech_0127L"]["th"])
+        self.assertNotEqual(bath["Speech_0122L"]["th"], bath["Speech_0121L"]["th"])
+        self.assertNotEqual(bath["Speech_0009L"]["th"], bath["Speech_0011L"]["th"])
 
 
 class TestCompiler(unittest.TestCase):
