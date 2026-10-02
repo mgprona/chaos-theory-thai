@@ -1,0 +1,80 @@
+# rev-06 — Thai localization QA: `06_Hokkaido.json` + `07_Battery.json`
+
+Reviewer: Thai localization QA (script-driven). Date: 2026-10-02.
+Method: dumped all `(section, key, en, th)` triples for both files (420 + 601 non-empty `th` strings) and read **1,021/1,021 strings** end-to-end (superset of the required sample: all `en` > 180 chars, all `Objective_*` / `Email*` / `Briefing_*` keys, every 3rd remaining line — plus 100% of the remainder). `fr/de/es/it` consulted as second opinions. Cross-file repeated-string and length-ratio checks run mechanically. No file under `data/`, `src/` or `tools/` was modified; scratch scripts are in `out/translation-review/scratch/`.
+
+## Verdict — `06_Hokkaido.json`: **8/10**
+
+Dense, well-punctuated localization: all landmark terminology (Fisher/แซม/แลมเบิร์ต/กริมส์ดอตเตียร์/เชตแลนด์/เนดิช/เซอร์เคซี/โอโตโม/เธิร์ดเอเชลอน) is locked and every repeated radio command is byte-identical across the file. The defects are sparse and mostly cosmetic (one untranslated English word, one nickname mistranslated in a way that breaks a following joke), so it is shippable after ~4 small line edits.
+
+## Verdict — `07_Battery.json`: **7/10**
+
+Largest file and it holds up structurally, but it contains three real comprehension defects (an inverted statement, a military rank rendered as a staff job, and "stand down" rendered as literal "stand and lower weapons") plus a cluster of calque/typo issues. None are systemic, but the rank and "standing down" errors are player-visible in objectives/HUD text and should be fixed before release.
+
+Format of the tables: quotes are truncated to the salient fragment; `section::key` omits the `P_06_Hokkaido_` / `P_07_Battery_` prefix.
+
+## Findings — `06_Hokkaido.json`
+
+| sev | type | section::key | EN (<=90) | TH (<=90) | problem + suggested Thai fix |
+|---|---|---|---|---|---|
+| High | LEFT-ENGLISH | CommSummaries::Speech_0026L | "in face of the overwhelming evidence now coming in from various sources" | "ต่อหน้าหลักฐาน overwhelming ที่กำลังไหลเข้ามาจากหลายแหล่งทั่วโลก" | English word left inline mid-sentence; also loses "overwhelming". → "ต่อหน้าหลักฐานท่วมท้นที่กำลังไหลเข้ามาจากหลายแหล่งทั่วโลก" |
+| High | MISTRANSLATION | Communications::Speech_0067L | "He's known as the Barber of Bosnia because he allegedly scalped…" | "เขาถูกเรียกว่าเพชฌฆาตแห่งบอสเนีย เพราะมีข้อกล่าวหาว่าเขาถลกหนังศีรษะ…" | "Barber" rendered เพชฌฆาต (= executioner), which destroys the barber wordplay Fisher answers with one line earlier; same error at Speech_0065L ("the Bosnian Barber"). → "ช่างตัดผมแห่งบอสเนีย" / "บาร์เบอร์แห่งบอสเนีย" |
+| Medium | MISTRANSLATION | Communications::Speech_0068L | "he won't be making an appearance in The Hague anytime soon…" | "อีกไม่นานเขาคงไม่ได้ไปโผล่ที่กรุงเฮก…" | Thai reads "soon he will not show up", the opposite time sense; intent is "he will never stand trial". → "คงอีกนานกว่าเขาจะได้ไปขึ้นศาลที่กรุงเฮก" |
+| Medium | LEFT-ENGLISH | InterroNinjaTraps::Speech_0021L | "If you have to kill me, do it with your blow-pipe." | "ถ้าต้องฆ่าฉัน ก็ใช้ blow-pipe ของคุณฆ่าเถอะ" | Term left untranslated. → "ก็ใช้กระบอกเป่าลูกดอกของคุณฆ่าเถอะ" |
+| Medium | MISTRANSLATION | MeetingPalace::Speech_0032L | "good one…" | "ดีเหมือนกัน…" | Reply to a gag; "ดีเหมือนกัน" means "that's good too", not "nice one". → "มุกดีนี่…" |
+| Medium | UNNATURAL | AlarmComms::Speech_0004L | "Discretion is the better part of valor, Fisher…" | "ความรอบคอบเป็นส่วนที่ดีกว่าของความกล้าหาญ ฟิชเชอร์…" | Literal calque of "better part"; the Thai proverb form is "ส่วนหนึ่ง". → "ความรอบคอบเป็นส่วนหนึ่งของความกล้าหาญ" (identical at Communications::Speech_0104L) |
+| Medium | UNNATURAL | SRC::Speech_0009L | "they want farm hands from central Texas doing that crap…" | "พวกเขาอยากให้เด็กไร่จากเท็กซัสกลางมาทำเรื่องไร้สาระพวกนั้น" | "เด็กไร่" is not idiomatic for farm hands and "เท็กซัสกลาง" is un-Thai word order. → "กรรมกรไร่จากตอนกลางของเท็กซัส" |
+| Medium | UNNATURAL | MeetingMumblings::Speech_0004L | "…an agreement we can live with…" | "…ข้อตกลงที่เราอยู่ด้วยได้…" | Wrong collocation ("อยู่ด้วย" = be with someone). → "ข้อตกลงที่เราพอรับได้" |
+| Medium | UNNATURAL | SRC::Speech_0005L | "There's money to be made my friend!" | "มีเงินให้ทำนะเพื่อน!" | "มีเงินให้ทำ" is not sayable Thai. → "มีเงินให้หาได้นะเพื่อน!" |
+| Low | UNNATURAL | SRC::Speech_0013L | "they called it 'cause of the blackout." | "พวกเขาเรียกเลิกเพราะไฟดับ" | "เรียกเลิก" is missing its object. → "พวกเขาเรียกเกมจบเพราะไฟดับ" |
+| Low | GRAMMAR | SRC::Speech_0014L | "It was in the eighth inning, the game was over…" | "มันอยู่อินนิ่งที่แปด เกมจบแล้ว…" | Missing preposition "ใน". → "มันอยู่ในอินนิ่งที่แปด…" |
+| Low | LEFT-ENGLISH | JeepChat::Speech_0006L | "Windshield projected infrared night vision heads-up" | "จออินฟราเรดมองกลางคืนฉายบนกระจกหน้าแบบ heads-up" | Jargon left in English. → "แบบแสดงผลบนกระจกหน้า (HUD)" |
+| Low | LEFT-ENGLISH | Objectives::Objective_0021 | "Locate and recover them to maintain OPSEC." | "ค้นหาและเก็บกู้เพื่อรักษา OPSEC" | Acronym kept with no gloss. → "เพื่อรักษาความปลอดภัยในการปฏิบัติการ (OPSEC)" |
+| Low | TONE | InterroTeahouse::Speech_0006L | "Hey… save the guilt trip tough guy…" | "เฮ้… เก็บคำเทศนาเรื่องความผิดไว้เถอะ ไอ้พวกเก่ง" | Singular insult rendered with plural "พวก". → "ไอ้ตัวเก่ง" |
+| Low | UNNATURAL | InterroAppleBlossom::Speech_0009L | "That's very informative… but do you know anything useful?" | "ให้ข้อมูลดีมาก… แต่คุณรู้อะไรที่มีประโยชน์บ้างไหม?" | Subjectless fragment. → "ให้ข้อมูลที่มีประโยชน์ดีนะ… แต่คุณรู้อะไรที่ใช้ได้บ้างไหม?" |
+| Low | UNNATURAL | JeepChat::Speech_0001L | "Five speed, 240 horse power automatic transmission." | "เกียร์ห้าสปีด เกียร์อัตโนมัติ 240 แรงม้า" | "เกียร์" repeated. → "เกียร์ห้าสปีด อัตโนมัติ 240 แรงม้า" |
+| Low | GRAMMAR | ShetlandGuards::POPUPMESSAGE_0001 | "Eliminate Milan Nedich." | "กำจัดมิลาน เนดิช." | Trailing full stop, while the byte-identical EN at Objectives::POPUMMESSAGE_0029 / MeetingPalace::POPUMMESSAGE_0043 has none; Thai does not use "." → unify (drop the ".") |
+
+## Findings — `07_Battery.json`
+
+| sev | type | section::key | EN (<=90) | TH (<=90) | problem + suggested Thai fix |
+|---|---|---|---|---|---|
+| High | MISTRANSLATION | Email::EmailMunitionsBody | "…we have no weapons that fire it. What are we going to do with it?" | "…เรามีปืนที่ยิงกระสุนแบบนั้นไหมล่ะ? เราจะเอามันไปทำอะไร?" | A flat negative statement was turned into a question, inverting the meaning of the whole email. → "เราไม่มีอาวุธที่ยิงมันได้เลย เราจะเอามันไปทำอะไรดี" |
+| High | TERM | Communications::Speech_0185L | "…without approval from Warrant Officer Pok." | "…หากไม่ได้รับอนุมัติจากเจ้าหน้าที่ฝ่ายยุทธการพก" | Military rank "Warrant Officer" mistranslated as a staff appointment (operations officer). → "พันจ่าพก" |
+| High | MISTRANSLATION | CommunicationsAlert::POPUPMESSAGE_0027 | "Alarm Stage Reduced - Enemies Standing Down" | "ระดับสัญญาณเตือนภัยลดลง - ศัตรูยืนลดอาวุธ" | "stand down" parsed as literal "stand" + "lower weapons" → nonsense Thai that players read as "enemies are standing and lowering weapons". Also at POPUPMESSAGE_0025 and _0026. → "ศัตรูหยุดปฏิบัติการ" / "ศัตรูเลิกล่า" |
+| Medium | GRAMMAR | Communications::Speech_0182L | "Corporal Dak-po report to Receiving." | "สิบโทดักโพ รายงานตัวที่ฝ่ายรับของ" | "รับของ" was split, leaving an orphaned "ของ"; also renders a department as "ฝ่าย". → "รายงานตัวที่แผนกรับของ" |
+| Medium | GRAMMAR | Briefings::Speech_0003L | "…infiltrate via the vehicle entrance." | "…แทรกซึมทางทางเข้ายานพาหนะ" | Doubled "ทาง" (via + entrance). → "แทรกซึมทางประตูยานพาหนะ" |
+| Medium | GRAMMAR/TYPO | Communications::Speech_0105L | "See if you can get the logs from the other three." | "ลองเอบันทึกจากอีกสามฝ่ายให้ได้" | Typo: "เอ" for "เอา". → "ลองเอาบันทึกจากอีกสามฝ่ายให้ได้" |
+| Medium | TERM | Communications::Speech_0005L | "…NKA divisional strength down the Kaesong-Munsan approach." | "…กำลังระดับกองพลของ NKA ตามแนวทางแคซอง-มุนซัน" | "approach" here is an axis of advance, not "แนวทาง" (= guideline/method). Same at Speech_0122L, InteroColonel::Speech_0008L, Objectives::Objective_0025. → "ตามเส้นทางแคซอง-มุนซัน" / "ตามแนวรุกแคซอง-มุนซัน" |
+| Medium | TERM | Communications::POPUPMESSAGE_0245 | "Determine if the Koreans intentionally launched the missile." | "ตัดสินว่าพวกเกาหลีตั้งใจยิงขีปนาวุธหรือไม่." | "ตัดสิน" = adjudicate/decide; "determine (a fact)" = พิจารณา/หาข้อสรุป. Also Objectives::Objective_0001, PopUps::POPUPMESSAGE_0001, Objectives::Objective_0025. → "พิจารณาว่าพวกเกาหลีตั้งใจยิงขีปนาวุธหรือไม่" |
+| Medium | MISTRANSLATION | InteroDorm_01::Speech_0011L | "I am practical. Not cowardly." | "ผมเป็นคนปฏิบัติได้จริง ไม่ใช่ขี้ขลาด" | Reads as "I am someone who can actually do things"; the line means "I face facts". → "ผมเป็นคนมองตามจริง ไม่ใช่ขี้ขลาด" |
+| Medium | MEANING LOSS | InteroCmdCenter_01::Speech_0009L | "Boy… you're worse than a jar head." | "ให้ตาย… คุณยิ่งกว่าไอ้พวกหัวสมองกลวงอีก" | "jarhead" = US Marine was dropped, so the payoff line Speech_0010L ("Do not compare me to a cowardly American marine!") has no setup. → "คุณยิ่งกว่าไอ้พวกนาวิกโยธินหัวทึบอีก" |
+| Medium | TERM | Objectives::Objective_0027 | "…will give Echelon's Analysts a better picture of NKA capabilities…" | "…จะทำให้นักวิเคราะห์ของอีเชลอนเห็นภาพขีดความสามารถของ NKA…" | Org name diverges from the locked glossary (เธิร์ดเอเชลอน); "อีเชลอน" also collides with the common noun "echelon". → "นักวิเคราะห์ของเธิร์ดเอเชลอน" |
+| Medium | TERM | Communications::Speech_0099L | "I'd love to have a few chips at the big table." | "ฉันก็อยากมีเบี้ยในโต๊ะใหญ่อยู่บ้าง" | "chips" (poker stake) rendered "เบี้ย" (pawn) — wrong metaphor. → "ฉันก็อยากมีชิปอยู่ในเกมใหญ่บ้าง" |
+| Medium | MEANING LOSS | Communications::Speech_0054L | "That technician could have answered some important questions…" | "ช่างเทคนิคคนนั้นตอบคำถามสำคัญได้" | Counterfactual "could have" (a chance now lost) is dropped, turning it into a plain capability statement. → "ช่างเทคนิคคนนั้นน่าจะตอบคำถามสำคัญได้" |
+| Medium | GRAMMAR | Email::EmailBloodyBody | "…had it installed in the missile bay control room in case you need it." | "…และติดตั้งไว้ในห้องควบคุมห้องขีปนาวุธ เผื่อคุณต้องใช้" | Doubled "ห้อง" makes it "the control room of the control room". Same string at InteractiveObjects::Note_0002L. → "ห้องควบคุมในห้องเก็บขีปนาวุธ" |
+| Medium | UNNATURAL | Communications::Speech_0114L | "I think hitchhiking is illegal in North Korea." | "ฉันว่านั่งรถโบกรถผิดกฎหมายในเกาหลีเหนือนะ" | Redundant compound ("นั่งรถ" + "โบกรถ"). → "ฉันว่าโบกรถผิดกฎหมายในเกาหลีเหนือนะ" |
+| Low | TERM | ConvoBatteryEast::Speech_0001L | "Bearing 2-1-8. Range. 1-1-2-0 kilometers." | "แบริ่ง 2-1-8 ระยะ 1-1-2-0 กิโลเมตร" | "แบริ่ง" primarily reads as a mechanical ball bearing; the fire-control reports recur 20+ times. → "มุมทิศ 2-1-8" (or "แบริง") |
+| Low | MEANING | Communications::Speech_0022L | "…they're coming across the DMZ all along the thirty-eighth…" | "…พวกเขากำลังข้าม DMZ ตลอดแนวเส้นที่สามสิบแปด…" | The 38th parallel has no idiomatic rendering here. Same at Speech_0260L. → "ตลอดแนวเส้นขนานที่ 38" |
+| Low | TONE | Communications::Speech_0183L | "We are the fierce and loyal siblings of a great and indefatigable nation." | "เราเป็นพี่น้องที่ดุร้ายและภักดีของชาติที่ยิ่งใหญ่และไม่ย่อท้อ" | "ดุร้าย" is pejorative (vicious); the propaganda register needs "ห้าวหาญ". → "เราเป็นพี่น้องที่ห้าวหาญและภักดี…" |
+| Low | NAME | GPlayCmdCenter::Speech_0005L | "SHEN - Sir! Yes Sir!" | "เฉิน - ครับท่าน! ครับท่าน!" | Two different characters, SHEN (here) and CHEN (InteroDorm_01, Email::EmailBloodyFrom), both render as เฉิน. → render SHEN as "เสิน" |
+| Low | UNNATURAL | Communications::Speech_0011L | "…but I hope their life insurance policies are up to date." | "…แต่ฉันหวังว่าเบี้ยประกันชีวิตของพวกเขาจะอัปเดตแล้ว" | "อัปเดต" is an English loan for a policy being current. → "…ยังต่ออายุไว้ไม่ขาดตอน" |
+| Low | UNNATURAL | InteroGarage::Speech_0005L | "Alright… well thanks for your time then." | "เอาล่ะ… งั้นก็ขอบคุณสำหรับเวลา" | Calque of "thanks for your time". Same pattern at InteroMissileBay::Speech_0010L ("ขอบใจสำหรับเบาะแส"). → "งั้นก็ขอบคุณที่สละเวลา" / "ขอบใจที่บอก" |
+| Low | TERM | InteroWarehouse_01::Speech_0003L | "Yeah, yeah, shock and awe… just answer the question…" | "ใช่ ใช่ ตกใจสะพรึงกลัว… แค่ตอบคำถาม…" | Named doctrine translated word-for-word, so the topical reference disappears. → "ใช่ ใช่ ช็อกแอนด์ออ…" |
+| Low | GRAMMAR | Communications::Speech_0118L | "Give our boys a hand, and they'll give you wood." | "ช่วยทหารของเรา แล้วพวกเขาจะให้ไม้คุณ" | Missing "กับ" before the recipient. → "แล้วพวกเขาจะให้ไม้กับคุณ" |
+| Low | LEFT-ENGLISH | Briefings::Speech_0005L | "OTOMO - Japanese I-SDF has been instrumental in determining…" | "หน่วย I-SDF ของญี่ปุ่นมีบทบาทสำคัญในการยืนยัน…" | Speaker tag "โอโตโม - " is kept in GENERAL::Briefing_OTOMO for the byte-identical EN but dropped here (same for "MASON - " vs GENERAL::Briefing_MASSON at Speech_0004L). → restore "โอโตโม - " |
+| Low | TERM | Objectives::Objective_0024 | "Prime a missile in each of the missile bays." | "ติดตั้งหัวรบให้ขีปนาวุธในแต่ละห้องขีปนาวุธ" | "Prime" = bring a missile to ready state, not "install the warhead". → "เตรียมขีปนาวุธให้พร้อมยิงในแต่ละห้องขีปนาวุธ" |
+
+## Cross-file checks (special requests)
+
+- **Repeated radio commands — PASS.** Every duplicated English line in these two files has exactly one Thai rendering, verified mechanically over both files (`out/translation-review/scratch/consistency_0607.txt`). "Alarm Stage One/Two/Three/Four – Full Alert" (10 occurrences), the Lambert base-alert and extraction briefings (5), "War has broken out along the DMZ." (3), "Stop the missile launch." (3), "Determine if the Koreans intentionally launched the missile." (3), "Abort the missile." (3), "Tap the launcher BIOS…" (6) and the `Exfiltrate to …extraction point` lines are all byte-identical. The only two divergences in the whole pair are listed above (trailing "." on `Eliminate Milan Nedich.`; dropped `โอโตโม - ` tag).
+- **Japanese terms — PASS.** In 06, `shoin` = โชอิน (consistent at Speech_0004/0005/0010 of InterroAppleBlossom and InterroMiddleShoin), `Muromachi` = มุโรมาจิ, `zanshin` = ซันชิน, `tetsu-bishi` = เท็ตสึบิชิ, `nightingale floor` = พื้นนกไนติงเกล; speakers เอ/บี/ซี… and names ซึง/เวน/เฟิง/โฮ/บง/เฉิน are internally consistent.
+- **Korean names — PASS (one collision).** `Jong Pom-chu` / `Jong` do not occur in these two files (they belong to 02/03/08/09); the Korean cast here (กวาน, ฮวาน, จุง โบ-ควาน, ยง, ซึง, เวน, ชิน, มันชู, บง, เฟิง, โฮ) is consistent, and `Jung Bo-Kwan` keeps "Kwan" aligned with the colonel ควาน. The single issue is SHEN/CHEN → เฉิน (table above).
+- **Military ranks — one High defect.** US/NK ranks are otherwise correct and consistently applied (สิบโท, พลทหาร, ทหารราบ, นาวิกโยธิน, กองพล for division, กองร้อย for company, หมวด for platoon, พลเรือเอก). The only failure is `Warrant Officer` → "เจ้าหน้าที่ฝ่ายยุทธการ" (table above).
+- **SUBTITLE-LENGTH — no defects.** Longest Thai/English character ratio for any line > 60 EN chars is 1.16 (`06::CommSummaries::Speech_0018L`, 144 vs 124), and Thai carries no inter-word spaces, so no overflow risk was found in either file.
+
+## Three highest-impact fixes
+
+1. **`07_Battery::Email::EmailMunitionsBody`** — the negative statement "we have no weapons that fire it" became a question ("do we have guns that fire it?"), reversing the meaning of an in-game email a player can read directly. Fix: "เราไม่มีอาวุธที่ยิงมันได้เลย".
+2. **`07_Battery::Communications::Speech_0185L`** — "Warrant Officer Pok" rendered as "เจ้าหน้าที่ฝ่ายยุทธการพก" (operations officer): a rank turned into a job, in a base-announcement string the player hears repeatedly. Fix: "พันจ่าพก".
+3. **`06_Hokkaido::Communications::Speech_0067L` (+Speech_0065L)** — "the Barber of Bosnia" rendered "เพชฌฆาตแห่งบอสเนีย" (executioner), which breaks the barber-shop joke Fisher immediately answers with; a named antagonist alias is also mis-stated. Fix: "ช่างตัดผมแห่งบอสเนีย".

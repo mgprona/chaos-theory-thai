@@ -1,0 +1,3291 @@
+{
+  "total_entries": 8537,
+  "translated_nonempty": 8470,
+  "identical_en_th": [
+    [
+      "data/translations/opsat/d3ddrv.json::Public::Object",
+      "(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)"
+    ],
+    [
+      "data/translations/opsat/d3ddrv.json::Public::Preferences",
+      "(Caption=\"Rendering\",Parent=\"Advanced Options\")"
+    ],
+    [
+      "data/translations/opsat/echelon.json::Public::Object",
+      "(Name=Echelon.EchelonGameInfo,Class=Class,MetaClass=Engine.GameInfo)"
+    ],
+    [
+      "data/translations/opsat/engine.json::Public::Object",
+      "(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)"
+    ],
+    [
+      "data/translations/opsat/engine.json::Public::Preferences",
+      "(Caption=\"Advanced\",Parent=\"Advanced Options\")"
+    ],
+    [
+      "data/translations/opsat/engine.json::Progress::ConnectingURL",
+      "unreal://%s/%s"
+    ],
+    [
+      "data/translations/opsat/engine.json::General::UpgradeURL",
+      "http://www.unreal.com/upgrade"
+    ],
+    [
+      "data/translations/opsat/engine.json::ServerCommandlet::HelpCmd",
+      "server"
+    ],
+    [
+      "data/translations/opsat/engine.json::ServerCommandlet::HelpUsage",
+      "server map.unr[?game=gametype] [-option...] [parm=value]..."
+    ],
+    [
+      "data/translations/opsat/engine.json::ServerCommandlet::HelpWebLink",
+      "http://unreal.epicgames.com/servertips.htm"
+    ],
+    [
+      "data/translations/opsat/engine.json::ServerCommandlet::HelpParm[0]",
+      "Log"
+    ],
+    [
+      "data/translations/opsat/engine.json::ServerCommandlet::HelpParm[1]",
+      "AllAdmin"
+    ],
+    [
+      "data/translations/opsat/equipment.json::FN2000::Name",
+      "SC-20K"
+    ],
+    [
+      "data/translations/opsat/equipment.json::FN2000::NameShort",
+      "SC-20K"
+    ],
+    [
+      "data/translations/opsat/equipment.json::C4::NameShort",
+      "C4"
+    ],
+    [
+      "data/translations/opsat/equipment.json::UMP::NameShort",
+      "UMP"
+    ],
+    [
+      "data/translations/opsat/system.json::NAVIGATION::OpticCable_DU",
+      "EMF"
+    ],
+    [
+      "data/translations/opsat/window.json::General::BrowseButton",
+      "..."
+    ],
+    [
+      "data/translations/opsat/window.json::IDDIALOG_CrashBox::BugReportURL",
+      "http://support.ubi.com/"
+    ],
+    [
+      "data/translations/story/00_Training_COOP.json::Email::EmailShareEquipDate",
+      "06/23/07"
+    ],
+    [
+      "data/translations/story/01_Lighthouse.json::Email::EmailJimboSubject",
+      "PP"
+    ],
+    [
+      "data/translations/story/02_Seoulthree.json::Email::Emailescapedate",
+      "07/07/07"
+    ],
+    [
+      "data/translations/story/02_Seoulthree.json::Email::Emailbackdoordate",
+      "07/08/07"
+    ],
+    [
+      "data/translations/story/03_ChemBunker.json::Email::EmailVirusProtocolDate",
+      "10/12/07"
+    ],
+    [
+      "data/translations/story/03_ChemBunker.json::Email::EmailCryoTankDate",
+      "10/12/07"
+    ],
+    [
+      "data/translations/story/03_ChemBunker.json::Email::EmailWarheadDate",
+      "10/12/07"
+    ],
+    [
+      "data/translations/story/03_ChemBunker.json::Email::EmailCountingMonkeyDate",
+      "10/12/07"
+    ],
+    [
+      "data/translations/story/03_ChemBunker.json::Email::EmailCraneDate",
+      "10/12/07"
+    ],
+    [
+      "data/translations/story/03_ChemBunker.json::Email::EmailDisarmingWarheadsDate",
+      "10/12/07"
+    ],
+    [
+      "data/translations/story/04_Penthouse.json::Email::EmailTransactionDate",
+      "06/29/07"
+    ],
+    [
+      "data/translations/story/04_Penthouse.json::Email::EmailNewsDate",
+      "06/29/07"
+    ],
+    [
+      "data/translations/story/04_Penthouse.json::Email::EmailDisplaceDate",
+      "06/30/07"
+    ],
+    [
+      "data/translations/story/04_Penthouse.json::Email::EmailDvorakDate",
+      "06/30/07"
+    ],
+    [
+      "data/translations/story/05_NuclearPlant.json::Email::EmailControlRoomDate",
+      "10/10/2007"
+    ],
+    [
+      "data/translations/story/05_NuclearPlant.json::Email::EmailLabDate",
+      "08/10/2007"
+    ],
+    [
+      "data/translations/story/07_Battery.json::P_07_Battery_PopUps::POPUPMESSAGE_0007",
+      "1879"
+    ],
+    [
+      "data/translations/story/07_UNhq.json::Email::EmailJinDate",
+      "31/10/2005"
+    ],
+    [
+      "data/translations/story/07_UNhq.json::Email::EmailNewsDate",
+      "31/10/2005"
+    ],
+    [
+      "data/translations/story/09_SeoulTwo.json::P_09_SeoulTwo_NDTinterog::Speech_0009L",
+      "P3R?"
+    ],
+    [
+      "data/translations/story/10_BathHouse.json::Email::EmailMercuryFishDate",
+      "07/10/07"
+    ],
+    [
+      "data/translations/story/10_BathHouse.json::Email::EmailMeetingReservationDate",
+      "07/10/07"
+    ],
+    [
+      "data/translations/story/10_BathHouse.json::Email::EmailUSSWalshDate",
+      "07/10/07"
+    ],
+    [
+      "data/translations/story/10_BathHouse.json::Email::EmailChaosTheoryDate",
+      "07/10/07"
+    ],
+    [
+      "data/translations/ui/hud.json::Interaction::NpcZone4",
+      "..."
+    ],
+    [
+      "data/translations/ui/ingame_menus.json::COMMON::Orientation[0]",
+      "N"
+    ],
+    [
+      "data/translations/ui/ingame_menus.json::COMMON::Orientation[1]",
+      "NE"
+    ],
+    [
+      "data/translations/ui/ingame_menus.json::COMMON::Orientation[2]",
+      "E"
+    ],
+    [
+      "data/translations/ui/ingame_menus.json::COMMON::Orientation[3]",
+      "SE"
+    ],
+    [
+      "data/translations/ui/ingame_menus.json::COMMON::Orientation[4]",
+      "S"
+    ],
+    [
+      "data/translations/ui/ingame_menus.json::COMMON::Orientation[5]",
+      "SW"
+    ],
+    [
+      "data/translations/ui/ingame_menus.json::COMMON::Orientation[6]",
+      "W"
+    ],
+    [
+      "data/translations/ui/ingame_menus.json::COMMON::Orientation[7]",
+      "NW"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::OPTIONSVALUE::Skills[2]",
+      "500-700"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::OPTIONSVALUE::Skills[3]",
+      "700-1000"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::OPTIONSVALUE::Skills[4]",
+      "1000-1500"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::OPTIONSVALUE::Skills[5]",
+      "1500-2000"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::VKEYBOARD::VKBCharacters0",
+      "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::VKEYBOARD::VKBCharacters1",
+      "1234567890@=/*-+#_()!?',:.$"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::PROFILES::DefaultProfile",
+      "SAMFISHER"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::CoopCommon::PingCaption",
+      "PING"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MainMenuCoop::LanCaption",
+      "LAN"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::CDKeyMenu::Title",
+      "CD-KEY"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU54",
+      "http://www.ubi.com/Info/PrivacyPolicy.htm"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuSettings::SM 1.1",
+      "SHADER MODEL 1.1"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuSettings::SM 2.0",
+      "SHADER MODEL 2.0"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuSettings::SM 3.0",
+      "SHADER MODEL 3.0"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Keys::K_Opsat",
+      "Opsat"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Keys::CTRLOpsat",
+      "Opsat"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown05",
+      "Unknown05"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown06",
+      "Unknown06"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown07",
+      "Unknown07"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Backspace",
+      "Backspace"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Tab",
+      "Tab"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown0A",
+      "Unknown0A"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown0B",
+      "Unknown0B"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown0C",
+      "Unknown0C"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Enter",
+      "Enter"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown0E",
+      "Unknown0E"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown0F",
+      "Unknown0F"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Shift",
+      "Shift"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Alt",
+      "Alt"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Pause",
+      "Pause"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_CapsLock",
+      "CapsLock"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown15",
+      "Unknown15"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown16",
+      "Unknown16"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown17",
+      "Unknown17"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown18",
+      "Unknown18"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown19",
+      "Unknown19"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown1A",
+      "Unknown1A"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown1C",
+      "Unknown1C"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown1D",
+      "Unknown1D"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown1E",
+      "Unknown1E"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown1F",
+      "Unknown1F"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_PageUp",
+      "Page Up"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_PageDown",
+      "Page Down"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_End",
+      "End"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Home",
+      "Home"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Print",
+      "Print"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Execute",
+      "Execute"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_PrintScrn",
+      "PrintScrn"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Insert",
+      "Insert"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Delete",
+      "Delete"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Help",
+      "Help"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown3A",
+      "Unknown3A"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown3B",
+      "Unknown3B"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown3C",
+      "Unknown3C"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown3D",
+      "Unknown3D"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown3E",
+      "Unknown3E"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown3F",
+      "Unknown3F"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown40",
+      "Unknown40"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown5B",
+      "Unknown5B"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown5C",
+      "Unknown5C"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown5D",
+      "Unknown5D"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown5E",
+      "Unknown5E"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown5F",
+      "Unknown5F"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad0",
+      "KP 0"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad1",
+      "KP 1"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad2",
+      "KP 2"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad3",
+      "KP 3"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad4",
+      "KP 4"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad5",
+      "KP 5"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad6",
+      "KP 6"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad7",
+      "KP 7"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad8",
+      "KP 8"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPad9",
+      "KP 9"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_GreyStar",
+      "KP *"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_GreyPlus",
+      "KP +"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Separator",
+      "Separator"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_GreyMinus",
+      "KP -"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumPadPeriod",
+      "KP ."
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_GreySlash",
+      "KP /"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown88",
+      "Unknown88"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown89",
+      "Unknown89"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown8A",
+      "Unknown8A"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown8B",
+      "Unknown8B"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown8C",
+      "Unknown8C"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown8D",
+      "Unknown8D"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown8E",
+      "Unknown8E"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown8F",
+      "Unknown8F"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NumLock",
+      "NumLock"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_ScrollLock",
+      "ScrollLock"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown92",
+      "Unknown92"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown93",
+      "Unknown93"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown94",
+      "Unknown94"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown95",
+      "Unknown95"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown96",
+      "Unknown96"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown9B",
+      "Unknown9B"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown9C",
+      "Unknown9C"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown9D",
+      "Unknown9D"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown9E",
+      "Unknown9E"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown9F",
+      "Unknown9F"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_LShift",
+      "Left Shift"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_RShift",
+      "Right Shift"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_LControl",
+      "Left Control"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_RControl",
+      "Right Control"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownA4",
+      "UnknownA4"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownA5",
+      "UnknownA5"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownA6",
+      "UnknownA6"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownA7",
+      "UnknownA7"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownA8",
+      "UnknownA8"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownA9",
+      "UnknownA9"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownAA",
+      "UnknownAA"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownAB",
+      "UnknownAB"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownAC",
+      "UnknownAC"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownAD",
+      "UnknownAD"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB0",
+      "UnknownB0"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB1",
+      "UnknownB1"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB2",
+      "UnknownB2"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB3",
+      "UnknownB3"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB4",
+      "UnknownB4"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB5",
+      "UnknownB5"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB6",
+      "UnknownB6"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB7",
+      "UnknownB7"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB8",
+      "UnknownB8"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownB9",
+      "UnknownB9"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Semicolon",
+      ";"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Equals",
+      "="
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Comma",
+      ","
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Minus",
+      "-"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Period",
+      "."
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Slash",
+      "/"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Tilde",
+      "~"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownC1",
+      "UnknownC1"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownC2",
+      "UnknownC2"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownC3",
+      "UnknownC3"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownC4",
+      "UnknownC4"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownC5",
+      "UnknownC5"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownC6",
+      "UnknownC6"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownC7",
+      "UnknownC7"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy1",
+      "Joy 1"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy2",
+      "Joy 2"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy3",
+      "Joy 3"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy4",
+      "Joy 4"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy5",
+      "Joy 5"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy6",
+      "Joy 6"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy7",
+      "Joy 7"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy8",
+      "Joy 8"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy9",
+      "Joy 9"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy10",
+      "Joy 10"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy11",
+      "Joy 11"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy12",
+      "Joy 12"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy13",
+      "Joy 13"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy14",
+      "Joy 14"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy15",
+      "Joy 15"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Joy16",
+      "Joy 16"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownD8",
+      "UnknownD8"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownD9",
+      "UnknownD9"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownDA",
+      "UnknownDA"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_LeftBracket",
+      "{"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Backslash",
+      "\\"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_RightBracket",
+      "}"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_SingleQuote",
+      " ' "
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownDF",
+      "UnknownDF"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_JoyX",
+      "Joy X Axis"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_JoyY",
+      "Joy Y Axis"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_JoyZ",
+      "Joy Z Axis"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_JoyR",
+      "Joy R"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_MouseX",
+      "Mouse X Axis"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_MouseY",
+      "Mouse Y Axis"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_MouseZ",
+      "Mouse Z Axis"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_MouseW",
+      "Mouse W"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_JoyU",
+      "Joy U"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_JoyV",
+      "Joy V"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownEA",
+      "UnknownEA"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownEB",
+      "UnknownEB"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown10E",
+      "Unknown10E"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Unknown10F",
+      "Unknown10F"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownF0",
+      "UnknownF0"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownF1",
+      "UnknownF1"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownF2",
+      "UnknownF2"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownF3",
+      "UnknownF3"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownF4",
+      "UnknownF4"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_UnknownF5",
+      "UnknownF5"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Attn",
+      "Attn"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_CrSel",
+      "CrSel"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_ExSel",
+      "ExSel"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_ErEof",
+      "ErEof"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Play",
+      "Play"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_Zoom",
+      "Zoom"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_NoName",
+      "NoName"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_PA1",
+      "PA1"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::Interactions::IK_OEMClear",
+      "OEMClear"
+    ]
+  ],
+  "latin_heavy": [
+    [
+      "data/translations/opsat/d3ddrv.json::Public::Object",
+      0.84,
+      "(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)",
+      "(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)"
+    ],
+    [
+      "data/translations/opsat/d3ddrv.json::Public::Preferences",
+      0.8,
+      "(Caption=\"Rendering\",Parent=\"Advanced Options\")",
+      "(Caption=\"Rendering\",Parent=\"Advanced Options\")"
+    ],
+    [
+      "data/translations/opsat/echelon.json::Public::Object",
+      0.87,
+      "(Name=Echelon.EchelonGameInfo,Class=Class,MetaClass=Engine.GameInfo)",
+      "(Name=Echelon.EchelonGameInfo,Class=Class,MetaClass=Engine.GameInfo)"
+    ],
+    [
+      "data/translations/opsat/engine.json::Public::Object",
+      0.87,
+      "(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)",
+      "(Name=Engine.ServerCommandlet,Class=Class,MetaClass=Core.Commandlet)"
+    ],
+    [
+      "data/translations/opsat/engine.json::Public::Preferences",
+      0.8,
+      "(Caption=\"Advanced\",Parent=\"Advanced Options\")",
+      "(Caption=\"Advanced\",Parent=\"Advanced Options\")"
+    ],
+    [
+      "data/translations/opsat/engine.json::General::UpgradeURL",
+      0.79,
+      "http://www.unreal.com/upgrade",
+      "http://www.unreal.com/upgrade"
+    ],
+    [
+      "data/translations/opsat/engine.json::ServerCommandlet::HelpUsage",
+      0.7,
+      "server map.unr[?game=gametype] [-option...] [parm=value]...",
+      "server map.unr[?game=gametype] [-option...] [parm=value]..."
+    ],
+    [
+      "data/translations/opsat/engine.json::ServerCommandlet::HelpWebLink",
+      0.83,
+      "http://unreal.epicgames.com/servertips.htm",
+      "http://unreal.epicgames.com/servertips.htm"
+    ],
+    [
+      "data/translations/opsat/window.json::General::OtherInstanceRunning",
+      0.49,
+      "Another instance of Tom Clancy's Splinter Cell Chaos Theory is already running.",
+      "เกม Tom Clancy's Splinter Cell Chaos Theory กำลังทำงานอยู่แล้วในอีกหน้าต่าง"
+    ],
+    [
+      "data/translations/opsat/window.json::IDMENU_NotifyIcon::ID_NotifyShowLog",
+      0.59,
+      "&UnrealServer Console",
+      "คอนโซล UnrealServer (&U)"
+    ],
+    [
+      "data/translations/opsat/window.json::IDMENU_NotifyIcon::ID_NotifyExit",
+      0.59,
+      "E&xit UnrealServer",
+      "ออกจาก UnrealServer (&X)"
+    ],
+    [
+      "data/translations/opsat/window.json::IDDIALOG_CrashBox::BugReportURL",
+      0.74,
+      "http://support.ubi.com/",
+      "http://support.ubi.com/"
+    ],
+    [
+      "data/translations/story/02_CargoShip.json::P_02_CargoShip_LambertComms::Speech_0060L",
+      0.7,
+      "GRIMSDOTTIR - Mercantil Costa Afuerda Securidad de Panama.",
+      "กริมส์ดอตเตียร์ - Mercantil Costa Afuerda Securidad de Panama"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::VKEYBOARD::VKBCharacters0",
+      1.0,
+      "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    ],
+    [
+      "data/translations/ui/pregame_menus.json::CONTENTDOWNLOAD::DownloaderMissing",
+      0.57,
+      "DOWNLOADER.XBE NOT DETECTED.",
+      "ตรวจไม่พบ DOWNLOADER.XBE"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuExtras::BioAmonTobin",
+      0.56,
+      "AMON TOBIN BIOGRAPHY",
+      "ประวัติ AMON TOBIN"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU54",
+      0.8,
+      "http://www.ubi.com/Info/PrivacyPolicy.htm",
+      "http://www.ubi.com/Info/PrivacyPolicy.htm"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuSettings::Shader",
+      0.65,
+      "SHADER MODEL TYPE",
+      "ประเภท SHADER MODEL"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuSettings::TextureFiltering",
+      0.46,
+      "ANISOTROPIC FILTERING",
+      "กรองพื้นผิว (ANISOTROPIC)"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuSettings::SpecularLighting",
+      0.47,
+      "SPECULAR LIGHTING",
+      "แสงสะท้อน SPECULAR"
+    ]
+  ],
+  "digits_mismatch": [
+    [
+      "data/translations/opsat/equipment.json::FN2000AMMO::Description",
+      "SC-20K Ammo Clip",
+      "ซองกระสุนสำหรับปืน SC-20K บรรจุกระสุนขนาด 5.56x45 มม."
+    ],
+    [
+      "data/translations/opsat/equipment.json::SCOPE::Description",
+      "SC-20k Prototype 20mm attachment. 20mm APDS anti-materiel super-penetrator round for armored or empl",
+      "อุปกรณ์เสริมลำกล้องสไนเปอร์ 20 มม. ต้นแบบสำหรับ SC-20k ใช้กระสุนเจาะเกราะทรงพลัง APDS ขนาด 20 มม. สำ"
+    ],
+    [
+      "data/translations/story/00_Training.json::P_00_Training_Broadcast::Speech_0003L",
+      "In baseball news... New York announced today the signing of rising Japanese pitching star Akira Wata",
+      "ข่าวกีฬาเบสบอล... นิวยอร์กประกาศเซ็นสัญญากับ อากิระ วาตานาเบะ พิตเชอร์ดาวรุ่งชาวญี่ปุ่นในวันนี้ วาตา"
+    ],
+    [
+      "data/translations/story/00_Training.json::P_00_Training_CnvCook_Sebastien::Speech_0012L",
+      "SEBASTIEN - Nine eleven. All these crazy boys signing up to go fight... figured the least I can do i",
+      "เซบาสเตียน - เหตุการณ์ 9/11 ไงล่ะ เด็กหนุ่มบ้าบิ่นพวกนี้แห่กันไปสมัครรบ... ฉันเลยคิดว่าอย่างน้อยสิ่ง"
+    ],
+    [
+      "data/translations/story/00_Training.json::P_00_Training_CnvCook_Sebastien::Speech_0035L",
+      "SEBASTIEN - I wonder what I'm gonna make for the Fourth of July...",
+      "เซบาสเตียน - ชักสงสัยแล้วสิว่าวันชาติ 4 กรกฎาคมนี้จะทำอะไรกินดี..."
+    ],
+    [
+      "data/translations/story/00_Training.json::P_00_Training_CnvCook_Sebastien::Speech_0044L",
+      "SEBASTIEN - It's not today's menu that's the problem... I got the Captain's Fourth of July barbecue ",
+      "เซบาสเตียน - ปัญหามันไม่ได้อยู่ที่เมนูวันนี้หรอก... งานบาร์บีคิววันชาติ 4 กรกฎาคมของกัปตันใกล้จะถึงแ"
+    ],
+    [
+      "data/translations/story/00_Training.json::P_00_Training_CnvPartridge::Speech_0023L",
+      "PARTRIDGE - Some of them. The suits say 75 I say forty.",
+      "พาร์ทริดจ์ - แค่บางส่วนนะ พวกใส่สูทบอกว่าได้ 75% แต่ฉันว่าได้แค่ 40%"
+    ],
+    [
+      "data/translations/story/00_Training.json::P_00_Training_CnvPartridge::Speech_0064L",
+      "PARTRIDGE - You make it back for the Fourth of July, you'll be in for a special treat.",
+      "พาร์ทริดจ์ - ถ้าแกกลับมาทันวันชาติ 4 กรกฎาคม แกจะได้กินของอร่อยสุดพิเศษแน่นอน"
+    ],
+    [
+      "data/translations/story/00_Training.json::P_00_Training_CnvTech_Mathieu::Speech_0021L",
+      "MATHIEU - Looking forward to the Fourth of July. Heard there's a plan for a big party.",
+      "มาติเยอ - ตั้งตารอวันชาติ 4 กรกฎาคมอยู่ครับ ได้ยินว่ามีแผนจะจัดปาร์ตี้ใหญ่กัน"
+    ],
+    [
+      "data/translations/story/00_Training.json::P_00_Training_CnvUSSol_Phil::Speech_0030L",
+      "PHIL - Sir? Uh... sir... it's just... the Fourth of July is coming up, sir.",
+      "ฟิล - ครับท่าน? เอ่อ... ท่านครับ... คือว่า... ใกล้จะถึงวันชาติ 4 กรกฎาคมแล้วครับท่าน"
+    ],
+    [
+      "data/translations/story/02_CargoShip.json::GENERAL::Briefing_LAMBERT",
+      "LAMBERT - Information you recovered in Peru makes it look like Hugo Lacerda was contracted by a thir",
+      "แลมเบิร์ต - ข้อมูลที่คุณกู้คืนมาจากเปรูชี้ว่า ฮูโก ลาแซร์ดา ได้รับการว่าจ้างจากบุคคลที่สามให้ลักพาตั"
+    ],
+    [
+      "data/translations/story/02_CargoShip.json::P_02_CargoShip_LambertComms::Speech_0114L",
+      "LAMBERT - Information you recovered in Peru makes it look like Hugo Lacerda was contracted by a thir",
+      "แลมเบิร์ต - ข้อมูลที่คุณกู้คืนมาจากเปรูชี้ว่า ฮูโก ลาแซร์ดา ได้รับการว่าจ้างจากบุคคลที่สามให้ลักพาตั"
+    ],
+    [
+      "data/translations/story/03_Bank.json::P_03_Bank_Communications::Speech_0007L",
+      "FISHER - Thanks... I've always found it hard to count past 3...",
+      "ฟิชเชอร์ - ขอบคุณ... ฉันนับเลขเกินสามไม่ค่อยได้มาตลอด..."
+    ],
+    [
+      "data/translations/story/04_GCS.json::P_04_GCS_ConvHydroTunnel::Speech_0003L",
+      "CHIN - Some kind of bomb? If that thing explodes, all of forty-second avenue between 5th and Lex wil",
+      "ฉิน - ระเบิดอะไรสักอย่างเหรอ? ถ้ามันระเบิดขึ้นมา ถนนโฟร์ตีเซคันด์ระหว่างฟิฟท์กับเล็กซ์จะถล่มลงมาทับห"
+    ],
+    [
+      "data/translations/story/05_Displace01.json::Email::EmailWNMLotteryBody",
+      "Pennsylvania steel magnate Brody Masterson-Woods III was today announced the winner of the 1.1 Billi",
+      "วันนี้โบรดี มาสเตอร์สัน-วูดส์ ที่ 3 เจ้าพ่อเหล็กแห่งเพนซิลเวเนีย ถูกประกาศให้เป็นผู้ถูกรางวัลลอตเตอร"
+    ],
+    [
+      "data/translations/story/05_Displace01.json::P_05_Displace01_InterroLobbyGuardA::Speech_0004L",
+      "-DisSol_Jordan- Uh... I got a fix on a horse... Fancy Nancy in the third at Belmont tomorrow...",
+      "พลทหารดิสเพลสจอร์แดน - เอ่อ... ผมได้เบาะแสม้าตัวหนึ่ง... แฟนซี แนนซี ในการแข่งม้าลำดับที่ 3 ที่เบลมอ"
+    ],
+    [
+      "data/translations/story/05_Displace01.json::P_05_Displace01_InterroRoof::Speech_0013L",
+      "-DisSol_Walter- Don't forget to fill out your twenty-seven B stroke six.",
+      "พลทหารดิสเพลสวอลเตอร์ - อย่าลืมกรอกแบบฟอร์ม 27 บี/6 ด้วย"
+    ],
+    [
+      "data/translations/story/05_NuclearPlant.json::GENERAL::Briefing_LAMBERT",
+      "LAMBERT - We arrived just in time to stop the biological attack at Grand Central Station. But it’s n",
+      "แลมเบิร์ต - เรามาถึงทันเวลาหยุดการโจมตีทางชีวภาพที่แกรนด์เซ็นทรัลสเตชันพอดี แต่นี่ไม่ใช่เวลาผ่อนคลาย"
+    ],
+    [
+      "data/translations/story/11_KokuboSosho.json::P_11_KokuboSosho_Communications::Speech_0052L",
+      "LAMBERT - I just got off the horn with the Joint Chiefs... I'm lifting the non-lethal mission parame",
+      "แลมเบิร์ต - ฉันเพิ่งคุยกับคณะเสนาธิการร่วม... ฉันยกเลิกเงื่อนไขห้ามฆ่าของภารกิจ สิทธิเสรีภาพขั้นที่ "
+    ],
+    [
+      "data/translations/story/11_KokuboSosho.json::P_11_KokuboSosho_Communications::Speech_0138L",
+      "LAMBERT - Fisher, the Joint Chiefs need Otomo alive at any cost. Fifth Freedom with everyone but him",
+      "แลมเบิร์ต - ฟิชเชอร์ คณะเสนาธิการร่วมต้องการโอโตโมเป็นๆ ไม่ว่าจะแลกด้วยอะไร สิทธิเสรีภาพขั้นที่ 5 กั"
+    ],
+    [
+      "data/translations/story/11_KokuboSosho.json::P_11_KokuboSosho_Objectives::Objective_0028",
+      "Fifth Freedom. The non-lethal restriction is lifted for anyone except Admiral Otomo, who must be cap",
+      "สิทธิเสรีภาพขั้นที่ 5 ข้อจำกัดห้ามฆ่าถูกยกเลิกสำหรับทุกคนยกเว้นพลเรือเอกโอโตโม ซึ่งต้องถูกจับเป็นๆ ถ"
+    ],
+    [
+      "data/translations/ui/loading_screens.json::05_displace01::Tip5",
+      "Four alarms will put the facility on Alert. Guards will barricade the area.",
+      "สัญญาณเตือนภัยระดับ 4 จะทำให้พื้นที่เข้าสู่ภาวะเตรียมพร้อมขั้นสูงสุด และทหารยามจะตั้งสิ่งกีดขวางคุ้ม"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuExtras::Exploration2",
+      "EXPLORATION TWO",
+      "สำรวจ 2"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MenuBioAmon::Bio4",
+      "Call it end of millennium tension, but while the rest of us were out stockpiling food for the apocal",
+      "จะเรียกว่าเป็นความตึงเครียดช่วงสิ้นสหัสวรรษก็ได้ แต่ในขณะที่พวกเราคนอื่นๆ กำลังกักตุนอาหารไว้รับมือว"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::MessageWindow::DirectXMissingShaderModel",
+      "Your graphics card does not support features necessary to run the game (shader model 1.1, available ",
+      "การ์ดจอของคุณไม่รองรับคุณสมบัติที่จำเป็นในการรันเกม (Shader Model 1.1 ขึ้นไป) โปรดตรวจสอบข้อมูลการ์ด"
+    ]
+  ],
+  "placeholder_mismatch": [],
+  "space_mismatch": [],
+  "short_ratio_lt_0.28": [
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU56",
+      1207,
+      180,
+      "The Sites, including, without limitation, all communication features, contain copyrighted ",
+      "เนื้อหาทั้งหมดบนเว็บไซต์ รวมถึงข้อความ กราฟิก โลโก้ ไอคอน รูปภาพ คลิปเสียง และซอฟต์แวร์ เป"
+    ]
+  ],
+  "forbidden_chars": [],
+  "cp874_fail": [
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU13",
+      "149",
+      "•\tการสื่อสารทั้งหมดถือเป็นความรับผิดชอบแต่เพียงผู้เดียวของผู้ที่โพสต์หรือส่งข้อค"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU14",
+      "149",
+      "•\tUbi ไม่ได้ควบคุมเนื้อหาของการสื่อสารใดๆ และไม่รับประกันความถูกต้อง ความสมบูรณ์"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU15",
+      "149",
+      "•\tสมาชิกหรือผู้ใช้รับทราบว่าการใช้คุณลักษณะการสื่อสารที่จัดไว้บนเว็บไซต์ คุณอาจพ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU16",
+      "149",
+      "•\tไม่ว่าในกรณีใดก็ตาม Ubi จะไม่รับผิดชอบต่อข้อผิดพลาดหรือการละเว้นใดๆ ในการสื่อส"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU17",
+      "149",
+      "•\tหาก Ubi ได้รับการแจ้งเตือนจากสมาชิกหรือผู้ใช้เกี่ยวกับการสื่อสารที่ถูกกล่าวหาว"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU18",
+      "149",
+      "•\tUbi ขอสงวนสิทธิ์ในการขับไล่สมาชิกและผู้ใช้ และระงับไม่ให้เข้าถึงเว็บไซต์ต่อไปห"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU19",
+      "149",
+      "•\tUbi ขอสงวนสิทธิ์ในการเปิดเผยข้อมูลแก่เจ้าหน้าที่ผู้มีอำนาจ อันเนื่องมาจากการละ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU20",
+      "149",
+      "•\tUbi ขอสงวนสิทธิ์ในการยกเลิกการเป็นสมาชิกของสมาชิกหรือผู้เยี่ยมชมรายใดก็ตามที่ล"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU22",
+      "149",
+      "•\tคุกคาม ข่มขู่ ทำให้อับอาย หรือสะกดรอยตาม หรือทำให้เกิดความทุกข์ใจ การเรียกร้อง"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU23",
+      "149",
+      "•\tโพสต์ ส่ง หรืออำนวยความสะดวกในการเผยแพร่เนื้อหาหรือการสื่อสารที่ผิดกฎหมาย เป็น"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU24",
+      "149",
+      "•\tแก้ไขดัดแปลงส่วนใดๆ ของเว็บไซต์ และ/หรือ ซอฟต์แวร์โดยไม่ได้รับความยินยอมเป็นลา"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU25",
+      "149",
+      "•\tขัดขวางการสนทนาในห้องแชทหรือภายในซอฟต์แวร์ที่มีฟังก์ชันแชทเพื่อพยายามรบกวนผู้ใ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU26",
+      "149",
+      "•\tแอบอ้างเป็นบุคคลอื่น พยายามทำให้ผู้ใช้เข้าใจผิดโดยระบุว่าคุณเป็นตัวแทนของ Ubi "
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU27",
+      "149",
+      "•\tพยายามแทรกแซง แฮกเข้าสู่ระบบ หรือถอดรหัสการส่งข้อมูลใดๆ ไปยังหรือจากเซิร์ฟเวอร"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU28",
+      "149",
+      "•\tให้ข้อมูลเท็จหรือเจตนาปกปิดข้อมูลใดๆ ที่เว็บไซต์หรือซอฟต์แวร์กำหนดให้ต้องระบุ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU29",
+      "149",
+      "•\tเปิดเผยรหัสผ่านบัญชีของคุณแก่ผู้อื่น และ/หรือ ขายหรือโอนบัญชีของคุณให้แก่ผู้อื"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU30",
+      "149",
+      "•\tไม่ปฏิบัติตามคำแนะนำของเจ้าหน้าที่ผู้มีอำนาจบนเว็บไซต์"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU31",
+      "149",
+      "•\tอัปโหลดหรือแจกจ่ายซอฟต์แวร์หรือเนื้อหาใดๆ ที่คุณไม่ได้เป็นเจ้าของหรือไม่มีสิทธ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU32",
+      "149",
+      "•\tส่งเสริมหรือสนับสนุนกิจกรรมที่ผิดกฎหมาย รวมถึงการแฮก การแครก หรือการเผยแพร่ซอฟ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU33",
+      "149",
+      "•\tอัปโหลดไฟล์ที่มีไวรัสหรือข้อมูลที่เสียหาย"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU34",
+      "149",
+      "•\tโพสต์การสื่อสารเพื่อวัตถุประสงค์อื่นนอกเหนือจากการสื่อสารส่วนบุคคล หรือส่งโฆษณ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU35",
+      "149",
+      "•\tใช้ปุ่มสนับสนุนหรือร้องเรียนภายในเกมอย่างไม่เหมาะสม หรือแจ้งรายงานเท็จต่อทีมงา"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU36",
+      "149",
+      "•\tละเมิดข้อกำหนดการใช้งานของเครื่องมือภายนอก ผู้ให้บริการเชิงโต้ตอบ กฎหมายของรัฐ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU37",
+      "149",
+      "•\tปลอมแปลงหรือลบข้อมูลแสดงความเป็นเจ้าของผลงาน ประกาศทางกฎหมายหรือประกาศที่เหมาะ"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU38",
+      "149",
+      "•\tจำกัดหรือขัดขวางสมาชิกหรือผู้ใช้อื่นจากการใช้งานและเพลิดเพลินกับคุณลักษณะการสื"
+    ],
+    [
+      "data/translations/ui/pregame_pc.json::OnlineTermsOfUse::OTU39",
+      "149",
+      "•\tขายหรือแจกจ่ายองค์ประกอบใดๆ ของเกมภายนอกเกม ซึ่งรวมถึงแต่ไม่จำกัดเพียง ตัวละคร"
+    ]
+  ],
+  "multi_thai_for_same_en": {
+    "Left": [
+      "ซ้าย",
+      "ลูกศรซ้าย"
+    ],
+    "Right": [
+      "ขวา",
+      "ลูกศรขวา"
+    ],
+    "UNKNOWN": [
+      "ไม่ทราบประเภท",
+      "ไม่ระบุ"
+    ],
+    "SC-20K Ammo Clip": [
+      "ซองกระสุน SC-20K",
+      "ซองกระสุนสำหรับปืน SC-20K บรรจุกระสุนขนาด 5.56x45 มม."
+    ],
+    "GUNBAREL": [
+      "ชุดลำกล้องปืน",
+      "ลำกล้องปืน"
+    ],
+    "GUNGRIP": [
+      "ชุดด้ามจับปืน",
+      "ด้ามจับปืน"
+    ],
+    "GUNSCOPE": [
+      "กล้องเล็งปืน",
+      "ชุดกล้องเล็งปืน"
+    ],
+    "Shotgun attachment Ammo": [
+      "กระสุนสำหรับอุปกรณ์เสริมลูกซอง",
+      "กระสุนอุปกรณ์เสริมลูกซอง"
+    ],
+    "Sniper attachment Ammo": [
+      "กระสุนสำหรับอุปกรณ์เสริมสไนเปอร์",
+      "กระสุนอุปกรณ์เสริมสไนเปอร์"
+    ],
+    "C4": [
+      "C4",
+      "ระเบิด C4",
+      "วัตถุระเบิดพลาสติกสังเคราะห์ C4 ให้แรงระเบิดสูงสำหรับทำลายโครงสร้างและสิ่งกีดขวาง"
+    ],
+    "Flare": [
+      "พลุไฟ",
+      "พลุไฟส่องสว่าง"
+    ],
+    "Disposable Pick": [
+      "ชุดสะเดาะกุญแจใช้แล้วทิ้ง",
+      "สะเดาะกุญแจใช้แล้วทิ้ง"
+    ],
+    "Airfoil Round": [
+      "กระสุนยางกระแทกแอร์ฟอยล์",
+      "กระสุนยางแอร์ฟอยล์"
+    ],
+    "Stress Generator": [
+      "อุปกรณ์รบกวนคลื่นอินฟราเรดแบบพกพา สำหรับสร้างสัญญาณหลอกหรือกระตุ้นความระแวดระวังของระบบรักษาความปลอดภัย",
+      "เครื่องกวนอินฟราเรด",
+      "เครื่องกำเนิดสัญญาณรบกวนอินฟราเรด"
+    ],
+    "UMP": [
+      "UMP",
+      "ปืนกลมือ UMP"
+    ],
+    "Uzi": [
+      "ปืนกลมืออูซี่",
+      "อูซี่"
+    ],
+    "Cryo Blood Vial": [
+      "หลอดเก็บตัวอย่างเลือดแช่แข็ง",
+      "หลอดเลือดแช่แข็ง"
+    ],
+    "Cryo bla": [
+      "หลอดบรรจุตัวอย่างเซรั่มเลือดแช่แข็งสำหรับกระบวนการวิเคราะห์ต่อต้านไวรัส",
+      "ใช้ร่วมกับถังเก็บความเย็นเพื่อผสมสารตามโพรโทคอลแอนติไวรัส"
+    ],
+    "JOIN": [
+      "เข้าร่วม",
+      "เข้าร่วมได้"
+    ],
+    "CREATE": [
+      "สร้าง",
+      "สร้างห้อง"
+    ],
+    "QUIT": [
+      "ออก",
+      "ออกจากเกม"
+    ],
+    "EMF": [
+      "EMF",
+      "กล้อง EMF"
+    ],
+    "CAMERA": [
+      "กล้อง",
+      "กล้องวงจรปิด"
+    ],
+    "CONTINUE": [
+      "ดำเนินการต่อ",
+      "เล่นต่อ"
+    ],
+    "BRIEFING": [
+      "ข้อมูลสรุปภารกิจ",
+      "สรุปภารกิจ"
+    ],
+    "REMOVE": [
+      "นำออก",
+      "ลบ"
+    ],
+    "LOAD": [
+      "โหลด",
+      "โหลดเกม"
+    ],
+    "SAVE": [
+      "บันทึก",
+      "บันทึกเกม"
+    ],
+    "ACCEPT": [
+      "ตกลง",
+      "ยืนยัน"
+    ],
+    "EXIT": [
+      "ออก",
+      "ออกจากเกม"
+    ],
+    "Ok": [
+      "ตกลง",
+      "โอเค"
+    ],
+    "Insert": [
+      "Insert",
+      "แทรก"
+    ],
+    "Delete": [
+      "Delete",
+      "ลบ"
+    ],
+    "Officials in Peru have confirmed the recovery of the body of American Computer Engineer Bruce Morgenholt. No cause of death has yet been announced, but the State Department has demanded an apology from the Peruvian Army for their possible role in a botched rescue operation.": [
+      "เจ้าหน้าที่ในเปรูยืนยันการกู้ร่างของ บรูซ มอร์เกนโฮลต์ วิศวกรคอมพิวเตอร์ชาวอเมริกัน ยังไม่มีการประกาศสาเหตุการเสียชีวิต แต่กระทรวงการต่างประเทศได้เรียกร้องคำขอโทษจากกองทัพเปรูสำหรับบทบาทที่อาจเกี่ยวข้องกับปฏิบัติการช่วยเหลือที่ล้มเหลว",
+      "เจ้าหน้าที่ในเปรูยืนยันการกู้ร่างของ บรูซ มอร์เกนโฮลต์ วิศวกรคอมพิวเตอร์ชาวอเมริกันแล้ว ยังไม่มีการประกาศสาเหตุการเสียชีวิต แต่กระทรวงการต่างประเทศได้เรียกร้องคำขอโทษจากกองทัพเปรู สำหรับความเกี่ยวข้องในปฏิบัติการช่วยเหลือที่ล้มเหลว"
+    ],
+    "FISHER - I know.": [
+      "ฟิชเชอร์ - ฉันรู้",
+      "ฟิชเชอร์ - ฉันเข้าใจ"
+    ],
+    "FISHER - I'll see what I can do.": [
+      "ฟิชเชอร์ - ฉันจะดูว่าทำอะไรได้บ้าง",
+      "ฟิชเชอร์ - เดี๋ยวฉันจะดูให้ละกันว่าพอทำอะไรได้บ้าง"
+    ],
+    "FISHER - Thanks.": [
+      "ฟิชเชอร์ - ขอบคุณ",
+      "ฟิชเชอร์ - ขอบใจ"
+    ],
+    "FISHER - Good.": [
+      "ฟิชเชอร์ - ดีครับ",
+      "ฟิชเชอร์ - ดีมาก",
+      "ฟิชเชอร์ - ดีเลย"
+    ],
+    "FISHER - Good idea.": [
+      "ฟิชเชอร์ - ความคิดดี",
+      "ฟิชเชอร์ - ความคิดเข้าท่า"
+    ],
+    "FISHER - What do you mean?": [
+      "ฟิชเชอร์ - หมายความว่ายังไง?",
+      "ฟิชเชอร์ - หมายความว่าไง?"
+    ],
+    "FISHER - What are you working on there sailor?": [
+      "ฟิชเชอร์ - กำลังทำอะไรอยู่ตรงนั้น กะลาสี?",
+      "ฟิชเชอร์ - กำลังทำอะไรอยู่ตรงนั้นน่ะ กะลาสี?"
+    ],
+    "FISHER - I'm on my way.": [
+      "ฟิชเชอร์ - กำลังไป",
+      "ฟิชเชอร์ - ฉันกำลังไป"
+    ],
+    "As Splinter Cells in training, you must learn to trust each other to complete your objectives. The only things standing between you and failure are your wits, and your partner. Learn to work together to accomplish missions that could not be completed by an individual Agent.": [
+      "ในฐานะสายลับสปลินเตอร์เซลที่อยู่ระหว่างการฝึก คุณต้องเรียนรู้ที่จะไว้วางใจซึ่งกันและกันเพื่อบรรลุเป้าหมาย สองสิ่งเดียวที่ขวางกั้นระหว่างคุณกับความล้มเหลวคือไหวพริบของคุณและคู่หูของคุณ จงเรียนรู้การทำงานร่วมกันเพื่อพิชิตภารกิจที่สายลับเพียงลำพังไม่อาจทำสำเร็จได้",
+      "ในฐานะสายลับสปลินเตอร์เซลที่อยู่ระหว่างการฝึก คุณต้องเรียนรู้ที่จะไว้วางใจซึ่งกันและกันเพื่อบรรลุเป้าหมาย สิ่งเดียวที่ขวางกั้นระหว่างคุณกับความล้มเหลวคือไหวพริบของคุณและคู่หู จงเรียนรู้การทำงานร่วมกันเพื่อพิชิตภารกิจที่สายลับเพียงลำพังไม่อาจทำสำเร็จได้"
+    ],
+    "Objective": [
+      "วัตถุประสงค์",
+      "เป้าหมาย"
+    ],
+    "News": [
+      "ข่าว",
+      "ข่าวสาร"
+    ],
+    "Subscriber": [
+      "ผู้รับข่าวสาร",
+      "สมาชิกผู้รับข่าว",
+      "สมาชิกผู้รับข่าวสาร"
+    ],
+    "FISHER - Will do.": [
+      "ฟิชเชอร์ - จัดให้",
+      "ฟิชเชอร์ - รับทราบ",
+      "ฟิชเชอร์ - ได้เลย"
+    ],
+    "FISHER - Okay.": [
+      "ฟิชเชอร์ - ตกลง",
+      "ฟิชเชอร์ - เอาล่ะ"
+    ],
+    "FISHER - What should I do?": [
+      "ฟิชเชอร์ - ฉันควรทำยังไง?",
+      "ฟิชเชอร์ - ฉันต้องทำยังไงบ้าง?"
+    ],
+    "FISHER: Why?": [
+      "ฟิชเชอร์: ทำไม?",
+      "ฟิชเชอร์: ทำไมล่ะ?"
+    ],
+    "Hugo Lacerda has been elevated to Third Echelon's Target of Opportunity list. Take advantage of any possible opportunity to remove him from the list.": [
+      "ฮูโก ลาแซร์ดา ถูกจัดเข้าสู่รายชื่อเป้าหมายที่มีโอกาสจัดการได้ของเธิร์ดเอเชลอน จงใช้ประโยชน์จากทุกโอกาสที่เป็นไปได้เพื่อกำจัดเขาออกจากรายชื่อ",
+      "ฮูโก ลาแซร์ดา ถูกเลื่อนระดับขึ้นมาอยู่ในรายชื่อเป้าหมายที่มีโอกาสจัดการได้ของเธิร์ดเอเชลอน จงฉวยโอกาสทุกวิถีทางเพื่อกำจัดเขาออกจากรายชื่อ"
+    ],
+    "Exfiltrate to the primary extraction point": [
+      "ถอนกำลังไปยังจุดถอนกำลังหลัก",
+      "ถอนกำลังไปยังจุดรับตัวหลัก"
+    ],
+    "The EEV scans objects and informs you of their properties.": [
+      "กล้อง EEV ใช้สแกนวัตถุและบอกคุณสมบัติต่างๆ ของวัตถุนั้นให้คุณทราบ",
+      "กล้อง EEV ใช้สแกนวัตถุและรายงานคุณสมบัติของวัตถุเหล่านั้นให้คุณทราบ"
+    ],
+    "Why?": [
+      "ทำไม?",
+      "ทำไมเหรอ?"
+    ],
+    "Enemies are wearing body armor.": [
+      "ศัตรูกำลังสวมเกราะป้องกัน",
+      "ศัตรูสวมเกราะป้องกัน"
+    ],
+    "Enemies are wearing helmets.": [
+      "ศัตรูกำลังสวมหมวกเกราะ",
+      "ศัตรูสวมหมวกกันน็อก"
+    ],
+    "Enemies have fortified their positions.": [
+      "ศัตรูเสริมกำลังที่มั่นแล้ว",
+      "ศัตรูได้เสริมที่มั่นของพวกมันแล้ว"
+    ],
+    "Exfiltrate to the primary extraction point.": [
+      "ถอนกำลังไปยังจุดถอนกำลังหลัก",
+      "ถอนกำลังไปยังจุดถอนกำลังหลัก.",
+      "ถอนกำลังไปยังจุดรับตัวหลัก"
+    ],
+    "Exactly.": [
+      "ถูกต้อง",
+      "ใช่เลย"
+    ],
+    "Activate Pumps": [
+      "เดินเครื่องสูบน้ำ",
+      "เปิดปั๊ม"
+    ],
+    "Extraction": [
+      "ถอนกำลัง",
+      "ถอนตัว"
+    ],
+    "FISHER - I'll find it.": [
+      "ฟิชเชอร์ - ฉันจะหามัน",
+      "ฟิชเชอร์ - ฉันจะไปหามัน",
+      "ฟิชเชอร์ - เดี๋ยวผมหาดู"
+    ],
+    "FISHER - Alright.": [
+      "ฟิชเชอร์ - รับทราบ",
+      "ฟิชเชอร์ - เอาล่ะ"
+    ],
+    "FISHER - Thanks for the tip.": [
+      "ฟิชเชอร์ - ขอบใจที่ให้เบาะแส",
+      "ฟิชเชอร์ - ขอบใจสำหรับเบาะแส"
+    ],
+    "FISHER - Who?": [
+      "ฟิชเชอร์ - ใคร?",
+      "ฟิชเชอร์ - ใครล่ะ?"
+    ],
+    "Find the name of Lacerda's Panamanian contact.": [
+      "สืบหารายชื่อผู้ติดต่อชาวปานามาของลาแซร์ดา",
+      "หาชื่อผู้ติดต่อชาวปานามาของลาแซร์ดา"
+    ],
+    "In addition to those shipping and receiving the weapons, someone must also have helped Lacerda get them past new security inspection protocols at the Panama Canal. Find out who.": [
+      "นอกจากคนที่ขนส่งและรับอาวุธแล้ว ต้องมีใครสักคนช่วยลาแซร์ดานำอาวุธผ่านขั้นตอนตรวจสอบความปลอดภัยใหม่ที่คลองปานามา หาว่าเป็นใคร",
+      "นอกจากผู้ส่งและผู้รับอาวุธแล้ว จะต้องมีใครบางคนช่วยให้ลาแซร์ดานำอาวุธผ่านเกณฑ์การตรวจสอบความปลอดภัยชุดใหม่ที่คลองปานามาไปได้ จงสืบหาว่าคนผู้นั้นคือใคร"
+    ],
+    "If you fail a Secondary Objective, you must complete it in a later mission.": [
+      "หากคุณทำเป้าหมายรองล้มเหลว คุณจะต้องไปทำให้สำเร็จในภารกิจถัดไป",
+      "หากทำเป้าหมายรองล้มเหลว คุณจะต้องไปทำให้สำเร็จในภารกิจถัดไป"
+    ],
+    "Opportunity Objectives are optional, but failing them lowers Mission Rating.": [
+      "เป้าหมายเสริมเป็นทางเลือก แต่การทำล้มเหลวจะลดคะแนนประเมินภารกิจของคุณ",
+      "เป้าหมายเสริมเป็นทางเลือก แต่การทำล้มเหลวจะลดคะแนนผลการปฏิบัติภารกิจ"
+    ],
+    "Fidel - Yes sir.": [
+      "ฟิเดล - ครับผม",
+      "ฟิเดล - เรียบร้อยดีครับผม"
+    ],
+    "REDDING - First, the good news. You've been in this bank before. You were part of a CIA raiding team that went in in '89 looking for some of Noriega's drug money. Most of the intelligence we have on the bank actually comes from your team. The bad news is that we have a lot of physical security. Lasers, motion sensors, locked doors, cameras, the whole lot, and none of it was there in '89... We've also contacted a... uh... specialist... to help crack the vault. You better talk to him.": [
+      "เรดดิง - เริ่มจากข่าวดีก่อน คุณเคยเข้าไปในธนาคารนี้มาก่อน คุณเป็นส่วนหนึ่งของทีมบุกของ CIA ที่เข้าไปในปี '89 เพื่อตามหาเงินยาเสพติดของนอริเอกา ข้อมูลข่าวกรองเกือบทั้งหมดที่เรามีเกี่ยวกับธนาคารนี้มาจากทีมของคุณจริงๆ ข่าวร้ายคือที่นั่นมีระบบรักษาความปลอดภัยทางกายภาพเต็มไปหมด เลเซอร์ เซ็นเซอร์ตรวจจับการเคลื่อนไหว ประตูล็อก กล้อง ครบทุกอย่าง และไม่มีสักอย่างที่อยู่ในนั้นตอนปี '89... เรายังติดต่อ... เอ่อ... ผู้เชี่ยวชาญ... คนหนึ่งมาช่วยงัดตู้นิรภัย คุณน่าจะไปคุยกับเขา",
+      "เรดดิง - เริ่มจากข่าวดีก่อน คุณเคยเข้าไปในธนาคารนี้มาก่อน คุณเป็นส่วนหนึ่งของทีมบุกของ CIA ที่เข้าไปในปี '89 เพื่อตามหาเงินยาเสพติดของนอริเอกา ข้อมูลข่าวกรองเกือบทั้งหมดที่เรามีเกี่ยวกับธนาคารนี้มาจากทีมของคุณจริงๆ ข่าวร้ายคือเรามีระบบรักษาความปลอดภัยทางกายภาพเต็มไปหมด เลเซอร์ เซ็นเซอร์ตรวจจับการเคลื่อนไหว ประตูล็อก กล้อง ครบทุกอย่าง และไม่มีสักอย่างที่อยู่ในนั้นตอนปี '89... เรายังติดต่อ... เอ่อ... ผู้เชี่ยวชาญ... คนหนึ่งมาช่วยงัดตู้นิรภัย คุณน่าจะไปคุยกับเขา"
+    ],
+    "FISHER - Right.": [
+      "ฟิชเชอร์ - รับทราบ",
+      "ฟิชเชอร์ - เอาล่ะ"
+    ],
+    "FISHER - Gotcha.": [
+      "ฟิชเชอร์ - รับทราบ",
+      "ฟิชเชอร์ - เข้าใจแล้ว"
+    ],
+    "FISHER - Great.": [
+      "ฟิชเชอร์ - เยี่ยม",
+      "ฟิชเชอร์ - เยี่ยมไปเลย"
+    ],
+    "Anti-viral protocol Component One = Blood Serum Type O.": [
+      "สูตรแอนติไวรัส ส่วนประกอบที่หนึ่ง = เซรั่มเลือดกลุ่ม O",
+      "โพรโทคอลต้านไวรัส ส่วนประกอบที่หนึ่ง = เซรั่มเลือดกลุ่ม O"
+    ],
+    "In other news, 141 of the bodies recovered from the Walsh incident arrived in the United States today in preparation for funeral services due to commence the day after tomorrow. The USS Walsh is now confirmed lost with all hands, leaving the death toll at a staggering 283 crewman and officers.": [
+      "ในข่าวอื่น ร่างผู้เสียชีวิต 141 รายจากเหตุการณ์เรือวอลช์เดินทางถึงสหรัฐอเมริกาวันนี้เพื่อเตรียมพิธีศพซึ่งจะเริ่มขึ้นในวันมะรืนนี้ ขณะนี้ยืนยันว่าเรือยูเอสเอส วอลช์สูญหายพร้อมลูกเรือทั้งลำ ทำให้ยอดผู้เสียชีวิตรวมสูงถึง 283 นาย ทั้งลูกเรือและเจ้าหน้าที่",
+      "ในข่าวอื่น ร่างผู้เสียชีวิต 141 รายจากเหตุการณ์เรือวอลช์เดินทางถึงสหรัฐอเมริกาวันนี้เพื่อเตรียมพิธีศพซึ่งจะเริ่มขึ้นในวันมะรืนนี้ ขณะนี้ยืนยันว่าเรือยูเอสเอส วอลช์สูญหายพร้อมลูกเรือทั้งลำ ทำให้ยอดผู้เสียชีวิตสูงถึง 283 นาย ทั้งลูกเรือและเจ้าหน้าที่"
+    ],
+    "Uh... no...": [
+      "เอ่อ... ไม่รู้...",
+      "เอ่อ... ไม่เจอ..."
+    ],
+    "LAMBERT - We don't have room for accidents. Watch your fire.": [
+      "แลมเบิร์ต - เราไม่มีที่ให้กับอุบัติเหตุ ระวังการยิงของตัวเอง",
+      "แลมเบิร์ต - เราไม่อาจมีอุบัติเหตุได้ ระวังการยิงของตัวเอง"
+    ],
+    "Sat, June 30th, 2007": [
+      "เสาร์ 30 มิถุนายน 2007",
+      "เสาร์ที่ 30 มิถุนายน 2007"
+    ],
+    "Fri, June 29th, 2007": [
+      "ศุกร์ 29 มิถุนายน 2007",
+      "ศุกร์ที่ 29 มิถุนายน 2007"
+    ],
+    "The Laser Mic is part of the EEV.": [
+      "ไมโครโฟนเลเซอร์เป็นส่วนหนึ่งของกล้อง EEV",
+      "ไมโครโฟนเลเซอร์เป็นส่วนหนึ่งของระบบกล้อง EEV"
+    ],
+    "Okay...": [
+      "ก็ได้...",
+      "โอเค..."
+    ],
+    "Please don't kill me.": [
+      "ได้โปรดอย่าฆ่าฉัน",
+      "ได้โปรดอย่าฆ่าผม"
+    ],
+    "FISHER - You're kidding me...": [
+      "ฟิชเชอร์ - คุณล้อฉันเล่น...",
+      "ฟิชเชอร์ - คุณล้อฉันเล่นใช่ไหม..."
+    ],
+    "What stranded astronauts?": [
+      "นักบินอวกาศที่ติดอยู่คนไหน?",
+      "นักบินอวกาศที่ติดอยู่พวกไหน?"
+    ],
+    "The door code to the Owner's office is 3650.": [
+      "รหัสประตูห้องทำงานของเจ้าของคือ 3650",
+      "รหัสประตูห้องทำงานของเจ้าของคือ 3650."
+    ],
+    "Shetland's Elite Guards are equipped with thermal vision.": [
+      "องครักษ์ชั้นยอดของเชตแลนด์ติดตั้งอุปกรณ์มองภาพความร้อน",
+      "องครักษ์ชั้นยอดของเชตแลนด์มีอุปกรณ์มองภาพความร้อน"
+    ],
+    "Camera": [
+      "กล้อง",
+      "กล้องวงจรปิด"
+    ],
+    "OBJECTIVES": [
+      "วัตถุประสงค์",
+      "เป้าหมายภารกิจ"
+    ],
+    "SOUND": [
+      "ระบบเสียง",
+      "เสียง"
+    ],
+    "GAME OVER": [
+      "จบเกม",
+      "ภารกิจล้มเหลว"
+    ],
+    "RETRY": [
+      "ลองใหม่",
+      "เริ่มใหม่"
+    ],
+    "OPTIONS": [
+      "การตั้งค่า",
+      "ตัวเลือก"
+    ],
+    "TIME PLAYED": [
+      "เวลาที่เล่น",
+      "เวลาที่ใช้เล่น"
+    ],
+    "You can see the beam emitted from an IR camera in Night Vision.": [
+      "คุณสามารถมองเห็นลำแสงที่ปล่อยออกมาจากกล้องวงจรปิด IR ได้ในโหมดกล้องมองกลางคืน",
+      "คุณสามารถมองเห็นลำแสงที่ปล่อยออกมาจากกล้องอินฟราเรด (IR) ได้ในโหมดกล้องมองกลางคืน"
+    ],
+    "When engaging multiple enemies, keep moving.": [
+      "เมื่อต้องปะทะกับศัตรูหลายคน จงเคลื่อนที่ตลอดเวลา อย่าอยู่นิ่ง",
+      "เมื่อต้องปะทะกับศัตรูหลายคน จงเคลื่อนที่อยู่เสมอ"
+    ],
+    "COOP": [
+      "ร่วมมือกัน",
+      "โหมดร่วมมือ"
+    ],
+    "MOVIE TEASER": [
+      "ตัวอย่างภาพยนตร์",
+      "ตัวอย่างภาพยนตร์/เกม"
+    ],
+    "PLAYERS": [
+      "ผู้เล่น",
+      "รายชื่อผู้เล่น"
+    ],
+    "VOICE CHAT": [
+      "แชตด้วยเสียง",
+      "แชทด้วยเสียง"
+    ],
+    "KICK": [
+      "เตะ",
+      "เตะออกจากห้อง"
+    ],
+    "SETTINGS": [
+      "การตั้งค่า",
+      "ตั้งค่า"
+    ],
+    "DAMAGED SAVE GAME": [
+      "เซฟเกมเสียหาย",
+      "ไฟล์เซฟเสียหาย"
+    ],
+    "Pause": [
+      "Pause",
+      "หยุดเกม"
+    ]
+  },
+  "multi_en_for_same_th": {
+    "กำลังเชื่อมต่อ...": [
+      "CONNECTING...",
+      "Connecting..."
+    ],
+    "กำลังโหลด": [
+      "LOADING",
+      "Loading"
+    ],
+    "กำลังบันทึก": [
+      "SAVING",
+      "Saving"
+    ],
+    "หยุดชั่วคราว": [
+      "PAUSE",
+      "PAUSED"
+    ],
+    "เปิดใช้งาน": [
+      "ENABLED",
+      "Enabled"
+    ],
+    "ปิดใช้งาน": [
+      "DISABLED",
+      "Disabled"
+    ],
+    "ใช่": [
+      "YES",
+      "Yeah.",
+      "yes"
+    ],
+    "ไม่": [
+      "NO",
+      "No.",
+      "no"
+    ],
+    "ผู้เล่น": [
+      "PLAYER",
+      "PLAYERS",
+      "Player"
+    ],
+    "อาวุธ": [
+      "Weapon",
+      "Weapons"
+    ],
+    "ระเบิดแสง": [
+      "Flash Grenade",
+      "Flashbang"
+    ],
+    "ระเบิดสังหาร": [
+      "Frag",
+      "Frag Grenade"
+    ],
+    "แก๊ส": [
+      "GAS",
+      "Gas"
+    ],
+    "กล้องสายเคเบิล": [
+      "Optic Cable",
+      "OpticCable"
+    ],
+    "ระเบิดควัน": [
+      "Smoke",
+      "Smoke Grenade"
+    ],
+    "กล้องสติ๊กกี้": [
+      "STICKY CAMERA",
+      "Sticky Camera",
+      "Sticky camera vision"
+    ],
+    "ตกลง": [
+      "ACCEPT",
+      "Deal.",
+      "OK",
+      "Ok"
+    ],
+    "ยกเลิก": [
+      "ABORT",
+      "Abort",
+      "CANCEL",
+      "CANCELLED",
+      "Cancel"
+    ],
+    "เลือก": [
+      "Pick",
+      "SELECT",
+      "Select"
+    ],
+    "ออก": [
+      "EXIT",
+      "OUT",
+      "QUIT"
+    ],
+    "ลบ": [
+      "DELETE",
+      "Delete",
+      "REMOVE"
+    ],
+    "กล้อง": [
+      "CAMERA",
+      "Camera"
+    ],
+    "เพิ่ม": [
+      "ADD",
+      "Add"
+    ],
+    "เริ่มใหม่": [
+      "RESTART",
+      "RETRY"
+    ],
+    "ข้อมูล": [
+      "DATA",
+      "INFO",
+      "INFOS"
+    ],
+    "บันทึก": [
+      "NOTES",
+      "SAVE"
+    ],
+    "ใช้งาน": [
+      "USE",
+      "Use"
+    ],
+    "ล้าง": [
+      "Clear",
+      "Empty"
+    ],
+    "ค้นหา": [
+      "Find",
+      "SEARCH"
+    ],
+    "ภาษา:": [
+      "LANGUAGE:",
+      "Language:"
+    ],
+    "ต่ำ": [
+      "LOW",
+      "Low"
+    ],
+    "สูง": [
+      "HIGH",
+      "High"
+    ],
+    "เมนู": [
+      "MENU",
+      "Menu"
+    ],
+    "ในญี่ปุ่น พลเรือเอก โทชิโร โอโตโม เปิดเผยผลการสืบสวนของ I-SDF ต่อสาธารณะเกี่ยวกับเหตุการณ์ก่อนหน้า 'วันแบล็กโกลด์' รายงานของ I-SDF อ้างว่าการโจมตีทางสงครามข้อมูลข่าวสารจากเกาหลีเหนือและจีนอาจอยู่เบื้องหลังการปั่นป่วนตลาดโลก จนนำไปสู่ภาวะเศรษฐกิจล่มสลายในญี่ปุ่น": [
+      "In Japan, Admiral Toshiro Otomo publicly revealed I-SDF findings relating to events leading up to 'Black Gold Da'. The I-SDF report alleges that North Korean and Chinese information warfare attacks may have manipulated worldwide markets to bring about the economic collapse in Japan.",
+      "In Japan, Admiral Toshiro Otomo publicly revealed I-SDF findings relating to events leading up to 'Black Gold Day'. The I-SDF report alleges that North Korean and Chinese information warfare attacks may have manipulated worldwide markets to bring about the economic collapse in Japan."
+    ],
+    "ฟิชเชอร์ - ฉันเข้าใจ": [
+      "FISHER - I know.",
+      "FISHER - I understand."
+    ],
+    "ฟิชเชอร์ - ขอบใจ": [
+      "-FISHER- Thanks",
+      "-FISHER- Thanks.",
+      "FISHER - Thanks",
+      "FISHER - Thanks."
+    ],
+    "ฟิชเชอร์ - ครับท่าน": [
+      "FISHER - Yes Sir.",
+      "FISHER - Yes sir."
+    ],
+    "ฟิล - ครับท่าน": [
+      "PHIL - Sir.",
+      "PHIL - Yes sir."
+    ],
+    "ฟิชเชอร์ - กำลังไป": [
+      "FISHER - I'm on my way.",
+      "FISHER - On my way."
+    ],
+    "การห้อยหัวลงมาจากท่อ ให้กด (Y) อีกครั้ง": [
+      "To hang upside down from a pipe, Press (Y) again.",
+      "To hang upside down from a pipe, press (Y) again."
+    ],
+    "อุปกรณ์": [
+      "EQUIPMENT",
+      "Equipment"
+    ],
+    "แบ่งปันอุปกรณ์": [
+      "Share Equip.",
+      "Share Equipment"
+    ],
+    "แฮกคอมพิวเตอร์เพื่อปิดการทำงานของเลเซอร์ด้วยท่าโหนตัวกลับหัว": [
+      "Hack the computer to deactivate the laser using the Hangover Move",
+      "Hack the computer to deactivate the laser using the Hangover Move."
+    ],
+    "ท่าปฏิบัติการร่วมจะเริ่มโดยเจ้าหน้าที่คนหนึ่งเสมอ อีกคนทำให้สมบูรณ์ แล้วจึงลงมือทำ": [
+      "Co-op Moves are always Initiated by one Agent, Completed by the other, and then Performed.",
+      "Co-op moves are always Initiated by one Agent, Completed by the other, and then Performed."
+    ],
+    "เมื่อเริ่มท่าแล้ว ไอคอนท่าปฏิบัติการร่วมจะปรากฏบนหน้าจอเพื่อบอกคุณว่ามีการกระทำที่ต้องทำให้สมบูรณ์ หากต้องการยกเลิกท่าปฏิบัติการร่วม เพียงกดปุ่ม Co-op อีกครั้ง": [
+      "When a move has been Initiated, the Co-op Move Icon will appear on the screen to inform you there is an action to be Completed. To cancel a Co-op Move, simply press the Co-op Move Key again.",
+      "When a move has been Initiated, the Co-op Move Icon will appear on the screen to inform you there is an action to be Completed. To cancel a coop move, simply press the Co-op Move Key again."
+    ],
+    "ในการปิดการทำงานอุปกรณ์อิเล็กทรอนิกส์ชั่วคราว ให้ติดตั้งอาวุธรองแล้วกดปุ่มเมาส์ขวาค้างไว้ อุปกรณ์จะยังถูกปิดการทำงานขณะที่คุณเล็งไปที่มัน จนกว่าประจุของอุปกรณ์ตัดสัญญาณจะหมด หรือจนกว่าคุณจะเคลื่อนที่": [
+      "To temporarily deactivate electronic devices, equip your secondary weapon and Press and Hold the Right Mouse Button. The device will stay disabled while you are targeting it, until the charge of the Jammer runs out, or until you move.",
+      "To temporarily deactivate electronic devices, equip your secondary weapon and press and Hold the Right Mouse Button. The device will stay disabled while you are targeting it, until the charge of the Jammer runs out, or until you move."
+    ],
+    "ขณะโหนอยู่ที่ขอบหรือท่อ เจ้าหน้าที่สามารถกดปุ่ม Co-op เพื่อเริ่มท่าปีนขึ้นบนตัวคู่ทีม เจ้าหน้าที่อีกคนสามารถทำท่าปีนขึ้นบนตัวคู่ทีมให้สมบูรณ์ได้โดยยืนอยู่ใต้เขาแล้วกดปุ่ม Co-op การทำเช่นนี้จะลงมือทำท่านั้น": [
+      "While hanging from a ledge or a pipe, the Agent can press the Co-op Move Key to Initiate the Climb on Teammate move. The other agent can Complete the Climb on Teammate move by standing beneath him and pressing the Co-op Move Key. This will Perform the move.",
+      "While hanging from a ledge or a pipe, the Agent can press the Co-op Move Key to Initiate the Climb on Teammate move. The other agent can complete the Climb on Teammate move by standing beneath him and pressing the Co-op Move Key. This will Perform the move."
+    ],
+    "ในการเริ่มการโหนตัวกลับหัว เจ้าหน้าที่คนแรกต้องจัดตำแหน่งตัวเองใกล้ช่องแล้วกดปุ่มปฏิสัมพันธ์": [
+      "To Initiate an Inverted Descent, the first Agent has to position himself near the hole and Interact.",
+      "To Initiate an Inverted Descent, the first agent has to position himself near the hole and Interact."
+    ],
+    "ขณะโหนอยู่ในท่าโหนตัวกลับหัว คุณสามารถทำการกระทำต่างๆ ได้ด้วยปุ่มปฏิสัมพันธ์  คุณสามารถใช้งานคอมพิวเตอร์ จับตัวทหารยาม และใช้อาวุธรองได้": [
+      "While hanging in an Inverted Descent, you can perform different actions using Interact.  You can access computers, grab guards and also use your secondary weapon.",
+      "While hanging in an Inverted Descent, you can perform different actions using Interact.  You can access computers, grab on a guard and also use your secondary weapon."
+    ],
+    "เป้าหมาย": [
+      "GOALS",
+      "OBJECTIVE",
+      "Objective"
+    ],
+    "อีเมล": [
+      "EMAIL",
+      "Email"
+    ],
+    "ฟิชเชอร์ - รับทราบ": [
+      "FISHER - Alright.",
+      "FISHER - Gotcha.",
+      "FISHER - Right.",
+      "FISHER - Roger.",
+      "FISHER - Will do."
+    ],
+    "ฟิชเชอร์ - ตกลง": [
+      "FISHER - Deal.",
+      "FISHER - Okay."
+    ],
+    "ยาม: ได้โปรดอย่าฆ่าฉันเลย... ได้โปรด": [
+      "GUARD:  Please don't kill me...please",
+      "GUARD: Please don't kill me...please"
+    ],
+    "กู้คืนหรือทำลายข้อมูลเกี่ยวกับมาสส์เคอร์เนล": [
+      "Recover or destroy information about the Mass Kernels",
+      "Recover or destroy information about the Masse Kernels"
+    ],
+    "กำจัด ฮูโก ลาแซร์ดา": [
+      "Eliminate Hugo Lacerda",
+      "Eliminate Hugo Lacerda."
+    ],
+    "ถอนกำลังไปยังจุดรับตัวหลัก": [
+      "Exfiltrate to the primary extraction point",
+      "Exfiltrate to the primary extraction point."
+    ],
+    "ระดับสัญญาณเตือนภัยขั้นที่หนึ่ง": [
+      "Alarm Stage One",
+      "Alarm Stage One."
+    ],
+    "เรดดิง - เราจะส่งเฮลิคอปเตอร์บินนำหน้าเรือมาเรีย นาร์ซิสซา ไปราวสี่สิบกิโลเมตร แล้วหย่อนคุณลงน้ำในเส้นทางเดินเรือของมัน คุณจะต้องลอบขึ้นเรือทางหัวเรือ ค้นเรือและห้องเก็บสินค้าใต้ท้องเรือ หาข้อมูลให้ได้มากที่สุดเกี่ยวกับการลักลอบส่งอาวุธและคนที่ลาแซร์ดาติดต่อด้วย ภาพถ่ายดาวเทียมแสดงว่าเรือมาเรีย นาร์ซิสซา มีเรือยนต์ขนาดเล็กแขวนอยู่ที่ท้ายเรือ นั่นจะเป็นจุดถอนกำลังหลักของคุณ แต่ถ้าสถานการณ์เลวร้ายลง เราอาจหาทางช่วยดึงตัวคุณขึ้นมาจากทะเลได้": [
+      "REDDING - We're going to send the helicopter out about forty clicks ahead of the Maria Narcissa and leave you in the water on her course. You'll board covertly onto the bow. Search the ship and the holds. Find out what you can about the arms shipments and who Lacerda is dealing with. Satellite imaging shows the Maria Narcissa racks a small launch on the stern. That will be your primary extraction. If everything goes bad, we might be able to arrange to pluck you out of the sea.",
+      "REDDING - We're going to send the helicopter out about forty clicks ahead of the Maria Narcissa and leave you in the water on her course. You'll board covertly onto the bow. Search the ship and the holds. Find out what you can about the arms shipments and who Lacerda is dealing with. Satellite imaging shows the Maria Narcissa racks a small launch on the stern. That will be your primary extraction. If things go bad, we might be able to arrange to pluck you out of the sea."
+    ],
+    "พาร์ทริดจ์ - เราจะคุมเรือวอลช์ให้อยู่ในระยะบินของเฮลิคอปเตอร์จากเรือเป้าหมายตลอดเวลา หากมีอะไรผิดพลาด เราน่าจะช่วยสนับสนุนการถอนกำลังได้ แต่ถ้าแกเล่นอย่างรัดกุม เราจะไปรับแกบนเรือยนต์กลางทะเลเปิดทันทีที่แกพ้นระยะสายตาจากเรือลำนั้น": [
+      "PARTRIDGE - We'll keep the Walsh inside of helicopter range of the target vessel at all times. If something goes wrong, we should be able to assist in extraction. If you play it safe, we'll recover you in the ship's launch from open water once you're out of visual range of the ship.",
+      "PARTRIDGE - We'll keep the Walsh inside of helicopter range of the target vessel at all times. If something goes wrong, we should be able to assist in extraction. If you play it safe, we'll recover you in the ships launch from open water once you're out of visual range of the ship."
+    ],
+    "ถอนกำลัง": [
+      "Extract",
+      "Extraction"
+    ],
+    "สืบหาว่าลาแซร์ดาพักอยู่ที่ห้องใด": [
+      "Find out which cabin Lacerda is in",
+      "Find out which cabin Lacerda is in."
+    ],
+    "แลมเบิร์ต - เอาล่ะ ฟิชเชอร์ เชิญ...": [
+      "LAMBERT - Alright, FISHER, go ahead...",
+      "Lambert- Alright, Fisher, go ahead..."
+    ],
+    "ฟิชเชอร์ - ฉันมีคนที่อยากคุยกับพวกคุณ...": [
+      "FISHER - I've got someone who wants to talk to you...",
+      "Fisher- I've got someone who wants to talk to you..."
+    ],
+    "ฟิชเชอร์ - พวกแกพาจงไปที่ไหน?": [
+      "FISHER - Where did you take Jong?",
+      "Fisher- Where did you take Jong?"
+    ],
+    "ทหารหน่วยพิเศษซู - ฉัน... ฉันไม่รู้ว่าคุณพูดเรื่องอะไร...": [
+      "NKElite_Soo - I... I don't know what you're talking about...",
+      "NKElite_Soo- I... I don't know what you're talking about..."
+    ],
+    "ฟิชเชอร์ - มันไม่ยอมตอบ... ฉันฆ่ามันเลยไหม?": [
+      "FISHER - He's not answering... should I kill him?",
+      "Fisher- He's not answering... should I kill him?"
+    ],
+    "ฟิชเชอร์ - เอาล่ะ... พวกเขาบอกให้ฉันฆ่าแก งั้น--": [
+      "FISHER - Alright... they say I should kill you, so--",
+      "Fisher- Alright... they say I should kill you, so--"
+    ],
+    "ฟิชเชอร์ - นั่นคือสิ่งที่พวกคุณอยากรู้หรือเปล่า?": [
+      "FISHER - Is that what you needed to know guys?",
+      "Fisher- Is that what you needed to know guys?"
+    ],
+    "ฟิชเชอร์ - ยินดีต้อนรับสู่ทีม": [
+      "FISHER - Welcome to the team.",
+      "Fisher- Welcome to the team."
+    ],
+    "วัตถุประสงค์": [
+      "OBJECTIVES",
+      "Objective"
+    ],
+    "เสียง": [
+      "Audio",
+      "SOUND",
+      "Sound"
+    ],
+    "ฟิชเชอร์ - เอาล่ะ": [
+      "FISHER - Alright.",
+      "FISHER - Ok.",
+      "FISHER - Okay.",
+      "FISHER - Right."
+    ],
+    "ฟิชเชอร์ - จัดให้": [
+      "FISHER - Will do.",
+      "FISHER - You bet.",
+      "FISHER - You got it."
+    ],
+    "ถอนกำลังไปยังจุดถอนกำลังหลัก": [
+      "Exfiltrate to the primary extraction point",
+      "Exfiltrate to the primary extraction point."
+    ],
+    "ศัตรูสวมเกราะป้องกัน": [
+      "Enemies are wearing body armor",
+      "Enemies are wearing body armor."
+    ],
+    "ศัตรูสวมหมวกกันน็อก": [
+      "Enemies are wearing helmets",
+      "Enemies are wearing helmets."
+    ],
+    "ศัตรูเสริมกำลังที่มั่นแล้ว": [
+      "Enemies have fortified their position.",
+      "Enemies have fortified their positions",
+      "Enemies have fortified their positions."
+    ],
+    "แลมเบิร์ต - บรูซ มอร์เกนโฮลต์กับอับราฮิม เซอร์เคซีเป็นคู่หูกันในโครงการวัตสัน คณะกรรมการสหประชาชาติที่ถอดรหัสมาสส์เคอร์เนล พวกเขาคือคนที่ค้นพบการเข้ารหัสแบบห้า-สิบสอง ซึ่งเป็นการเข้ารหัสเดียวกับที่ใช้ในข้อความที่คุณกู้คืนมาจากธนาคาร MCAS ถ้าคนที่ชื่อ 'ดโวรัก' คนนี้ได้อัลกอริทึมสงครามข้อมูลข่าวสารที่ใช้มาสส์เป็นฐานไปไว้ในมือ เราก็จะเจอเรื่องเลวร้ายแน่": [
+      "LAMBERT - Bruce Morgenholt and Abrahim Zherkezhi were partnered together on Project Watson, the UN Committee that cracked the Masse kernels. They're the ones who discovered Five-Twelve encryption, the same encryption used in the messages you recovered at MCAS Bank. If this so-called \"Dvorak\" person has somehow gotten his hands on Masse-based IW algos, we're in a world of hurt.",
+      "LAMBERT - Bruce Morgenholt and Abrahim Zherkezhi were partnered together on Project Watson, the UN Committee that cracked the Masse kernels. They're the ones who discovered Five-Twelve encryption, the same encryption used in the messages you recovered at MCAS Bank. If this so-called 'Dvorak' person has somehow gotten his hands on Masse-based IW algos, we're in a world of hurt."
+    ],
+    "ใช่...": [
+      "Yeah...",
+      "Yes..."
+    ],
+    "กริมส์ดอตเตียร์ - ฟิชเชอร์... จากสิ่งที่เราเพิ่งเห็น ฉันว่านั่นคือเครื่องจักรสถานะอนันต์... ไม่ใช่เครื่องจักรสถานะจำกัด": [
+      "GRIMSDOTTIR - Fisher... judging by what we just saw, I think that's an infinite state machine... not a finite state machine.",
+      "GRIMSDOTTIR - Fisher...judging by what we just saw, I think that's an infinite state machine...not a finite state machine."
+    ],
+    "กริมส์ดอตเตียร์ - อันนี้อ้างอิงตัวเอง ชุดผลลัพธ์แต่ละชุดคือชุดคำสั่งเชิงตรรกะที่บอกให้เครื่องจักรเรียกตัวเองซ้ำและสร้างชุดคำสั่งที่แม่นยำขึ้นสำหรับรอบการทำงานถัดไป": [
+      "GRIMSDOTTIR - This one is self-referential. Each output stack is a logical  instruction set that tells the machine to recurse itself and derive a more accurate set of instructions for the execution cycle.",
+      "GRIMSDOTTIR - This one is self-referential. Each output stack is a logical  instruction set that tells the machine to recurse itself and derive a more accurate set of instructions for the next execution cycle."
+    ],
+    "ฟิชเชอร์ - ฉันจะระวัง": [
+      "FISHER - I won't.",
+      "FISHER - I'll be careful."
+    ],
+    "ฟิชเชอร์ - ฉันจะไปดู": [
+      "FISHER - I'll check it out",
+      "FISHER - I'll have a look."
+    ],
+    "แลมเบิร์ต - พระเยซูเจ้า ฟิชเชอร์... คุณไปทำอะไรลงไป?": [
+      "LAMBERT - Sweet Jesus Fisher... what did you do?",
+      "LAMBERT - Sweet Jesus Fisher...what did you do?"
+    ],
+    "แลมเบิร์ต - ให้ตายสิ ฟิชเชอร์... นั่นคือพลเรือนคนที่สองที่คุณฆ่า": [
+      "LAMBERT - Dammit Fisher... that's the second civilian you've killed.",
+      "LAMBERT - Dammit Fisher...that's the second civilian you've killed."
+    ],
+    "ฟิชเชอร์ - แลมเบิร์ต... ฉัน...": [
+      "FISHER - Lambert... I...",
+      "FISHER - Lambert...I..."
+    ],
+    "ค้นหาตัวตนที่แท้จริงของมิลาน เนดิช": [
+      "Discover the real identity of Milan Nedich",
+      "Discover the real identity of Milan Nedich."
+    ],
+    "กริมส์ดอตเตียร์ - ให้ตายสิ แซม แล็ปท็อปเครื่องนั้นมีอัลกอริทึมเข้าถึงเซิร์ฟเวอร์อยู่... คุณต้องดูว่าเขาเก็บข้อมูลสำรองไว้ในเซิร์ฟเวอร์อื่นไหม": [
+      "-GRIMSDOTTIR- Dammit, Sam, that laptop had the server access algorithm on it... you'll need to see if he has the info backed up on another server.",
+      "GRIMSDOTTIR - Dammit, Sam, that laptop had the server access algorithm on it... you'll need to see if he has the info backed up on another server."
+    ],
+    "กริมส์ดอตเตียร์ - ทำได้ดี แซม ตอนนี้คุณเข้าถึงเซิร์ฟเวอร์กลางบนชั้นหนึ่งได้แล้ว": [
+      "-GRIMSDOTTIR- Good work Sam, now you'll be able to access the central server on the first floor.",
+      "GRIMSDOTTIR - Good work Sam, now you'll be able to access the central server on the first floor."
+    ],
+    "กริมส์ดอตเตียร์ - แซม คุณต้องเอารหัสเข้าถึงจากแล็ปท็อปของผู้บริหาร ลองดูว่าแฮกแบบไร้สายได้ไหม": [
+      "-GRIMSDOTTIR- Sam, you need the access codes form the Executive's laptop. See if you can tap into it wirelessly.",
+      "GRIMSDOTTIR - Sam, you need the access codes form the Executive's laptop. See if you can tap into it wirelessly."
+    ],
+    "ฟิชเชอร์ - ฉันจะลองดู": [
+      "FISHER - I'll give it a shot.",
+      "FISHER - I'll give it a whirl."
+    ],
+    "เรดดิง - หน้าต่างทำจากกระจกอิเล็กโทรโครเมียม ข้อมูลจำเพาะอยู่ใน OPSAT ของคุณ": [
+      "-REDDING- The windows are made with electrochromic glass. Specifications on your OPSAT.",
+      "REDDING - The windows are made with electrochromic glass. Specifications on your OPSAT."
+    ],
+    "เรดดิง - มิลาน เนดิช รองประธานฝ่ายปฏิบัติการคุ้มกัน...ดิสเพลส อินเทอร์เนชันแนล": [
+      "-REDDING- Milan Nedich. VP Protection Operations...Displace International.",
+      "REDDING - Milan Nedich. VP Protection Operations...Displace International."
+    ],
+    "กริมส์ดอตเตียร์ - ดูเหมือนพนักงานบางคนติดอยู่ระหว่างประตูคู่ที่ออกไปห้องเซิร์ฟเวอร์ คุณต้องหาทางเข้าอื่น": [
+      "-GRIMSDOTTIR- It looks like some employees managed to get stuck between the double doors leaving to the server room. You'll have to find another way in there.",
+      "GRIMSDOTTIR - It looks like some employees managed to get stuck between the double doors leaving to the server room. You'll have to find another way in there."
+    ],
+    "กริมส์ดอตเตียร์ - มองหาระบบระบายอากาศไว้ คุณอาจหาทางผ่านได้": [
+      "-GRIMSDOTTIR- Check for a ventilation system. You might be able to find a way through.",
+      "GRIMSDOTTIR - Check for a ventilation system. You might be able to find a way through."
+    ],
+    "แลมเบิร์ต - ฟิชเชอร์ นี่คือภารกิจสอดแนม หาว่าดิสเพลสกับเซอร์เคซีร่วมมือกันไหม และอย่าฆ่าใคร": [
+      "-LAMBERT- Fisher, this is  a recon mission. Find out if Displace and Zherkezhi are working together and do not kill anyone.",
+      "LAMBERT - Fisher, this is  a recon mission. Find out if Displace and Zherkezhi are working together and do not kill anyone"
+    ],
+    "กริมส์ดอตเตียร์ - แซม จะช่วยได้มากถ้าคุณดักเซิร์ฟเวอร์ของแต่ละฝ่ายของดิสเพลส ด้วยโปรแกรมเล็กๆ ที่ฉันเขียนขึ้นและใส่ไว้ใน OPSAT ของคุณ": [
+      "-GRIMSDOTTIR- Sam, it would be a big help if you could tap the servers in each of Displace's divisions with a little program I whipped up and put on your OPSAT.",
+      "GRIMSDOTTIR - Sam, it would be a big help if you could tap the servers in each of Displace's divisions with a little program I whipped up and put on your OPSAT."
+    ],
+    "แลมเบิร์ต - หืม... ข้อมูลดูเหมือนถูกย้ายไปที่เครื่องปลายทางของเอ็ม เนดิช... รองประธานฝ่ายปฏิบัติการคุ้มกันของดิสเพลส... เราต้องเข้าถึงคอมพิวเตอร์ของเขาในสำนักงานชั้นบน": [
+      "-LAMBERT- Hmm... the data appears to have been moved to the terminal of Mnedich...Displace VP of Protection Operations... we'll need access to his computer in the Upper Offices.",
+      "LAMBERT - Hmm... the data appears to have been moved to the terminal of Mnedich...Displace VP of Protection Operations... we'll need access to his computer in the Upper Offices."
+    ],
+    "เรดดิง - มิลาน โนวัก... นั่นคือชื่อจริงของเนดิช กลายเป็นว่าเขาเป็นช่างตัดผมแห่งบอสเนีย ผู้ต้องสงสัยอาชญากรสงครามจากความขัดแย้งในบอสเนีย": [
+      "-REDDING- Milan Nowak... that's Nedich's real name. Turns out he's the Barber of Bosnia. Suspected war criminal from the Bosnian conflict.",
+      "REDDING - Milan Nowak... that's Nedich's real name. Turns out he's the Barber of Bosnia. Suspected war criminal from the Bosnian conflict."
+    ],
+    "กริมส์ดอตเตียร์ - เยี่ยมมาก แซม ตอนนี้ฉันไล่ดูไฟล์ของแต่ละฝ่ายของดิสเพลสได้ตามสบาย": [
+      "-GRIMSDOTTIR- Way to go Sam. Now I can peruse Displace's divisional files at my leisure.",
+      "GRIMSDOTTIR - Way to go Sam. Now I can peruse Displace's divisional files at my leisure."
+    ],
+    "เรดดิง - แซม ใช้กล้อง EEV สแกนป้ายทะเบียนรถบรรทุกพวกนั้น ฉันอาจขุดข้อมูลเกี่ยวกับเพื่อนของเราเนดิชได้": [
+      "REDDING - Sam, use your EEV to scan the license plates on those trucks so I can dig up some info on our friend Nedich.",
+      "REDDING - Sam, use your EEV to scan the license plates on those trucks, I might be able to dig up some info on our friend Nedich."
+    ],
+    "ฟิชเชอร์ - ฉันกำลังไป": [
+      "FISHER - I'm on it.",
+      "FISHER - I'm on my way."
+    ],
+    "กี่คน?": [
+      "How many guys?",
+      "How many men?",
+      "How many?"
+    ],
+    "รถสวยดีนะ": [
+      "Nice truck.",
+      "Nice wheels."
+    ],
+    "กำจัดมิลาน เนดิช": [
+      "Eliminate Milan Nedich",
+      "Eliminate Milan Nedich."
+    ],
+    "โอเค": [
+      "Ok",
+      "Okay."
+    ],
+    "เก็บกู้ไมโครโฟนที่ซ่อนไว้": [
+      "Retrieve the hidden microphones",
+      "Retrieve the hidden microphones."
+    ],
+    "กำจัดดักลาส เชตแลนด์": [
+      "Eliminate Douglas Shetland",
+      "Eliminate Douglas Shetland."
+    ],
+    "เมสัน - นับตั้งแต่เรือวอลช์ถูกทำลาย เรือยูเอสเอส โรนัลด์ เรแกนเข้ารับหน้าที่บังคับบัญชาและควบคุมกลุ่มรบในทะเลเหลือง กองเรือของเราอยู่ในระดับเตือนภัยแดง ในกรณีสงคราม เราพร้อมปฏิบัติการบินโจมตีแม่นยำต่อเป้าหมายสำคัญ เพื่อลดขีดความสามารถการป้องกันชายฝั่งของเกาหลีเหนือสำหรับการแทรกซึมหลังแนวรบที่รุกเข้ามา ถ้าข่าวกรองชี้ว่าพวกเกาหลีหาที่ตาย พวกเขาก็จะได้เจอ ใครก็ตามที่อยู่ในฐานยิงนั้นตอนนกหวีดดัง ควรหาหมวกเหล็กกับไบเบิลไว้ให้ตัวเอง": [
+      "MASON - Since the destruction of the Walsh, USS Ronald Reagan has assumed C and C duties for the Battle Group in the Yellow Sea. Our fleet is on Red Alert. In case of war, we are prepared to conduct precision sorties against high-value targets aimed at reducing North Korean coastal defenses for insertion behind their advancing front. If intelligence indicates that the Koreans are picking a fight, then it's a fight they'll get. Anyone in that battery when the whistle blows better find himself a tin hat and a bible.",
+      "MASSON - Since the destruction of the Walsh, USS Ronald Reagan has assumed C and C duties for the Battle Group in the Yellow Sea. Our fleet is on Red Alert. In case of war, we are prepared to conduct precision sorties against high-value targets aimed at reducing North Korean coastal defenses for insertion behind their advancing front. If intelligence indicates that the Koreans are picking a fight, then it's a fight they'll get. Anyone in that battery when the whistle blows better find himself a tin hat and a bible."
+    ],
+    "เจาะ BIOS ของเครื่องยิงเพื่อตามรอยข้อมูลเส้นทางของชิ้นส่วนอัลกอริทึมดโวรัก.": [
+      "Tap the launcher BIOS for a fingerprint of Dvorak algorithm fragments.",
+      "Tap the launcher BIOS to trace routing data for the Dvorak algorithm fragments."
+    ],
+    "กริมส์ดอตเตียร์ - การโจมตีทางสงครามข้อมูลข่าวสารที่ยิงขีปนาวุธจมเรือวอลช์ผ่านโซล ฉันตามรอยมันย้อนกลับไปไกลกว่าสถานีสวิตช์ไม่ได้ และฉันก็ไม่แน่ใจด้วยซ้ำว่ามันไม่ได้เริ่มต้นที่นั่น มันเป็นไปได้ทีเดียวว่าเกาหลีใต้บงการให้เราเข้าสู่สงครามโดยบีบให้ฝ่ายเหนือโจมตีสหรัฐฯ ฉันจะลองแฮกเข้าไปเอง แต่ท่อข้อมูลนี้ใหญ่และปลอดภัยดี และความเสียหายจากการสู้รบก็ตัดช่องทางเข้าออกส่วนใหญ่ออกไปแล้ว คุณต้องเข้าไปเก็บข้อมูลด้วยมือ แล้วส่งมันออกแบบจุดต่อจุดเพื่อให้เราดูใกล้ๆ": [
+      "GRIMSDOTTIR -  The information warfare attacks that launched the missile that sank the Walsh came through Seoul. I wasn't able to trace them back any further than the switching station, and I don't even know for sure that they didn't originate there. It's entirely possible that South Korea has manipulated us into war by forcing the North to attack the US. I would just try and hack my way in, but this is a fat, secure data pipe, and damage caused by the fighting has already isolated most of the entry ports. You need to get in there and recover the data manually, then broadcast it out point-to-point so we can take a closer look.",
+      "GRIMSDOTTIR - The information warfare attacks that launched the missile that sank the Walsh came through Seoul. I wasn't able to trace them back any further than the switching station, and I don't even know for sure that they didn't originate there. It's entirely possible that South Korea has manipulated us into war by forcing the North to attack the US. I would just try and hack my way in, but this is a fat, secure data pipe, and damage caused by the fighting has already isolated most of the entry ports. You need to get in there and recover the data manually, then broadcast it out point-to-point so we can take a closer look."
+    ],
+    "ฟิชเชอร์ - ด้วยความยินดี": [
+      "FISHER - My pleasure.",
+      "FISHER - With pleasure."
+    ],
+    "ผมไม่รู้อะไรอีกแล้ว": [
+      "I don't know any more.",
+      "I don't know anything else."
+    ],
+    "แลมเบิร์ต - เอเชลอนตามตัวดักลาส เชตแลนด์พบที่โตเกียวเมื่อหกชั่วโมงก่อน เขาเคลื่อนที่ตลอดและใช้การสื่อสารไร้สาย และจากสิ่งที่เราถอดรหัสได้ ดูเหมือนเขากำลังจะปิดธุรกิจกับผู้ติดต่อชาวญี่ปุ่นของเขาไม่ว่าเป็นใคร จากสิ่งที่เราดักฟังได้ ดูเหมือนเขากับคนของเขากำลังจะมารวมตัวกันที่โรงอาบน้ำแห่งหนึ่งกลางเมือง เราต้องรู้ว่าเชตแลนด์ประชุมกับใคร และทำทุกทางเพื่อป้องกันไม่ให้เขาปิดดีลได้": [
+      "LAMBERT - Echelon tracked down Doug Shetland in Tokyo six hours ago. He's mobile and he's wireless, and from what we've managed to decrypt, it looks like he's about to wrap up his business with whoever his Japanese contacts are. From what we've managed to pick out of the air, it looks like he and his men are about to converge on a bathhouse in the center of the city. We need to find out who Shetland is meeting with and do everything we can to prevent him from closing his deal.",
+      "Lambert: Echelon tracked down Doug Shetland in Tokyo six hours ago. He's mobile and he's wireless, and from what we've managed to decrypt, it looks like he's about to wrap up his business with whoever his Japanese contacts are. From what we've managed to pick out of the air, it looks like he and his men are about to converge on a bath house in the center of the city. We need to find out who Shetland is meeting with and do everything we can to prevent him from closing his deal."
+    ],
+    "คอมพิวเตอร์ของเจ้าของอยู่ในห้องทำงานของเขา ชั้นบนจากเคาน์เตอร์ต้อนรับ": [
+      "The owner's computer is in his office, upstairs from reception.",
+      "The owners computer is in his office, upstairs from reception."
+    ],
+    "เข้าไปในโรงอาบน้ำ": [
+      "Gain entry to the bath house.",
+      "Gain entry to the bathhouse."
+    ],
+    "คุณเจออะไรไหม?": [
+      "Did you find anything?",
+      "You find anything?"
+    ],
+    "ฟิชเชอร์ - ห้องสงครามอยู่ที่ไหน?": [
+      "FISHER - Where is the War Room?",
+      "FISHER - Where's the War Room?"
+    ],
+    "ทหาร - หมายความว่าไง?": [
+      "SOLDIER - What do you mean?",
+      "SOLDIER- What do you mean?"
+    ],
+    "จับตัว": [
+      "Grab",
+      "Grab character"
+    ],
+    "ไฟล์": [
+      "FILE",
+      "FILES",
+      "File"
+    ],
+    "รูปภาพ": [
+      "IMAGE",
+      "Image"
+    ],
+    "กล้องวงจรปิด": [
+      "CAMERA",
+      "Camera"
+    ],
+    "เล่นต่อ": [
+      "CONTINUE",
+      "RESUME",
+      "RESUME GAME"
+    ],
+    "ไม่ระบุ": [
+      "UNKNOWN",
+      "unknown"
+    ],
+    "สลับอุปกรณ์เสริม": [
+      "SWITCH ATTACHMENT",
+      "Switch Attachment"
+    ],
+    "ภารกิจล้มเหลว": [
+      "GAME OVER",
+      "MISSION FAILED"
+    ],
+    "ภารกิจสำเร็จ": [
+      "MISSION COMPLETE",
+      "MISSION SUCCESS"
+    ],
+    "แผนที่": [
+      "MAP",
+      "MAPS"
+    ],
+    "สัญญาณเตือนภัยที่ดังขึ้น": [
+      "ALARMS TRIGGERED",
+      "TRIGGERED ALARMS"
+    ],
+    "บันทึกเกม": [
+      "SAVE",
+      "SAVE GAME"
+    ],
+    "โหลดเกม": [
+      "LOAD",
+      "LOAD GAME"
+    ],
+    "ออกจากเกม": [
+      "EXIT",
+      "QUIT",
+      "QUIT GAME"
+    ],
+    "เริ่มเกมใหม่": [
+      "NEW GAME",
+      "RESTART GAME"
+    ],
+    "กด START เพื่อเล่นต่อ": [
+      "PRESS START",
+      "PRESS START TO CONTINUE"
+    ],
+    "กับระเบิดติดผนังตรวจจับการเคลื่อนไหว และสามารถปลดชนวนได้เมื่อไฟสัญญาณเป็นสีเขียว": [
+      "Wall mines are motion sensitive and can be disabled when the light is green",
+      "Wall mines are motion sensitive and can be disabled when the light is green."
+    ],
+    "ปุ่ม Co-op ใช้สำหรับเริ่มและทำท่าปฏิบัติการร่วมให้สมบูรณ์": [
+      "The coop button is used to initiate and complete Co-op Moves.",
+      "The coop button, is used to initiate and complete Co-op Moves."
+    ],
+    "ภารกิจ": [
+      "MISSION",
+      "MISSIONS"
+    ],
+    "ระดับฝีมือ": [
+      "SKILLS",
+      "SKILLS RANGE"
+    ],
+    "ออนไลน์": [
+      "ONLINE",
+      "XBOX LIVE"
+    ],
+    "กำลังเข้าร่วมห้องแข่งขัน...": [
+      "JOINING MATCH...",
+      "JOINING MATCH...."
+    ],
+    "จับคู่ด่วน": [
+      "QUICK MATCH",
+      "QUICKGAME",
+      "QUICKMATCH"
+    ],
+    "เพื่อน": [
+      "FRIEND",
+      "FRIENDS"
+    ],
+    "เปิดเสียงพูด": [
+      "TURN ON VOICE",
+      "VOICE ON"
+    ],
+    "ปิดเสียงพูด": [
+      "TURN OFF VOICE",
+      "VOICE MUTED"
+    ],
+    "ลบออกจากรายชื่อเพื่อน": [
+      "REMOVE FROM FRIEND LIST",
+      "REMOVE FROM FRIENDS LIST"
+    ],
+    "ไม่สามารถเข้าร่วมห้องแข่งขันนี้ได้ คุณไม่มีไฟล์เซฟเกมเดียวกัน!": [
+      "UNABLE TO JOIN THIS MATCH. YOU DON'T HAVE THE SAME SAVED GAME!",
+      "UNABLE TO JOIN THIS MATCH. YOU DONT HAVE THE SAME SAVED GAME!"
+    ],
+    "การตั้งค่า": [
+      "OPTIONS",
+      "SETTINGS",
+      "Settings"
+    ],
+    "เลือกอุปกรณ์": [
+      "EQUIPMENT SELECTION",
+      "LOAD OUT"
+    ],
+    "ข้อความ": [
+      "MESSAGE",
+      "MESSAGES"
+    ],
+    "เขียนข้อความ": [
+      "COMPOSE",
+      "COMPOSE MESSAGE"
+    ],
+    "ระบบเสียง": [
+      "SOUND",
+      "SOUNDS"
+    ],
+    "กระโดด": [
+      "JUMP",
+      "Jump / Split Jump"
+    ],
+    "เมนูหยุดเกม": [
+      "PAUSE MENU",
+      "Pause Menu"
+    ],
+    "กล้องมองกลางคืน": [
+      "NIGHT VISION",
+      "Night vision"
+    ],
+    "เพิกเฉย": [
+      "IGNORE",
+      "Ignore"
+    ],
+    "ไม่มี": [
+      "NONE",
+      "None"
+    ],
+    "ปิด": [
+      "CLOSE",
+      "OFF"
+    ],
+    "รหัสผ่านไม่ถูกต้อง": [
+      "INVALID PASSWORD.",
+      "THE PASSWORD IS NOT CORRECT"
+    ],
+    "ไม่พบผู้ใช้": [
+      "USER NOT FOUND.",
+      "USER WAS NOT FOUND."
+    ]
+  },
+  "speaker_variants": {
+    "RE": {
+      "RE": 1,
+      "ตอบกลับ": 1
+    }
+  },
+  "latin_tokens_in_th": [
+    [
+      "n",
+      496
+    ],
+    [
+      "ubi",
+      98
+    ],
+    [
+      "s",
+      54
+    ],
+    [
+      "unknown",
+      50
+    ],
+    [
+      "x",
+      39
+    ],
+    [
+      "k",
+      27
+    ],
+    [
+      "eev",
+      27
+    ],
+    [
+      "mcas",
+      24
+    ],
+    [
+      "ea",
+      23
+    ],
+    [
+      "i",
+      22
+    ],
+    [
+      "joy",
+      22
+    ],
+    [
+      "wnm",
+      21
+    ],
+    [
+      "amon",
+      21
+    ],
+    [
+      "f",
+      19
+    ],
+    [
+      "co-op",
+      19
+    ],
+    [
+      "bios",
+      19
+    ],
+    [
+      "y",
+      18
+    ],
+    [
+      "xbox",
+      17
+    ],
+    [
+      "ocp",
+      16
+    ],
+    [
+      "c",
+      15
+    ],
+    [
+      "kp",
+      15
+    ],
+    [
+      "d",
+      14
+    ],
+    [
+      "live",
+      14
+    ],
+    [
+      "p",
+      13
+    ],
+    [
+      "r",
+      13
+    ],
+    [
+      "e",
+      12
+    ],
+    [
+      "pmc",
+      12
+    ],
+    [
+      "ndt",
+      12
+    ],
+    [
+      "dmz",
+      10
+    ],
+    [
+      "sdf",
+      10
+    ],
+    [
+      "soft",
+      10
+    ],
+    [
+      "unknownb",
+      10
+    ],
+    [
+      "uav",
+      9
+    ],
+    [
+      "ubi.com",
+      8
+    ],
+    [
+      "unreal",
+      7
+    ],
+    [
+      "w",
+      7
+    ],
+    [
+      "ak",
+      7
+    ],
+    [
+      "nasa",
+      7
+    ],
+    [
+      "unknownc",
+      7
+    ],
+    [
+      "cdkey",
+      7
+    ],
+    [
+      "class",
+      6
+    ],
+    [
+      "chaos",
+      6
+    ],
+    [
+      "theory",
+      6
+    ],
+    [
+      "cgib",
+      6
+    ],
+    [
+      "g-sdf",
+      6
+    ],
+    [
+      "tobin",
+      6
+    ],
+    [
+      "out",
+      6
+    ],
+    [
+      "shader",
+      6
+    ],
+    [
+      "unknowna",
+      6
+    ],
+    [
+      "axis",
+      6
+    ],
+    [
+      "unknownf",
+      6
+    ],
+    [
+      "start",
+      5
+    ],
+    [
+      "d-pad",
+      5
+    ],
+    [
+      "iss",
+      5
+    ],
+    [
+      "mcc",
+      5
+    ],
+    [
+      "qa",
+      5
+    ],
+    [
+      "emea",
+      5
+    ],
+    [
+      "ninja",
+      5
+    ],
+    [
+      "entertainment",
+      5
+    ],
+    [
+      "model",
+      5
+    ],
+    [
+      "support.ubi.com",
+      4
+    ],
+    [
+      "people's",
+      4
+    ],
+    [
+      "voice",
+      4
+    ],
+    [
+      "five-seven",
+      4
+    ],
+    [
+      "sscc",
+      4
+    ],
+    [
+      "opsec",
+      4
+    ],
+    [
+      "lan",
+      4
+    ],
+    [
+      "tune",
+      4
+    ],
+    [
+      "blue",
+      4
+    ],
+    [
+      "dpad",
+      4
+    ],
+    [
+      "mouse",
+      4
+    ],
+    [
+      "name",
+      3
+    ],
+    [
+      "metaclass",
+      3
+    ],
+    [
+      "advanced",
+      3
+    ],
+    [
+      "cs",
+      3
+    ],
+    [
+      "emf",
+      3
+    ],
+    [
+      "ump",
+      3
+    ],
+    [
+      "v",
+      3
+    ],
+    [
+      "black",
+      3
+    ],
+    [
+      "cnsa",
+      3
+    ],
+    [
+      "cdc",
+      3
+    ],
+    [
+      "ir",
+      3
+    ],
+    [
+      "i.d",
+      3
+    ],
+    [
+      "producer",
+      3
+    ],
+    [
+      "ctrl",
+      3
+    ],
+    [
+      "bricolage",
+      3
+    ],
+    [
+      "from",
+      3
+    ],
+    [
+      "inc",
+      3
+    ],
+    [
+      "shift",
+      3
+    ],
+    [
+      "caption",
+      2
+    ],
+    [
+      "parent",
+      2
+    ],
+    [
+      "options",
+      2
+    ],
+    [
+      "direct",
+      2
+    ],
+    [
+      "server",
+      2
+    ],
+    [
+      "game",
+      2
+    ],
+    [
+      "apds",
+      2
+    ],
+    [
+      "fs",
+      2
+    ],
+    [
+      "sm",
+      2
+    ],
+    [
+      "unrealserver",
+      2
+    ],
+    [
+      "u",
+      2
+    ],
+    [
+      "split",
+      2
+    ],
+    [
+      "jump",
+      2
+    ],
+    [
+      "back",
+      2
+    ],
+    [
+      "white",
+      2
+    ],
+    [
+      "esa",
+      2
+    ],
+    [
+      "mnedich",
+      2
+    ],
+    [
+      "prince",
+      2
+    ],
+    [
+      "of",
+      2
+    ],
+    [
+      "persia",
+      2
+    ],
+    [
+      "halo",
+      2
+    ],
+    [
+      "nato",
+      2
+    ],
+    [
+      "jcos",
+      2
+    ],
+    [
+      "rf",
+      2
+    ],
+    [
+      "dsl",
+      2
+    ],
+    [
+      "norad",
+      2
+    ],
+    [
+      "nmathieu",
+      2
+    ],
+    [
+      "tremblay",
+      2
+    ],
+    [
+      "line",
+      2
+    ],
+    [
+      "flame",
+      2
+    ],
+    [
+      "executive",
+      2
+    ],
+    [
+      "video",
+      2
+    ],
+    [
+      "tools",
+      2
+    ],
+    [
+      "i.f.f",
+      2
+    ],
+    [
+      "alt",
+      2
+    ],
+    [
+      "walsh",
+      2
+    ],
+    [
+      "tomoe",
+      2
+    ],
+    [
+      "nage",
+      2
+    ],
+    [
+      "in",
+      2
+    ],
+    [
+      "cujo",
+      2
+    ],
+    [
+      "like",
+      2
+    ],
+    [
+      "where",
+      2
+    ],
+    [
+      "cd-key",
+      2
+    ],
+    [
+      "s.a",
+      2
+    ],
+    [
+      "red",
+      2
+    ],
+    [
+      "storm",
+      2
+    ],
+    [
+      "byte",
+      2
+    ],
+    [
+      "software",
+      2
+    ],
+    [
+      "www.ubi.com",
+      2
+    ],
+    [
+      "esc",
+      2
+    ],
+    [
+      "page",
+      2
+    ],
+    [
+      "left",
+      2
+    ],
+    [
+      "right",
+      2
+    ],
+    [
+      "control",
+      2
+    ],
+    [
+      "unknownd",
+      2
+    ],
+    [
+      "z",
+      2
+    ],
+    [
+      "blob",
+      2
+    ],
+    [
+      "ddrv.d",
+      1
+    ],
+    [
+      "drenderdevice",
+      1
+    ],
+    [
+      "engine.renderdevice",
+      1
+    ],
+    [
+      "autodetect",
+      1
+    ],
+    [
+      "rendering",
+      1
+    ],
+    [
+      "echelon.echelongameinfo",
+      1
+    ],
+    [
+      "engine.gameinfo",
+      1
+    ],
+    [
+      "engine.servercommandlet",
+      1
+    ],
+    [
+      "core.commandlet",
+      1
+    ],
+    [
+      "ik",
+      1
+    ],
+    [
+      "epic",
+      1
+    ],
+    [
+      "www.unreal.com",
+      1
+    ],
+    [
+      "upgrade",
+      1
+    ],
+    [
+      "playerstart",
+      1
+    ],
+    [
+      "map.unr",
+      1
+    ],
+    [
+      "gametype",
+      1
+    ],
+    [
+      "option",
+      1
+    ],
+    [
+      "parm",
+      1
+    ],
+    [
+      "value",
+      1
+    ],
+    [
+      "unreal.epicgames.com",
+      1
+    ],
+    [
+      "servertips.htm",
+      1
+    ],
+    [
+      "log",
+      1
+    ],
+    [
+      "alladmin",
+      1
+    ],
+    [
+      "bullpup",
+      1
+    ],
+    [
+      "composition",
+      1
+    ],
+    [
+      "tom",
+      1
+    ],
+    [
+      "clancy's",
+      1
+    ],
+    [
+      "mmx",
+      1
+    ],
+    [
+      "cpu",
+      1
+    ],
+    [
+      "rainbow",
+      1
+    ],
+    [
+      "six",
+      1
+    ],
+    [
+      "ghost",
+      1
+    ],
+    [
+      "recon",
+      1
+    ],
+    [
+      "wi-fi",
+      1
+    ],
+    [
+      "adps",
+      1
+    ],
+    [
+      "secure",
+      1
+    ],
+    [
+      "access",
+      1
+    ],
+    [
+      "port",
+      1
+    ],
+    [
+      "address",
+      1
+    ],
+    [
+      "photobacterium",
+      1
+    ],
+    [
+      "phosphorium",
+      1
+    ],
+    [
+      "pp",
+      1
+    ],
+    [
+      "re",
+      1
+    ],
+    [
+      "mercantil",
+      1
+    ],
+    [
+      "costa",
+      1
+    ],
+    [
+      "afuerda",
+      1
+    ],
+    [
+      "securidad",
+      1
+    ],
+    [
+      "de",
+      1
+    ],
+    [
+      "panama",
+      1
+    ],
+    [
+      "abs",
+      1
+    ],
+    [
+      "mp",
+      1
+    ],
+    [
+      "gbu",
+      1
+    ],
+    [
+      "igs",
+      1
+    ],
+    [
+      "dsmac",
+      1
+    ]
+  ],
+  "counts": {
+    "identical_en_th": 242,
+    "latin_heavy": 20,
+    "digits_mismatch": 25,
+    "placeholder_mismatch": 0,
+    "space_mismatch": 0,
+    "short_ratio": 1,
+    "forbidden_chars": 0,
+    "cp874_fail": 26,
+    "multi_thai_for_same_en": 104,
+    "multi_en_for_same_th": 161,
+    "speaker_variants": 1,
+    "distinct_en": 7008,
+    "distinct_th": 6928
+  }
+}

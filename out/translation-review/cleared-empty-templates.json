@@ -1,0 +1,464 @@
+[
+  {
+    "file": "opsat/d3ddrv.json",
+    "section": "D3DRenderDevice",
+    "key": "AskUse",
+    "en": "",
+    "th_removed": "คุณต้องการเปิดใช้ Direct3D หรือไม่?"
+  },
+  {
+    "file": "opsat/engine.json",
+    "section": "Menu",
+    "key": "HelpMessage",
+    "en": "",
+    "th_removed": "คำแนะนำช่วยเหลือ"
+  },
+  {
+    "file": "opsat/engine.json",
+    "section": "Menu",
+    "key": "MenuList",
+    "en": "",
+    "th_removed": "รายการเมนู"
+  },
+  {
+    "file": "opsat/engine.json",
+    "section": "WarpZoneInfo",
+    "key": "OtherSideURL",
+    "en": "",
+    "th_removed": "URL ปลายทาง"
+  },
+  {
+    "file": "opsat/engine.json",
+    "section": "Pickup",
+    "key": "ExpireMessage",
+    "en": "",
+    "th_removed": "ไอเทมหมดอายุ"
+  },
+  {
+    "file": "opsat/engine.json",
+    "section": "SpecialEvent",
+    "key": "DamageString",
+    "en": "",
+    "th_removed": "ความเสียหาย"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FN2000",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงเพื่อยิงกระสุน หรือกดปุ่มยิงโหมดพิเศษเพื่อใช้อุปกรณ์เสริมที่ติดตั้ง"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FN2000AMMO",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "บรรจุกระสุนเข้าสู่ปืน SC-20K โดยอัตโนมัติเมื่อกดรีโหลด"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FN7",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงเพื่อยิงกระสุน 5.7 มม. หรือกดปุ่มยิงโหมดพิเศษเพื่อยิงลำแสง OCP รบกวนอุปกรณ์ไฟฟ้า"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FN7AMMO",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "บรรจุกระสุนเข้าสู่ปืนพก SC โดยอัตโนมัติเมื่อกดรีโหลด"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "SCOPE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงโหมดพิเศษเพื่อสลับใช้งาน เล็งผ่านกล้องและกลั้นหายใจก่อนลั่นไก"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FOREGRIP",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ติดตั้งเข้ากับปืน SC-20K เพื่อเพิ่มความนิ่งและลดแรงถอยโดยอัตโนมัติ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "LAUNCHER",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงโหมดพิเศษเพื่อยิงแกดเจ็ตขนาด 40 มม. ที่เลือกไว้ผ่านเครื่องยิง"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "SHOTGUN",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงโหมดพิเศษเพื่อยิงกระสุนลูกซองระยะประชิด"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "GUNBAREL",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "อุปกรณ์เสริมส่วนลำกล้องสำหรับประกอบเข้ากับโครงสร้างตัวปืน"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "GUNGRIP",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ช่วยเพิ่มการควบคุมและความกระชับมือขณะใช้งานอาวุธ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "GUNSCOPE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ใช้สำหรับซูมและเล็งเป้าหมายระยะไกลได้อย่างแม่นยำ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "SHOTGUNAMMO",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "บรรจุกระสุนเข้าสู่อุปกรณ์เสริมลูกซองโดยอัตโนมัติ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "SCOPEAMMO",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "บรรจุกระสุนเข้าสู่อุปกรณ์เสริมสไนเปอร์โดยอัตโนมัติ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "AK47",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงเพื่อยิงกระสุน 7.62 มม. ในโหมดอัตโนมัติ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "BERETTA",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงเพื่อยิงกระสุนกึ่งอัตโนมัติทีละนัด"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "C4",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ติดตั้งบนพื้นผิวเป้าหมายแล้วจุดชนวนระเบิดจากระยะไกล"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FLARE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "จุดชนวนและขว้างไปยังตำแหน่งที่ต้องการส่องสว่างหรือล่อเป้าหมาย"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "CHEMICALFLARE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "หักแท่งเคมีเพื่อเปิดใช้งาน แล้วขว้างหรือวางในจุดที่ต้องการแสงสว่าง"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "DISPOSABLEPICK",
+    "key": "Description",
+    "en": "",
+    "th_removed": "อุปกรณ์สะเดาะกุญแจแบบอิเล็กทรอนิกส์ขนาดพกพาแบบใช้ครั้งเดียว สำหรับปลดล็อกกลอนประตูได้อย่างรวดเร็วในทันที"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FLASHGRENADE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ดึงสลักแล้วขว้างเข้าสู่พื้นที่เป้าหมายเพื่อทำให้ศัตรูไร้ความสามารถในการต่อสู้ชั่วคราว"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FLASHLIGNT",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "เปิดเพื่อส่องสว่างในที่มืด หรือปิดเพื่อคงการพรางตัวในเงามืด"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "FRAGGRENADE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ดึงสลักแล้วขว้างไปยังกลุ่มเป้าหมายเพื่อทำลายล้างในรัศมีระเบิด"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "REVIVESYRINGE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ฉีดใส่เพื่อนร่วมทีมที่หมดสติเพื่อฟื้นฟูสภาพและชุบชีวิตกลับเข้าสู่ภารกิจ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "GAZGRENADE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ดึงสลักแล้วขว้างไปยังพื้นที่เป้าหมายเพื่อปล่อยควันแก๊สหยุดการเคลื่อนไหวของศัตรู"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "LASERMIC",
+    "key": "Description",
+    "en": "",
+    "th_removed": "ไมโครโฟนเลเซอร์ระยะไกล ใช้ยิงลำแสงสะท้อนกับกระจกหน้าต่างเพื่อดักฟังเสียงสนทนาภายในห้องจากระยะปลอดภัย"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "LASERMIC",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "เล็งลำแสงเลเซอร์ไปที่กระจกหน้าต่างของห้องเป้าหมายเพื่อดักฟังเสียงสนทนา"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "LIQUIDNITROGEN",
+    "key": "Description",
+    "en": "",
+    "th_removed": "สารทำความเย็นไนโตรเจนเหลวอุณหภูมิต่ำยิ่งยวด ใช้แช่แข็งกลไกล็อกหรืออุปกรณ์ให้เปราะแตกหักง่าย"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "LIQUIDNITROGEN",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ฉีดพ่นลงบนเป้าหมายหรือกลไกที่ต้องการลดอุณหภูมิลงอย่างรวดเร็ว"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "LOCKPICK",
+    "key": "Description",
+    "en": "",
+    "th_removed": "ชุดเครื่องมือสะเดาะกลอนกุญแจมาตรฐาน สำหรับเปิดประตูล็อกทั่วไปได้อย่างเงียบเชียบและไม่ทิ้งร่องรอย"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "LOCKPICK",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ใช้กับประตูล็อก หมุนแกนและดันสลักเพื่อปลดล็อกกลอนทีละขั้น"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "M18SMOKEGRENADE",
+    "key": "Description",
+    "en": "",
+    "th_removed": "ระเบิดควันสีทางยุทธวิธี M18 ใช้สร้างกลุ่มควันหนาทึบสำหรับส่งสัญญาณพิกัดหรืออำพรางทัศนวิสัย"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "M18SMOKEGRENADE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ดึงสลักแล้วขว้างเพื่อสร้างม่านควันสัญญาณหรือบดบังสายตา"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "MEDKIT",
+    "key": "Description",
+    "en": "",
+    "th_removed": "ชุดปฐมพยาบาลภาคสนามฉุกเฉิน บรรจุเวชภัณฑ์สำหรับฟื้นฟูพลังชีวิตและรักษาบาดแผลจากการปะทะ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "MEDKIT",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "เปิดใช้งานเมื่อได้รับบาดเจ็บเพื่อฟื้นฟูแถบพลังชีวิตของแซม"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "OPTICCABLE",
+    "key": "Description",
+    "en": "",
+    "th_removed": "กล้องสายเคเบิลใยแก้วนำแสงแบบยืดหยุ่น สามารถสอดลอดใต้บานประตูเพื่อสอดแนมห้องฝั่งตรงข้ามได้อย่างปลอดภัย"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "OPTICCABLE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "สอดเข้าใต้บานประตูที่ปิดอยู่เพื่อตรวจดูกำลังคนและเส้นทางลาดตระเวนของศัตรูก่อนเปิดประตู"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "RINGAIRFOILROUND",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ยิงใส่เป้าหมายเพื่อทำให้ล้มลงหรือมึนงงชั่วคราว จากนั้นเข้าประชิดเพื่อทำให้หมดสติ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "SMOKEGRENADE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ดึงสลักแล้วขว้างเพื่อสร้างม่านควันอำพรางสายตาทหารยามและกล้องวงจรปิด"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "STICKYCAMERA",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ยิงติดกับผนังหรือเพดาน สลับมุมมองเพื่อตรวจดูพื้นที่ ส่งเสียงล่อ หรือปล่อยแก๊สใส่ศัตรู"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "STICKYSHOCKER",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ยิงใส่ตัวศัตรูโดยตรงหรือยิงลงในผืนน้ำเพื่อช็อตเป้าหมายให้หมดสติทันที"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "INFRAREDSTRESSGEN",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "เปิดใช้งานเพื่อสร้างสัญญาณหลอกเบี่ยงเบนความสนใจของทหารยามและอุปกรณ์ตรวจจับ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "WALLMINE",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ติดตั้งบนผนังหรือพื้นผิวในเส้นทางเดินของศัตรู ระวังอย่าเคลื่อนที่เร็วขณะอยู่ใกล้เซ็นเซอร์"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "TARGETBEACON",
+    "key": "Description",
+    "en": "",
+    "th_removed": "อุปกรณ์ส่งสัญญาณวิทยุระบุพิกัดเป้าหมาย สำหรับนำวิถีการโจมตีทางอากาศหรือระบุจุดรับส่งกำลัง"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "TARGETBEACON",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "ติดตั้งหรือขว้างไปยังตำแหน่งที่ต้องการระบุพิกัดเป้าหมายอย่างแม่นยำ"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "UMP",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงเพื่อยิงกระสุนทำลายล้างเป้าหมายในระยะใกล้ถึงปานกลาง"
+  },
+  {
+    "file": "opsat/equipment.json",
+    "section": "UZI",
+    "key": "HowToUseMe",
+    "en": "",
+    "th_removed": "กดปุ่มยิงเพื่อกราดกระสุนอย่างรวดเร็วในระยะประชิด"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_BAD_CONTENT_TYPE",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_REQUEST_TOO_SMALL",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_INVALID_MESSAGE_TYPE",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_NO_ADDRESS",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_INVALID_PUID",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_NO_CONNECTION",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_SEND_FAILED",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_RECV_FAILED",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_MESSAGE_TRUNCATED",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_SERVER_BUSY",
+    "en": "",
+    "th_removed": "โปรดลองใหม่อีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_FLUSH_TICKETS",
+    "en": "",
+    "th_removed": "ล้างตั๋วแจ้งเตือน"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_TOO_MANY_REQUESTS",
+    "en": "",
+    "th_removed": "คำขอบ่อยเกินไป โปรดลองอีกครั้งในภายหลัง"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_SAME_TITLE",
+    "en": "",
+    "th_removed": "เกมเดียวกัน"
+  },
+  {
+    "file": "ui/xbox_live.json",
+    "section": "XboxLiveErrors",
+    "key": "XONLINE_E_NOTIFICATION_NO_TASK",
+    "en": "",
+    "th_removed": "ไม่มีงานที่พร้อมใช้งาน"
+  }
+]
