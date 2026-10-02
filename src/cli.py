@@ -32,6 +32,9 @@ from src.pipeline.merger import merge_translations
 from src.pipeline.compiler import compile_translations
 from src.pipeline.font_builder import build_thai_fonts
 from src.pipeline.magma_builder import build_magma_fonts
+from src.pipeline.validation import validate_localization_assets
+
+STARTUP_IMAGE_NAMES = ("splintercell3logo.bmp", "SplinterCell3Logo.tga")
 
 
 def get_config(config_path: str = "config.json") -> dict:
@@ -115,6 +118,9 @@ def cmd_build_umd(args: argparse.Namespace) -> None:
 
     print("\nStep 2: Building 2D Magma UI fonts with Chakra Petch...")
     magma_assets = build_magma_fonts(config_path=PROJECT_ROOT / "config.json", verbose=False, custom_ttf_path=getattr(args, "font", None))
+    checks = validate_localization_assets(compiled_assets, magma_assets,
+                                         PROJECT_ROOT / "config.json", getattr(args, "font", None))
+    print(f"Localization/font validation passed: {checks}")
     compiled_assets.update(magma_assets)
     print(f"Added {len(magma_assets)} Magma font assets into UMD package list.")
 
@@ -176,7 +182,10 @@ def cmd_stats(args: argparse.Namespace) -> None:
                     if k.startswith("_"):
                         continue
                     file_total += 1
-                    if isinstance(v, dict) and v.get("th", "").strip():
+                    en_text = str(v.get("en", "") if isinstance(v, dict) else "")
+                    th_text = str(v.get("th", "") if isinstance(v, dict) else "")
+                    # Whitespace-only templates need no translation: count as satisfied.
+                    if th_text.strip() or not en_text.strip():
                         file_trans += 1
             pct = (file_trans / file_total * 100) if file_total > 0 else 0
             bar_len = 20
@@ -232,6 +241,14 @@ def cmd_backup(args: argparse.Namespace) -> None:
             dst = loose_backup / f.name
             if not dst.exists():
                 shutil.copy2(f, dst)
+
+    # 4. Preserve startup images before the first replacement.
+    for filename in STARTUP_IMAGE_NAMES:
+        source = game_dir / "System" / filename
+        destination = backup_dir / "System" / filename
+        if source.is_file() and not destination.exists():
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, destination)
 
 
 def cmd_install(args: argparse.Namespace) -> None:
@@ -296,6 +313,19 @@ def cmd_install(args: argparse.Namespace) -> None:
                 shutil.copy2(f, target_magma_dir / f.name)
                 magma_count += 1
         print(f"Installed {magma_count} Magma UI font files into {target_magma_dir}!")
+        installed_anything = True
+
+    # 5. Install the user's localized startup artwork when present.
+    startup_count = 0
+    for filename in STARTUP_IMAGE_NAMES:
+        source = dist_dir / "System" / filename
+        if source.is_file():
+            destination = game_dir / "System" / filename
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(source, destination)
+            startup_count += 1
+    if startup_count:
+        print(f"Installed {startup_count} startup images into {game_dir / 'System'}!")
         installed_anything = True
 
     if not installed_anything:

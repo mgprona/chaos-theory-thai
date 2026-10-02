@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from functools import lru_cache
+from fnmatch import fnmatchcase
 import hashlib
 import json
 from pathlib import Path
@@ -15,6 +16,12 @@ from PIL import Image, ImageChops
 THAI_RUN = re.compile(r"[\u0e01-\u0e5b]+")
 PUA_FIRST, PUA_LAST = 0xE000, 0xF8FF
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+
+
+def uses_unicode_pua(config: dict, stem: str) -> bool:
+    """Match renderer rules, including future mission stems, case-insensitively."""
+    return any(fnmatchcase(stem.lower(), pattern.lower())
+               for pattern in config.get("unicode_ui_stems", []))
 
 
 class ThaiShaper:
@@ -107,11 +114,10 @@ class ThaiShaper:
 def create_ui_shaper(config_path: str | Path = "config.json", custom_ttf_path: str | Path | None = None) -> ThaiShaper:
     config = json.loads((PROJECT_ROOT / config_path).read_text(encoding="utf-8"))
     font_path = PROJECT_ROOT / (custom_ttf_path or config["active_font"])
-    stems = {s.lower() for s in config.get("unicode_ui_stems", [])}
     texts = []
     for path in sorted((PROJECT_ROOT / config["translations_dir"]).glob("*/*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
         for section in data["sections"].values():
-            if section.get("_source", path.stem).lower() in stems:
+            if uses_unicode_pua(config, section.get("_source", path.stem)):
                 texts.extend(v["th"] for v in section.values() if isinstance(v, dict) and v.get("th", "").strip())
     return ThaiShaper(font_path, texts)

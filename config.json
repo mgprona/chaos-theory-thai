@@ -1,5 +1,5 @@
 {
-  "game_dir": "D:\\SteamLibrary\\steamapps\\common\\Splintercell Chaos Theory",
+  "game_dir": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Splintercell Chaos Theory",
   "umd_subpath": "System\\dynamic-pc.umd",
   "font_subpath": "Data\\Textures\\Font",
   "raw_dir": "data/raw_official",
@@ -12,7 +12,11 @@
   "backups_dir": "backups",
   "target_language": "int",
   "encoding": "cp874",
-  "unicode_ui_stems": ["PreGame_PC", "PreGameMenus", "HUD", "InGameMenus", "LoadingScreens"],
+  "unicode_ui_stems": [
+    "PreGame_PC", "PreGameMenus", "HUD", "InGameMenus", "LoadingScreens",
+    "System", "Equipments", "Training",
+    "[0-9][0-9]_*", "P_[0-9][0-9]_*"
+  ],
   "supported_languages": {
     "int": "en",
     "fra": "fr",

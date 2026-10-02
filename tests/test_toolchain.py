@@ -430,6 +430,101 @@ class TestTranslationsJSON(unittest.TestCase):
         self.assertIn("บารมี", t02["P_02_CargoShip_InterogBodyGuards"]["Speech_0011L"]["th"])
         self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0006"]["th"], "ถอนกำลังไปยังจุดถอนกำลัง")
 
+    def test_story_02_seoulthree_translations_complete_and_cp874(self):
+        """Test that story mission 02_Seoulthree is 100% translated, CP874 encodable, and matches canonical terms."""
+        story_dir = PROJECT_ROOT / "data" / "translations" / "story"
+        fpath = story_dir / "02_Seoulthree.json"
+        self.assertTrue(fpath.exists(), "Missing 02_Seoulthree.json")
+        with open(fpath, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        file_count = 0
+        for sec, sd in data.get("sections", {}).items():
+            for k, v in sd.items():
+                if k.startswith("_"):
+                    continue
+                file_count += 1
+                th = v.get("th", "")
+                self.assertTrue(th.strip(), f"Missing Thai translation in 02_Seoulthree [{sec}] {k}")
+                for fc in ["\u201c", "\u201d", "\u2018", "\u2019", "\u2026"]:
+                    self.assertNotIn(fc, th, f"Forbidden character in 02_Seoulthree [{sec}] {k}: {th}")
+                self.assertNotIn("\n", th, f"Real newline in 02_Seoulthree [{sec}] {k}")
+                for b in th.encode("cp874"):
+                    self.assertTrue(
+                        b < 128 or (161 <= b <= 251),
+                        f"Byte {b} out of range in 02_Seoulthree [{sec}] {k}: {th}",
+                    )
+                # Leading/trailing spaces must mirror the English source exactly.
+                en = v.get("en", "")
+                self.assertEqual(
+                    (len(en) - len(en.lstrip(" ")), len(en) - len(en.rstrip(" "))),
+                    (len(th) - len(th.lstrip(" ")), len(th) - len(th.rstrip(" "))),
+                    f"Whitespace mismatch in 02_Seoulthree [{sec}] {k}",
+                )
+        self.assertEqual(file_count, 140, "String count mismatch in 02_Seoulthree.json")
+
+        t = data["sections"]
+        self.assertEqual(t["GENERAL"]["MapName"]["th"], "โซล 3")
+        self.assertIn("จง พอมจู", t["GENERAL"]["Briefing_LAMBERT"]["th"])
+        self.assertIn("เด เมเดรอส", t["GENERAL"]["Briefing_LAMBERT"]["th"])
+        self.assertEqual(t["P_02_Seoulthree_goals_activ"]["Objective_0001"]["th"], "จับตัวจง พอมจู")
+        self.assertEqual(
+            t["P_02_Seoulthree_goals_activ"]["POPUPMESSAGE_0042"]["th"],
+            t["P_02_Seoulthree_goals_activ"]["Objective_0001"]["th"],
+        )
+        self.assertIn("ร้านอินเทอร์เน็ตคาเฟ่", t["P_02_Seoulthree_goals_activ"]["Objective_0018"]["th"])
+        self.assertIn("ชุนมา", t["P_02_Seoulthree_goals_activ"]["Objective_0006"]["th"])
+        self.assertIn("7649", t["P_02_Seoulthree_goals_activ"]["Note_0012L"]["th"])
+        self.assertIn("NKA", t["P_02_Seoulthree_Lambertcomms"]["Speech_0012L"]["th"])
+        self.assertIn("เรแกน", t["P_02_Seoulthree_Lambertcomms"]["Speech_0005L"]["th"])
+        self.assertIn("สปลินเตอร์เซล", t["P_02_Seoulthree_Lambertcomms"]["Speech_0034L"]["th"])
+        self.assertIn("ตลาดปลา", t["P_02_Seoulthree_Lambertcomms"]["Speech_0024L"]["th"])
+        self.assertIn("ฉันไม่ใช่จง", t["P_02_Seoulthree_fake_jong_interro"]["Speech_0005L"]["th"])
+        self.assertIn("ขอบคุณพระเจ้า", t["P_02_Seoulthree_Jonginterro"]["Speech_0001L"]["th"])
+        # The source line ends with a space; the translation must keep it.
+        self.assertTrue(t["P_02_Seoulthree_backalleyconv"]["Speech_0001L"]["th"].endswith(" "))
+        self.assertTrue(t["P_02_Seoulthree_goals_activ"]["Objective_0019"]["th"].endswith(" "))
+
+    def test_all_story_missions_complete_and_cp874(self):
+        """Every story mission must be fully translated and follow the text rules."""
+        story_dir = PROJECT_ROOT / "data" / "translations" / "story"
+        files = sorted(story_dir.glob("*.json"))
+        self.assertGreaterEqual(len(files), 19, "Story missions went missing")
+        total = 0
+        for path in files:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            expected = data["_meta"]["total_strings"]
+            count = 0
+            for sec, sd in data["sections"].items():
+                for k, v in sd.items():
+                    if k.startswith("_"):
+                        continue
+                    count += 1
+                    th = v.get("th", "")
+                    en = v.get("en", "")
+                    loc = f"{path.name} [{sec}] {k}"
+                    if en.strip():
+                        self.assertTrue(th.strip(), f"Missing Thai translation in {loc}")
+                    else:
+                        # Whitespace-only templates must stay verbatim.
+                        self.assertEqual(th, en, f"Template changed in {loc}")
+                    for fc in ["\u201c", "\u201d", "\u2018", "\u2019", "\u2026"]:
+                        self.assertNotIn(fc, th, f"Forbidden character in {loc}")
+                    self.assertNotIn("\n", th, f"Real newline in {loc}")
+                    for b in th.encode("cp874"):
+                        self.assertTrue(
+                            b < 128 or (161 <= b <= 251),
+                            f"Byte {b} outside CP874 in {loc}: {th}",
+                        )
+                    self.assertEqual(
+                        (len(en) - len(en.lstrip(" ")), len(en) - len(en.rstrip(" "))),
+                        (len(th) - len(th.lstrip(" ")), len(th) - len(th.rstrip(" "))),
+                        f"Whitespace mismatch in {loc}",
+                    )
+            self.assertEqual(count, expected, f"String count mismatch in {path.name}")
+            total += count
+        self.assertEqual(total, 6318, "Total story string count changed")
+
     def test_story_01_panama_translations_complete_and_cp874(self):
         """Test that co-op mission 01_Panama is 100% translated, CP874 encodable, and matches locked glossary."""
         story_dir = PROJECT_ROOT / "data" / "translations" / "story"

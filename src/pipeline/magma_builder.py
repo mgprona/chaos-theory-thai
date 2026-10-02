@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import struct
+import time
 from pathlib import Path
 from typing import Dict, Optional, Union
 
@@ -26,6 +27,23 @@ FONT_SPECS = (
 )
 
 
+def write_bytes_with_retry(path: Path, data: bytes, attempts: int = 5) -> None:
+    """Write bytes, retrying transient Windows failures.
+
+    File scanners and the search indexer occasionally hold a freshly written
+    atlas file, which surfaces as ``OSError: [Errno 22]`` from ``write_bytes``.
+    Retrying briefly makes the build deterministic without hiding real errors.
+    """
+    for attempt in range(attempts):
+        try:
+            path.write_bytes(data)
+            return
+        except OSError:
+            if attempt == attempts - 1:
+                raise
+            time.sleep(0.2 * (attempt + 1))
+
+
 def save_top_down_tga(image: Image.Image, filepath: Union[str, Path]) -> None:
     """Write the uncompressed grayscale, top-left TGA expected by Magma."""
     image = image.convert("L")
@@ -33,7 +51,7 @@ def save_top_down_tga(image: Image.Image, filepath: Union[str, Path]) -> None:
     header = struct.pack("<3B5x4H2B", 0, 0, 3, 0, 0, w, h, 8, 0x20)
     path = Path(filepath)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_bytes(header + image.tobytes())
+    write_bytes_with_retry(path, header + image.tobytes())
 
 
 def read_mft(data: bytes) -> tuple[list[tuple], dict[int, list[int]], bytes]:
@@ -71,6 +89,33 @@ def _render_glyph(font: ImageFont.FreeTypeFont, char: str) -> tuple[Image.Image,
     return canvas.crop(bounds), bounds[0] - origin[0], origin[1] - bounds[1], advance
 
 
+def _pack_glyphs(rendered: list, old_w: int, old_h: int, atlas_size: int = 1024) -> dict:
+    """Pack glyphs into free rectangles beside and below the original atlas."""
+    regions = [
+        [old_w + 4, 2, atlas_size - 2, old_h + 2, old_w + 4, 2, 0],
+        [2, old_h + 4, atlas_size - 2, atlas_size - 2, 2, old_h + 4, 0],
+    ]
+    positions = {}
+    # Tall glyphs first prevents one large mark from inflating every shelf.
+    ordered = sorted(rendered, key=lambda item: (-item[1].height, -item[1].width, item[0]))
+    for codepoint, glyph, *_ in ordered:
+        w, h = glyph.size
+        for region in regions:
+            left, top, right, bottom, x, y, row_height = region
+            if w > right - left or h > bottom - top:
+                continue
+            if x + w > right:
+                x, y, row_height = left, y + row_height + 2, 0
+            if y + h > bottom:
+                continue
+            positions[codepoint] = (x, y)
+            region[4:] = [x + w + 2, y, max(row_height, h)]
+            break
+        else:
+            raise ValueError("Thai glyph atlas overflow")
+    return positions
+
+
 def build_magma_fonts(
     config_path: Optional[str | Path] = "config.json",
     custom_ttf_path: Optional[str | Path] = None,
@@ -88,7 +133,9 @@ def build_magma_fonts(
     out_dir.mkdir(parents=True, exist_ok=True)
     shaper = create_ui_shaper(cfg_file, custom_ttf_path)
     manifest_path = PROJECT_ROOT / config.get("dist_dir", "dist") / "thai_pua_map.json"
-    manifest_path.write_text(json.dumps(shaper.manifest(), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    manifest = json.dumps(shaper.manifest(), ensure_ascii=False, indent=2) + "\n"
+    write_bytes_with_retry(manifest_path, manifest.encode("utf-8"))
+
     assets = {}
 
     for filename, texture_name, size in FONT_SPECS:
@@ -117,7 +164,6 @@ def build_magma_fonts(
                 records[index] = record[:6] + scaled
 
         font = ImageFont.truetype(str(ttf_path), size=size, layout_engine=ImageFont.Layout.BASIC)
-        cursor_x, cursor_y, row_height = 2, old_h + 4, 0
         thai_count = 0
         rendered = []
         for code in range(161, 252):
@@ -128,20 +174,17 @@ def build_magma_fonts(
             rendered.append((ord(char), *_render_glyph(font, char)))
         for code, cluster in sorted(shaper.by_code.items()):
             rendered.append((code, *shaper.render(cluster, size)))
+        try:
+            positions = _pack_glyphs(rendered, old_w, old_h, atlas.width)
+        except ValueError as error:
+            raise ValueError(f"Thai glyph atlas overflow for {filename}") from error
         for codepoint, glyph, bearing_x, bearing_y, advance in rendered:
             w, h = glyph.size
-            if cursor_x + w + 2 > atlas.width:
-                cursor_x = 2
-                cursor_y += row_height + 2
-                row_height = 0
-            if cursor_y + h + 2 > atlas.height:
-                raise ValueError(f"Thai glyph atlas overflow for {filename}")
+            cursor_x, cursor_y = positions[codepoint]
             atlas.paste(glyph, (cursor_x, cursor_y))
             uv = tuple(texture_index + p / atlas.width for p in (cursor_x + 0.5, cursor_y + 0.5, cursor_x + w + 0.5, cursor_y + h + 0.5))
             pages.setdefault(codepoint >> 8, [0] * 256)[codepoint & 255] = len(records)
             records.append((codepoint, w, h, bearing_x, bearing_y, advance, *uv))
-            cursor_x += w + 2
-            row_height = max(row_height, h)
             thai_count += 1
 
         header = bytearray(original[:90])
@@ -153,7 +196,7 @@ def build_magma_fonts(
                 lookup.extend(struct.pack("<256H", *pages[page]))
         struct.pack_into("<HH", footer, 9 + texture_index * 4, atlas.width, atlas.height)
         mft_data = bytes(header) + b"".join(GLYPH.pack(*r) for r in records) + bytes(lookup) + bytes(footer)
-        (out_dir / filename).write_bytes(mft_data)
+        write_bytes_with_retry(out_dir / filename, mft_data)
         asset_filename = "Bios Three Regular 20.mft" if texture_name == "Bios Three Regular 20" else filename
         assets[f"Data\\Magma\\DataPC\\Fonts\\{asset_filename}"] = mft_data
         tga_out = out_dir / f"{texture_name} {texture_index}.tga"

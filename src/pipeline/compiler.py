@@ -13,7 +13,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Union
 from ..core.ini_codec import IniDocument
-from ..core.thai_shaper import create_ui_shaper
+from ..core.thai_shaper import create_ui_shaper, uses_unicode_pua
 
 SYSTEM_STEMS = {"d3ddrv", "echelon", "engine", "window"}
 
@@ -54,8 +54,7 @@ def compile_translations(
     dist_root = Path(config.get("dist_dir", "dist"))
     loose_dir = Path(output_loose_dir) if output_loose_dir else dist_root / "loose"
     encoding = target_encoding or config.get("encoding", "cp874")
-    unicode_ui_stems = {s.lower() for s in config.get("unicode_ui_stems", [])}
-    ui_shaper = create_ui_shaper(cfg_file, custom_ttf_path) if unicode_ui_stems else None
+    ui_shaper = create_ui_shaper(cfg_file, custom_ttf_path) if config.get("unicode_ui_stems") else None
 
     # Map: stem -> {section: {key: new_value}}
     stem_translations: Dict[str, Dict[str, Dict[str, str]]] = defaultdict(lambda: defaultdict(dict))
@@ -95,7 +94,7 @@ def compile_translations(
                     chosen_text = str(val_obj)
 
                 target_stem = source_stem or jf.stem
-                if ui_shaper and target_stem.lower() in unicode_ui_stems and isinstance(val_obj, dict) and val_obj.get("th", "").strip():
+                if ui_shaper and uses_unicode_pua(config, target_stem) and isinstance(val_obj, dict) and val_obj.get("th", "").strip():
                     chosen_text = ui_shaper.encode(chosen_text)
                 stem_translations[target_stem][sec_name][key] = chosen_text
 
@@ -135,7 +134,7 @@ def compile_translations(
         # Magma UI files use Unicode/PUA; other Thai files still use CP874 so the 224-cell
         # PCX font can render Thai characters. Only retain UTF-16LE if no Thai is
         # present and the file originally used UTF-16LE with unencodable characters (e.g. Credits.int).
-        if stem.lower() in unicode_ui_stems:
+        if uses_unicode_pua(config, stem):
             # Magma fonts look up UTF-16 codepoints, not CP874 byte slots.
             # The BOM also avoids relying on the Windows ANSI code page.
             out_encoding = "utf-16le"
