@@ -1,0 +1,31 @@
+1.0.0-rc1 — 2026-10-03
+
+- First packaged release candidate of the complete Thai translation catalog.
+- 8,537 satisfied entries across 33 translation JSON files, compiling to 52 .int files.
+  Blank/whitespace-only source templates are kept verbatim, not translated text.
+- Includes the latest professional localization polish from source commit 7d6c4e9.
+- Rebuilt all six Magma sizes with 571 PUA clusters, five PCX fonts,
+  and the localized BMP/TGA startup images.
+- Installer supports package and game compatibility checks, SHA-256 validation,
+  backup of pre-existing files, repeat-install detection, installed-file verification,
+  uninstall and rollback on copy failure.
+- Uses a compact UMD delta instead of redistributing the full game archive.
+- Only Steam 1.05 build 252084 with matching original UMD/executable is supported.
+
+Validation for the source build:
+- 46 regression tests passed: 38 toolchain + 8 Windows installer tests.
+- All 8,537 unique nondummy keys in the pristine UMD's 52 .int files
+  match the translation catalog; missing/extra keys and missing nonblank Thai values = 0.
+- Full localization/font validation: 52 files / 8,537 values / 571 clusters / 6 fonts.
+- All 19 story JSON files round-trip from compiled localization to Thai sources.
+- UMD entry order/flags and all unchanged payloads checked during packaging.
+- Installed UMD must match the dist UMD byte-for-byte, including its footer.
+- Separate release installer regression tests and end-to-end install/uninstall
+  checks are recorded in docs/RELEASE_READINESS.md in the source project.
+
+Remaining runtime checks:
+Current RC has no new direct in-game screenshot evidence. Earlier 1.05 tests
+demonstrated Thai menus, loading, briefing, equipment and Lighthouse HUD/OPSAT.
+Those images belong to an earlier build. Dialogue rendering, long text layout,
+all missions, other resolutions, co-op/network and save/load remain unverified
+for this RC. The earlier SC-20K HUD clipping should be rechecked.

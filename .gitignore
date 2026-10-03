@@ -13,6 +13,9 @@ out/game-test/*.log
 out/game-test/**/*.log
 out/build-font-fix.log
 out/install-font-fix.log
+out/release-*.log
+out/releases/
+out/release-test-*/
 
 # Translation review working data (large backups, scratch dumps, raw logs)
 out/translation-review/backup-translations/
