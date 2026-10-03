@@ -367,7 +367,7 @@
         "de": "BÜROS VON DISPLACE INT. MIDTOWN MANHATTAN, NEW YORK CITY, USA",
         "es": "OFICINAS DE DISPLACE INTERNATIONAL, CENTRO DE MANHATTAN, NUEVA YORK, EE.UU.",
         "it": "UFFICI DI DISPLACE INT., CENTRO DI MANHATTAN, NEW YORK, USA",
-        "th": "สำนักงาน ดิสเพลส อินเตอร์เนชันแนล มิดทาวน์แมนฮัตตัน นครนิวยอร์ก สหรัฐอเมริกา"
+        "th": "สำนักงาน ดิสเพลส อินเทอร์เนชันแนล มิดทาวน์แมนฮัตตัน นครนิวยอร์ก สหรัฐอเมริกา"
       },
       "Date": {
         "en": "Sun, July 1st, 2007",
@@ -391,7 +391,7 @@
         "de": "DISPLACE INTERNATIONAL WAR FÜR DEN SCHUTZ VON ZHERKEZHI VERANTWORTLICH, DEM MANN, DER LACERDA ANGEHEUERT HAT, UM MORGENHOLT ZU ENTFÜHREN. ES MUSS HERAUSGEFUNDEN WERDEN, OB DISPLACE ZHERKEZHI NUR BESCHÜTZT HAT ODER AUCH AN DEM PLAN ZUR BESCHAFFUNG DER MASSE-KERNELS BETEILIGT IST.",
         "es": "DISPLACE INTERNATIONAL HA ESTADO PROTEGIENDO A ZHERKEZHI, QUE CONTRATÓ A LACERDA PARA SECUESTRAR A MORGENHOLT. DEBEMOS SABER SI DISPLACE SÓLO PROTEGE A ZHERKEZHI O ESTÁ INVOLUCRADA EN EL COMPLOT PARA RECUPERAR LOS KERNELS DE MASSE.",
         "it": "DISPLACE INTERNATIONAL PROTEGGE ZHERKEZHI, CHE AVEVA INGAGGIATO LACERDA PER RAPIRE MORGENHOLT. È NECESSARIO SCOPRIRE SE DISPLACE SI LIMITA A PROTEGGERE ZHERKEZHI O SE È COINVOLTA NEL PIANO PER OTTENERE I KERNEL DI MASSE.",
-        "th": "ดิสเพลส อินเตอร์เนชันแนล ให้การคุ้มครองเซอร์เคซี ผู้ว่าจ้างลาแซร์ดาให้ลักพาตัวมอร์เกนโฮลต์ ต้องตรวจสอบให้แน่ชัดว่าดิสเพลสเพียงแค่คุ้มกันเซอร์เคซี หรือพวกเขามีส่วนร่วมในแผนการชิงมาสส์เคอร์เนลด้วยหรือไม่"
+        "th": "ดิสเพลส อินเทอร์เนชันแนล ให้การคุ้มครองเซอร์เคซี ผู้ว่าจ้างลาแซร์ดาให้ลักพาตัวมอร์เกนโฮลต์ ต้องตรวจสอบให้แน่ชัดว่าดิสเพลสเพียงแค่คุ้มกันเซอร์เคซี หรือพวกเขามีส่วนร่วมในแผนการชิงมาสส์เคอร์เนลด้วยหรือไม่"
       },
       "Tip0": {
         "en": "The Map in your OPSAT tells you the location of certain Objectives.",
@@ -557,7 +557,7 @@
         "de": "NUN, DA ZHERKEZHI TOT IST UND DIE WELT AN DER SCHWELLE ZUM KRIEG STEHT, MUSS ERMITTELT WERDEN, OB NORDKOREA DIE RAKETE, WELCHE DIE USS WALSH VERSENKT HAT, ABSICHTLICH ABGEFEUERT HAT ODER OB DER START VON AUSSEN, MITTELS COMPUTERMANIPULATION EINGELEITET WURDE.",
         "es": "CON ZHERKEZHI MUERTO Y EL MUNDO AL BORDE DE LA GUERRA, ES IMPRESCINDIBLE SABER CON EXACTITUD SI LOS NORCOREANOS LANZARON INTENCIONADAMENTE EL MISIL QUE HUNDIÓ EL USS WALSH, O SI FUE FRUTO DE UN ATAQUE INFORMÁTICO CON CÓDIGOS DE MASSE.",
         "it": "ORA CHE ZHERKEZHI È MORTO E IL MONDO È SULL'ORLO DELLA GUERRA, BISOGNA SCOPRIRE SE LA COREA DEL NORD HA LANCIATO INTENZIONALMENTE IL MISSILE CHE HA AFFONDATO LA USS WALSH, O SE IL LANCIO È STATO PROVOCATO DA UN ATTACCO DI GUERRA INFORMATICA BASATO SUI MASSE.",
-        "th": "เมื่อเซอร์เคซีเสียชีวิตและโลกกำลังตกอยู่ในภาวะเสี่ยงสงคราม ต้องพิสูจน์ให้ได้ว่าฝ่ายเกาหลีเหนือจงใจยิงขีปนาวุธจมเรือรบ USS Walsh จริงหรือไม่ หรือการยิงขีปนาวุธนั้นถูกบังคับผ่านการโจมตีทางสงครามข้อมูลด้วยรหัส Masse"
+        "th": "เมื่อเซอร์เคซีเสียชีวิตและโลกกำลังตกอยู่ในภาวะเสี่ยงสงคราม ต้องพิสูจน์ให้ได้ว่าฝ่ายเกาหลีเหนือจงใจยิงขีปนาวุธจมเรือรบ USS Walsh จริงหรือไม่ หรือการยิงขีปนาวุธนั้นถูกบังคับผ่านการโจมตีทางสงครามข้อมูลด้วยอัลกอริทึมมาสส์"
       },
       "Tip0": {
         "en": "Some computers allow you to watch through security cameras.",

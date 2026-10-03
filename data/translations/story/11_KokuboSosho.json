@@ -1985,7 +1985,7 @@
         "de": "Im Lagerraum liegen Schockpatronen mit Haftwirkung.",
         "es": "Encontrarás dardos eléctricos en el almacén.",
         "it": "Puoi trovare i proiettili elettrici nel magazzino.",
-        "th": "หากระสุนสติ๊กกี้ช็อกเกอร์ได้ในห้องเก็บของ"
+        "th": "หากระสุนช็อตไฟฟ้าได้ในห้องเก็บของ"
       },
       "Speech_0013L": {
         "en": "SOLDIER - Please don't kill me... you said yourself, I'm smart...",
@@ -2170,7 +2170,7 @@
         "de": "Warum werden diese Männer festgehalten?",
         "es": "¿Por qué retienes a esos hombres?",
         "it": "Perchè tenete prigionieri questi uomini?",
-        "th": "ฟิชเชอร์ - ทำไมคุณกักตัวคนพวกนี้?"
+        "th": "ฟิชเชอร์ - กักตัวคนพวกนี้ไว้ทำไม?"
       },
       "Speech_0002L": {
         "en": "SOLDIER - Wha? Who?",
@@ -2298,7 +2298,7 @@
         "de": "Wo ist die Operationszentrale?",
         "es": "¿Dónde está la Oficina de Guerra?",
         "it": "Dov'è la Sala da Guerra?",
-        "th": "ฟิชเชอร์ - ห้องสงครามอยู่ที่ไหน?"
+        "th": "ฟิชเชอร์ - ห้องวอร์รูมอยู่ที่ไหน?"
       },
       "Speech_0017L": {
         "en": "SOLDIER - In the sub-levels. The sealed door from the lobby...",
@@ -2314,7 +2314,7 @@
         "de": "Wie öffne ich die Tür wieder?",
         "es": "¿Cómo abro la puerta sellada?",
         "it": "Come faccio ad aprire la porta chiusa?",
-        "th": "ฟิชเชอร์ - ฉันเปิดประตูปิดผนึกยังไง?"
+        "th": "ฟิชเชอร์ - จะเปิดประตูปิดผนึกยังไง?"
       },
       "Speech_0019L": {
         "en": "SOLDIER - It should be open... a Captain came by to hand pick some men for a mission?",
@@ -2702,7 +2702,7 @@
         "de": "Wie gelange ich in die Operationszentrale?",
         "es": "¿Cómo entro en la Oficina de Guerra?",
         "it": "Come si entra nella sala operativa?",
-        "th": "ฟิชเชอร์ - ฉันเข้าไปในห้องสงครามได้ยังไง?"
+        "th": "ฟิชเชอร์ - จะเข้าไปในห้องวอร์รูมได้ยังไง?"
       },
       "Speech_0004L": {
         "en": "SOLDIER - They seal the door from the inside... unless you have an industrial laser...",
@@ -2718,7 +2718,7 @@
         "de": "Ich hoffe für dich, dass du noch eine bessere Idee hast ...",
         "es": "Seguro que puedes aguzar más el ingenio.",
         "it": "Spero per te che tu abbia un'idea migliore...",
-        "th": "ฟิชเชอร์ - ฉันหวังว่าเพื่อตัวคุณเอง คุณจะมีความคิดที่ดีกว่านี้..."
+        "th": "ฟิชเชอร์ - เพื่อประโยชน์ของตัวคุณเอง หวังว่าคุณจะมีความคิดที่ดีกว่านี้นะ..."
       },
       "Speech_0006L": {
         "en": "SOLDIER - Arrghh... god... please... wait... there... there's an air vent over the room... maybe you can see in from there.",

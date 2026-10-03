@@ -436,7 +436,7 @@ class TestTranslationsJSON(unittest.TestCase):
         self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0018"]["th"], "กำจัด ฮูโก ลาแซร์ดา")
         self.assertEqual(t02["P_02_CargoShip_Objectives"]["Objective_0001"]["th"], "เก็บใบตราส่งสินค้าสำหรับการขนส่งอาวุธของลาแซร์ดา")
         self.assertEqual(t02["P_02_CargoShip_LambertComms"]["Speech_0012L"]["th"], "ฟิชเชอร์ - อย่าบอกนะว่า... สัญญาณเตือนภัยดังสามครั้งแล้วภารกิจล้มเหลว?")
-        self.assertEqual(t02["P_02_CargoShip_LambertComms"]["Speech_0084L"]["th"], "ฟิชเชอร์ - ผมลืมเอาช่อดอกไม้ติดอกมาด้วยสิ")
+        self.assertEqual(t02["P_02_CargoShip_LambertComms"]["Speech_0084L"]["th"], "ฟิชเชอร์ - ฉันลืมเอาช่อดอกไม้ติดอกมาด้วยสิ")
         self.assertEqual(t02["P_02_CargoShip_InterogMShopSailor"]["Speech_0001L"]["th"], "ฟิชเชอร์ - ตุ๊!")
         self.assertEqual(t02["P_02_CargoShip_InterogOfficeSoldier"]["Speech_0003L"]["th"], "ฟิชเชอร์ - ฉันมีมีด... นายตอบก่อน")
         self.assertEqual(t02["P_02_CargoShip_AlarmManager"]["POPUPMESSAGE_0001"]["th"], "ระดับสัญญาณเตือนภัยขั้นที่หนึ่ง")

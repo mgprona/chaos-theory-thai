@@ -1996,7 +1996,7 @@
         "de": "Ihr wollt, dass ich noch ein paar Waffenkisten mehr scanne.",
         "es": "Quieres que busque más embalajes con armas.",
         "it": "Vuoi farmi controllare qualche altra cassa di armi?",
-        "th": "ฟิชเชอร์ - คุณอยากให้ผมสแกนลังอาวุธเพิ่มอีกไหม"
+        "th": "ฟิชเชอร์ - นายอยากให้ฉันสแกนลังอาวุธเพิ่มอีกไหม"
       },
       "Speech_0035L": {
         "en": "REDDING - Better idea... plant tracking devices on them and we can see who they end up getting delivered to.",
@@ -2028,7 +2028,7 @@
         "de": "Ich werde sie finden.",
         "es": "La encontraré.",
         "it": "La troverò.",
-        "th": "ฟิชเชอร์ - เดี๋ยวผมหาดู"
+        "th": "ฟิชเชอร์ - เดี๋ยวฉันหาดู"
       },
       "Speech_0030L": {
         "en": "REDDING - Fisher, those compartments are flooded. You need to activate the emergency bilge pump to drain them.",
@@ -2156,7 +2156,7 @@
         "de": "Ja ... ich kann es riechen ... wohl irgendein Gasleck.",
         "es": "Lo huelo. Parece un escape de gas.",
         "it": "Sì... lo sento... Sembra una perdita di gas.",
-        "th": "ฟิชเชอร์ - ใช่... ผมได้กลิ่นแล้ว... น่าจะมีแก๊สรั่วสักแห่ง"
+        "th": "ฟิชเชอร์ - ใช่... ฉันได้กลิ่นแล้ว... น่าจะมีแก๊สรั่วสักแห่ง"
       },
       "Speech_0017L": {
         "en": "GRIMSDOTTIR - Could be enough to be a serious explosive hazard. We can't have any firing in the engine room...",
@@ -2188,7 +2188,7 @@
         "de": "Ich verstehe schon ... Ich soll diskret vorgehen.",
         "es": "Ya capto el mensaje. Seré sigiloso.",
         "it": "Ho capito l'antifona... starò attento.",
-        "th": "ฟิชเชอร์ - ผมเข้าใจแล้ว... ผมจะระมัดระวังเป็นพิเศษ"
+        "th": "ฟิชเชอร์ - เข้าใจแล้ว... ฉันจะระวังเป็นพิเศษ"
       },
       "Speech_0105L": {
         "en": "GRIMSDOTTIR - Sam, the engine room has a gas leak. No firing in there. Not even a spark.",
@@ -2260,7 +2260,7 @@
         "de": "Ich werde mich mal umsehen.",
         "es": "Echaré un vistazo.",
         "it": "Darò un'occhiata.",
-        "th": "ฟิชเชอร์ - เดี๋ยวผมจะลองสำรวจดู"
+        "th": "ฟิชเชอร์ - เดี๋ยวฉันจะลองสำรวจดู"
       },
       "Speech_0058L": {
         "en": "GRIMSDOTTIR - Good work Sam... it looks like whoever delivered these arms to Lacerda was operating through a proxy.",
@@ -2308,7 +2308,7 @@
         "de": "Großartig ... ich liebe Bürokraten.",
         "es": "Me encantan las finanzas.",
         "it": "Fantastico... adoro i burocrati.",
-        "th": "ฟิชเชอร์ - เยี่ยม... ผมล่ะชอบพวกคนนั่งโต๊ะจริงๆ"
+        "th": "ฟิชเชอร์ - เยี่ยม... ฉันล่ะชอบพวกคนนั่งโต๊ะจริงๆ"
       },
       "Speech_0106L": {
         "en": "GRIMSDOTTIR - The bill of lading says that the arms were delivered to Lacerda using a Panamanian offshore bank as a proxy.",
@@ -2396,7 +2396,7 @@
         "de": "Ohh... und ich habe die Blumen vergessen.",
         "es": "Se me ha olvidado traerle flores.",
         "it": "Mi sono dimenticato i fiori.",
-        "th": "ฟิชเชอร์ - ผมลืมเอาช่อดอกไม้ติดอกมาด้วยสิ"
+        "th": "ฟิชเชอร์ - ฉันลืมเอาช่อดอกไม้ติดอกมาด้วยสิ"
       },
       "POPUPMESSAGE_0102": {
         "en": "Eliminate Hugo Lacerda",
@@ -2420,7 +2420,7 @@
         "de": "Finde ich dort die Frachtbücher?",
         "es": "¿Están allí los libros de contabilidad?",
         "it": "È lì che troverò i documenti di carico?",
-        "th": "ฟิชเชอร์ - ผมจะพบบัญชีรายการขนส่งที่นั่นใช่ไหม?"
+        "th": "ฟิชเชอร์ - ฉันจะพบบัญชีรายการขนส่งที่นั่นใช่ไหม?"
       },
       "Speech_0087L": {
         "en": "GRIMSDOTTIR - That's where they should be keeping them.",
@@ -2452,7 +2452,7 @@
         "de": "Nakariakov ... der Name kommt mir bekannt vor.",
         "es": "Nakariakov... Ese nombre me suena.",
         "it": "Nakariakov... ho già sentito questo nome.",
-        "th": "ฟิชเชอร์ - นาคาริอาคอฟ... ผมจำชื่อนั้นได้"
+        "th": "ฟิชเชอร์ - นาคาริอาคอฟ... ฉันจำชื่อนั้นได้"
       },
       "Speech_0065L": {
         "en": "GRIMSDOTTIR - Nakariakov is a code name that Philippine drug dealers use to indicate arms shipments. ",
@@ -2564,7 +2564,7 @@
         "de": "Ohh... und ich habe die Blumen vergessen.",
         "es": "Se me ha olvidado traerle flores.",
         "it": "Mi sono dimenticato i fiori.",
-        "th": "ฟิชเชอร์ - ผมลืมเอาช่อดอกไม้ติดอกมาด้วยสิ"
+        "th": "ฟิชเชอร์ - ฉันลืมเอาช่อดอกไม้ติดอกมาด้วยสิ"
       },
       "POPUPMESSAGE_0104": {
         "en": "Eliminate Hugo Lacerda",
@@ -2588,7 +2588,7 @@
         "de": "Dann werde ich wohl das gesamte Schiff durchsuchen müssen.",
         "es": "Entonces tendré que registrar todo el barco.",
         "it": "Suppongo che ora dovrò fare il giro della nave.",
-        "th": "ฟิชเชอร์ - สงสัยผมคงต้องกวาดค้นทั่วทั้งเรือแล้วล่ะ"
+        "th": "ฟิชเชอร์ - สงสัยฉันคงต้องกวาดค้นทั่วทั้งเรือแล้วล่ะ"
       },
       "Speech_0024L": {
         "en": "LAMBERT - They might have logged a record of his room assignment in the ship's computer. The radio and communications center is topside.",
@@ -2676,7 +2676,7 @@
         "de": "In Ordnung, ich gehe wieder zurück.",
         "es": "De acuerdo, volveré atrás.",
         "it": "OK, torno indietro.",
-        "th": "ฟิชเชอร์ - รับทราบ ผมจะย้อนกลับไป"
+        "th": "ฟิชเชอร์ - รับทราบ ฉันจะย้อนกลับไป"
       },
       "Speech_0003L": {
         "en": "LAMBERT - Good job Fisher. I'll inform the Joint Chiefs that Lacerda is no longer a threat. Your primaries objectives are completed. We can extract you whenever you're ready.",
@@ -3085,7 +3085,7 @@
         "de": "Finden Sie den Namen von Lacerdas panamesischen Kontaktmann.",
         "es": "Busca el nombre del contacto panameño de Lacerda.",
         "it": "Trova il nome del contatto panamense di Lacerda.",
-        "th": "สืบหารายชื่อผู้ติดต่อชาวปานามาของลาแซร์ดา"
+        "th": "หาชื่อผู้ติดต่อชาวปานามาของลาแซร์ดา"
       },
       "Objective_0027": {
         "en": "In addition to those shipping and receiving the weapons, someone must also have helped Lacerda get them past new security inspection protocols at the Panama Canal. Find out who.",

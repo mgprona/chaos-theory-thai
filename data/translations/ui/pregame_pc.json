@@ -3093,7 +3093,7 @@
         "de": "Nach links",
         "es": "Mover a la izquierda",
         "it": "Spostati a sinistra",
-        "th": "เคลื่อนที่ไปทางซ้าย"
+        "th": "เดินซ้าย"
       },
       "K_StrafeRight": {
         "en": "Move Right",
@@ -3101,7 +3101,7 @@
         "de": "Nach rechts",
         "es": "Mover a la derecha",
         "it": "Spostati a destra",
-        "th": "เคลื่อนที่ไปทางขวา"
+        "th": "เดินขวา"
       },
       "K_Duck": {
         "en": "Crouch / Stand up",
@@ -3253,7 +3253,7 @@
         "de": "Interaktion / Nachladen",
         "es": "Acciones/recargar",
         "it": "Interagisci / Ricarica",
-        "th": "ปฏิสัมพันธ์ / เติมกระสุน"
+        "th": "ปฏิสัมพันธ์ / รีโหลดกระสุน"
       },
       "K_CoopWhistle": {
         "en": "Whistle / Coop Action",
@@ -3309,7 +3309,7 @@
         "de": "EEV-Sicht",
         "es": "Visor electrónico",
         "it": "Visore EEV",
-        "th": "กล้องตรวจจับคลื่นแม่เหล็กไฟฟ้า"
+        "th": "วิสัยทัศน์ EMF"
       },
       "K_StickyCam": {
         "en": "Sticky camera vision",
