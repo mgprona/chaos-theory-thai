@@ -1,161 +1,75 @@
-# Tom Clancy's Splinter Cell: Chaos Theory - Thai Translation Mod
+# Splinter Cell Chaos Theory ภาษาไทย
 
-ชุดเครื่องมือและโครงสร้างโปรเจกต์ม็อดแปลภาษาไทยสำหรับเกม **Tom Clancy's Splinter Cell Chaos Theory** (PC / Steam)
-รองรับระบบการแกะ/แพ็กไฟล์ `dynamic-pc.umd`, การแยกไฟล์ภาษา Official ทั้ง 5 ภาษา (English, French, German, Spanish, Italian), การจัดการไฟล์แปลในรูปแบบ JSON ที่ใช้งานง่าย, และระบบสร้างฟอนต์ภาษาไทยลงบน PCX Bitmap Fonts ของ Unreal Engine 2
+ม็อดภาษาไทยสำหรับ **Tom Clancy's Splinter Cell: Chaos Theory — PC / Steam 1.05**
+แปลข้อความในไฟล์ภาษาของเกมครบ พร้อมฟอนต์ไทยสำหรับเมนูและข้อความในเกม เสียงพากย์เป็นเสียงเดิม
 
----
+**ฉบับปัจจุบัน: 1.0.0-rc1 — 3 ตุลาคม 2026**
+เป็นรุ่นทดลองก่อนรุ่นเสถียร: ผ่านการตรวจคำแปล คอมไพล์ ฟอนต์ ไฟล์ม็อด และการติดตั้ง/ถอนแล้ว
+ยังไม่ได้ยืนยันการแสดงผลทุกหน้าจอหรือเล่นครบจนจบด้วยบิลด์นี้
 
-## 📁 โครงสร้างโปรเจกต์ (Project Architecture)
+## ดาวน์โหลดและติดตั้ง
 
-```
-Chaos Theory Thai/
-├── config.json                     # การตั้งค่าพาธตัวเกม, ภาษา, และ Encoding
-├── build.py                        # สคริปต์หลักสำหรับคอมไพล์และบิลด์ม็อด
-├── README.md                       # เอกสารแนะนำการใช้งาน
-├── src/
-│   ├── cli.py                      # Command-Line Interface รวมคำสั่งทั้งหมด
-│   ├── core/                       # แกนหลักระบบ Engine Parsers
-│   │   ├── umd_parser.py           # ตัวอ่าน/แยก/แพ็ก UMD Archive (FCompactIndex & TOC)
-│   │   ├── ini_codec.py            # ตัวอ่าน/เขียน Unreal Engine INI (CP1252, CP874, UTF-16LE)
-│   │   └── pcx_font.py             # ตัวจัดการ 8-bit Indexed PCX Font และ Cell Delimiters
-│   └── pipeline/                   # Pipeline การประมวลผล
-│       ├── extractor.py            # ดึงไฟล์ภาษา 236 ไฟล์และฟอนต์จากเกม
-│       ├── merger.py               # รวม 5 ภาษาเป็น JSON Translation (en, fr, de, es, it, th)
-│       ├── compiler.py             # แปลง JSON กลับเป็นไฟล์ .int ภาษาไทย
-│       └── font_builder.py         # วาดฟอนต์ไทยลงบน PCX Font Bitmaps
-├── data/
-│   ├── raw_official/               # ไฟล์ต้นฉบับ Official ทั้งหมดที่ดึงออกมาจากเกม
-│   │   ├── int/                    # ภาษาอังกฤษ (52 ไฟล์)
-│   │   ├── fra/                    # ภาษาฝรั่งเศส (46 ไฟล์)
-│   │   ├── deu/                    # ภาษาเยอรมัน (46 ไฟล์)
-│   │   ├── esp/                    # ภาษาสเปน (46 ไฟล์)
-│   │   ├── ita/                    # ภาษาอิตาลี (46 ไฟล์)
-│   │   └── fonts/                  # ฟอนต์ต้นฉบับ (Magma UI และ PCX In-game Fonts)
-│   ├── translations/               # ไฟล์ JSON สำหรับแปลภาษาไทย (แบ่งหมวดหมู่ชัดเจน)
-│   │   ├── story/                  # 19 ภารกิจเนื้อเรื่อง (รวมไฟล์เนื้อเรื่องและบทพูด P_ เข้าด้วยกัน)
-│   │   ├── ui/                     # เมนูหลัก, HUD, หน้าโหลด, และเครดิต
-│   │   └── opsat/                  # อุปกรณ์, ฐานข้อมูล OPSAT, และข้อความระบบ
-│   └── fonts/                      # ฟอนต์สำหรับใช้สร้างตัวอักษรไทย (TTF/OTF)
-├── dist/                           # ผลลัพธ์จากการ Build พร้อมนำไปลงเกม
-│   ├── loose/                      # ไฟล์ .int ที่คอมไพล์แล้วแบบ Loose Files
-│   ├── System/                     # dynamic-pc.umd ที่แพ็กไฟล์แปลไทยแล้ว
-│   └── Data/Textures/Font/         # PCX Font Bitmaps ภาษาไทยที่สร้างเสร็จแล้ว
-├── backups/                        # โฟลเดอร์สำรองไฟล์เกมต้นฉบับ
-└── tests/                          # Automated Unit Tests
-```
+**[ดาวน์โหลดม็อด 1.0.0-rc1](https://github.com/mgprona/chaos-theory-thai/releases/tag/v1.0.0-rc1)**
+ในส่วน **Assets** เลือก `ChaosTheory-Thai-1.0.0-rc1.zip` ขนาดประมาณ 2.5 MB
+ไฟล์ **Source code (zip/tar.gz)** เป็นซอร์สโปรเจกต์ ไม่ใช่แพ็กติดตั้งสำหรับผู้เล่น
 
----
+1. ตั้งภาษาเกมใน Steam เป็น **English** แล้วปิดเกม
+2. แตก ZIP ม็อดทั้งหมดลงโฟลเดอร์ใหม่
+3. เปิด `Check.cmd` เพื่อตรวจไฟล์เกมและแพ็ก โดยยังไม่ติดตั้ง
+4. เปิด `Install.cmd` รอข้อความติดตั้งสำเร็จ หากหาเกมไม่พบให้ระบุโฟลเดอร์ที่มี `System` และ `Data`
+5. เปิดเกมผ่าน Steam และเปิดคำบรรยายในตัวเลือกเกม
 
-## 🚀 วิธีการใช้งาน (Quick Start)
+ไม่ต้องติดตั้ง Python หรือฟอนต์ลง Windows
+หากขึ้น Access denied ให้คลิกขวาตัวติดตั้งแล้วเลือก **Run as administrator**
 
-ติดตั้งไลบรารีก่อนบิลด์:
-```bash
-python -m pip install -r requirements.txt
-```
+**สิ่งที่ต้องมี:** เกม Steam รุ่น 1.05 / build 252084 ที่ไฟล์ตรงกับฉบับที่รองรับ,
+Windows PowerShell 5.1 และพื้นที่ว่างอย่างน้อย 2 GB ในไดรฟ์เกม
+ตัวติดตั้งตรวจ SHA-256 ของเกมก่อนลงม็อดและสำรองไฟล์ที่จะเปลี่ยน
+ผู้ที่ใช้ม็อดภาษาเดิมหรือฉบับพัฒนาต้องคืนไฟล์ต้นฉบับก่อน
 
-เมนู Magma ใช้ **Chakra Petch + HarfBuzz แบบ offline + PUA** แล้ว:
-คำนวณ GSUB/GPOS ตอนบิลด์ วาดกลุ่มอักษรไทยลง bitmap และแปลงเฉพาะไฟล์เกมเป็น UTF-16LE พร้อม BOM
-ไฟล์ JSON ต้นฉบับยังอ่านและแก้ไขเป็นภาษาไทยตามปกติ ดูรายละเอียดที่ [FONT_PIPELINE.md](FONT_PIPELINE.md)
+คู่มือพร้อมวิธีแก้ปัญหา: **[ติดตั้ง ตรวจไฟล์ และถอนม็อด](docs/INSTALLATION.md)**
 
-ไฟล์ภารกิจทั้งหมด (รวม `P_` และ co-op) เข้าระบบ UTF-16/PUA อัตโนมัติแล้ว แปลเพิ่มแล้วใช้ `build.py --umd --install` ได้เลย
-ไม่ต้องเพิ่มชื่อด่านใน config ก่อนแพ็ก ระบบจะตรวจค่าคอมไพล์และ PUA lookup ของฟอนต์ทั้งหกขนาด
-การตรวจในเกมเน้นตัวแทนชนิดหน้าจอ/renderer และข้อความล้นช่อง ดู [ผลการขยายระบบ](out/game-test/20261001-build-install/AUTOMATIC_COVERAGE.md)
+## ครอบคลุมอะไรบ้าง
 
-ตัวติดตั้งรวมภาพเปิดเกม `dist/System/splintercell3logo.bmp` และ `SplinterCell3Logo.tga` เมื่อมีไฟล์เหล่านี้
-เก็บภาพเดิมไว้ที่ `backups/System/` ก่อนแทนที่ครั้งแรก ภาพไทยที่ผู้ใช้ทำไว้ถูกติดตั้งด้วย `src/cli.py install` และ `build.py --umd --install` เช่นเดียวกัน
+- ข้อความในไฟล์ภาษาอังกฤษต้นฉบับ **52 ไฟล์ / 8,537 คีย์**: ไม่มีคีย์ตกหล่นจากคลังแปล
+- ข้อความที่มีต้นฉบับ **8,470 รายการ** และแม่แบบว่าง **67 รายการ** ที่คงไว้ตามเดิม
+- เนื้อเรื่องและข้อความ co-op ในคลัง 19 ชุด รวมบทพูด เมนู HUD อุปกรณ์ และ OPSAT
+- ฟอนต์ Magma **6 ขนาด / 571 PUA clusters** และฟอนต์ PCX **5 ไฟล์**
+- ภาพเปิดเกมภาษาไทยที่รวมอยู่ในแพ็ก
 
-องค์ความรู้สำหรับนำเทคนิคไปใช้กับเกมอื่น: [คู่มือม็อดฟอนต์ไทยสำหรับเกมเก่า](docs/THAI_FONT_MODDING.md)
-ครอบคลุมการตรวจ encoding/ฟอนต์ที่โหลดจริง, offline shaping, PUA, atlas, metrics และการทดสอบ
+ขอบเขตนี้คือข้อความในไฟล์ภาษา ไม่ได้ยืนยันข้อความที่ฝังในภาพ/โค้ดหรือข้อความที่ผู้เล่นพิมพ์เอง
 
-### 1. ดูความคืบหน้าการแปล (Translation Progress)
-เรียกดูสถิติจำนวนคำและเปอร์เซ็นต์ที่แปลไปแล้ว:
-```bash
-python build.py --stats
-```
+## ผลตรวจและข้อจำกัด
 
-### 2. บิลด์ม็อด (Compile & Build Fonts)
-คอมไพล์ข้อความแปลและสร้างฟอนต์ภาษาไทย:
-```bash
-python build.py
-```
-ไฟล์ผลลัพธ์จะอยู่ที่โฟลเดอร์ `dist/`
+| ตรวจสอบ | ผลของ RC1 |
+| --- | --- |
+| คำแปลเทียบไฟล์ภาษาใน UMD ต้นฉบับ | ครบ 8,537 คีย์ ไม่มีข้อความที่ต้องแปลแต่ช่องไทยว่าง |
+| ข้อความคอมไพล์และ glyph PUA | ผ่านครบ 52 ไฟล์และฟอนต์ Magma ทั้ง 6 ขนาด |
+| ชุดทดสอบ | 46 ผ่าน |
+| ติดตั้งจาก ZIP และตรวจไฟล์ | 73 ไฟล์ตรงกับบิลด์ รวม UMD ทุกไบต์ |
+| ถอนม็อด ติดตั้งซ้ำ และกู้คืน interrupted install | ผ่านการทดสอบในโฟลเดอร์จำลอง |
+| ภาพในเกมของ RC1 / ทุกด่าน / co-op / save-load | ยังไม่ยืนยัน |
 
-### 3. แพ็กไฟล์ `dynamic-pc.umd` (Repack UMD)
-สร้างไฟล์ UMD ใหม่ที่ใส่คำแปลภาษาไทยเข้าไป:
-```bash
-python build.py --umd
-```
+ภาพเกมใน `out/game-test/` เป็นหลักฐานของบิลด์เก่าตามวันที่ในรายงาน
+ยังต้องตรวจซับบทพูด สระ/วรรณยุกต์ ข้อความยาว และชื่ออุปกรณ์ที่อาจล้น HUD ใน RC1
+ดูรายละเอียดที่ [สถานะการตรวจสอบ](docs/RELEASE_READINESS.md)
 
-### 4. ติดตั้งม็อดลงตัวเกม (Install Mod)
-ติดตั้งไฟล์ที่คอมไพล์แล้วลงในโฟลเดอร์เกม Splinter Cell Chaos Theory โดยอัตโนมัติ (จะทำการสำรองไฟล์เดิมไว้ใน `backups/` ก่อนเสมอ):
-```bash
-python build.py --install
-# หรือติดตั้งพร้อมแพ็ก UMD
-python build.py --umd --install
-```
+## ถอนม็อดและแจ้งปัญหา
 
----
+ปิดเกมแล้วเปิด `Uninstall.cmd` จากแพ็กเดียวกับที่ติดตั้ง
+ตัวถอนคืนไฟล์เดิมและลบไฟล์ที่ม็อดเพิ่มใหม่ เก็บ backup ใน `.chaos-theory-thai` ภายในโฟลเดอร์เกม
+ใช้ `Verify.cmd` ตรวจความครบถ้วนของไฟล์ที่ติดตั้ง
 
-## ✍️ แนวทางการแปล (Translation Workflow)
+**[แจ้งปัญหาที่ GitHub Issues](https://github.com/mgprona/chaos-theory-thai/issues/new/choose)**
+ระบุรุ่นม็อด ความละเอียด ด่าน/หน้าจอ ขั้นตอนที่พบปัญหา ภาพหน้าจอ และผลจาก `Verify.cmd`
 
-ไฟล์ข้อความทั้งหมดถูกรวมไว้ใน `data/translations/` ในรูปแบบ **JSON (UTF-8)** โดยแบ่งออกเป็น 3 หมวดหมู่หลัก:
+## สำหรับผู้พัฒนา
 
-1. **`data/translations/story/`**: รวมภารกิจเนื้อเรื่อง 19 ภารกิจ เช่น `01_Lighthouse.json`
-   - รวบรวมทั้ง Objectives, อีเมล, คำสั่งภารกิจ และบทพูดวิทยุ/การสอบปากคำ (`P_01_Lighthouse`) ไว้อย่างครบถ้วนในไฟล์เดียว
-2. **`data/translations/ui/`**: เมนูเกม, HUD, Loading Screens
-3. **`data/translations/opsat/`**: รายละเอียดอาวุธและอุปกรณ์
+- [เริ่มพัฒนาและสร้างแพ็ก](docs/DEVELOPMENT.md)
+- [ระบบฟอนต์และ PUA](FONT_PIPELINE.md)
+- [ศัพท์และกติกาคำแปล](docs/GLOSSARY.md)
+- [ประวัติการเปลี่ยนแปลง](CHANGELOG.md)
+- [เครดิตและเงื่อนไขฟอนต์](CREDITS.md)
+- [คู่มือเทคนิคม็อดฟอนต์สำหรับเกมเก่า](docs/THAI_FONT_MODDING.md)
 
-### รูปแบบของ Key ใน JSON
-แต่ละข้อความจะมีข้อความต้นฉบับ Official ครบทั้ง 5 ภาษาเพื่อใช้เทียบเคียงบริบท พร้อมช่อง `"th"` สำหรับใส่คำแปลภาษาไทย:
-
-```json
-"Speech_0001L": {
-  "en": "QUINTON: Hey!  Stefano... look here!",
-  "fr": "Hé, Stefano ! Regarde-moi ça !",
-  "de": "Hey! Stefano ... schau dir das an!",
-  "es": "¡Eh, Stefano! ¡Mira aquí!",
-  "it": "Ehi! Stefano... guarda qui!",
-  "th": "ควินตัน: เฮ้ย! สเตฟาโน... มาดูนี่สิ!"
-}
-```
-
-> **หมายเหตุสำคัญ:** หากช่อง `"th"` เว้นว่างไว้เป็น `""` ระบบบิลด์จะดึงข้อความภาษาอังกฤษ (`"en"`) มาแสดงเป็นค่าเริ่มต้นให้อัตโนมัติ ทำให้เกมไม่แครชและสามารถทยอยแปลทีละส่วนได้อย่างราบรื่น
-
----
-
-## 🔤 ระบบฟอนต์ภาษาไทย (Font System)
-
-เกม Splinter Cell Chaos Theory ใช้ฟอนต์ 2 ระบบ:
-1. **In-game 3D Subtitles & HUD Fonts** (ไฟล์ `.pcx` ใน `Data\Textures\Font\`):
-   - `txt_hud.pcx`
-   - `txt_mission.pcx`
-   - `txt_integration.pcx`
-   - `titre_regular_integration.pcx`
-   - `titre_bold_integration.pcx`
-   - เป็นภาพ 8-bit Indexed Palette โดยมีเส้นขอบสีม่วง (Index 255) กำกับความกว้าง/ความสูงของแต่ละตัวอักษร
-   - ระบบ `src/pipeline/font_builder.py` จะวาดตัวอักษรภาษาไทย (รหัส Windows-874 / CP874: 161–251) ลงในช่องตัวอักษรอย่างแม่นยำ พร้อมทั้งสร้างไฟล์พรีวิว `.png` ให้ตรวจเช็กได้ง่าย
-2. **2D Magma UI Fonts** (ไฟล์ `.tga`, `.mft`, `.ttf` ใน `Data\Magma\DataPC\Fonts\`):
-   - ดึงไฟล์ต้นฉบับทั้งหมด 38 ไฟล์เก็บไว้ใน `data/raw_official/fonts/magma/`
-
----
-
-## 🛠️ รายการคำสั่ง CLI เพิ่มเติม (`src/cli.py`)
-
-- `python src/cli.py extract`: ดึงไฟล์ภาษา 236 ไฟล์และฟอนต์จากตัวเกม
-- `python src/cli.py merge`: อัปเดต/รวมไฟล์แปล JSON โดยคงคำแปลไทยเดิมที่เคยแปลไว้
-- `python src/cli.py compile`: คอมไพล์ไฟล์ JSON ออกมาเป็นไฟล์ `.int`
-- `python src/cli.py build-fonts [--font PATH]`: สร้างฟอนต์ไทย (สามารถระบุไฟล์ `.ttf` เองได้)
-- `python src/cli.py build-umd`: แพ็ก `dynamic-pc.umd`
-- `python src/cli.py stats`: ตรวจสอบสถานะและเปอร์เซ็นต์การแปล
-- `python src/cli.py backup`: สำรองไฟล์เกมเดิม
-- `python src/cli.py install`: นำไฟล์ม็อดไปติดตั้งในเกม
-
----
-
-## 🧪 การทดสอบระบบ (Automated Tests)
-
-สามารถรันชุดการทดสอบทั้งหมดของระบบเพื่อตรวจสอบความถูกต้อง:
-```bash
-python -m unittest discover -s tests -v
-```
-ครอบคลุมการตรวจสอบ CompactIndex roundtrip, INI parser/serializer, PCX delimiter cell detection, JSON translation schema, และ Compiler.
+คำแปลโดย **MennzKTR** — ม็อดชุมชน ใช้ร่วมกับเกมที่ผู้เล่นมีอยู่เอง

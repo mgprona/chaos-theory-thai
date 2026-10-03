@@ -1,77 +1,85 @@
-# Chakra Petch: HarfBuzz offline และ PUA สำหรับเมนู
+# ระบบฟอนต์ไทยและ PUA
 
-ระบบนี้แก้ฟอนต์ **Magma** ที่หน้าเมนูหลัก การตั้งค่า HUD และ OPSAT ใช้
-ไม่ต้องติดตั้ง HarfBuzz ลงในตัวเกม และไม่แก้ executable
+สถานะ **1.0.0-rc1 — 3 ตุลาคม 2026**: Magma 6 ขนาดใช้ Chakra Petch,
+HarfBuzz/FreeType แบบ offline และ catalog **571 กลุ่มอักษร**
+ข้อความกับฟอนต์ถูกบิลด์ร่วมกันและติดตั้งครบแล้ว
+ผู้เล่นใช้ [แพ็กใน Releases](https://github.com/mgprona/chaos-theory-thai/releases/tag/v1.0.0-rc1)
+ไม่ต้องติดตั้งฟอนต์หรือไลบรารีลงระบบ
 
-หลักการและแนวทางดัดแปลงสำหรับเกมอื่นอยู่ใน [คู่มือม็อดฟอนต์ไทย](docs/THAI_FONT_MODDING.md)
+## เกมใช้ฟอนต์สองเส้นทาง
+
+| เส้นทาง | Encoding ของบิลด์ | ไฟล์ |
+| --- | --- | --- |
+| Magma | UTF-16LE พร้อม BOM และ PUA สำหรับข้อความไทย | `.mft` lookup/metrics และ `.tga` atlas |
+| Legacy PCX | CP874 | PCX 5 ไฟล์ใน `Data/Textures/Font` |
+
+Magma ครอบคลุมเมนู HUD/OPSAT ที่ใช้เส้นทางนี้ และไฟล์ภารกิจทั้ง 38 ไฟล์รวม `P_`/co-op
+`config.json` กำหนด `unicode_ui_stems`; ไม่ต้องเพิ่มชื่อด่านทีละรายการ
+รายชื่อข้อความอื่นที่เข้าระบบคือ PreGame_PC, PreGameMenus, HUD, InGameMenus,
+LoadingScreens, System, Equipments และ Training
+
+PUA หมายถึงรหัสใน Unicode Private Use Area ที่เราใช้เรียก bitmap ของกลุ่มอักษรไทย
+ไม่ได้เปลี่ยน JSON ต้นทางเป็นรหัสอ่านไม่ออก: JSON ยังเป็นภาษาไทยปกติ
+ไฟล์ legacy ที่ใช้ PCX จึงไม่จำเป็นต้องแปลงเป็น PUA
 
 ## กระบวนการบิลด์
 
-1. อ่านข้อความไทยจาก JSON ของไฟล์ที่ตรงกับกฎ `unicode_ui_stems` ใน config.json รวม System, Equipments, Training และไฟล์ภารกิจทั้งหมด กฎ `[0-9][0-9]_*` และ `P_[0-9][0-9]_*` ครอบคลุมด่านใหม่โดยไม่ต้องเพิ่มชื่อทีละด่าน (จับคู่แบบไม่สนตัวพิมพ์ใหญ่เล็ก)
-2. ให้ HarfBuzz shape ข้อความไทยทั้งช่วงด้วย Chakra Petch รวม GSUB และ GPOS
-3. แยกผลตาม HarfBuzz cluster เพื่อเก็บพยัญชนะ สระ และวรรณยุกต์ที่ต้องอยู่ด้วยกัน
-4. ใช้ FreeType วาด glyph ID ที่ HarfBuzz เลือก ณ พิกัดที่คำนวณไว้ แล้วรวมเป็น bitmap ของกลุ่มอักษร
-5. จัดกลุ่มอักษรลงช่อง PUA เริ่ม U+E000 ใช้แผนผังเดียวกันสำหรับฟอนต์ทั้งหกขนาด
-6. เพิ่ม glyph record และ sparse Unicode lookup ของ PUA ลงใน MFT
-7. แปลงข้อความในไฟล์ .int เป็น PUA แล้วบันทึก UTF-16LE พร้อม BOM
-8. ก่อนแพ็ก UMD ตรวจข้อความคอมไพล์เทียบกับคำแปล/อังกฤษ fallback ทุกไฟล์ และตรวจ PUA lookup ของฟอนต์ทั้งหกขนาด ถ้าข้อความหาย ไฟล์ขาด glyph หาย หรือ atlas เต็ม บิลด์จะหยุดก่อนติดตั้ง
+1. อ่านคำแปลของไฟล์ที่ตรง `unicode_ui_stems`
+2. ให้ HarfBuzz จัด glyph IDs/positions ตาม GSUB/GPOS ของ Chakra Petch
+3. แยกกลุ่มอักษรและให้ FreeType วาดภาพพร้อมตำแหน่งสระ/วรรณยุกต์
+4. จัดแต่ละกลุ่มลงรหัส PUA เริ่มที่ U+E000 โดยใช้ catalog เดียวกันทุกขนาด
+5. เพิ่ม bitmap, glyph records และ sparse Unicode lookup ใน MFT/atlas
+6. แปลงช่วงภาษาไทยในข้อความเป็นรหัส PUA และเขียน UTF-16LE พร้อม BOM
+7. ตรวจค่าคอมไพล์เทียบคำแปล/แม่แบบและตรวจ glyph lookup ครบทุกขนาดก่อน repack UMD
 
-JSON คำแปลยังเป็นไทยปกติ การแปลงเกิดเฉพาะไฟล์ผลลัพธ์
-เมื่อแก้คำแปลหรือเปลี่ยนฟอนต์ ต้องบิลด์ทั้งข้อความและฟอนต์ใหม่พร้อมกัน
-ห้ามจับคู่ไฟล์ .int เก่ากับ MFT ใหม่ เพราะการจัดรหัส PUA อาจเปลี่ยนตามคลังข้อความ
-แผนผังพร้อม hash ของฟอนต์อยู่ที่ `dist/thai_pua_map.json`
+ฟอนต์ที่สร้าง: **Bios Three Regular 20 / 32 / 48** และ **Prototype Regular 13 / 26 / 36**
+PCX ที่สร้าง: txt_hud, txt_mission, txt_integration, titre_regular_integration และ titre_bold_integration
 
-ตอนนี้ไฟล์ภารกิจ 38 ไฟล์ (รวม P_ และ co-op) ใช้ UTF-16/PUA อยู่แล้ว แม้ยังแปลไม่เสร็จ
-เติม `th` แล้วบิลด์ใหม่ได้เลย ไม่ต้องแก้ config ทีละด่าน การทดสอบจำลองเติมคำแปล Bank ในพื้นที่ชั่วคราว
-ตรวจว่าคำแปลใหม่ถูก shape คอมไพล์ และมี glyph ครบทั้งหกขนาดโดยไม่แก้คำแปลจริง
-การตรวจในเกมยังต้องเก็บตัวแทนของ renderer/ชนิดหน้าจอที่ต่างกัน เช่น ซับไตเติล และตรวจข้อความยาวล้นช่อง
-ไม่จำเป็นต้องเล่นทุกภารกิจซ้ำเพื่อตรวจ encoding และ glyph coverage ซึ่งตรวจอัตโนมัติทุกบิลด์แล้ว
+เมื่อเปลี่ยนคำแปลหรือฟอนต์ ต้องบิลด์ข้อความและฟอนต์ใหม่พร้อมกันเสมอ
+ห้ามผสม `.int` และ `.mft/.tga` จากคนละบิลด์ เพราะ PUA mapping อาจต่างกัน
+แผนผังพร้อม hash ฟอนต์ต้นทางอยู่ที่ `dist/thai_pua_map.json`
 
-## ปัญหาที่แก้
+## การรักษาฟอนต์เดิม
 
-- ฟอนต์เดิมมี lookup เฉพาะ Unicode U+0000–U+00FF จึงไม่มี glyph lookup ภาษาไทย
-- การใช้ CP874 โดยไม่มี BOM ขึ้นอยู่กับการอ่าน ANSI ของเกมและ Windows
-- ตัวสร้างฟอนต์เดิมเขียนทับ atlas หน้าสุดท้าย ทั้งที่ยังมีอักษรอังกฤษ เช่น i และ j อยู่ในหน้านั้น
-- การวาดตัวอักษรทีละตัวพร้อมระยะเดินเท่ากันทำให้สระและวรรณยุกต์ไม่เกาะพยัญชนะ
-- เกมเลือกฟอนต์ขนาดใหญ่ตามความละเอียดจอ การแก้เฉพาะ Bios 20 / Prototype 13 ทำให้เมนูที่ 1920×1080 ยังไม่มีภาพไทย
+ตัวสร้าง Magma เก็บ pixels/metrics ของ glyph ละตินเดิม ปรับ UV ให้ตรง atlas 1024×1024
+แล้วใช้พื้นที่ว่างข้าง/ใต้ภาพเดิมสำหรับ glyph ไทย โดยจัด glyph สูงก่อน
+หาก catalog ใช้พื้นที่มากเกินความจุ ตัวสร้างจะรายงาน overflow ให้แก้ก่อนติดตั้ง
+การเก็บ lookup อย่างเดียวไม่พอ: tests ยังเทียบ pixels กับ glyph IDs/positions จาก HarfBuzz
 
-ตัวสร้างใหม่เก็บภาพอักษรเดิมไว้ ขยาย atlas เป็น 1024×1024 ปรับ UV ของอักษรเดิม
-และเพิ่มภาพไทยในพื้นที่ว่างด้านข้างและใต้ภาพเดิม จัด glyph สูงก่อนเพื่อลดพื้นที่เสียระหว่างแถว
-ไม่ทับภาพอังกฤษและไม่เพิ่มชื่อไฟล์ใหม่ใน UMD
+PCX ใช้ภาพ indexed palette และ delimiter index 255 กำหนดเซลล์ตัวอักษร
+ตัวสร้างวาดอักษรไทยในช่อง CP874 โดยตรวจความกว้างเซลล์และสีที่มองเห็น
 
-## คำสั่ง
+## ตรวจสอบแบบออฟไลน์
 
-```bash
-python -m pip install -r requirements.txt
-python build.py
-python -m unittest discover -s tests -v
-python tools/preview_magma.py
-python src/cli.py install
+RC1 ผ่านการตรวจ **52 ไฟล์ / 8,537 ค่า / 571 PUA clusters / 6 Magma fonts**
+รวม round-trip, BOM, lookup coverage, atlas pixels และ original Latin metrics
+ตรวจฟอนต์ที่ติดตั้งครบ 18 ไฟล์ตรง dist และฟอนต์ Magma ภายใน UMD ตรงกันทั้ง 13 assets
+
+```powershell
+$env:PYTHONIOENCODING = 'utf-8'
+.\.venv\Scripts\python.exe build.py
+.\.venv\Scripts\python.exe -m unittest discover -s tests -v
+.\.venv\Scripts\python.exe tools/validate_translations.py
+.\.venv\Scripts\python.exe tools/preview_magma.py
 ```
 
-ภาพ `dist/magma_thai_pua_preview.png` จำลองการอ่าน MFT/atlas ที่สร้างจริง
-ใช้ตรวจรูปอักษรและ offsets แต่ไม่ใช่ภาพที่จับจากเกม
-การตรวจอัตโนมัติครอบคลุมข้อความไทยที่คอมไพล์ทุกบรรทัด lookup PUA ภาพอักษรเดิม
-และภาพ PUA เทียบกับ glyph IDs/positions จาก HarfBuzz
-ตรวจการโหลด UTF-16/PUA ในเกมจริงเวอร์ชัน 1.05 ที่ 1920×1080 แล้ว:
-เมนูเลือกโหมด เมนูหลัก และหน้าตั้งค่าการแสดงผล การควบคุม ระบบเสียง แสดงไทยได้
-หลักฐานและข้อจำกัดอยู่ที่ [รายงานทดสอบ](out/game-test/REPORT.md)
+preview อ่าน MFT/atlas ที่สร้างจริง แต่ไม่ใช่ screenshot จากเกม
+เครื่องมือและคำสั่งสร้าง ZIP อยู่ใน [คู่มือพัฒนา](docs/DEVELOPMENT.md)
 
-## ขอบเขต
+## ขอบเขตการยืนยัน
 
-ใช้กับข้อความที่บิลด์ไว้ล่วงหน้าและฟอนต์ Magma หกตัว:
-Bios Three Regular 20 / 32 / 48 และ Prototype Regular 13 / 26 / 36
-ข้อความไทยที่ผู้เล่นพิมพ์ขึ้นใหม่ไม่ได้ผ่าน offline shaping
-ฟอนต์ PCX ในเกมยังใช้ระบบเดิม และเนื้อเรื่องที่ช่อง th ว่างยังแสดงอังกฤษ
-ไฟล์ Magma ที่เคยคอมไพล์เป็น CP874 ทำให้ปุ่มยืนยัน ชื่ออุปกรณ์ และข้อความสรุปภารกิจแสดงอักษรละตินเพี้ยน
-จึงเพิ่ม System, Equipments, Training และไฟล์ 00_Training / 01_Lighthouse / 01_Panama / 02_CargoShip
-พร้อมไฟล์ P_ ของแต่ละภารกิจเข้าระบบ UTF-16/PUA โดยไม่แก้ JSON คำแปล
-หลักฐานบิลด์ ติดตั้ง และขอบเขตการตรวจรอบนี้อยู่ที่ [รายงานติดตั้ง](out/game-test/20261001-build-install/REPORT.md)
-ไม่ได้อ้างว่าฟอนต์ทั้งเกมรองรับไทยสมบูรณ์แล้ว
+ผลออฟไลน์ยืนยัน mapping, glyph และข้อความคอมไพล์ครบตามคลัง
+ยังต้องตรวจในเกมว่าแต่ละหน้าจอเลือก renderer/ฟอนต์ตามคาดและจัดวางข้อความพอดี
+ข้อความที่ผู้เล่นพิมพ์เองไม่ผ่าน offline shaping ของแพ็ก
 
-## แหล่งอ้างอิง
+ภาพเมนู/การตั้งค่า/briefing/HUD ที่มีใน `out/game-test/` เป็นหลักฐานของบิลด์ก่อนหน้า
+ยังไม่มีภาพ RC1 ที่ผูกกับ hash นี้ และยังไม่ยืนยันทุกด่าน co-op หรือ save/load ของ RC1
+ดู [สถานะการตรวจสอบล่าสุด](docs/RELEASE_READINESS.md)
 
-- [HarfBuzz: OpenType features / GSUB / GPOS](https://harfbuzz.github.io/shaping-opentype-features.html)
-- [HarfBuzz: clusters และการรวม glyph](https://harfbuzz.github.io/working-with-harfbuzz-clusters.html)
+## อ้างอิง
+
+- [HarfBuzz: OpenType features](https://harfbuzz.github.io/shaping-opentype-features.html)
+- [HarfBuzz: clusters](https://harfbuzz.github.io/working-with-harfbuzz-clusters.html)
 - [FC2MFTConverter: sparse Unicode lookup](https://github.com/eprilx/FC2MFTConverter/blob/master/FC2MFTConverter/MFT/MFTFormat.cs)
-  ใช้อ้างอิงโครงสร้าง lookup เท่านั้น layout ของ glyph record ใน Chaos Theory ต่างจาก Far Cry 2
+  ใช้อ้างอิง lookup; glyph record ของ Chaos Theory ต่างจาก Far Cry 2
+- [คู่มือม็อดฟอนต์ไทยสำหรับเกมเก่า](docs/THAI_FONT_MODDING.md)

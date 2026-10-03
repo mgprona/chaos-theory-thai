@@ -1,0 +1,35 @@
+name: แจ้งปัญหาม็อดภาษาไทย
+description: ข้อความ ฟอนต์ การติดตั้ง หรือการเล่นเกม
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "กรุณาระบุหน้าจอและขั้นตอนที่พบปัญหา ภาพหน้าจอช่วยตรวจฟอนต์และข้อความล้นช่องได้"
+  - type: input
+    id: versions
+    attributes:
+      label: รุ่นม็อดและรุ่นเกม
+      placeholder: "1.0.0-rc1 / Steam 1.05"
+    validations:
+      required: true
+  - type: input
+    id: display
+    attributes:
+      label: ความละเอียดและโหมดจอ
+      placeholder: "1920x1080 / fullscreen / มี WidescreenFix"
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: ด่าน หน้าจอ และขั้นตอนที่พบปัญหา
+      description: ระบุข้อความที่ควรแสดงกับสิ่งที่เกิดขึ้นจริง
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: ภาพหน้าจอและผลจาก Verify.cmd
+      description: แนบภาพได้ในช่องนี้ ถ้าเป็นปัญหาติดตั้งให้แนบข้อความ ERROR
+  - type: textarea
+    id: other_mods
+    attributes:
+      label: ม็อดอื่นหรือสิ่งที่เปลี่ยนก่อนพบปัญหา

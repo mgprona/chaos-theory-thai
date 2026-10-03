@@ -1,0 +1,58 @@
+{
+  "version": "1.0.0-rc1",
+  "date": "2026-10-03",
+  "game": "Steam PC 1.05",
+  "steam_build_id": "252084",
+  "catalog": {
+    "original_int_files": 52,
+    "original_unique_nondummy_keys": 8537,
+    "translation_unique_keys": 8537,
+    "dummy_null_entries_excluded": 1115,
+    "missing_from_translation": 0,
+    "extra_translation_keys": 0,
+    "missing_nonblank_thai_values": 0,
+    "scope": "All .int entries in pristine dynamic-pc.umd; excludes dummy (null) entries",
+    "runtime_rendering_verified": false
+  },
+  "font_validation": {
+    "result": "PASS",
+    "pcx_font_files": 5,
+    "magma_font_files": 13,
+    "magma_sizes": 6,
+    "loose_font_hashes_match_latest_build": 18,
+    "magma_umd_font_hashes_match_latest_build": 13,
+    "umd_matches_release": true
+  },
+  "live_installation": {
+    "result": "PASS",
+    "installed_files_verified": 73,
+    "source_translation_files_verified": 33,
+    "protected_exe_ini_files_unchanged": 25,
+    "original_umd_backup_unchanged": true,
+    "umd_sha256": "46645dffe3a28e4104291cb15233ec0d24a22f72bb11f571318a0be7c9ed6e4d",
+    "runtime_rendering_verified": false
+  },
+  "test_suite": {
+    "passed": 46,
+    "toolchain": 38,
+    "windows_installer": 8
+  },
+  "fixture_validation": {
+    "installed_files_verified": 73,
+    "preinstall_fixture_files_restored": 102,
+    "umd_matches_dist_exactly": true,
+    "repeat_install_uninstall_passed": true
+  },
+  "archive_validation": {
+    "entries": 20252,
+    "replacement_assets_verified": 65,
+    "unchanged_nonreplacement_payloads": 20187
+  },
+  "runtime": {
+    "current_rc_screenshots_verified": false,
+    "all_missions_verified": false,
+    "coop_network_verified": false,
+    "save_load_verified": false,
+    "note": "Existing screenshots document earlier builds only."
+  }
+}
